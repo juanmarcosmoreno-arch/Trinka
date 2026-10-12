@@ -1,0 +1,10 @@
+// Shared build settings for TRINKA's app targets.
+// Override values locally in Config/Secrets.xcconfig (git-ignored), e.g.:
+//   NCBI_CONTACT_EMAIL = you@example.com
+//   NCBI_API_KEY = ...
+//   DEVELOPMENT_TEAM = ABCDE12345
+
+NCBI_CONTACT_EMAIL =
+NCBI_API_KEY =
+
+#include? "Secrets.xcconfig"

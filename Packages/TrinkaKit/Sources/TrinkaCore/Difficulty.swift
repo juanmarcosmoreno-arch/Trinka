@@ -42,3 +42,21 @@ public enum AppLanguage: String, CaseIterable, Codable, Hashable, Identifiable, 
         return .en
     }
 }
+
+/// Light/dark appearance preference. `system` follows the device setting.
+public enum AppearanceMode: String, CaseIterable, Codable, Hashable, Identifiable, Sendable {
+    case system
+    case light
+    case dark
+
+    public var id: String { rawValue }
+    public var localizationKey: String { "appearance.\(rawValue)" }
+
+    public var symbolName: String {
+        switch self {
+        case .system: "circle.lefthalf.filled"
+        case .light: "sun.max"
+        case .dark: "moon"
+        }
+    }
+}

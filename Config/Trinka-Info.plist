@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Merged with the keys Xcode generates from build settings (INFOPLIST_KEY_*). -->
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>es</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.trinka.app.challenge</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>trinka</string>
+			</array>
+		</dict>
+	</array>
+	<!-- NCBI asks E-utilities clients to send a contact e-mail. Set it per build in Config/Secrets.xcconfig. -->
+	<key>NCBIContactEmail</key>
+	<string>$(NCBI_CONTACT_EMAIL)</string>
+	<!-- Optional NCBI API key (raises the rate limit to 10 req/s). Not an AI credential. -->
+	<key>NCBIAPIKey</key>
+	<string>$(NCBI_API_KEY)</string>
+</dict>
+</plist>

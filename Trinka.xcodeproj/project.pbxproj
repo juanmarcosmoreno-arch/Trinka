@@ -1,0 +1,538 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7A8000000000000000000190 /* TrinkaCore in Frameworks */ = {isa = PBXBuildFile; productRef = 7A70000000000000000000E0 /* TrinkaCore */; };
+		7A80000000000000000001A0 /* TrinkaPubMed in Frameworks */ = {isa = PBXBuildFile; productRef = 7A70000000000000000000F0 /* TrinkaPubMed */; };
+		7A80000000000000000001B0 /* TrinkaQuiz in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7000000000000000000100 /* TrinkaQuiz */; };
+		7A80000000000000000001C0 /* TrinkaPersistence in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7000000000000000000110 /* TrinkaPersistence */; };
+		7A80000000000000000001D0 /* TrinkaSync in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7000000000000000000120 /* TrinkaSync */; };
+		7A80000000000000000001E0 /* TrinkaUI in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7000000000000000000130 /* TrinkaUI */; };
+		7A81000000000000000001F0 /* TrinkaCore in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7100000000000000000140 /* TrinkaCore */; };
+		7A8100000000000000000200 /* TrinkaQuiz in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7100000000000000000150 /* TrinkaQuiz */; };
+		7A8100000000000000000210 /* TrinkaPersistence in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7100000000000000000160 /* TrinkaPersistence */; };
+		7A8100000000000000000220 /* TrinkaSync in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7100000000000000000170 /* TrinkaSync */; };
+		7A8100000000000000000230 /* TrinkaUI in Frameworks */ = {isa = PBXBuildFile; productRef = 7A7100000000000000000180 /* TrinkaUI */; };
+		7A8200000000000000000240 /* TrinkaWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 7A4000000000000000000070 /* TrinkaWatch.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7AA0000000000000000002C0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7A1000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7A50000000000000000000C0;
+			remoteInfo = TrinkaWatch;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		7A9000000000000000000280 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				7A8200000000000000000240 /* TrinkaWatch.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		7A4000000000000000000060 /* Trinka.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trinka.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A4000000000000000000070 /* TrinkaWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrinkaWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A4000000000000000000080 /* Shared.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Shared.xcconfig; sourceTree = "<group>"; };
+		7A4000000000000000000090 /* Trinka-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Trinka-Info.plist"; sourceTree = "<group>"; };
+		7A40000000000000000000A0 /* TrinkaWatch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrinkaWatch-Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		7A3000000000000000000040 /* Trinka */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Trinka;
+			sourceTree = "<group>";
+		};
+		7A3000000000000000000050 /* TrinkaWatch */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TrinkaWatch;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7A9000000000000000000260 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A8000000000000000000190 /* TrinkaCore in Frameworks */,
+				7A80000000000000000001A0 /* TrinkaPubMed in Frameworks */,
+				7A80000000000000000001B0 /* TrinkaQuiz in Frameworks */,
+				7A80000000000000000001C0 /* TrinkaPersistence in Frameworks */,
+				7A80000000000000000001D0 /* TrinkaSync in Frameworks */,
+				7A80000000000000000001E0 /* TrinkaUI in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A90000000000000000002A0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A81000000000000000001F0 /* TrinkaCore in Frameworks */,
+				7A8100000000000000000200 /* TrinkaQuiz in Frameworks */,
+				7A8100000000000000000210 /* TrinkaPersistence in Frameworks */,
+				7A8100000000000000000220 /* TrinkaSync in Frameworks */,
+				7A8100000000000000000230 /* TrinkaUI in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7A2000000000000000000010 = {
+			isa = PBXGroup;
+			children = (
+				7A3000000000000000000040 /* Trinka */,
+				7A3000000000000000000050 /* TrinkaWatch */,
+				7A2000000000000000000030 /* Config */,
+				7A2000000000000000000020 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7A2000000000000000000030 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				7A4000000000000000000080 /* Shared.xcconfig */,
+				7A4000000000000000000090 /* Trinka-Info.plist */,
+				7A40000000000000000000A0 /* TrinkaWatch-Info.plist */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		7A2000000000000000000020 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7A4000000000000000000060 /* Trinka.app */,
+				7A4000000000000000000070 /* TrinkaWatch.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7A50000000000000000000B0 /* Trinka */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7AB0000000000000000002F0 /* Build configuration list for PBXNativeTarget "Trinka" */;
+			buildPhases = (
+				7A9000000000000000000250 /* Sources */,
+				7A9000000000000000000260 /* Frameworks */,
+				7A9000000000000000000270 /* Resources */,
+				7A9000000000000000000280 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7AA0000000000000000002D0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				7A3000000000000000000040 /* Trinka */,
+			);
+			name = Trinka;
+			packageProductDependencies = (
+				7A70000000000000000000E0 /* TrinkaCore */,
+				7A70000000000000000000F0 /* TrinkaPubMed */,
+				7A7000000000000000000100 /* TrinkaQuiz */,
+				7A7000000000000000000110 /* TrinkaPersistence */,
+				7A7000000000000000000120 /* TrinkaSync */,
+				7A7000000000000000000130 /* TrinkaUI */,
+			);
+			productName = Trinka;
+			productReference = 7A4000000000000000000060 /* Trinka.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7A50000000000000000000C0 /* TrinkaWatch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7AB000000000000000000300 /* Build configuration list for PBXNativeTarget "TrinkaWatch" */;
+			buildPhases = (
+				7A9000000000000000000290 /* Sources */,
+				7A90000000000000000002A0 /* Frameworks */,
+				7A90000000000000000002B0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				7A3000000000000000000050 /* TrinkaWatch */,
+			);
+			name = TrinkaWatch;
+			packageProductDependencies = (
+				7A7100000000000000000140 /* TrinkaCore */,
+				7A7100000000000000000150 /* TrinkaQuiz */,
+				7A7100000000000000000160 /* TrinkaPersistence */,
+				7A7100000000000000000170 /* TrinkaSync */,
+				7A7100000000000000000180 /* TrinkaUI */,
+			);
+			productName = TrinkaWatch;
+			productReference = 7A4000000000000000000070 /* TrinkaWatch.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7A1000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					7A50000000000000000000B0 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					7A50000000000000000000C0 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+				};
+			};
+			buildConfigurationList = 7AB0000000000000000002E0 /* Build configuration list for PBXProject "Trinka" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				es,
+				Base,
+			);
+			mainGroup = 7A2000000000000000000010;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 7A2000000000000000000020 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7A50000000000000000000B0 /* Trinka */,
+				7A50000000000000000000C0 /* TrinkaWatch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7A9000000000000000000270 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A90000000000000000002B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7A9000000000000000000250 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A9000000000000000000290 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7AA0000000000000000002D0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7A50000000000000000000C0 /* TrinkaWatch */;
+			targetProxy = 7AA0000000000000000002C0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		7AC000000000000000000310 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				WATCHOS_DEPLOYMENT_TARGET = "10.0";
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_FAST_MATH = YES;
+				SWIFT_VERSION = "5.0";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7AC000000000000000000320 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				WATCHOS_DEPLOYMENT_TARGET = "10.0";
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_FAST_MATH = YES;
+				SWIFT_VERSION = "5.0";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7AC000000000000000000330 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7A4000000000000000000080 /* Shared.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Config/Trinka-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = TRINKA;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = "0.1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trinka.app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7AC000000000000000000340 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7A4000000000000000000080 /* Shared.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Config/Trinka-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = TRINKA;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = "0.1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trinka.app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		7AC000000000000000000350 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7A4000000000000000000080 /* Shared.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Config/TrinkaWatch-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = TRINKA;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "com.trinka.app";
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = NO;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = "0.1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trinka.app.watchkitapp";
+				PRODUCT_NAME = TrinkaWatch;
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+			};
+			name = Debug;
+		};
+		7AC000000000000000000360 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7A4000000000000000000080 /* Shared.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Config/TrinkaWatch-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = TRINKA;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "com.trinka.app";
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = NO;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = "0.1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trinka.app.watchkitapp";
+				PRODUCT_NAME = TrinkaWatch;
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = 4;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7AB0000000000000000002E0 /* Build configuration list for PBXProject "Trinka" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AC000000000000000000310 /* Debug */,
+				7AC000000000000000000320 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7AB0000000000000000002F0 /* Build configuration list for PBXNativeTarget "Trinka" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AC000000000000000000330 /* Debug */,
+				7AC000000000000000000340 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7AB000000000000000000300 /* Build configuration list for PBXNativeTarget "TrinkaWatch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AC000000000000000000350 /* Debug */,
+				7AC000000000000000000360 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/TrinkaKit;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		7A70000000000000000000E0 /* TrinkaCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaCore;
+		};
+		7A70000000000000000000F0 /* TrinkaPubMed */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaPubMed;
+		};
+		7A7000000000000000000100 /* TrinkaQuiz */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaQuiz;
+		};
+		7A7000000000000000000110 /* TrinkaPersistence */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaPersistence;
+		};
+		7A7000000000000000000120 /* TrinkaSync */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaSync;
+		};
+		7A7000000000000000000130 /* TrinkaUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaUI;
+		};
+		7A7100000000000000000140 /* TrinkaCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaCore;
+		};
+		7A7100000000000000000150 /* TrinkaQuiz */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaQuiz;
+		};
+		7A7100000000000000000160 /* TrinkaPersistence */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaPersistence;
+		};
+		7A7100000000000000000170 /* TrinkaSync */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaSync;
+		};
+		7A7100000000000000000180 /* TrinkaUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7A60000000000000000000D0 /* XCLocalSwiftPackageReference "Packages/TrinkaKit" */;
+			productName = TrinkaUI;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 7A1000000000000000000001 /* Project object */;
+}

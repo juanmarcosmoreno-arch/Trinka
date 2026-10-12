@@ -63,6 +63,10 @@ public struct StaticQuestionBank: QuestionBank {
 /// Every seed question cites a real PubMed article retrieved through NCBI E-utilities,
 /// and stores a verbatim excerpt of its abstract supporting the correct answer.
 public enum SeedQuestionBank {
+    /// Bump whenever `SeedQuestions.json` changes which questions exist, so friend-challenge
+    /// codes created with an older bank are rejected instead of loading different questions.
+    public static let version = 1
+
     public enum LoadError: Error {
         case resourceMissing
         case unknownArticle(pmid: String, questionID: String)

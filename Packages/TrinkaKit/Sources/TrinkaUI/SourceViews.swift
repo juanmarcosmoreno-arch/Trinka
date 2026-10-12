@@ -1,0 +1,133 @@
+import SwiftUI
+import TrinkaCore
+
+/// Bibliographic reference card with links to PubMed and the publisher (DOI).
+public struct SourceReferenceView: View {
+    let article: ArticleReference
+    var supportingExcerpt: String?
+    var onOpen: (ArticleReference) -> Void
+
+    @Environment(\.openURL) private var openURL
+
+    public init(article: ArticleReference, supportingExcerpt: String? = nil, onOpen: @escaping (ArticleReference) -> Void = { _ in }) {
+        self.article = article
+        self.supportingExcerpt = supportingExcerpt
+        self.onOpen = onOpen
+    }
+
+    public var body: some View {
+        VStack(alignment: .leading, spacing: Theme.Spacing.m) {
+            Label(L10n.tr("source.title"), systemImage: "doc.text.magnifyingglass")
+                .font(.footnote.weight(.semibold))
+                .foregroundStyle(Theme.accent)
+
+            Text(article.title)
+                .font(.subheadline.weight(.semibold))
+                .foregroundStyle(Theme.textPrimary)
+                .fixedSize(horizontal: false, vertical: true)
+
+            Text("\(article.shortAuthorList) · \(article.journal) · \(String(article.year))")
+                .font(.footnote)
+                .foregroundStyle(Theme.textSecondary)
+
+            if let supportingExcerpt, !supportingExcerpt.isEmpty {
+                VStack(alignment: .leading, spacing: Theme.Spacing.xs) {
+                    Text(L10n.tr("source.excerpt"))
+                        .font(.caption.weight(.semibold))
+                        .foregroundStyle(Theme.textSecondary)
+                    Text("“\(supportingExcerpt)”")
+                        .font(.footnote.italic())
+                        .foregroundStyle(Theme.textPrimary)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+                .padding(Theme.Spacing.m)
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .background(Theme.surfaceMuted, in: RoundedRectangle(cornerRadius: Theme.Radius.small, style: .continuous))
+                .accessibilityElement(children: .combine)
+            }
+
+            HStack(spacing: Theme.Spacing.s) {
+                Button {
+                    onOpen(article)
+                    openURL(article.pubMedURL)
+                } label: {
+                    Label(L10n.tr("source.openPubMed"), systemImage: "arrow.up.right.square")
+                }
+                .buttonStyle(.trinkaSecondary)
+
+                if let doiURL = article.doiURL {
+                    Button {
+                        onOpen(article)
+                        openURL(doiURL)
+                    } label: {
+                        Label(L10n.tr("source.openDOI"), systemImage: "link")
+                    }
+                    .buttonStyle(.trinkaSecondary)
+                }
+            }
+
+            Text("PMID \(article.pmid)" + (article.doi.map { " · DOI \($0)" } ?? ""))
+                .font(.caption2.monospaced())
+                .foregroundStyle(Theme.textSecondary)
+                #if !os(watchOS)
+                .textSelection(.enabled)
+                #endif
+        }
+        .trinkaCard()
+    }
+}
+
+/// Labels the strength of evidence so a single study is never read as consensus.
+public struct EvidenceBadge: View {
+    let kind: EvidenceKind
+
+    public init(_ kind: EvidenceKind) {
+        self.kind = kind
+    }
+
+    public var body: some View {
+        Label(L10n.tr(kind.localizationKey), systemImage: symbol)
+            .font(.caption.weight(.semibold))
+            .padding(.horizontal, Theme.Spacing.s)
+            .padding(.vertical, Theme.Spacing.xs)
+            .foregroundStyle(tint)
+            .background(tint.opacity(0.12), in: Capsule())
+    }
+
+    private var symbol: String {
+        switch kind {
+        case .singleStudy: "flask"
+        case .narrativeReview: "text.book.closed"
+        case .evidenceSynthesis: "square.stack.3d.up"
+        }
+    }
+
+    private var tint: Color {
+        switch kind {
+        case .singleStudy: Theme.Brand.lagoon
+        case .narrativeReview: Theme.textSecondary
+        case .evidenceSynthesis: Theme.success
+        }
+    }
+}
+
+/// Explains what the evidence label means.
+public struct EvidenceNote: View {
+    let kind: EvidenceKind
+
+    public init(_ kind: EvidenceKind) {
+        self.kind = kind
+    }
+
+    public var body: some View {
+        HStack(alignment: .top, spacing: Theme.Spacing.s) {
+            Image(systemName: "info.circle")
+                .foregroundStyle(Theme.textSecondary)
+            Text(L10n.tr(kind.localizationKey + ".note"))
+                .font(.footnote)
+                .foregroundStyle(Theme.textSecondary)
+                .fixedSize(horizontal: false, vertical: true)
+        }
+        .accessibilityElement(children: .combine)
+    }
+}

@@ -7,3 +7,4 @@ xcuserdata/
 *.xcuserstate
 *.xcscmblueprint
 Packages/TrinkaKit/Package.resolved
+Config/Secrets.xcconfig

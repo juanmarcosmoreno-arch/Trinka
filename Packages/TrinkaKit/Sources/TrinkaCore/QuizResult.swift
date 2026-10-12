@@ -48,6 +48,8 @@ public enum SessionKind: String, Codable, Hashable, Sendable {
     case explore
     /// The Apple Watch Quick Quiz.
     case quick
+    /// A friend challenge started from a shared code.
+    case challenge
 }
 
 /// Summary of a finished quiz, shared between devices and stored locally.

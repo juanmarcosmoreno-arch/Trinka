@@ -131,3 +131,70 @@ final class QuizEngineTests: XCTestCase {
         XCTAssertNil(engine.currentQuestion)
     }
 }
+
+final class FriendChallengeTests: XCTestCase {
+    func testCodeRoundTrip() throws {
+        for category in [nil] + ScienceCategory.allCases.map(Optional.some) {
+            for difficulty in [nil] + Difficulty.allCases.map(Optional.some) {
+                let code = ChallengeCode(bankVersion: 1, category: category, difficulty: difficulty, questionCount: 5, seed: 0x7F_FFFF)
+                XCTAssertTrue(code.code.hasPrefix("TRK-"))
+                XCTAssertEqual(code.code.count, 15)
+                XCTAssertEqual(ChallengeCode(code.code), code)
+            }
+        }
+    }
+
+    func testParsingIsForgivingButCatchesTypos() throws {
+        let code = ChallengeCode(bankVersion: 1, category: .genetics, difficulty: .explorer, questionCount: 3, seed: 12345)
+        let text = code.code
+        XCTAssertEqual(ChallengeCode(text.lowercased().replacingOccurrences(of: "-", with: " ")), code)
+        XCTAssertEqual(ChallengeCode(String(text.dropFirst(4))), code)
+
+        var corrupted = Array(text)
+        corrupted[6] = corrupted[6] == "Z" ? "Y" : "Z"
+        XCTAssertNil(ChallengeCode(String(corrupted)))
+        XCTAssertNil(ChallengeCode("TRK-12345"))
+    }
+
+    func testFriendsGetTheSameQuestionsInTheirLanguage() throws {
+        let bank = try SeedQuestionBank.load()
+        let code = ChallengeCode.random(bankVersion: SeedQuestionBank.version, category: nil, difficulty: nil, questionCount: 5)
+        let english = code.questions(from: bank, bankVersion: SeedQuestionBank.version, language: .en)
+        let spanish = code.questions(from: bank, bankVersion: SeedQuestionBank.version, language: .es)
+        XCTAssertEqual(english.count, 5)
+        XCTAssertEqual(english.map(\.translationKey), spanish.map(\.translationKey))
+        XCTAssertTrue(spanish.allSatisfy { $0.language == .es })
+        XCTAssertEqual(english.map(\.id), code.questions(from: bank, bankVersion: SeedQuestionBank.version, language: .en).map(\.id))
+        XCTAssertTrue(code.questions(from: bank, bankVersion: SeedQuestionBank.version + 1, language: .en).isEmpty)
+    }
+
+    func testLinksRoundTrip() throws {
+        let code = ChallengeCode(bankVersion: 1, category: .nutrition, difficulty: nil, questionCount: 3, seed: 99)
+        XCTAssertEqual(FriendLink(url: code.inviteURL(title: "Lab group")), .challenge(code, title: "Lab group"))
+
+        let entry = ChallengeEntry(playerName: "Ana María", correct: 2, total: 3, duration: 41,
+                                   playedAt: Date(timeIntervalSince1970: 1_760_000_000), isLocalPlayer: true)
+        guard case let .result(parsedCode, parsed) = FriendLink(url: entry.resultURL(for: code)) else {
+            return XCTFail("Result link not parsed")
+        }
+        XCTAssertEqual(parsedCode, code)
+        XCTAssertEqual(parsed.playerName, "Ana María")
+        XCTAssertEqual(parsed.correct, 2)
+        XCTAssertEqual(parsed.duration, 41)
+        XCTAssertFalse(parsed.isLocalPlayer, "Received results are never the local player")
+
+        XCTAssertNil(FriendLink(url: URL(string: "trinka://result?code=\(code.code)&name=X&correct=9&total=3&seconds=1")!))
+        XCTAssertNil(FriendLink(url: URL(string: "https://example.com/challenge?code=\(code.code)")!))
+    }
+
+    func testLeaderboardRanksByCorrectThenTimeAndKeepsBestAttempt() {
+        let base = Date(timeIntervalSince1970: 0)
+        let entries = [
+            ChallengeEntry(playerName: "Ana", correct: 4, total: 5, duration: 90, playedAt: base, isLocalPlayer: false),
+            ChallengeEntry(playerName: "ana", correct: 5, total: 5, duration: 120, playedAt: base, isLocalPlayer: false),
+            ChallengeEntry(playerName: "Leo", correct: 5, total: 5, duration: 60, playedAt: base, isLocalPlayer: false),
+            ChallengeEntry(playerName: "Me", correct: 3, total: 5, duration: 30, playedAt: base, isLocalPlayer: true),
+        ]
+        XCTAssertEqual(Leaderboard.ranked(entries).map(\.playerName), ["Leo", "ana", "Me"])
+    }
+}
