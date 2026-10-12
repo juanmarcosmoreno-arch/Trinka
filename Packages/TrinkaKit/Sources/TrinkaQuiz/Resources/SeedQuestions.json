@@ -1,0 +1,2366 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-12T00:00:00Z",
+ "articles": [
+  {
+   "pmid": "17379808",
+   "title": "CRISPR provides acquired resistance against viruses in prokaryotes.",
+   "authors": [
+    "Barrangou R",
+    "Fremaux C",
+    "Deveau H",
+    "Richards M",
+    "Boyaval P",
+    "Moineau S",
+    "Romero DA",
+    "Horvath P"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2007,
+   "doi": "10.1126/science.1138140",
+   "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR) are a distinctive feature of the genomes of most Bacteria and Archaea and are thought to be involved in resistance to bacteriophages. We found that, after viral challenge, bacteria integrated new spacers derived from phage genomic sequences. Removal or addition of particular spacers modified the phage-resistance phenotype of the cell. Thus, CRISPR, together with associated cas genes, provided resistance against phages, and resistance specificity is determined by spacer-phage sequence similarity.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22699609",
+   "title": "Structure, function and diversity of the healthy human microbiome.",
+   "authors": [
+    "Human Microbiome Project Consortium"
+   ],
+   "journal": "Nature",
+   "year": 2012,
+   "doi": "10.1038/nature11234",
+   "abstract": "Studies of the human microbiome have revealed that even healthy individuals differ remarkably in the microbes that occupy habitats such as the gut, skin and vagina. Much of this diversity remains unexplained, although diet, environment, host genetics and early microbial exposure have all been implicated. Accordingly, to characterize the ecology of human-associated microbial communities, the Human Microbiome Project has analysed the largest cohort and set of distinct, clinically relevant body habitats so far. We found the diversity and abundance of each habitat's signature microbes to vary widely even among healthy subjects, with strong niche specialization both within and among individuals. The project encountered an estimated 81-99% of the genera, enzyme families and community configurations occupied by the healthy Western microbiome. Metagenomic carriage of metabolic pathways was stable among individuals despite variation in community structure, and ethnic/racial background proved to be one of the strongest associations of both pathways and microbes with clinical metadata. These results thus delineate the range of structural and functional configurations normal in the microbial communities of a healthy population, enabling future characterization of the epidemiology, ecology and translational applications of the human microbiome.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "25561178",
+   "title": "A new antibiotic kills pathogens without detectable resistance.",
+   "authors": [
+    "Ling LL",
+    "Schneider T",
+    "Peoples AJ",
+    "Spoering AL",
+    "Engels I",
+    "Conlon BP",
+    "Mueller A",
+    "Schäberle TF",
+    "Hughes DE",
+    "Epstein S",
+    "Jones M",
+    "Lazarides L",
+    "Steadman VA",
+    "Cohen DR",
+    "Felix CR",
+    "Fetterman KA",
+    "Millett WP",
+    "Nitti AG",
+    "Zullo AM",
+    "Chen C",
+    "Lewis K"
+   ],
+   "journal": "Nature",
+   "year": 2015,
+   "doi": "10.1038/nature14098",
+   "abstract": "Antibiotic resistance is spreading faster than the introduction of new compounds into clinical practice, causing a public health crisis. Most antibiotics were produced by screening soil microorganisms, but this limited resource of cultivable bacteria was overmined by the 1960s. Synthetic approaches to produce antibiotics have been unable to replace this platform. Uncultured bacteria make up approximately 99% of all species in external environments, and are an untapped source of new antibiotics. We developed several methods to grow uncultured organisms by cultivation in situ or by using specific growth factors. Here we report a new antibiotic that we term teixobactin, discovered in a screen of uncultured bacteria. Teixobactin inhibits cell wall synthesis by binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III (precursor of cell wall teichoic acid). We did not obtain any mutants of Staphylococcus aureus or Mycobacterium tuberculosis resistant to teixobactin. The properties of this compound suggest a path towards developing antibiotics that are likely to avoid development of resistance.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7636184",
+   "title": "Immunologic self-tolerance maintained by activated T cells expressing IL-2 receptor alpha-chains (CD25). Breakdown of a single mechanism of self-tolerance causes various autoimmune diseases.",
+   "authors": [
+    "Sakaguchi S",
+    "Sakaguchi N",
+    "Asano M",
+    "Itoh M",
+    "Toda M"
+   ],
+   "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+   "year": 1995,
+   "doi": null,
+   "abstract": "Approximately 10% of peripheral CD4+ cells and less than 1% of CD8+ cells in normal unimmunized adult mice express the IL-2 receptor alpha-chain (CD25) molecules. When CD4+ cell suspensions prepared from BALB/c nu/+ mice lymph nodes and spleens were depleted of CD25+ cells by specific mAb and C, and then inoculated into BALB/c athymic nude (nu/nu) mice, all recipients spontaneously developed histologically and serologically evident autoimmune diseases (such as thyroiditis, gastritis, insulitis, sialoadenitis, adrenalitis, oophoritis, glomerulonephritis, and polyarthritis); some mice also developed graft-vs-host-like wasting disease. Reconstitution of CD4+CD25+ cells within a limited period after transfer of CD4+CD25- cells prevented these autoimmune developments in a dose-dependent fashion, whereas the reconstitution several days later, or inoculation of an equivalent dose of CD8+ cells, was far less efficient for the prevention. When nu/nu mice were transplanted with allogeneic skins or immunized with xenogeneic proteins at the time of CD25- cell inoculation, they showed significantly heightened immune responses to the skins or proteins, and reconstitution of CD4+CD25+ cells normalized the responses. Taken together, these results indicate that CD4+CD25+ cells contribute to maintaining self-tolerance by down-regulating immune response to self and non-self Ags in an Ag-nonspecific manner, presumably at the T cell activation stage; elimination/reduction of CD4+CD25+ cells relieves this general suppression, thereby not only enhancing immune responses to non-self Ags, but also eliciting autoimmune responses to certain self-Ags. Abnormality of this T cell-mediated mechanism of peripheral tolerance can be a possible cause of various autoimmune diseases.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8596936",
+   "title": "Enhancement of antitumor immunity by CTLA-4 blockade.",
+   "authors": [
+    "Leach DR",
+    "Krummel MF",
+    "Allison JP"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 1996,
+   "doi": "10.1126/science.271.5256.1734",
+   "abstract": "One reason for the poor immunogenicity of many tumors may be that they cannot provide signals for CD28-mediated costimulation necessary to fully activate T cells. It has recently become apparent that CTLA-4, a second counterreceptor for the B7 family of costimulatory molecules, is a negative regulator of T cell activation. Here, in vivo administration of antibodies to CTLA-4 resulted in the rejection of tumors, including preestablished tumors. Furthermore, this rejection resulted in immunity to a secondary exposure to tumor cells. These results suggest that blockade of the inhibitory effects of CTLA-4 can allow for, and potentiate, effective immune responses against tumor cells.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "33301246",
+   "title": "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine.",
+   "authors": [
+    "Polack FP",
+    "Thomas SJ",
+    "Kitchin N",
+    "Absalon J",
+    "Gurtman A",
+    "Lockhart S",
+    "Perez JL",
+    "Pérez Marc G",
+    "Moreira ED",
+    "Zerbini C",
+    "Bailey R",
+    "Swanson KA",
+    "Roychoudhury S",
+    "Koury K",
+    "Li P",
+    "Kalina WV",
+    "Cooper D",
+    "Frenck RW",
+    "Hammitt LL",
+    "Türeci Ö",
+    "Nell H",
+    "Schaefer A",
+    "Ünal S",
+    "Tresnan DB",
+    "Mather S",
+    "Dormitzer PR",
+    "Şahin U",
+    "Jansen KU",
+    "Gruber WC",
+    "C4591001 Clinical Trial Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2020,
+   "doi": "10.1056/NEJMoa2034577",
+   "abstract": "BACKGROUND: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and the resulting coronavirus disease 2019 (Covid-19) have afflicted tens of millions of people in a worldwide pandemic. Safe and effective vaccines are needed urgently.\nMETHODS: In an ongoing multinational, placebo-controlled, observer-blinded, pivotal efficacy trial, we randomly assigned persons 16 years of age or older in a 1:1 ratio to receive two doses, 21 days apart, of either placebo or the BNT162b2 vaccine candidate (30 μg per dose). BNT162b2 is a lipid nanoparticle-formulated, nucleoside-modified RNA vaccine that encodes a prefusion stabilized, membrane-anchored SARS-CoV-2 full-length spike protein. The primary end points were efficacy of the vaccine against laboratory-confirmed Covid-19 and safety.\nRESULTS: A total of 43,548 participants underwent randomization, of whom 43,448 received injections: 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among those assigned to placebo; BNT162b2 was 95% effective in preventing Covid-19 (95% credible interval, 90.3 to 97.6). Similar vaccine efficacy (generally 90 to 100%) was observed across subgroups defined by age, sex, race, ethnicity, baseline body-mass index, and the presence of coexisting conditions. Among 10 cases of severe Covid-19 with onset after the first dose, 9 occurred in placebo recipients and 1 in a BNT162b2 recipient. The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.\nCONCLUSIONS: A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older. Safety over a median of 2 months was similar to that of other viral vaccines. (Funded by BioNTech and Pfizer; ClinicalTrials.gov number, NCT04368728.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase II",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22745249",
+   "title": "A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity.",
+   "authors": [
+    "Jinek M",
+    "Chylinski K",
+    "Fonfara I",
+    "Hauer M",
+    "Doudna JA",
+    "Charpentier E"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2012,
+   "doi": "10.1126/science.1225829",
+   "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated (Cas) systems provide bacteria and archaea with adaptive immunity against viruses and plasmids by using CRISPR RNAs (crRNAs) to guide the silencing of invading nucleic acids. We show here that in a subset of these systems, the mature crRNA that is base-paired to trans-activating crRNA (tracrRNA) forms a two-RNA structure that directs the CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in target DNA. At sites complementary to the crRNA-guide sequence, the Cas9 HNH nuclease domain cleaves the complementary strand, whereas the Cas9 RuvC-like domain cleaves the noncomplementary strand. The dual-tracrRNA:crRNA, when engineered as a single RNA chimera, also directs sequence-specific Cas9 dsDNA cleavage. Our study reveals a family of endonucleases that use dual-RNAs for site-specific DNA cleavage and highlights the potential to exploit the system for RNA-programmable genome editing.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35357919",
+   "title": "The complete sequence of a human genome.",
+   "authors": [
+    "Nurk S",
+    "Koren S",
+    "Rhie A",
+    "Rautiainen M",
+    "Bzikadze AV",
+    "Mikheenko A",
+    "Vollger MR",
+    "Altemose N",
+    "Uralsky L",
+    "Gershman A",
+    "Aganezov S",
+    "Hoyt SJ",
+    "Diekhans M",
+    "Logsdon GA",
+    "Alonge M",
+    "Antonarakis SE",
+    "Borchers M",
+    "Bouffard GG",
+    "Brooks SY",
+    "Caldas GV",
+    "Chen NC",
+    "Cheng H",
+    "Chin CS",
+    "Chow W",
+    "de Lima LG",
+    "Dishuck PC",
+    "Durbin R",
+    "Dvorkina T",
+    "Fiddes IT",
+    "Formenti G",
+    "Fulton RS",
+    "Fungtammasan A",
+    "Garrison E",
+    "Grady PGS",
+    "Graves-Lindsay TA",
+    "Hall IM",
+    "Hansen NF",
+    "Hartley GA",
+    "Haukness M",
+    "Howe K",
+    "Hunkapiller MW",
+    "Jain C",
+    "Jain M",
+    "Jarvis ED",
+    "Kerpedjiev P",
+    "Kirsche M",
+    "Kolmogorov M",
+    "Korlach J",
+    "Kremitzki M",
+    "Li H",
+    "Maduro VV",
+    "Marschall T",
+    "McCartney AM",
+    "McDaniel J",
+    "Miller DE",
+    "Mullikin JC",
+    "Myers EW",
+    "Olson ND",
+    "Paten B",
+    "Peluso P",
+    "Pevzner PA",
+    "Porubsky D",
+    "Potapova T",
+    "Rogaev EI",
+    "Rosenfeld JA",
+    "Salzberg SL",
+    "Schneider VA",
+    "Sedlazeck FJ",
+    "Shafin K",
+    "Shew CJ",
+    "Shumate A",
+    "Sims Y",
+    "Smit AFA",
+    "Soto DC",
+    "Sović I",
+    "Storer JM",
+    "Streets A",
+    "Sullivan BA",
+    "Thibaud-Nissen F",
+    "Torrance J",
+    "Wagner J",
+    "Walenz BP",
+    "Wenger A",
+    "Wood JMD",
+    "Xiao C",
+    "Yan SM",
+    "Young AC",
+    "Zarate S",
+    "Surti U",
+    "McCoy RC",
+    "Dennis MY",
+    "Alexandrov IA",
+    "Gerton JL",
+    "O'Neill RJ",
+    "Timp W",
+    "Zook JM",
+    "Schatz MC",
+    "Eichler EE",
+    "Miga KH",
+    "Phillippy AM"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2022,
+   "doi": "10.1126/science.abj6987",
+   "abstract": "Since its initial release in 2000, the human reference genome has covered only the euchromatic fraction of the genome, leaving important heterochromatic regions unfinished. Addressing the remaining 8% of the genome, the Telomere-to-Telomere (T2T) Consortium presents a complete 3.055 billion-base pair sequence of a human genome, T2T-CHM13, that includes gapless assemblies for all chromosomes except Y, corrects errors in the prior references, and introduces nearly 200 million base pairs of sequence containing 1956 gene predictions, 99 of which are predicted to be protein coding. The completed regions include all centromeric satellite arrays, recent segmental duplications, and the short arms of all five acrocentric chromosomes, unlocking these complex regions of the genome to variational and functional studies.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "20448178",
+   "title": "A draft sequence of the Neandertal genome.",
+   "authors": [
+    "Green RE",
+    "Krause J",
+    "Briggs AW",
+    "Maricic T",
+    "Stenzel U",
+    "Kircher M",
+    "Patterson N",
+    "Li H",
+    "Zhai W",
+    "Fritz MH",
+    "Hansen NF",
+    "Durand EY",
+    "Malaspinas AS",
+    "Jensen JD",
+    "Marques-Bonet T",
+    "Alkan C",
+    "Prüfer K",
+    "Meyer M",
+    "Burbano HA",
+    "Good JM",
+    "Schultz R",
+    "Aximu-Petri A",
+    "Butthof A",
+    "Höber B",
+    "Höffner B",
+    "Siegemund M",
+    "Weihmann A",
+    "Nusbaum C",
+    "Lander ES",
+    "Russ C",
+    "Novod N",
+    "Affourtit J",
+    "Egholm M",
+    "Verna C",
+    "Rudan P",
+    "Brajkovic D",
+    "Kucan Ž",
+    "Gušic I",
+    "Doronichev VB",
+    "Golovanova LV",
+    "Lalueza-Fox C",
+    "de la Rasilla M",
+    "Fortea J",
+    "Rosas A",
+    "Schmitz RW",
+    "Johnson PLF",
+    "Eichler EE",
+    "Falush D",
+    "Birney E",
+    "Mullikin JC",
+    "Slatkin M",
+    "Nielsen R",
+    "Kelso J",
+    "Lachmann M",
+    "Reich D",
+    "Pääbo S"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2010,
+   "doi": "10.1126/science.1188021",
+   "abstract": "Neandertals, the closest evolutionary relatives of present-day humans, lived in large parts of Europe and western Asia before disappearing 30,000 years ago. We present a draft sequence of the Neandertal genome composed of more than 4 billion nucleotides from three individuals. Comparisons of the Neandertal genome to the genomes of five present-day humans from different parts of the world identify a number of genomic regions that may have been affected by positive selection in ancestral modern humans, including genes involved in metabolism and in cognitive and skeletal development. We show that Neandertals shared more genetic variants with present-day humans in Eurasia than with present-day humans in sub-Saharan Africa, suggesting that gene flow from Neandertals into the ancestors of non-Africans occurred before the divergence of Eurasian groups from each other.",
+   "publicationTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "16116447",
+   "title": "Millisecond-timescale, genetically targeted optical control of neural activity.",
+   "authors": [
+    "Boyden ES",
+    "Zhang F",
+    "Bamberg E",
+    "Nagel G",
+    "Deisseroth K"
+   ],
+   "journal": "Nature neuroscience",
+   "year": 2005,
+   "doi": "10.1038/nn1525",
+   "abstract": "Temporally precise, noninvasive control of activity in well-defined neuronal populations is a long-sought goal of systems neuroscience. We adapted for this purpose the naturally occurring algal protein Channelrhodopsin-2, a rapidly gated light-sensitive cation channel, by using lentiviral gene delivery in combination with high-speed optical switching to photostimulate mammalian neurons. We demonstrate reliable, millisecond-timescale control of neuronal spiking, as well as control of excitatory and inhibitory synaptic transmission. This technology allows the use of light to alter neural processing at the level of single spikes and synaptic events, yielding a widely applicable tool for neuroscientists and biomedical engineers.",
+   "publicationTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Technical Report"
+   ]
+  },
+  {
+   "pmid": "24136970",
+   "title": "Sleep drives metabolite clearance from the adult brain.",
+   "authors": [
+    "Xie L",
+    "Kang H",
+    "Xu Q",
+    "Chen MJ",
+    "Liao Y",
+    "Thiyagarajan M",
+    "O'Donnell J",
+    "Christensen DJ",
+    "Nicholson C",
+    "Iliff JJ",
+    "Takano T",
+    "Deane R",
+    "Nedergaard M"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2013,
+   "doi": "10.1126/science.1241224",
+   "abstract": "The conservation of sleep across all animal species suggests that sleep serves a vital function. We here report that sleep has a critical function in ensuring metabolic homeostasis. Using real-time assessments of tetramethylammonium diffusion and two-photon imaging in live mice, we show that natural sleep or anesthesia are associated with a 60% increase in the interstitial space, resulting in a striking increase in convective exchange of cerebrospinal fluid with interstitial fluid. In turn, convective fluxes of interstitial fluid increased the rate of β-amyloid clearance during sleep. Thus, the restorative function of sleep may be a consequence of the enhanced removal of potentially neurotoxic waste products that accumulate in the awake central nervous system.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "9809557",
+   "title": "Neurogenesis in the adult human hippocampus.",
+   "authors": [
+    "Eriksson PS",
+    "Perfilieva E",
+    "Björk-Eriksson T",
+    "Alborn AM",
+    "Nordborg C",
+    "Peterson DA",
+    "Gage FH"
+   ],
+   "journal": "Nature medicine",
+   "year": 1998,
+   "doi": "10.1038/3305",
+   "abstract": "The genesis of new cells, including neurons, in the adult human brain has not yet been demonstrated. This study was undertaken to investigate whether neurogenesis occurs in the adult human brain, in regions previously identified as neurogenic in adult rodents and monkeys. Human brain tissue was obtained postmortem from patients who had been treated with the thymidine analog, bromodeoxyuridine (BrdU), that labels DNA during the S phase. Using immunofluorescent labeling for BrdU and for one of the neuronal markers, NeuN, calbindin or neuron specific enolase (NSE), we demonstrate that new neurons, as defined by these markers, are generated from dividing progenitor cells in the dentate gyrus of adult humans. Our results further indicate that the human hippocampus retains its ability to generate neurons throughout life.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "7984236",
+   "title": "Positional cloning of the mouse obese gene and its human homologue.",
+   "authors": [
+    "Zhang Y",
+    "Proenca R",
+    "Maffei M",
+    "Barone M",
+    "Leopold L",
+    "Friedman JM"
+   ],
+   "journal": "Nature",
+   "year": 1994,
+   "doi": "10.1038/372425a0",
+   "abstract": "The mechanisms that balance food intake and energy expenditure determine who will be obese and who will be lean. One of the molecules that regulates energy balance in the mouse is the obese (ob) gene. Mutation of ob results in profound obesity and type II diabetes as part of a syndrome that resembles morbid obesity in humans. The ob gene product may function as part of a signalling pathway from adipose tissue that acts to regulate the size of the body fat depot.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "19357406",
+   "title": "Identification and importance of brown adipose tissue in adult humans.",
+   "authors": [
+    "Cypess AM",
+    "Lehman S",
+    "Williams G",
+    "Tal I",
+    "Rodman D",
+    "Goldfine AB",
+    "Kuo FC",
+    "Palmer EL",
+    "Tseng YH",
+    "Doria A",
+    "Kolodny GM",
+    "Kahn CR"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2009,
+   "doi": "10.1056/NEJMoa0810780",
+   "abstract": "BACKGROUND: Obesity results from an imbalance between energy intake and expenditure. In rodents and newborn humans, brown adipose tissue helps regulate energy expenditure by thermogenesis mediated by the expression of uncoupling protein 1 (UCP1), but brown adipose tissue has been considered to have no physiologic relevance in adult humans.\nMETHODS: We analyzed 3640 consecutive (18)F-fluorodeoxyglucose ((18)F-FDG) positron-emission tomographic and computed tomographic (PET-CT) scans performed for various diagnostic reasons in 1972 patients for the presence of substantial depots of putative brown adipose tissue. Such depots were defined as collections of tissue that were more than 4 mm in diameter, had the density of adipose tissue according to CT, and had maximal standardized uptake values of (18)F-FDG of at least 2.0 g per milliliter, indicating high metabolic activity. Clinical indexes were recorded and compared with those of date-matched controls. Immunostaining for UCP1 was performed on biopsy specimens from the neck and supraclavicular regions in patients undergoing surgery.\nRESULTS: Substantial depots of brown adipose tissue were identified by PET-CT in a region extending from the anterior neck to the thorax. Tissue from this region had UCP1-immunopositive, multilocular adipocytes indicating brown adipose tissue. Positive scans were seen in 76 of 1013 women (7.5%) and 30 of 959 men (3.1%), corresponding to a female:male ratio greater than 2:1 (P<0.001). Women also had a greater mass of brown adipose tissue and higher (18)F-FDG uptake activity. The probability of the detection of brown adipose tissue was inversely correlated with years of age (P<0.001), outdoor temperature at the time of the scan (P=0.02), beta-blocker use (P<0.001), and among older patients, body-mass index (P=0.007).\nCONCLUSIONS: Defined regions of functionally active brown adipose tissue are present in adult humans, are more frequent in women than in men, and may be quantified noninvasively with the use of (18)F-FDG PET-CT. Most important, the amount of brown adipose tissue is inversely correlated with body-mass index, especially in older people, suggesting a potential role of brown adipose tissue in adult human metabolism.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31908267",
+   "title": "Decreasing human body temperature in the United States since the industrial revolution.",
+   "authors": [
+    "Protsiv M",
+    "Ley C",
+    "Lankester J",
+    "Hastie T",
+    "Parsonnet J"
+   ],
+   "journal": "eLife",
+   "year": 2020,
+   "doi": "10.7554/eLife.49555",
+   "abstract": "In the US, the normal, oral temperature of adults is, on average, lower than the canonical 37°C established in the 19th century. We postulated that body temperature has decreased over time. Using measurements from three cohorts--the Union Army Veterans of the Civil War (N = 23,710; measurement years 1860-1940), the National Health and Nutrition Examination Survey I (N = 15,301; 1971-1975), and the Stanford Translational Research Integrated Database Environment (N = 150,280; 2007-2017)--we determined that mean body temperature in men and women, after adjusting for age, height, weight and, in some models date and time of day, has decreased monotonically by 0.03°C per birth decade. A similar decline within the Union Army cohort as between cohorts, makes measurement error an unlikely explanation. This substantive and continuing shift in body temperature-a marker for metabolic rate-provides a framework for understanding changes in human health and longevity over 157 years.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33567185",
+   "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity.",
+   "authors": [
+    "Wilding JPH",
+    "Batterham RL",
+    "Calanna S",
+    "Davies M",
+    "Van Gaal LF",
+    "Lingvay I",
+    "McGowan BM",
+    "Rosenstock J",
+    "Tran MTD",
+    "Wadden TA",
+    "Wharton S",
+    "Yokote K",
+    "Zeuthen N",
+    "Kushner RF",
+    "STEP 1 Study Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2021,
+   "doi": "10.1056/NEJMoa2032183",
+   "abstract": "BACKGROUND: Obesity is a global health challenge with few pharmacologic options. Whether adults with obesity can achieve weight loss with once-weekly semaglutide at a dose of 2.4 mg as an adjunct to lifestyle intervention has not been confirmed.\nMETHODS: In this double-blind trial, we enrolled 1961 adults with a body-mass index (the weight in kilograms divided by the square of the height in meters) of 30 or greater (≥27 in persons with ≥1 weight-related coexisting condition), who did not have diabetes, and randomly assigned them, in a 2:1 ratio, to 68 weeks of treatment with once-weekly subcutaneous semaglutide (at a dose of 2.4 mg) or placebo, plus lifestyle intervention. The coprimary end points were the percentage change in body weight and weight reduction of at least 5%. The primary estimand (a precise description of the treatment effect reflecting the objective of the clinical trial) assessed effects regardless of treatment discontinuation or rescue interventions.\nRESULTS: The mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo, for an estimated treatment difference of -12.4 percentage points (95% confidence interval [CI], -13.4 to -11.5; P<0.001). More participants in the semaglutide group than in the placebo group achieved weight reductions of 5% or more (1047 participants [86.4%] vs. 182 [31.5%]), 10% or more (838 [69.1%] vs. 69 [12.0%]), and 15% or more (612 [50.5%] vs. 28 [4.9%]) at week 68 (P<0.001 for all three comparisons of odds). The change in body weight from baseline to week 68 was -15.3 kg in the semaglutide group as compared with -2.6 kg in the placebo group (estimated treatment difference, -12.7 kg; 95% CI, -13.7 to -11.7). Participants who received semaglutide had a greater improvement with respect to cardiometabolic risk factors and a greater increase in participant-reported physical functioning from baseline than those who received placebo. Nausea and diarrhea were the most common adverse events with semaglutide; they were typically transient and mild-to-moderate in severity and subsided with time. More participants in the semaglutide group than in the placebo group discontinued treatment owing to gastrointestinal events (59 [4.5%] vs. 5 [0.8%]).\nCONCLUSIONS: In participants with overweight or obesity, 2.4 mg of semaglutide once weekly plus lifestyle intervention was associated with sustained, clinically relevant reduction in body weight. (Funded by Novo Nordisk; STEP 1 ClinicalTrials.gov number, NCT03548935).",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32678530",
+   "title": "Dexamethasone in Hospitalized Patients with Covid-19.",
+   "authors": [
+    "RECOVERY Collaborative Group",
+    "Horby P",
+    "Lim WS",
+    "Emberson JR",
+    "Mafham M",
+    "Bell JL",
+    "Linsell L",
+    "Staplin N",
+    "Brightling C",
+    "Ustianowski A",
+    "Elmahi E",
+    "Prudon B",
+    "Green C",
+    "Felton T",
+    "Chadwick D",
+    "Rege K",
+    "Fegan C",
+    "Chappell LC",
+    "Faust SN",
+    "Jaki T",
+    "Jeffery K",
+    "Montgomery A",
+    "Rowan K",
+    "Juszczak E",
+    "Baillie JK",
+    "Haynes R",
+    "Landray MJ"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2021,
+   "doi": "10.1056/NEJMoa2021436",
+   "abstract": "BACKGROUND: Coronavirus disease 2019 (Covid-19) is associated with diffuse lung damage. Glucocorticoids may modulate inflammation-mediated lung injury and thereby reduce progression to respiratory failure and death.\nMETHODS: In this controlled, open-label trial comparing a range of possible treatments in patients who were hospitalized with Covid-19, we randomly assigned patients to receive oral or intravenous dexamethasone (at a dose of 6 mg once daily) for up to 10 days or to receive usual care alone. The primary outcome was 28-day mortality. Here, we report the final results of this assessment.\nRESULTS: A total of 2104 patients were assigned to receive dexamethasone and 4321 to receive usual care. Overall, 482 patients (22.9%) in the dexamethasone group and 1110 patients (25.7%) in the usual care group died within 28 days after randomization (age-adjusted rate ratio, 0.83; 95% confidence interval [CI], 0.75 to 0.93; P<0.001). The proportional and absolute between-group differences in mortality varied considerably according to the level of respiratory support that the patients were receiving at the time of randomization. In the dexamethasone group, the incidence of death was lower than that in the usual care group among patients receiving invasive mechanical ventilation (29.3% vs. 41.4%; rate ratio, 0.64; 95% CI, 0.51 to 0.81) and among those receiving oxygen without invasive mechanical ventilation (23.3% vs. 26.2%; rate ratio, 0.82; 95% CI, 0.72 to 0.94) but not among those who were receiving no respiratory support at randomization (17.8% vs. 14.0%; rate ratio, 1.19; 95% CI, 0.92 to 1.55).\nCONCLUSIONS: In patients hospitalized with Covid-19, the use of dexamethasone resulted in lower 28-day mortality among those who were receiving either invasive mechanical ventilation or oxygen alone at randomization but not among those receiving no respiratory support. (Funded by the Medical Research Council and National Institute for Health Research and others; RECOVERY ClinicalTrials.gov number, NCT04381936; ISRCTN number, 50189673.).",
+   "publicationTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "6145023",
+   "title": "Unidentified curved bacilli in the stomach of patients with gastritis and peptic ulceration.",
+   "authors": [
+    "Marshall BJ",
+    "Warren JR"
+   ],
+   "journal": "Lancet (London, England)",
+   "year": 1984,
+   "doi": "10.1016/s0140-6736(84)91816-6",
+   "abstract": "Biopsy specimens were taken from intact areas of antral mucosa in 100 consecutive consenting patients presenting for gastroscopy. Spiral or curved bacilli were demonstrated in specimens from 58 patients. Bacilli cultured from 11 of these biopsies were gram-negative, flagellate, and microaerophilic and appeared to be a new species related to the genus Campylobacter. The bacteria were present in almost all patients with active chronic gastritis, duodenal ulcer, or gastric ulcer and thus may be an important factor in the aetiology of these diseases.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "16904174",
+   "title": "Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors.",
+   "authors": [
+    "Takahashi K",
+    "Yamanaka S"
+   ],
+   "journal": "Cell",
+   "year": 2006,
+   "doi": "10.1016/j.cell.2006.07.024",
+   "abstract": "Differentiated cells can be reprogrammed to an embryonic-like state by transfer of nuclear contents into oocytes or by fusion with embryonic stem (ES) cells. Little is known about factors that induce this reprogramming. Here, we demonstrate induction of pluripotent stem cells from mouse embryonic or adult fibroblasts by introducing four factors, Oct3/4, Sox2, c-Myc, and Klf4, under ES cell culture conditions. Unexpectedly, Nanog was dispensable. These cells, which we designated iPS (induced pluripotent stem) cells, exhibit the morphology and growth properties of ES cells and express ES cell marker genes. Subcutaneous transplantation of iPS cells into nude mice resulted in tumors containing a variety of tissues from all three germ layers. Following injection into blastocysts, iPS cells contributed to mouse embryonic development. These data demonstrate that pluripotent stem cells can be directly generated from fibroblast cultures by the addition of only a few defined factors.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31634902",
+   "title": "Search-and-replace genome editing without double-strand breaks or donor DNA.",
+   "authors": [
+    "Anzalone AV",
+    "Randolph PB",
+    "Davis JR",
+    "Sousa AA",
+    "Koblan LW",
+    "Levy JM",
+    "Chen PJ",
+    "Wilson C",
+    "Newby GA",
+    "Raguram A",
+    "Liu DR"
+   ],
+   "journal": "Nature",
+   "year": 2019,
+   "doi": "10.1038/s41586-019-1711-4",
+   "abstract": "Most genetic variants that contribute to disease1 are challenging to correct efficiently and without excess byproducts2-5. Here we describe prime editing, a versatile and precise genome editing method that directly writes new genetic information into a specified DNA site using a catalytically impaired Cas9 endonuclease fused to an engineered reverse transcriptase, programmed with a prime editing guide RNA (pegRNA) that both specifies the target site and encodes the desired edit. We performed more than 175 edits in human cells, including targeted insertions, deletions, and all 12 types of point mutation, without requiring double-strand breaks or donor DNA templates. We used prime editing in human cells to correct, efficiently and with few byproducts, the primary genetic causes of sickle cell disease (requiring a transversion in HBB) and Tay-Sachs disease (requiring a deletion in HEXA); to install a protective transversion in PRNP; and to insert various tags and epitopes precisely into target loci. Four human cell lines and primary post-mitotic mouse cortical neurons support prime editing with varying efficiencies. Prime editing shows higher or similar efficiency and fewer byproducts than homology-directed repair, has complementary strengths and weaknesses compared to base editing, and induces much lower off-target editing than Cas9 nuclease at known Cas9 off-target sites. Prime editing substantially expands the scope and capabilities of genome editing, and in principle could correct up to 89% of known genetic variants associated with human diseases.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "25317870",
+   "title": "Chimeric antigen receptor T cells for sustained remissions in leukemia.",
+   "authors": [
+    "Maude SL",
+    "Frey N",
+    "Shaw PA",
+    "Aplenc R",
+    "Barrett DM",
+    "Bunin NJ",
+    "Chew A",
+    "Gonzalez VE",
+    "Zheng Z",
+    "Lacey SF",
+    "Mahnke YD",
+    "Melenhorst JJ",
+    "Rheingold SR",
+    "Shen A",
+    "Teachey DT",
+    "Levine BL",
+    "June CH",
+    "Porter DL",
+    "Grupp SA"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2014,
+   "doi": "10.1056/NEJMoa1407222",
+   "abstract": "BACKGROUND: Relapsed acute lymphoblastic leukemia (ALL) is difficult to treat despite the availability of aggressive therapies. Chimeric antigen receptor-modified T cells targeting CD19 may overcome many limitations of conventional therapies and induce remission in patients with refractory disease.\nMETHODS: We infused autologous T cells transduced with a CD19-directed chimeric antigen receptor (CTL019) lentiviral vector in patients with relapsed or refractory ALL at doses of 0.76×10(6) to 20.6×10(6) CTL019 cells per kilogram of body weight. Patients were monitored for a response, toxic effects, and the expansion and persistence of circulating CTL019 T cells.\nRESULTS: A total of 30 children and adults received CTL019. Complete remission was achieved in 27 patients (90%), including 2 patients with blinatumomab-refractory disease and 15 who had undergone stem-cell transplantation. CTL019 cells proliferated in vivo and were detectable in the blood, bone marrow, and cerebrospinal fluid of patients who had a response. Sustained remission was achieved with a 6-month event-free survival rate of 67% (95% confidence interval [CI], 51 to 88) and an overall survival rate of 78% (95% CI, 65 to 95). At 6 months, the probability that a patient would have persistence of CTL019 was 68% (95% CI, 50 to 92) and the probability that a patient would have relapse-free B-cell aplasia was 73% (95% CI, 57 to 94). All the patients had the cytokine-release syndrome. Severe cytokine-release syndrome, which developed in 27% of the patients, was associated with a higher disease burden before infusion and was effectively treated with the anti-interleukin-6 receptor antibody tocilizumab.\nCONCLUSIONS: Chimeric antigen receptor-modified T-cell therapy against CD19 was effective in treating relapsed and refractory ALL. CTL019 was associated with a high remission rate, even among patients for whom stem-cell transplantation had failed, and durable remissions up to 24 months were observed. (Funded by Novartis and others; CART19 ClinicalTrials.gov numbers, NCT01626495 and NCT01029366.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29897866",
+   "title": "Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts.",
+   "authors": [
+    "Estruch R",
+    "Ros E",
+    "Salas-Salvadó J",
+    "Covas MI",
+    "Corella D",
+    "Arós F",
+    "Gómez-Gracia E",
+    "Ruiz-Gutiérrez V",
+    "Fiol M",
+    "Lapetra J",
+    "Lamuela-Raventos RM",
+    "Serra-Majem L",
+    "Pintó X",
+    "Basora J",
+    "Muñoz MA",
+    "Sorlí JV",
+    "Martínez JA",
+    "Fitó M",
+    "Gea A",
+    "Hernán MA",
+    "Martínez-González MA",
+    "PREDIMED Study Investigators"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2018,
+   "doi": "10.1056/NEJMoa1800389",
+   "abstract": "BACKGROUND: Observational cohort studies and a secondary prevention trial have shown inverse associations between adherence to the Mediterranean diet and cardiovascular risk.\nMETHODS: In a multicenter trial in Spain, we assigned 7447 participants (55 to 80 years of age, 57% women) who were at high cardiovascular risk, but with no cardiovascular disease at enrollment, to one of three diets: a Mediterranean diet supplemented with extra-virgin olive oil, a Mediterranean diet supplemented with mixed nuts, or a control diet (advice to reduce dietary fat). Participants received quarterly educational sessions and, depending on group assignment, free provision of extra-virgin olive oil, mixed nuts, or small nonfood gifts. The primary end point was a major cardiovascular event (myocardial infarction, stroke, or death from cardiovascular causes). After a median follow-up of 4.8 years, the trial was stopped on the basis of a prespecified interim analysis. In 2013, we reported the results for the primary end point in the Journal. We subsequently identified protocol deviations, including enrollment of household members without randomization, assignment to a study group without randomization of some participants at 1 of 11 study sites, and apparent inconsistent use of randomization tables at another site. We have withdrawn our previously published report and now report revised effect estimates based on analyses that do not rely exclusively on the assumption that all the participants were randomly assigned.\nRESULTS: A primary end-point event occurred in 288 participants; there were 96 events in the group assigned to a Mediterranean diet with extra-virgin olive oil (3.8%), 83 in the group assigned to a Mediterranean diet with nuts (3.4%), and 109 in the control group (4.4%). In the intention-to-treat analysis including all the participants and adjusting for baseline characteristics and propensity scores, the hazard ratio was 0.69 (95% confidence interval [CI], 0.53 to 0.91) for a Mediterranean diet with extra-virgin olive oil and 0.72 (95% CI, 0.54 to 0.95) for a Mediterranean diet with nuts, as compared with the control diet. Results were similar after the omission of 1588 participants whose study-group assignments were known or suspected to have departed from the protocol.\nCONCLUSIONS: In this study involving persons at high cardiovascular risk, the incidence of major cardiovascular events was lower among those assigned to a Mediterranean diet supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat diet. (Funded by Instituto de Salud Carlos III, Spanish Ministry of Health, and others; Current Controlled Trials number, ISRCTN35739639 .).",
+   "publicationTypes": [
+    "Journal Article",
+    "Corrected and Republished Article"
+   ]
+  },
+  {
+   "pmid": "11136953",
+   "title": "Effects on blood pressure of reduced dietary sodium and the Dietary Approaches to Stop Hypertension (DASH) diet. DASH-Sodium Collaborative Research Group.",
+   "authors": [
+    "Sacks FM",
+    "Svetkey LP",
+    "Vollmer WM",
+    "Appel LJ",
+    "Bray GA",
+    "Harsha D",
+    "Obarzanek E",
+    "Conlin PR",
+    "Miller ER",
+    "Simons-Morton DG",
+    "Karanja N",
+    "Lin PH",
+    "DASH-Sodium Collaborative Research Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2001,
+   "doi": "10.1056/NEJM200101043440101",
+   "abstract": "BACKGROUND: The effect of dietary composition on blood pressure is a subject of public health importance. We studied the effect of different levels of dietary sodium, in conjunction with the Dietary Approaches to Stop Hypertension (DASH) diet, which is rich in vegetables, fruits, and low-fat dairy products, in persons with and in those without hypertension.\nMETHODS: A total of 412 participants were randomly assigned to eat either a control diet typical of intake in the United States or the DASH diet. Within the assigned diet, participants ate foods with high, intermediate, and low levels of sodium for 30 consecutive days each, in random order.\nRESULTS: Reducing the sodium intake from the high to the intermediate level reduced the systolic blood pressure by 2.1 mm Hg (P<0.001) during the control diet and by 1.3 mm Hg (P=0.03) during the DASH diet. Reducing the sodium intake from the intermediate to the low level caused additional reductions of 4.6 mm Hg during the control diet (P<0.001) and 1.7 mm Hg during the DASH diet (P<0.01). The effects of sodium were observed in participants with and in those without hypertension, blacks and those of other races, and women and men. The DASH diet was associated with a significantly lower systolic blood pressure at each sodium level; and the difference was greater with high sodium levels than with low ones. As compared with the control diet with a high sodium level, the DASH diet with a low sodium level led to a mean systolic blood pressure that was 7.1 mm Hg lower in participants without hypertension, and 11.5 mm Hg lower in participants with hypertension.\nCONCLUSIONS: The reduction of sodium intake to levels below the current recommendation of 100 mmol per day and the DASH diet both lower blood pressure substantially, with greater effects in combination than singly. Long-term health benefits will depend on the ability of people to make long-lasting dietary changes and the increased availability of lower-sodium foods.",
+   "publicationTypes": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "31105044",
+   "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake.",
+   "authors": [
+    "Hall KD",
+    "Ayuketah A",
+    "Brychta R",
+    "Cai H",
+    "Cassimatis T",
+    "Chen KY",
+    "Chung ST",
+    "Costa E",
+    "Courville A",
+    "Darcey V",
+    "Fletcher LA",
+    "Forde CG",
+    "Gharib AM",
+    "Guo J",
+    "Howard R",
+    "Joseph PV",
+    "McGehee S",
+    "Ouwerkerk R",
+    "Raisinger K",
+    "Rozga I",
+    "Stagliano M",
+    "Walter M",
+    "Walter PJ",
+    "Yang S",
+    "Zhou M"
+   ],
+   "journal": "Cell metabolism",
+   "year": 2019,
+   "doi": "10.1016/j.cmet.2019.05.008",
+   "abstract": "We investigated whether ultra-processed foods affect energy intake in 20 weight-stable adults, aged (mean ± SE) 31.2 ± 1.6 years and BMI = 27 ± 1.5 kg/m2. Subjects were admitted to the NIH Clinical Center and randomized to receive either ultra-processed or unprocessed diets for 2 weeks immediately followed by the alternate diet for 2 weeks. Meals were designed to be matched for presented calories, energy density, macronutrients, sugar, sodium, and fiber. Subjects were instructed to consume as much or as little as desired. Energy intake was greater during the ultra-processed diet (508 ± 106 kcal/day; p = 0.0001), with increased consumption of carbohydrate (280 ± 54 kcal/day; p < 0.0001) and fat (230 ± 53 kcal/day; p = 0.0004), but not protein (-2 ± 12 kcal/day; p = 0.85). Weight changes were highly correlated with energy intake (r = 0.8, p < 0.0001), with participants gaining 0.9 ± 0.3 kg (p = 0.009) during the ultra-processed diet and losing 0.9 ± 0.3 kg (p = 0.007) during the unprocessed diet. Limiting consumption of ultra-processed foods may be an effective strategy for obesity prevention and treatment.",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Intramural"
+   ]
+  },
+  {
+   "pmid": "23798687",
+   "title": "Rinderpest: the veterinary perspective on eradication.",
+   "authors": [
+    "Roeder P",
+    "Mariner J",
+    "Kock R"
+   ],
+   "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+   "year": 2013,
+   "doi": "10.1098/rstb.2012.0139",
+   "abstract": "Rinderpest was a devastating disease of livestock responsible for continent-wide famine and poverty. Centuries of veterinary advances culminated in 2011 with the UN Food and Agriculture Organization and the World Organization for Animal Health declaring global eradication of rinderpest; only the second disease to be eradicated and the greatest veterinary achievement of our time. Conventional control measures, principally mass vaccination combined with zoosanitary procedures, led to substantial declines in the incidence of rinderpest. However, during the past decades, innovative strategies were deployed for the last mile to overcome diagnostic and surveillance challenges, unanticipated variations in virus pathogenicity, circulation of disease in wildlife populations and to service remote and nomadic communities in often-unstable states. This review provides an overview of these challenges, describes how they were overcome and identifies key factors for this success.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28489063",
+   "title": "African Swine Fever Virus: A Review.",
+   "authors": [
+    "Galindo I",
+    "Alonso C"
+   ],
+   "journal": "Viruses",
+   "year": 2017,
+   "doi": "10.3390/v9050103",
+   "abstract": "African swine fever (ASF) is a highly contagious viral disease of swine which causes high mortality, approaching 100%, in domestic pigs. ASF is caused by a large, double stranded DNA virus, ASF virus (ASFV), which replicates predominantly in the cytoplasm of macrophages and is the only member of the Asfarviridae family, genus Asfivirus. The natural hosts of this virus include wild suids and arthropod vectors of the Ornithodoros genus. The infection of ASFV in its reservoir hosts is usually asymptomatic and develops a persistent infection. In contrast, infection of domestic pigs leads to a lethal hemorrhagic fever for which there is no effective vaccine. Identification of ASFV genes involved in virulence and the characterization of mechanisms used by the virus to evade the immune response of the host are recognized as critical steps in the development of a vaccine. Moreover, the interplay of the viral products with host pathways, which are relevant for virus replication, provides the basic information needed for the identification of potential targets for the development of intervention strategies against this disease.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34488900",
+   "title": "Chronic wasting disease: a cervid prion infection looming to spillover.",
+   "authors": [
+    "Otero A",
+    "Velásquez CD",
+    "Aiken J",
+    "McKenzie D"
+   ],
+   "journal": "Veterinary research",
+   "year": 2021,
+   "doi": "10.1186/s13567-021-00986-y",
+   "abstract": "The spread of chronic wasting disease (CWD) during the last six decades has resulted in cervid populations of North America where CWD has become enzootic. This insidious disease has also been reported in wild and captive cervids from other continents, threatening ecosystems, livestock and public health. These CWD \"hot zones\" are particularly complex given the interplay between cervid PRNP genetics, the infection biology, the strain diversity of infectious prions and the long-term environmental persistence of infectivity, which hinder eradication efforts. Here, we review different aspects of CWD including transmission mechanisms, pathogenesis, epidemiology and assessment of interspecies infection. Further understanding of these aspects could help identify \"control points\" that could help reduce exposure for humans and livestock and decrease CWD spread between cervids.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26315443",
+   "title": "PSYCHOLOGY. Estimating the reproducibility of psychological science.",
+   "authors": [
+    "Open Science Collaboration"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2015,
+   "doi": "10.1126/science.aac4716",
+   "abstract": "Reproducibility is a defining feature of science, but the extent to which it characterizes current research is unknown. We conducted replications of 100 experimental and correlational studies published in three psychology journals using high-powered designs and original materials when available. Replication effects were half the magnitude of original effects, representing a substantial decline. Ninety-seven percent of original studies had statistically significant results. Thirty-six percent of replications had statistically significant results; 47% of original effect sizes were in the 95% confidence interval of the replication effect size; 39% of effects were subjectively rated to have replicated the original result; and if no bias in original results is assumed, combining original and replication results left 68% with statistically significant effects. Correlational tests suggest that replication success was better predicted by the strength of original evidence than by characteristics of the original and replication teams.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27649274",
+   "title": "Extremotolerant tardigrade genome and improved radiotolerance of human cultured cells by tardigrade-unique protein.",
+   "authors": [
+    "Hashimoto T",
+    "Horikawa DD",
+    "Saito Y",
+    "Kuwahara H",
+    "Kozuka-Hata H",
+    "Shin-I T",
+    "Minakuchi Y",
+    "Ohishi K",
+    "Motoyama A",
+    "Aizu T",
+    "Enomoto A",
+    "Kondo K",
+    "Tanaka S",
+    "Hara Y",
+    "Koshikawa S",
+    "Sagara H",
+    "Miura T",
+    "Yokobori SI",
+    "Miyagawa K",
+    "Suzuki Y",
+    "Kubo T",
+    "Oyama M",
+    "Kohara Y",
+    "Fujiyama A",
+    "Arakawa K",
+    "Katayama T",
+    "Toyoda A",
+    "Kunieda T"
+   ],
+   "journal": "Nature communications",
+   "year": 2016,
+   "doi": "10.1038/ncomms12808",
+   "abstract": "Tardigrades, also known as water bears, are small aquatic animals. Some tardigrade species tolerate almost complete dehydration and exhibit extraordinary tolerance to various physical extremes in the dehydrated state. Here we determine a high-quality genome sequence of Ramazzottius varieornatus, one of the most stress-tolerant tardigrade species. Precise gene repertoire analyses reveal the presence of a small proportion (1.2% or less) of putative foreign genes, loss of gene pathways that promote stress damage, expansion of gene families related to ameliorating damage, and evolution and high expression of novel tardigrade-unique proteins. Minor changes in the gene expression profiles during dehydration and rehydration suggest constitutive expression of tolerance-related genes. Using human cultured cells, we demonstrate that a tardigrade-unique DNA-associating protein suppresses X-ray-induced DNA damage by ∼40% and improves radiotolerance. These findings indicate the relevance of tardigrade-unique proteins to tolerability and tardigrades could be a bountiful source of new protection genes and mechanisms.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27516602",
+   "title": "Eye lens radiocarbon reveals centuries of longevity in the Greenland shark (Somniosus microcephalus).",
+   "authors": [
+    "Nielsen J",
+    "Hedeholm RB",
+    "Heinemeier J",
+    "Bushnell PG",
+    "Christiansen JS",
+    "Olsen J",
+    "Ramsey CB",
+    "Brill RW",
+    "Simon M",
+    "Steffensen KF",
+    "Steffensen JF"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2016,
+   "doi": "10.1126/science.aaf1703",
+   "abstract": "The Greenland shark (Somniosus microcephalus), an iconic species of the Arctic Seas, grows slowly and reaches >500 centimeters (cm) in total length, suggesting a life span well beyond those of other vertebrates. Radiocarbon dating of eye lens nuclei from 28 female Greenland sharks (81 to 502 cm in total length) revealed a life span of at least 272 years. Only the smallest sharks (220 cm or less) showed signs of the radiocarbon bomb pulse, a time marker of the early 1960s. The age ranges of prebomb sharks (reported as midpoint and extent of the 95.4% probability range) revealed the age at sexual maturity to be at least 156 ± 22 years, and the largest animal (502 cm) to be 392 ± 120 years old. Our results show that the Greenland shark is the longest-lived vertebrate known, and they raise concerns about species conservation.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "micro-001-en",
+   "translationKey": "micro-001",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "In Barrangou et al. (2007), what did CRISPR give bacteria?",
+   "options": [
+    "Resistance against viruses (phages)",
+    "The ability to photosynthesize",
+    "Resistance to antibiotics",
+    "Faster cell division"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "After a viral challenge, bacteria integrated new spacers derived from phage DNA into their CRISPR loci. Together with cas genes, CRISPR provided resistance against phages, and its specificity depended on spacer–phage sequence similarity.",
+   "shortExplanation": "CRISPR + cas genes protected bacteria against phages.",
+   "pmid": "17379808",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "CRISPR, together with associated cas genes, provided resistance against phages",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-001-es",
+   "translationKey": "micro-001",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Según Barrangou et al. (2007), ¿qué proporcionó CRISPR a las bacterias?",
+   "options": [
+    "Resistencia frente a virus (fagos)",
+    "La capacidad de hacer fotosíntesis",
+    "Resistencia a antibióticos",
+    "Una división celular más rápida"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Tras una infección viral, las bacterias integraron en sus loci CRISPR nuevos espaciadores derivados del ADN del fago. Junto con los genes cas, CRISPR proporcionó resistencia frente a fagos, con una especificidad determinada por la similitud de secuencia entre espaciador y fago.",
+   "shortExplanation": "CRISPR y los genes cas protegieron a las bacterias frente a fagos.",
+   "pmid": "17379808",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "CRISPR, together with associated cas genes, provided resistance against phages",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-002-en",
+   "translationKey": "micro-002",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "The Human Microbiome Project found that, among healthy people, each body habitat's signature microbes…",
+   "options": [
+    "Vary widely from person to person",
+    "Are identical in everyone",
+    "Exist only in the gut",
+    "Disappear in adulthood"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The diversity and abundance of signature microbes varied widely even among healthy subjects, with strong niche specialization. Yet the metabolic pathways carried by these communities were stable among individuals.",
+   "shortExplanation": "Microbes varied widely between healthy people; their metabolic pathways were stable.",
+   "pmid": "22699609",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "We found the diversity and abundance of each habitat's signature microbes to vary widely even among healthy subjects",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-002-es",
+   "translationKey": "micro-002",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "El Human Microbiome Project observó que, en personas sanas, los microbios característicos de cada zona del cuerpo…",
+   "options": [
+    "Varían mucho de una persona a otra",
+    "Son idénticos en todo el mundo",
+    "Solo existen en el intestino",
+    "Desaparecen en la edad adulta"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La diversidad y abundancia de los microbios característicos variaron mucho incluso entre sujetos sanos, con una fuerte especialización por nicho. Aun así, las rutas metabólicas de estas comunidades fueron estables entre individuos.",
+   "shortExplanation": "Los microbios variaron mucho entre personas sanas; sus rutas metabólicas fueron estables.",
+   "pmid": "22699609",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "We found the diversity and abundance of each habitat's signature microbes to vary widely even among healthy subjects",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-003-en",
+   "translationKey": "micro-003",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Teixobactin, an antibiotic found in uncultured soil bacteria, acts by binding to…",
+   "options": [
+    "Ribosomal RNA",
+    "Lipid II and lipid III",
+    "DNA gyrase",
+    "Membrane cholesterol"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Teixobactin inhibits cell wall synthesis by binding a conserved motif of lipid II (peptidoglycan precursor) and lipid III (teichoic acid precursor). The authors obtained no resistant mutants of S. aureus or M. tuberculosis.",
+   "shortExplanation": "It binds lipid II and lipid III, blocking cell wall synthesis.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Teixobactin inhibits cell wall synthesis by binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-003-es",
+   "translationKey": "micro-003",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "La teixobactina, un antibiótico hallado en bacterias del suelo no cultivadas, actúa uniéndose a…",
+   "options": [
+    "ARN ribosómico",
+    "Lípido II y lípido III",
+    "ADN girasa",
+    "Colesterol de membrana"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La teixobactina inhibe la síntesis de la pared celular al unirse a un motivo conservado del lípido II (precursor del peptidoglicano) y del lípido III (precursor del ácido teicoico). Los autores no obtuvieron mutantes resistentes de S. aureus ni de M. tuberculosis.",
+   "shortExplanation": "Se une a los lípidos II y III y bloquea la síntesis de la pared celular.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Teixobactin inhibits cell wall synthesis by binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-001-en",
+   "translationKey": "immuno-001",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Sakaguchi et al. (1995): transferring T cells depleted of CD25+ cells into nude mice caused…",
+   "options": [
+    "Autoimmune diseases",
+    "Immediate tumor rejection",
+    "Loss of all B cells",
+    "No detectable effect"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Recipients of CD4+ cells lacking CD25+ cells developed autoimmune diseases such as thyroiditis and gastritis. Adding back CD4+CD25+ cells prevented this, showing these cells help maintain self-tolerance.",
+   "shortExplanation": "Without CD25+ cells, mice developed autoimmune diseases.",
+   "pmid": "7636184",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "all recipients spontaneously developed histologically and serologically evident autoimmune diseases",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-001-es",
+   "translationKey": "immuno-001",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Sakaguchi et al. (1995): transferir a ratones desnudos células T sin células CD25+ provocó…",
+   "options": [
+    "Enfermedades autoinmunes",
+    "Rechazo inmediato de tumores",
+    "Pérdida de todos los linfocitos B",
+    "Ningún efecto detectable"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los receptores de células CD4+ sin células CD25+ desarrollaron enfermedades autoinmunes como tiroiditis y gastritis. Reintroducir células CD4+CD25+ lo evitó, lo que indica que estas células ayudan a mantener la autotolerancia.",
+   "shortExplanation": "Sin células CD25+, los ratones desarrollaron enfermedades autoinmunes.",
+   "pmid": "7636184",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "all recipients spontaneously developed histologically and serologically evident autoimmune diseases",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-002-en",
+   "translationKey": "immuno-002",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What happened when mice with tumors received antibodies blocking CTLA-4?",
+   "options": [
+    "Tumors grew faster",
+    "Tumors were rejected",
+    "All T cells disappeared",
+    "Nothing changed"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "CTLA-4 is a negative regulator of T cell activation. Blocking it led to rejection of tumors, including established ones, and to immunity against a second exposure to tumor cells.",
+   "shortExplanation": "Blocking the CTLA-4 'brake' led to tumor rejection.",
+   "pmid": "8596936",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "in vivo administration of antibodies to CTLA-4 resulted in the rejection of tumors, including preestablished tumors",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-002-es",
+   "translationKey": "immuno-002",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué ocurrió cuando ratones con tumores recibieron anticuerpos que bloquean CTLA-4?",
+   "options": [
+    "Los tumores crecieron más rápido",
+    "Los tumores fueron rechazados",
+    "Desaparecieron todos los linfocitos T",
+    "No cambió nada"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "CTLA-4 es un regulador negativo de la activación de los linfocitos T. Bloquearlo provocó el rechazo de tumores, incluso de tumores ya establecidos, e inmunidad frente a una segunda exposición.",
+   "shortExplanation": "Bloquear el «freno» CTLA-4 provocó el rechazo de los tumores.",
+   "pmid": "8596936",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "in vivo administration of antibodies to CTLA-4 resulted in the rejection of tumors, including preestablished tumors",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-003-en",
+   "translationKey": "immuno-003",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "In the pivotal BNT162b2 mRNA vaccine trial, how effective was the vaccine against Covid-19?",
+   "options": [
+    "About 50%",
+    "About 70%",
+    "About 95%",
+    "Exactly 100%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "In the randomized trial of 43,548 people aged 16 or older, there were 8 Covid-19 cases in the vaccine group versus 162 with placebo after the second dose: 95% efficacy.",
+   "shortExplanation": "95% efficacy: 8 cases vs 162 with placebo.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "BNT162b2 was 95% effective in preventing Covid-19",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-003-es",
+   "translationKey": "immuno-003",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "En el ensayo clave de la vacuna de ARNm BNT162b2, ¿qué eficacia tuvo frente a la Covid-19?",
+   "options": [
+    "Alrededor del 50%",
+    "Alrededor del 70%",
+    "Alrededor del 95%",
+    "Exactamente el 100%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "En el ensayo aleatorizado con 43.548 personas de 16 años o más, hubo 8 casos de Covid-19 en el grupo vacunado frente a 162 con placebo tras la segunda dosis: una eficacia del 95%.",
+   "shortExplanation": "Eficacia del 95%: 8 casos frente a 162 con placebo.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "BNT162b2 was 95% effective in preventing Covid-19",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-001-en",
+   "translationKey": "genetics-001",
+   "language": "en",
+   "category": "genetics",
+   "difficulty": "explorer",
+   "prompt": "Jinek et al. (2012) showed that Cas9 is directed to cut DNA by…",
+   "options": [
+    "An antibody",
+    "Two RNAs: crRNA and tracrRNA",
+    "Heat shock",
+    "A DNA primer"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "A crRNA base-paired to a tracrRNA forms a two-RNA structure that guides Cas9 to make double-stranded breaks in target DNA. Engineered as a single RNA chimera, it also works—opening the door to RNA-programmable genome editing.",
+   "shortExplanation": "A crRNA:tracrRNA pair guides Cas9 to its DNA target.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "forms a two-RNA structure that directs the CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in target DNA",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-001-es",
+   "translationKey": "genetics-001",
+   "language": "es",
+   "category": "genetics",
+   "difficulty": "explorer",
+   "prompt": "Jinek et al. (2012) mostraron que Cas9 es dirigida a cortar el ADN por…",
+   "options": [
+    "Un anticuerpo",
+    "Dos ARN: crRNA y tracrRNA",
+    "Un choque térmico",
+    "Un cebador de ADN"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Un crRNA emparejado con un tracrRNA forma una estructura de dos ARN que guía a Cas9 para cortar ambas hebras del ADN diana. Diseñado como una sola quimera de ARN, también funciona, lo que abrió la puerta a la edición genómica programable.",
+   "shortExplanation": "Un par crRNA:tracrRNA guía a Cas9 hasta su ADN diana.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "forms a two-RNA structure that directs the CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in target DNA",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-002-en",
+   "translationKey": "genetics-002",
+   "language": "en",
+   "category": "genetics",
+   "difficulty": "curious",
+   "prompt": "What did the Telomere-to-Telomere (T2T) Consortium publish in 2022?",
+   "options": [
+    "The first Neandertal genome",
+    "The first bacterial genome",
+    "A full map of brain connections",
+    "A complete human genome sequence"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "T2T-CHM13 is a complete 3.055 billion-base-pair human genome with gapless assemblies for all chromosomes except Y. It filled the ~8% left unfinished since the first reference genome.",
+   "shortExplanation": "A complete, gapless human genome (T2T-CHM13).",
+   "pmid": "35357919",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "presents a complete 3.055 billion-base pair sequence of a human genome",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-002-es",
+   "translationKey": "genetics-002",
+   "language": "es",
+   "category": "genetics",
+   "difficulty": "curious",
+   "prompt": "¿Qué publicó el consorcio Telomere-to-Telomere (T2T) en 2022?",
+   "options": [
+    "El primer genoma neandertal",
+    "El primer genoma bacteriano",
+    "Un mapa completo de conexiones cerebrales",
+    "La secuencia completa de un genoma humano"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "T2T-CHM13 es un genoma humano completo de 3.055 millones de pares de bases, sin huecos en todos los cromosomas salvo el Y. Completó el ~8% que quedaba sin terminar desde el primer genoma de referencia.",
+   "shortExplanation": "Un genoma humano completo y sin huecos (T2T-CHM13).",
+   "pmid": "35357919",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "presents a complete 3.055 billion-base pair sequence of a human genome",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-003-en",
+   "translationKey": "genetics-003",
+   "language": "en",
+   "category": "genetics",
+   "difficulty": "explorer",
+   "prompt": "The Neandertal draft genome showed Neandertals share more variants with present-day humans from…",
+   "options": [
+    "Sub-Saharan Africa",
+    "Eurasia",
+    "Only the Americas",
+    "No living population"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Neandertals shared more genetic variants with present-day Eurasians than with sub-Saharan Africans, suggesting gene flow from Neandertals into the ancestors of non-Africans.",
+   "shortExplanation": "Eurasians: evidence of gene flow into non-African ancestors.",
+   "pmid": "20448178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Neandertals shared more genetic variants with present-day humans in Eurasia than with present-day humans in sub-Saharan Africa",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-003-es",
+   "translationKey": "genetics-003",
+   "language": "es",
+   "category": "genetics",
+   "difficulty": "explorer",
+   "prompt": "El borrador del genoma neandertal mostró que comparten más variantes con humanos actuales de…",
+   "options": [
+    "África subsahariana",
+    "Eurasia",
+    "Solo América",
+    "Ninguna población actual"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los neandertales compartían más variantes genéticas con los euroasiáticos actuales que con los africanos subsaharianos, lo que sugiere flujo génico desde los neandertales hacia los ancestros de los no africanos.",
+   "shortExplanation": "Eurasia: indicio de flujo génico hacia ancestros no africanos.",
+   "pmid": "20448178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Neandertals shared more genetic variants with present-day humans in Eurasia than with present-day humans in sub-Saharan Africa",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-001-en",
+   "translationKey": "neuro-001",
+   "language": "en",
+   "category": "neuroscience",
+   "difficulty": "explorer",
+   "prompt": "Boyden et al. (2005) controlled neurons with light using which algal protein?",
+   "options": [
+    "Channelrhodopsin-2",
+    "Green fluorescent protein",
+    "Myoglobin",
+    "Insulin"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Channelrhodopsin-2 is a light-gated cation channel from algae. Delivered to mammalian neurons, it allowed millisecond-precise control of spiking with light—a founding result of optogenetics.",
+   "shortExplanation": "Channelrhodopsin-2, a light-gated channel from algae.",
+   "pmid": "16116447",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "We adapted for this purpose the naturally occurring algal protein Channelrhodopsin-2",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-001-es",
+   "translationKey": "neuro-001",
+   "language": "es",
+   "category": "neuroscience",
+   "difficulty": "explorer",
+   "prompt": "Boyden et al. (2005) controlaron neuronas con luz usando ¿qué proteína de algas?",
+   "options": [
+    "Canalrodopsina-2",
+    "Proteína verde fluorescente",
+    "Mioglobina",
+    "Insulina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La canalrodopsina-2 es un canal catiónico de algas activado por luz. Introducida en neuronas de mamífero, permitió controlar sus disparos con precisión de milisegundos: un resultado fundacional de la optogenética.",
+   "shortExplanation": "La canalrodopsina-2, un canal de algas activado por luz.",
+   "pmid": "16116447",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "We adapted for this purpose the naturally occurring algal protein Channelrhodopsin-2",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-002-en",
+   "translationKey": "neuro-002",
+   "language": "en",
+   "category": "neuroscience",
+   "difficulty": "curious",
+   "prompt": "In mice, what happened to the brain's interstitial space during natural sleep?",
+   "options": [
+    "It shrank by half",
+    "It did not change",
+    "It increased by about 60%",
+    "It filled with blood cells"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Sleep was associated with a 60% increase in interstitial space, boosting exchange between cerebrospinal and interstitial fluid and speeding β-amyloid clearance.",
+   "shortExplanation": "It grew ~60%, speeding waste clearance.",
+   "pmid": "24136970",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "natural sleep or anesthesia are associated with a 60% increase in the interstitial space",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-002-es",
+   "translationKey": "neuro-002",
+   "language": "es",
+   "category": "neuroscience",
+   "difficulty": "curious",
+   "prompt": "En ratones, ¿qué le ocurrió al espacio intersticial del cerebro durante el sueño natural?",
+   "options": [
+    "Se redujo a la mitad",
+    "No cambió",
+    "Aumentó alrededor de un 60%",
+    "Se llenó de células sanguíneas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El sueño se asoció con un aumento del 60% del espacio intersticial, lo que intensificó el intercambio entre líquido cefalorraquídeo e intersticial y aceleró la eliminación de β-amiloide.",
+   "shortExplanation": "Creció ~60% y aceleró la eliminación de desechos.",
+   "pmid": "24136970",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "natural sleep or anesthesia are associated with a 60% increase in the interstitial space",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-003-en",
+   "translationKey": "neuro-003",
+   "language": "en",
+   "category": "neuroscience",
+   "difficulty": "researcher",
+   "prompt": "Eriksson et al. (1998) reported new neurons in adult humans in which region?",
+   "options": [
+    "Cerebellum",
+    "Optic nerve",
+    "Spinal cord",
+    "Dentate gyrus of the hippocampus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Using BrdU labeling in tissue from patients previously treated with this thymidine analog, plus neuronal markers, the authors found new neurons generated from dividing progenitors in the dentate gyrus.",
+   "shortExplanation": "The dentate gyrus, detected with BrdU labeling.",
+   "pmid": "9809557",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "new neurons, as defined by these markers, are generated from dividing progenitor cells in the dentate gyrus of adult humans",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-003-es",
+   "translationKey": "neuro-003",
+   "language": "es",
+   "category": "neuroscience",
+   "difficulty": "researcher",
+   "prompt": "Eriksson et al. (1998) describieron nuevas neuronas en humanos adultos ¿en qué región?",
+   "options": [
+    "Cerebelo",
+    "Nervio óptico",
+    "Médula espinal",
+    "Giro dentado del hipocampo"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mediante marcaje con BrdU en tejido de pacientes tratados previamente con este análogo de timidina, junto con marcadores neuronales, los autores hallaron nuevas neuronas generadas a partir de progenitores en división en el giro dentado.",
+   "shortExplanation": "El giro dentado, detectado con marcaje BrdU.",
+   "pmid": "9809557",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "new neurons, as defined by these markers, are generated from dividing progenitor cells in the dentate gyrus of adult humans",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-001-en",
+   "translationKey": "physio-001",
+   "language": "en",
+   "category": "humanPhysiology",
+   "difficulty": "explorer",
+   "prompt": "According to Zhang et al. (1994), mutations in the mouse obese (ob) gene cause…",
+   "options": [
+    "Profound obesity and type II diabetes",
+    "Extreme thinness",
+    "Hearing loss",
+    "Brittle bones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Mutation of ob causes profound obesity and type II diabetes in mice. Its product may act in a signaling pathway from adipose tissue that regulates the size of the body fat depot.",
+   "shortExplanation": "Profound obesity and type II diabetes.",
+   "pmid": "7984236",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Mutation of ob results in profound obesity and type II diabetes",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-001-es",
+   "translationKey": "physio-001",
+   "language": "es",
+   "category": "humanPhysiology",
+   "difficulty": "explorer",
+   "prompt": "Según Zhang et al. (1994), las mutaciones del gen obese (ob) del ratón causan…",
+   "options": [
+    "Obesidad grave y diabetes tipo II",
+    "Delgadez extrema",
+    "Pérdida de audición",
+    "Huesos frágiles"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mutación de ob causa obesidad grave y diabetes tipo II en ratones. Su producto podría formar parte de una vía de señalización desde el tejido adiposo que regula el tamaño de los depósitos de grasa.",
+   "shortExplanation": "Obesidad grave y diabetes tipo II.",
+   "pmid": "7984236",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Mutation of ob results in profound obesity and type II diabetes",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-002-en",
+   "translationKey": "physio-002",
+   "language": "en",
+   "category": "humanPhysiology",
+   "difficulty": "explorer",
+   "prompt": "Cypess et al. (2009) found active brown fat on PET-CT scans more often in…",
+   "options": [
+    "Men",
+    "Women",
+    "Children only",
+    "Athletes only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Brown adipose tissue appeared in 7.5% of women vs 3.1% of men. Its amount was inversely correlated with body-mass index, especially in older people.",
+   "shortExplanation": "Women: 7.5% vs 3.1% of men.",
+   "pmid": "19357406",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Positive scans were seen in 76 of 1013 women (7.5%) and 30 of 959 men (3.1%)",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-002-es",
+   "translationKey": "physio-002",
+   "language": "es",
+   "category": "humanPhysiology",
+   "difficulty": "explorer",
+   "prompt": "Cypess et al. (2009) detectaron grasa parda activa en PET-TC con más frecuencia en…",
+   "options": [
+    "Hombres",
+    "Mujeres",
+    "Solo niños",
+    "Solo deportistas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Se detectó tejido adiposo pardo en el 7,5% de las mujeres frente al 3,1% de los hombres. Su cantidad se correlacionó inversamente con el índice de masa corporal, sobre todo en personas mayores.",
+   "shortExplanation": "Mujeres: 7,5% frente a 3,1% de los hombres.",
+   "pmid": "19357406",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Positive scans were seen in 76 of 1013 women (7.5%) and 30 of 959 men (3.1%)",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-003-en",
+   "translationKey": "physio-003",
+   "language": "en",
+   "category": "humanPhysiology",
+   "difficulty": "curious",
+   "prompt": "Since the 19th century, average body temperature of US adults has…",
+   "options": [
+    "Risen steadily",
+    "Stayed exactly at 37 °C",
+    "Decreased",
+    "Become twice as variable"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Across three cohorts spanning 157 years, mean body temperature decreased by about 0.03 °C per birth decade, even after adjusting for age, height and weight.",
+   "shortExplanation": "Decreased ~0.03 °C per birth decade.",
+   "pmid": "31908267",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "has decreased monotonically by 0.03°C per birth decade",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-003-es",
+   "translationKey": "physio-003",
+   "language": "es",
+   "category": "humanPhysiology",
+   "difficulty": "curious",
+   "prompt": "Desde el siglo XIX, la temperatura corporal media de los adultos en EE. UU. ha…",
+   "options": [
+    "Subido de forma constante",
+    "Permanecido exactamente en 37 °C",
+    "Disminuido",
+    "Duplicado su variabilidad"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "En tres cohortes que abarcan 157 años, la temperatura corporal media bajó unos 0,03 °C por década de nacimiento, incluso ajustando por edad, altura y peso.",
+   "shortExplanation": "Bajó ~0,03 °C por década de nacimiento.",
+   "pmid": "31908267",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "has decreased monotonically by 0.03°C per birth decade",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-001-en",
+   "translationKey": "medicine-001",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "In the STEP 1 trial, mean weight change after 68 weeks of weekly semaglutide was about…",
+   "options": [
+    "−2%",
+    "−5%",
+    "−15%",
+    "−30%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "With semaglutide 2.4 mg plus lifestyle intervention, mean body weight changed by −14.9% vs −2.4% with placebo. Nausea and diarrhea were the most common adverse events.",
+   "shortExplanation": "−14.9% vs −2.4% with placebo.",
+   "pmid": "33567185",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "The mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-001-es",
+   "translationKey": "medicine-001",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "En el ensayo STEP 1, el cambio medio de peso tras 68 semanas de semaglutida semanal fue de…",
+   "options": [
+    "−2%",
+    "−5%",
+    "−15%",
+    "−30%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Con semaglutida 2,4 mg más intervención en el estilo de vida, el peso medio cambió un −14,9% frente a un −2,4% con placebo. Náuseas y diarrea fueron los efectos adversos más frecuentes.",
+   "shortExplanation": "−14,9% frente a −2,4% con placebo.",
+   "pmid": "33567185",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "The mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-002-en",
+   "translationKey": "medicine-002",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "In RECOVERY, dexamethasone lowered 28-day mortality in hospitalized Covid-19 patients who were…",
+   "options": [
+    "Receiving no respiratory support",
+    "On mechanical ventilation or oxygen",
+    "Younger than 18",
+    "Treated as outpatients"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Mortality fell among patients on invasive mechanical ventilation (29.3% vs 41.4%) or oxygen (23.3% vs 26.2%), but not among those without respiratory support.",
+   "shortExplanation": "Benefit with ventilation or oxygen, not without support.",
+   "pmid": "32678530",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "resulted in lower 28-day mortality among those who were receiving either invasive mechanical ventilation or oxygen alone at randomization but not among those receiving no respiratory support",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-002-es",
+   "translationKey": "medicine-002",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "En RECOVERY, la dexametasona redujo la mortalidad a 28 días en pacientes hospitalizados con Covid-19 que…",
+   "options": [
+    "No recibían soporte respiratorio",
+    "Recibían ventilación mecánica u oxígeno",
+    "Tenían menos de 18 años",
+    "Eran tratados de forma ambulatoria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La mortalidad bajó en pacientes con ventilación mecánica invasiva (29,3% frente a 41,4%) o con oxígeno (23,3% frente a 26,2%), pero no en quienes no recibían soporte respiratorio.",
+   "shortExplanation": "Beneficio con ventilación u oxígeno, no sin soporte.",
+   "pmid": "32678530",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "resulted in lower 28-day mortality among those who were receiving either invasive mechanical ventilation or oxygen alone at randomization but not among those receiving no respiratory support",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-003-en",
+   "translationKey": "medicine-003",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "What did Marshall and Warren (1984) find in stomach biopsies of patients with gastritis and ulcers?",
+   "options": [
+    "Parasitic worms",
+    "Fungal spores",
+    "Microplastics",
+    "Spiral or curved bacteria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Curved bacilli were seen in 58 of 100 patients and in almost all with active chronic gastritis or ulcers. They appeared to be a new species related to Campylobacter.",
+   "shortExplanation": "Curved bacteria, present in almost all ulcer patients.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "The bacteria were present in almost all patients with active chronic gastritis, duodenal ulcer, or gastric ulcer",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-003-es",
+   "translationKey": "medicine-003",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Qué encontraron Marshall y Warren (1984) en biopsias gástricas de pacientes con gastritis y úlceras?",
+   "options": [
+    "Gusanos parásitos",
+    "Esporas de hongos",
+    "Microplásticos",
+    "Bacterias espirales o curvadas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Se observaron bacilos curvados en 58 de 100 pacientes y en casi todos los que tenían gastritis crónica activa o úlceras. Parecían una nueva especie relacionada con Campylobacter.",
+   "shortExplanation": "Bacterias curvadas, presentes en casi todos los pacientes con úlcera.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "The bacteria were present in almost all patients with active chronic gastritis, duodenal ulcer, or gastric ulcer",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-001-en",
+   "translationKey": "biotech-001",
+   "language": "en",
+   "category": "biotechnology",
+   "difficulty": "explorer",
+   "prompt": "How many defined factors did Takahashi and Yamanaka (2006) use to create iPS cells?",
+   "options": [
+    "One",
+    "Two",
+    "Four",
+    "Ten"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Introducing Oct3/4, Sox2, c-Myc and Klf4 into mouse fibroblasts produced induced pluripotent stem (iPS) cells. Unexpectedly, Nanog was dispensable.",
+   "shortExplanation": "Four: Oct3/4, Sox2, c-Myc and Klf4.",
+   "pmid": "16904174",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "by introducing four factors, Oct3/4, Sox2, c-Myc, and Klf4",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-001-es",
+   "translationKey": "biotech-001",
+   "language": "es",
+   "category": "biotechnology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuántos factores definidos usaron Takahashi y Yamanaka (2006) para crear células iPS?",
+   "options": [
+    "Uno",
+    "Dos",
+    "Cuatro",
+    "Diez"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Introducir Oct3/4, Sox2, c-Myc y Klf4 en fibroblastos de ratón generó células madre pluripotentes inducidas (iPS). Inesperadamente, Nanog no fue necesario.",
+   "shortExplanation": "Cuatro: Oct3/4, Sox2, c-Myc y Klf4.",
+   "pmid": "16904174",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "by introducing four factors, Oct3/4, Sox2, c-Myc, and Klf4",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-002-en",
+   "translationKey": "biotech-002",
+   "language": "en",
+   "category": "biotechnology",
+   "difficulty": "researcher",
+   "prompt": "Prime editing writes new genetic information into DNA without requiring…",
+   "options": [
+    "A guide RNA",
+    "Double-strand breaks or donor DNA",
+    "A Cas9 protein",
+    "Living cells"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Prime editing fuses an impaired Cas9 to a reverse transcriptase, programmed by a pegRNA that specifies the target and encodes the edit. Over 175 edits were made in human cells without double-strand breaks or donor DNA.",
+   "shortExplanation": "No double-strand breaks or donor DNA needed.",
+   "pmid": "31634902",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "without requiring double-strand breaks or donor DNA templates",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-002-es",
+   "translationKey": "biotech-002",
+   "language": "es",
+   "category": "biotechnology",
+   "difficulty": "researcher",
+   "prompt": "La edición prime escribe nueva información genética en el ADN sin necesitar…",
+   "options": [
+    "Un ARN guía",
+    "Cortes de doble cadena ni ADN donante",
+    "Una proteína Cas9",
+    "Células vivas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La edición prime fusiona una Cas9 inactivada parcialmente con una transcriptasa inversa, programada por un pegRNA que indica la diana y codifica la edición. Se hicieron más de 175 ediciones en células humanas sin cortes de doble cadena ni ADN donante.",
+   "shortExplanation": "Sin cortes de doble cadena ni ADN donante.",
+   "pmid": "31634902",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "without requiring double-strand breaks or donor DNA templates",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-003-en",
+   "translationKey": "biotech-003",
+   "language": "en",
+   "category": "biotechnology",
+   "difficulty": "explorer",
+   "prompt": "With CD19-directed CAR T cells (CTL019), what share of patients with relapsed or refractory ALL reached complete remission?",
+   "options": [
+    "27%",
+    "50%",
+    "67%",
+    "90%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "27 of 30 children and adults (90%) achieved complete remission. All patients had cytokine-release syndrome, which was severe in 27%.",
+   "shortExplanation": "90%: 27 of 30 patients.",
+   "pmid": "25317870",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Complete remission was achieved in 27 patients (90%)",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-003-es",
+   "translationKey": "biotech-003",
+   "language": "es",
+   "category": "biotechnology",
+   "difficulty": "explorer",
+   "prompt": "Con células CAR-T dirigidas a CD19 (CTL019), ¿qué proporción de pacientes con LLA recidivante o refractaria logró la remisión completa?",
+   "options": [
+    "27%",
+    "50%",
+    "67%",
+    "90%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "27 de 30 niños y adultos (90%) lograron la remisión completa. Todos presentaron síndrome de liberación de citocinas, grave en el 27%.",
+   "shortExplanation": "90%: 27 de 30 pacientes.",
+   "pmid": "25317870",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Complete remission was achieved in 27 patients (90%)",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-001-en",
+   "translationKey": "nutrition-001",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "In the PREDIMED reanalysis (2018), which groups had fewer major cardiovascular events than the reduced-fat diet?",
+   "options": [
+    "Mediterranean diet + olive oil or nuts",
+    "A low-carbohydrate diet",
+    "A vegan diet",
+    "None of the groups"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "This is a republished report: the 2013 paper was withdrawn after protocol deviations in randomization. Revised analyses still showed lower event rates with a Mediterranean diet plus extra-virgin olive oil or nuts.",
+   "shortExplanation": "Mediterranean diet with olive oil or nuts.",
+   "pmid": "29897866",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the incidence of major cardiovascular events was lower among those assigned to a Mediterranean diet supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat diet",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-001-es",
+   "translationKey": "nutrition-001",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "En el reanálisis de PREDIMED (2018), ¿qué grupos tuvieron menos eventos cardiovasculares graves que la dieta baja en grasa?",
+   "options": [
+    "Dieta mediterránea + aceite de oliva o frutos secos",
+    "Una dieta baja en carbohidratos",
+    "Una dieta vegana",
+    "Ninguno de los grupos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Es un informe republicado: el artículo de 2013 se retiró por desviaciones del protocolo en la aleatorización. Los análisis revisados siguieron mostrando menos eventos con dieta mediterránea más aceite de oliva virgen extra o frutos secos.",
+   "shortExplanation": "Dieta mediterránea con aceite de oliva o frutos secos.",
+   "pmid": "29897866",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the incidence of major cardiovascular events was lower among those assigned to a Mediterranean diet supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat diet",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-002-en",
+   "translationKey": "nutrition-002",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "In the DASH-Sodium trial, what happened to blood pressure when sodium intake was reduced?",
+   "options": [
+    "It rose",
+    "It fell, with or without hypertension",
+    "It did not change",
+    "It fell only with hypertension"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Lower sodium reduced systolic blood pressure on both diets, in people with and without hypertension. Combining low sodium with the DASH diet had the largest effect.",
+   "shortExplanation": "It fell, in people with and without hypertension.",
+   "pmid": "11136953",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "The effects of sodium were observed in participants with and in those without hypertension",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-002-es",
+   "translationKey": "nutrition-002",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "En el ensayo DASH-Sodium, ¿qué ocurrió con la presión arterial al reducir el sodio?",
+   "options": [
+    "Subió",
+    "Bajó, con o sin hipertensión",
+    "No cambió",
+    "Bajó solo en personas con hipertensión"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Reducir el sodio bajó la presión sistólica con ambas dietas, en personas con y sin hipertensión. Combinar poco sodio con la dieta DASH tuvo el mayor efecto.",
+   "shortExplanation": "Bajó, en personas con y sin hipertensión.",
+   "pmid": "11136953",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "The effects of sodium were observed in participants with and in those without hypertension",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-003-en",
+   "translationKey": "nutrition-003",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "On an ultra-processed diet, how many extra calories per day did participants eat vs an unprocessed diet?",
+   "options": [
+    "About 50 kcal",
+    "About 200 kcal",
+    "About 500 kcal",
+    "About 1,500 kcal"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "In this 20-person inpatient crossover trial, meals were matched for calories, sugar, fat and fiber. People ate ~508 kcal/day more on the ultra-processed diet and gained 0.9 kg.",
+   "shortExplanation": "~508 kcal/day more, with weight gain.",
+   "pmid": "31105044",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Energy intake was greater during the ultra-processed diet (508 ± 106 kcal/day; p = 0.0001)",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-003-es",
+   "translationKey": "nutrition-003",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Con una dieta ultraprocesada, ¿cuántas calorías diarias de más comieron los participantes frente a una no procesada?",
+   "options": [
+    "Unas 50 kcal",
+    "Unas 200 kcal",
+    "Unas 500 kcal",
+    "Unas 1.500 kcal"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "En este ensayo cruzado con 20 personas hospitalizadas, las comidas igualaban calorías, azúcar, grasa y fibra. Comieron ~508 kcal/día más con la dieta ultraprocesada y ganaron 0,9 kg.",
+   "shortExplanation": "~508 kcal/día más, con aumento de peso.",
+   "pmid": "31105044",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Energy intake was greater during the ultra-processed diet (508 ± 106 kcal/day; p = 0.0001)",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-001-en",
+   "translationKey": "vet-001",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Rinderpest, a devastating cattle disease, was declared eradicated in 2011. It was…",
+   "options": [
+    "The first disease ever eradicated",
+    "The second disease ever eradicated",
+    "The fifth disease ever eradicated",
+    "Only eliminated from Europe"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "FAO and the World Organization for Animal Health declared global eradication in 2011, making rinderpest only the second disease ever eradicated, through mass vaccination and innovative surveillance.",
+   "shortExplanation": "Only the second disease ever eradicated.",
+   "pmid": "23798687",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "only the second disease to be eradicated",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-001-es",
+   "translationKey": "vet-001",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "La peste bovina, una enfermedad devastadora del ganado, se declaró erradicada en 2011. Fue…",
+   "options": [
+    "La primera enfermedad erradicada",
+    "La segunda enfermedad erradicada",
+    "La quinta enfermedad erradicada",
+    "Solo eliminada de Europa"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La FAO y la Organización Mundial de Sanidad Animal declararon su erradicación mundial en 2011: la segunda enfermedad erradicada de la historia, gracias a la vacunación masiva y a estrategias innovadoras de vigilancia.",
+   "shortExplanation": "La segunda enfermedad erradicada de la historia.",
+   "pmid": "23798687",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "only the second disease to be eradicated",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-002-en",
+   "translationKey": "vet-002",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "African swine fever virus replicates mainly in which cells?",
+   "options": [
+    "Red blood cells",
+    "Macrophages",
+    "Neurons",
+    "Muscle fibers"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "ASFV is a large DNA virus that replicates mainly in the cytoplasm of macrophages. In domestic pigs it causes a lethal hemorrhagic fever; at the time of this 2017 review there was no effective vaccine.",
+   "shortExplanation": "Macrophages, in their cytoplasm.",
+   "pmid": "28489063",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "replicates predominantly in the cytoplasm of macrophages",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-002-es",
+   "translationKey": "vet-002",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "El virus de la peste porcina africana se replica principalmente en ¿qué células?",
+   "options": [
+    "Glóbulos rojos",
+    "Macrófagos",
+    "Neuronas",
+    "Fibras musculares"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El VPPA es un gran virus de ADN que se replica principalmente en el citoplasma de los macrófagos. En cerdos domésticos causa una fiebre hemorrágica letal; cuando se publicó esta revisión (2017) no había vacuna eficaz.",
+   "shortExplanation": "Macrófagos, en su citoplasma.",
+   "pmid": "28489063",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "replicates predominantly in the cytoplasm of macrophages",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-003-en",
+   "translationKey": "vet-003",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which factor does this review cite as hindering eradication of chronic wasting disease in deer?",
+   "options": [
+    "Long-term persistence of infectivity in the environment",
+    "It affects only captive animals",
+    "It spreads only via mosquitoes",
+    "Infected deer clear the prion quickly"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cervid PRNP genetics, prion strain diversity and the long-term persistence of infectivity in the environment all complicate eradication of this prion disease.",
+   "shortExplanation": "Prion infectivity persists in the environment.",
+   "pmid": "34488900",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the long-term environmental persistence of infectivity, which hinder eradication efforts",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-003-es",
+   "translationKey": "vet-003",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué factor cita esta revisión como obstáculo para erradicar la caquexia crónica de los ciervos?",
+   "options": [
+    "La persistencia prolongada de la infectividad en el ambiente",
+    "Solo afecta a animales en cautividad",
+    "Solo se transmite por mosquitos",
+    "Los ciervos eliminan el prion rápidamente"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La genética PRNP de los cérvidos, la diversidad de cepas de priones y la persistencia prolongada de la infectividad en el ambiente dificultan la erradicación de esta enfermedad priónica.",
+   "shortExplanation": "La infectividad del prion persiste en el ambiente.",
+   "pmid": "34488900",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the long-term environmental persistence of infectivity, which hinder eradication efforts",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-001-en",
+   "translationKey": "general-001",
+   "language": "en",
+   "category": "generalScience",
+   "difficulty": "explorer",
+   "prompt": "When 100 psychology studies were replicated (2015), what share of replications had significant results?",
+   "options": [
+    "5%",
+    "36%",
+    "68%",
+    "97%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "97% of the original studies reported significant results, but only 36% of replications did, and replication effects were about half the original size.",
+   "shortExplanation": "36%, vs 97% of the original studies.",
+   "pmid": "26315443",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Thirty-six percent of replications had statistically significant results",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-001-es",
+   "translationKey": "general-001",
+   "language": "es",
+   "category": "generalScience",
+   "difficulty": "explorer",
+   "prompt": "Al replicar 100 estudios de psicología (2015), ¿qué proporción de réplicas obtuvo resultados significativos?",
+   "options": [
+    "5%",
+    "36%",
+    "68%",
+    "97%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El 97% de los estudios originales tenía resultados significativos, pero solo el 36% de las réplicas, y los efectos replicados fueron aproximadamente la mitad de los originales.",
+   "shortExplanation": "36%, frente al 97% de los originales.",
+   "pmid": "26315443",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Thirty-six percent of replications had statistically significant results",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-002-en",
+   "translationKey": "general-002",
+   "language": "en",
+   "category": "generalScience",
+   "difficulty": "explorer",
+   "prompt": "A tardigrade-unique protein reduced X-ray-induced DNA damage in human cells by about…",
+   "options": [
+    "4%",
+    "15%",
+    "40%",
+    "95%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Expressed in cultured human cells, a tardigrade-unique DNA-associating protein suppressed X-ray-induced DNA damage by ~40% and improved radiotolerance.",
+   "shortExplanation": "About 40%.",
+   "pmid": "27649274",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "suppresses X-ray-induced DNA damage by ∼40%",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-002-es",
+   "translationKey": "general-002",
+   "language": "es",
+   "category": "generalScience",
+   "difficulty": "explorer",
+   "prompt": "Una proteína exclusiva de los tardígrados redujo el daño al ADN por rayos X en células humanas aproximadamente un…",
+   "options": [
+    "4%",
+    "15%",
+    "40%",
+    "95%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Expresada en células humanas en cultivo, una proteína exclusiva de los tardígrados que se asocia al ADN redujo el daño por rayos X en ~40% y mejoró la radiotolerancia.",
+   "shortExplanation": "Alrededor de un 40%.",
+   "pmid": "27649274",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "suppresses X-ray-induced DNA damage by ∼40%",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-003-en",
+   "translationKey": "general-003",
+   "language": "en",
+   "category": "generalScience",
+   "difficulty": "curious",
+   "prompt": "Radiocarbon dating of eye lenses showed Greenland sharks live at least…",
+   "options": [
+    "272 years",
+    "50 years",
+    "120 years",
+    "1,000 years"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Dating eye lens nuclei of 28 sharks revealed a life span of at least 272 years, making the Greenland shark the longest-lived vertebrate known.",
+   "shortExplanation": "At least 272 years: the longest-lived vertebrate known.",
+   "pmid": "27516602",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "revealed a life span of at least 272 years",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-003-es",
+   "translationKey": "general-003",
+   "language": "es",
+   "category": "generalScience",
+   "difficulty": "curious",
+   "prompt": "La datación por radiocarbono del cristalino mostró que los tiburones de Groenlandia viven al menos…",
+   "options": [
+    "272 años",
+    "50 años",
+    "120 años",
+    "1.000 años"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Datar el núcleo del cristalino de 28 tiburones reveló una esperanza de vida de al menos 272 años: el vertebrado más longevo conocido.",
+   "shortExplanation": "Al menos 272 años: el vertebrado más longevo conocido.",
+   "pmid": "27516602",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "revealed a life span of at least 272 years",
+    "reviewedAt": "2026-10-12T00:00:00Z"
+   }
+  }
+ ]
+}
