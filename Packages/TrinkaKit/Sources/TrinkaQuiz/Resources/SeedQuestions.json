@@ -1,5 +1,5 @@
 {
- "version": 19,
+ "version": 20,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -4334,6 +4334,402 @@
    "publicationTypes": [
     "Journal Article",
     "Review"
+   ]
+  },
+  {
+   "pmid": "22664208",
+   "title": "Treatment of clinical mastitis.",
+   "authors": [
+    "Roberson JR"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2012,
+   "doi": "10.1016/j.cvfa.2012.03.011",
+   "abstract": "In summary, culture-based therapy and severity levels are key to management of clinical mastitis. Antibiotic therapy should be strongly considered for gram-positive clinical mastitis. Antibiotic therapy is not necessary for mild-to-moderate gram-negative clinical mastitis. Antibiotic therapy is warranted for practically all severe clinical mastitis as well as fluids and anti-inflammatory drugs. Clinical mastitis cases due to yeast and fungal pathogens or no growth isolates do not warrant antibiotic therapy.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30316500",
+   "title": "Making Antibiotic Treatment Decisions for Clinical Mastitis.",
+   "authors": [
+    "Ruegg PL"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2018,
+   "doi": "10.1016/j.cvfa.2018.06.002",
+   "abstract": "Treatment of bovine mastitis is the most common reason that antibiotics are used for adult dairy cows. Although antibiotics are essential to treat severe cases of clinical mastitis, using antibiotics to treat many cases of nonsevere clinical mastitis does not result in improved bacteriologic or clinical outcomes. Mastitis treatment protocols should be pathogen specific; no antimicrobial therapy is recommended for many culture-negative or gram-negative cases when detected. Before withholding antibiotic therapy, it is important to assess the ability of affected cows to mount a successful immune response. When the immune system is compromised, antimicrobial therapy may be recommended.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "1555116",
+   "title": "Treatment of subclinical mastitis.",
+   "authors": [
+    "Tyler JW",
+    "Wilson RC",
+    "Dowling P"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 1992,
+   "doi": "10.1016/s0749-0720(15)30758-1",
+   "abstract": "Topics addressed in this article include applied pharmacology of the bovine mammary gland, principles of antibiotic sensitivity testing, mechanisms of antimicrobial resistance, causes of treatment failures, diagnostic considerations, and therapy of specific subclinical mastitis syndromes. Recent research concerning systemic therapy of subclinical mastitis is highlighted and critically reviewed. Limitations of antibiotic sensitivity testing are discussed. The lack of proven, efficacious therapy for many subclinical mastitis syndromes is emphasized.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30316508",
+   "title": "An Update on the Effect of Clinical Mastitis on the Welfare of Dairy Cows and Potential Therapies.",
+   "authors": [
+    "Petersson-Wolfe CS",
+    "Leslie KE",
+    "Swartz TH"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2018,
+   "doi": "10.1016/j.cvfa.2018.07.006",
+   "abstract": "Despite the widespread implementation of mastitis control programs, mastitis is the most common and one of the costliest diseases in the dairy industry, with broad-ranging impacts and consequences. Recent technological advances have allowed researchers to assess the effects of mastitis on animal behavior and welfare, and the efficacy of mastitis treatments. Several nonsteroidal anti-inflammatory drugs are available as supportive therapies for clinical mastitis. This article focuses on recent advances in the assessment, therapy, and effects of mastitis on cow behavior and welfare.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41472139",
+   "title": "Antibiotic Residues in Milk as a Consequence of Mastitis Treatment: Balancing Animal Welfare and One Health Risks.",
+   "authors": [
+    "Tomanić D",
+    "Kladar N",
+    "Kovačević Z"
+   ],
+   "journal": "Veterinary sciences",
+   "year": 2025,
+   "doi": "10.3390/vetsci12121159",
+   "abstract": "Bovine mastitis is a prevalent infectious disease in dairy cattle, causing inflammation, pain, reduced milk yield, and economic losses. Antibiotic therapy is the mainstay of treatment, yet irresponsible use can lead to the presence of antibiotic residues in milk and contribute to the emergence of antimicrobial resistance (AMR), posing significant risks to public health and food safety. This review aims to provide a comprehensive synthesis of current knowledge on mastitis management, antibiotic use and resulting residues in milk, their public health and environmental impacts, and alternative strategies to reduce antibiotic dependence, framed within a One Health-One Welfare perspective. Antibiotic residues in milk are closely linked to treatment practices, withdrawal period compliance, and regulatory oversight, with prevalence ranging from <1% in some European countries to over 80% in parts of Africa. Residues, particularly from β-lactams, tetracyclines, and quinolones, can disrupt human intestinal microbiota, promote resistant bacterial strains, trigger immunological reactions, and interfere with dairy processing. Environmental contamination through excreted antibiotics further facilitates the spread of resistance. Sustainable alternatives, including probiotics, phytotherapy, vaccines, and improved farm biosecurity, show promise in reducing antibiotic use while maintaining animal welfare and productivity. Antibiotic therapy remains essential for mastitis control, but its consequences on milk safety, public health, and AMR require prudent management. Integrating monitoring, adherence to withdrawal periods, and sustainable alternatives within a One Health-One Welfare framework is critical for ensuring safe, responsible, and environmentally sustainable dairy production.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34438712",
+   "title": "Precision Technologies to Address Dairy Cattle Welfare: Focus on Lameness, Mastitis and Body Condition.",
+   "authors": [
+    "Silva SR",
+    "Araujo JP",
+    "Guedes C",
+    "Silva F",
+    "Almeida M",
+    "Cerqueira JL"
+   ],
+   "journal": "Animals : an open access journal from MDPI",
+   "year": 2021,
+   "doi": "10.3390/ani11082253",
+   "abstract": "Specific animal-based indicators that can be used to predict animal welfare have been the core of protocols for assessing the welfare of farm animals, such as those produced by the Welfare Quality project. At the same time, the contribution of technological tools for the accurate and real-time assessment of farm animal welfare is also evident. The solutions based on technological tools fit into the precision livestock farming (PLF) concept, which has improved productivity, economic sustainability, and animal welfare in dairy farms. PLF has been adopted recently; nevertheless, the need for technological support on farms is getting more and more attention and has translated into significant scientific contributions in various fields of the dairy industry, but with an emphasis on the health and welfare of the cows. This review aims to present the recent advances of PLF in dairy cow welfare, particularly in the assessment of lameness, mastitis, and body condition, which are among the most relevant animal-based indications for the welfare of cows. Finally, a discussion is presented on the possibility of integrating the information obtained by PLF into a welfare assessment framework.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29948774",
+   "title": "Diagnosis of bovine mastitis: from laboratory to farm.",
+   "authors": [
+    "Ashraf A",
+    "Imran M"
+   ],
+   "journal": "Tropical animal health and production",
+   "year": 2018,
+   "doi": "10.1007/s11250-018-1629-0",
+   "abstract": "Accurate diagnosis of disease is the major step between the cause and cure of disease. An economical, reliable, and rapid diagnostic tool is fundamental for the management of udder health. The earlier the disease is identified, the less will be the damage; keeping this in mind, many efforts are being made to develop reliable diagnostic tools for use on farm. However, traditional gold standard methods including somatic cell count and microbial culturing are still in use. They are partially being replaced with polymerase chain reaction and sequencing-based tests. Nanotechnology and protein-based tests have also gained lot of attention and some of them are potential candidate of future diagnostic tests for bovine mastitis. Research laboratories are struggling to develop simple, economical, and user-friendly biosensor-based methods that can be performed on farm for rapid diagnosis. The combination of both genomic and proteomic approaches, together with further involvement of nanotheranostic technologies and other sensors, will assist in the quest of better mastitis diagnostic tools.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31417901",
+   "title": "Biosensors for On-Farm Diagnosis of Mastitis.",
+   "authors": [
+    "Martins SAM",
+    "Martins VC",
+    "Cardoso FA",
+    "Germano J",
+    "Rodrigues M",
+    "Duarte C",
+    "Bexiga R",
+    "Cardoso S",
+    "Freitas PP"
+   ],
+   "journal": "Frontiers in bioengineering and biotechnology",
+   "year": 2019,
+   "doi": "10.3389/fbioe.2019.00186",
+   "abstract": "Bovine mastitis is an inflammation of the mammary gland caused by a multitude of pathogens with devastating consequences for the dairy industry. Global annual losses are estimated to be around €30 bn and are caused by significant milk losses, poor milk quality, culling of chronically infected animals, and occasional deaths. Moreover, mastitis management routinely implies the administration of antibiotics to treat and prevent the disease which poses serious risks regarding the emergence of antibiotic resistance. Conventional diagnostic methods based on somatic cell counts (SCC) and plate-culture techniques are accurate in identifying the disease, the respective infectious agents and antibiotic resistant phenotypes. However, pressure exists to develop less lengthy approaches, capable of providing on-site information concerning the infection, and in this way, guide, and hasten the most adequate treatment. Biosensors are analytical tools that convert the presence of biological compounds into an electric signal. Benefitting from high signal-to-noise ratios and fast response times, when properly tuned, they can detect the presence of specific cells and cell markers with high sensitivity. In combination with microfluidics, they provide the means for development of automated and portable diagnostic devices. Still, while biosensors are growing at a fast pace in human diagnostics, applications for the veterinary market, and specifically, for the diagnosis of mastitis remain limited. This review highlights current approaches for mastitis diagnosis and describes the latest outcomes in biosensors and lab-on-chip devices with the potential to become real alternatives to standard practices. Focus is given to those technologies that, in a near future, will enable for an on-farm diagnosis of mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41130392",
+   "title": "Graduate Student Literature Review: Utilization of differential somatic cell count in the detection and management of mastitis.",
+   "authors": [
+    "Burner C",
+    "Callaway TR",
+    "Ryman VE"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2025,
+   "doi": "10.3168/jds.2025-26945",
+   "abstract": "Mastitis remains a substantial challenge for the dairy industry. Producers strive to maximize dairy cow production, health, and well-being, while also reducing antibiotic usage. Limitations to current mastitis measures have led to the exploration of the use of differential SCC (DSCC). Rather than evaluating the total cell population within milk (i.e., SCC), DSCC focuses on the distribution of individual white blood cell (WBC) types. During an infection, the number of WBC will change dramatically as a result of inflammation. Predominant WBC consist of neutrophils, macrophages, and lymphocytes. A more in-depth assessment of the immune response provided by DSCC may address limitations of other diagnostic parameters. Multiple methods exist to enumerate DSCC, with the most common being fluorescence microscopy and flow cytometry. However, there is still much unknown about the biological factors that affect DSCC. In order for DSCC to be appropriately used in the dairy industry, there must be a consensus on how DSCC is reported and a greater understanding of the physiological and environmental factors that affect cell populations. This review brings together current information on the performance of DSCC in IMI detection and related factors to help guide future directions for research.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30316502",
+   "title": "Mastitis Control in Automatic Milking Systems.",
+   "authors": [
+    "Penry JF"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2018,
+   "doi": "10.1016/j.cvfa.2018.06.004",
+   "abstract": "Automatic milking systems, or robotic milking systems, are now well established as a milk harvesting technology in Europe, Nth America and Australasia. This system is quarter based harvesting where human activity is not routinely required for milking or initial mastitis detection activities. Mastitis risk factors common with conventional milking are: environmental contamination, teat congestion and teat hyperkeratosis risk. The risk factors which differ include: pre-milking preparation, impact formation, and overmilking risk. Mastitis detection technology varies between automatic milking unit types, but all should be characterised by test sensitivity, false alert rate and the gold standard used for test assessment.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34008236",
+   "title": "Mechanisms by which mastitis affects reproduction in dairy cow: A review.",
+   "authors": [
+    "Wang N",
+    "Zhou C",
+    "Basang W",
+    "Zhu Y",
+    "Wang X",
+    "Li C",
+    "Chen L",
+    "Zhou X"
+   ],
+   "journal": "Reproduction in domestic animals = Zuchthygiene",
+   "year": 2021,
+   "doi": "10.1111/rda.13953",
+   "abstract": "Reproductive performance is a key factor in determining the profitability of dairy farm, which is affected by many factors such as environment and diseases. Mastitis is a common and important disease, which has caused huge economic losses to the dairy industries worldwide. Mammary gland infection causes immune responses, resulting in the abnormal secretion of cytokines and hormones and abnormal function of the reproductive system such as the ovary, corpus luteum, uterus and embryo. Cows with mastitis have delayed oestrus, decreased pregnancy rate and increased risk of abortion. The adverse effects of mastitis on reproductive performance are affected by many factors, such as occurrence time, pathogen and cow factors. This paper primarily reviews the progress in the effects and mechanisms of mastitis on reproductive performance, with emphasis on maternal transcriptome, genomic analysis, epigenetic modification, microbiota, inflammatory regulation and immune evasion mechanism of mastitis, aiming to provide directions for the prevention and control of mastitis in the future.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "42025908",
+   "title": "Climate change as a driver of bovine mastitis: Impacts on environmental pathogen ecology, host susceptibility, and future mitigation strategies.",
+   "authors": [
+    "Leghari A",
+    "Khand FM",
+    "Laghari S",
+    "Lakho SA"
+   ],
+   "journal": "Veterinary journal (London, England : 1997)",
+   "year": 2026,
+   "doi": "10.1016/j.tvjl.2026.106685",
+   "abstract": "Climate change poses an escalating threat to global dairy production by exacerbating the incidence and severity of bovine mastitis, a disease with profound economic and animal welfare implications. This review synthesizes emerging evidence to demonstrate that climate change acts as a multifactorial driver of mastitis risk through interconnected physiological, ecological, and epidemiological pathways. Elevated temperatures and humidity induce host immunosuppression via heat stress, compromising systemic and mammary-specific immune defenses. Concurrently, climatic variables alter the environmental dynamics of key pathogens (e.g., Escherichia coli, Klebsiella spp., Streptococcus uberis), enhancing their survival, proliferation, and biofilm formation. These changes drive extended seasonal risk windows, geographic redistribution of disease pressure, and acute spikes in incidence following extreme weather events. Furthermore, climate change intersects with antimicrobial resistance by increasing disease incidence and antibiotic use, while also promoting environmental persistence and horizontal gene transfer of resistance determinants. To address this compounded challenge, the review outlines a framework for climate-resilient mastitis control, integrating short-term heat abatement and housing adjustments, medium-term nutritional and genetic interventions, and long-term adaptive surveillance within a One Health approach. Proactive, integrated strategies are essential to mitigate the growing threat of climate-amplified mastitis and ensure the sustainability of dairy production systems. Future research must prioritize mechanistic studies, predictive modeling, and economic analyses to translate this knowledge into actionable solutions.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33255907",
+   "title": "Epidemiology and Classification of Mastitis.",
+   "authors": [
+    "Cobirka M",
+    "Tancin V",
+    "Slama P"
+   ],
+   "journal": "Animals : an open access journal from MDPI",
+   "year": 2020,
+   "doi": "10.3390/ani10122212",
+   "abstract": "Farmers should focus on milk quality over quantity because milk that contains unsuitable components and/or antibiotic residues, or has a high somatic cell count, cannot be used in food production and thereby results in reduced milk yield. One of the main problems affecting the ultimate milk yield of dairy cows is mastitis. This disease is the most serious economic and health problem associated with dairy cow herds and is a major reason for excessive culling. Therefore, many studies have addressed this problem to further our understanding of the agents causing mastitis and their classification and virulence factors. This review summarizes the current knowledge regarding mastitis prevalence, the characteristics of its main causative agents, and the effects of mastitis on dairy production. The review also intends to provide guidance for future studies by examining external effects influencing dairy production in cows under field conditions.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "21968538",
+   "title": "Molecular epidemiology of mastitis pathogens of dairy cattle and comparative relevance to humans.",
+   "authors": [
+    "Zadoks RN",
+    "Middleton JR",
+    "McDougall S",
+    "Katholm J",
+    "Schukken YH"
+   ],
+   "journal": "Journal of mammary gland biology and neoplasia",
+   "year": 2011,
+   "doi": "10.1007/s10911-011-9236-y",
+   "abstract": "Mastitis, inflammation of the mammary gland, can be caused by a wide range of organisms, including gram-negative and gram-positive bacteria, mycoplasmas and algae. Many microbial species that are common causes of bovine mastitis, such as Escherichia coli, Klebsiella pneumoniae, Streptococcus agalactiae and Staphylococcus aureus also occur as commensals or pathogens of humans whereas other causative species, such as Streptococcus uberis, Streptococcus dysgalactiae subsp. dysgalactiae or Staphylococcus chromogenes, are almost exclusively found in animals. A wide range of molecular typing methods have been used in the past two decades to investigate the epidemiology of bovine mastitis at the subspecies level. These include comparative typing methods that are based on electrophoretic banding patterns, library typing methods that are based on the sequence of selected genes, virulence gene arrays and whole genome sequencing projects. The strain distribution of mastitis pathogens has been investigated within individual animals and across animals, herds, countries and host species, with consideration of the mammary gland, other animal or human body sites, and environmental sources. Molecular epidemiological studies have contributed considerably to our understanding of sources, transmission routes, and prognosis for many bovine mastitis pathogens and to our understanding of mechanisms of host-adaptation and disease causation. In this review, we summarize knowledge gleaned from two decades of molecular epidemiological studies of mastitis pathogens in dairy cattle and discuss aspects of comparative relevance to human medicine.",
+   "publicationTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25407741",
+   "title": "A systematic review and meta-analysis of prevalence of subclinical mastitis in dairy cows in India.",
+   "authors": [
+    "Bangar YC",
+    "Singh B",
+    "Dohare AK",
+    "Verma MR"
+   ],
+   "journal": "Tropical animal health and production",
+   "year": 2015,
+   "doi": "10.1007/s11250-014-0718-y",
+   "abstract": "The purpose of the study was to provide the pooled estimate of the prevalence of subclinical mastitis among dairy cows in India and to examine the consistency of those estimates between published studies. We have conducted a systematic review of prevalence of subclinical mastitis in dairy cows for the period 1995-2014 using electronic and non-electronic databases. Meta-analysis of 28 studies was done under random effects model using Metaprop package in R software. The pooled estimate of prevalence of subclinical mastitis on cow-basis was obtained using 6344 cows from 25 studies and was found to be 46.35 % (95 % CI 39.38; 53.46). Meta-analysis for quarter-wise prevalence of subclinical mastitis was carried out using 18,721 udder quarters of dairy cows from 23 studies, and the pooled estimate of prevalence of subclinical mastitis on quarter-basis was found to be 23.25 % (95 % CI 18.15; 29.27). Meta-analysis showed that there is statistically high heterogeneity for the prevalence estimates between published studies. The present study reported that there is high prevalence of subclinical mastitis in dairy cows in India, which might be responsible for low productivity in lactating cows in India over the years and needs to be controlled by adopting scientific, managemental, and therapeutic measures. Dairy farmers can reduce incidence and economic losses due to subclinical mastitis under the guidance of field veterinarians.",
+   "publicationTypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "18820158",
+   "title": "Management of mastitis on organic and conventional dairy farms.",
+   "authors": [
+    "Ruegg PL"
+   ],
+   "journal": "Journal of animal science",
+   "year": 2009,
+   "doi": "10.2527/jas.2008-1217",
+   "abstract": "This paper compares management of mastitis on organic dairy farms with that on conventional dairy farms. National standards for organic production vary by country. In the United States, usage of antimicrobials to treat dairy cattle results in permanent loss of organic status of the animal, effectively limiting treatment choices for animals experiencing bacterial diseases. There are no products approved by the US Food and Drug Administration that can be used for treatment of mastitis on organic dairy farms, and usage of unapproved products is contrary to Food and Drug Administration guidelines. In general, organic dairy farms tend to be smaller, produce less, and more likely to be housed and milked in traditional barns as compared with conventionally managed herds. It is difficult to compare disease rates between herds managed conventionally or organically because perception and detection of disease is influenced by management system. To date, no studies have been published with the defined objective of comparing animal health on organic dairy herds with that on conventional dairy herds in the United States. European studies have not documented significant differences in animal health based on adoption of organic management. Few differences in bulk tank somatic cell counts have been identified between organic and conventional herds. Farmers that have adopted organic management consistently report fewer cases of clinical mastitis, but organic farmers do not use the same criteria to detect clinical mastitis. European dairy farmers that adopt organic management report use of a variety of conventional and alternative therapies for treatment and control of mastitis. In the United States, organic farmers treat clinical mastitis using a variety of alternative therapies including whey-based products, botanicals, vitamin supplements, and homeopathy. Organic farmers in the United States use a variety of alternative products to treat cows at dry-off. Virtually no data are available that support the clinical efficacy of any of the alternative veterinary products used for treatment or prevention of mastitis. Some associations between organic management and antimicrobial susceptibility of gram-positive mastitis pathogens have been noted, but overall, few mastitis pathogens from both conventional and organic dairy herds demonstrate resistance to antibiotics commonly used for mastitis control.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28169551",
+   "title": "Advances in lactoferrin research concerning bovine mastitis.",
+   "authors": [
+    "Shimazaki KI",
+    "Kawai K"
+   ],
+   "journal": "Biochemistry and cell biology = Biochimie et biologie cellulaire",
+   "year": 2017,
+   "doi": "10.1139/bcb-2016-0044",
+   "abstract": "Lactoferrin is a multifunctional, iron-binding glycoprotein found in milk and other exocrine secretions. Lactoferrin in milk plays vital roles in the healthy development of newborn mammals, and is also an innate resistance factor involved in the prevention of mammary gland infection by microorganisms. Inflammation of the udder because of bacterial infection is referred to as mastitis. There have been many investigations into the relationships between lactoferrin and mastitis, which fall into several categories. The main categories are fluctuations in the lactoferrin concentration of milk, lactoferrin activity against mastitis pathogens, elucidation of the processes underlying the onset of mastitis, participation of lactoferrin in the immune system, and utilization of lactoferrin in mastitis treatment and prevention. This minireview describes lactoferrin research concerning bovine mastitis. In the 1970s, many researchers reported that the lactoferrin concentration fluctuates in milk from cows with mastitis. From the late 1980s, many studies clarified the infection-defense mechanism in the udder and the contribution of lactoferrin to the immune system. After the year 2000, the processes underlying the onset of mastitis were elucidated in vivo and in vitro, and lactoferrin was applied for the treatment and prevention of mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "8227683",
+   "title": "Role of vitamin E and selenium in host defense against mastitis.",
+   "authors": [
+    "Hogan JS",
+    "Weiss WP",
+    "Smith KL"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 1993,
+   "doi": "10.3168/jds.S0022-0302(93)77618-3",
+   "abstract": "Vitamin E and Se are essential nutrients that share common biological activities. Deficiencies in either of these micronutrients have been related in increased incidence and severity of mastitis. A known physiological consequence of alpha-tocopherol or Se deficiency is reduced neutrophil activity. Vitamin E and the Se-containing enzyme, glutathione peroxidase, and antioxidants that protect neutrophils from the destructive action of toxic oxygen molecules necessary for intracellular kill of ingested pathogens. Dietary supplementation of cattle with Se results in a more rapid neutrophil influx into milk following intramammary bacterial challenge and increased intracellular kill of ingested bacteria by neutrophils. Dietary supplementation of early lactation cows with vitamin E results in increased bactericidal activity by bovine blood neutrophils. Recently completed trials have shown that subcutaneous injections of vitamin E approximately 10 and 5 d prior to calving successfully elevated neutrophil alpha-tocopherol concentrations during the periparturient period and negated the suppressed intracellular kill of bacteria by neutrophils that is commonly observed at calving.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "11943325",
+   "title": "Regulation of adhesion molecules on circulating neutrophils during coliform mastitis and their possible immunomodulation with drugs.",
+   "authors": [
+    "Diez-Fraile A",
+    "Meyer E",
+    "Burvenich C"
+   ],
+   "journal": "Veterinary immunology and immunopathology",
+   "year": 2002,
+   "doi": "10.1016/s0165-2427(01)00432-9",
+   "abstract": "Fast neutrophil diapedesis has been demonstrated to be critical in coliform mastitis and is determining for the severity of infection. Leukocyte adhesion molecules play a pivotal role in neutrophil recruitment. Two families of cell surface proteins help to regulate the adherence of neutrophils to vascular endothelium: selectins and beta(2)-integrins. Both classes of leukocyte adhesion molecules are reviewed in the context of their dynamic expression around parturition and during acute coliform mastitis. Their potential modulation by commonly used drugs and the therapeutic implications during acute coliform mastitis are also discussed.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32388021",
+   "title": "Use of plant extracts and essential oils in the control of bovine mastitis.",
+   "authors": [
+    "Lopes TS",
+    "Fontoura PS",
+    "Oliveira A",
+    "Rizzo FA",
+    "Silveira S",
+    "Streck AF"
+   ],
+   "journal": "Research in veterinary science",
+   "year": 2020,
+   "doi": "10.1016/j.rvsc.2020.04.025",
+   "abstract": "Bovine mastitis is the most important disease affecting dairy herds worldwide, causing direct impacts on farms' profitability and food safety issues. The prevention and treatment of this pathology is especially done through antimicrobials, but the increasing antimicrobial resistance of pathogens to this disease may affect the efficiency of conventional drugs. Besides, antimicrobials residues in milk and the environment are a potential threat to human health. Thereby, the use of plant extracts and essential oils may become promising alternatives for the control of bovine mastitis. Antimicrobial properties present in several plants are well described and plant extracts and essential oils are often considered safe to animals, humans and environment. This review summarizes the current problems encountered in the conventional treatment of mastitis, the possibilities of the use of plant extracts and essential oils as alternative agents for the control of these pathogens and the limitations found in the use of these plant derivatives. Finally, the perspectives to the use of plant extracts and essential oils for the treatment of bovine mastitis are presented.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32036717",
+   "title": "Nanoparticles for treatment of bovine Staphylococcus aureus mastitis.",
+   "authors": [
+    "Algharib SA",
+    "Dawood A",
+    "Xie S"
+   ],
+   "journal": "Drug delivery",
+   "year": 2020,
+   "doi": "10.1080/10717544.2020.1724209",
+   "abstract": "Staphylococcus aureus (S. aureus) is one of the most important zoonotic bacterial pathogens, infecting human beings and a wide range of animals, in particular, dairy cattle. Globally. S. aureus causing bovine mastitis is one of the biggest problems and an economic burden facing the dairy industry with a strong negative impact on animal welfare, productivity, and food safety. Furthermore, its smart pathogenesis, including facultative intracellular parasitism, increasingly serious antimicrobial resistance, and biofilm formation, make it challenging to be treated by conventional therapy. Therefore, the development of nanoparticles, especially liposomes, polymeric nanoparticles, solid lipid nanoparticles, nanogels, and inorganic nanoparticles, are gaining traction and excellent tools for overcoming the therapeutic difficulty accompanied by S. aureus mastitis. Therefore, in this review, the current progress and challenges of nanoparticles in enhancing the S. aureus mastitis therapy are focused stepwise. Firstly, the S. aureus treatment difficulties by the antimicrobial drugs are analyzed. Secondly, the advantages of nanoparticles in the treatment of S. aureus mastitis, including improving the penetration and accumulation of their payload drugs intracellular, decreasing the antimicrobial resistance, and preventing the biofilm formation, are also summarized. Thirdly, the progression of different types from the nanoparticles for controlling the S. aureus mastitis are provided. Finally, the difficulties that need to be solved, and future prospects of nanoparticles for S. aureus mastitis treatment are highlighted. This review will provide the readers with enough information about the challenges of the nanosystem to help them to design and fabricate more efficient nanoformulations against S. aureus infections.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36657355",
+   "title": "Evaluating the efficacy of internal teat sealants at dry-off for the prevention of new intra-mammary infections during the dry-period or clinical mastitis during early lactation in dairy cows: A systematic review update and sequential meta-analysis.",
+   "authors": [
+    "Pearce SD",
+    "Parmley EJ",
+    "Winder CB",
+    "Sargeant JM",
+    "Prashad M",
+    "Ringelberg M",
+    "Felker M",
+    "Kelton DF"
+   ],
+   "journal": "Preventive veterinary medicine",
+   "year": 2023,
+   "doi": "10.1016/j.prevetmed.2023.105841",
+   "abstract": "A systematic review and Bayesian sequential pair-wise meta-analyses were conducted to assess the efficacy of internal teat sealants (ITS) administered at dry-off in comparison to no treatment for preventing new intramammary infections (IMI) and clinical mastitis (CM) in dairy cattle. This work updated a previous systematic review and network meta-analysis conducted in 2019 but employed a narrowed scope and eligibility. The updated eligibility included studies that used ITS without concurrent therapy compared to a no treatment control (NTC), a study population of dairy cows or prepartum heifers, controlled trial design, and assessed one of the following outcomes: incidence of new IMI at calving or CM during the first 30 days in milk (DIM). Risk of bias was assessed through the Cochrane Risk of Bias 2.0 tool. Evidence quality was assessed using Grading of Recommendations Assessment, Development, and Evaluation (GRADE). There were 141 potentially relevant records identified from the updated search conducted on April 29, 2021, with a publication date restriction of 2018 or later; one study passed full-text screening and was included. Of the 32 studies included in the previous review, 12 studies were relevant after applying the modified eligibility criteria, totaling 13 studies included in this review (12 addressing IMI at calving outcome, 4 addressing CM at 30 DIM outcome). Sequential meta-analysis was conducted for both outcomes in R 3.6.0. Decisions for stopping were assessed at each analysis for intervention effect or futility in finding an effect based on a priori minimum clinically relevant values (ORδ =0.5, 0.75). ITS at dry-off significantly reduced odds of new IMI at calving compared to NTC at the second meta-analysis (OR2 =0.27, 95% CI=0.22-0.34), and onward (OR12 =0.29, 95% CI=0.27-0.32). For CM at 30 DIM, significance was reached at the second meta-analysis (OR2 =0.59, 95% CI=0.47-0.73), and onward (OR3 =0.47, 95% CI=0.42-0.51). Stopping for effect occurred at the second analysis in both outcomes and ORδs, but low-quality evidence and heterogeneity concerns were noted. A continuity-correction to include zero-event CM studies showed significance at the third meta-analysis (OR3 =0.79, 95% CI=0.73-0.86), stopping for effect at the fourth for ORδ = 0.75 (OR4 =0.77, 95% CI=0.72-0.83), and stopping for futility at the second for ORδ = 0.5 (OR2 =0.94, 95% CI=0.75-1.20), but the main CM analysis was considered more appropriate due to the sensitivity analysis' very low-quality evidence assessment. Based on sequential evidence available, sufficient research currently exists for practical use, and cessation of future research until substantial changes to ITS application occur may be appropriate.",
+   "publicationTypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
    ]
   },
   {
@@ -32298,6 +32694,1830 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "The etiology of mastitis is complex and polymicrobial",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664208-1-en",
+   "translationKey": "mastitis-22664208-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "What two things are key to managing clinical mastitis, according to this review?",
+   "options": [
+    "Culture-based therapy and severity level",
+    "Cow age and coat color",
+    "Milk price and season",
+    "Herd size only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Knowing the pathogen (culture) and the case severity guides whether and how to treat.",
+   "shortExplanation": "Culture and severity.",
+   "pmid": "22664208",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "culture-based therapy and severity levels are key to management of clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664208-1-es",
+   "translationKey": "mastitis-22664208-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué dos cosas son clave para manejar la mastitis clínica según esta revisión?",
+   "options": [
+    "El tratamiento basado en cultivo y el grado de gravedad",
+    "La edad y el pelaje de la vaca",
+    "El precio de la leche y la estación",
+    "Solo el tamaño del rodeo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Conocer el patógeno (cultivo) y la gravedad del caso orienta si tratar y cómo.",
+   "shortExplanation": "Cultivo y gravedad.",
+   "pmid": "22664208",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "culture-based therapy and severity levels are key to management of clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664208-2-en",
+   "translationKey": "mastitis-22664208-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "For which clinical mastitis cases are antibiotics generally NOT necessary?",
+   "options": [
+    "Severe cases of any cause",
+    "Gram-positive cases",
+    "Mild-to-moderate gram-negative cases",
+    "All cases with fever"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Many mild-to-moderate gram-negative cases self-cure; antibiotics are strongly considered for gram-positive cases.",
+   "shortExplanation": "Mild gram-negative.",
+   "pmid": "22664208",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antibiotic therapy is not necessary for mild-to-moderate gram-negative clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664208-2-es",
+   "translationKey": "mastitis-22664208-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿En qué casos de mastitis clínica en general NO hacen falta antibióticos?",
+   "options": [
+    "Casos graves de cualquier causa",
+    "Casos por grampositivos",
+    "Casos leves a moderados por gramnegativos",
+    "Todos los casos con fiebre"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Muchos casos leves a moderados por gramnegativos se curan solos; en los grampositivos sí se consideran antibióticos.",
+   "shortExplanation": "Gramnegativos leves.",
+   "pmid": "22664208",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antibiotic therapy is not necessary for mild-to-moderate gram-negative clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664208-3-en",
+   "translationKey": "mastitis-22664208-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How should severe clinical mastitis be managed?",
+   "options": [
+    "No treatment at all",
+    "Only teat dip",
+    "Only homeopathy",
+    "Antibiotics plus fluids and anti-inflammatory drugs"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Severe cases need antibiotics together with supportive fluids and anti-inflammatories.",
+   "shortExplanation": "Antibiotics + support.",
+   "pmid": "22664208",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antibiotic therapy is warranted for practically all severe clinical mastitis as well as fluids and anti-inflammatory drugs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664208-3-es",
+   "translationKey": "mastitis-22664208-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo debe manejarse la mastitis clínica grave?",
+   "options": [
+    "Sin tratamiento",
+    "Solo sellador de pezones",
+    "Solo homeopatía",
+    "Antibióticos más fluidos y antiinflamatorios"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los casos graves requieren antibióticos junto con fluidos y antiinflamatorios de sostén.",
+   "shortExplanation": "Antibióticos + sostén.",
+   "pmid": "22664208",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antibiotic therapy is warranted for practically all severe clinical mastitis as well as fluids and anti-inflammatory drugs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664208-4-en",
+   "translationKey": "mastitis-22664208-4",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Why don't yeast-caused or 'no growth' mastitis cases warrant antibiotics?",
+   "options": [
+    "Antibiotics are too expensive",
+    "Antibiotics do not act on yeasts, and no-growth cases often have no bacteria to target",
+    "Yeasts are beneficial",
+    "They always need surgery"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Antibacterials don't work on fungi, and culture-negative cases rarely benefit from treatment.",
+   "shortExplanation": "No target.",
+   "pmid": "22664208",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Clinical mastitis cases due to yeast and fungal pathogens or no growth isolates do not warrant antibiotic therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664208-4-es",
+   "translationKey": "mastitis-22664208-4",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Por qué los casos de mastitis por levaduras o 'sin crecimiento' no justifican antibióticos?",
+   "options": [
+    "Los antibióticos son caros",
+    "Los antibióticos no actúan sobre levaduras, y los casos sin crecimiento suelen no tener bacterias que tratar",
+    "Las levaduras son beneficiosas",
+    "Siempre requieren cirugía"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los antibacterianos no sirven contra hongos y los casos con cultivo negativo rara vez se benefician del tratamiento.",
+   "shortExplanation": "Sin blanco.",
+   "pmid": "22664208",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Clinical mastitis cases due to yeast and fungal pathogens or no growth isolates do not warrant antibiotic therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316500-1-en",
+   "translationKey": "mastitis-30316500-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "What is the most common reason antibiotics are used in adult dairy cows?",
+   "options": [
+    "Lameness",
+    "Pneumonia",
+    "Treating mastitis",
+    "Growth promotion"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mastitis treatment drives most antibiotic use in adult dairy cows, so better decisions reduce use substantially.",
+   "shortExplanation": "Mastitis.",
+   "pmid": "30316500",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Treatment of bovine mastitis is the most common reason that antibiotics are used for adult dairy cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316500-1-es",
+   "translationKey": "mastitis-30316500-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es el motivo más frecuente de uso de antibióticos en vacas lecheras adultas?",
+   "options": [
+    "La cojera",
+    "La neumonía",
+    "El tratamiento de la mastitis",
+    "Promover el crecimiento"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El tratamiento de la mastitis explica la mayor parte del uso de antibióticos en vacas adultas, así que mejores decisiones reducen mucho el uso.",
+   "shortExplanation": "Mastitis.",
+   "pmid": "30316500",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Treatment of bovine mastitis is the most common reason that antibiotics are used for adult dairy cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316500-2-en",
+   "translationKey": "mastitis-30316500-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Before deciding not to give antibiotics to a cow with mild mastitis, what should be assessed?",
+   "options": [
+    "Whether the cow can mount a successful immune response",
+    "The cow's coat color",
+    "The price of milk",
+    "The weather forecast"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "If the immune system is compromised, antimicrobial therapy may be recommended even for nonsevere cases.",
+   "shortExplanation": "Immune competence.",
+   "pmid": "30316500",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Before withholding antibiotic therapy, it is important to assess the ability of affected cows to mount a successful immune response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316500-2-es",
+   "translationKey": "mastitis-30316500-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Antes de decidir no dar antibióticos a una vaca con mastitis leve, ¿qué hay que evaluar?",
+   "options": [
+    "Si la vaca puede montar una respuesta inmune eficaz",
+    "El color del pelaje",
+    "El precio de la leche",
+    "El pronóstico del tiempo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Si el sistema inmune está comprometido, puede recomendarse tratamiento antimicrobiano aun en casos no graves.",
+   "shortExplanation": "Competencia inmune.",
+   "pmid": "30316500",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Before withholding antibiotic therapy, it is important to assess the ability of affected cows to mount a successful immune response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316500-3-en",
+   "translationKey": "mastitis-30316500-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What happens when antibiotics are used for many nonsevere clinical mastitis cases?",
+   "options": [
+    "They always double the cure rate",
+    "They often do not improve bacteriologic or clinical outcomes",
+    "They make cows produce more milk",
+    "They prevent all future cases"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Pathogen-specific protocols avoid unnecessary antibiotics in many culture-negative or gram-negative cases.",
+   "shortExplanation": "No improvement.",
+   "pmid": "30316500",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "using antibiotics to treat many cases of nonsevere clinical mastitis does not result in improved bacteriologic or clinical outcomes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316500-3-es",
+   "translationKey": "mastitis-30316500-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué ocurre cuando se usan antibióticos en muchos casos no graves de mastitis clínica?",
+   "options": [
+    "Siempre duplican la cura",
+    "A menudo no mejoran los resultados bacteriológicos ni clínicos",
+    "Hacen que la vaca produzca más",
+    "Evitan casos futuros"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los protocolos según el patógeno evitan antibióticos innecesarios en muchos casos con cultivo negativo o por gramnegativos.",
+   "shortExplanation": "Sin mejora.",
+   "pmid": "30316500",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "using antibiotics to treat many cases of nonsevere clinical mastitis does not result in improved bacteriologic or clinical outcomes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-1555116-1-en",
+   "translationKey": "mastitis-1555116-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What does this review emphasize about treating subclinical mastitis during lactation?",
+   "options": [
+    "It is always cured with one tube",
+    "It should be treated with homeopathy",
+    "It needs no attention",
+    "Many subclinical syndromes lack proven, efficacious therapy"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Treatment failures, limits of sensitivity testing and resistance make many subclinical infections hard to cure in lactation.",
+   "shortExplanation": "Lacks proven therapy.",
+   "pmid": "1555116",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The lack of proven, efficacious therapy for many subclinical mastitis syndromes is emphasized",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-1555116-1-es",
+   "translationKey": "mastitis-1555116-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué destaca esta revisión sobre tratar la mastitis subclínica en lactancia?",
+   "options": [
+    "Siempre se cura con un pomo",
+    "Debe tratarse con homeopatía",
+    "No necesita atención",
+    "Muchos síndromes subclínicos carecen de terapia eficaz probada"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Fallas de tratamiento, límites del antibiograma y resistencia vuelven difícil curar muchas infecciones subclínicas en lactancia.",
+   "shortExplanation": "Sin terapia probada.",
+   "pmid": "1555116",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The lack of proven, efficacious therapy for many subclinical mastitis syndromes is emphasized",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316508-1-en",
+   "translationKey": "mastitis-30316508-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which supportive drugs are available for cows with clinical mastitis?",
+   "options": [
+    "Antifungal creams",
+    "Insulin",
+    "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+    "Antivirals"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "NSAIDs reduce pain and inflammation and improve welfare in cows with clinical mastitis.",
+   "shortExplanation": "NSAIDs.",
+   "pmid": "30316508",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Several nonsteroidal anti-inflammatory drugs are available as supportive therapies for clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316508-1-es",
+   "translationKey": "mastitis-30316508-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué fármacos de sostén existen para vacas con mastitis clínica?",
+   "options": [
+    "Cremas antifúngicas",
+    "Insulina",
+    "Antiinflamatorios no esteroides (AINE)",
+    "Antivirales"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los AINE reducen el dolor y la inflamación y mejoran el bienestar de las vacas con mastitis clínica.",
+   "shortExplanation": "AINE.",
+   "pmid": "30316508",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Several nonsteroidal anti-inflammatory drugs are available as supportive therapies for clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41472139-1-en",
+   "translationKey": "mastitis-41472139-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "Which effects does bovine mastitis have on the cow?",
+   "options": [
+    "Inflammation, pain and reduced milk yield",
+    "Faster growth",
+    "Better fertility",
+    "No effect"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Mastitis causes inflammation and pain, lowers milk yield and brings economic losses.",
+   "shortExplanation": "Pain and less milk.",
+   "pmid": "41472139",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "causing inflammation, pain, reduced milk yield, and economic losses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41472139-1-es",
+   "translationKey": "mastitis-41472139-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "¿Qué efectos tiene la mastitis bovina sobre la vaca?",
+   "options": [
+    "Inflamación, dolor y menor producción de leche",
+    "Crecimiento más rápido",
+    "Mejor fertilidad",
+    "Ningún efecto"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mastitis causa inflamación y dolor, baja la producción y genera pérdidas económicas.",
+   "shortExplanation": "Dolor y menos leche.",
+   "pmid": "41472139",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "causing inflammation, pain, reduced milk yield, and economic losses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41472139-2-en",
+   "translationKey": "mastitis-41472139-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "What is key to avoid antibiotic residues in milk after treating mastitis?",
+   "options": [
+    "Adding water to the milk",
+    "Boiling the milk",
+    "Freezing the milk",
+    "Respecting the withdrawal period"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Residues depend on treatment practices, compliance with withdrawal periods and regulation.",
+   "shortExplanation": "Withdrawal period.",
+   "pmid": "41472139",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antibiotic residues in milk are closely linked to treatment practices, withdrawal period compliance, and regulatory oversight",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41472139-2-es",
+   "translationKey": "mastitis-41472139-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué es clave para evitar residuos de antibióticos en la leche tras tratar una mastitis?",
+   "options": [
+    "Agregar agua a la leche",
+    "Hervir la leche",
+    "Congelar la leche",
+    "Respetar el tiempo de retiro"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los residuos dependen de las prácticas de tratamiento, del cumplimiento del tiempo de retiro y de la regulación.",
+   "shortExplanation": "Tiempo de retiro.",
+   "pmid": "41472139",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antibiotic residues in milk are closely linked to treatment practices, withdrawal period compliance, and regulatory oversight",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41472139-3-en",
+   "translationKey": "mastitis-41472139-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Why are antibiotic residues in milk a problem?",
+   "options": [
+    "They improve cheese making",
+    "They can disrupt gut microbiota, promote resistance, trigger allergies and interfere with dairy processing",
+    "They make milk sweeter",
+    "They have no effect"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Residues (β-lactams, tetracyclines, quinolones) harm consumers and can inhibit starter cultures in cheese and yogurt.",
+   "shortExplanation": "Health and processing.",
+   "pmid": "41472139",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can disrupt human intestinal microbiota, promote resistant bacterial strains, trigger immunological reactions, and interfere with dairy processing",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41472139-3-es",
+   "translationKey": "mastitis-41472139-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué los residuos de antibióticos en la leche son un problema?",
+   "options": [
+    "Mejoran la elaboración de queso",
+    "Pueden alterar la microbiota, favorecer resistencia, causar alergias e interferir en la elaboración de lácteos",
+    "Endulzan la leche",
+    "No tienen efecto"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los residuos (betalactámicos, tetraciclinas, quinolonas) dañan al consumidor y pueden inhibir los fermentos de quesos y yogures.",
+   "shortExplanation": "Salud y elaboración.",
+   "pmid": "41472139",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can disrupt human intestinal microbiota, promote resistant bacterial strains, trigger immunological reactions, and interfere with dairy processing",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41472139-4-en",
+   "translationKey": "mastitis-41472139-4",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What does this review report about the prevalence of antibiotic residues in milk worldwide?",
+   "options": [
+    "It is always zero",
+    "It is identical everywhere",
+    "It ranges from <1% in some European countries to over 80% in parts of Africa",
+    "It only exists in Europe"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Residue prevalence varies enormously, reflecting differences in practices and regulatory oversight.",
+   "shortExplanation": "<1% to >80%.",
+   "pmid": "41472139",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with prevalence ranging from <1% in some European countries to over 80% in parts of Africa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41472139-4-es",
+   "translationKey": "mastitis-41472139-4",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué informa esta revisión sobre la prevalencia de residuos de antibióticos en leche en el mundo?",
+   "options": [
+    "Siempre es cero",
+    "Es igual en todas partes",
+    "Va de <1% en algunos países europeos a más de 80% en partes de África",
+    "Solo existe en Europa"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La prevalencia de residuos varía muchísimo, reflejando diferencias en prácticas y control regulatorio.",
+   "shortExplanation": "<1% a >80%.",
+   "pmid": "41472139",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with prevalence ranging from <1% in some European countries to over 80% in parts of Africa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34438712-1-en",
+   "translationKey": "mastitis-34438712-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What is the name of the approach that uses technology to assess mastitis and welfare in real time?",
+   "options": [
+    "Precision livestock farming (PLF)",
+    "Organic farming",
+    "Transhumance",
+    "Extensive grazing"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "PLF uses sensors and technology to monitor lameness, mastitis and body condition in real time.",
+   "shortExplanation": "PLF.",
+   "pmid": "34438712",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "precision livestock farming (PLF)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34438712-1-es",
+   "translationKey": "mastitis-34438712-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se llama el enfoque que usa tecnología para evaluar mastitis y bienestar en tiempo real?",
+   "options": [
+    "Ganadería de precisión (PLF)",
+    "Producción orgánica",
+    "Trashumancia",
+    "Pastoreo extensivo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La ganadería de precisión usa sensores y tecnología para vigilar cojeras, mastitis y condición corporal en tiempo real.",
+   "shortExplanation": "Ganadería de precisión.",
+   "pmid": "34438712",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "precision livestock farming (PLF)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29948774-1-en",
+   "translationKey": "mastitis-29948774-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which traditional 'gold standard' methods are still used to diagnose mastitis?",
+   "options": [
+    "X-ray and MRI",
+    "Somatic cell count and microbial culture",
+    "Blood glucose",
+    "Body temperature only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "SCC and culture remain standard, increasingly complemented by PCR and sequencing.",
+   "shortExplanation": "SCC and culture.",
+   "pmid": "29948774",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "traditional gold standard methods including somatic cell count and microbial culturing are still in use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29948774-1-es",
+   "translationKey": "mastitis-29948774-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué métodos tradicionales 'estándar de oro' se siguen usando para diagnosticar mastitis?",
+   "options": [
+    "Rayos X y resonancia",
+    "Recuento de células somáticas y cultivo microbiano",
+    "Glucemia",
+    "Solo la temperatura"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El RCS y el cultivo siguen siendo estándar, cada vez más complementados con PCR y secuenciación.",
+   "shortExplanation": "RCS y cultivo.",
+   "pmid": "29948774",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "traditional gold standard methods including somatic cell count and microbial culturing are still in use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29948774-2-en",
+   "translationKey": "mastitis-29948774-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Which tests are partially replacing culture for mastitis diagnosis?",
+   "options": [
+    "Urine tests",
+    "Skin biopsies",
+    "Hair analysis",
+    "PCR and sequencing-based tests"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Molecular tests identify pathogens faster; biosensors aim to bring diagnosis to the farm.",
+   "shortExplanation": "PCR and sequencing.",
+   "pmid": "29948774",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They are partially being replaced with polymerase chain reaction and sequencing-based tests",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29948774-2-es",
+   "translationKey": "mastitis-29948774-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué pruebas están reemplazando en parte al cultivo en el diagnóstico de mastitis?",
+   "options": [
+    "Análisis de orina",
+    "Biopsias de piel",
+    "Análisis de pelo",
+    "PCR y pruebas basadas en secuenciación"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las pruebas moleculares identifican patógenos más rápido; los biosensores buscan llevar el diagnóstico al campo.",
+   "shortExplanation": "PCR y secuenciación.",
+   "pmid": "29948774",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They are partially being replaced with polymerase chain reaction and sequencing-based tests",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29948774-3-en",
+   "translationKey": "mastitis-29948774-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "Why is early diagnosis of mastitis important?",
+   "options": [
+    "The earlier it is identified, the less damage occurs",
+    "It makes milk more expensive",
+    "It is not important",
+    "It changes the breed"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Early detection limits udder damage and losses.",
+   "shortExplanation": "Less damage.",
+   "pmid": "29948774",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The earlier the disease is identified, the less will be the damage",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29948774-3-es",
+   "translationKey": "mastitis-29948774-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "¿Por qué es importante el diagnóstico temprano de la mastitis?",
+   "options": [
+    "Cuanto antes se detecta, menos daño hay",
+    "Encarece la leche",
+    "No es importante",
+    "Cambia la raza"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La detección temprana limita el daño de la ubre y las pérdidas.",
+   "shortExplanation": "Menos daño.",
+   "pmid": "29948774",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The earlier the disease is identified, the less will be the damage",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-31417901-1-en",
+   "translationKey": "mastitis-31417901-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What is a biosensor, proposed for on-farm mastitis diagnosis?",
+   "options": [
+    "A vaccine",
+    "A milking robot",
+    "A tool that converts the presence of biological compounds into an electric signal",
+    "A type of antibiotic"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Biosensors, combined with microfluidics, could give fast, portable on-farm detection of pathogens and markers.",
+   "shortExplanation": "Biological → electric signal.",
+   "pmid": "31417901",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Biosensors are analytical tools that convert the presence of biological compounds into an electric signal",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-31417901-1-es",
+   "translationKey": "mastitis-31417901-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué es un biosensor, propuesto para diagnosticar mastitis en el campo?",
+   "options": [
+    "Una vacuna",
+    "Un robot de ordeño",
+    "Una herramienta que convierte la presencia de compuestos biológicos en una señal eléctrica",
+    "Un tipo de antibiótico"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los biosensores, junto con la microfluídica, podrían dar detección rápida y portátil de patógenos y marcadores en el campo.",
+   "shortExplanation": "Biológico → señal eléctrica.",
+   "pmid": "31417901",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Biosensors are analytical tools that convert the presence of biological compounds into an electric signal",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-31417901-2-en",
+   "translationKey": "mastitis-31417901-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "According to this review, roughly how much does mastitis cost globally each year?",
+   "options": [
+    "€3 million",
+    "Around €30 billion",
+    "€300",
+    "€3 trillion"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Losses come from reduced milk, poor quality, culling and deaths—around €30 billion a year.",
+   "shortExplanation": "~€30 billion.",
+   "pmid": "31417901",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Global annual losses are estimated to be around €30 bn",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-31417901-2-es",
+   "translationKey": "mastitis-31417901-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Según esta revisión, ¿cuánto cuesta aproximadamente la mastitis en el mundo por año?",
+   "options": [
+    "3 millones de euros",
+    "Unos 30 mil millones de euros",
+    "300 euros",
+    "3 billones de euros"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las pérdidas vienen de menos leche, mala calidad, descartes y muertes: unos 30 mil millones de euros anuales.",
+   "shortExplanation": "~30 mil millones €.",
+   "pmid": "31417901",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Global annual losses are estimated to be around €30 bn",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41130392-1-en",
+   "translationKey": "mastitis-41130392-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What does differential somatic cell count (DSCC) measure?",
+   "options": [
+    "Total fat globules",
+    "Milk sugar types",
+    "Bacterial species",
+    "The proportions of white cell types (neutrophils, macrophages, lymphocytes)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Instead of total SCC, DSCC looks at the distribution of white cell types, which shifts during infection.",
+   "shortExplanation": "Cell-type proportions.",
+   "pmid": "41130392",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Predominant WBC consist of neutrophils, macrophages, and lymphocytes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41130392-1-es",
+   "translationKey": "mastitis-41130392-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mide el recuento diferencial de células somáticas (RCSD)?",
+   "options": [
+    "Los glóbulos de grasa",
+    "Los tipos de azúcar",
+    "Las especies bacterianas",
+    "Las proporciones de tipos de leucocitos (neutrófilos, macrófagos, linfocitos)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "En lugar del RCS total, el RCSD mira la distribución de los tipos de leucocitos, que cambia durante la infección.",
+   "shortExplanation": "Proporción de células.",
+   "pmid": "41130392",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Predominant WBC consist of neutrophils, macrophages, and lymphocytes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41130392-2-en",
+   "translationKey": "mastitis-41130392-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Which methods are most commonly used to enumerate differential somatic cell count?",
+   "options": [
+    "Fluorescence microscopy and flow cytometry",
+    "Gram stain and culture",
+    "pH meter",
+    "Refractometer"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "DSCC is mostly measured by fluorescence microscopy and flow cytometry; reporting standards are still lacking.",
+   "shortExplanation": "Microscopy and flow cytometry.",
+   "pmid": "41130392",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the most common being fluorescence microscopy and flow cytometry",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-41130392-2-es",
+   "translationKey": "mastitis-41130392-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué métodos se usan con más frecuencia para medir el recuento diferencial de células somáticas?",
+   "options": [
+    "Microscopía de fluorescencia y citometría de flujo",
+    "Tinción de Gram y cultivo",
+    "pHmetro",
+    "Refractómetro"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El RCSD se mide sobre todo con microscopía de fluorescencia y citometría de flujo; aún falta estandarizar cómo informarlo.",
+   "shortExplanation": "Microscopía y citometría.",
+   "pmid": "41130392",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the most common being fluorescence microscopy and flow cytometry",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316502-1-en",
+   "translationKey": "mastitis-30316502-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What distinguishes automatic (robotic) milking systems regarding mastitis detection?",
+   "options": [
+    "A human strips every teat",
+    "They cannot detect mastitis",
+    "Milking and initial mastitis detection run without routine human activity",
+    "They milk only once a week"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Robots milk per quarter and rely on sensors for detection, characterized by sensitivity and false alert rate.",
+   "shortExplanation": "Sensor-based detection.",
+   "pmid": "30316502",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This system is quarter based harvesting where human activity is not routinely required for milking or initial mastitis detection activities",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316502-1-es",
+   "translationKey": "mastitis-30316502-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué distingue a los sistemas de ordeño automático (robot) respecto de la detección de mastitis?",
+   "options": [
+    "Una persona despunta cada pezón",
+    "No pueden detectar mastitis",
+    "El ordeño y la detección inicial funcionan sin actividad humana de rutina",
+    "Ordeñan una vez por semana"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los robots ordeñan por cuarto y dependen de sensores para detectar, caracterizados por su sensibilidad y tasa de falsas alarmas.",
+   "shortExplanation": "Detección con sensores.",
+   "pmid": "30316502",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This system is quarter based harvesting where human activity is not routinely required for milking or initial mastitis detection activities",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34008236-1-en",
+   "translationKey": "mastitis-34008236-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How can mastitis affect reproduction in dairy cows?",
+   "options": [
+    "It improves fertility",
+    "It has no effect",
+    "It only affects bulls",
+    "It delays estrus, lowers pregnancy rate and raises abortion risk"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Inflammatory cytokines and hormones from udder infection disturb the ovary, corpus luteum, uterus and embryo.",
+   "shortExplanation": "Worse fertility.",
+   "pmid": "34008236",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cows with mastitis have delayed oestrus, decreased pregnancy rate and increased risk of abortion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34008236-1-es",
+   "translationKey": "mastitis-34008236-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo puede afectar la mastitis a la reproducción de las vacas lecheras?",
+   "options": [
+    "Mejora la fertilidad",
+    "No tiene efecto",
+    "Solo afecta a los toros",
+    "Retrasa el celo, baja la tasa de preñez y aumenta el riesgo de aborto"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las citocinas y hormonas inflamatorias de la infección de ubre alteran ovario, cuerpo lúteo, útero y embrión.",
+   "shortExplanation": "Peor fertilidad.",
+   "pmid": "34008236",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cows with mastitis have delayed oestrus, decreased pregnancy rate and increased risk of abortion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-42025908-1-en",
+   "translationKey": "mastitis-42025908-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How does climate change increase mastitis risk on the cow side?",
+   "options": [
+    "By lowering milk temperature",
+    "Heat and humidity cause heat-stress immunosuppression",
+    "By reducing flies",
+    "By shortening the dry period"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Heat stress weakens systemic and mammary defenses, while warmth and humidity favor environmental pathogens.",
+   "shortExplanation": "Heat-stress immunosuppression.",
+   "pmid": "42025908",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Elevated temperatures and humidity induce host immunosuppression via heat stress",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-42025908-1-es",
+   "translationKey": "mastitis-42025908-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo aumenta el cambio climático el riesgo de mastitis del lado de la vaca?",
+   "options": [
+    "Bajando la temperatura de la leche",
+    "El calor y la humedad causan inmunosupresión por estrés térmico",
+    "Reduciendo las moscas",
+    "Acortando el secado"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El estrés por calor debilita las defensas sistémicas y mamarias, mientras el calor y la humedad favorecen patógenos ambientales.",
+   "shortExplanation": "Inmunosupresión por calor.",
+   "pmid": "42025908",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Elevated temperatures and humidity induce host immunosuppression via heat stress",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-42025908-2-en",
+   "translationKey": "mastitis-42025908-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What do warmer, more humid conditions do to environmental mastitis pathogens such as E. coli and S. uberis?",
+   "options": [
+    "Enhance their survival, proliferation and biofilm formation",
+    "Kill them all",
+    "Turn them into viruses",
+    "Have no effect"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Climate shifts extend seasonal risk windows and redistribute disease pressure geographically.",
+   "shortExplanation": "Help them thrive.",
+   "pmid": "42025908",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "enhancing their survival, proliferation, and biofilm formation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-42025908-2-es",
+   "translationKey": "mastitis-42025908-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué efecto tienen las condiciones más cálidas y húmedas sobre patógenos ambientales como E. coli y S. uberis?",
+   "options": [
+    "Aumentan su supervivencia, proliferación y formación de biofilm",
+    "Los matan a todos",
+    "Los convierten en virus",
+    "Ningún efecto"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los cambios climáticos alargan las ventanas de riesgo estacional y redistribuyen geográficamente la presión de enfermedad.",
+   "shortExplanation": "Los favorecen.",
+   "pmid": "42025908",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "enhancing their survival, proliferation, and biofilm formation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33255907-1-en",
+   "translationKey": "mastitis-33255907-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which statement about mastitis in dairy herds is correct?",
+   "options": [
+    "It is a minor problem",
+    "It only affects beef herds",
+    "It is the most serious economic and health problem and a major reason for culling",
+    "It never causes culling"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mastitis lowers usable milk and drives culling, making it the main economic and health problem in dairy herds.",
+   "shortExplanation": "Major problem.",
+   "pmid": "33255907",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This disease is the most serious economic and health problem associated with dairy cow herds and is a major reason for excessive culling",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33255907-1-es",
+   "translationKey": "mastitis-33255907-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué afirmación sobre la mastitis en rodeos lecheros es correcta?",
+   "options": [
+    "Es un problema menor",
+    "Solo afecta rodeos de carne",
+    "Es el problema económico y sanitario más serio y una causa importante de descarte",
+    "Nunca causa descartes"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mastitis reduce la leche aprovechable y provoca descartes, por lo que es el principal problema económico y sanitario del tambo.",
+   "shortExplanation": "Problema mayor.",
+   "pmid": "33255907",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This disease is the most serious economic and health problem associated with dairy cow herds and is a major reason for excessive culling",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-21968538-1-en",
+   "translationKey": "mastitis-21968538-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which mastitis pathogens are almost exclusively found in animals rather than humans?",
+   "options": [
+    "Streptococcus uberis, S. dysgalactiae subsp. dysgalactiae and Staphylococcus chromogenes",
+    "Escherichia coli and Klebsiella pneumoniae",
+    "Staphylococcus aureus",
+    "Streptococcus agalactiae"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "E. coli, K. pneumoniae, S. agalactiae and S. aureus also occur in humans; S. uberis, S. dysgalactiae and S. chromogenes are mostly animal.",
+   "shortExplanation": "Animal-restricted species.",
+   "pmid": "21968538",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "are almost exclusively found in animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-21968538-1-es",
+   "translationKey": "mastitis-21968538-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué patógenos de mastitis se encuentran casi exclusivamente en animales y no en humanos?",
+   "options": [
+    "Streptococcus uberis, S. dysgalactiae subsp. dysgalactiae y Staphylococcus chromogenes",
+    "Escherichia coli y Klebsiella pneumoniae",
+    "Staphylococcus aureus",
+    "Streptococcus agalactiae"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "E. coli, K. pneumoniae, S. agalactiae y S. aureus también están en humanos; S. uberis, S. dysgalactiae y S. chromogenes son sobre todo animales.",
+   "shortExplanation": "Especies animales.",
+   "pmid": "21968538",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "are almost exclusively found in animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-21968538-2-en",
+   "translationKey": "mastitis-21968538-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Which range of organisms can cause mastitis?",
+   "options": [
+    "Only gram-positive bacteria",
+    "Only viruses",
+    "Gram-negative and gram-positive bacteria, mycoplasmas and algae",
+    "Only fungi"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mastitis has broad etiology; molecular typing has clarified sources, transmission and host adaptation.",
+   "shortExplanation": "Broad range.",
+   "pmid": "21968538",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can be caused by a wide range of organisms, including gram-negative and gram-positive bacteria, mycoplasmas and algae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-21968538-2-es",
+   "translationKey": "mastitis-21968538-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué variedad de organismos puede causar mastitis?",
+   "options": [
+    "Solo bacterias grampositivas",
+    "Solo virus",
+    "Bacterias gramnegativas y grampositivas, micoplasmas y algas",
+    "Solo hongos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mastitis tiene una etiología amplia; la tipificación molecular aclaró fuentes, transmisión y adaptación al huésped.",
+   "shortExplanation": "Amplia variedad.",
+   "pmid": "21968538",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can be caused by a wide range of organisms, including gram-negative and gram-positive bacteria, mycoplasmas and algae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25407741-1-en",
+   "translationKey": "mastitis-25407741-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "In this Indian meta-analysis, roughly what share of dairy cows had subclinical mastitis?",
+   "options": [
+    "About 2%",
+    "About 10%",
+    "About 90%",
+    "Nearly half (about 46%)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Pooled cow-level prevalence was 46.35% (quarter-level 23.25%), likely contributing to low productivity.",
+   "shortExplanation": "~46%.",
+   "pmid": "25407741",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "found to be 46.35 %",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25407741-1-es",
+   "translationKey": "mastitis-25407741-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "En este metaanálisis de la India, ¿qué proporción de vacas lecheras tenía mastitis subclínica?",
+   "options": [
+    "Alrededor del 2%",
+    "Alrededor del 10%",
+    "Alrededor del 90%",
+    "Casi la mitad (~46%)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La prevalencia combinada por vaca fue de 46,35% (por cuarto 23,25%), lo que contribuiría a la baja productividad.",
+   "shortExplanation": "~46%.",
+   "pmid": "25407741",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "found to be 46.35 %",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18820158-1-en",
+   "translationKey": "mastitis-18820158-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What evidence supports alternative products (botanicals, homeopathy) used for mastitis on organic farms?",
+   "options": [
+    "Strong, from many trials",
+    "They are proven better than antibiotics",
+    "Virtually no data support their clinical efficacy",
+    "They are banned everywhere"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Organic farms in the US cannot use antimicrobials without losing status, yet alternative products lack efficacy data.",
+   "shortExplanation": "Virtually none.",
+   "pmid": "18820158",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Virtually no data are available that support the clinical efficacy of any of the alternative veterinary products used for treatment or prevention of mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18820158-1-es",
+   "translationKey": "mastitis-18820158-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué evidencia respalda los productos alternativos (botánicos, homeopatía) usados para mastitis en tambos orgánicos?",
+   "options": [
+    "Fuerte, de muchos ensayos",
+    "Están probados como mejores que los antibióticos",
+    "Prácticamente no hay datos que respalden su eficacia clínica",
+    "Están prohibidos en todo el mundo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los tambos orgánicos de EE. UU. no pueden usar antimicrobianos sin perder la certificación, pero los alternativos carecen de datos de eficacia.",
+   "shortExplanation": "Casi ninguna.",
+   "pmid": "18820158",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Virtually no data are available that support the clinical efficacy of any of the alternative veterinary products used for treatment or prevention of mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28169551-1-en",
+   "translationKey": "mastitis-28169551-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "What is lactoferrin?",
+   "options": [
+    "An iron-binding protein in milk that helps defend the udder",
+    "A milk sugar",
+    "A vitamin",
+    "A bacterial toxin"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Lactoferrin binds iron and is an innate resistance factor against mammary infection.",
+   "shortExplanation": "Iron-binding protein.",
+   "pmid": "28169551",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lactoferrin is a multifunctional, iron-binding glycoprotein found in milk",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28169551-1-es",
+   "translationKey": "mastitis-28169551-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué es la lactoferrina?",
+   "options": [
+    "Una proteína de la leche que fija hierro y ayuda a defender la ubre",
+    "Un azúcar de la leche",
+    "Una vitamina",
+    "Una toxina bacteriana"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La lactoferrina fija hierro y es un factor de resistencia innata contra la infección mamaria.",
+   "shortExplanation": "Proteína que fija hierro.",
+   "pmid": "28169551",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lactoferrin is a multifunctional, iron-binding glycoprotein found in milk",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-8227683-1-en",
+   "translationKey": "mastitis-8227683-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Why does vitamin E or selenium deficiency increase mastitis?",
+   "options": [
+    "It thickens the teat canal",
+    "It reduces neutrophil activity",
+    "It increases milk fat",
+    "It kills udder bacteria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Both protect neutrophils from oxidative damage; deficiency impairs their killing of bacteria.",
+   "shortExplanation": "Weaker neutrophils.",
+   "pmid": "8227683",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A known physiological consequence of alpha-tocopherol or Se deficiency is reduced neutrophil activity",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-8227683-1-es",
+   "translationKey": "mastitis-8227683-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la deficiencia de vitamina E o selenio aumenta la mastitis?",
+   "options": [
+    "Engrosa el canal del pezón",
+    "Reduce la actividad de los neutrófilos",
+    "Aumenta la grasa de la leche",
+    "Mata bacterias de la ubre"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Ambos protegen a los neutrófilos del daño oxidativo; su falta reduce la capacidad de matar bacterias.",
+   "shortExplanation": "Neutrófilos más débiles.",
+   "pmid": "8227683",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A known physiological consequence of alpha-tocopherol or Se deficiency is reduced neutrophil activity",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-8227683-2-en",
+   "translationKey": "mastitis-8227683-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which strategy restored neutrophil killing around calving in trials?",
+   "options": [
+    "Oral iron after calving",
+    "Antibiotics at drying-off",
+    "Selenium-free diets",
+    "Vitamin E injections about 10 and 5 days before calving"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Prepartum vitamin E injections raised neutrophil tocopherol and negated the usual drop in bacterial killing at calving.",
+   "shortExplanation": "Prepartum vitamin E.",
+   "pmid": "8227683",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "subcutaneous injections of vitamin E approximately 10 and 5 d prior to calving",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-8227683-2-es",
+   "translationKey": "mastitis-8227683-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué estrategia restableció la capacidad bactericida de los neutrófilos alrededor del parto en ensayos?",
+   "options": [
+    "Hierro oral tras el parto",
+    "Antibióticos al secado",
+    "Dietas sin selenio",
+    "Inyecciones de vitamina E unos 10 y 5 días antes del parto"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La vitamina E preparto elevó el tocoferol de los neutrófilos y anuló la caída habitual de su poder bactericida al parto.",
+   "shortExplanation": "Vitamina E preparto.",
+   "pmid": "8227683",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "subcutaneous injections of vitamin E approximately 10 and 5 d prior to calving",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-11943325-1-en",
+   "translationKey": "mastitis-11943325-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What largely determines the severity of coliform mastitis?",
+   "options": [
+    "How fast neutrophils migrate (diapedesis) into the gland",
+    "The cow's horn length",
+    "Milk protein content",
+    "The number of teats"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Rapid neutrophil diapedesis, regulated by selectins and β2-integrins, is critical; slow recruitment leads to severe cases.",
+   "shortExplanation": "Neutrophil speed.",
+   "pmid": "11943325",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fast neutrophil diapedesis has been demonstrated to be critical in coliform mastitis and is determining for the severity of infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-11943325-1-es",
+   "translationKey": "mastitis-11943325-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué determina en gran medida la gravedad de la mastitis por coliformes?",
+   "options": [
+    "Qué tan rápido migran los neutrófilos (diapédesis) a la glándula",
+    "El largo de los cuernos",
+    "El contenido proteico de la leche",
+    "El número de pezones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La diapédesis rápida de neutrófilos, regulada por selectinas y β2-integrinas, es crítica; un reclutamiento lento da casos graves.",
+   "shortExplanation": "Velocidad de neutrófilos.",
+   "pmid": "11943325",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fast neutrophil diapedesis has been demonstrated to be critical in coliform mastitis and is determining for the severity of infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32388021-1-en",
+   "translationKey": "mastitis-32388021-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Why are plant extracts and essential oils explored for mastitis control?",
+   "options": [
+    "They are always cheaper than water",
+    "They are proven to cure all cases",
+    "They have antimicrobial properties and are often considered safe",
+    "They increase milk yield"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "They are promising alternatives given resistance and residues, though limitations remain.",
+   "shortExplanation": "Antimicrobial and safer.",
+   "pmid": "32388021",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "plant extracts and essential oils are often considered safe to animals, humans and environment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32388021-1-es",
+   "translationKey": "mastitis-32388021-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué se exploran los extractos vegetales y aceites esenciales para controlar la mastitis?",
+   "options": [
+    "Siempre son más baratos que el agua",
+    "Está probado que curan todo",
+    "Tienen propiedades antimicrobianas y suelen considerarse seguros",
+    "Aumentan la producción"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Son alternativas prometedoras frente a la resistencia y los residuos, aunque tienen limitaciones.",
+   "shortExplanation": "Antimicrobianos y seguros.",
+   "pmid": "32388021",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "plant extracts and essential oils are often considered safe to animals, humans and environment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32036717-1-en",
+   "translationKey": "mastitis-32036717-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which nanoparticle types are being studied for S. aureus mastitis therapy?",
+   "options": [
+    "Only gold coins",
+    "Liposomes, polymeric and solid lipid nanoparticles, nanogels and inorganic nanoparticles",
+    "Viruses",
+    "Prions"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Nanoparticles can improve intracellular drug delivery, reduce resistance and prevent biofilm formation.",
+   "shortExplanation": "Several nanocarriers.",
+   "pmid": "32036717",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "liposomes, polymeric nanoparticles, solid lipid nanoparticles, nanogels, and inorganic nanoparticles",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32036717-1-es",
+   "translationKey": "mastitis-32036717-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tipos de nanopartículas se estudian para tratar la mastitis por S. aureus?",
+   "options": [
+    "Solo monedas de oro",
+    "Liposomas, nanopartículas poliméricas y lipídicas sólidas, nanogeles y nanopartículas inorgánicas",
+    "Virus",
+    "Priones"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las nanopartículas pueden mejorar la llegada intracelular del fármaco, reducir la resistencia y prevenir biofilms.",
+   "shortExplanation": "Varios nanoportadores.",
+   "pmid": "32036717",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "liposomes, polymeric nanoparticles, solid lipid nanoparticles, nanogels, and inorganic nanoparticles",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32036717-2-en",
+   "translationKey": "mastitis-32036717-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Which property of S. aureus helps it escape conventional mastitis therapy, motivating nanoparticle delivery?",
+   "options": [
+    "It is a strict anaerobe",
+    "It has no cell wall",
+    "It is a fungus",
+    "Facultative intracellular parasitism"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hiding inside host cells protects S. aureus from many antibiotics; nanocarriers improve intracellular penetration.",
+   "shortExplanation": "Intracellular.",
+   "pmid": "32036717",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "facultative intracellular parasitism",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32036717-2-es",
+   "translationKey": "mastitis-32036717-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué propiedad de S. aureus le ayuda a escapar del tratamiento convencional, motivando el uso de nanopartículas?",
+   "options": [
+    "Es anaerobio estricto",
+    "No tiene pared",
+    "Es un hongo",
+    "El parasitismo intracelular facultativo"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Esconderse dentro de células lo protege de muchos antibióticos; los nanoportadores mejoran la penetración intracelular.",
+   "shortExplanation": "Intracelular.",
+   "pmid": "32036717",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "facultative intracellular parasitism",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36657355-1-en",
+   "translationKey": "mastitis-36657355-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did the sequential meta-analysis conclude about internal teat sealants at dry-off?",
+   "options": [
+    "They don't work",
+    "They are dangerous",
+    "Enough evidence exists for practical use",
+    "More trials are urgently needed to prove any effect"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Sealants markedly reduced new IMI at calving and clinical mastitis; further research may not be needed unless the method changes.",
+   "shortExplanation": "Ready for practice.",
+   "pmid": "36657355",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "sufficient research currently exists for practical use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36657355-1-es",
+   "translationKey": "mastitis-36657355-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué concluyó el metaanálisis secuencial sobre los selladores internos al secado?",
+   "options": [
+    "Que no funcionan",
+    "Que son peligrosos",
+    "Que hay evidencia suficiente para su uso práctico",
+    "Que hacen falta más ensayos para probar algún efecto"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los selladores redujeron mucho las nuevas infecciones al parto y la mastitis clínica; no harían falta más estudios salvo que cambie el método.",
+   "shortExplanation": "Listo para usar.",
+   "pmid": "36657355",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "sufficient research currently exists for practical use",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
