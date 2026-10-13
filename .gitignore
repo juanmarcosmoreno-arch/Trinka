@@ -8,3 +8,4 @@ xcuserdata/
 *.xcscmblueprint
 Packages/TrinkaKit/Package.resolved
 Config/Secrets.xcconfig
+__pycache__/
