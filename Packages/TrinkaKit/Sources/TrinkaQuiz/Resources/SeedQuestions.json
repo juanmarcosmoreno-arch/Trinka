@@ -1,5 +1,5 @@
 {
- "version": 30,
+ "version": 31,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -18886,9 +18886,9 @@
    "prompt": "What distinguishes adaptive immunity from innate immunity?",
    "options": [
     "It acts within seconds and is nonspecific",
-    "It relies only on skin and mucosa",
-    "It is specific and develops immunologic memory",
-    "It exists only in plants"
+    "It relies only on skin and mucous membranes",
+    "It is specific and builds memory",
+    "It exists only in plants and fungi"
    ],
    "correctOptionIndex": 2,
    "explanation": "Innate immunity is immediate and nonspecific; adaptive immunity is specific and creates memory for stronger repeat responses.",
@@ -18910,9 +18910,9 @@
    "prompt": "¿Qué distingue a la inmunidad adaptativa de la innata?",
    "options": [
     "Actúa en segundos y es inespecífica",
-    "Depende solo de piel y mucosas",
-    "Es específica y genera memoria inmunológica",
-    "Existe solo en plantas"
+    "Depende solo de la piel y las mucosas",
+    "Es específica y genera memoria",
+    "Existe solo en plantas y hongos"
    ],
    "correctOptionIndex": 2,
    "explanation": "La inmunidad innata es inmediata e inespecífica; la adaptativa es específica y genera memoria para respuestas más potentes.",
@@ -18958,9 +18958,9 @@
    "prompt": "¿Cuál es una barrera física de la inmunidad innata?",
    "options": [
     "La piel",
-    "Los anticuerpos",
-    "Los linfocitos B de memoria",
-    "Las vacunas"
+    "Anticuerpos",
+    "Linfocitos B de memoria",
+    "Vacunas"
    ],
    "correctOptionIndex": 0,
    "explanation": "La inmunidad innata comienza con barreras: piel, mucosas y secreciones como saliva y lágrimas.",
@@ -19031,8 +19031,8 @@
    "options": [
     "Through rearranged T-cell receptors",
     "Through pattern recognition receptors",
-    "Through antibodies they secrete",
-    "Through MHC class II only"
+    "Through the antibodies they secrete",
+    "Through MHC class II molecules only"
    ],
    "correctOptionIndex": 1,
    "explanation": "Innate cells sense conserved molecular danger signals via germline-encoded pattern recognition receptors (e.g., Toll-like receptors).",
@@ -19054,9 +19054,9 @@
    "prompt": "¿Cómo detectan las células de la inmunidad innata a los patógenos y el daño?",
    "options": [
     "Mediante receptores T reordenados",
-    "Mediante receptores de reconocimiento de patrones",
-    "Mediante anticuerpos que secretan",
-    "Solo mediante MHC de clase II"
+    "Mediante receptores de patrones",
+    "Mediante los anticuerpos que secretan",
+    "Solo mediante moléculas MHC de clase II"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las células innatas detectan señales moleculares de peligro con receptores de reconocimiento de patrones codificados en línea germinal (p. ej., TLR).",
@@ -19078,8 +19078,8 @@
    "prompt": "What is the main role of CD4+ helper T cells?",
    "options": [
     "Producing antibodies directly",
-    "Phagocytosing bacteria",
-    "Coordinating immunity by secreting cytokines that help B cells and CD8+ T cells",
+    "Phagocytosing extracellular bacteria",
+    "Coordinating immunity via cytokines",
     "Killing virus-infected cells via perforin"
    ],
    "correctOptionIndex": 2,
@@ -19102,8 +19102,8 @@
    "prompt": "¿Cuál es la función principal de los linfocitos T CD4+ colaboradores?",
    "options": [
     "Producir anticuerpos directamente",
-    "Fagocitar bacterias",
-    "Coordinar la inmunidad secretando citocinas que ayudan a linfocitos B y T CD8+",
+    "Fagocitar bacterias extracelulares",
+    "Coordinar la inmunidad con citocinas",
     "Matar células infectadas con perforina"
    ],
    "correctOptionIndex": 2,
@@ -19127,8 +19127,8 @@
    "options": [
     "Complement lysis and fever",
     "Phagocytosis and inflammation",
-    "Barrier function and lysozyme",
-    "Clonal expansion and immunologic memory"
+    "Barrier function and lysozyme activity",
+    "Clonal expansion and memory"
    ],
    "correctOptionIndex": 3,
    "explanation": "Vaccines work because specific lymphocytes expand clonally and leave long-lived memory for faster, stronger responses.",
@@ -19151,8 +19151,8 @@
    "options": [
     "Lisis por complemento y fiebre",
     "Fagocitosis e inflamación",
-    "Barreras y lisozima",
-    "Expansión clonal y memoria inmunológica"
+    "Barreras y actividad de la lisozima",
+    "Expansión clonal y memoria"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las vacunas funcionan porque los linfocitos específicos se expanden clonalmente y dejan memoria duradera para respuestas más rápidas.",
@@ -19173,10 +19173,10 @@
    "difficulty": "curious",
    "prompt": "What is the complement system?",
    "options": [
-    "A group of white blood cells",
-    "A set of ~40 serum and membrane proteins acting in a cascade",
-    "A type of antibody",
-    "A lymphoid organ"
+    "A group of circulating white blood cells",
+    "A cascade of ~40 serum and membrane proteins",
+    "A special type of antibody",
+    "A lymphoid organ near the spleen"
    ],
    "correctOptionIndex": 1,
    "explanation": "Complement is a set of about 40 enzymatic, receptor and regulatory proteins that interact in a catalytic cascade.",
@@ -19197,10 +19197,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué es el sistema del complemento?",
    "options": [
-    "Un grupo de glóbulos blancos",
-    "Un conjunto de ~40 proteínas séricas y de membrana que actúan en cascada",
-    "Un tipo de anticuerpo",
-    "Un órgano linfoide"
+    "Un grupo de glóbulos blancos circulantes",
+    "Unas ~40 proteínas en cascada",
+    "Un tipo especial de anticuerpo",
+    "Un órgano linfoide cercano al bazo"
    ],
    "correctOptionIndex": 1,
    "explanation": "El complemento es un conjunto de unas 40 proteínas enzimáticas, receptoras y reguladoras que interactúan en cascada.",
@@ -19269,10 +19269,10 @@
    "difficulty": "curious",
    "prompt": "What structure does complement form to kill pathogens directly?",
    "options": [
-    "An immune complex",
-    "A germinal center",
-    "The membrane attack complex (MAC)",
-    "A granuloma"
+    "A circulating immune complex",
+    "A germinal center in a node",
+    "The membrane attack complex",
+    "A granuloma with giant cells"
    ],
    "correctOptionIndex": 2,
    "explanation": "Complement assembles the membrane attack complex, which punctures the pathogen's envelope, causing swelling and death.",
@@ -19293,10 +19293,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué estructura forma el complemento para matar patógenos directamente?",
    "options": [
-    "Un inmunocomplejo",
-    "Un centro germinal",
-    "El complejo de ataque a membrana (MAC)",
-    "Un granuloma"
+    "Un inmunocomplejo circulante",
+    "Un centro germinal ganglionar",
+    "El complejo de ataque a membrana",
+    "Un granuloma con células gigantes"
    ],
    "correctOptionIndex": 2,
    "explanation": "El complemento ensambla el complejo de ataque a membrana, que perfora la envoltura del patógeno y lo mata.",
@@ -19342,9 +19342,9 @@
    "prompt": "¿Qué vía del complemento se inicia por anticuerpos?",
    "options": [
     "Vía clásica",
-    "Vía alternativa",
-    "Vía de las lectinas",
-    "Vía de la coagulación"
+    "Vía alterna",
+    "Vía lectina",
+    "Vía de coagulación"
    ],
    "correctOptionIndex": 0,
    "explanation": "La vía clásica requiere anticuerpos y une el complemento a la inmunidad adaptativa; la alternativa y la de lectinas son innatas.",
@@ -19413,10 +19413,10 @@
    "difficulty": "explorer",
    "prompt": "How are complement deficiencies classified?",
    "options": [
-    "As secondary immunodeficiencies always caused by HIV",
+    "As secondary immunodeficiencies due to HIV",
     "As autoimmune diseases only",
-    "As primary immunodeficiencies whose picture depends on the missing protein",
-    "As allergic disorders"
+    "As primary immunodeficiencies",
+    "As allergic disorders of the skin"
    ],
    "correctOptionIndex": 2,
    "explanation": "Complement deficiencies are primary immunodeficiencies; the clinical picture depends on which complement protein is missing.",
@@ -19437,10 +19437,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se clasifican las deficiencias del complemento?",
    "options": [
-    "Como inmunodeficiencias secundarias siempre por VIH",
+    "Como inmunodeficiencias secundarias al VIH",
     "Solo como enfermedades autoinmunes",
-    "Como inmunodeficiencias primarias cuyo cuadro depende de la proteína faltante",
-    "Como trastornos alérgicos"
+    "Como inmunodeficiencias primarias",
+    "Como trastornos alérgicos de la piel"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las deficiencias del complemento son inmunodeficiencias primarias; el cuadro depende de qué proteína falta.",
@@ -19462,9 +19462,9 @@
    "prompt": "Why can early classical-pathway complement deficiencies predispose to lupus-like disease?",
    "options": [
     "Complement causes all autoantibodies",
-    "Complement normally helps prevent immune complex disease by clearing complexes",
-    "Complement destroys red cells",
-    "Complement deficiency increases IgE"
+    "Complement normally clears immune complexes",
+    "Complement destroys red blood cells",
+    "Complement deficiency drives up IgE levels"
    ],
    "correctOptionIndex": 1,
    "explanation": "Complement helps clear immune complexes; when deficient, complexes persist and immune complex diseases such as SLE can develop.",
@@ -19486,9 +19486,9 @@
    "prompt": "¿Por qué las deficiencias de la vía clásica temprana pueden predisponer a enfermedad tipo lupus?",
    "options": [
     "El complemento causa todos los autoanticuerpos",
-    "El complemento normalmente previene la enfermedad por inmunocomplejos al eliminarlos",
+    "El complemento elimina los inmunocomplejos",
     "El complemento destruye glóbulos rojos",
-    "La deficiencia aumenta la IgE"
+    "La deficiencia eleva los niveles de IgE"
    ],
    "correctOptionIndex": 1,
    "explanation": "El complemento ayuda a eliminar inmunocomplejos; si falta, persisten y pueden aparecer enfermedades por inmunocomplejos como el LES.",
@@ -19536,7 +19536,7 @@
     "Neutrófilos",
     "Glóbulos rojos",
     "Plaquetas",
-    "Células plasmáticas (plasmocitos)"
+    "Plasmocitos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los anticuerpos los producen las células plasmáticas, la forma diferenciada final de los linfocitos B.",
@@ -19557,10 +19557,10 @@
    "difficulty": "researcher",
    "prompt": "What processes give antibodies diversity and high affinity for their antigen?",
    "options": [
-    "Genetic recombination plus affinity maturation",
-    "Phagocytosis and digestion",
-    "Complement fixation",
-    "Glycolysis"
+    "Gene recombination and affinity maturation",
+    "Phagocytosis followed by lysosomal digestion",
+    "Fixation of complement on the antigen",
+    "Glycolysis inside activated B cells"
    ],
    "correctOptionIndex": 0,
    "explanation": "Antibody diversity comes from recombination of gene segments, and higher affinity from affinity maturation.",
@@ -19581,10 +19581,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué procesos dan a los anticuerpos diversidad y alta afinidad por su antígeno?",
    "options": [
-    "Recombinación genética y maduración de la afinidad",
-    "Fagocitosis y digestión",
-    "Fijación del complemento",
-    "Glucólisis"
+    "Recombinación génica y maduración de afinidad",
+    "Fagocitosis seguida de digestión lisosomal",
+    "Fijación del complemento sobre el antígeno",
+    "Glucólisis dentro de los linfocitos B activados"
    ],
    "correctOptionIndex": 0,
    "explanation": "La diversidad surge de la recombinación de segmentos génicos, y la mayor afinidad de la maduración de la afinidad.",
@@ -19799,8 +19799,8 @@
    "options": [
     "Encapsulated bacteria",
     "Intracellular viruses only",
-    "Parasitic infections (helminths)",
-    "Fungal spores in the lung"
+    "Parasitic worms (helminths)",
+    "Fungal spores in the lungs"
    ],
    "correctOptionIndex": 2,
    "explanation": "IgE functions include type I hypersensitivity and protection against parasites and venoms.",
@@ -19823,7 +19823,7 @@
    "options": [
     "Bacterias capsuladas",
     "Solo virus intracelulares",
-    "Infecciones parasitarias (helmintos)",
+    "Gusanos parásitos (helmintos)",
     "Esporas fúngicas en el pulmón"
    ],
    "correctOptionIndex": 2,
@@ -19992,7 +19992,7 @@
     "Pentamer",
     "Monomer",
     "Dimer",
-    "Trimer"
+    "Tetramer"
    ],
    "correctOptionIndex": 0,
    "explanation": "Secreted IgM is mostly a pentamer (>900 kDa), giving it high avidity.",
@@ -20016,7 +20016,7 @@
     "Pentámero",
     "Monómero",
     "Dímero",
-    "Trímero"
+    "Tetrámero"
    ],
    "correctOptionIndex": 0,
    "explanation": "La IgM secretada es mayormente un pentámero (>900 kDa), lo que le da alta avidez.",
@@ -20037,10 +20037,10 @@
    "difficulty": "researcher",
    "prompt": "On naive mature B cells, membrane IgM functions as…",
    "options": [
-    "A complement receptor",
-    "Part of the B-cell receptor (BCR)",
+    "A receptor for complement C3b",
+    "Part of the B-cell receptor",
     "An MHC class I molecule",
-    "A cytokine receptor"
+    "A receptor for cytokines"
    ],
    "correctOptionIndex": 1,
    "explanation": "Naive B cells display transmembrane IgM as part of the BCR; antigen binding triggers clonal expansion.",
@@ -20061,10 +20061,10 @@
    "difficulty": "researcher",
    "prompt": "En los linfocitos B maduros vírgenes, la IgM de membrana funciona como…",
    "options": [
-    "Receptor del complemento",
-    "Parte del receptor de linfocito B (BCR)",
+    "Un receptor del complemento C3b",
+    "Parte del receptor del linfocito B",
     "Una molécula MHC de clase I",
-    "Receptor de citocinas"
+    "Un receptor de citocinas"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los B vírgenes muestran IgM transmembrana como parte del BCR; la unión del antígeno desencadena la expansión clonal.",
@@ -20133,10 +20133,10 @@
    "difficulty": "researcher",
    "prompt": "How are HLA alleles from both parents expressed?",
    "options": [
-    "Only the maternal allele is expressed",
-    "Only the dominant allele is expressed",
-    "Codominantly — both are expressed",
-    "Neither is expressed until adulthood"
+    "Only the maternal allele",
+    "Only the dominant allele",
+    "Codominantly: both of them",
+    "Neither until adulthood"
    ],
    "correctOptionIndex": 2,
    "explanation": "HLA antigens are codominantly expressed, so each cell displays molecules from both parental haplotypes.",
@@ -20159,7 +20159,7 @@
    "options": [
     "Solo el alelo materno",
     "Solo el alelo dominante",
-    "De forma codominante: ambos",
+    "En forma codominante",
     "Ninguno hasta la adultez"
    ],
    "correctOptionIndex": 2,
@@ -20181,10 +20181,10 @@
    "difficulty": "expert",
    "prompt": "Why is it hard to find a fully matched unrelated organ donor?",
    "options": [
-    "HLA class I and II genes are among the most polymorphic human genes",
+    "HLA genes are extremely polymorphic",
     "HLA genes are identical in everyone",
-    "HLA is only on red blood cells",
-    "Donors lack MHC"
+    "HLA is found only on red blood cells",
+    "Most donors completely lack MHC molecules"
    ],
    "correctOptionIndex": 0,
    "explanation": "Extreme HLA polymorphism creates distinct HLA types between individuals, driving allograft rejection.",
@@ -20205,10 +20205,10 @@
    "difficulty": "expert",
    "prompt": "¿Por qué es difícil encontrar un donante no emparentado totalmente compatible?",
    "options": [
-    "Los genes HLA de clase I y II están entre los más polimórficos del ser humano",
+    "Los genes HLA son muy polimórficos",
     "Los genes HLA son idénticos en todos",
-    "El HLA solo está en glóbulos rojos",
-    "Los donantes carecen de MHC"
+    "El HLA solo está en los glóbulos rojos",
+    "La mayoría de los donantes carece de MHC"
    ],
    "correctOptionIndex": 0,
    "explanation": "El enorme polimorfismo HLA genera tipos distintos entre individuos y explica el rechazo de aloinjertos.",
@@ -20279,7 +20279,7 @@
    "options": [
     "Two",
     "Four",
-    "Six",
+    "Seven",
     "Ten"
    ],
    "correctOptionIndex": 1,
@@ -20301,10 +20301,10 @@
    "difficulty": "curious",
    "prompt": "¿Cuántos tipos de hipersensibilidad describe la clasificación clásica de Gell y Coombs?",
    "options": [
-    "Dos",
-    "Cuatro",
-    "Seis",
-    "Diez"
+    "Dos tipos",
+    "Cuatro tipos",
+    "Siete tipos",
+    "Diez tipos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Gell y Coombs describieron cuatro tipos (I–IV); esquemas más nuevos llegan a siete.",
@@ -20325,10 +20325,10 @@
    "difficulty": "explorer",
    "prompt": "What triggers mast cell degranulation in type I hypersensitivity?",
    "options": [
-    "Allergen cross-linking IgE bound to FcεRI",
-    "Complement C9 insertion",
-    "CD8+ T cell perforin",
-    "Immune complex deposition"
+    "Allergen cross-linking IgE on FcεRI",
+    "Insertion of complement C9 pores",
+    "Perforin released by CD8+ T cells",
+    "Deposition of immune complexes"
    ],
    "correctOptionIndex": 0,
    "explanation": "On re-exposure, allergen cross-links IgE on FcεRI receptors, causing release of histamine, leukotrienes and prostaglandins.",
@@ -20349,9 +20349,9 @@
    "difficulty": "explorer",
    "prompt": "¿Qué desencadena la desgranulación del mastocito en la hipersensibilidad tipo I?",
    "options": [
-    "El alérgeno entrecruzando IgE unida a FcεRI",
-    "La inserción de C9",
-    "La perforina de T CD8+",
+    "Alérgeno que entrecruza IgE en FcεRI",
+    "La inserción de poros de C9",
+    "La perforina de linfocitos T CD8+",
     "El depósito de inmunocomplejos"
    ],
    "correctOptionIndex": 0,
@@ -20373,10 +20373,10 @@
    "difficulty": "researcher",
    "prompt": "What does the hygiene hypothesis propose?",
    "options": [
-    "Excess hygiene causes infections",
-    "Allergies are caused by bacteria",
-    "Reduced early-life microbial exposure may increase allergy susceptibility",
-    "Handwashing prevents allergies"
+    "Excess hygiene directly causes infections",
+    "Allergies are caused by gut bacteria",
+    "Less early microbial exposure raises allergy",
+    "Washing hands protects against allergies"
    ],
    "correctOptionIndex": 2,
    "explanation": "The hygiene hypothesis suggests less early microbial exposure skews immunity toward allergic responses.",
@@ -20398,9 +20398,9 @@
    "prompt": "¿Qué propone la hipótesis de la higiene?",
    "options": [
     "El exceso de higiene causa infecciones",
-    "Las alergias son causadas por bacterias",
-    "Una menor exposición microbiana temprana aumentaría la susceptibilidad a alergias",
-    "Lavarse las manos previene alergias"
+    "Las alergias las causan bacterias intestinales",
+    "Menos microbios en la infancia, más alergia",
+    "Lavarse las manos protege de las alergias"
    ],
    "correctOptionIndex": 2,
    "explanation": "La hipótesis de la higiene sugiere que menos exposición microbiana temprana inclina la inmunidad hacia respuestas alérgicas.",
@@ -20422,7 +20422,7 @@
    "prompt": "Graves disease and myasthenia gravis are examples of which hypersensitivity type?",
    "options": [
     "Type I",
-    "Type II (antibodies against cell receptors)",
+    "Type II",
     "Type III",
     "Type IV"
    ],
@@ -20445,10 +20445,10 @@
    "difficulty": "explorer",
    "prompt": "La enfermedad de Graves y la miastenia gravis son ejemplos de hipersensibilidad tipo…",
    "options": [
-    "I",
-    "II (anticuerpos contra receptores celulares)",
-    "III",
-    "IV"
+    "Tipo I",
+    "Tipo II",
+    "Tipo III",
+    "Tipo IV"
    ],
    "correctOptionIndex": 1,
    "explanation": "Ambas implican autoanticuerpos contra receptores (de TSH, de acetilcolina): un mecanismo tipo II.",
@@ -20469,10 +20469,10 @@
    "difficulty": "researcher",
    "prompt": "Hemolytic disease of the newborn results from…",
    "options": [
-    "IgE against maternal milk",
-    "T cells attacking fetal skin",
-    "Immune complexes in the placenta",
-    "Maternal antibodies against fetal blood group antigens"
+    "IgE against proteins in maternal milk",
+    "T cells attacking the fetal skin",
+    "Immune complexes lodged in the placenta",
+    "Maternal antibodies to fetal blood groups"
    ],
    "correctOptionIndex": 3,
    "explanation": "Maternal IgG against fetal red-cell antigens (e.g., RhD) crosses the placenta and destroys fetal red cells — type II.",
@@ -20493,10 +20493,10 @@
    "difficulty": "researcher",
    "prompt": "La enfermedad hemolítica del recién nacido resulta de…",
    "options": [
-    "IgE contra la leche materna",
+    "IgE contra proteínas de la leche materna",
     "Linfocitos T que atacan la piel fetal",
-    "Inmunocomplejos en la placenta",
-    "Anticuerpos maternos contra antígenos de grupo sanguíneo fetales"
+    "Inmunocomplejos alojados en la placenta",
+    "Anticuerpos maternos contra grupos fetales"
    ],
    "correctOptionIndex": 3,
    "explanation": "La IgG materna contra antígenos eritrocitarios fetales (p. ej., RhD) atraviesa la placenta y destruye glóbulos rojos fetales: tipo II.",
@@ -20517,9 +20517,9 @@
    "difficulty": "explorer",
    "prompt": "What is the central mechanism of type III hypersensitivity?",
    "options": [
-    "IgE on mast cells",
+    "IgE bound to mast cells",
     "Antibodies against fixed cell-surface antigens",
-    "Deposition of circulating immune complexes in tissues",
+    "Immune complexes deposited in tissues",
     "Sensitized T cells releasing cytokines"
    ],
    "correctOptionIndex": 2,
@@ -20541,9 +20541,9 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál es el mecanismo central de la hipersensibilidad tipo III?",
    "options": [
-    "IgE sobre mastocitos",
+    "IgE unida a mastocitos",
     "Anticuerpos contra antígenos fijos de superficie",
-    "Depósito tisular de inmunocomplejos circulantes",
+    "Depósito tisular de inmunocomplejos",
     "Linfocitos T sensibilizados que liberan citocinas"
    ],
    "correctOptionIndex": 2,
@@ -20613,10 +20613,10 @@
    "difficulty": "curious",
    "prompt": "When does a type IV (delayed) hypersensitivity reaction typically appear?",
    "options": [
-    "Within seconds",
+    "Within a few seconds",
     "Within 15 minutes",
-    "After 6 months",
-    "48–72 hours after exposure"
+    "After about 6 months",
+    "48–72 hours later"
    ],
    "correctOptionIndex": 3,
    "explanation": "Delayed-type hypersensitivity usually appears 48–72 hours after exposure, sometimes weeks later.",
@@ -20637,10 +20637,10 @@
    "difficulty": "curious",
    "prompt": "¿Cuándo aparece típicamente una reacción de hipersensibilidad tipo IV (retardada)?",
    "options": [
-    "En segundos",
-    "En 15 minutos",
+    "En pocos segundos",
+    "En unos 15 minutos",
     "A los 6 meses",
-    "48–72 horas tras la exposición"
+    "A las 48–72 horas"
    ],
    "correctOptionIndex": 3,
    "explanation": "La hipersensibilidad retardada suele aparecer 48–72 horas después, a veces semanas.",
@@ -20663,8 +20663,8 @@
    "options": [
     "Skin prick test for IgE",
     "Patch testing",
-    "Coombs test",
-    "ANA titer"
+    "Direct Coombs test",
+    "Serum ANA titer"
    ],
    "correctOptionIndex": 1,
    "explanation": "Contact dermatitis is a type IV reaction diagnosed with patch testing, which reads delayed T-cell responses.",
@@ -20685,10 +20685,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué prueba se usa para diagnosticar la dermatitis alérgica de contacto?",
    "options": [
-    "Prick test de IgE",
-    "Prueba del parche (patch test)",
-    "Prueba de Coombs",
-    "Título de ANA"
+    "Prick test para IgE",
+    "Prueba del parche",
+    "Prueba de Coombs directa",
+    "Título sérico de ANA"
    ],
    "correctOptionIndex": 1,
    "explanation": "La dermatitis de contacto es tipo IV y se diagnostica con prueba del parche, que lee respuestas T retardadas.",
@@ -20709,10 +20709,10 @@
    "difficulty": "researcher",
    "prompt": "Why does tuberculosis progress in patients with AIDS?",
    "options": [
-    "Macrophages engulf mycobacteria but cannot kill them without CD4+ T-cell help",
-    "Antibodies are absent",
-    "Neutrophils overproduce",
-    "Complement is overactive"
+    "Macrophages can't kill them without CD4 help",
+    "Antibodies are completely absent",
+    "Neutrophils are massively overproduced",
+    "Complement becomes overactive in the lungs"
    ],
    "correctOptionIndex": 0,
    "explanation": "Delayed hypersensitivity needs CD4+ T cells to activate macrophages; without them, mycobacteria persist.",
@@ -20733,10 +20733,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué progresa la tuberculosis en pacientes con sida?",
    "options": [
-    "Los macrófagos fagocitan micobacterias pero no las matan sin la ayuda de T CD4+",
-    "Faltan anticuerpos",
-    "Hay exceso de neutrófilos",
-    "El complemento está hiperactivo"
+    "Sin ayuda CD4 los macrófagos no las matan",
+    "Faltan por completo los anticuerpos",
+    "Se producen neutrófilos en exceso",
+    "El complemento se vuelve hiperactivo en el pulmón"
    ],
    "correctOptionIndex": 0,
    "explanation": "La hipersensibilidad retardada requiere T CD4+ para activar macrófagos; sin ellos, las micobacterias persisten.",
@@ -20758,9 +20758,9 @@
    "prompt": "Natural killer (NK) cells are…",
    "options": [
     "Antibody-producing plasma cells",
-    "Red blood cell precursors",
-    "Large granular lymphocytes of innate immunity",
-    "Mast cells"
+    "Precursors of red blood cells",
+    "Large granular innate lymphocytes",
+    "Tissue mast cells of the mucosa"
    ],
    "correctOptionIndex": 2,
    "explanation": "NK cells are large granular lymphocytes that provide early cytotoxicity against virus-infected and tumor cells.",
@@ -20783,8 +20783,8 @@
    "options": [
     "Plasmocitos productores de anticuerpos",
     "Precursores de glóbulos rojos",
-    "Linfocitos granulares grandes de la inmunidad innata",
-    "Mastocitos"
+    "Linfocitos granulares grandes innatos",
+    "Mastocitos tisulares de la mucosa"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las NK son linfocitos granulares grandes que ejercen citotoxicidad temprana contra células infectadas y tumorales.",
@@ -20805,10 +20805,10 @@
    "difficulty": "researcher",
    "prompt": "Why don't NK cells kill healthy self cells?",
    "options": [
-    "They lack cytotoxic granules",
-    "They only act with antibodies",
-    "Healthy cells have no surface molecules",
-    "Inhibitory receptor signals override activating ones on normal cells"
+    "They lack any cytotoxic granules",
+    "They only act when antibodies are bound",
+    "Healthy cells have no surface molecules at all",
+    "Inhibitory signals outweigh activating ones"
    ],
    "correctOptionIndex": 3,
    "explanation": "On normal cells inhibitory receptors dominate; stress, infection or transformation tips the balance to activation.",
@@ -20830,9 +20830,9 @@
    "prompt": "¿Por qué las NK no matan a las células propias sanas?",
    "options": [
     "Carecen de gránulos citotóxicos",
-    "Solo actúan con anticuerpos",
+    "Solo actúan si hay anticuerpos unidos",
     "Las células sanas no tienen moléculas de superficie",
-    "En células normales las señales inhibitorias predominan sobre las activadoras"
+    "Las señales inhibitorias superan a las activadoras"
    ],
    "correctOptionIndex": 3,
    "explanation": "En células normales predominan los receptores inhibitorios; el estrés, la infección o la transformación inclinan la balanza hacia la activación.",
@@ -20853,8 +20853,8 @@
    "difficulty": "expert",
    "prompt": "How do activated NK cells kill their targets?",
    "options": [
-    "By producing IgG",
-    "By inducing apoptosis via perforin, granzymes and Fas ligand",
+    "By secreting large amounts of IgG",
+    "By perforin, granzymes and Fas ligand",
     "By forming the membrane attack complex",
     "By phagocytosis and lysosomal digestion"
    ],
@@ -20877,8 +20877,8 @@
    "difficulty": "expert",
    "prompt": "¿Cómo matan las NK activadas a sus blancos?",
    "options": [
-    "Produciendo IgG",
-    "Induciendo apoptosis con perforina, granzimas y ligando de Fas",
+    "Secretando grandes cantidades de IgG",
+    "Con perforina, granzimas y ligando de Fas",
     "Formando el complejo de ataque a membrana",
     "Por fagocitosis y digestión lisosomal"
    ],
@@ -20997,10 +20997,10 @@
    "difficulty": "researcher",
    "prompt": "Which statement about T-cell antigen recognition is correct?",
    "options": [
-    "T cells bind free soluble antigen like antibodies",
-    "T cells recognize carbohydrates directly",
-    "T cells recognize lipids on bacteria via BCR",
-    "T cells cannot recognize soluble free antigen; they need MHC-presented peptides"
+    "They bind free soluble antigen like antibodies",
+    "They recognize carbohydrates directly",
+    "They recognize bacterial lipids via the BCR",
+    "They need peptides presented on MHC"
    ],
    "correctOptionIndex": 3,
    "explanation": "Unlike B cells, T cells recognize only protein antigens presented on MHC molecules, via the TCR-CD3 complex.",
@@ -21023,8 +21023,8 @@
    "options": [
     "Unen antígeno soluble libre como los anticuerpos",
     "Reconocen carbohidratos directamente",
-    "Reconocen lípidos bacterianos vía BCR",
-    "No reconocen antígeno libre; necesitan péptidos presentados por MHC"
+    "Reconocen lípidos bacterianos vía el BCR",
+    "Necesitan péptidos presentados por el MHC"
    ],
    "correctOptionIndex": 3,
    "explanation": "A diferencia de los B, los T solo reconocen antígenos proteicos presentados en MHC mediante el complejo TCR-CD3.",
@@ -21045,10 +21045,10 @@
    "difficulty": "explorer",
    "prompt": "Where does the \"B\" in B cell come from?",
    "options": [
-    "Bone only",
+    "From \"bone\" marrow only",
     "Bursa of Fabricius in birds",
-    "Blood",
-    "Bacteria"
+    "From \"blood\", where they circulate",
+    "From \"bacteria\" they fight"
    ],
    "correctOptionIndex": 1,
    "explanation": "Antibody production in chickens required the bursa of Fabricius, so the cells were named bursa-derived (B) cells.",
@@ -21069,10 +21069,10 @@
    "difficulty": "explorer",
    "prompt": "¿De dónde viene la \"B\" de linfocito B?",
    "options": [
-    "Solo de \"bone\" (hueso)",
+    "De \"bone\" (hueso) solamente",
     "De la bolsa de Fabricio de las aves",
-    "De \"blood\" (sangre)",
-    "De bacteria"
+    "De \"blood\" (sangre), donde circulan",
+    "De las bacterias que combaten"
    ],
    "correctOptionIndex": 1,
    "explanation": "La producción de anticuerpos en pollos requería la bolsa de Fabricio; por eso se llamaron células derivadas de la bursa (B).",
@@ -21094,8 +21094,8 @@
    "prompt": "What distinguishes a secondary lymphoid follicle from a primary one?",
    "options": [
     "It contains only T cells",
-    "It lacks B cells",
-    "It has a germinal center where activated B cells proliferate and differentiate",
+    "It lacks B cells altogether",
+    "It has a germinal center",
     "It is found only in the thymus"
    ],
    "correctOptionIndex": 2,
@@ -21119,8 +21119,8 @@
    "options": [
     "Solo contiene linfocitos T",
     "No tiene linfocitos B",
-    "Tiene un centro germinal donde los B activados proliferan y se diferencian",
-    "Solo está en el timo"
+    "Tiene un centro germinal",
+    "Solo se encuentra en el timo"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los folículos secundarios tienen centros germinales (zona oscura con centroblastos, clara con centrocitos) donde los B se vuelven plasmocitos o de memoria.",
@@ -21141,10 +21141,10 @@
    "difficulty": "explorer",
    "prompt": "Where are mature mast cells found?",
    "options": [
-    "Circulating in blood",
+    "Circulating in the blood",
     "Only in the thymus",
-    "Only in bone marrow",
-    "In tissues, not in circulation"
+    "Only in the bone marrow",
+    "In tissues, not in blood"
    ],
    "correctOptionIndex": 3,
    "explanation": "Mast cells mature in tissues (connective tissue of almost every organ) and are not found in circulation, unlike basophils.",
@@ -21165,10 +21165,10 @@
    "difficulty": "explorer",
    "prompt": "¿Dónde se encuentran los mastocitos maduros?",
    "options": [
-    "Circulando en sangre",
+    "Circulando en la sangre",
     "Solo en el timo",
     "Solo en la médula ósea",
-    "En los tejidos, no en la circulación"
+    "En los tejidos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los mastocitos maduran en tejidos (conectivo de casi todos los órganos) y no circulan, a diferencia de los basófilos.",
@@ -21239,8 +21239,8 @@
    "options": [
     "Histamine and serotonin",
     "Insulin and IgE",
-    "Complement C3b and antibodies (IgG)",
-    "Perforin and granzyme"
+    "C3b and IgG antibodies",
+    "Perforin and granzyme B"
    ],
    "correctOptionIndex": 2,
    "explanation": "C3b and antibodies are the main opsonins recognized by phagocyte receptors.",
@@ -21263,8 +21263,8 @@
    "options": [
     "Histamina y serotonina",
     "Insulina e IgE",
-    "C3b del complemento y anticuerpos (IgG)",
-    "Perforina y granzima"
+    "El C3b y la IgG",
+    "Perforina y granzima B"
    ],
    "correctOptionIndex": 2,
    "explanation": "C3b y los anticuerpos son las principales opsoninas reconocidas por receptores de fagocitos.",
@@ -21287,8 +21287,8 @@
    "options": [
     "Interferon alpha, beta and gamma",
     "Interferon delta and omega only",
-    "Interleukin-1 and -2",
-    "TNF and lymphotoxin"
+    "Interleukin-1 and interleukin-2",
+    "TNF and lymphotoxin alpha"
    ],
    "correctOptionIndex": 0,
    "explanation": "Clinically used interferons are alpha, beta and gamma — for viral hepatitis, some cancers and multiple sclerosis.",
@@ -21310,9 +21310,9 @@
    "prompt": "¿Qué interferones se usan en la clínica?",
    "options": [
     "Interferón alfa, beta y gamma",
-    "Solo delta y omega",
-    "Interleucina-1 y -2",
-    "TNF y linfotoxina"
+    "Solo interferón delta y omega",
+    "Interleucina 1 e interleucina 2",
+    "TNF y linfotoxina alfa"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los interferones de uso clínico son alfa, beta y gamma: para hepatitis viral, algunos cánceres y esclerosis múltiple.",
@@ -21381,10 +21381,10 @@
    "difficulty": "curious",
    "prompt": "What are interleukins?",
    "options": [
-    "Antibodies against bacteria",
-    "Complement proteins",
-    "Cytokines that mediate communication between immune cells",
-    "Hormones from the thyroid"
+    "Antibodies directed against bacteria",
+    "Proteins of the complement cascade",
+    "Cytokines that signal between immune cells",
+    "Hormones secreted by the thyroid gland itself"
    ],
    "correctOptionIndex": 2,
    "explanation": "Interleukins are cytokines that regulate proliferation, differentiation, motility and survival of immune cells.",
@@ -21405,10 +21405,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué son las interleucinas?",
    "options": [
-    "Anticuerpos contra bacterias",
-    "Proteínas del complemento",
-    "Citocinas que median la comunicación entre células inmunes",
-    "Hormonas tiroideas"
+    "Anticuerpos dirigidos contra bacterias",
+    "Proteínas de la cascada del complemento",
+    "Citocinas que comunican células inmunes",
+    "Hormonas secretadas por la glándula tiroides"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las interleucinas son citocinas que regulan proliferación, diferenciación, movilidad y supervivencia de células inmunes.",
@@ -21573,10 +21573,10 @@
    "difficulty": "beginner",
    "prompt": "What is anaphylaxis?",
    "options": [
-    "A slow skin rash",
-    "A local insect bite reaction",
-    "A chronic autoimmune disease",
-    "A rapid, generalized, multisystem allergic reaction"
+    "A slowly spreading skin rash",
+    "A local reaction to an insect bite",
+    "A chronic autoimmune disease of joints",
+    "A rapid, generalized allergic reaction"
    ],
    "correctOptionIndex": 3,
    "explanation": "Anaphylaxis is a rapidly evolving, life-threatening generalized allergic reaction that can cause respiratory collapse.",
@@ -21597,10 +21597,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué es la anafilaxia?",
    "options": [
-    "Un exantema cutáneo lento",
+    "Un exantema cutáneo que avanza lento",
     "Una reacción local a una picadura",
-    "Una enfermedad autoinmune crónica",
-    "Una reacción alérgica rápida, generalizada y multisistémica"
+    "Una enfermedad autoinmune crónica de las articulaciones",
+    "Una reacción alérgica rápida y generalizada"
    ],
    "correctOptionIndex": 3,
    "explanation": "La anafilaxia es una reacción alérgica generalizada de evolución rápida que puede causar colapso respiratorio.",
@@ -21621,10 +21621,10 @@
    "difficulty": "researcher",
    "prompt": "Why were \"anaphylactoid\" reactions merged into the term \"anaphylaxis\"?",
    "options": [
-    "Because clinical state and treatment are identical regardless of IgE involvement",
-    "Because IgE was found not to exist",
-    "Because anaphylactoid reactions are always mild",
-    "Because only drugs cause anaphylaxis"
+    "Presentation and treatment are the same",
+    "IgE was later found not to exist",
+    "Anaphylactoid reactions are always mild",
+    "Only drugs and medicines cause true anaphylaxis"
    ],
    "correctOptionIndex": 0,
    "explanation": "IgE-mediated and IgE-independent reactions look and are treated the same, so a single diagnosis is now used.",
@@ -21645,10 +21645,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué las reacciones \"anafilactoides\" se unificaron bajo el término \"anafilaxia\"?",
    "options": [
-    "Porque el cuadro y el tratamiento son idénticos, con o sin IgE",
-    "Porque se demostró que la IgE no existe",
-    "Porque las anafilactoides siempre son leves",
-    "Porque solo los fármacos causan anafilaxia"
+    "El cuadro y el tratamiento son los mismos",
+    "Se demostró que la IgE no existe",
+    "Las anafilactoides siempre son leves",
+    "Solo los fármacos causan anafilaxia verdadera"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las reacciones mediadas o no por IgE se presentan y tratan igual, por lo que hoy se usa un único diagnóstico.",
@@ -21669,10 +21669,10 @@
    "difficulty": "curious",
    "prompt": "What causes primary immunodeficiencies?",
    "options": [
-    "Malnutrition",
-    "Pathogenic genetic variants (inborn errors of immunity)",
-    "HIV infection",
-    "Chemotherapy"
+    "Chronic malnutrition",
+    "Inborn genetic variants",
+    "Acquired HIV infection",
+    "Prior chemotherapy courses"
    ],
    "correctOptionIndex": 1,
    "explanation": "Primary immunodeficiencies are inborn errors of immunity caused by genetic variants; secondary ones are acquired.",
@@ -21693,10 +21693,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué causa las inmunodeficiencias primarias?",
    "options": [
-    "La desnutrición",
-    "Variantes genéticas patogénicas (errores innatos de la inmunidad)",
-    "La infección por VIH",
-    "La quimioterapia"
+    "La desnutrición crónica",
+    "Variantes genéticas innatas",
+    "La infección adquirida por VIH",
+    "Tratamientos previos de quimioterapia"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las inmunodeficiencias primarias son errores innatos de la inmunidad por variantes genéticas; las secundarias son adquiridas.",
@@ -21765,10 +21765,10 @@
    "difficulty": "explorer",
    "prompt": "What defines severe combined immunodeficiency (SCID)?",
    "options": [
-    "Isolated IgA deficiency",
-    "Absent complement C3",
-    "Neutrophil oxidase defect",
-    "Absent or defective T- and B-cell function"
+    "Isolated deficiency of serum IgA",
+    "Absence of complement component C3",
+    "A defect in the oxidase enzyme of neutrophils",
+    "Absent or faulty T- and B-cell function"
    ],
    "correctOptionIndex": 3,
    "explanation": "In SCID both T- and B-cell functions are disturbed or absent; infants present with severe infections by 6 months.",
@@ -21789,8 +21789,8 @@
    "difficulty": "explorer",
    "prompt": "¿Qué define a la inmunodeficiencia combinada grave (IDCG/SCID)?",
    "options": [
-    "Déficit aislado de IgA",
-    "Ausencia de C3",
+    "Déficit aislado de IgA sérica",
+    "Ausencia del componente C3",
     "Defecto de la oxidasa del neutrófilo",
     "Función T y B ausente o defectuosa"
    ],
@@ -21813,10 +21813,10 @@
    "difficulty": "researcher",
    "prompt": "Without treatment, what is the usual prognosis of SCID?",
    "options": [
-    "Normal life expectancy",
-    "Rarely survive beyond one year of age",
-    "Symptoms start in adulthood",
-    "Spontaneous recovery by age 5"
+    "A normal life expectancy",
+    "Rarely survive past age one",
+    "Symptoms begin only in adulthood",
+    "Spontaneous recovery by age five"
    ],
    "correctOptionIndex": 1,
    "explanation": "Untreated SCID is usually fatal within the first year from opportunistic infections.",
@@ -21837,10 +21837,10 @@
    "difficulty": "researcher",
    "prompt": "Sin tratamiento, ¿cuál es el pronóstico habitual de la IDCG?",
    "options": [
-    "Expectativa de vida normal",
-    "Rara vez sobreviven más allá del primer año",
-    "Los síntomas comienzan en la adultez",
-    "Recuperación espontánea a los 5 años"
+    "Una expectativa de vida normal",
+    "Rara vez pasan del primer año",
+    "Los síntomas empiezan en la adultez",
+    "Recuperación espontánea a los cinco años"
    ],
    "correctOptionIndex": 1,
    "explanation": "La IDCG no tratada suele ser mortal en el primer año por infecciones oportunistas.",
@@ -21861,8 +21861,8 @@
    "difficulty": "explorer",
    "prompt": "Which is the most common symptomatic primary immunodeficiency?",
    "options": [
-    "Common variable immunodeficiency (CVID)",
-    "SCID",
+    "Common variable immunodeficiency",
+    "Severe combined immunodeficiency",
     "Chronic granulomatous disease",
     "Wiskott-Aldrich syndrome"
    ],
@@ -21885,8 +21885,8 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál es la inmunodeficiencia primaria sintomática más frecuente?",
    "options": [
-    "Inmunodeficiencia común variable (IDCV)",
-    "IDCG",
+    "Inmunodeficiencia común variable",
+    "Inmunodeficiencia combinada grave",
     "Enfermedad granulomatosa crónica",
     "Síndrome de Wiskott-Aldrich"
    ],
@@ -21910,9 +21910,9 @@
    "prompt": "A patient has low IgG and IgA, poor vaccine responses and normal circulating B-cell numbers. Which diagnosis fits best?",
    "options": [
     "X-linked agammaglobulinemia",
-    "DiGeorge syndrome",
+    "DiGeorge syndrome (22q11.2)",
     "Common variable immunodeficiency",
-    "Hereditary angioedema"
+    "Hereditary angioedema type 1 (C1-INH)"
    ],
    "correctOptionIndex": 2,
    "explanation": "CVID features hypogammaglobulinemia and poor specific antibody responses despite normal or near-normal B-cell counts — unlike XLA, where B cells are absent.",
@@ -21934,9 +21934,9 @@
    "prompt": "Un paciente tiene IgG e IgA bajas, mala respuesta a vacunas y linfocitos B circulantes normales. ¿Qué diagnóstico encaja mejor?",
    "options": [
     "Agammaglobulinemia ligada al X",
-    "Síndrome de DiGeorge",
+    "Síndrome de DiGeorge (22q11.2)",
     "Inmunodeficiencia común variable",
-    "Angioedema hereditario"
+    "Angioedema hereditario tipo 1"
    ],
    "correctOptionIndex": 2,
    "explanation": "La IDCV cursa con hipogammaglobulinemia y mala respuesta específica pese a recuentos B normales, a diferencia de la XLA, donde faltan los B.",
@@ -21957,10 +21957,10 @@
    "difficulty": "explorer",
    "prompt": "Chronic granulomatous disease is caused by a defect in…",
    "options": [
-    "Complement C5",
+    "Complement component C5",
     "Phagocyte NADPH oxidase",
-    "T-cell receptor",
-    "IgA secretion"
+    "The T-cell receptor complex",
+    "Mucosal IgA secretion"
    ],
    "correctOptionIndex": 1,
    "explanation": "Defective NADPH oxidase prevents superoxide formation, so phagocytes cannot kill certain microbes.",
@@ -21981,10 +21981,10 @@
    "difficulty": "explorer",
    "prompt": "La enfermedad granulomatosa crónica se debe a un defecto en…",
    "options": [
-    "El C5 del complemento",
+    "El componente C5 del complemento",
     "La NADPH oxidasa fagocítica",
-    "El receptor de linfocito T",
-    "La secreción de IgA"
+    "El complejo receptor del linfocito T",
+    "La secreción mucosa de IgA"
    ],
    "correctOptionIndex": 1,
    "explanation": "La NADPH oxidasa defectuosa impide formar superóxido y los fagocitos no pueden matar ciertos microbios.",
@@ -22005,10 +22005,10 @@
    "difficulty": "researcher",
    "prompt": "Why does NADPH oxidase deficiency impair microbial killing?",
    "options": [
-    "Phagocytes cannot migrate",
-    "Antibodies cannot bind",
-    "Complement is consumed",
-    "Phagocytes cannot generate superoxide for the respiratory burst"
+    "Phagocytes cannot migrate into tissues",
+    "Antibodies cannot bind to the microbes",
+    "Complement is consumed too quickly",
+    "No superoxide for the respiratory burst"
    ],
    "correctOptionIndex": 3,
    "explanation": "NADPH oxidase produces superoxide, the starting point of the oxidative burst that kills ingested microbes.",
@@ -22029,10 +22029,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué el déficit de NADPH oxidasa impide matar microbios?",
    "options": [
-    "Los fagocitos no migran",
-    "Los anticuerpos no se unen",
-    "Se consume el complemento",
-    "Los fagocitos no generan superóxido para el estallido respiratorio"
+    "Los fagocitos no migran a los tejidos",
+    "Los anticuerpos no se unen a los microbios",
+    "El complemento se consume muy rápido",
+    "No generan superóxido para el estallido"
    ],
    "correctOptionIndex": 3,
    "explanation": "La NADPH oxidasa produce superóxido, punto de partida del estallido oxidativo que mata a los microbios ingeridos.",
@@ -22053,10 +22053,10 @@
    "difficulty": "explorer",
    "prompt": "Which classic triad characterizes DiGeorge syndrome?",
    "options": [
-    "Eczema, thrombocytopenia, infections",
-    "Albinism, neuropathy, infections",
-    "Immunodeficiency, hypoparathyroidism, congenital heart disease",
-    "Angioedema, urticaria, asthma"
+    "Eczema, thrombocytopenia and infections",
+    "Albinism, neuropathy and infections",
+    "Immunodeficiency, low PTH, heart defects",
+    "Angioedema, urticaria and asthma"
    ],
    "correctOptionIndex": 2,
    "explanation": "DiGeorge (22q11.2 deletion) classically combines immunodeficiency, hypoparathyroidism and congenital heart disease.",
@@ -22077,10 +22077,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué tríada clásica caracteriza al síndrome de DiGeorge?",
    "options": [
-    "Eccema, trombocitopenia, infecciones",
-    "Albinismo, neuropatía, infecciones",
-    "Inmunodeficiencia, hipoparatiroidismo, cardiopatía congénita",
-    "Angioedema, urticaria, asma"
+    "Eccema, trombocitopenia e infecciones a repetición",
+    "Albinismo, neuropatía e infecciones",
+    "Inmunodeficiencia, hipoparatiroidismo, cardiopatía",
+    "Angioedema, urticaria y asma"
    ],
    "correctOptionIndex": 2,
    "explanation": "El DiGeorge (deleción 22q11.2) combina clásicamente inmunodeficiencia, hipoparatiroidismo y cardiopatía congénita.",
@@ -22101,10 +22101,10 @@
    "difficulty": "researcher",
    "prompt": "In DiGeorge syndrome, what determines the severity of the T-cell immunodeficiency?",
    "options": [
-    "The degree of thymic hypoplasia or aplasia",
-    "Serum IgE level",
-    "Spleen size",
-    "Complement C1 activity"
+    "The degree of thymic hypoplasia",
+    "The serum IgE level at birth",
+    "The size of the spleen on imaging",
+    "The activity of complement C1"
    ],
    "correctOptionIndex": 0,
    "explanation": "Thymic development dictates T-cell output; complete athymia (<1%) needs thymus transplantation.",
@@ -22125,10 +22125,10 @@
    "difficulty": "researcher",
    "prompt": "En el síndrome de DiGeorge, ¿qué determina la gravedad de la inmunodeficiencia T?",
    "options": [
-    "El grado de hipoplasia o aplasia tímica",
-    "El nivel de IgE",
-    "El tamaño del bazo",
-    "La actividad de C1"
+    "El grado de hipoplasia tímica",
+    "El nivel de IgE al nacer",
+    "El tamaño del bazo en las imágenes",
+    "La actividad del complemento C1"
    ],
    "correctOptionIndex": 0,
    "explanation": "El desarrollo del timo determina la producción de linfocitos T; la atimia completa (<1%) requiere trasplante de timo.",
@@ -22152,7 +22152,7 @@
     "Guthrie bacterial inhibition assay",
     "Sweat chloride test",
     "Hemoglobin electrophoresis",
-    "TREC (T-cell receptor excision circle) quantification"
+    "TREC quantification"
    ],
    "correctOptionIndex": 3,
    "explanation": "TRECs are DNA byproducts of T-cell receptor rearrangement; low TRECs flag severe T-cell lymphopenia at birth.",
@@ -22174,9 +22174,9 @@
    "prompt": "¿Qué método de cribado neonatal detecta linfopenia T grave, como DiGeorge completo o IDCG?",
    "options": [
     "Ensayo de inhibición bacteriana de Guthrie",
-    "Test del sudor",
+    "Test del cloro en sudor",
     "Electroforesis de hemoglobina",
-    "Cuantificación de TREC (círculos de escisión del receptor T)"
+    "Cuantificación de TREC"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los TREC son subproductos del reordenamiento del receptor T; niveles bajos señalan linfopenia T grave al nacer.",
@@ -22197,10 +22197,10 @@
    "difficulty": "explorer",
    "prompt": "What characterizes Bruton (X-linked) agammaglobulinemia?",
    "options": [
-    "Absent T cells only",
-    "Absence of mature B cells and severe antibody deficiency",
-    "Excess IgE",
-    "Defective NADPH oxidase"
+    "Absent T cells with normal B cells",
+    "No mature B cells, very low antibodies",
+    "Very high levels of serum IgE",
+    "A defective NADPH oxidase in phagocytes"
    ],
    "correctOptionIndex": 1,
    "explanation": "XLA lacks mature B cells, so antibodies are severely deficient.",
@@ -22221,10 +22221,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué caracteriza a la agammaglobulinemia de Bruton (ligada al X)?",
    "options": [
-    "Ausencia solo de linfocitos T",
-    "Ausencia de linfocitos B maduros y déficit grave de anticuerpos",
-    "Exceso de IgE",
-    "NADPH oxidasa defectuosa"
+    "Ausencia de linfocitos T con B normales",
+    "Sin linfocitos B maduros ni anticuerpos",
+    "Niveles muy altos de IgE sérica",
+    "Una NADPH oxidasa fagocítica defectuosa"
    ],
    "correctOptionIndex": 1,
    "explanation": "En la XLA faltan linfocitos B maduros, por lo que los anticuerpos son muy deficientes.",
@@ -22245,8 +22245,8 @@
    "difficulty": "researcher",
    "prompt": "Why do infants with XLA usually become symptomatic at 3–6 months?",
    "options": [
-    "Their thymus involutes",
-    "Breastfeeding stops",
+    "Their thymus begins to involute",
+    "Breastfeeding usually stops then",
     "Protective maternal IgG wanes",
     "They receive their first vaccines"
    ],
@@ -22269,9 +22269,9 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué los lactantes con XLA suelen tener síntomas a los 3–6 meses?",
    "options": [
-    "Involuciona el timo",
-    "Termina la lactancia",
-    "Desaparece la IgG materna protectora",
+    "El timo empieza a involucionar",
+    "Suele terminar la lactancia",
+    "Desaparece la IgG materna",
     "Reciben sus primeras vacunas"
    ],
    "correctOptionIndex": 2,
@@ -22293,10 +22293,10 @@
    "difficulty": "researcher",
    "prompt": "Hereditary angioedema types 1 and 2 are caused by…",
    "options": [
-    "IgE against foods",
-    "Excess complement C3",
-    "Mast cell tumors",
-    "Deficient or dysfunctional C1-inhibitor"
+    "IgE antibodies against foods",
+    "An excess of complement C3",
+    "Mast cell tumors in the skin and gut",
+    "Deficient or faulty C1-inhibitor"
    ],
    "correctOptionIndex": 3,
    "explanation": "HAE is autosomal dominant: type 1 has deficient C1-inhibitor, type 2 has dysfunctional C1-inhibitor.",
@@ -22317,10 +22317,10 @@
    "difficulty": "researcher",
    "prompt": "El angioedema hereditario tipos 1 y 2 se debe a…",
    "options": [
-    "IgE contra alimentos",
-    "Exceso de C3",
-    "Tumores de mastocitos",
-    "C1-inhibidor deficiente o disfuncional"
+    "Anticuerpos IgE contra alimentos",
+    "Un exceso de complemento C3",
+    "Tumores de mastocitos en piel e intestino",
+    "C1-inhibidor deficiente o defectuoso"
    ],
    "correctOptionIndex": 3,
    "explanation": "El AEH es autosómico dominante: el tipo 1 tiene C1-inhibidor deficiente y el tipo 2, disfuncional.",
@@ -22392,7 +22392,7 @@
     "7 days",
     "30 days",
     "100 days",
-    "1 year"
+    "One year"
    ],
    "correctOptionIndex": 2,
    "explanation": "GVHD was classically acute before and chronic after 100 days; NIH criteria now also weigh clinical features.",
@@ -22416,7 +22416,7 @@
     "7 días",
     "30 días",
     "100 días",
-    "1 año"
+    "Un año entero"
    ],
    "correctOptionIndex": 2,
    "explanation": "La EICH se clasificaba como aguda antes y crónica después de los 100 días; los criterios NIH también consideran los rasgos clínicos.",
@@ -22485,10 +22485,10 @@
    "difficulty": "researcher",
    "prompt": "In leukocyte adhesion deficiency, why is pus not formed at infection sites?",
    "options": [
-    "CD18 mutations prevent leukocytes from migrating into tissues",
-    "Neutrophils lack NADPH oxidase",
-    "Complement C3 is absent",
-    "B cells are absent"
+    "CD18 defects block leukocyte migration",
+    "Neutrophils lack the NADPH oxidase",
+    "Complement component C3 is completely absent",
+    "B cells are absent from the blood"
    ],
    "correctOptionIndex": 0,
    "explanation": "Defective CD18-containing integrins (LFA-1/Mac-1) block leukocyte adhesion and migration, so pus cannot form.",
@@ -22509,10 +22509,10 @@
    "difficulty": "researcher",
    "prompt": "En la deficiencia de adhesión leucocitaria, ¿por qué no se forma pus en las infecciones?",
    "options": [
-    "Mutaciones de CD18 impiden la migración de leucocitos a los tejidos",
+    "Defectos de CD18 impiden la migración",
     "Los neutrófilos carecen de NADPH oxidasa",
-    "Falta C3",
-    "Faltan linfocitos B"
+    "Falta por completo el C3",
+    "Faltan linfocitos B en la sangre"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las integrinas con CD18 defectuoso (LFA-1/Mac-1) bloquean la adhesión y migración leucocitaria, y no se forma pus.",
@@ -22536,7 +22536,7 @@
     "Fungal skin infections",
     "Intestinal worms",
     "Viral warts",
-    "Encapsulated bacteria such as pneumococcus and meningococcus"
+    "Encapsulated bacteria"
    ],
    "correctOptionIndex": 3,
    "explanation": "The spleen clears encapsulated bacteria; asplenic patients face overwhelming sepsis risk and need vaccination.",
@@ -22557,10 +22557,10 @@
    "difficulty": "curious",
    "prompt": "Las personas sin bazo funcional son especialmente vulnerables a…",
    "options": [
-    "Micosis cutáneas",
+    "Micosis de la piel",
     "Parásitos intestinales",
     "Verrugas virales",
-    "Bacterias capsuladas como neumococo y meningococo"
+    "Bacterias capsuladas"
    ],
    "correctOptionIndex": 3,
    "explanation": "El bazo elimina bacterias capsuladas; los asplénicos tienen riesgo de sepsis fulminante y deben vacunarse.",
@@ -22581,10 +22581,10 @@
    "difficulty": "explorer",
    "prompt": "Which pairing of splenic region and function is correct?",
    "options": [
-    "Red pulp makes antibodies; white pulp filters blood",
-    "White pulp generates antibodies; red pulp filters blood and removes aged cells",
-    "Both only store iron",
-    "White pulp produces platelets"
+    "Red pulp makes antibodies; white pulp filters",
+    "White pulp: antibodies; red pulp: filtering",
+    "Both regions only store iron",
+    "White pulp mainly produces platelets"
    ],
    "correctOptionIndex": 1,
    "explanation": "White pulp mounts antibody responses; red pulp (sinusoids, cords of Billroth) filters blood and removes old cells and microbes.",
@@ -22605,8 +22605,8 @@
    "difficulty": "explorer",
    "prompt": "¿Qué emparejamiento de región esplénica y función es correcto?",
    "options": [
-    "La pulpa roja produce anticuerpos; la blanca filtra sangre",
-    "La pulpa blanca genera anticuerpos; la roja filtra la sangre y elimina células viejas",
+    "Pulpa roja: anticuerpos; blanca: filtrado",
+    "Pulpa blanca: anticuerpos; roja: filtrado",
     "Ambas solo almacenan hierro",
     "La pulpa blanca produce plaquetas"
    ],
@@ -22629,10 +22629,10 @@
    "difficulty": "beginner",
    "prompt": "What is autoimmunity?",
    "options": [
-    "The immune system attacking the body's own cells",
-    "Immunity acquired by vaccination",
-    "Immunity passed through breast milk",
-    "A strong response to bacteria"
+    "The immune system attacking the self",
+    "Immunity acquired through vaccination",
+    "Immunity passed on through breast milk",
+    "An unusually strong response to bacteria"
    ],
    "correctOptionIndex": 0,
    "explanation": "In autoimmunity the immune system attacks self; causes are multifactorial (genetic, hormonal, environmental).",
@@ -22653,10 +22653,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué es la autoinmunidad?",
    "options": [
-    "El sistema inmune atacando las propias células del cuerpo",
+    "El sistema inmune atacando lo propio",
     "Inmunidad adquirida por vacunación",
     "Inmunidad transmitida por la leche materna",
-    "Una respuesta fuerte a bacterias"
+    "Una respuesta muy fuerte a bacterias"
    ],
    "correctOptionIndex": 0,
    "explanation": "En la autoinmunidad el sistema inmune ataca lo propio; las causas son multifactoriales (genéticas, hormonales, ambientales).",
@@ -22725,10 +22725,10 @@
    "difficulty": "curious",
    "prompt": "Which list contains the classic signs of inflammation?",
    "options": [
-    "Pallor, cold, numbness",
-    "Swelling, redness, heat, pain and loss of function",
-    "Itching, scaling, hair loss",
-    "Fever, cough, sputum"
+    "Pallor, coldness and numbness",
+    "Swelling, redness, heat, pain",
+    "Itching, scaling and hair loss",
+    "Fever, productive cough and sputum"
    ],
    "correctOptionIndex": 1,
    "explanation": "The classic cardinal signs are edema, erythema, warmth, pain and loss of function.",
@@ -22749,10 +22749,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué lista contiene los signos clásicos de la inflamación?",
    "options": [
-    "Palidez, frío, entumecimiento",
-    "Tumefacción, rubor, calor, dolor y pérdida de función",
-    "Prurito, descamación, caída del pelo",
-    "Fiebre, tos, expectoración"
+    "Palidez, frío y entumecimiento",
+    "Tumor, rubor, calor y dolor",
+    "Prurito, descamación y caída del pelo",
+    "Fiebre, tos y expectoración"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los signos cardinales son tumor (edema), rubor, calor, dolor y pérdida de función.",
@@ -22869,10 +22869,10 @@
    "difficulty": "researcher",
    "prompt": "How does hyperthermia differ from fever?",
    "options": [
-    "Hyperthermia is always lower than fever",
-    "Fever is uncontrolled heating",
-    "In hyperthermia temperature rises beyond hypothalamic set-point control",
-    "They are identical"
+    "Hyperthermia is always milder than fever",
+    "Fever is heating outside brain control",
+    "Hyperthermia escapes set-point control",
+    "The two are physiologically identical"
    ],
    "correctOptionIndex": 2,
    "explanation": "Fever is a regulated rise in set-point; hyperthermia is a rise beyond hypothalamic control (e.g., heat stroke).",
@@ -22893,10 +22893,10 @@
    "difficulty": "researcher",
    "prompt": "¿En qué se diferencia la hipertermia de la fiebre?",
    "options": [
-    "La hipertermia siempre es menor",
-    "La fiebre es un calentamiento descontrolado",
-    "En la hipertermia la temperatura sube más allá del control del punto de ajuste hipotalámico",
-    "Son idénticas"
+    "La hipertermia siempre es más leve",
+    "La fiebre escapa al control cerebral",
+    "La hipertermia escapa al punto de ajuste",
+    "Ambas son fisiológicamente idénticas entre sí"
    ],
    "correctOptionIndex": 2,
    "explanation": "La fiebre es un aumento regulado del punto de ajuste; la hipertermia escapa al control hipotalámico (p. ej., golpe de calor).",
@@ -22918,9 +22918,9 @@
    "prompt": "How do vaccines protect us?",
    "options": [
     "They kill all bacteria in the body",
-    "They prime the immune system to generate specific antibodies or lymphocytes and memory",
-    "They replace white blood cells",
-    "They lower body temperature"
+    "They prime specific immunity and memory",
+    "They replace the body's white blood cells",
+    "They lower body temperature during infection"
    ],
    "correctOptionIndex": 1,
    "explanation": "Vaccines prime specific immunity — antibodies or lymphocytes — creating lasting immunological memory.",
@@ -22942,9 +22942,9 @@
    "prompt": "¿Cómo nos protegen las vacunas?",
    "options": [
     "Matan todas las bacterias del cuerpo",
-    "Preparan al sistema inmune para generar anticuerpos o linfocitos específicos y memoria",
-    "Reemplazan los glóbulos blancos",
-    "Bajan la temperatura corporal"
+    "Preparan inmunidad específica y memoria",
+    "Reemplazan los glóbulos blancos del cuerpo",
+    "Bajan la temperatura durante la infección"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las vacunas preparan inmunidad específica (anticuerpos o linfocitos) y generan memoria inmunológica duradera.",
@@ -22968,7 +22968,7 @@
     "Type I (IgE)",
     "Type II (cytotoxic)",
     "Type III (immune complex)",
-    "Type IV (T cell)"
+    "Type IV (T cell–mediated)"
    ],
    "correctOptionIndex": 2,
    "explanation": "Serum sickness is immune-complex mediated (type III), with fever, rash and arthralgias 1–2 weeks after exposure.",
@@ -22989,10 +22989,10 @@
    "difficulty": "researcher",
    "prompt": "La enfermedad del suero es un ejemplo de hipersensibilidad tipo…",
    "options": [
-    "I (IgE)",
-    "II (citotóxica)",
-    "III (inmunocomplejos)",
-    "IV (linfocitos T)"
+    "Tipo I (IgE)",
+    "Tipo II (citotóxica)",
+    "Tipo III (inmunocomplejos)",
+    "Tipo IV (mediada por linfocitos T)"
    ],
    "correctOptionIndex": 2,
    "explanation": "La enfermedad del suero está mediada por inmunocomplejos (tipo III), con fiebre, exantema y artralgias 1–2 semanas tras la exposición.",
@@ -23014,8 +23014,8 @@
    "prompt": "Serum sickness was first described in patients who received…",
    "options": [
     "Heterologous (animal) antisera",
-    "Penicillin tablets",
-    "Blood transfusions only",
+    "Oral penicillin tablets",
+    "Repeated whole-blood transfusions",
     "Live attenuated vaccines"
    ],
    "correctOptionIndex": 0,
@@ -23038,9 +23038,9 @@
    "prompt": "La enfermedad del suero se describió por primera vez en pacientes que recibieron…",
    "options": [
     "Antisueros heterólogos (animales)",
-    "Comprimidos de penicilina",
-    "Solo transfusiones",
-    "Vacunas atenuadas"
+    "Comprimidos de penicilina oral",
+    "Transfusiones de sangre repetidas",
+    "Vacunas vivas atenuadas"
    ],
    "correctOptionIndex": 0,
    "explanation": "Se reconoció a inicios del 1900 tras tratar con antisueros heterólogos, usados entonces contra infecciones.",
@@ -23062,9 +23062,9 @@
    "prompt": "What kind of organ is the thymus?",
    "options": [
     "A secondary lymphoid organ in the abdomen",
-    "A primary lymphoid organ in the superior mediastinum",
+    "A primary lymphoid organ in the chest",
     "An endocrine gland in the neck",
-    "Part of the spleen"
+    "A small lobe that belongs to the spleen"
    ],
    "correctOptionIndex": 1,
    "explanation": "The thymus is a primary lymphoid organ in the superior mediastinum where T cells mature.",
@@ -23086,9 +23086,9 @@
    "prompt": "¿Qué tipo de órgano es el timo?",
    "options": [
     "Un órgano linfoide secundario abdominal",
-    "Un órgano linfoide primario en el mediastino superior",
+    "Un órgano linfoide primario del tórax",
     "Una glándula endocrina del cuello",
-    "Parte del bazo"
+    "Un pequeño lóbulo que pertenece al bazo"
    ],
    "correctOptionIndex": 1,
    "explanation": "El timo es un órgano linfoide primario del mediastino superior donde maduran los linfocitos T.",
@@ -23109,10 +23109,10 @@
    "difficulty": "explorer",
    "prompt": "What happens to the thymus after puberty?",
    "options": [
-    "It doubles in size",
-    "It turns into bone",
-    "It moves to the abdomen",
-    "It shrinks with fibrofatty replacement"
+    "It doubles in size every decade",
+    "It gradually turns into bone",
+    "It moves down into the abdomen",
+    "It shrinks and is replaced by fat"
    ],
    "correctOptionIndex": 3,
    "explanation": "The thymus is largest early in life and involutes after puberty, replaced by fibrofatty tissue.",
@@ -23133,10 +23133,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué le ocurre al timo después de la pubertad?",
    "options": [
-    "Duplica su tamaño",
-    "Se osifica",
-    "Se desplaza al abdomen",
-    "Se reduce con reemplazo fibroadiposo"
+    "Duplica su tamaño cada década",
+    "Se va osificando de a poco",
+    "Se desplaza hacia el abdomen inferior",
+    "Se reduce y es reemplazado por grasa"
    ],
    "correctOptionIndex": 3,
    "explanation": "El timo es máximo en la infancia e involuciona tras la pubertad, reemplazado por tejido fibroadiposo.",
@@ -23205,10 +23205,10 @@
    "difficulty": "explorer",
    "prompt": "Which statement about antiretroviral therapy (ART) is correct?",
    "options": [
-    "ART delays progression but does not cure HIV",
-    "ART cures HIV in 6 months",
-    "ART is a vaccine",
-    "ART is only for opportunistic infections"
+    "ART delays progression but does not cure",
+    "ART cures HIV infection in 6 months",
+    "ART is a therapeutic vaccine against HIV",
+    "ART only treats opportunistic infections"
    ],
    "correctOptionIndex": 0,
    "explanation": "ART suppresses the virus and delays progression but does not eradicate HIV, requiring lifelong care.",
@@ -23229,9 +23229,9 @@
    "difficulty": "explorer",
    "prompt": "¿Qué afirmación sobre el tratamiento antirretroviral (TAR) es correcta?",
    "options": [
-    "El TAR retrasa la progresión pero no cura el VIH",
-    "El TAR cura el VIH en 6 meses",
-    "El TAR es una vacuna",
+    "El TAR frena la progresión pero no cura",
+    "El TAR cura la infección en 6 meses",
+    "El TAR es una vacuna terapéutica",
     "El TAR solo trata infecciones oportunistas"
    ],
    "correctOptionIndex": 0,
@@ -23253,10 +23253,10 @@
    "difficulty": "researcher",
    "prompt": "What do the UNAIDS \"95-95-95\" targets refer to?",
    "options": [
-    "95% vaccinated, 95% cured, 95% screened",
-    "95% reduction in deaths, cases and costs",
-    "95% condom use in three groups",
-    "95% diagnosed, 95% of those on ART, 95% of those virally suppressed"
+    "95% vaccinated, cured and screened",
+    "95% fewer deaths, new cases and costs",
+    "95% condom use in three key populations",
+    "95% diagnosed, treated and suppressed"
    ],
    "correctOptionIndex": 3,
    "explanation": "Targets: 95% of people with HIV diagnosed, 95% of them on ART, and 95% of those on ART virally suppressed.",
@@ -23280,7 +23280,7 @@
     "95% vacunados, curados y testeados",
     "95% menos muertes, casos y costos",
     "95% de uso de preservativo en tres grupos",
-    "95% diagnosticados, 95% de ellos en TAR, 95% de estos con carga viral suprimida"
+    "95% diagnosticados, tratados y suprimidos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Metas: 95% de las personas con VIH diagnosticadas, 95% de ellas en TAR y 95% de estas con supresión viral.",
@@ -23349,10 +23349,10 @@
    "difficulty": "researcher",
    "prompt": "What is a hybridoma?",
    "options": [
-    "A virus-infected T cell",
-    "A fusion of a myeloma cell with a B lymphocyte",
-    "A hybrid of bacteria and yeast",
-    "A plasmid with antibody genes"
+    "A T cell infected by a retrovirus",
+    "A myeloma cell fused with a B cell",
+    "A hybrid cell of bacteria and yeast",
+    "A plasmid that carries antibody genes"
    ],
    "correctOptionIndex": 1,
    "explanation": "A hybridoma fuses an immortal myeloma cell with an antibody-producing B cell, yielding unlimited antibody of one specificity.",
@@ -23373,10 +23373,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué es un hibridoma?",
    "options": [
-    "Un linfocito T infectado por virus",
-    "La fusión de una célula de mieloma con un linfocito B",
-    "Un híbrido de bacteria y levadura",
-    "Un plásmido con genes de anticuerpo"
+    "Un linfocito T infectado por un retrovirus",
+    "Una célula de mieloma fusionada con un B",
+    "Una célula híbrida de bacteria y levadura",
+    "Un plásmido que porta genes de anticuerpo"
    ],
    "correctOptionIndex": 1,
    "explanation": "Un hibridoma fusiona una célula de mieloma inmortal con un linfocito B productor, dando anticuerpo ilimitado de una sola especificidad.",
@@ -23445,8 +23445,8 @@
    "difficulty": "expert",
    "prompt": "Why were early murine monoclonal antibodies unsuitable for long-term therapy?",
    "options": [
-    "Patients developed human anti-murine antibodies (HAMA)",
-    "They were too small to bind",
+    "Patients made anti-mouse antibodies",
+    "They were too small to bind antigen",
     "They could not be produced in volume",
     "They were destroyed by stomach acid"
    ],
@@ -23469,10 +23469,10 @@
    "difficulty": "expert",
    "prompt": "¿Por qué los primeros anticuerpos monoclonales murinos no servían para tratamientos prolongados?",
    "options": [
-    "Los pacientes generaban anticuerpos humanos antimurinos (HAMA)",
+    "Generaban anticuerpos antirratón",
     "Eran demasiado pequeños para unirse",
     "No se podían producir en volumen",
-    "Los destruía el ácido gástrico"
+    "Los destruía el ácido del estómago"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los mAb murinos eran inmunógenos: los HAMA aumentaban su eliminación y podían causar anafilaxia; de ahí los quiméricos y humanizados.",
@@ -23589,10 +23589,10 @@
    "difficulty": "explorer",
    "prompt": "What is the classic pattern of weakness in myasthenia gravis?",
    "options": [
-    "Constant weakness worse in the morning",
-    "Painful cramps at rest",
-    "Fluctuating weakness, worse later in the day",
-    "Sensory loss in a glove distribution"
+    "Constant weakness, worst in the morning",
+    "Painful muscle cramps at rest",
+    "Fluctuating weakness, worse in the evening",
+    "Sensory loss in a glove-and-stocking pattern"
    ],
    "correctOptionIndex": 2,
    "explanation": "Autoantibodies impair neuromuscular transmission, causing fatigable weakness that worsens in the afternoon.",
@@ -23613,10 +23613,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál es el patrón clásico de debilidad en la miastenia gravis?",
    "options": [
-    "Debilidad constante peor a la mañana",
-    "Calambres dolorosos en reposo",
-    "Debilidad fluctuante, peor hacia la tarde",
-    "Pérdida sensitiva en guante"
+    "Debilidad constante, peor a la mañana",
+    "Calambres musculares dolorosos en reposo",
+    "Debilidad fluctuante, peor a la tarde",
+    "Pérdida sensitiva en guante y calcetín"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los autoanticuerpos alteran la transmisión neuromuscular y causan debilidad fatigable que empeora por la tarde.",
@@ -23637,10 +23637,10 @@
    "difficulty": "curious",
    "prompt": "What is herd immunity based on?",
    "options": [
-    "The number of doctors in a country",
-    "Antibiotic use in animals",
-    "The relationship between pathogen transmission and immunity in the population",
-    "Genetic resistance of a single person"
+    "The number of doctors per inhabitant",
+    "Mass antibiotic use in farm animals",
+    "Transmission versus population immunity",
+    "The genetic resistance of one single person"
    ],
    "correctOptionIndex": 2,
    "explanation": "Herd immunity arises when enough people are immune that transmission chains break, indirectly protecting the unvaccinated.",
@@ -23661,10 +23661,10 @@
    "difficulty": "curious",
    "prompt": "¿En qué se basa la inmunidad de rebaño?",
    "options": [
-    "En la cantidad de médicos de un país",
-    "En el uso de antibióticos en animales",
-    "En la relación entre la transmisión del patógeno y la inmunidad de la población",
-    "En la resistencia genética de una persona"
+    "En la cantidad de médicos por habitante",
+    "En el uso masivo de antibióticos en animales",
+    "En la transmisión y la inmunidad poblacional",
+    "En la resistencia genética de una sola persona"
    ],
    "correctOptionIndex": 2,
    "explanation": "La inmunidad de rebaño surge cuando hay suficientes inmunes como para cortar las cadenas de transmisión y proteger indirectamente a los no vacunados.",
@@ -23685,10 +23685,10 @@
    "difficulty": "researcher",
    "prompt": "Why do conjugate vaccines provide better herd protection than plain polysaccharide vaccines?",
    "options": [
-    "Conjugation to a protein recruits T-cell help, giving memory and reducing carriage",
-    "They contain live bacteria",
-    "They are given orally",
-    "They contain antibiotics"
+    "Protein conjugation recruits T-cell help",
+    "They contain live, attenuated bacteria",
+    "They are given orally and act on the gut",
+    "They contain small doses of antibiotics"
    ],
    "correctOptionIndex": 0,
    "explanation": "Conjugate vaccines (meningococcal, pneumococcal, Hib) outperform polysaccharide vaccines; protein conjugation engages T-cell help and reduces carriage.",
@@ -23709,10 +23709,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué las vacunas conjugadas dan mejor protección de rebaño que las polisacáridas simples?",
    "options": [
-    "La conjugación a una proteína recluta ayuda T, genera memoria y reduce la portación",
-    "Contienen bacterias vivas",
-    "Se dan por boca",
-    "Contienen antibióticos"
+    "La proteína conjugada recluta ayuda T",
+    "Contienen bacterias vivas atenuadas",
+    "Se dan por boca y actúan en el intestino",
+    "Contienen pequeñas dosis de antibióticos"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las vacunas conjugadas (meningococo, neumococo, Hib) superan a las polisacáridas; la proteína conjugada recluta ayuda T y reduce la portación.",
@@ -23781,10 +23781,10 @@
    "difficulty": "curious",
    "prompt": "What is a vaccine adjuvant?",
    "options": [
-    "The vaccine's antigen",
-    "A component that enhances the immune response to the antigen",
-    "A preservative that kills bacteria",
-    "The syringe material"
+    "The antigen itself that the vaccine targets",
+    "A component that boosts the immune response",
+    "A preservative that kills contaminating bacteria",
+    "The material the syringe is made of"
    ],
    "correctOptionIndex": 1,
    "explanation": "Adjuvants boost and shape the immune response to vaccine antigens.",
@@ -23805,10 +23805,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué es un adyuvante de una vacuna?",
    "options": [
-    "El antígeno de la vacuna",
-    "Un componente que potencia la respuesta inmune al antígeno",
-    "Un conservante que mata bacterias",
-    "El material de la jeringa"
+    "El propio antígeno contra el que apunta la vacuna",
+    "Un componente que potencia la respuesta inmune",
+    "Un conservante que mata bacterias contaminantes",
+    "El material del que está hecha la jeringa"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los adyuvantes potencian y orientan la respuesta inmune a los antígenos vacunales.",
@@ -23829,10 +23829,10 @@
    "difficulty": "researcher",
    "prompt": "How do immunostimulant adjuvants work?",
    "options": [
-    "They neutralize toxins directly",
-    "They replace antibodies",
-    "They act as danger signals on TLRs/PRRs, activating antigen-presenting cells",
-    "They kill T cells"
+    "They neutralize bacterial toxins directly",
+    "They replace the antibodies the body lacks",
+    "They act as danger signals on TLRs and PRRs",
+    "They kill regulatory T cells in the lymph node"
    ],
    "correctOptionIndex": 2,
    "explanation": "Immunostimulants trigger pattern-recognition receptors, maturing APCs and providing co-stimulation for adaptive responses.",
@@ -23853,10 +23853,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo actúan los adyuvantes inmunoestimulantes?",
    "options": [
-    "Neutralizan toxinas directamente",
-    "Reemplazan anticuerpos",
-    "Actúan como señales de peligro sobre TLR/PRR y activan células presentadoras",
-    "Matan linfocitos T"
+    "Neutralizan directamente las toxinas bacterianas",
+    "Reemplazan los anticuerpos que faltan",
+    "Actúan como señales de peligro sobre TLR y PRR",
+    "Matan linfocitos T reguladores en el ganglio"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los inmunoestimulantes activan receptores de reconocimiento de patrones, maduran las CPA y aportan coestimulación.",
@@ -23925,10 +23925,10 @@
    "difficulty": "expert",
    "prompt": "Ipilimumab blocks which immune checkpoint?",
    "options": [
-    "PD-1",
-    "PD-L1",
-    "LAG-3",
-    "CTLA-4"
+    "PD-1 (CD279)",
+    "PD-L1 (CD274)",
+    "LAG-3 (CD223)",
+    "CTLA-4 (CD152)"
    ],
    "correctOptionIndex": 3,
    "explanation": "Ipilimumab targets CTLA-4; nivolumab and pembrolizumab target PD-1; atezolizumab targets PD-L1.",
@@ -23949,10 +23949,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué punto de control bloquea el ipilimumab?",
    "options": [
-    "PD-1",
-    "PD-L1",
-    "LAG-3",
-    "CTLA-4"
+    "PD-1 (CD279)",
+    "PD-L1 (CD274)",
+    "LAG-3 (CD223)",
+    "CTLA-4 (CD152)"
    ],
    "correctOptionIndex": 3,
    "explanation": "El ipilimumab bloquea CTLA-4; nivolumab y pembrolizumab, PD-1; atezolizumab, PD-L1.",
@@ -23974,9 +23974,9 @@
    "prompt": "In which cancers has CAR-T cell therapy produced its most remarkable responses?",
    "options": [
     "Solid tumors of the pancreas",
-    "Skin melanoma only",
+    "Advanced skin melanoma only",
     "Certain B-cell leukemias and lymphomas",
-    "Brain tumors"
+    "Primary brain tumors such as glioblastoma"
    ],
    "correctOptionIndex": 2,
    "explanation": "CAR-T cells have shown remarkable responses in B-cell leukemia/lymphoma; solid tumors remain challenging.",
@@ -23998,9 +23998,9 @@
    "prompt": "¿En qué cánceres la terapia CAR-T logró las respuestas más notables?",
    "options": [
     "Tumores sólidos de páncreas",
-    "Solo melanoma",
+    "Solo el melanoma cutáneo avanzado",
     "Ciertas leucemias y linfomas de células B",
-    "Tumores cerebrales"
+    "Tumores cerebrales como el glioblastoma"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las CAR-T mostraron respuestas notables en leucemias/linfomas B; los tumores sólidos siguen siendo un desafío.",
@@ -24021,10 +24021,10 @@
    "difficulty": "researcher",
    "prompt": "Which is a recognized mechanism of CAR-T therapy failure?",
    "options": [
-    "Excess antibodies",
-    "Antigen escape (loss of the targeted antigen)",
-    "Too much complement",
-    "Low red cell count"
+    "An excess of circulating antibodies",
+    "Loss of the targeted antigen",
+    "Too much complement activation",
+    "A low red blood cell count"
    ],
    "correctOptionIndex": 1,
    "explanation": "Barriers include toxicities, antigen escape, poor trafficking and limited tumor infiltration.",
@@ -24045,10 +24045,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál es un mecanismo reconocido de fracaso de la terapia CAR-T?",
    "options": [
-    "Exceso de anticuerpos",
-    "Escape antigénico (pérdida del antígeno blanco)",
-    "Exceso de complemento",
-    "Anemia"
+    "Un exceso de anticuerpos circulantes",
+    "La pérdida del antígeno blanco",
+    "Demasiada activación del complemento",
+    "Un recuento bajo de glóbulos rojos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Entre las barreras están la toxicidad, el escape antigénico, el mal tráfico celular y la escasa infiltración tumoral.",
@@ -24069,9 +24069,9 @@
    "difficulty": "researcher",
    "prompt": "What is the most notable potentially fatal adverse effect of T-cell–engaging immunotherapies such as CAR-T?",
    "options": [
-    "Hair loss",
-    "Hypoglycemia",
-    "Kidney stones",
+    "Diffuse, permanent hair loss",
+    "Severe hypoglycemia",
+    "Acute kidney stones",
     "Cytokine release syndrome"
    ],
    "correctOptionIndex": 3,
@@ -24093,10 +24093,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál es el efecto adverso potencialmente mortal más notable de las inmunoterapias que activan linfocitos T, como CAR-T?",
    "options": [
-    "Caída del pelo",
-    "Hipoglucemia",
-    "Cálculos renales",
-    "Síndrome de liberación de citocinas"
+    "Caída difusa y permanente del pelo",
+    "Hipoglucemia grave",
+    "Cálculos renales agudos",
+    "Liberación masiva de citocinas"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las CAR-T y los anticuerpos biespecíficos pueden desencadenar síndrome de liberación de citocinas, una inflamación sistémica potencialmente mortal.",
@@ -24117,10 +24117,10 @@
    "difficulty": "explorer",
    "prompt": "What is the main role of regulatory T cells (Tregs)?",
    "options": [
-    "Producing antibodies",
-    "Maintaining tolerance to self and suppressing excessive responses",
-    "Killing virus-infected cells",
-    "Phagocytosing bacteria"
+    "Producing high-affinity antibodies",
+    "Keeping tolerance, curbing excess responses",
+    "Killing virus-infected cells directly by lysis",
+    "Phagocytosing bacteria in the tissues"
    ],
    "correctOptionIndex": 1,
    "explanation": "Tregs maintain self-tolerance and restrain harmful immune responses; their dysfunction contributes to immune disease.",
@@ -24141,10 +24141,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál es la función principal de los linfocitos T reguladores (Treg)?",
    "options": [
-    "Producir anticuerpos",
-    "Mantener la tolerancia a lo propio y suprimir respuestas excesivas",
-    "Matar células infectadas",
-    "Fagocitar bacterias"
+    "Producir anticuerpos de alta afinidad",
+    "Mantener la tolerancia a lo propio",
+    "Matar en forma directa células infectadas",
+    "Fagocitar bacterias en los tejidos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los Treg mantienen la autotolerancia y frenan respuestas dañinas; su disfunción contribuye a enfermedades inmunes.",
@@ -24165,10 +24165,10 @@
    "difficulty": "expert",
    "prompt": "Where do regulatory T cells originate?",
    "options": [
-    "In the thymus, and also induced from naive T cells in the periphery",
-    "Only in bone marrow from B cells",
-    "Only from macrophages",
-    "Only in lymph nodes from NK cells"
+    "In the thymus, and induced in the periphery",
+    "Only in bone marrow, derived from B cells",
+    "Only from tissue macrophages in the skin",
+    "Only in lymph nodes, derived from NK cells"
    ],
    "correctOptionIndex": 0,
    "explanation": "Tregs arise in the thymus (thymic Tregs) and can be induced from naive peripheral T cells (peripheral Tregs).",
@@ -24189,10 +24189,10 @@
    "difficulty": "expert",
    "prompt": "¿Dónde se originan los linfocitos T reguladores?",
    "options": [
-    "En el timo, y también inducidos a partir de T vírgenes en la periferia",
-    "Solo en médula ósea a partir de B",
-    "Solo de macrófagos",
-    "Solo en ganglios a partir de NK"
+    "En el timo, y también inducidos en la periferia",
+    "Solo en la médula ósea, a partir de linfocitos B",
+    "Solo de macrófagos tisulares de la piel",
+    "Solo en ganglios, a partir de células NK"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los Treg surgen en el timo (Treg tímicos) y pueden inducirse desde T vírgenes periféricos (Treg periféricos).",
@@ -24214,9 +24214,9 @@
    "prompt": "Which cytokines characterize Th17 cells?",
    "options": [
     "IFN-γ and IL-2",
-    "IL-4 and IL-13",
+    "IL-4, IL-5 and IL-13",
     "IL-17, IL-17F and IL-22",
-    "IL-10 and TGF-β only"
+    "IL-10 and TGF-β, but no IL-17"
    ],
    "correctOptionIndex": 2,
    "explanation": "Th17 cells secrete IL-17, IL-17F and IL-22, driving tissue inflammation and defense against extracellular pathogens.",
@@ -24238,9 +24238,9 @@
    "prompt": "¿Qué citocinas caracterizan a los linfocitos Th17?",
    "options": [
     "IFN-γ e IL-2",
-    "IL-4 e IL-13",
+    "IL-4, IL-5 e IL-13",
     "IL-17, IL-17F e IL-22",
-    "Solo IL-10 y TGF-β"
+    "IL-10 y TGF-β, pero no IL-17"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los Th17 secretan IL-17, IL-17F e IL-22 e impulsan inflamación tisular y defensa contra patógenos extracelulares.",
@@ -24309,10 +24309,10 @@
    "difficulty": "explorer",
    "prompt": "What do Toll-like receptors recognize?",
    "options": [
-    "Conserved structures shared by pathogens",
-    "Only self-antigens",
-    "Specific peptides on MHC",
-    "Antibodies"
+    "Conserved structures of pathogens",
+    "Only the body's own self-antigens",
+    "Specific peptides presented on MHC",
+    "Antibodies bound to mast cells"
    ],
    "correctOptionIndex": 0,
    "explanation": "TLRs are pattern-recognition receptors sensing conserved microbial structures, triggering innate responses and priming adaptive immunity.",
@@ -24333,10 +24333,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué reconocen los receptores tipo Toll (TLR)?",
    "options": [
-    "Estructuras conservadas compartidas por patógenos",
-    "Solo antígenos propios",
-    "Péptidos específicos en MHC",
-    "Anticuerpos"
+    "Estructuras conservadas de los patógenos",
+    "Solo los antígenos propios del cuerpo",
+    "Péptidos específicos presentados en el MHC",
+    "Anticuerpos unidos a mastocitos"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los TLR son receptores de reconocimiento de patrones que detectan estructuras microbianas conservadas y activan la inmunidad innata.",
@@ -24358,9 +24358,9 @@
    "prompt": "How can Toll-like receptors contribute to autoimmune disease?",
    "options": [
     "By producing autoantibodies themselves",
-    "By destroying the thymus",
-    "Through loss of negative regulation and recognition of self molecules",
-    "By blocking complement"
+    "By destroying the thymus during childhood",
+    "By lost regulation and self-sensing",
+    "By blocking the complement cascade"
    ],
    "correctOptionIndex": 2,
    "explanation": "Unchecked TLR signaling and TLR recognition of self molecules (e.g., self nucleic acids) are linked to inflammatory and autoimmune diseases.",
@@ -24381,10 +24381,10 @@
    "difficulty": "expert",
    "prompt": "¿Cómo pueden contribuir los TLR a enfermedades autoinmunes?",
    "options": [
-    "Produciendo autoanticuerpos",
-    "Destruyendo el timo",
-    "Por pérdida de regulación negativa y reconocimiento de moléculas propias",
-    "Bloqueando el complemento"
+    "Produciendo ellos mismos autoanticuerpos",
+    "Destruyendo el timo durante la infancia",
+    "Perdiendo regulación y detectando lo propio",
+    "Bloqueando la cascada del complemento"
    ],
    "correctOptionIndex": 2,
    "explanation": "La señalización TLR sin control y el reconocimiento de moléculas propias (p. ej., ácidos nucleicos) se asocian a enfermedades inflamatorias y autoinmunes.",
@@ -24405,10 +24405,10 @@
    "difficulty": "researcher",
    "prompt": "What do inflammasomes do?",
    "options": [
-    "Present antigens on MHC II",
-    "Activate inflammatory caspases and mature interleukin-1β",
-    "Produce antibodies",
-    "Build the cell wall"
+    "Present peptide antigens on MHC class II",
+    "Activate caspase-1 and mature IL-1β",
+    "Produce antibodies against intracellular viruses",
+    "Build the cell wall of phagocytes"
    ],
    "correctOptionIndex": 1,
    "explanation": "Inflammasomes (e.g., NLRP3) activate caspase-1, which matures IL-1β; dysregulation drives autoinflammatory disease.",
@@ -24429,10 +24429,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué hacen los inflamasomas?",
    "options": [
-    "Presentan antígenos en MHC II",
-    "Activan caspasas inflamatorias y maduran la interleucina-1β",
-    "Producen anticuerpos",
-    "Construyen la pared celular"
+    "Presentan antígenos peptídicos en el MHC II",
+    "Activan la caspasa 1 y maduran la IL-1β",
+    "Producen anticuerpos contra virus intracelulares",
+    "Construyen la pared de los fagocitos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los inflamasomas (p. ej., NLRP3) activan caspasa-1, que madura la IL-1β; su desregulación causa enfermedades autoinflamatorias.",
@@ -24454,9 +24454,9 @@
    "prompt": "What is 'trained immunity'?",
    "options": [
     "Antibody memory after vaccination",
-    "Thymic selection of T cells",
-    "Allergic sensitization",
-    "A form of memory in the innate immune system"
+    "Thymic selection of developing T cells",
+    "Allergic sensitization to an antigen",
+    "Memory within the innate immune system"
    ],
    "correctOptionIndex": 3,
    "explanation": "Trained immunity is enhanced innate responsiveness after a prior stimulus, driven by epigenetic and metabolic reprogramming.",
@@ -24478,9 +24478,9 @@
    "prompt": "¿Qué es la 'inmunidad entrenada'?",
    "options": [
     "Memoria de anticuerpos tras vacunar",
-    "Selección tímica de linfocitos T",
-    "Sensibilización alérgica",
-    "Una forma de memoria del sistema inmune innato"
+    "Selección tímica de linfocitos T en desarrollo",
+    "Sensibilización alérgica a un antígeno",
+    "Memoria dentro del sistema inmune innato"
    ],
    "correctOptionIndex": 3,
    "explanation": "La inmunidad entrenada es una mayor respuesta innata tras un estímulo previo, por reprogramación epigenética y metabólica.",
@@ -24501,10 +24501,10 @@
    "difficulty": "explorer",
    "prompt": "What is 'immune exclusion' by secretory IgA?",
    "options": [
-    "Killing bacteria with complement",
-    "Blocking pathogens' access to the epithelium and clearing them from the lumen",
-    "Destroying gut epithelial cells",
-    "Activating mast cells"
+    "Killing bacteria by activating complement",
+    "Keeping pathogens off the epithelium",
+    "Destroying infected gut epithelial cells",
+    "Activating mast cells in the mucosa"
    ],
    "correctOptionIndex": 1,
    "explanation": "SIgA blocks epithelial receptors, traps microbes in mucus and helps remove them by peristalsis — without inflammation.",
@@ -24525,10 +24525,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué es la 'exclusión inmune' por IgA secretora?",
    "options": [
-    "Matar bacterias con complemento",
-    "Impedir el acceso de patógenos al epitelio y eliminarlos de la luz",
-    "Destruir el epitelio intestinal",
-    "Activar mastocitos"
+    "Matar bacterias activando el complemento",
+    "Mantener a los patógenos lejos del epitelio",
+    "Destruir células intestinales infectadas",
+    "Activar mastocitos de la mucosa"
    ],
    "correctOptionIndex": 1,
    "explanation": "La IgAs bloquea receptores epiteliales, atrapa microbios en el moco y ayuda a eliminarlos por peristalsis, sin inflamación.",
@@ -24551,8 +24551,8 @@
    "options": [
     "Somatic hypermutation with selection",
     "V(D)J recombination in the bone marrow",
-    "Complement fixation",
-    "Thymic negative selection"
+    "Fixation of complement on antigens",
+    "Negative selection in the thymus"
    ],
    "correctOptionIndex": 0,
    "explanation": "GC B cells undergo repeated somatic hypermutation and selection, producing high-affinity, class-switched antibodies.",
@@ -24574,9 +24574,9 @@
    "prompt": "¿Qué proceso de los centros germinales aumenta la afinidad de los anticuerpos?",
    "options": [
     "Hipermutación somática con selección",
-    "Recombinación V(D)J en la médula",
-    "Fijación del complemento",
-    "Selección negativa tímica"
+    "Recombinación V(D)J en la médula ósea",
+    "Fijación del complemento al antígeno",
+    "Selección negativa en el timo"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los B del centro germinal pasan por rondas de hipermutación somática y selección, generando anticuerpos de alta afinidad.",
@@ -24597,10 +24597,10 @@
    "difficulty": "expert",
    "prompt": "What distinguishes tissue-resident memory T cells?",
    "options": [
-    "They circulate constantly in blood",
-    "They are B cells",
-    "They stay in tissues without recirculating, giving rapid local protection",
-    "They only live in the thymus"
+    "They circulate constantly in the blood",
+    "They are a subset of memory B cells",
+    "They stay in tissues for local defense",
+    "They live only inside the thymus"
    ],
    "correctOptionIndex": 2,
    "explanation": "Trm cells remain in tissues at body surfaces, accelerating pathogen clearance on re-exposure; they're absent from blood.",
@@ -24621,10 +24621,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué distingue a los linfocitos T de memoria residentes en tejido?",
    "options": [
-    "Circulan siempre por la sangre",
-    "Son linfocitos B",
-    "Permanecen en los tejidos sin recircular y dan protección local rápida",
-    "Solo viven en el timo"
+    "Circulan constantemente por la sangre",
+    "Son un subtipo de linfocitos B de memoria",
+    "Se quedan en los tejidos para defensa local",
+    "Solo viven dentro del timo"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los Trm permanecen en tejidos de superficie y aceleran la eliminación del patógeno en la reexposición; no están en sangre.",
@@ -24741,10 +24741,10 @@
    "difficulty": "researcher",
    "prompt": "Which statement about acute kidney transplant rejection is correct?",
    "options": [
-    "It only occurs after 10 years",
-    "It is always caused by viruses",
-    "It occurs within the first year and can be T-cell or antibody-mediated",
-    "It cannot be treated"
+    "It occurs only after ten years or more",
+    "It is always caused by viral infections",
+    "It is early, T-cell or antibody-mediated",
+    "It cannot be treated once it begins"
    ],
    "correctOptionIndex": 2,
    "explanation": "Rejection types: hyperacute (minutes), accelerated, acute (<1 year; T-cell or antibody-mediated) and chronic (>1 year).",
@@ -24765,10 +24765,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué afirmación sobre el rechazo agudo del trasplante renal es correcta?",
    "options": [
-    "Ocurre recién a los 10 años",
-    "Siempre lo causan virus",
-    "Ocurre en el primer año y puede ser mediado por T o por anticuerpos",
-    "No tiene tratamiento"
+    "Ocurre recién después de diez años",
+    "Siempre la causan infecciones virales",
+    "Es temprano, mediado por T o anticuerpos",
+    "No tiene tratamiento una vez iniciado"
    ],
    "correctOptionIndex": 2,
    "explanation": "Tipos: hiperagudo (minutos), acelerado, agudo (<1 año; celular o humoral) y crónico (>1 año).",
@@ -24838,9 +24838,9 @@
    "prompt": "What is the most common cause of hypothyroidism in developed countries?",
    "options": [
     "Graves disease",
-    "Hashimoto (autoimmune) thyroiditis",
-    "Thyroid surgery",
-    "Pituitary tumor"
+    "Hashimoto thyroiditis",
+    "Prior thyroid surgery",
+    "A pituitary tumor"
    ],
    "correctOptionIndex": 1,
    "explanation": "Hashimoto thyroiditis destroys follicular cells through antibody- and cell-mediated autoimmunity.",
@@ -24862,9 +24862,9 @@
    "prompt": "¿Cuál es la causa más común de hipotiroidismo en países desarrollados?",
    "options": [
     "Enfermedad de Graves",
-    "Tiroiditis de Hashimoto (autoinmune)",
-    "Cirugía tiroidea",
-    "Tumor hipofisario"
+    "Tiroiditis de Hashimoto",
+    "Cirugía tiroidea previa",
+    "Un tumor hipofisario"
    ],
    "correctOptionIndex": 1,
    "explanation": "La tiroiditis de Hashimoto destruye células foliculares por autoinmunidad celular y humoral.",
@@ -24885,10 +24885,10 @@
    "difficulty": "curious",
    "prompt": "What causes type 1 diabetes?",
    "options": [
-    "Insulin resistance from obesity",
-    "A viral infection of the liver",
-    "Immune-mediated destruction of pancreatic β-cells",
-    "Excess dietary sugar"
+    "Insulin resistance due to obesity",
+    "A chronic viral infection of the liver",
+    "Immune destruction of β-cells",
+    "Excess sugar in the diet over years"
    ],
    "correctOptionIndex": 2,
    "explanation": "T1D results from autoimmune destruction of insulin-producing β-cells, causing absolute insulin deficiency.",
@@ -24910,9 +24910,9 @@
    "prompt": "¿Qué causa la diabetes tipo 1?",
    "options": [
     "Resistencia a la insulina por obesidad",
-    "Una infección viral del hígado",
-    "La destrucción inmunomediada de las células β del páncreas",
-    "El exceso de azúcar en la dieta"
+    "Una infección viral crónica del hígado",
+    "Destrucción inmune de las células β",
+    "Exceso de azúcar en la dieta por años"
    ],
    "correctOptionIndex": 2,
    "explanation": "La DT1 se debe a la destrucción autoinmune de las células β productoras de insulina, con déficit absoluto de insulina.",
@@ -24934,9 +24934,9 @@
    "prompt": "What does having multiple type 1 diabetes–related autoantibodies predict?",
    "options": [
     "Eventual clinical type 1 diabetes",
-    "Protection from diabetes",
-    "Type 2 diabetes only",
-    "Nothing; they are irrelevant"
+    "Lifelong protection from diabetes",
+    "Type 2 diabetes in adulthood only",
+    "Nothing; they have no meaning at all"
    ],
    "correctOptionIndex": 0,
    "explanation": "People with multiple islet autoantibodies eventually develop clinical T1D, which is why at-risk relatives are screened.",
@@ -24957,10 +24957,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué predice tener múltiples autoanticuerpos relacionados con la diabetes tipo 1?",
    "options": [
-    "El desarrollo eventual de diabetes tipo 1 clínica",
-    "Protección contra la diabetes",
-    "Solo diabetes tipo 2",
-    "Nada; son irrelevantes"
+    "Diabetes tipo 1 clínica a futuro",
+    "Protección de por vida contra la diabetes",
+    "Solo diabetes tipo 2 en la adultez",
+    "Nada; no tienen ningún significado"
    ],
    "correctOptionIndex": 0,
    "explanation": "Quienes tienen múltiples autoanticuerpos contra islotes terminan desarrollando DT1 clínica; por eso se tamiza a familiares.",
@@ -24981,10 +24981,10 @@
    "difficulty": "explorer",
    "prompt": "What characterizes multiple sclerosis?",
    "options": [
-    "Muscle fiber necrosis",
-    "Joint cartilage destruction",
-    "Peripheral nerve infection",
-    "Autoimmune CNS inflammation with demyelination"
+    "Necrosis of skeletal muscle fibers",
+    "Destruction of joint cartilage",
+    "Infection of peripheral nerves",
+    "Autoimmune CNS demyelination"
    ],
    "correctOptionIndex": 3,
    "explanation": "MS is an autoimmune CNS disease with inflammation, demyelination, gliosis and neuronal loss.",
@@ -25008,7 +25008,7 @@
     "Necrosis de fibras musculares",
     "Destrucción del cartílago articular",
     "Infección de nervios periféricos",
-    "Inflamación autoinmune del SNC con desmielinización"
+    "Desmielinización autoinmune del SNC"
    ],
    "correctOptionIndex": 3,
    "explanation": "La EM es una enfermedad autoinmune del SNC con inflamación, desmielinización, gliosis y pérdida neuronal.",
@@ -25077,10 +25077,10 @@
    "difficulty": "explorer",
    "prompt": "What is sarcoidosis?",
    "options": [
-    "A bacterial pneumonia",
-    "An IgE-mediated allergy",
-    "A multisystem granulomatous disease of unknown cause, mainly lungs and lymph nodes",
-    "A viral hepatitis"
+    "A bacterial pneumonia of the lower lobes",
+    "An IgE-mediated allergy to inhaled dust",
+    "A granulomatous disease of unknown cause",
+    "A chronic viral hepatitis with jaundice"
    ],
    "correctOptionIndex": 2,
    "explanation": "Sarcoidosis forms non-caseating granulomas, mainly in lungs and lymphoid organs; histopathology is the diagnostic gold standard.",
@@ -25101,10 +25101,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué es la sarcoidosis?",
    "options": [
-    "Una neumonía bacteriana",
-    "Una alergia mediada por IgE",
-    "Una enfermedad granulomatosa multisistémica de causa desconocida, sobre todo pulmonar y ganglionar",
-    "Una hepatitis viral"
+    "Una neumonía bacteriana de los lóbulos inferiores",
+    "Una alergia mediada por IgE al polvo",
+    "Una enfermedad granulomatosa de causa desconocida",
+    "Una hepatitis viral crónica con ictericia"
    ],
    "correctOptionIndex": 2,
    "explanation": "La sarcoidosis forma granulomas no caseificantes, sobre todo en pulmón y órganos linfoides; la histopatología es el estándar diagnóstico.",
@@ -25125,10 +25125,10 @@
    "difficulty": "curious",
    "prompt": "Atopic dermatitis frequently coexists with which conditions?",
    "options": [
-    "Allergic rhinitis, asthma and food allergies",
-    "Type 1 diabetes and lupus",
-    "Gout and arthritis",
-    "Tuberculosis and HIV"
+    "Allergic rhinitis, asthma, food allergy",
+    "Type 1 diabetes and systemic lupus erythematosus",
+    "Gout and degenerative arthritis",
+    "Tuberculosis and HIV infection"
    ],
    "correctOptionIndex": 0,
    "explanation": "Atopic dermatitis belongs to the IgE-associated 'atopic' diseases with allergic rhinitis, asthma and food allergy.",
@@ -25149,10 +25149,10 @@
    "difficulty": "curious",
    "prompt": "¿Con qué condiciones coexiste a menudo la dermatitis atópica?",
    "options": [
-    "Rinitis alérgica, asma y alergias alimentarias",
-    "Diabetes tipo 1 y lupus",
-    "Gota y artritis",
-    "Tuberculosis y VIH"
+    "Rinitis alérgica, asma y alergia alimentaria",
+    "Diabetes tipo 1 y lupus eritematoso sistémico",
+    "Gota y artritis degenerativa",
+    "Tuberculosis e infección por VIH"
    ],
    "correctOptionIndex": 0,
    "explanation": "La dermatitis atópica pertenece a las enfermedades 'atópicas' asociadas a IgE, junto con rinitis alérgica, asma y alergia alimentaria.",
@@ -25173,10 +25173,10 @@
    "difficulty": "explorer",
    "prompt": "Why is 'delabeling' penicillin allergy important?",
    "options": [
-    "Penicillin is no longer used",
-    "All allergic people have anaphylaxis",
-    "Penicillin allergy is always genetic",
-    "Most reported allergies are not true IgE allergy; wrong labels drive broad-spectrum use"
+    "Penicillin is no longer used in practice",
+    "Every allergic person develops anaphylaxis",
+    "Penicillin allergy is always inherited",
+    "False labels push broad-spectrum use"
    ],
    "correctOptionIndex": 3,
    "explanation": "8–10% report penicillin allergy but true IgE allergy is far rarer; inaccurate labels push broad-spectrum antibiotics and resistance.",
@@ -25197,10 +25197,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué es importante revisar ('desetiquetar') la alergia a la penicilina?",
    "options": [
-    "Ya no se usa penicilina",
-    "Todo alérgico hace anafilaxia",
-    "La alergia siempre es genética",
-    "La mayoría de las alergias reportadas no son IgE verdaderas; etiquetas erróneas llevan a usar amplio espectro"
+    "La penicilina ya no se usa en la práctica",
+    "Toda persona alérgica hace anafilaxia",
+    "La alergia a la penicilina siempre se hereda",
+    "Las etiquetas falsas llevan a amplio espectro"
    ],
    "correctOptionIndex": 3,
    "explanation": "El 8–10% refiere alergia pero la alergia IgE verdadera es mucho menor; las etiquetas erróneas fomentan antibióticos de amplio espectro y resistencia.",
@@ -25221,10 +25221,10 @@
    "difficulty": "expert",
    "prompt": "What usually happens over time to confirmed IgE-mediated penicillin allergy?",
    "options": [
-    "It always worsens",
-    "Most patients lose it (become tolerant) after about a decade",
-    "It becomes a T-cell allergy",
-    "It spreads to all drugs"
+    "It always gets worse with time",
+    "Most patients lose it within ~10 years",
+    "It turns into a T-cell–mediated allergy",
+    "It spreads to all antibiotic classes"
    ],
    "correctOptionIndex": 1,
    "explanation": "Even confirmed IgE-mediated penicillin allergy wanes: most patients tolerate penicillin after about 10 years.",
@@ -25245,10 +25245,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué suele pasar con el tiempo con la alergia IgE a penicilina confirmada?",
    "options": [
-    "Siempre empeora",
-    "La mayoría la pierde (se vuelve tolerante) en unos diez años",
-    "Se convierte en alergia T",
-    "Se extiende a todos los fármacos"
+    "Siempre empeora con el tiempo",
+    "La mayoría la pierde en unos diez años",
+    "Se convierte en una alergia mediada por T",
+    "Se extiende a todas las clases de antibióticos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Incluso la alergia IgE confirmada se atenúa: la mayoría tolera penicilina después de unos 10 años.",
@@ -25269,10 +25269,10 @@
    "difficulty": "curious",
    "prompt": "What characterizes asthma?",
    "options": [
-    "Permanent destruction of alveoli",
-    "Airway inflammation with intermittent obstruction and hyperresponsiveness",
-    "Bacterial infection of the pleura",
-    "Blood clots in the lungs"
+    "Permanent destruction of the alveolar walls",
+    "Airway inflammation with reversible obstruction",
+    "Bacterial infection of the pleural space",
+    "Blood clots lodged in the pulmonary arteries"
    ],
    "correctOptionIndex": 1,
    "explanation": "Asthma is chronic airway inflammation with intermittent, reversible obstruction and bronchial hyperresponsiveness.",
@@ -25293,10 +25293,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué caracteriza al asma?",
    "options": [
-    "Destrucción permanente de alvéolos",
-    "Inflamación de la vía aérea con obstrucción intermitente e hiperreactividad",
-    "Infección bacteriana de la pleura",
-    "Coágulos en los pulmones"
+    "Destrucción permanente de las paredes alveolares",
+    "Inflamación bronquial con obstrucción reversible",
+    "Infección bacteriana del espacio pleural",
+    "Coágulos alojados en las arterias pulmonares"
    ],
    "correctOptionIndex": 1,
    "explanation": "El asma es una inflamación crónica de la vía aérea con obstrucción intermitente y reversible e hiperreactividad bronquial.",
@@ -25365,10 +25365,10 @@
    "difficulty": "researcher",
    "prompt": "What transfusion precaution applies to some patients with selective IgA deficiency?",
    "options": [
-    "Only O-negative blood",
-    "Double-volume transfusions",
-    "Adding IgA to the bag",
-    "Using IgA-poor or washed red cells because anti-IgA antibodies can cause reactions"
+    "Using only O-negative blood",
+    "Giving double-volume transfusions",
+    "Adding purified IgA to the blood bag",
+    "Using washed or IgA-poor red cells"
    ],
    "correctOptionIndex": 3,
    "explanation": "Anti-IgA antibodies can trigger transfusion reactions; IgA-poor or washed red cells are used.",
@@ -25389,10 +25389,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué precaución transfusional aplica a algunos pacientes con déficit selectivo de IgA?",
    "options": [
-    "Solo sangre O negativo",
-    "Transfusiones de doble volumen",
-    "Agregar IgA a la bolsa",
-    "Usar glóbulos rojos lavados o pobres en IgA, porque los anticuerpos anti-IgA pueden causar reacciones"
+    "Usar solo sangre O negativo de donantes",
+    "Hacer transfusiones de doble volumen",
+    "Agregar IgA purificada a la bolsa",
+    "Usar glóbulos rojos lavados o sin IgA"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los anticuerpos anti-IgA pueden desencadenar reacciones transfusionales; se usan productos lavados o pobres en IgA.",
@@ -25413,10 +25413,10 @@
    "difficulty": "expert",
    "prompt": "What drives hemophagocytic lymphohistiocytosis (HLH)?",
    "options": [
-    "IgE-mediated mast cell release",
-    "Complement deficiency",
-    "Deregulated activation of NK cells, CD8+ T cells and macrophages",
-    "Bacterial toxins only"
+    "IgE-mediated release from mast cells",
+    "An inherited deficiency of complement proteins",
+    "Runaway NK, T cell and macrophage activity",
+    "Bacterial toxins acting on their own"
    ],
    "correctOptionIndex": 2,
    "explanation": "HLH is a hyperinflammatory syndrome from uncontrolled NK, CD8+ T-cell and macrophage activation; primary (genetic) or secondary.",
@@ -25438,9 +25438,9 @@
    "prompt": "¿Qué impulsa la linfohistiocitosis hemofagocítica (LHH)?",
    "options": [
     "Liberación de mastocitos mediada por IgE",
-    "Déficit de complemento",
-    "Activación desregulada de NK, linfocitos T CD8+ y macrófagos",
-    "Solo toxinas bacterianas"
+    "Un déficit hereditario de proteínas del complemento",
+    "Activación descontrolada de NK, T y macrófagos",
+    "Toxinas bacterianas que actúan solas"
    ],
    "correctOptionIndex": 2,
    "explanation": "La LHH es un síndrome hiperinflamatorio por activación descontrolada de NK, T CD8+ y macrófagos; primaria (genética) o secundaria.",
@@ -25509,10 +25509,10 @@
    "difficulty": "curious",
    "prompt": "Besides allergy, IgE is important in the defense against which type of infection?",
    "options": [
-    "Viral colds",
+    "Common viral colds",
     "Fungal skin infections",
     "Parasitic infections",
-    "Urinary infections"
+    "Urinary tract infections"
    ],
    "correctOptionIndex": 2,
    "explanation": "IgE contributes to immunity against parasites, especially helminths.",
@@ -25533,10 +25533,10 @@
    "difficulty": "curious",
    "prompt": "Además de la alergia, ¿contra qué tipo de infección es importante la IgE?",
    "options": [
-    "Resfríos virales",
-    "Micosis de piel",
+    "Resfríos virales comunes",
+    "Micosis de la piel",
     "Infecciones parasitarias",
-    "Infecciones urinarias"
+    "Infecciones urinarias bajas"
    ],
    "correctOptionIndex": 2,
    "explanation": "La IgE contribuye a la inmunidad contra parásitos, sobre todo helmintos.",
@@ -25557,10 +25557,10 @@
    "difficulty": "explorer",
    "prompt": "Where is most IgE found in the body?",
    "options": [
-    "Bound to mast cells and basophils through FcεRI",
-    "Free in saliva",
-    "Inside red blood cells",
-    "In the cerebrospinal fluid"
+    "Bound to mast cells and basophils",
+    "Free in saliva and tears",
+    "Inside circulating red blood cells",
+    "Dissolved in the cerebrospinal fluid"
    ],
    "correctOptionIndex": 0,
    "explanation": "Most IgE sits on mast cells and basophils, held by the high-affinity receptor FcεRI; only a fraction circulates in plasma.",
@@ -25581,10 +25581,10 @@
    "difficulty": "explorer",
    "prompt": "¿Dónde se encuentra la mayor parte de la IgE?",
    "options": [
-    "Unida a mastocitos y basófilos mediante FcεRI",
-    "Libre en la saliva",
-    "Dentro de los glóbulos rojos",
-    "En el líquido cefalorraquídeo"
+    "Unida a mastocitos y basófilos",
+    "Libre en la saliva y las lágrimas",
+    "Dentro de los glóbulos rojos circulantes",
+    "Disuelta en el líquido cefalorraquídeo"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mayor parte de la IgE está unida a mastocitos y basófilos por el receptor de alta afinidad FcεRI; solo una fracción circula en plasma.",
@@ -25606,9 +25606,9 @@
    "prompt": "What happens when an allergen cross-links IgE on a mast cell?",
    "options": [
     "The mast cell divides into plasma cells",
-    "Complement is inhibited",
-    "Antibody production stops",
-    "Histamine is released and prostaglandins and leukotrienes are synthesized"
+    "The complement cascade is inhibited",
+    "All antibody production stops at once",
+    "It releases histamine and lipid mediators"
    ],
    "correctOptionIndex": 3,
    "explanation": "Antigen binding to FcεRI-bound IgE triggers immediate histamine release and synthesis of lipid mediators, followed by cytokines.",
@@ -25630,9 +25630,9 @@
    "prompt": "¿Qué ocurre cuando un alérgeno entrecruza la IgE de un mastocito?",
    "options": [
     "El mastocito se divide en plasmocitos",
-    "Se inhibe el complemento",
-    "Se detiene la producción de anticuerpos",
-    "Se libera histamina y se sintetizan prostaglandinas y leucotrienos"
+    "Se inhibe la cascada del complemento",
+    "Se frena de golpe toda producción de anticuerpos",
+    "Libera histamina y mediadores lipídicos"
    ],
    "correctOptionIndex": 3,
    "explanation": "La unión del antígeno a la IgE sobre FcεRI desencadena la liberación inmediata de histamina y la síntesis de mediadores lipídicos, y luego citocinas.",
@@ -25653,10 +25653,10 @@
    "difficulty": "beginner",
    "prompt": "Which is a main function of the lymphatic system?",
    "options": [
-    "Maintaining fluid balance by returning tissue fluid to the blood",
-    "Pumping blood",
-    "Producing bile",
-    "Filtering urine"
+    "Returning tissue fluid to the blood",
+    "Pumping blood through the arteries",
+    "Producing bile for fat digestion",
+    "Filtering the blood to make urine"
    ],
    "correctOptionIndex": 0,
    "explanation": "Lymphatics maintain fluid balance, absorb dietary fats and support immunity.",
@@ -25677,10 +25677,10 @@
    "difficulty": "beginner",
    "prompt": "¿Cuál es una función principal del sistema linfático?",
    "options": [
-    "Mantener el equilibrio de líquidos devolviendo el líquido tisular a la sangre",
-    "Bombear sangre",
-    "Producir bilis",
-    "Filtrar orina"
+    "Devolver el líquido tisular a la sangre",
+    "Bombear la sangre por las arterias",
+    "Producir bilis para digerir las grasas de la dieta",
+    "Filtrar la sangre para formar orina"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los linfáticos mantienen el equilibrio de líquidos, absorben grasas de la dieta y sostienen la inmunidad.",
@@ -25701,10 +25701,10 @@
    "difficulty": "curious",
    "prompt": "How does the lymphatic system help the immune response?",
    "options": [
-    "It destroys red blood cells",
-    "It produces insulin",
+    "It destroys aged red blood cells",
+    "It produces insulin after meals",
     "It carries antigens to lymph nodes",
-    "It stores iron"
+    "It stores iron for later use"
    ],
    "correctOptionIndex": 2,
    "explanation": "Lymph carries antigens and immune cells to lymph nodes, where adaptive responses start.",
@@ -25725,10 +25725,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo ayuda el sistema linfático a la respuesta inmune?",
    "options": [
-    "Destruye glóbulos rojos",
-    "Produce insulina",
-    "Lleva antígenos a los ganglios linfáticos",
-    "Almacena hierro"
+    "Destruye glóbulos rojos envejecidos",
+    "Produce insulina tras las comidas",
+    "Lleva antígenos a los ganglios",
+    "Almacena hierro para usarlo luego"
    ],
    "correctOptionIndex": 2,
    "explanation": "La linfa transporta antígenos y células inmunes a los ganglios, donde comienzan las respuestas adaptativas.",
@@ -26037,9 +26037,9 @@
    "difficulty": "curious",
    "prompt": "Which is a common cause of acquired neutropenia?",
    "options": [
-    "Drinking water",
-    "Regular exercise",
-    "Vitamin C intake",
+    "Drinking tap water",
+    "Regular aerobic exercise",
+    "High vitamin C intake",
     "Cytotoxic chemotherapy"
    ],
    "correctOptionIndex": 3,
@@ -26061,9 +26061,9 @@
    "difficulty": "curious",
    "prompt": "¿Cuál es una causa frecuente de neutropenia adquirida?",
    "options": [
-    "Tomar agua",
-    "El ejercicio regular",
-    "La vitamina C",
+    "Tomar agua de la canilla",
+    "El ejercicio aeróbico regular",
+    "Mucha vitamina C",
     "La quimioterapia citotóxica"
    ],
    "correctOptionIndex": 3,
@@ -26085,10 +26085,10 @@
    "difficulty": "beginner",
    "prompt": "Where does the name 'eosinophil' come from?",
    "options": [
-    "From the place where they were discovered",
-    "From their granules staining with the acidic dye eosin",
-    "From their round nucleus",
-    "From a scientist named Eosin"
+    "From the place where they were first found",
+    "Their granules stain with the dye eosin",
+    "From the round shape of their nucleus",
+    "From a scientist whose surname was Eosin"
    ],
    "correctOptionIndex": 1,
    "explanation": "Eosinophil granules contain basic proteins that bind acidic dyes such as eosin, staining them orange-red.",
@@ -26109,10 +26109,10 @@
    "difficulty": "beginner",
    "prompt": "¿De dónde viene el nombre 'eosinófilo'?",
    "options": [
-    "Del lugar donde se descubrieron",
-    "De que sus gránulos se tiñen con el colorante ácido eosina",
-    "De su núcleo redondo",
-    "De un científico llamado Eosin"
+    "Del lugar donde se los halló por primera vez",
+    "Sus gránulos se tiñen con eosina",
+    "De la forma redonda de su núcleo",
+    "De un científico de apellido Eosin"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los gránulos de los eosinófilos contienen proteínas básicas que fijan colorantes ácidos como la eosina y se tiñen de rojo anaranjado.",
@@ -26229,10 +26229,10 @@
    "difficulty": "curious",
    "prompt": "What is mastocytosis?",
    "options": [
-    "Excessive proliferation and accumulation of abnormal mast cells in tissues",
-    "A lack of mast cells",
-    "An infection of the breast",
-    "A deficiency of IgE"
+    "Accumulation of abnormal mast cells",
+    "A congenital lack of mast cells",
+    "A bacterial infection of the breast",
+    "An inherited deficiency of IgE"
    ],
    "correctOptionIndex": 0,
    "explanation": "Mastocytosis can be cutaneous (skin only, usually benign) or systemic (extracutaneous, more aggressive).",
@@ -26253,10 +26253,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué es la mastocitosis?",
    "options": [
-    "La proliferación y acumulación excesiva de mastocitos anormales en los tejidos",
-    "La falta de mastocitos",
-    "Una infección de la mama",
-    "Un déficit de IgE"
+    "Acumulación de mastocitos anormales",
+    "La falta congénita de mastocitos",
+    "Una infección bacteriana de la mama",
+    "Un déficit hereditario de IgE"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mastocitosis puede ser cutánea (solo piel, en general benigna) o sistémica (extracutánea, más agresiva).",
@@ -26278,9 +26278,9 @@
    "prompt": "Which symptoms are typical of systemic mastocytosis?",
    "options": [
     "Fever and joint swelling only",
-    "Muscle weakness and double vision",
+    "Muscle weakness with double vision and ptosis",
     "Hair loss and cold intolerance",
-    "Itching, flushing, diarrhea and anaphylaxis"
+    "Itching, flushing, diarrhea, anaphylaxis"
    ],
    "correctOptionIndex": 3,
    "explanation": "Mast-cell mediators cause pruritus, flushing, diarrhea and even anaphylaxis.",
@@ -26326,9 +26326,9 @@
    "prompt": "Which group of symptoms is typical of allergic rhinitis?",
    "options": [
     "Fever, chills and purulent sputum",
-    "Chest pain and sweating",
-    "Nasal congestion, clear runny nose, sneezing and nasal itching",
-    "Headache and stiff neck"
+    "Chest pain and profuse sweating",
+    "Congestion, clear rhinorrhea, sneezing",
+    "Severe headache with a stiff neck and photophobia"
    ],
    "correctOptionIndex": 2,
    "explanation": "Allergic rhinitis is an atopic disease with congestion, clear rhinorrhea, sneezing, postnasal drip and itching.",
@@ -26350,9 +26350,9 @@
    "prompt": "¿Qué grupo de síntomas es típico de la rinitis alérgica?",
    "options": [
     "Fiebre, escalofríos y esputo purulento",
-    "Dolor de pecho y sudoración",
-    "Congestión nasal, secreción clara, estornudos y picazón nasal",
-    "Cefalea y rigidez de nuca"
+    "Dolor de pecho y sudoración profusa",
+    "Congestión, rinorrea clara, estornudos",
+    "Cefalea intensa y rigidez de nuca"
    ],
    "correctOptionIndex": 2,
    "explanation": "La rinitis alérgica es una enfermedad atópica con congestión, rinorrea clara, estornudos, goteo posnasal y prurito.",
@@ -26374,7 +26374,7 @@
    "prompt": "What is the first-line treatment for allergic rhinitis?",
    "options": [
     "Intranasal corticosteroids",
-    "Oral antibiotics",
+    "Oral broad-spectrum antibiotics",
     "Antiviral drugs",
     "Nasal surgery"
    ],
@@ -26398,7 +26398,7 @@
    "prompt": "¿Cuál es el tratamiento de primera línea de la rinitis alérgica?",
    "options": [
     "Corticoides intranasales",
-    "Antibióticos orales",
+    "Antibióticos orales de amplio espectro",
     "Antivirales",
     "Cirugía nasal"
    ],
@@ -26517,10 +26517,10 @@
    "difficulty": "explorer",
    "prompt": "How is asthma inherited?",
    "options": [
-    "By a single dominant gene",
-    "In a complex, polygenic way that is not Mendelian",
-    "Only from the mother",
-    "It has no family component"
+    "Through a single dominant gene",
+    "In a complex, polygenic way",
+    "Only through the mother's line",
+    "It has no family component at all"
    ],
    "correctOptionIndex": 1,
    "explanation": "Asthma runs in families but is polygenic with locus heterogeneity, not following a Mendelian pattern.",
@@ -26542,9 +26542,9 @@
    "prompt": "¿Cómo se hereda el asma?",
    "options": [
     "Por un único gen dominante",
-    "De manera compleja y poligénica, no mendeliana",
-    "Solo por vía materna",
-    "No tiene componente familiar"
+    "De manera compleja y poligénica",
+    "Solo por la línea materna",
+    "No tiene ningún componente familiar"
    ],
    "correctOptionIndex": 1,
    "explanation": "El asma tiene componente familiar pero es poligénica, con heterogeneidad de locus, y no sigue un patrón mendeliano.",
@@ -26567,7 +26567,7 @@
    "options": [
     "When it involves the larynx",
     "When it affects the lips",
-    "When it lasts one hour",
+    "When it lasts more than one hour",
     "When it itches"
    ],
    "correctOptionIndex": 0,
@@ -26591,7 +26591,7 @@
    "options": [
     "Cuando afecta la laringe",
     "Cuando afecta los labios",
-    "Cuando dura una hora",
+    "Cuando dura más de una hora",
     "Cuando pica"
    ],
    "correctOptionIndex": 0,
@@ -26661,10 +26661,10 @@
    "difficulty": "expert",
    "prompt": "What distinguishes type 1 from type 2 hereditary angioedema?",
    "options": [
-    "Type 1 is allergic and type 2 is drug-induced",
-    "Type 1 lacks C1-inhibitor; type 2 has a dysfunctional C1-inhibitor",
-    "Type 1 affects only children",
-    "Type 2 involves IgE"
+    "Type 1 is allergic; type 2 is drug-induced",
+    "Type 1: no C1-INH; type 2: faulty C1-INH",
+    "Type 1 affects only young children",
+    "Type 2 is driven by IgE antibodies"
    ],
    "correctOptionIndex": 1,
    "explanation": "Hereditary angioedema type 1 has low C1-inhibitor; type 2 has normal amounts of a non-functional protein.",
@@ -26686,9 +26686,9 @@
    "prompt": "¿Qué distingue el angioedema hereditario tipo 1 del tipo 2?",
    "options": [
     "El tipo 1 es alérgico y el 2 por fármacos",
-    "El tipo 1 carece de C1-inhibidor; el tipo 2 tiene un C1-inhibidor disfuncional",
-    "El tipo 1 afecta solo a niños",
-    "El tipo 2 involucra IgE"
+    "Tipo 1: sin C1-INH; tipo 2: C1-INH anómalo",
+    "El tipo 1 afecta solo a niños pequeños",
+    "El tipo 2 depende de anticuerpos IgE"
    ],
    "correctOptionIndex": 1,
    "explanation": "En el tipo 1 falta C1-inhibidor; en el tipo 2 hay cantidad normal de una proteína que no funciona.",
@@ -26757,10 +26757,10 @@
    "difficulty": "curious",
    "prompt": "Where does the name 'C-reactive protein' come from?",
    "options": [
-    "Its reaction with the C carbohydrate of Streptococcus pneumoniae",
-    "Its high vitamin C content",
-    "Its discovery in the city of Cork",
-    "Its role in clotting"
+    "It reacts with pneumococcal C carbohydrate",
+    "Its unusually high vitamin C content",
+    "Its discovery in the Irish city of Cork",
+    "Its central role in blood clotting"
    ],
    "correctOptionIndex": 0,
    "explanation": "CRP was named for reacting with the C polysaccharide of the pneumococcal capsule (Tillett and Francis, 1930).",
@@ -26781,10 +26781,10 @@
    "difficulty": "curious",
    "prompt": "¿De dónde viene el nombre 'proteína C reactiva'?",
    "options": [
-    "De su reacción con el carbohidrato C de Streptococcus pneumoniae",
-    "De su alto contenido de vitamina C",
-    "De haberse descubierto en Córdoba",
-    "De su papel en la coagulación"
+    "Su reacción con el carbohidrato C",
+    "Su alto contenido de vitamina C",
+    "Haberse descubierto en Córdoba",
+    "Su papel central en la coagulación"
    ],
    "correctOptionIndex": 0,
    "explanation": "La PCR se llamó así por reaccionar con el polisacárido C de la cápsula del neumococo (Tillett y Francis, 1930).",
@@ -26807,8 +26807,8 @@
    "options": [
     "CRP is only used in children",
     "CRP is specific for cancer",
-    "CRP never decreases",
-    "CRP rises and falls rapidly with inflammation"
+    "CRP never decreases once raised",
+    "CRP rises and falls faster"
    ],
    "correctOptionIndex": 3,
    "explanation": "CRP rises acutely and falls promptly once the trigger resolves; ESR reflects inflammation indirectly and changes slowly.",
@@ -26831,8 +26831,8 @@
    "options": [
     "La PCR solo se usa en niños",
     "La PCR es específica de cáncer",
-    "La PCR nunca baja",
-    "La PCR sube y baja rápidamente con la inflamación"
+    "La PCR nunca baja una vez elevada",
+    "La PCR sube y baja más rápido"
    ],
    "correctOptionIndex": 3,
    "explanation": "La PCR aumenta en forma aguda y desciende pronto al resolverse el estímulo; la VSG refleja la inflamación de forma indirecta y cambia lentamente.",
@@ -26901,10 +26901,10 @@
    "difficulty": "beginner",
    "prompt": "What does the erythrocyte sedimentation rate (ESR) measure?",
    "options": [
-    "How far red blood cells settle in a tube over one hour",
+    "How far red cells settle in one hour",
     "The number of white blood cells",
-    "The amount of hemoglobin",
-    "Blood sugar"
+    "The amount of hemoglobin in blood",
+    "The fasting blood sugar level"
    ],
    "correctOptionIndex": 0,
    "explanation": "The Westergren method measures in millimeters how far red cells fall in an upright tube over one hour.",
@@ -26925,10 +26925,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué mide la eritrosedimentación (VSG)?",
    "options": [
-    "Cuánto descienden los glóbulos rojos en un tubo en una hora",
+    "Cuánto bajan los glóbulos rojos en una hora",
     "La cantidad de glóbulos blancos",
-    "La cantidad de hemoglobina",
-    "La glucemia"
+    "La cantidad de hemoglobina en la sangre total",
+    "El nivel de glucemia en ayunas"
    ],
    "correctOptionIndex": 0,
    "explanation": "El método de Westergren mide en milímetros cuánto descienden los glóbulos rojos en un tubo vertical durante una hora.",
@@ -26950,9 +26950,9 @@
    "prompt": "Which statement about the ESR is correct?",
    "options": [
     "It diagnoses one specific disease",
-    "It measures antibodies",
-    "It is a non-specific marker of inflammation",
-    "It is very expensive"
+    "It measures specific antibodies",
+    "It is a non-specific inflammation marker",
+    "It is very expensive and rarely available"
    ],
    "correctOptionIndex": 2,
    "explanation": "ESR is cheap and reproducible but non-specific; it is interpreted together with other tests.",
@@ -26974,9 +26974,9 @@
    "prompt": "¿Qué afirmación sobre la VSG es correcta?",
    "options": [
     "Diagnostica una enfermedad específica",
-    "Mide anticuerpos",
+    "Mide anticuerpos específicos",
     "Es un marcador inespecífico de inflamación",
-    "Es muy cara"
+    "Es muy cara y casi nunca está disponible"
    ],
    "correctOptionIndex": 2,
    "explanation": "La VSG es barata y reproducible pero inespecífica; se interpreta junto con otras pruebas.",
@@ -26997,10 +26997,10 @@
    "difficulty": "curious",
    "prompt": "What is ELISA commonly used for?",
    "options": [
-    "Counting red blood cells",
-    "Detecting antibodies or antigens, such as antibodies to viruses",
-    "Sequencing DNA",
-    "Measuring blood pressure"
+    "Counting circulating red blood cells",
+    "Detecting antibodies or antigens",
+    "Sequencing bacterial DNA",
+    "Measuring arterial blood pressure"
    ],
    "correctOptionIndex": 1,
    "explanation": "ELISA uses enzyme-labeled reagents on a solid phase to detect antigens or antibodies, e.g., antiviral antibodies.",
@@ -27021,9 +27021,9 @@
    "difficulty": "curious",
    "prompt": "¿Para qué se usa habitualmente el ELISA?",
    "options": [
-    "Para contar glóbulos rojos",
-    "Para detectar anticuerpos o antígenos, como anticuerpos contra virus",
-    "Para secuenciar ADN",
+    "Para contar glóbulos rojos circulantes",
+    "Para detectar anticuerpos o antígenos",
+    "Para secuenciar ADN bacteriano",
     "Para medir la presión arterial"
    ],
    "correctOptionIndex": 1,
@@ -27045,10 +27045,10 @@
    "difficulty": "explorer",
    "prompt": "In a sandwich ELISA, how does the signal relate to the antigen amount?",
    "options": [
-    "The signal is proportional to the antigen concentration",
-    "The signal is inversely proportional",
-    "There is no relation",
-    "The signal only appears without antigen"
+    "It is proportional to antigen amount",
+    "It is inversely proportional to antigen",
+    "There is no relation between them",
+    "Signal appears only when antigen is absent"
    ],
    "correctOptionIndex": 0,
    "explanation": "In a sandwich ELISA (Ab–Ag–Ab-enzyme), more antigen means more product; in a competitive ELISA the signal is inverse.",
@@ -27069,10 +27069,10 @@
    "difficulty": "explorer",
    "prompt": "En un ELISA tipo sándwich, ¿cómo se relaciona la señal con la cantidad de antígeno?",
    "options": [
-    "La señal es proporcional a la concentración de antígeno",
-    "La señal es inversamente proporcional",
-    "No hay relación",
-    "Solo hay señal sin antígeno"
+    "Es proporcional a la cantidad de antígeno",
+    "Es inversamente proporcional al antígeno",
+    "No hay relación entre ambos",
+    "Solo hay señal cuando no hay antígeno"
    ],
    "correctOptionIndex": 0,
    "explanation": "En el ELISA sándwich (Ac–Ag–Ac-enzima), más antígeno da más producto; en el competitivo la señal es inversa.",
@@ -27189,10 +27189,10 @@
    "difficulty": "curious",
    "prompt": "What is the main role of HLA (MHC) proteins?",
    "options": [
-    "Helping the immune system distinguish self from non-self",
-    "Carrying oxygen",
-    "Digesting proteins",
-    "Forming bone"
+    "Helping tell self from non-self",
+    "Carrying oxygen in the blood",
+    "Digesting dietary proteins",
+    "Forming and remodeling bone tissue"
    ],
    "correctOptionIndex": 0,
    "explanation": "HLA genes of the MHC encode proteins that present antigens and help distinguish self from non-self.",
@@ -27213,10 +27213,10 @@
    "difficulty": "curious",
    "prompt": "¿Cuál es la función principal de las proteínas HLA (MHC)?",
    "options": [
-    "Ayudar al sistema inmune a distinguir lo propio de lo ajeno",
-    "Transportar oxígeno",
-    "Digerir proteínas",
-    "Formar hueso"
+    "Distinguir lo propio de lo ajeno",
+    "Transportar oxígeno en la sangre",
+    "Digerir las proteínas de la dieta",
+    "Formar y remodelar el tejido óseo"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los genes HLA del MHC codifican proteínas que presentan antígenos y ayudan a distinguir lo propio de lo ajeno.",
@@ -27237,10 +27237,10 @@
    "difficulty": "explorer",
    "prompt": "What is the basic defect in agammaglobulinemia?",
    "options": [
-    "Absent T cells",
-    "Absent neutrophils",
-    "Low or absent mature B cells, so few antibodies",
-    "Excess IgE"
+    "Absent or very few T cells",
+    "Absent neutrophils in the blood",
+    "Few or no mature B cells",
+    "Excess production of IgE"
    ],
    "correctOptionIndex": 2,
    "explanation": "Agammaglobulinemia lacks mature B cells, causing severe antibody deficiency and recurrent infections.",
@@ -27261,10 +27261,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál es el defecto básico en la agammaglobulinemia?",
    "options": [
-    "Ausencia de linfocitos T",
-    "Ausencia de neutrófilos",
-    "Linfocitos B maduros bajos o ausentes, con pocos anticuerpos",
-    "Exceso de IgE"
+    "Ausencia o escasez de linfocitos T",
+    "Ausencia de neutrófilos en sangre",
+    "Pocos o ningún linfocito B maduro",
+    "Producción excesiva de IgE"
    ],
    "correctOptionIndex": 2,
    "explanation": "En la agammaglobulinemia faltan linfocitos B maduros, lo que causa déficit grave de anticuerpos e infecciones recurrentes.",
@@ -27285,10 +27285,10 @@
    "difficulty": "researcher",
    "prompt": "Why do infants with X-linked agammaglobulinemia usually become ill around 6 months of age?",
    "options": [
-    "Because they start eating solid food",
-    "Because protective maternal antibodies wane",
-    "Because vaccines stop working",
-    "Because the thymus disappears"
+    "They start eating solid foods",
+    "Protective maternal antibodies wane",
+    "Their vaccines stop working",
+    "The thymus disappears at that age"
    ],
    "correctOptionIndex": 1,
    "explanation": "Transplacental maternal IgG protects for the first months; infections start as it wanes (~6 months).",
@@ -27309,10 +27309,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué los lactantes con agammaglobulinemia ligada al X suelen enfermar hacia los 6 meses?",
    "options": [
-    "Porque empiezan con sólidos",
-    "Porque disminuyen los anticuerpos maternos protectores",
-    "Porque las vacunas dejan de actuar",
-    "Porque desaparece el timo"
+    "Empiezan a comer alimentos sólidos",
+    "Disminuyen los anticuerpos maternos",
+    "Sus vacunas dejan de funcionar",
+    "El timo desaparece a esa edad"
    ],
    "correctOptionIndex": 1,
    "explanation": "La IgG materna transplacentaria protege los primeros meses; las infecciones comienzan cuando disminuye (~6 meses).",
@@ -27384,7 +27384,7 @@
     "Fever, rash and arthritis",
     "Anemia, low platelets and kidney failure",
     "Diabetes, obesity and hypertension",
-    "Recurrent skin and lung infections, early dermatitis and very high IgE"
+    "Skin/lung infections, eczema, high IgE"
    ],
    "correctOptionIndex": 3,
    "explanation": "HIES combines recurrent cutaneous/sinopulmonary infections, early-onset dermatitis and markedly elevated IgE.",
@@ -27408,7 +27408,7 @@
     "Fiebre, exantema y artritis",
     "Anemia, plaquetas bajas e insuficiencia renal",
     "Diabetes, obesidad e hipertensión",
-    "Infecciones recurrentes de piel y pulmón, dermatitis precoz e IgE muy alta"
+    "Infecciones de piel y pulmón, eccema, IgE alta"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los HIES combinan infecciones cutáneas y sinopulmonares recurrentes, dermatitis de inicio temprano e IgE muy elevada.",
@@ -27525,10 +27525,10 @@
    "difficulty": "explorer",
    "prompt": "Which vaccines are especially important for people without a spleen?",
    "options": [
-    "Vaccines against encapsulated bacteria (pneumococcus, meningococcus, Hib)",
-    "Only the flu vaccine",
-    "Rabies vaccine",
-    "No vaccines are needed"
+    "Vaccines against encapsulated bacteria",
+    "Only the seasonal influenza vaccine",
+    "The rabies vaccine before any exposure",
+    "No vaccines are needed at all"
    ],
    "correctOptionIndex": 0,
    "explanation": "Splenectomy removes key humoral and innate defense; patients need vaccination against encapsulated organisms and follow-up for sepsis.",
@@ -27549,10 +27549,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué vacunas son especialmente importantes en personas sin bazo?",
    "options": [
-    "Contra bacterias encapsuladas (neumococo, meningococo, Hib)",
-    "Solo la antigripal",
-    "La antirrábica",
-    "No necesitan vacunas"
+    "Contra bacterias encapsuladas",
+    "Solo la vacuna antigripal estacional",
+    "La antirrábica antes de cualquier exposición",
+    "No necesitan ninguna vacuna"
    ],
    "correctOptionIndex": 0,
    "explanation": "La esplenectomía elimina defensas humorales e innatas clave; requieren vacunas contra bacterias encapsuladas y control por riesgo de sepsis.",
@@ -27574,9 +27574,9 @@
    "prompt": "What is a splenectomy?",
    "options": [
     "Removal of the gallbladder",
-    "Removal of a lymph node",
+    "Removal of a single lymph node",
     "Surgical removal of the spleen",
-    "A blood transfusion"
+    "A transfusion of packed red cells"
    ],
    "correctOptionIndex": 2,
    "explanation": "Splenectomy is surgical removal of the spleen, indicated e.g. for trauma, some anemias and immune thrombocytopenia.",
@@ -27598,9 +27598,9 @@
    "prompt": "¿Qué es una esplenectomía?",
    "options": [
     "La extirpación de la vesícula",
-    "La extirpación de un ganglio",
+    "La extirpación de un solo ganglio",
     "La extirpación quirúrgica del bazo",
-    "Una transfusión de sangre"
+    "Una transfusión de glóbulos rojos"
    ],
    "correctOptionIndex": 2,
    "explanation": "La esplenectomía es la extirpación quirúrgica del bazo, indicada por ejemplo en traumatismos, algunas anemias y la trombocitopenia inmune.",
@@ -27669,10 +27669,10 @@
    "difficulty": "beginner",
    "prompt": "How does a vaccine protect us?",
    "options": [
-    "It trains the immune system to make antibodies and memory cells against the pathogen",
-    "It kills all bacteria in the body",
-    "It replaces white blood cells",
-    "It works like an antibiotic"
+    "It trains immunity: antibodies and memory",
+    "It kills every one of the bacteria in the body",
+    "It replaces the body's white blood cells",
+    "It works like an antibiotic in the blood"
    ],
    "correctOptionIndex": 0,
    "explanation": "Vaccines expose the immune system to antigens safely so it forms antibodies and memory, responding faster on real exposure.",
@@ -27693,10 +27693,10 @@
    "difficulty": "beginner",
    "prompt": "¿Cómo nos protege una vacuna?",
    "options": [
-    "Entrena al sistema inmune para producir anticuerpos y células de memoria contra el patógeno",
+    "Genera anticuerpos y memoria",
     "Mata todas las bacterias del cuerpo",
-    "Reemplaza los glóbulos blancos",
-    "Actúa como un antibiótico"
+    "Reemplaza los glóbulos blancos del cuerpo",
+    "Actúa como un antibiótico en la sangre"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las vacunas exponen al sistema inmune a antígenos de forma segura para que forme anticuerpos y memoria y responda más rápido ante el patógeno real.",
@@ -27717,10 +27717,10 @@
    "difficulty": "curious",
    "prompt": "How does an mRNA vaccine work?",
    "options": [
-    "It contains live virus",
-    "It changes the person's DNA",
-    "It delivers mRNA that our cells translate into a pathogen protein (antigen)",
-    "It contains antibodies"
+    "It contains live, weakened virus",
+    "It permanently changes the person's DNA",
+    "Our cells translate it into an antigen",
+    "It contains ready-made antibodies"
    ],
    "correctOptionIndex": 2,
    "explanation": "mRNA vaccines make our cells produce the target antigen internally, which trains the immune response.",
@@ -27741,10 +27741,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo funciona una vacuna de ARNm?",
    "options": [
-    "Contiene virus vivo",
-    "Cambia el ADN de la persona",
-    "Aporta ARNm que nuestras células traducen a una proteína del patógeno (antígeno)",
-    "Contiene anticuerpos"
+    "Contiene virus vivo atenuado",
+    "Cambia en forma permanente el ADN de la persona",
+    "Las células lo traducen a un antígeno",
+    "Contiene anticuerpos ya formados"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las vacunas de ARNm hacen que nuestras células produzcan el antígeno, que entrena la respuesta inmune.",
@@ -27813,10 +27813,10 @@
    "difficulty": "curious",
    "prompt": "How does rheumatoid arthritis typically begin?",
    "options": [
-    "In one large joint, such as one knee",
-    "In the spine",
-    "In the jaw only",
-    "Symmetrically in small peripheral joints"
+    "In one large joint, such as a knee",
+    "In the lower spine and sacroiliac joints",
+    "In the jaw joint only",
+    "Symmetrically in small joints"
    ],
    "correctOptionIndex": 3,
    "explanation": "RA usually starts symmetrically in small joints of the hands and feet, later involving proximal joints.",
@@ -27837,10 +27837,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo suele comenzar la artritis reumatoide?",
    "options": [
-    "En una sola articulación grande, como una rodilla",
-    "En la columna",
-    "Solo en la mandíbula",
-    "En forma simétrica en articulaciones periféricas pequeñas"
+    "En una sola articulación grande, como la rodilla",
+    "En la columna lumbar y las sacroilíacas",
+    "Solo en la articulación de la mandíbula",
+    "Simétrica en articulaciones pequeñas"
    ],
    "correctOptionIndex": 3,
    "explanation": "La AR suele comenzar de manera simétrica en pequeñas articulaciones de manos y pies y luego compromete articulaciones proximales.",
@@ -27861,8 +27861,8 @@
    "difficulty": "explorer",
    "prompt": "What is the standard of care for rheumatoid arthritis?",
    "options": [
-    "Early treatment with disease-modifying antirheumatic drugs (DMARDs)",
-    "Antibiotics",
+    "Early treatment with DMARDs",
+    "Long courses of antibiotics",
     "Waiting until joints are destroyed",
     "Joint replacement as the first step"
    ],
@@ -27885,8 +27885,8 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál es el tratamiento estándar de la artritis reumatoide?",
    "options": [
-    "Tratamiento precoz con fármacos modificadores de la enfermedad (FAME)",
-    "Antibióticos",
+    "Tratamiento precoz con FAME",
+    "Cursos largos de antibióticos",
     "Esperar a que se destruyan las articulaciones",
     "Reemplazo articular como primer paso"
    ],
@@ -27909,10 +27909,10 @@
    "difficulty": "beginner",
    "prompt": "Celiac disease is an immune reaction to which dietary component?",
    "options": [
-    "Lactose in milk",
-    "Fructose in fruit",
-    "Gluten in wheat, barley and rye",
-    "Caffeine"
+    "Lactose in cow's milk",
+    "Fructose in ripe fruit",
+    "Gluten in wheat, barley, rye",
+    "Caffeine in coffee and tea"
    ],
    "correctOptionIndex": 2,
    "explanation": "Celiac disease is an autoimmune response to gluten that damages the small intestinal lining.",
@@ -27933,10 +27933,10 @@
    "difficulty": "beginner",
    "prompt": "La enfermedad celíaca es una reacción inmune a ¿qué componente de la dieta?",
    "options": [
-    "La lactosa de la leche",
-    "La fructosa de la fruta",
-    "El gluten del trigo, la cebada y el centeno",
-    "La cafeína"
+    "La lactosa de la leche de vaca",
+    "La fructosa de la fruta madura",
+    "El gluten del trigo y la cebada",
+    "La cafeína del café y el té"
    ],
    "correctOptionIndex": 2,
    "explanation": "La celiaquía es una respuesta autoinmune al gluten que daña la mucosa del intestino delgado.",
@@ -27958,9 +27958,9 @@
    "prompt": "What is the only effective treatment for celiac disease?",
    "options": [
     "A strict lifelong gluten-free diet",
-    "Antibiotics",
-    "Probiotics",
-    "A short course of steroids"
+    "Repeated courses of antibiotics",
+    "Daily probiotic supplements",
+    "A short course of oral steroids"
    ],
    "correctOptionIndex": 0,
    "explanation": "Treatment is a strict, complete and lifelong gluten-free diet.",
@@ -27981,10 +27981,10 @@
    "difficulty": "curious",
    "prompt": "¿Cuál es el único tratamiento eficaz de la enfermedad celíaca?",
    "options": [
-    "Una dieta estricta sin gluten de por vida",
-    "Antibióticos",
-    "Probióticos",
-    "Un ciclo corto de corticoides"
+    "Una dieta sin gluten de por vida",
+    "Cursos repetidos de antibióticos",
+    "Suplementos diarios de probióticos",
+    "Un ciclo corto de corticoides orales"
    ],
    "correctOptionIndex": 0,
    "explanation": "El tratamiento es una dieta sin gluten estricta, completa y de por vida.",
@@ -28005,10 +28005,10 @@
    "difficulty": "explorer",
    "prompt": "Which blood test is a key first step when celiac disease is suspected?",
    "options": [
-    "Rheumatoid factor",
-    "Anti-tissue transglutaminase IgA (tTG-IgA)",
-    "Antinuclear antibodies",
-    "Blood culture"
+    "Rheumatoid factor (IgM-RF)",
+    "Anti-transglutaminase IgA",
+    "Antinuclear antibodies (ANA)",
+    "Two sets of blood cultures"
    ],
    "correctOptionIndex": 1,
    "explanation": "tTG-IgA and endomysial antibodies are the initial tests; most patients then need a duodenal biopsy.",
@@ -28029,10 +28029,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué análisis de sangre es un primer paso clave ante sospecha de celiaquía?",
    "options": [
-    "Factor reumatoideo",
-    "IgA anti-transglutaminasa tisular (tTG-IgA)",
-    "Anticuerpos antinucleares",
-    "Hemocultivo"
+    "Factor reumatoideo (FR IgM)",
+    "IgA antitransglutaminasa",
+    "Anticuerpos antinucleares (ANA)",
+    "Dos pares de hemocultivos"
    ],
    "correctOptionIndex": 1,
    "explanation": "La tTG-IgA y los anticuerpos antiendomisio son las pruebas iniciales; la mayoría requiere luego biopsia duodenal.",
@@ -28053,10 +28053,10 @@
    "difficulty": "researcher",
    "prompt": "Which histologic findings characterize celiac disease in the duodenum?",
    "options": [
-    "Granulomas and caseation",
-    "Normal villi with eosinophils only",
-    "Transmural ulcers",
-    "Villous atrophy, crypt hyperplasia and immune-cell infiltration"
+    "Caseating granulomas in the mucosa",
+    "Normal villi with only eosinophils",
+    "Deep transmural ulcers",
+    "Villous atrophy and crypt hyperplasia"
    ],
    "correctOptionIndex": 3,
    "explanation": "Celiac mucosa shows villous atrophy, crypt hyperplasia and lamina propria inflammation, causing malabsorption.",
@@ -28077,10 +28077,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué hallazgos histológicos caracterizan la celiaquía en el duodeno?",
    "options": [
-    "Granulomas con caseificación",
-    "Vellosidades normales solo con eosinófilos",
-    "Úlceras transmurales",
-    "Atrofia vellositaria, hiperplasia de criptas e infiltrado inmune"
+    "Granulomas caseosos en la mucosa",
+    "Vellosidades normales, solo con eosinófilos",
+    "Úlceras transmurales profundas",
+    "Atrofia vellositaria e hiperplasia de criptas"
    ],
    "correctOptionIndex": 3,
    "explanation": "La mucosa celíaca muestra atrofia vellositaria, hiperplasia de criptas e inflamación de la lámina propia, con malabsorción.",
@@ -28101,10 +28101,10 @@
    "difficulty": "curious",
    "prompt": "Which skin lesions are typical of psoriasis?",
    "options": [
-    "Small blisters on the palms",
-    "Red plaques with silvery scales on extensor surfaces",
-    "Dark moles",
-    "Painless ulcers"
+    "Small fluid-filled blisters on the palms",
+    "Red plaques with silvery scales",
+    "Dark moles with irregular edges",
+    "Painless ulcers on the shins"
    ],
    "correctOptionIndex": 1,
    "explanation": "Plaque psoriasis shows erythematous plaques with silvery scales on extensor surfaces, scalp and lower back.",
@@ -28125,10 +28125,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué lesiones de piel son típicas de la psoriasis?",
    "options": [
-    "Pequeñas ampollas en las palmas",
-    "Placas rojas con escamas plateadas en superficies extensoras",
-    "Lunares oscuros",
-    "Úlceras indoloras"
+    "Pequeñas ampollas con líquido en las palmas",
+    "Placas rojas con escamas plateadas",
+    "Lunares oscuros de bordes irregulares",
+    "Úlceras indoloras en las piernas"
    ],
    "correctOptionIndex": 1,
    "explanation": "La psoriasis en placas muestra placas eritematosas con escamas plateadas en superficies extensoras, cuero cabelludo y región lumbosacra.",
@@ -28149,10 +28149,10 @@
    "difficulty": "explorer",
    "prompt": "Why is Kawasaki disease important in children?",
    "options": [
-    "It causes kidney stones",
+    "It frequently causes kidney stones",
     "It is a common cause of deafness",
-    "It is the leading cause of acquired heart disease in developed nations",
-    "It is a type of leukemia"
+    "Top cause of acquired heart disease",
+    "It is an aggressive type of leukemia"
    ],
    "correctOptionIndex": 2,
    "explanation": "Kawasaki disease is a medium-vessel vasculitis with a predilection for coronary arteries.",
@@ -28173,10 +28173,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué es importante la enfermedad de Kawasaki en niños?",
    "options": [
-    "Causa cálculos renales",
+    "Causa con frecuencia cálculos renales",
     "Es causa frecuente de sordera",
-    "Es la principal causa de cardiopatía adquirida en países desarrollados",
-    "Es un tipo de leucemia"
+    "Principal causa de cardiopatía adquirida",
+    "Es un tipo agresivo de leucemia"
    ],
    "correctOptionIndex": 2,
    "explanation": "La enfermedad de Kawasaki es una vasculitis de vaso mediano con predilección por las arterias coronarias.",
@@ -28245,9 +28245,9 @@
    "difficulty": "explorer",
    "prompt": "Which eye problem is a classic extra-articular feature of ankylosing spondylitis?",
    "options": [
-    "Cataract from birth",
-    "Retinal detachment",
-    "Glaucoma",
+    "Congenital cataract",
+    "Rhegmatogenous retinal detachment",
+    "Open-angle glaucoma",
     "Acute anterior uveitis"
    ],
    "correctOptionIndex": 3,
@@ -28271,7 +28271,7 @@
    "options": [
     "Catarata congénita",
     "Desprendimiento de retina",
-    "Glaucoma",
+    "Glaucoma de ángulo abierto",
     "Uveítis anterior aguda"
    ],
    "correctOptionIndex": 3,
@@ -28293,10 +28293,10 @@
    "difficulty": "curious",
    "prompt": "What are the hallmark features of ankylosing spondylitis?",
    "options": [
-    "Fever and rash",
-    "Chronic back pain and progressive spinal stiffness",
-    "Sudden blindness",
-    "Kidney failure"
+    "Recurrent fever and skin rash",
+    "Chronic back pain and stiffness",
+    "Sudden, painless loss of vision in one eye",
+    "Progressive kidney failure"
    ],
    "correctOptionIndex": 1,
    "explanation": "AS is a chronic inflammatory disease of the axial spine with back pain and progressive stiffness.",
@@ -28317,10 +28317,10 @@
    "difficulty": "curious",
    "prompt": "¿Cuáles son los rasgos centrales de la espondilitis anquilosante?",
    "options": [
-    "Fiebre y exantema",
-    "Dolor lumbar crónico y rigidez progresiva de la columna",
-    "Ceguera súbita",
-    "Insuficiencia renal"
+    "Fiebre recurrente y exantema",
+    "Dolor lumbar crónico y rigidez de columna",
+    "Pérdida súbita e indolora de la visión",
+    "Insuficiencia renal progresiva"
    ],
    "correctOptionIndex": 1,
    "explanation": "La EA es una enfermedad inflamatoria crónica del esqueleto axial con dolor lumbar y rigidez progresiva.",
@@ -28343,8 +28343,8 @@
    "options": [
     "Vitamin B12",
     "Vitamin C",
-    "Vitamin D",
-    "Vitamin K"
+    "Vitamin D3",
+    "Vitamin K1"
    ],
    "correctOptionIndex": 0,
    "explanation": "Pernicious anemia reduces B12 absorption, causing megaloblastic anemia; treatment is lifelong B12.",
@@ -28367,8 +28367,8 @@
    "options": [
     "Vitamina B12",
     "Vitamina C",
-    "Vitamina D",
-    "Vitamina K"
+    "Vitamina D3",
+    "Vitamina K1"
    ],
    "correctOptionIndex": 0,
    "explanation": "La anemia perniciosa reduce la absorción de B12 y causa anemia megaloblástica; se trata con B12 de por vida.",
@@ -28389,10 +28389,10 @@
    "difficulty": "explorer",
    "prompt": "What causes immune thrombocytopenia (ITP)?",
    "options": [
-    "Bone marrow cancer",
-    "IgG autoantibodies against platelets",
-    "Vitamin deficiency",
-    "Excess iron"
+    "A cancer of the bone marrow",
+    "IgG autoantibodies to platelets",
+    "A deficiency of B vitamins",
+    "An excess of iron in the blood"
    ],
    "correctOptionIndex": 1,
    "explanation": "In ITP, IgG autoantibodies sensitize platelets, causing low counts, purpura and bleeding.",
@@ -28413,10 +28413,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué causa la trombocitopenia inmune (PTI)?",
    "options": [
-    "Un cáncer de médula ósea",
-    "Autoanticuerpos IgG contra las plaquetas",
-    "Un déficit de vitaminas",
-    "Exceso de hierro"
+    "Un cáncer de la médula ósea",
+    "Autoanticuerpos IgG contra plaquetas",
+    "Un déficit de vitaminas del grupo B",
+    "Un exceso de hierro en la sangre"
    ],
    "correctOptionIndex": 1,
    "explanation": "En la PTI, autoanticuerpos IgG sensibilizan a las plaquetas y causan recuentos bajos, púrpura y sangrado.",
@@ -28487,7 +28487,7 @@
    "options": [
     "Microscopic polyangiitis",
     "Kawasaki disease",
-    "Giant cell arteritis",
+    "Giant cell (temporal) arteritis",
     "Granulomatosis with polyangiitis"
    ],
    "correctOptionIndex": 3,
