@@ -1,5 +1,5 @@
 {
- "version": 14,
+ "version": 15,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -8511,6 +8511,352 @@
    "doi": "10.1186/s12889-017-5007-z",
    "abstract": "BACKGROUND: Anthrax outbreaks in Tanzania have been reported from the human, livestock and wildlife sectors over several years, and is among the notifiable diseases. Despite frequent anthrax outbreaks, there is no comprehensive dataset indicating the magnitude and distribution of the disease in susceptible species. This study is a retrospective review of anthrax outbreaks from the human, livestock, and wildlife surveillance systems from 2006 to 2016. The objectives were to identify hotspot districts, describe anthrax epidemiology in the hotspot areas, evaluate the efficiency of the anthrax response systems and identify potential areas for further observational studies.\nMETHODS: We prepared a spreadsheet template for a retrospective comprehensive record review at different surveillance levels in Tanzania. We captured data elements including demographic characteristics of different species, the name of health facility, and date of anthrax diagnosis. Also, we collected data on the date of specimen collection, species screened, type of laboratory test, laboratory results and the outcome recorded at the end of treatment in humans. After establishing the database, we produced maps in Quantum GIS software and transferred cleaned data to Stata software for supportive statistical analysis.\nRESULTS: Anthrax reported incidences over 4 years in humans were much higher in the Arusha region (7.88/100,000) followed by Kilimanjaro region (6.64/100,000) than other regions of Tanzania Mainland. The health facility based review from hotspot districts in parts of Arusha and Kilimanjaro regions from 2006 to 2016, identified 330 human anthrax cases from the selected health facilities in the two regions. Out of 161 livestock and 57 wildlife specimen tested, 103 and 18 respectively, were positive for anthrax.\nCONCLUSION: This study revealed that there is gross under-reporting in the existing surveillance systems which is an obstacle for estimating a true burden of anthrax in the hotspot districts. Repeated occurrences of anthrax in livestock, wildlife and humans in the same locations at the same time calls for the need to strengthen links and promote inter-disciplinary and multi-sectoral collaboration to enhance prevention and control measures under a One Health approach.",
    "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28764865",
+   "title": "Rumen Microbiome, Probiotics, and Fermentation Additives.",
+   "authors": [
+    "McCann JC",
+    "Elolimy AA",
+    "Loor JJ"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2017,
+   "doi": "10.1016/j.cvfa.2017.06.009",
+   "abstract": "Fermentation of a variety of feedstuffs by the ruminal microbiome is the distinctive feature of the ruminant digestive tract. The host derives energy and nutrients from microbiome activity; these organisms are essential to survival. Advances in DNA sequencing and bioinformatics have redefined the rumen microbial community. Current research seeks to connect our understanding of the rumen microbiome with nutritional strategies in ruminant livestock systems and their associated digestive disorders. These efforts align with a growing number of products designed to improve ruminal fermentation to benefit the overall efficiency of ruminant livestock production and health.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26528276",
+   "title": "Manipulating rumen microbiome and fermentation through interventions during early life: a review.",
+   "authors": [
+    "Yáñez-Ruiz DR",
+    "Abecia L",
+    "Newbold CJ"
+   ],
+   "journal": "Frontiers in microbiology",
+   "year": 2015,
+   "doi": "10.3389/fmicb.2015.01133",
+   "abstract": "The nutritional manipulations of the rumen microbiome to enhance productivity and health are rather limited by the resilience of the ecosystem once established in the mature rumen. Based on recent studies, it has been suggested that the microbial colonization that occurs soon after birth opens a possibility of manipulation with potential to produce lasting effects into adult life. This paper presents the state-of-the-art in relation to early life nutritional interventions by addressing three areas: the development of the rumen as an organ in regards to the nutrition of the new-born, the main factors that determine the microbial population that first colonizes and establishes in the rumen, and the key immunity players that contribute to shaping the commensal microbiota in the early stage of life to understand host-microbiome specificity. The development of the rumen epithelium and muscularization are differently affected by the nature of the diet and special care should be taken with regards to transition from liquid (milk) to solid feed. The rumen is quickly colonized by all type of microorganisms straight after birth and the colonization pattern may be influenced by several factors such as presence/absence of adult animals, the first solid diet provided, and the inclusion of compounds that prevent/facilitate the establishment of some microorganisms or the direct inoculation of specific strains. The results presented show how early life events may be related to the microbial community structure and/or the rumen activity in the animals post-weaning. This would create differences in adaptive capacity due to different early life experiences and leads to the idea of microbial programming. However, many elements need to be further studied such as: the most sensitive window of time for interventions, the best means to test long term effectiveness, the role of key microbial groups and host-immune regulations.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32761212",
+   "title": "Ruminal acidosis, bacterial changes, and lipopolysaccharides.",
+   "authors": [
+    "Monteiro HF",
+    "Faciola AP"
+   ],
+   "journal": "Journal of animal science",
+   "year": 2020,
+   "doi": "10.1093/jas/skaa248",
+   "abstract": "Acute and subacute ruminal acidosis (SARA) are common nutritional problems in both beef and dairy cattle. Therefore, the objective of this review is to describe how ruminal Gram-negative bacteria could contribute to the pathogenesis of ruminal acidoses, by releasing lipopolysaccharides (LPS; a component of their cell wall) in the ruminal fluid. When cattle consume excessive amounts of highly fermentable carbohydrates without prior adaptation, normal fermentation become disrupted. The fermentation of these carbohydrates quickly decreases ruminal pH due to the accumulation of short-chain fatty acids and lactate in the rumen. As a consequence, ruminal epithelium may be damaged and tissue function could be impaired, leading to a possible translocation of pathogenic substances from the rumen into the bloodstream. Such changes in fermentation are followed by an increase in Gram-positive bacteria while Gram-negative bacteria decrease. The lyses of Gram-negative bacteria during ruminal acidosis increase LPS concentration in the ruminal fluid. Because LPS is a highly proinflammatory endotoxin in the circulatory system, past studies have raised concerns regarding ruminal LPS contribution to the pathogenesis of ruminal acidosis. Although animals that undergo these disorders do not always have an immune response, recent studies showed that different Gram-negative bacteria have different LPS composition and toxicity, which may explain the differences in immune response. Given the diversity of Gram-negative bacteria in the rumen, evaluating the changes in the bacterial community during ruminal acidosis could be used as a way to identify which Gram-negative bacteria are associated with LPS release in the rumen. By identifying and targeting ruminal bacteria with possible pathogenic LPS, nutritional strategies could be created to overcome, or at least minimize, ruminal acidosis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25262872",
+   "title": "Rumen transfaunation.",
+   "authors": [
+    "DePeters EJ",
+    "George LW"
+   ],
+   "journal": "Immunology letters",
+   "year": 2014,
+   "doi": "10.1016/j.imlet.2014.05.009",
+   "abstract": "The aim of this invited mini-review is to summarize the rumen transfaunation literature. Rumen transfaunation using the cud from a healthy donor animal to treat a sick recipient animal was practiced long before our understanding of rumen microorganisms. Around the mid-1900 s, scientists began to explore the benefits of rumen transfaunation and the associated microbial populations. Rumen transfaunation has been used clinically to treat indigestion and to enhance the return of normal rumen function following surgical correction of a left-displaced abomasum. Rumen transfaunation was also used to introduce unique rumen microorganisms into animals that were exposed to toxic compounds in plants. Rumen liquor contains chemical constituents that likely contribute to the beneficial effects of re-establishing a normal reticulo-rumen anaerobic fermentation. Recommendations for collecting rumen fluid, storage and volumes transferred are discussed. Rumen transfaunation is a common practice to treat indigestion on dairy and livestock operations. The support of a healthy microbial community in the digestive tract is also used for humans. Fecal microbiota transplantation has been used to treat digestive disorders in humans. Rumen transfaunation, although not widely studied with respect to mode of action, is an effective, practical, and easy method to treat simple indigestion of ruminants.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34635357",
+   "title": "Meta-analysis of rumination behavior and its relationship with milk and milk fat production, rumen pH, and total-tract digestibility in lactating dairy cows.",
+   "authors": [
+    "Souza JG",
+    "Ribeiro CVDM",
+    "Harvatine KJ"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2022,
+   "doi": "10.3168/jds.2021-20535",
+   "abstract": "Time spent ruminating is affected by diet and affects the rumen environment. The objective of the current study was to conduct a meta-regression to characterize the variation in rumination time and its relationship with milk and milk fat yields and variables mechanistically associated with milk fat synthesis, including rumen pH and total-tract digestibility. The analysis included 130 journal articles published between 1986 and 2018 that reported 479 treatment means from lactating Holsteins cows during established lactation. Milk yield averaged 34.3 kg/d (range 14.2-52.1 kg/d), milk fat averaged 3.47% (range 2.20-4.60%), and rumen pH averaged 6.1 (range 5.3-7.0). Rumination observation systems were categorized into 6 groups, but there was little difference in average rumination time among systems. The total time spent ruminating averaged 444 min/d (range 151-638 d) and occurred in 13.8 bouts/d (range 7.8-17.4 bouts/d) that averaged 32.7 min (range 20.0-48.1 min). Bivariate regressions were modeled to include the random effect of study, and correlations were evaluated through the partial R2 that excluded variation accounted for by the random effect. Rumination time was quadratically increased with increasing milk fat yield (partial R2 = 0.27) and milk fat percent (partial R2 = 0.17). Rumination was also increased with increasing milk yield, dry matter intake, and rumen pH, and was quadratically related to dietary neutral detergent fiber (NDF) and total-tract NDF digestibility (partial R2 = 0.10-0.27). Similar relationships were observed for rumination per unit of dry matter and NDF intake. The best-fit multivariate model predicting total rumination time included milk yield, milk fat yield, and concentration and accounted for 37% of the variation. Total-tract digestibility was available for 217 treatment means; when included in the model, the partial R2 increased to 0.41. Last, principal component analysis was conducted to explore the relationship among variables. The first 2 principal components in the broad analyses explained 36.7% of the 39 variables evaluated, which included rumination bouts and time spent ruminating. In conclusion, rumination time was related to milk fat across a large number of studies, although it explained only a limited amount of the variation in milk fat.",
+   "publicationTypes": [
+    "Journal Article",
+    "Meta-Analysis"
+   ]
+  },
+  {
+   "pmid": "29539306",
+   "title": "Fertility and the transition dairy cow.",
+   "authors": [
+    "Roche JR",
+    "Burke CR",
+    "Crookenden MA",
+    "Heiser A",
+    "Loor JL",
+    "Meier S",
+    "Mitchell MD",
+    "Phyn CVC",
+    "Turner SA"
+   ],
+   "journal": "Reproduction, fertility, and development",
+   "year": 2017,
+   "doi": "10.1071/RD17412",
+   "abstract": "The transition from pregnancy to lactation (i.e. the transition period) is a time of significant metabolic challenge, with a several-fold increase in a cow's requirement for energy, protein and minerals within days of calving. A successful transition involves the initiation and coordination of changes in multiple tissues that facilitate the provision of these nutrients to the cow and, more specifically, to the mammary gland, often at the considerable expense of other tissues. Failure to coordinate the necessary changes effectively results in transition period maladaptation, which can broadly be grouped into three categories: (1) negative energy balance and metabolic diseases associated with energy metabolism; (2) immune dysfunction and inflammation; and (3) metabolic diseases associated with mineral deficiency. Because reinitiation of ovarian activity, follicle recruitment, ovulation, fertilisation and, potentially, even maternal recognition of pregnancy and implantation occur against the backdrop of this metabolic and immunological disturbance in early lactation, the role of nutrition in ensuring a smooth transition between the pregnant and lactating state is important. In this paper we integrate recent research findings with previous knowledge of the interaction between transition cow metabolism and nutrition and reproductive outcomes, and offer new insights into key elements of successful cow management to avoid transition 'maladaptation' and improve pregnancy rates.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37835703",
+   "title": "Invited Review: Increasing Milk Yield and Negative Energy Balance: A Gordian Knot for Dairy Cows?",
+   "authors": [
+    "Martens H"
+   ],
+   "journal": "Animals : an open access journal from MDPI",
+   "year": 2023,
+   "doi": "10.3390/ani13193097",
+   "abstract": "The continued increase in milk production during the last century has not been accompanied by an adequate dry matter intake (DMI) by cows, which therefore experience a negative energy balance (NEB). NEB is low and of minor importance at low milk yield (MY), such as for the nutrition of one calf, and under these circumstances is considered \"natural\". MY and low DMI around parturition are correlated and are the reason for the genetic correlation between increasing MY and increasing NEB up to 2000 MJ or more for 2-3 months postpartum in high-genetic-merit dairy cows. The extension and duration of NEB in high-producing cows cannot be judged as \"natural\" and are compensated by the mobilization of nutrients, particularly of fat. The released non-esterified fatty acids (NEFAs) overwhelm the metabolic capacity of the cow and lead to the ectopic deposition of NEFAs as triglycerides (TGs) in the liver. The subsequent lipidosis and the concomitant hampered liver functions cause subclinical and clinical ketosis, both of which are associated with \"production diseases\", including oxidative and endoplasmatic stress, inflammation and immunosuppression. These metabolic alterations are regulated by homeorhesis, with the priority of the physiological function of milk production. The prioritization of one function, namely, milk yield, possibly results in restrictions in other physiological (health) functions under conditions of limited resources (NEB). The hormonal framework for this metabolic environment is the high concentration of growth hormone (GH), the low concentration of insulin in connection with GH-dependent insulin resistance and the low concentration of IGF-1, the so-called GH-IGF-1 axis. The fine tuning of the GH-IGF-1 axis is uncoupled because the expression of the growth hormone receptor (GHR-1A) in the liver is reduced with increasing MY. The uncoupled GH-IGF-1 axis is a serious impairment for the GH-dependent stimulation of gluconeogenesis in the liver with continued increased lipolysis in fat tissue. It facilitates the pathogenesis of lipidosis with ketosis and, secondarily, \"production diseases\". Unfortunately, MY is still increasing at inadequate DMI with increasing NEB and elevated NEFA and beta-hydroxybutyric acid concentrations under conditions of low glucose, thereby adding health risks. The high incidences of diseases and of early culling and mortality in dairy cows are well documented and cause severe economic problems with a waste of resources and a challenge to the environment. Moreover, the growing public concerns about such production conditions in agriculture can no longer be ignored.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35077992",
+   "title": "Global prevalence of subclinical ketosis in dairy cows: A systematic review and meta-analysis.",
+   "authors": [
+    "Loiklung C",
+    "Sukon P",
+    "Thamrongyoswittayakul C"
+   ],
+   "journal": "Research in veterinary science",
+   "year": 2022,
+   "doi": "10.1016/j.rvsc.2022.01.003",
+   "abstract": "The objectives of this study were to estimate the global prevalence of SCK in dairy cows, to identify optimum thresholds for BHB determining, to explore heterogeneity for some particular characteristics (continents, diagnosis techniques, cut-off, sample type, parity, breed, and housing), and to determine the SCK prevalence trend. SCK prevalence levels in dairy cows from various countries were calculated using bibliographic databases up until May 17, 2021 to screen titles and abstracts for possible eligibility. Thirty-eight studies from six continents were then included using a random-effects model to calculate the pooled SCK prevalence. Subgroup meta-analyses were performed to assess the heterogeneity of the prevalence for the above characteristics. Meta-regression and cumulative meta-analysis were used to assess the SCK prevalence trends. The results showed that the global prevalence of SCK in dairy cows was 22.7% [95% CI 21.2-24.3%]. No significant differences in SCK prevalence were observed among continents, diagnostic techniques, cut-off values-≥1.0, ≥1.2 and ≥1.4 mmol/L, sample types-milk and blood, and parities. However, the prevalence in Holsteins (19.8%) was significantly lower than other mixed breeds (23.7%). The SCK prevalence was significantly higher in indoor barns (27.8%) than in pasture and unspecified housing. In meta-regression, the SCK prevalence was not associated with study years or days in milk. The cumulative evidence suggested that the prevalence of SCK in dairy cows was associated with a wide range of risk factors. This study illustrates that the global prevalence of SCK in dairy cows is quite high; therefore, there is an urgent need to globally reduce the SCK prevalence in dairy farms.",
+   "publicationTypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "18342555",
+   "title": "The monitoring, prevention, and treatment of milk fever and subclinical hypocalcemia in dairy cows.",
+   "authors": [
+    "Goff JP"
+   ],
+   "journal": "Veterinary journal (London, England : 1997)",
+   "year": 2008,
+   "doi": "10.1016/j.tvjl.2007.12.020",
+   "abstract": "The periparturient cow undergoes a transition from non-lactating to lactating at calving. The animal is tremendously challenged to maintain calcium homeostasis. Those that fail can develop milk fever, a clinical disorder that is life threatening to the cow and predisposes the animal to a variety of other disorders. Guidelines for monitoring the incidence of hypocalcemia and methods for treating milk fever are reviewed. The physiological factors that cause milk fever and strategies for prevention of milk fever are discussed, focusing on the effects diet cation-anion difference can have on tissue sensitivity to parathyroid hormone. Another major risk factor for milk fever is hypomagnesemia, which is observed when animals are fed inadequate amounts of magnesium, or some factor is present in the diet that prevents adequate absorption of magnesium. Moderate hypomagnesemia impairs the ability of the cow to maintain calcium homeostasis and hypocalcemia occurs.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "11692503",
+   "title": "Bovine neonatal immunology.",
+   "authors": [
+    "Barrington GM",
+    "Parish SM"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2001,
+   "doi": "10.1016/s0749-0720(15)30001-3",
+   "abstract": "The majority of early, in utero immune development occurs independent of antigen exposure. Only later during development can a fetus respond to antigens, and even then the response depends on the stage of fetal development and the nature of the antigen. At birth, the neonate is rapidly exposed to large numbers of potential pathogens. Although immunocompetent, the neonate is immunonaive and dependent on passively acquired maternal immunoglobulins, immune cells, and other substances from colostrum for protection. Neonates that suffer failure of passive transfer of maternal immunoglobulins may be at increased risk for disease; however, many other factors interact in conjunction with the level of passively acquired immunoglobulin to determine the occurrence of disease. These include, but are not limited to, management, environment, hygiene, infection pressure, virulence of organisms, and antibody specificity. In addition to immunoglobulins, colostrum contains large numbers of immune cells and cytokines. It is thought that the primary role for the cellular component of colostrum is to interact with the development of local immunity and to modulate active immunization of the neonatal intestine. In particular, T lymphocytes are thought to transfer immune functions and secrete cytokines. Although most of the major cytokines have been identified in colostrum and milk, their biologic effects on the neonate have yet to be determined.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35767544",
+   "title": "Colostrum management practices that improve the transfer of passive immunity in neonatal dairy calves: A scoping review.",
+   "authors": [
+    "Uyama T",
+    "Kelton DF",
+    "Winder CB",
+    "Dunn J",
+    "Goetz HM",
+    "LeBlanc SJ",
+    "McClure JT",
+    "Renaud DL"
+   ],
+   "journal": "PloS one",
+   "year": 2022,
+   "doi": "10.1371/journal.pone.0269824",
+   "abstract": "The objective of this scoping review was to describe the literature on the characteristics and management practices of colostrum feeding and their associations with the level of transfer of passive immunity (TPI) in dairy calves. Observational and experimental studies were searched in 5 electronic databases and 3 conference proceedings. Two reviewers independently screened primary studies, either analytic observational or experimental studies written in English. Studies on dairy or dual-purpose calves with passive immunity analyzed by blood sampling between 1 to 9 days of age were included. All studies had to compare at least one colostrum intervention or risk factor and their association with passive immunity. Of the 3,675 initially identified studies, 256 were included in this synthesis. One hundred and ninety-five were controlled trials, 57 were cohort studies, and 4 were cross-sectional studies. The effect of colostral quantity at first feeding was investigated in 30 controlled studies including studies that were comparable to each other. The effect of colostral quality was explored in 24 controlled studies with inconsistent criteria used to define the quality. The effect of the timing of first feeding of colostrum was investigated in 21 controlled studies, where the timing of feeding ranged widely from immediately after birth to 60 h of age. Only 4 controlled studies evaluated the relationship between bacterial load in the colostrum and TPI in dairy calves. Of the 256 total studies, 222 assessed blood IgG concentration while 107 measured blood total protein concentration. We identified a gap in knowledge on the association between passive immunity in dairy calves and the bacterial load in colostrum, or the timing of harvesting colostrum from the dam. A possible quantitative synthesis could be conducted among the studies that evaluated colostral quantity at the first feeding in relation to TPI in dairy calves.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Scoping Review"
+   ]
+  },
+  {
+   "pmid": "27155733",
+   "title": "The bovine placenta in vivo and in vitro.",
+   "authors": [
+    "Haeger JD",
+    "Hambruch N",
+    "Pfarrer C"
+   ],
+   "journal": "Theriogenology",
+   "year": 2016,
+   "doi": "10.1016/j.theriogenology.2016.04.043",
+   "abstract": "The gross anatomic features (cotyledonary type) and histologic classification (synepitheliochorial) of the bovine placenta have been known for many years. Thorough ultrastructural analysis as well as a variety of descriptive studies dealing with the localization of cytoskeletal filaments, extracellular matrix, growth factor systems, steroid hormone receptors, and major histocompatibility complex have contributed further significant knowledge. However, this knowledge was not sufficient to solve clinical placenta-based problems, such as retained fetal membranes. Owing to the complexity of the fetomaternal interface in vitro, culture systems have been developed. As trophoblast giant cells (TGC) are thought to be key players in the cattle placenta, most cell culture models attempt to overcome the pitfall of losing the entire TGC population in vitro. Nevertheless, distinct cell line-based in vitro systems such as cell monolayers or 3-dimensional (co-culture) spheroids were generated for the fetal (trophoblast) and maternal (uterine epithelium) placental compartments. Monolayers have been used to study for example, growth factor or hormonal signaling and TGC formation, whereas spheroids served as models for, for example, trophoblast attachment, uterine epithelium depolarization, and also TGC formation. In the future, the use of more improved culture models might lead to better treatments of retained fetal membranes and increased prevention of embryonic loss. In addition, the in vitro models could shed more light on the mechanisms of the differentiation of uninucleate trophoblast into TGC.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "11500232",
+   "title": "Recent advances in bovine reproductive endocrinology and physiology and their impact on drug delivery system design for the control of the estrous cycle in cattle.",
+   "authors": [
+    "Rathbone MJ",
+    "Kinder JE",
+    "Fike K",
+    "Kojima F",
+    "Clopton D",
+    "Ogle CR",
+    "Bunt CR"
+   ],
+   "journal": "Advanced drug delivery reviews",
+   "year": 2001,
+   "doi": "10.1016/s0169-409x(01)00156-9",
+   "abstract": "When methods of drug intervention are being developed to control estrous cycles, a thorough understanding of the endocrine and functional changes together with the reproductive behavior of the animals are essential. This review presents our current knowledge on reproductive endocrinology, physiology and behavior, and the methods of drug intervention to control estrous cycles. It also describes current efforts to develop advanced drug delivery systems that meet the animal scientist's demands to control the estrous cycle in cattle.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "1100824",
+   "title": "Digestive physiology of the horse.",
+   "authors": [
+    "Hintz HF"
+   ],
+   "journal": "Journal of the South African Veterinary Association",
+   "year": 1975,
+   "doi": null,
+   "abstract": "Recent studies on the digestive physiology of the horse are reviewed. It was suggested that the small intestine is the primary site of digestion and absorption of protein, soluble carbohydrates, most minerals, fats, fat soluble and water soluble vitamins. The large intestine is the primary site of fibre digestion and net water absorption. Significant amounts of phosphorus are also absorbed from the large intestine. Many factors such as rate of passage, processing of feeds, level of intake, work and maturity of plant may influence digestive ability.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "2658282",
+   "title": "Taurine deficiency syndrome in cats.",
+   "authors": [
+    "Hayes KC",
+    "Trautwein EA"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 1989,
+   "doi": "10.1016/s0195-5616(89)50052-4",
+   "abstract": "Taurine deficiency occurs in a large number of cats fed unfortified commercial diets. Deficiency arises because cats are unable to absorb all the taurine in processed diets and/or are unable to synthesize the deficit between absorption and requirement, which makes taurine an essential amino acid for cats. Taurine-depleted cats develop retinal degeneration, cardiomyopathy, altered white-cell function, and abnormal growth and development. Taurine deficiency is best estimated from the plasma-taurine concentration, with values less than 30 mumol/l considered deficient.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "7039812",
+   "title": "Nutritional problems in cats: taurine deficiency and vitamin A excess.",
+   "authors": [
+    "Hayes KC"
+   ],
+   "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+   "year": 1982,
+   "doi": null,
+   "abstract": "Two nutritional problems of the cat are reviewed. One represents a deficiency of taurine, the other vitamin A toxicity. Taurine deficiency in cats is insidious because the progressive retinal degeneration induced may go unnoticed until the damage is advanced and irreversible. Both rods and cones undergo degeneration along with the underlying tapetum lucidum. The hyperreflective focal lesion is easily observed in the area centralis with an ophthalmoscope and has been previously identified as feline central retinal degeneration. This lesion is not reversed by taurine supplementation, even though the remaining retina may be saved from further degeneration. The cat requires dietary taurine, found in meat and fish, because it cannot synthesize enough to meet demands for bile acid conjugation and tissue metabolism, especially those of muscle and central nervous system. Vitamin A toxicity is not commonly observed in cats but may occur if cats are fed beef liver in which appreciable vitamin A is stored. Cats exhibit muscle soreness and hyperesthesia, especially along the neck and forelimbs where bony exostoses of cervical verterbrae and longbones are common. The diagnosis is readily made from radiographs. The response to removal of vitamin A from the diet is generally rapid and, unless the toxicity has been chronic in young kittens, recovery is generally satisfactory.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37408833",
+   "title": "Impact of heat stress on dairy cattle and selection strategies for thermotolerance: a review.",
+   "authors": [
+    "Cartwright SL",
+    "Schmied J",
+    "Karrow N",
+    "Mallard BA"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2023,
+   "doi": "10.3389/fvets.2023.1198697",
+   "abstract": "Climate change is a problem that causes many environmental issues that impact the productivity of livestock species. One of the major issues associated with climate change is an increase of the frequency of hot days and heat waves, which increases the risk of heat stress for livestock species. Dairy cattle have been identified as being susceptible to heat stress due to their high metabolic heat load. Studies have shown heat stress impacts several biological processes that can result in large economic consequences. When heat stress occurs, dairy cattle employ several physiological and cellular mechanisms in order to dissipate heat and protect cells from damage. These mechanisms require an increase and diversion in energy toward protection and away from other biological processes. Therefore, in turn heat stress in dairy cattle can lead numerous issues including reductions in milk production and reproduction as well as increased risk for disease and mortality. This indicates a need to select dairy cattle that would be thermotolerant. Various selection strategies to confer thermotolerance have been discussed in the literature, including selecting for reduced milk production, crossbreeding with thermotolerant breeds, selecting based on physiological traits and most recently selecting for enhanced immune response. This review discusses the various issues associated with heat stress in dairy cattle and the pros and cons to the various selection strategies that have been proposed to select for thermotolerance in dairy cattle.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37852055",
+   "title": "Heat stress and poultry production: a comprehensive review.",
+   "authors": [
+    "Oluwagbenga EM",
+    "Fraley GS"
+   ],
+   "journal": "Poultry science",
+   "year": 2023,
+   "doi": "10.1016/j.psj.2023.103141",
+   "abstract": "The impact of global warming on poultry production has gained significant attention over the years. However, our current knowledge and understanding of the mechanisms through which heat stress (HS) resulting from global warming affects the welfare, behavior, immune response, production performance, and even transgenerational effects in poultry are still incomplete. Further research is needed to delve deeper into these mechanisms to gain a comprehensive understanding. Numerous studies have investigated various biomarkers of stress in poultry, aiming to identify reliable markers that can accurately assess the physiological status and well-being of birds. However, there is a significant amount of variation and inconsistency in the results reported across different studies. This inconsistency highlights the need for more standardized methods and assays and a clearer understanding of the factors that influence these biomarkers in poultry. This review article specifically focuses on 3 main aspects: 1) the neuroendocrine and behavioral responses of poultry to HS, 2) the biomarkers of HS and 3) the impact of HS on poultry production that have been studied in poultry. By examining the neuroendocrine and behavioral changes exhibited by poultry under HS, we aim to gain insights into the physiological impact of elevated temperatures in poultry.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "10659281",
+   "title": "Contributions of equine exercise physiology research to the success of the 1996 Equestrian Olympic Games: a review.",
+   "authors": [
+    "Jeffcott LB",
+    "Kohn CW"
+   ],
+   "journal": "Equine veterinary journal. Supplement",
+   "year": 1999,
+   "doi": "10.1111/j.2042-3306.1999.tb05247.x",
+   "abstract": "Following public concern about the weather conditions for the 1996 Olympic Games in Atlanta an international research programme was initiated. The primary objective of this effort was to identify strategies for ensuring welfare of horses competing in the heat. Field observations of horses during the endurance test of 3-day events in Europe, Canada, and the USA characterised the work effort of this form of competition; laboratory treadmill studies assessed limitations to performance of heat and humidity, explored the relationships of thermoregulatory demands to the phases of the competition and documented fluid and electrolyte losses. Estimates of energy expenditure and heat production during the endurance test were made. Strategies for facilitating heat dissipation were also studied in depth. Assessment of the effect of environmental conditions was based upon intensive climate monitoring using a modification of the Wet Bulb Globe Temperature index. Studies of heat acclimation provided a basis for recommendation of acclimatization times for horses before the Games. The results of all these studies guided the management of equine athletes at the 1996 Olympic Games and significantly advanced knowledge of thermoregulation in competitive horses.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "7051038",
+   "title": "Thermogenesis in the avian body and the role of the pineal in thermoregulation.",
+   "authors": [
+    "George JC"
+   ],
+   "journal": "Progress in clinical and biological research",
+   "year": 1982,
+   "doi": null,
+   "abstract": "In the absence of the brown adipose tissue, maintenance of body temperature (Tb) in birds is generally believed to be by shivering thermogenesis (ST), though evidence for nonshivering thermogenesis (NST) is becoming available. In ST, glycogen utilization by the anaerobic white muscle fibers forms the main energy process, while the aerobic red fibers appear to be largely involved in NST. Winter pigeons maintained on a 12 h photophase (PP) and 12 h scotophase (SP) had higher Tb during PP in both warm (25 degrees C) and cold (3 degrees C) acclimated birds. In pinealectomized (Px) pigeons Tb was higher than in controls during PP and SP without affecting the circadian thermal rhythm. This hyperthermic effect (HE) of pinealectomy was nullified with subcutaneous implantation of melatonin. These warm acclimated winter Px pigeons when examined for Tb next winter, did not show HE. Summer Px pigeons did not show HE as did the winter Px pigeons, indicating seasonal difference. No significant difference in circulating levels of T3 and T4 was seen in the summer as well as winter warm acclimated Px pigeons. These results suggest that the HE observed in warm acclimated Px winter pigeons was not mediated by the thyroid and that the pineal has no influence on the thyroid in the warm acclimated birds. The slightly higher HE seen in cold (3 degree C) acclimated Px pigeons may well be due to the influence of the thyroid.",
+   "publicationTypes": [
+    "Comparative Study",
     "Journal Article",
     "Research Support, Non-U.S. Gov't",
     "Review"
@@ -56755,6 +57101,1782 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Repeated occurrences of anthrax in livestock, wildlife and humans in the same locations at the same time calls for the need to strengthen links",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28764865-1-en",
+   "translationKey": "vet-28764865-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "What is the distinctive feature of the ruminant digestive tract?",
+   "options": [
+    "A very long small intestine only",
+    "Microbial fermentation of feed in the rumen",
+    "Absence of a stomach",
+    "Digestion only by the animal's own enzymes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Ruminants depend on rumen microbes that ferment feed; the host derives energy and nutrients from this activity.",
+   "shortExplanation": "Rumen fermentation.",
+   "pmid": "28764865",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fermentation of a variety of feedstuffs by the ruminal microbiome is the distinctive feature of the ruminant digestive tract",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28764865-1-es",
+   "translationKey": "vet-28764865-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es el rasgo distintivo del aparato digestivo de los rumiantes?",
+   "options": [
+    "Solo un intestino delgado muy largo",
+    "La fermentación microbiana del alimento en el rumen",
+    "La ausencia de estómago",
+    "Digerir solo con enzimas propias"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los rumiantes dependen de los microbios del rumen que fermentan el alimento; el animal obtiene energía y nutrientes de esa actividad.",
+   "shortExplanation": "Fermentación ruminal.",
+   "pmid": "28764865",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fermentation of a variety of feedstuffs by the ruminal microbiome is the distinctive feature of the ruminant digestive tract",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28764865-2-en",
+   "translationKey": "vet-28764865-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Why are rumen microbes essential to cattle?",
+   "options": [
+    "They cause disease only",
+    "They produce milk directly",
+    "They regulate body temperature",
+    "The animal obtains energy and nutrients from their activity"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Rumen microorganisms are essential for survival: their fermentation supplies the host's energy and nutrients.",
+   "shortExplanation": "Energy and nutrients.",
+   "pmid": "28764865",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The host derives energy and nutrients from microbiome activity; these organisms are essential to survival",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28764865-2-es",
+   "translationKey": "vet-28764865-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Por qué los microbios del rumen son esenciales para el ganado?",
+   "options": [
+    "Solo causan enfermedad",
+    "Producen leche directamente",
+    "Regulan la temperatura",
+    "El animal obtiene energía y nutrientes de su actividad"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los microorganismos ruminales son esenciales: su fermentación aporta energía y nutrientes al animal.",
+   "shortExplanation": "Energía y nutrientes.",
+   "pmid": "28764865",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The host derives energy and nutrients from microbiome activity; these organisms are essential to survival",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26528276-1-en",
+   "translationKey": "vet-26528276-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "When does microbial colonization of the calf rumen begin?",
+   "options": [
+    "Immediately after birth",
+    "Only after weaning",
+    "At one year of age",
+    "Only before birth, in utero"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The rumen is colonized right after birth, which opens a window for early-life interventions with lasting effects.",
+   "shortExplanation": "At birth.",
+   "pmid": "26528276",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The rumen is quickly colonized by all type of microorganisms straight after birth",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26528276-1-es",
+   "translationKey": "vet-26528276-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuándo comienza la colonización microbiana del rumen del ternero?",
+   "options": [
+    "Inmediatamente después del nacimiento",
+    "Solo después del destete",
+    "Al año de edad",
+    "Solo antes de nacer, en el útero"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El rumen se coloniza enseguida tras el nacimiento, lo que abre una ventana para intervenciones tempranas con efectos duraderos.",
+   "shortExplanation": "Al nacer.",
+   "pmid": "26528276",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The rumen is quickly colonized by all type of microorganisms straight after birth",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26528276-2-en",
+   "translationKey": "vet-26528276-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "During rumen development, which dietary transition requires special care?",
+   "options": [
+    "From pasture to hay",
+    "From water to milk",
+    "From liquid (milk) to solid feed",
+    "From grain to silage in adults"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Rumen epithelium and musculature develop differently depending on diet, so the milk-to-solid transition needs care.",
+   "shortExplanation": "Milk to solids.",
+   "pmid": "26528276",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "special care should be taken with regards to transition from liquid (milk) to solid feed",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26528276-2-es",
+   "translationKey": "vet-26528276-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Durante el desarrollo del rumen, ¿qué transición alimentaria requiere cuidado especial?",
+   "options": [
+    "De pastura a heno",
+    "De agua a leche",
+    "De alimento líquido (leche) a sólido",
+    "De grano a silo en adultos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El epitelio y la musculatura del rumen se desarrollan distinto según la dieta, por eso la transición de leche a sólidos requiere cuidado.",
+   "shortExplanation": "De leche a sólidos.",
+   "pmid": "26528276",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "special care should be taken with regards to transition from liquid (milk) to solid feed",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32761212-1-en",
+   "translationKey": "vet-32761212-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What triggers ruminal acidosis in cattle?",
+   "options": [
+    "Drinking too much water",
+    "Eating excessive highly fermentable carbohydrates without adaptation",
+    "Grazing on dry grass",
+    "Cold weather"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sudden excess of rapidly fermentable carbohydrates (e.g., grain) disrupts fermentation and drops rumen pH.",
+   "shortExplanation": "Too much grain, too fast.",
+   "pmid": "32761212",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "When cattle consume excessive amounts of highly fermentable carbohydrates without prior adaptation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32761212-1-es",
+   "translationKey": "vet-32761212-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué desencadena la acidosis ruminal en bovinos?",
+   "options": [
+    "Tomar mucha agua",
+    "Consumir en exceso carbohidratos muy fermentables sin adaptación",
+    "Pastorear pasto seco",
+    "El frío"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Un exceso repentino de carbohidratos de fermentación rápida (por ejemplo, grano) altera la fermentación y baja el pH ruminal.",
+   "shortExplanation": "Mucho grano, muy rápido.",
+   "pmid": "32761212",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "When cattle consume excessive amounts of highly fermentable carbohydrates without prior adaptation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32761212-2-en",
+   "translationKey": "vet-32761212-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why does rumen pH fall during acidosis?",
+   "options": [
+    "Because of excess saliva",
+    "Because of bicarbonate accumulation",
+    "Because of ammonia production",
+    "Because short-chain fatty acids and lactate accumulate"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Rapid fermentation accumulates SCFAs and lactate, lowering pH and damaging the rumen epithelium.",
+   "shortExplanation": "SCFAs and lactate.",
+   "pmid": "32761212",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "quickly decreases ruminal pH due to the accumulation of short-chain fatty acids and lactate in the rumen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32761212-2-es",
+   "translationKey": "vet-32761212-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué baja el pH ruminal en la acidosis?",
+   "options": [
+    "Por exceso de saliva",
+    "Por acumulación de bicarbonato",
+    "Por producción de amoníaco",
+    "Porque se acumulan ácidos grasos de cadena corta y lactato"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La fermentación rápida acumula AGCC y lactato, baja el pH y daña el epitelio ruminal.",
+   "shortExplanation": "AGCC y lactato.",
+   "pmid": "32761212",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "quickly decreases ruminal pH due to the accumulation of short-chain fatty acids and lactate in the rumen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32761212-3-en",
+   "translationKey": "vet-32761212-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why does LPS (endotoxin) increase in rumen fluid during acidosis?",
+   "options": [
+    "Gram-negative bacteria lyse and release LPS",
+    "Protozoa produce LPS",
+    "The cow's liver secretes LPS",
+    "Fungi multiply"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "As pH drops, Gram-negative bacteria decrease and lyse, releasing proinflammatory LPS that may cross a damaged epithelium.",
+   "shortExplanation": "Gram-negative lysis.",
+   "pmid": "32761212",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The lyses of Gram-negative bacteria during ruminal acidosis increase LPS concentration in the ruminal fluid",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32761212-3-es",
+   "translationKey": "vet-32761212-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué aumenta el LPS (endotoxina) en el líquido ruminal durante la acidosis?",
+   "options": [
+    "Las bacterias Gram negativas se lisan y liberan LPS",
+    "Los protozoos producen LPS",
+    "El hígado de la vaca secreta LPS",
+    "Se multiplican los hongos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Al bajar el pH, las Gram negativas disminuyen y se lisan, liberando LPS proinflamatorio que puede atravesar un epitelio dañado.",
+   "shortExplanation": "Lisis de Gram negativas.",
+   "pmid": "32761212",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The lyses of Gram-negative bacteria during ruminal acidosis increase LPS concentration in the ruminal fluid",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25262872-1-en",
+   "translationKey": "vet-25262872-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What is rumen transfaunation?",
+   "options": [
+    "Surgical removal of the rumen",
+    "Giving antibiotics into the rumen",
+    "Transferring rumen contents from a healthy donor to a sick animal",
+    "Vaccinating calves orally"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Transfaunation transfers rumen fluid/cud from a healthy donor to restore fermentation, e.g., in simple indigestion.",
+   "shortExplanation": "Rumen fluid transfer.",
+   "pmid": "25262872",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rumen transfaunation using the cud from a healthy donor animal to treat a sick recipient animal",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25262872-1-es",
+   "translationKey": "vet-25262872-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué es la transfaunación ruminal?",
+   "options": [
+    "La extirpación quirúrgica del rumen",
+    "Poner antibióticos en el rumen",
+    "Transferir contenido ruminal de un donante sano a un animal enfermo",
+    "Vacunar terneros por boca"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La transfaunación transfiere líquido ruminal de un donante sano para restablecer la fermentación, por ejemplo en indigestiones simples.",
+   "shortExplanation": "Transferencia de líquido ruminal.",
+   "pmid": "25262872",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rumen transfaunation using the cud from a healthy donor animal to treat a sick recipient animal",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25262872-2-en",
+   "translationKey": "vet-25262872-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which human therapy is conceptually similar to rumen transfaunation?",
+   "options": [
+    "Fecal microbiota transplantation",
+    "Blood transfusion",
+    "Kidney dialysis",
+    "Insulin therapy"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Both restore a healthy microbial community in the gut; FMT is used for digestive disorders in humans.",
+   "shortExplanation": "FMT.",
+   "pmid": "25262872",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fecal microbiota transplantation has been used to treat digestive disorders in humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25262872-2-es",
+   "translationKey": "vet-25262872-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué terapia humana es conceptualmente similar a la transfaunación ruminal?",
+   "options": [
+    "El trasplante de microbiota fecal",
+    "La transfusión de sangre",
+    "La diálisis",
+    "La insulina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Ambas restablecen una comunidad microbiana sana en el intestino; el TMF se usa en trastornos digestivos humanos.",
+   "shortExplanation": "TMF.",
+   "pmid": "25262872",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fecal microbiota transplantation has been used to treat digestive disorders in humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34635357-1-en",
+   "translationKey": "vet-34635357-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "In this meta-analysis, rumination time in dairy cows was most related to:",
+   "options": [
+    "Body temperature",
+    "Milk fat",
+    "Hoof growth",
+    "Coat color"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Rumination increased with milk fat yield and percent, milk yield, intake and rumen pH, but explained limited variation.",
+   "shortExplanation": "Milk fat.",
+   "pmid": "34635357",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "rumination time was related to milk fat across a large number of studies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34635357-1-es",
+   "translationKey": "vet-34635357-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "En este metaanálisis, el tiempo de rumia en vacas lecheras se relacionó sobre todo con:",
+   "options": [
+    "La temperatura corporal",
+    "La grasa de la leche",
+    "El crecimiento del casco",
+    "El color del pelaje"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La rumia aumentó con la grasa láctea, la producción, el consumo y el pH ruminal, aunque explicó poca variación.",
+   "shortExplanation": "Grasa láctea.",
+   "pmid": "34635357",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "rumination time was related to milk fat across a large number of studies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34635357-2-en",
+   "translationKey": "vet-34635357-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Roughly how much time per day do lactating dairy cows spend ruminating?",
+   "options": [
+    "About 30 minutes",
+    "About 2 hours",
+    "About 20 hours",
+    "About 7 hours (≈444 min)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Across studies, rumination averaged about 444 min/day in roughly 14 bouts.",
+   "shortExplanation": "~7 hours.",
+   "pmid": "34635357",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The total time spent ruminating averaged 444 min/d",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34635357-2-es",
+   "translationKey": "vet-34635357-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Aproximadamente cuánto tiempo por día rumian las vacas lecheras en lactancia?",
+   "options": [
+    "Unos 30 minutos",
+    "Unas 2 horas",
+    "Unas 20 horas",
+    "Unas 7 horas (≈444 min)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "En los estudios, la rumia promedió unos 444 min/día en unos 14 episodios.",
+   "shortExplanation": "~7 horas.",
+   "pmid": "34635357",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The total time spent ruminating averaged 444 min/d",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29539306-1-en",
+   "translationKey": "vet-29539306-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Why is the transition period around calving challenging for dairy cows?",
+   "options": [
+    "They stop eating permanently",
+    "They lose their rumen microbes",
+    "Energy, protein and mineral needs rise several-fold within days",
+    "Their body temperature drops"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Starting lactation multiplies nutrient requirements within days, often at the expense of other tissues.",
+   "shortExplanation": "Nutrient demand surges.",
+   "pmid": "29539306",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with a several-fold increase in a cow's requirement for energy, protein and minerals within days of calving",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29539306-1-es",
+   "translationKey": "vet-29539306-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Por qué el período de transición alrededor del parto es un desafío para las vacas lecheras?",
+   "options": [
+    "Dejan de comer para siempre",
+    "Pierden sus microbios ruminales",
+    "Sus necesidades de energía, proteína y minerales se multiplican en días",
+    "Baja su temperatura corporal"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El inicio de la lactancia multiplica los requerimientos en pocos días, muchas veces a costa de otros tejidos.",
+   "shortExplanation": "Sube la demanda de nutrientes.",
+   "pmid": "29539306",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with a several-fold increase in a cow's requirement for energy, protein and minerals within days of calving",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37835703-1-en",
+   "translationKey": "vet-37835703-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why do high-producing dairy cows experience negative energy balance after calving?",
+   "options": [
+    "Milk yield has increased without an adequate increase in feed intake",
+    "They exercise too much",
+    "They lose water",
+    "They produce too much insulin"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Milk yield rises faster than dry matter intake, so cows mobilize body fat, risking fatty liver and ketosis.",
+   "shortExplanation": "Yield > intake.",
+   "pmid": "37835703",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The continued increase in milk production during the last century has not been accompanied by an adequate dry matter intake",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37835703-1-es",
+   "translationKey": "vet-37835703-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué las vacas de alta producción tienen balance energético negativo después del parto?",
+   "options": [
+    "La producción de leche aumentó sin un aumento adecuado del consumo",
+    "Hacen demasiado ejercicio",
+    "Pierden agua",
+    "Producen demasiada insulina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La producción crece más que el consumo de materia seca, así que movilizan grasa corporal, con riesgo de hígado graso y cetosis.",
+   "shortExplanation": "Producción > consumo.",
+   "pmid": "37835703",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The continued increase in milk production during the last century has not been accompanied by an adequate dry matter intake",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37835703-2-en",
+   "translationKey": "vet-37835703-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What happens when mobilized fatty acids overwhelm the cow's metabolic capacity?",
+   "options": [
+    "They are stored in the udder",
+    "They become glucose",
+    "They deposit as triglycerides in the liver (lipidosis)",
+    "They are excreted in milk only"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Excess NEFAs accumulate as liver triglycerides, impairing liver function and causing ketosis and production diseases.",
+   "shortExplanation": "Fatty liver.",
+   "pmid": "37835703",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "lead to the ectopic deposition of NEFAs as triglycerides (TGs) in the liver",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37835703-2-es",
+   "translationKey": "vet-37835703-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué ocurre cuando los ácidos grasos movilizados superan la capacidad metabólica de la vaca?",
+   "options": [
+    "Se almacenan en la ubre",
+    "Se convierten en glucosa",
+    "Se depositan como triglicéridos en el hígado (lipidosis)",
+    "Se eliminan solo por leche"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El exceso de AGNE se acumula como triglicéridos hepáticos, altera la función del hígado y causa cetosis y enfermedades de la producción.",
+   "shortExplanation": "Hígado graso.",
+   "pmid": "37835703",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "lead to the ectopic deposition of NEFAs as triglycerides (TGs) in the liver",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35077992-1-en",
+   "translationKey": "vet-35077992-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "About what share of dairy cows worldwide have subclinical ketosis, according to this meta-analysis?",
+   "options": [
+    "Less than 1%",
+    "About 23%",
+    "About 75%",
+    "All of them"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Global subclinical ketosis prevalence was 22.7%, higher in indoor barns.",
+   "shortExplanation": "~23%.",
+   "pmid": "35077992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the global prevalence of SCK in dairy cows was 22.7%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35077992-1-es",
+   "translationKey": "vet-35077992-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Según este metaanálisis, ¿qué proporción de vacas lecheras en el mundo tiene cetosis subclínica?",
+   "options": [
+    "Menos del 1%",
+    "Alrededor del 23%",
+    "Alrededor del 75%",
+    "Todas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La prevalencia mundial de cetosis subclínica fue de 22,7%, mayor en estabulación.",
+   "shortExplanation": "~23%.",
+   "pmid": "35077992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the global prevalence of SCK in dairy cows was 22.7%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35077992-2-en",
+   "translationKey": "vet-35077992-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which metabolite is measured to diagnose subclinical ketosis in cows?",
+   "options": [
+    "Glucose",
+    "Urea",
+    "Lactate",
+    "Beta-hydroxybutyrate (BHB)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Subclinical ketosis is defined by blood or milk BHB above thresholds such as ≥1.2 mmol/L.",
+   "shortExplanation": "BHB.",
+   "pmid": "35077992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "to identify optimum thresholds for BHB determining",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35077992-2-es",
+   "translationKey": "vet-35077992-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué metabolito se mide para diagnosticar cetosis subclínica en vacas?",
+   "options": [
+    "Glucosa",
+    "Urea",
+    "Lactato",
+    "Beta-hidroxibutirato (BHB)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La cetosis subclínica se define por BHB en sangre o leche por encima de umbrales como ≥1,2 mmol/L.",
+   "shortExplanation": "BHB.",
+   "pmid": "35077992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "to identify optimum thresholds for BHB determining",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-18342555-1-en",
+   "translationKey": "vet-18342555-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Milk fever in dairy cows is a disorder of which mineral?",
+   "options": [
+    "Calcium",
+    "Iron",
+    "Sodium",
+    "Iodine"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "At calving, the sudden calcium demand of lactation can cause hypocalcemia (milk fever).",
+   "shortExplanation": "Calcium.",
+   "pmid": "18342555",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The animal is tremendously challenged to maintain calcium homeostasis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-18342555-1-es",
+   "translationKey": "vet-18342555-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "La fiebre de la leche en vacas lecheras es un trastorno de ¿qué mineral?",
+   "options": [
+    "Calcio",
+    "Hierro",
+    "Sodio",
+    "Yodo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Al parto, la demanda súbita de calcio para la lactancia puede causar hipocalcemia (fiebre de la leche).",
+   "shortExplanation": "Calcio.",
+   "pmid": "18342555",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The animal is tremendously challenged to maintain calcium homeostasis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-18342555-2-en",
+   "translationKey": "vet-18342555-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How does adjusting the dietary cation-anion difference (DCAD) help prevent milk fever?",
+   "options": [
+    "It adds more calcium to milk",
+    "It reduces milk yield",
+    "It improves tissue sensitivity to parathyroid hormone",
+    "It blocks vitamin D"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "A lower DCAD before calving improves tissue responsiveness to PTH, helping mobilize calcium.",
+   "shortExplanation": "PTH sensitivity.",
+   "pmid": "18342555",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "focusing on the effects diet cation-anion difference can have on tissue sensitivity to parathyroid hormone",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-18342555-2-es",
+   "translationKey": "vet-18342555-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo ayuda ajustar la diferencia catión-anión de la dieta (DCAD) a prevenir la fiebre de la leche?",
+   "options": [
+    "Agrega calcio a la leche",
+    "Reduce la producción",
+    "Mejora la sensibilidad de los tejidos a la paratohormona",
+    "Bloquea la vitamina D"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Una DCAD más baja antes del parto mejora la respuesta de los tejidos a la PTH y ayuda a movilizar calcio.",
+   "shortExplanation": "Sensibilidad a la PTH.",
+   "pmid": "18342555",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "focusing on the effects diet cation-anion difference can have on tissue sensitivity to parathyroid hormone",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-18342555-3-en",
+   "translationKey": "vet-18342555-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Which other mineral deficiency is a major risk factor for milk fever?",
+   "options": [
+    "Iron deficiency",
+    "Hypomagnesemia (low magnesium)",
+    "Low iodine",
+    "Low copper"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Low magnesium impairs calcium homeostasis and predisposes cows to hypocalcemia.",
+   "shortExplanation": "Magnesium.",
+   "pmid": "18342555",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Moderate hypomagnesemia impairs the ability of the cow to maintain calcium homeostasis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-18342555-3-es",
+   "translationKey": "vet-18342555-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué otra deficiencia mineral es un factor de riesgo importante de fiebre de la leche?",
+   "options": [
+    "Falta de hierro",
+    "Hipomagnesemia (magnesio bajo)",
+    "Yodo bajo",
+    "Cobre bajo"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El magnesio bajo altera la homeostasis del calcio y predispone a la hipocalcemia.",
+   "shortExplanation": "Magnesio.",
+   "pmid": "18342555",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Moderate hypomagnesemia impairs the ability of the cow to maintain calcium homeostasis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-11692503-1-en",
+   "translationKey": "vet-11692503-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "How does a newborn calf get its first antibody protection?",
+   "options": [
+    "From vaccines at birth",
+    "By producing antibodies in the womb",
+    "From colostrum, which carries maternal antibodies",
+    "From drinking water"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Calves are born immunonaive and depend on maternal immunoglobulins and cells absorbed from colostrum.",
+   "shortExplanation": "Colostrum.",
+   "pmid": "11692503",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "dependent on passively acquired maternal immunoglobulins, immune cells, and other substances from colostrum for protection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-11692503-1-es",
+   "translationKey": "vet-11692503-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Cómo obtiene un ternero recién nacido su primera protección de anticuerpos?",
+   "options": [
+    "Por vacunas al nacer",
+    "Fabricando anticuerpos en el útero",
+    "Del calostro, que trae anticuerpos maternos",
+    "Del agua de bebida"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los terneros nacen inmunológicamente ingenuos y dependen de las inmunoglobulinas y células maternas que absorben del calostro.",
+   "shortExplanation": "Calostro.",
+   "pmid": "11692503",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "dependent on passively acquired maternal immunoglobulins, immune cells, and other substances from colostrum for protection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-11692503-2-en",
+   "translationKey": "vet-11692503-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which statement best describes the immune system of a newborn calf?",
+   "options": [
+    "Immunocompetent but immunonaive",
+    "Completely unable to respond",
+    "Already full of memory cells",
+    "Identical to an adult cow"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The calf can respond to antigens but has no prior exposure, so passive transfer is critical early on.",
+   "shortExplanation": "Competent but naive.",
+   "pmid": "11692503",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Although immunocompetent, the neonate is immunonaive",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-11692503-2-es",
+   "translationKey": "vet-11692503-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué afirmación describe mejor el sistema inmune de un ternero recién nacido?",
+   "options": [
+    "Inmunocompetente pero inmunológicamente ingenuo",
+    "Totalmente incapaz de responder",
+    "Ya lleno de células de memoria",
+    "Idéntico al de una vaca adulta"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El ternero puede responder a antígenos pero no tuvo exposición previa, por eso la transferencia pasiva es crítica al inicio.",
+   "shortExplanation": "Competente pero ingenuo.",
+   "pmid": "11692503",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Although immunocompetent, the neonate is immunonaive",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35767544-1-en",
+   "translationKey": "vet-35767544-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which blood measurements are commonly used to assess transfer of passive immunity in calves?",
+   "options": [
+    "Glucose and cholesterol",
+    "Hemoglobin only",
+    "Urea and creatinine",
+    "IgG and total protein"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Studies mostly measured serum IgG, and many used total protein as a practical proxy.",
+   "shortExplanation": "IgG, total protein.",
+   "pmid": "35767544",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "222 assessed blood IgG concentration while 107 measured blood total protein concentration",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35767544-1-es",
+   "translationKey": "vet-35767544-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mediciones en sangre se usan habitualmente para evaluar la transferencia de inmunidad pasiva en terneros?",
+   "options": [
+    "Glucosa y colesterol",
+    "Solo hemoglobina",
+    "Urea y creatinina",
+    "IgG y proteínas totales"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los estudios midieron sobre todo IgG sérica, y muchos usaron proteínas totales como indicador práctico.",
+   "shortExplanation": "IgG, proteínas totales.",
+   "pmid": "35767544",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "222 assessed blood IgG concentration while 107 measured blood total protein concentration",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35767544-2-en",
+   "translationKey": "vet-35767544-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Besides quantity and quality, which colostrum factor affects passive immunity in calves?",
+   "options": [
+    "The color of the bucket",
+    "The timing of the first feeding",
+    "The calf's coat color",
+    "The time of year"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Quantity, quality and timing of first colostrum feeding influence passive immunity; early feeding is key.",
+   "shortExplanation": "Timing.",
+   "pmid": "35767544",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The effect of the timing of first feeding of colostrum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35767544-2-es",
+   "translationKey": "vet-35767544-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Además de la cantidad y la calidad, ¿qué factor del calostro influye en la inmunidad pasiva del ternero?",
+   "options": [
+    "El color del balde",
+    "El momento de la primera toma",
+    "El color del pelaje",
+    "La estación del año"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La cantidad, la calidad y el momento de la primera toma de calostro influyen en la inmunidad pasiva; darlo temprano es clave.",
+   "shortExplanation": "Momento.",
+   "pmid": "35767544",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The effect of the timing of first feeding of colostrum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27155733-1-en",
+   "translationKey": "vet-27155733-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "How is the bovine placenta classified?",
+   "options": [
+    "Discoid and hemochorial",
+    "Diffuse and epitheliochorial",
+    "Cotyledonary and synepitheliochorial",
+    "Zonary and endotheliochorial"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Cattle have a cotyledonary, synepitheliochorial placenta; humans have a discoid hemochorial one, dogs a zonary endotheliochorial one.",
+   "shortExplanation": "Cotyledonary.",
+   "pmid": "27155733",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The gross anatomic features (cotyledonary type) and histologic classification (synepitheliochorial) of the bovine placenta",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27155733-1-es",
+   "translationKey": "vet-27155733-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Cómo se clasifica la placenta bovina?",
+   "options": [
+    "Discoidal y hemocorial",
+    "Difusa y epiteliocorial",
+    "Cotiledonaria y sinepiteliocorial",
+    "Zonal y endoteliocorial"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los bovinos tienen placenta cotiledonaria sinepiteliocorial; la humana es discoidal hemocorial y la del perro zonal endoteliocorial.",
+   "shortExplanation": "Cotiledonaria.",
+   "pmid": "27155733",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The gross anatomic features (cotyledonary type) and histologic classification (synepitheliochorial) of the bovine placenta",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27155733-2-en",
+   "translationKey": "vet-27155733-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which cells are thought to be key players in the bovine placenta?",
+   "options": [
+    "Trophoblast giant cells",
+    "Red blood cells",
+    "Osteoclasts",
+    "Hepatocytes"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Binucleate trophoblast giant cells are central to the cattle placenta and are hard to maintain in culture.",
+   "shortExplanation": "Trophoblast giant cells.",
+   "pmid": "27155733",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "As trophoblast giant cells (TGC) are thought to be key players in the cattle placenta",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27155733-2-es",
+   "translationKey": "vet-27155733-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué células se consideran protagonistas de la placenta bovina?",
+   "options": [
+    "Las células gigantes del trofoblasto",
+    "Los glóbulos rojos",
+    "Los osteoclastos",
+    "Los hepatocitos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las células gigantes binucleadas del trofoblasto son centrales en la placenta bovina y difíciles de mantener en cultivo.",
+   "shortExplanation": "Células gigantes del trofoblasto.",
+   "pmid": "27155733",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "As trophoblast giant cells (TGC) are thought to be key players in the cattle placenta",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-11500232-1-en",
+   "translationKey": "vet-11500232-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "To design drugs that control the estrous cycle in cattle, what must be understood?",
+   "options": [
+    "Only the price of the drug",
+    "Only coat genetics",
+    "Only feed composition",
+    "The endocrine changes, reproductive function and behavior"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Estrous synchronization relies on understanding reproductive endocrinology, physiology and behavior.",
+   "shortExplanation": "Endocrinology and behavior.",
+   "pmid": "11500232",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a thorough understanding of the endocrine and functional changes together with the reproductive behavior of the animals are essential",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-11500232-1-es",
+   "translationKey": "vet-11500232-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Para diseñar fármacos que controlen el ciclo estral bovino, ¿qué hay que entender?",
+   "options": [
+    "Solo el precio del fármaco",
+    "Solo la genética del pelaje",
+    "Solo la composición del alimento",
+    "Los cambios endocrinos, la función reproductiva y el comportamiento"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La sincronización de celos se basa en conocer la endocrinología, la fisiología y el comportamiento reproductivos.",
+   "shortExplanation": "Endocrinología y comportamiento.",
+   "pmid": "11500232",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a thorough understanding of the endocrine and functional changes together with the reproductive behavior of the animals are essential",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1100824-1-en",
+   "translationKey": "vet-1100824-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "In horses, where is fiber mainly digested?",
+   "options": [
+    "The stomach",
+    "The small intestine",
+    "The large intestine (hindgut)",
+    "The mouth"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Horses are hindgut fermenters: fiber is digested in the large intestine, while protein, sugars and fats are absorbed in the small intestine.",
+   "shortExplanation": "Hindgut.",
+   "pmid": "1100824",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The large intestine is the primary site of fibre digestion and net water absorption",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1100824-1-es",
+   "translationKey": "vet-1100824-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "En los caballos, ¿dónde se digiere principalmente la fibra?",
+   "options": [
+    "En el estómago",
+    "En el intestino delgado",
+    "En el intestino grueso",
+    "En la boca"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los caballos fermentan en el intestino grueso: allí digieren la fibra, mientras proteínas, azúcares y grasas se absorben en el delgado.",
+   "shortExplanation": "Intestino grueso.",
+   "pmid": "1100824",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The large intestine is the primary site of fibre digestion and net water absorption",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1100824-2-en",
+   "translationKey": "vet-1100824-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "In the horse, where are protein and soluble carbohydrates mainly digested and absorbed?",
+   "options": [
+    "The cecum",
+    "The small intestine",
+    "The stomach only",
+    "The rectum"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The equine small intestine handles protein, soluble carbohydrates, fats, vitamins and most minerals.",
+   "shortExplanation": "Small intestine.",
+   "pmid": "1100824",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the small intestine is the primary site of digestion and absorption of protein, soluble carbohydrates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1100824-2-es",
+   "translationKey": "vet-1100824-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "En el caballo, ¿dónde se digieren y absorben principalmente las proteínas y los carbohidratos solubles?",
+   "options": [
+    "En el ciego",
+    "En el intestino delgado",
+    "Solo en el estómago",
+    "En el recto"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El intestino delgado equino se encarga de proteínas, carbohidratos solubles, grasas, vitaminas y la mayoría de los minerales.",
+   "shortExplanation": "Intestino delgado.",
+   "pmid": "1100824",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the small intestine is the primary site of digestion and absorption of protein, soluble carbohydrates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-2658282-1-en",
+   "translationKey": "vet-2658282-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Which nutrient is essential in the diet of cats but not of dogs?",
+   "options": [
+    "Glucose",
+    "Water-soluble fiber",
+    "Vitamin C",
+    "Taurine"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Cats cannot synthesize enough taurine, so it is an essential dietary amino acid for them.",
+   "shortExplanation": "Taurine.",
+   "pmid": "2658282",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which makes taurine an essential amino acid for cats",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-2658282-1-es",
+   "translationKey": "vet-2658282-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Qué nutriente es esencial en la dieta de los gatos pero no en la de los perros?",
+   "options": [
+    "Glucosa",
+    "Fibra soluble",
+    "Vitamina C",
+    "Taurina"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los gatos no pueden sintetizar suficiente taurina, por eso es un aminoácido esencial en su dieta.",
+   "shortExplanation": "Taurina.",
+   "pmid": "2658282",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which makes taurine an essential amino acid for cats",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-2658282-2-en",
+   "translationKey": "vet-2658282-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What problems does taurine deficiency cause in cats?",
+   "options": [
+    "Retinal degeneration and cardiomyopathy",
+    "Hair loss only",
+    "Kidney stones only",
+    "Obesity"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Taurine deficiency causes retinal degeneration, dilated cardiomyopathy, immune and growth problems.",
+   "shortExplanation": "Eyes and heart.",
+   "pmid": "2658282",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Taurine-depleted cats develop retinal degeneration, cardiomyopathy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-2658282-2-es",
+   "translationKey": "vet-2658282-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué problemas causa la deficiencia de taurina en gatos?",
+   "options": [
+    "Degeneración de retina y miocardiopatía",
+    "Solo caída de pelo",
+    "Solo cálculos renales",
+    "Obesidad"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La falta de taurina causa degeneración retiniana, miocardiopatía dilatada y problemas inmunes y de crecimiento.",
+   "shortExplanation": "Ojos y corazón.",
+   "pmid": "2658282",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Taurine-depleted cats develop retinal degeneration, cardiomyopathy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-7039812-1-en",
+   "translationKey": "vet-7039812-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which diet can cause vitamin A toxicity in cats?",
+   "options": [
+    "Dry kibble",
+    "Rice and chicken",
+    "Large amounts of beef liver",
+    "Fish oil-free diets"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Liver stores a lot of vitamin A; feeding it heavily can cause hypervitaminosis A with cervical bony exostoses.",
+   "shortExplanation": "Beef liver.",
+   "pmid": "7039812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "may occur if cats are fed beef liver in which appreciable vitamin A is stored",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-7039812-1-es",
+   "translationKey": "vet-7039812-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué dieta puede causar toxicidad por vitamina A en gatos?",
+   "options": [
+    "Alimento balanceado seco",
+    "Arroz y pollo",
+    "Grandes cantidades de hígado vacuno",
+    "Dietas sin aceite de pescado"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El hígado almacena mucha vitamina A; darlo en exceso puede causar hipervitaminosis A con exostosis óseas cervicales.",
+   "shortExplanation": "Hígado vacuno.",
+   "pmid": "7039812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "may occur if cats are fed beef liver in which appreciable vitamin A is stored",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-7039812-2-en",
+   "translationKey": "vet-7039812-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Can taurine supplementation reverse established feline central retinal degeneration?",
+   "options": [
+    "Yes, completely",
+    "No; it can only prevent further degeneration",
+    "Only with vitamin A",
+    "Only in kittens"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The existing lesion is irreversible, though supplementation can save the remaining retina.",
+   "shortExplanation": "Not reversible.",
+   "pmid": "7039812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This lesion is not reversed by taurine supplementation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-7039812-2-es",
+   "translationKey": "vet-7039812-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Puede la taurina revertir una degeneración retiniana central felina ya establecida?",
+   "options": [
+    "Sí, por completo",
+    "No; solo evita que avance",
+    "Solo con vitamina A",
+    "Solo en gatitos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La lesión existente es irreversible, aunque el suplemento puede salvar el resto de la retina.",
+   "shortExplanation": "No es reversible.",
+   "pmid": "7039812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This lesion is not reversed by taurine supplementation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37408833-1-en",
+   "translationKey": "vet-37408833-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Why are dairy cows especially susceptible to heat stress?",
+   "options": [
+    "They have thick wool",
+    "They cannot drink water",
+    "Their high metabolic heat load from milk production",
+    "They have no sweat glands at all"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "High-producing cows generate a large metabolic heat load, so hot weather reduces milk, fertility and health.",
+   "shortExplanation": "High metabolic heat.",
+   "pmid": "37408833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Dairy cattle have been identified as being susceptible to heat stress due to their high metabolic heat load",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37408833-1-es",
+   "translationKey": "vet-37408833-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Por qué las vacas lecheras son especialmente susceptibles al estrés por calor?",
+   "options": [
+    "Tienen lana gruesa",
+    "No pueden tomar agua",
+    "Por su gran carga de calor metabólico al producir leche",
+    "No tienen ninguna glándula sudorípara"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las vacas de alta producción generan mucho calor metabólico, así que el calor reduce leche, fertilidad y salud.",
+   "shortExplanation": "Mucho calor metabólico.",
+   "pmid": "37408833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Dairy cattle have been identified as being susceptible to heat stress due to their high metabolic heat load",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37408833-2-en",
+   "translationKey": "vet-37408833-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which effects does heat stress have on dairy cattle?",
+   "options": [
+    "Lower milk production and reproduction, more disease",
+    "Higher milk yield",
+    "Faster growth",
+    "No measurable effect"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Diverting energy to cooling reduces milk yield and fertility and increases disease and mortality.",
+   "shortExplanation": "Less milk and fertility.",
+   "pmid": "37408833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "heat stress in dairy cattle can lead numerous issues including reductions in milk production and reproduction",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37408833-2-es",
+   "translationKey": "vet-37408833-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué efectos tiene el estrés por calor en el ganado lechero?",
+   "options": [
+    "Menos leche y reproducción, más enfermedad",
+    "Más producción de leche",
+    "Crecimiento más rápido",
+    "Ningún efecto"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Desviar energía a refrigerarse reduce la leche y la fertilidad y aumenta enfermedad y mortalidad.",
+   "shortExplanation": "Menos leche y fertilidad.",
+   "pmid": "37408833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "heat stress in dairy cattle can lead numerous issues including reductions in milk production and reproduction",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37852055-1-en",
+   "translationKey": "vet-37852055-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which aspect of poultry heat stress does this review focus on, among others?",
+   "options": [
+    "Feather color genetics",
+    "Egg pricing",
+    "Antibiotic resistance",
+    "Neuroendocrine and behavioral responses"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The review covers neuroendocrine and behavioral responses, biomarkers of heat stress and impacts on production.",
+   "shortExplanation": "Neuroendocrine/behavior.",
+   "pmid": "37852055",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the neuroendocrine and behavioral responses of poultry to HS",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37852055-1-es",
+   "translationKey": "vet-37852055-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿En qué aspecto del estrés por calor en aves se centra esta revisión, entre otros?",
+   "options": [
+    "Genética del color de pluma",
+    "Precio del huevo",
+    "Resistencia a antibióticos",
+    "Respuestas neuroendocrinas y de comportamiento"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La revisión trata respuestas neuroendocrinas y conductuales, biomarcadores de estrés térmico e impacto en la producción.",
+   "shortExplanation": "Neuroendocrino/conducta.",
+   "pmid": "37852055",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the neuroendocrine and behavioral responses of poultry to HS",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-10659281-1-en",
+   "translationKey": "vet-10659281-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What did heat research before the 1996 Olympics recommend for competing horses?",
+   "options": [
+    "Avoid all water before competing",
+    "Allow time for heat acclimatization",
+    "Clip all hair off",
+    "Compete only at night"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Heat acclimation studies guided acclimatization periods and cooling strategies for equine athletes in Atlanta.",
+   "shortExplanation": "Acclimatization.",
+   "pmid": "10659281",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Studies of heat acclimation provided a basis for recommendation of acclimatization times for horses before the Games",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-10659281-1-es",
+   "translationKey": "vet-10659281-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué recomendó la investigación sobre calor antes de los Juegos de 1996 para los caballos?",
+   "options": [
+    "No darles agua antes de competir",
+    "Dar tiempo de aclimatación al calor",
+    "Esquilarlos por completo",
+    "Competir solo de noche"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los estudios de aclimatación al calor orientaron los períodos de adaptación y las estrategias de enfriamiento en Atlanta.",
+   "shortExplanation": "Aclimatación.",
+   "pmid": "10659281",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Studies of heat acclimation provided a basis for recommendation of acclimatization times for horses before the Games",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-7051038-1-en",
+   "translationKey": "vet-7051038-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "How do birds mainly generate heat to keep body temperature, given they lack brown adipose tissue?",
+   "options": [
+    "Brown fat burning",
+    "Panting",
+    "Sweating",
+    "Shivering thermogenesis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Birds lack brown adipose tissue and rely mainly on shivering thermogenesis, with some evidence of non-shivering thermogenesis.",
+   "shortExplanation": "Shivering.",
+   "pmid": "7051038",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In the absence of the brown adipose tissue, maintenance of body temperature (Tb) in birds is generally believed to be by shivering thermogenesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-7051038-1-es",
+   "translationKey": "vet-7051038-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Cómo generan calor las aves para mantener la temperatura, si no tienen tejido adiposo pardo?",
+   "options": [
+    "Quemando grasa parda",
+    "Jadeando",
+    "Sudando",
+    "Por termogénesis con escalofríos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las aves carecen de grasa parda y dependen sobre todo de la termogénesis por escalofríos, con alguna evidencia de termogénesis sin escalofríos.",
+   "shortExplanation": "Escalofríos.",
+   "pmid": "7051038",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In the absence of the brown adipose tissue, maintenance of body temperature (Tb) in birds is generally believed to be by shivering thermogenesis",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   }
