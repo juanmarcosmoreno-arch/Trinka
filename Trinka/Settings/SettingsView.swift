@@ -22,6 +22,7 @@ struct SettingsView: View {
                         }
                     }
                     .pickerStyle(.segmented)
+                    Toggle(L10n.tr("settings.intro"), isOn: $settings.showIntro)
                 } header: {
                     Text(L10n.tr("settings.appearance"))
                 } footer: {

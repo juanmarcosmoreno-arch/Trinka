@@ -158,6 +158,10 @@
 "settings.title" = "Ajustes";
 "settings.appearance" = "Apariencia";
 "settings.appearance.footer" = "Sistema sigue el modo claro u oscuro de tu iPhone.";
+"settings.intro" = "Logo animado al abrir";
+
+"intro.skip" = "Toca para saltar";
+
 "settings.language" = "Idioma";
 "settings.language.system" = "Sistema";
 "settings.quiz" = "Cuestionarios";

@@ -158,6 +158,10 @@
 "settings.title" = "Settings";
 "settings.appearance" = "Appearance";
 "settings.appearance.footer" = "System follows your iPhone's light or dark mode.";
+"settings.intro" = "Animated logo at launch";
+
+"intro.skip" = "Tap to skip";
+
 "settings.language" = "Language";
 "settings.language.system" = "System";
 "settings.quiz" = "Quizzes";

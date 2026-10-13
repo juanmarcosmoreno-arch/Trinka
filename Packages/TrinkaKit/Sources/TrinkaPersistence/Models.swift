@@ -102,6 +102,8 @@ public final class UserSettings {
     public var appearanceRaw: String = AppearanceMode.system.rawValue
     /// Name shown to friends in shared challenge results. Empty until the user sets one.
     public var playerName: String = ""
+    /// Play the animated logo when the app starts.
+    public var showIntro: Bool = true
 
     public init() {
         languageOverrideRaw = nil
@@ -111,6 +113,7 @@ public final class UserSettings {
         hapticsEnabled = true
         appearanceRaw = AppearanceMode.system.rawValue
         playerName = ""
+        showIntro = true
     }
 
     public var languageOverride: AppLanguage? {

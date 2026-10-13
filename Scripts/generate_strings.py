@@ -164,6 +164,8 @@ S = {
 "settings.title": ("Settings", "Ajustes"),
 "settings.appearance": ("Appearance", "Apariencia"),
 "settings.appearance.footer": ("System follows your iPhone's light or dark mode.", "Sistema sigue el modo claro u oscuro de tu iPhone."),
+"settings.intro": ("Animated logo at launch", "Logo animado al abrir"),
+"intro.skip": ("Tap to skip", "Toca para saltar"),
 "settings.language": ("Language", "Idioma"),
 "settings.language.system": ("System", "Sistema"),
 "settings.quiz": ("Quizzes", "Cuestionarios"),

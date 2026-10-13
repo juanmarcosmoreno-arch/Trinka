@@ -8,6 +8,12 @@
 		<string>en</string>
 		<string>es</string>
 	</array>
+	<!-- Static launch screen in the intro video's background color, so the animated logo starts seamlessly. -->
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>LaunchBackground</string>
+	</dict>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
