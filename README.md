@@ -94,7 +94,7 @@ dependencies. No third-party dependencies.
 
 `Content/manifest.json` and `Content/questions-<version>.json` are the published bank. At launch,
 the iPhone and Watch apps (`QuestionBankStore`) read the manifest from `QUESTION_BANK_BASE`
-(default: this repository's `main` branch on `raw.githubusercontent.com`). If it announces a newer
+(default: this repository's default branch, via `HEAD` on `raw.githubusercontent.com`). If it announces a newer
 version, they download the file, validate every question exactly like the bundled bank, and use it
 from the next launch, so a day's challenge never changes mid-day. If anything fails (offline,
 invalid file), the app keeps the questions it has. To publish: run the build script, commit,

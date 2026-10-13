@@ -13,7 +13,7 @@ NCBI_API_KEY =
 QUESTION_SERVICE_HOST =
 QUESTION_SERVICE_TOKEN =
 // Published question banks (Content/ on the main branch). The app checks it at launch.
-QUESTION_BANK_BASE = raw.githubusercontent.com/juanmarcosmoreno-arch/Trinka/main/Content
+QUESTION_BANK_BASE = raw.githubusercontent.com/juanmarcosmoreno-arch/Trinka/HEAD/Content
 
 #include? "Secrets.xcconfig"
 
