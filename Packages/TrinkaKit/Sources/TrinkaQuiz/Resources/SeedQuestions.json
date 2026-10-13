@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -4966,6 +4966,262 @@
     "Research Support, Non-U.S. Gov't",
     "Review"
    ]
+  },
+  {
+   "pmid": "20452953",
+   "title": "The bacterial cell envelope.",
+   "authors": [
+    "Silhavy TJ",
+    "Kahne D",
+    "Walker S"
+   ],
+   "journal": "Cold Spring Harbor perspectives in biology",
+   "year": 2010,
+   "doi": "10.1101/cshperspect.a000414",
+   "abstract": "The bacteria cell envelope is a complex multilayered structure that serves to protect these organisms from their unpredictable and often hostile environment. The cell envelopes of most bacteria fall into one of two major groups. Gram-negative bacteria are surrounded by a thin peptidoglycan cell wall, which itself is surrounded by an outer membrane containing lipopolysaccharide. Gram-positive bacteria lack an outer membrane but are surrounded by layers of peptidoglycan many times thicker than is found in the gram-negatives. Threading through these layers of peptidoglycan are long anionic polymers, called teichoic acids. The composition and organization of these envelope layers and recent insights into the mechanisms of cell envelope assembly are discussed.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "15627373",
+   "title": "Bacterial and archaeal flagella as prokaryotic motility organelles.",
+   "authors": [
+    "Metlina AL"
+   ],
+   "journal": "Biochemistry. Biokhimiia",
+   "year": 2004,
+   "doi": "10.1007/s10541-005-0065-8",
+   "abstract": "The properties and molecular organization of flagella--the bacterial and archaeal motility organelles--are reviewed. The organization of these functional motility elements of prokaryotic organisms belonging to different kingdoms is compared. A mechanism for both in vivo and in vitro assembly of bacterial flagellum filaments (BFFs) is discussed, and similarity is supposed between flagellin and actin with regard to their polymeric forms (BFF and F-actin). Our own data on intracellular fixation of the Halobacterium salinarium flagellum are presented. Comparative characteristics of intracellular fixation of bacterial and archaeal flagella are also described.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34522083",
+   "title": "Pore-Forming Toxins During Bacterial Infection: Molecular Mechanisms and Potential Therapeutic Targets.",
+   "authors": [
+    "Hu H",
+    "Liu M",
+    "Sun S"
+   ],
+   "journal": "Drug design, development and therapy",
+   "year": 2021,
+   "doi": "10.2147/DDDT.S322393",
+   "abstract": "Bacterial infections are predominantly treated with antibiotics, and resistance to antibiotics is becoming an increasing threat to our health. Pore-forming toxins (PFTs) are virulence factors secreted by many pathogenic bacterial strains, both in acute and chronic infections. They are special membrane-targeting proteins that exert toxic effects by forming pores in the cell membrane. Recent studies have elucidated the structure of PFTs and the detailed molecular mechanisms of their pathogenicity. Here, we discuss recent findings that highlight the regulatory mechanisms and important roles of two types of PFTs, α-PFTs and β-PFTs, in mediating the virulence of bacteria, and the therapeutic potential of targeting PFTs for antibacterial treatment. Therapeutic strategies based on PFTs are highly specific and may alleviate the issue of increasing resistance to antibiotics.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "8166997",
+   "title": "Superantigens.",
+   "authors": [
+    "Fleischer B"
+   ],
+   "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+   "year": 1994,
+   "doi": "10.1111/j.1699-0463.1994.tb04839.x",
+   "abstract": "\"Superantigens\" is the term for a group of molecules that have in common an extremely potent stimulatory activity for T lymphocytes of several species. They stimulate CD4+, CD8+ and gamma delta + T cells by a unique mechanism: they cross-link variable parts of the T-cell receptor (TCR) with MHC class II molecules on accessory or target cells. The interaction site on the class II molecule and on the TCR is different from the peptide binding site; on the TCR it is the variable part of the beta chain (V beta). The prototype superantigen is the staphylococcal enterotoxin B (SEB), member of a family of genetically related proteins produced by Staphylococcus aureus and Streptococcus pyogenes. These are soluble exotoxins of approximately 27 kd molecular mass. It is intriguing that this molecular mechanism of T-cell stimulation has been independently produced at least three times in evolution. Other pathogens producing superantigens are retroviruses (the Mouse Mammary Tumor Viruses) and a mycoplasma (Mycoplasma arthritidis). Many additional candidate superantigens have been proposed, but in most cases unequivocal evidence for superantigen activity is still missing. There are several reasons why these molecules have aroused such tremendous interest in recent years. First, they have provided key information on tolerance mechanisms, both on the deletion of T cells in the thymus and on the induction of peripheral tolerance by anergy and apoptosis. Second, of all polyclonal T-cell stimulators they are the ones that most closely mimic the recognition of specific antigen. Finally, they have been recognized as important factors in the pathogenicity of the producing pathogens, inducing shock and immunosuppression. Whilst there is evidence that superantigens could be involved in the pathogenesis of certain human diseases, in most cases this is still very preliminary and indirect.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "16703338",
+   "title": "Koch's postulates and infectious proteins.",
+   "authors": [
+    "Walker L",
+    "Levine H",
+    "Jucker M"
+   ],
+   "journal": "Acta neuropathologica",
+   "year": 2006,
+   "doi": "10.1007/s00401-006-0072-x",
+   "abstract": "Koch's postulates were formulated in the late nineteenth century as guidelines for establishing that microbes cause specific diseases. Because the rules were developed for living agents--particularly bacteria--their applicability to inanimate pathogens such as viruses and infectious proteins has been problematic. The unorthodox mechanism by which prion diseases are transmitted, involving specific physicochemical characteristics of the protein as well as susceptibility traits of the host, has made these disorders refractory to analysis within the context of the original Koch's postulates. In addition, evidence is accumulating that other proteopathies, such as AA amyloidosis, apolipoprotein AII amyloidosis, and cerebral Abeta amyloidosis, can be induced in vulnerable recipients by cognate proteinaceous agents. In light of the salient differences in the mode of disease-transmission by microbes and proteins, we propose modifications of Koch's postulates that will specifically accommodate presumed infectious proteins.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19768627",
+   "title": "Basic laboratory culture methods for anaerobic bacteria.",
+   "authors": [
+    "Strobel HJ"
+   ],
+   "journal": "Methods in molecular biology (Clifton, N.J.)",
+   "year": 2009,
+   "doi": "10.1007/978-1-60761-214-8_16",
+   "abstract": "Oxygen is either limiting or absent in many ecosystems. Anaerobic bacteria are often key players in such environments and these organisms have important roles in geo-elemental cycling, agriculture, and medicine. The metabolic versatility of anaerobes is exploited in a variety of industrial processes including fermented food production, biochemical synthesis, and bioremediation. There has been recent considerable interest in developing and enhancing technologies that employ anaerobes as biocatalysts. The study of anaerobic bacteria requires specialized techniques, and specific methods are described for the culture and manipulation of these microbes.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "21413251",
+   "title": "Rickettsiae",
+   "authors": [
+    "Walker DH"
+   ],
+   "journal": "Medical Microbiology [Internet]",
+   "year": 1996,
+   "doi": null,
+   "abstract": "Rickettsiae are small, Gram-negative bacilli that have evolved in such close association with arthropod hosts that they are adapted to survive within the host cells. They represent a rather diverse collection of bacteria, and therefore listing characteristics that apply to the entire group is difficult. The common threads that hold the rickettsiae into a group are their epidemiology, their obligate intracellular lifestyle, and the laboratory technology required to work with them. In the laboratory, rickettsiae cannot be cultivated on agar plates or in broth, but only in viable eukaryotic host cells (e.g., in cell culture, embryonated eggs, or susceptible animals). The exception, which shows the artificial nature of using obligate intracellular parasitism as a defining phenotypic characteristic, is Bartonella (Rochalimaea) quintana, which is cultivable axenically, but was traditionally considered as a rickettsia. The diversity of rickettsiae is demonstrated in the variety of specific intracellular locations where they live and the remarkable differences in their major outer membrane proteins and genetic relatedness (Table 38-1). An example of extreme adaptation is that the metabolic activity of Coxiella burnetii is greatly increased in the acidic environment of the phagolysosome, which is a harsh location for survival for most other organisms. Obligate intracellular parasitism among bacteria is not unique to rickettsiae. Chlamydiae also have evolved to occupy an intracellular niche, and numerous bacteria (e.g., Mycobacteria, Legionella, Salmonella, Shigella, Francisella, and Brucella) are facultative intracellular parasites. In contrast with chlamydiae, all rickettsiae can synthesize ATP. Coxiella burnetii is the only rickettsia that appears to have a developmental cycle. Some organisms in the family Rickettsiaceae are closely related genetically (e.g., Rickettsia rickettsii, R akari, R prowazekii, and R typhi); others are related less closely to Rickettsia species (e.g., Ehrlichia and Bartonella); and others not related to Rickettsia species (e.g., C burnetii). The phenotypic traits of the medically important organism Orientia (Rickettsia) tsutsugamushi suggest that the species may be an example of convergent evolution in a similar ecologic niche. Rickettsioses are zoonoses that, except for Q fever, are usually transmitted to humans by arthropods (tick, mite, flea, louse, or chigger) (Table 38-2). Therefore, their geographic distribution is determined by that of the infected arthropod, which for most rickettsial species is the reservoir host. Rickettsiae are important causes of human diseases in the United States (Rocky Mountain spotted fever, Q fever, murine typhus, sylvatic typhus, human monocytic ehrlichiosis, human granulocytic ehrlichiosis, and rickettsialpox) and around the world (Q fever, murine typhus, scrub typhus, epidemic typhus, boutonneuse fever, and other spotted fevers) (Table 38-2).",
+   "publicationTypes": [
+    "Review"
+   ],
+   "bookshelfID": "NBK7624"
+  },
+  {
+   "pmid": "39572454",
+   "title": "Prions: structure, function, evolution, and disease.",
+   "authors": [
+    "Casey C",
+    "Sleator RD"
+   ],
+   "journal": "Archives of microbiology",
+   "year": 2024,
+   "doi": "10.1007/s00203-024-04200-3",
+   "abstract": "Prions are proteinaceous infectious particles implicated in fatal neurodegenerative disorders known as prion diseases. Herein, we provide an overview of prion biology, emphasizing the structural, functional, and evolutionary aspects of prions, along with their potential applications in protein engineering. Understanding the structure-function relationships of both healthy and disease-associated prion proteins enables a deeper understanding of the mechanisms of prion-induced neurotoxicity. Furthermore, we describe how insights into prion evolution have begun to shed light on their ancient origins and evolutionary resilience, offering deeper insights into the potential roles of prions in primordial chemical processes.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "9811807",
+   "title": "Prions.",
+   "authors": [
+    "Prusiner SB"
+   ],
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 1998,
+   "doi": "10.1073/pnas.95.23.13363",
+   "abstract": "Prions are unprecedented infectious pathogens that cause a group of invariably fatal neurodegenerative diseases by an entirely novel mechanism. Prion diseases may present as genetic, infectious, or sporadic disorders, all of which involve modification of the prion protein (PrP). Bovine spongiform encephalopathy (BSE), scrapie of sheep, and Creutzfeldt-Jakob disease (CJD) of humans are among the most notable prion diseases. Prions are transmissible particles that are devoid of nucleic acid and seem to be composed exclusively of a modified protein (PrPSc). The normal, cellular PrP (PrPC) is converted into PrPSc through a posttranslational process during which it acquires a high beta-sheet content. The species of a particular prion is encoded by the sequence of the chromosomal PrP gene of the mammals in which it last replicated. In contrast to pathogens carrying a nucleic acid genome, prions appear to encipher strain-specific properties in the tertiary structure of PrPSc. Transgenetic studies argue that PrPSc acts as a template upon which PrPC is refolded into a nascent PrPSc molecule through a process facilitated by another protein. Miniprions generated in transgenic mice expressing PrP, in which nearly half of the residues were deleted, exhibit unique biological properties and should facilitate structural studies of PrPSc. While knowledge about prions has profound implications for studies of the structural plasticity of proteins, investigations of prion diseases suggest that new strategies for the prevention and treatment of these disorders may also find application in the more common degenerative diseases.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28108122",
+   "title": "Fast methods of fungal and bacterial identification. MALDI-TOF mass spectrometry, chromogenic media.",
+   "authors": [
+    "Siller-Ruiz M",
+    "Hernández-Egido S",
+    "Sánchez-Juanes F",
+    "González-Buitrago JM",
+    "Muñoz-Bellido JL"
+   ],
+   "journal": "Enfermedades infecciosas y microbiologia clinica",
+   "year": 2017,
+   "doi": "10.1016/j.eimc.2016.12.010",
+   "abstract": "MALDI-TOF mass spectrometry is now a routine resource in Clinical Microbiology, because of its speed and reliability in the identification of microorganisms. Its performance in the identification of bacteria and yeasts is perfectly contrasted. The identification of mycobacteria and moulds is more complex, due to the heterogeneity of spectra within each species. The methodology is somewhat more complex, and expanding the size of species libraries, and the number of spectra of each species, will be crucial to achieve greater efficiency. Direct identification from blood cultures has been implemented, since its contribution to the management of severe patients is evident, but its application to other samples is more complex. Chromogenic media have also contributed to the rapid diagnosis in both bacteria and yeast, since they accelerate the diagnosis, facilitate the detection of mixed cultures and allow rapid diagnosis of resistant species.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35453179",
+   "title": "Antimicrobial Susceptibility Testing: A Comprehensive Review of Currently Used Methods.",
+   "authors": [
+    "Gajic I",
+    "Kabic J",
+    "Kekic D",
+    "Jovicevic M",
+    "Milenkovic M",
+    "Mitic Culafic D",
+    "Trudic A",
+    "Ranin L",
+    "Opavski N"
+   ],
+   "journal": "Antibiotics (Basel, Switzerland)",
+   "year": 2022,
+   "doi": "10.3390/antibiotics11040427",
+   "abstract": "Antimicrobial resistance (AMR) has emerged as a major threat to public health globally. Accurate and rapid detection of resistance to antimicrobial drugs, and subsequent appropriate antimicrobial treatment, combined with antimicrobial stewardship, are essential for controlling the emergence and spread of AMR. This article reviews common antimicrobial susceptibility testing (AST) methods and relevant issues concerning the advantages and disadvantages of each method. Although accurate, classic technologies used in clinical microbiology to profile antimicrobial susceptibility are time-consuming and relatively expensive. As a result, physicians often prescribe empirical antimicrobial therapies and broad-spectrum antibiotics. Although recently developed AST systems have shown advantages over traditional methods in terms of testing speed and the potential for providing a deeper insight into resistance mechanisms, extensive validation is required to translate these methodologies to clinical practice. With a continuous increase in antimicrobial resistance, additional efforts are needed to develop innovative, rapid, accurate, and portable diagnostic tools for AST. The wide implementation of novel devices would enable the identification of the optimal treatment approaches and the surveillance of antibiotic resistance in health, agriculture, and the environment, allowing monitoring and better tackling the emergence of AMR.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34662054",
+   "title": "Disinfectants",
+   "authors": [
+    "Torabi S",
+    "Zahra F"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Disinfectants and antiseptics are active chemical compounds known as biocides, which combat microorganisms on nonliving surfaces and human skin. Biocides such as alcohol, iodine, and chlorine have been used for many years. This activity describes some of the most commonly used disinfectants in hospitals and homes and their effectiveness.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK574540"
+  },
+  {
+   "pmid": "29939630",
+   "title": "Skin Antiseptics",
+   "authors": [
+    "Bednarek RS",
+    "Nassereddin A",
+    "Ramsey ML"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Antiseptics are chemical agents applied to the skin to reduce the microbial count and reduce the risk of surgical site infections (SSIs). SSIs are defined as an infection occurring at the surgical site within 30 days of the procedure and represent one of the most common complications of dermatologic surgery. Broad-spectrum antiseptics generally cover more pathogens and subsequently are some of the most popular in dermatologic surgery. Antiseptic agents in dermatologic surgery commonly include chlorhexidine, povidone-iodine, chloroxylenol, isopropyl alcohol, hexachlorophene, benzalkonium chloride, and hydrogen peroxide. They should be used for most, if not all, procedures that enter the dermis of the skin or deeper. This activity outlines the indications, mechanism of action, methods of administration, important adverse effects, contraindications, and monitoring of skin antiseptics, so providers can direct patient therapy where they are indicated as part of the interprofessional team.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK507853"
+  },
+  {
+   "pmid": "30725895",
+   "title": "Biosafety Guidelines",
+   "authors": [
+    "Bayot ML",
+    "Zubair M",
+    "Limaiem F"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Biosafety guidelines are a set of policies, rules, and procedures that personnel in various facilities handling microbiological agents must follow. These agents include bacteria, viruses, parasites, fungi, prions, and other related microbial products. Institutions that must strictly adhere to biosafety guidelines include clinical and microbiological laboratories, biomedical research facilities, teaching and training laboratories, and other healthcare institutions, such as clinics, health centers, and hospitals. These guidelines aim to ensure the proper management and regulation of biosafety programs and practices implemented at all levels of the organization. The essential components of biosafety guidelines vary depending on the facility and include the following: Bio-risk assessment and identification. Specific biosafety measures encompassing codes of practice and physical infrastructure, such as laboratory design and facilities. Equipment acquisition and maintenance. Medical surveillance. Staff training. Safe handling of chemicals. Safety protocols for fire, radiation, and electricity. Additional elements, such as commissioning and certification of facilities, may also be included. Biosafety guidelines must be clear, practical, and suitable for each facility, ensuring they are accessible to all staff and regularly reviewed and updated. Although these guidelines provide guidance on biosafety practices, a safe working environment requires the commitment of each personnel to consistently adhere to them. Ongoing research in biosafety can improve the development of future guidelines.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK537210"
+  },
+  {
+   "pmid": "31985927",
+   "title": "Probiotics",
+   "authors": [
+    "Shahrokhi M",
+    "Nagalli S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Probiotics are used in managing and treating a variety of disease states. They are live microorganisms that are known to help improve gut health. This activity reviews the current indications for the use of probiotics, also highlighting the few contraindications. This activity will also explain the mechanism of action and critical factors that are important for the interprofessional team in terms of treatment and management of patients with various gut disorders.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK553134"
   },
   {
    "pmid": "28722861",
@@ -35390,6 +35646,1206 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "research is moving from descriptive microbiota census analyses to cause-and-effect studies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-20452953-1-en",
+   "translationKey": "micro-20452953-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What surrounds the thin peptidoglycan wall of gram-negative bacteria?",
+   "options": [
+    "An outer membrane containing lipopolysaccharide",
+    "A thick layer of teichoic acids",
+    "A mycolic acid layer",
+    "Nothing"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Gram-negatives have a thin peptidoglycan layer plus an outer membrane with LPS.",
+   "shortExplanation": "Outer membrane with LPS.",
+   "pmid": "20452953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Gram-negative bacteria are surrounded by a thin peptidoglycan cell wall, which itself is surrounded by an outer membrane containing lipopolysaccharide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-20452953-1-es",
+   "translationKey": "micro-20452953-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué rodea a la delgada pared de peptidoglucano de las bacterias gramnegativas?",
+   "options": [
+    "Una membrana externa con lipopolisacárido",
+    "Una capa gruesa de ácidos teicoicos",
+    "Una capa de ácidos micólicos",
+    "Nada"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las gramnegativas tienen una capa delgada de peptidoglucano más una membrana externa con LPS.",
+   "shortExplanation": "Membrana externa con LPS.",
+   "pmid": "20452953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Gram-negative bacteria are surrounded by a thin peptidoglycan cell wall, which itself is surrounded by an outer membrane containing lipopolysaccharide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-20452953-2-en",
+   "translationKey": "micro-20452953-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What characterizes the cell wall of gram-positive bacteria?",
+   "options": [
+    "An outer membrane with LPS",
+    "No cell wall at all",
+    "A thick peptidoglycan layer and no outer membrane",
+    "A wall made of chitin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Gram-positives lack an outer membrane but have a much thicker peptidoglycan layer — why they retain crystal violet.",
+   "shortExplanation": "Thick peptidoglycan.",
+   "pmid": "20452953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Gram-positive bacteria lack an outer membrane but are surrounded by layers of peptidoglycan many times thicker than is found in the gram-negatives",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-20452953-2-es",
+   "translationKey": "micro-20452953-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué caracteriza la pared de las bacterias grampositivas?",
+   "options": [
+    "Una membrana externa con LPS",
+    "No tienen pared",
+    "Una capa gruesa de peptidoglucano y sin membrana externa",
+    "Una pared de quitina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las grampositivas no tienen membrana externa pero sí una capa de peptidoglucano mucho más gruesa; por eso retienen el cristal violeta.",
+   "shortExplanation": "Peptidoglucano grueso.",
+   "pmid": "20452953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Gram-positive bacteria lack an outer membrane but are surrounded by layers of peptidoglycan many times thicker than is found in the gram-negatives",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-20452953-3-en",
+   "translationKey": "micro-20452953-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which anionic polymers are threaded through the peptidoglycan of gram-positive bacteria?",
+   "options": [
+    "Mycolic acids",
+    "Lipopolysaccharides",
+    "Chitin chains",
+    "Teichoic acids"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Teichoic acids are long anionic polymers characteristic of the gram-positive wall.",
+   "shortExplanation": "Teichoic acids.",
+   "pmid": "20452953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Threading through these layers of peptidoglycan are long anionic polymers, called teichoic acids",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-20452953-3-es",
+   "translationKey": "micro-20452953-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué polímeros aniónicos atraviesan el peptidoglucano de las grampositivas?",
+   "options": [
+    "Ácidos micólicos",
+    "Lipopolisacáridos",
+    "Cadenas de quitina",
+    "Ácidos teicoicos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los ácidos teicoicos son polímeros aniónicos largos característicos de la pared grampositiva.",
+   "shortExplanation": "Ácidos teicoicos.",
+   "pmid": "20452953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Threading through these layers of peptidoglycan are long anionic polymers, called teichoic acids",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-15627373-1-en",
+   "translationKey": "micro-15627373-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What is the main function of bacterial flagella?",
+   "options": [
+    "Attachment to DNA",
+    "Motility (movement)",
+    "Photosynthesis",
+    "Storing food"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Flagella are the motility organelles of bacteria and archaea.",
+   "shortExplanation": "Movement.",
+   "pmid": "15627373",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacterial and archaeal flagella as prokaryotic motility organelles",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-15627373-1-es",
+   "translationKey": "micro-15627373-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la función principal de los flagelos bacterianos?",
+   "options": [
+    "Unirse al ADN",
+    "La movilidad",
+    "La fotosíntesis",
+    "Almacenar alimento"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los flagelos son los organelos de movilidad de bacterias y arqueas.",
+   "shortExplanation": "Movilidad.",
+   "pmid": "15627373",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacterial and archaeal flagella as prokaryotic motility organelles",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34522083-1-en",
+   "translationKey": "micro-34522083-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How do pore-forming toxins damage host cells?",
+   "options": [
+    "By cutting DNA",
+    "By blocking protein synthesis",
+    "By creating pores in the cell membrane",
+    "By binding antibodies"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Pore-forming toxins insert into host membranes and create pores, disrupting cells.",
+   "shortExplanation": "Membrane pores.",
+   "pmid": "34522083",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They are special membrane-targeting proteins that exert toxic effects by forming pores in the cell membrane",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34522083-1-es",
+   "translationKey": "micro-34522083-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo dañan las toxinas formadoras de poros a las células del huésped?",
+   "options": [
+    "Cortando el ADN",
+    "Bloqueando la síntesis de proteínas",
+    "Creando poros en la membrana celular",
+    "Uniéndose a anticuerpos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las toxinas formadoras de poros se insertan en la membrana y abren poros que alteran la célula.",
+   "shortExplanation": "Poros en la membrana.",
+   "pmid": "34522083",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They are special membrane-targeting proteins that exert toxic effects by forming pores in the cell membrane",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-8166997-1-en",
+   "translationKey": "micro-8166997-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How do superantigens activate so many T cells?",
+   "options": [
+    "They cross-link the TCR Vβ region with MHC class II outside the peptide groove",
+    "They are presented as normal peptides",
+    "They activate B cells only",
+    "They kill antigen-presenting cells"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Superantigens bridge MHC II and the TCR Vβ chain outside the peptide-binding site, activating huge numbers of T cells.",
+   "shortExplanation": "Cross-link TCR Vβ and MHC II.",
+   "pmid": "8166997",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "they cross-link variable parts of the T-cell receptor (TCR) with MHC class II molecules on accessory or target cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-8166997-1-es",
+   "translationKey": "micro-8166997-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo activan los superantígenos a tantos linfocitos T?",
+   "options": [
+    "Unen la región Vβ del TCR con el MHC II por fuera del surco peptídico",
+    "Se presentan como péptidos normales",
+    "Solo activan linfocitos B",
+    "Matan a las células presentadoras"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los superantígenos conectan el MHC II con la cadena Vβ del TCR fuera del sitio de unión del péptido y activan enormes cantidades de linfocitos T.",
+   "shortExplanation": "Unen TCR Vβ y MHC II.",
+   "pmid": "8166997",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "they cross-link variable parts of the T-cell receptor (TCR) with MHC class II molecules on accessory or target cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-8166997-2-en",
+   "translationKey": "micro-8166997-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which molecule is the prototype superantigen?",
+   "options": [
+    "Cholera toxin",
+    "Tetanospasmin",
+    "Lipid A",
+    "Staphylococcal enterotoxin B"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "SEB, from S. aureus, is the prototype; S. pyogenes produces related superantigens.",
+   "shortExplanation": "Staphylococcal enterotoxin B.",
+   "pmid": "8166997",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The prototype superantigen is the staphylococcal enterotoxin B (SEB)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-8166997-2-es",
+   "translationKey": "micro-8166997-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué molécula es el prototipo de superantígeno?",
+   "options": [
+    "Toxina colérica",
+    "Tetanospasmina",
+    "Lípido A",
+    "Enterotoxina B estafilocócica"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La SEB de S. aureus es el prototipo; S. pyogenes produce superantígenos emparentados.",
+   "shortExplanation": "Enterotoxina B estafilocócica.",
+   "pmid": "8166997",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The prototype superantigen is the staphylococcal enterotoxin B (SEB)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16703338-1-en",
+   "translationKey": "micro-16703338-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What are Koch's postulates for?",
+   "options": [
+    "Classifying antibiotics",
+    "Establishing that a microbe causes a specific disease",
+    "Measuring immunity",
+    "Naming bacteria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Koch's postulates are criteria to link a specific microbe to a specific disease; prions and viruses challenged them.",
+   "shortExplanation": "Microbe → disease causation.",
+   "pmid": "16703338",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Koch's postulates were formulated in the late nineteenth century as guidelines for establishing that microbes cause specific diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16703338-1-es",
+   "translationKey": "micro-16703338-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Para qué sirven los postulados de Koch?",
+   "options": [
+    "Clasificar antibióticos",
+    "Establecer que un microbio causa una enfermedad específica",
+    "Medir la inmunidad",
+    "Nombrar bacterias"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los postulados de Koch son criterios para vincular un microbio con una enfermedad; los priones y virus los pusieron a prueba.",
+   "shortExplanation": "Causalidad microbio → enfermedad.",
+   "pmid": "16703338",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Koch's postulates were formulated in the late nineteenth century as guidelines for establishing that microbes cause specific diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16703338-2-en",
+   "translationKey": "micro-16703338-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Why are Koch's original postulates hard to apply to viruses and prions?",
+   "options": [
+    "They are too large to see",
+    "They only infect plants",
+    "The postulates were designed for living, culturable agents like bacteria",
+    "They cannot cause disease"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The postulates assume culturable living agents; viruses and infectious proteins don't fit easily.",
+   "shortExplanation": "Designed for culturable bacteria.",
+   "pmid": "16703338",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "their applicability to inanimate pathogens such as viruses and infectious proteins has been problematic",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16703338-2-es",
+   "translationKey": "micro-16703338-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué los postulados originales de Koch son difíciles de aplicar a virus y priones?",
+   "options": [
+    "Son demasiado grandes para verlos",
+    "Solo infectan plantas",
+    "Los postulados se diseñaron para agentes vivos cultivables como bacterias",
+    "No causan enfermedad"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los postulados suponen agentes vivos cultivables; los virus y las proteínas infecciosas no encajan fácilmente.",
+   "shortExplanation": "Pensados para bacterias cultivables.",
+   "pmid": "16703338",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "their applicability to inanimate pathogens such as viruses and infectious proteins has been problematic",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19768627-1-en",
+   "translationKey": "micro-19768627-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Why do anaerobic bacteria require special culture methods?",
+   "options": [
+    "They must be grown without oxygen",
+    "They only grow at 4 °C",
+    "They need light",
+    "They grow only in humans"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Anaerobes are inhibited or killed by oxygen, so they need specialized oxygen-free culture techniques.",
+   "shortExplanation": "No oxygen.",
+   "pmid": "19768627",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The study of anaerobic bacteria requires specialized techniques",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19768627-1-es",
+   "translationKey": "micro-19768627-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Por qué las bacterias anaerobias requieren métodos de cultivo especiales?",
+   "options": [
+    "Deben cultivarse sin oxígeno",
+    "Solo crecen a 4 °C",
+    "Necesitan luz",
+    "Solo crecen en humanos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El oxígeno inhibe o mata a los anaerobios, por eso necesitan técnicas de cultivo sin oxígeno.",
+   "shortExplanation": "Sin oxígeno.",
+   "pmid": "19768627",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The study of anaerobic bacteria requires specialized techniques",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-21413251-1-en",
+   "translationKey": "micro-21413251-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How can rickettsiae be grown in the laboratory?",
+   "options": [
+    "On blood agar",
+    "In nutrient broth",
+    "On MacConkey agar",
+    "Only in living eukaryotic cells (cell culture, eggs, animals)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Rickettsiae are obligate intracellular bacteria that only grow in living host cells.",
+   "shortExplanation": "In living cells.",
+   "pmid": "21413251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In the laboratory, rickettsiae cannot be cultivated on agar plates or in broth, but only in viable eukaryotic host cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-21413251-1-es",
+   "translationKey": "micro-21413251-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se cultivan las rickettsias en el laboratorio?",
+   "options": [
+    "En agar sangre",
+    "En caldo nutritivo",
+    "En agar MacConkey",
+    "Solo en células eucariotas vivas (cultivos celulares, huevos, animales)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las rickettsias son bacterias intracelulares obligadas que solo crecen en células vivas.",
+   "shortExplanation": "En células vivas.",
+   "pmid": "21413251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In the laboratory, rickettsiae cannot be cultivated on agar plates or in broth, but only in viable eukaryotic host cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-21413251-2-en",
+   "translationKey": "micro-21413251-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How are most rickettsioses transmitted to humans?",
+   "options": [
+    "By contaminated water",
+    "By arthropods such as ticks, mites, fleas and lice",
+    "Through blood transfusion",
+    "Through the air only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Most rickettsioses are arthropod-borne zoonoses; Q fever (Coxiella) is the exception, mostly airborne.",
+   "shortExplanation": "Arthropods.",
+   "pmid": "21413251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rickettsioses are zoonoses that, except for Q fever, are usually transmitted to humans by arthropods",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-21413251-2-es",
+   "translationKey": "micro-21413251-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se transmiten al ser humano la mayoría de las rickettsiosis?",
+   "options": [
+    "Por agua contaminada",
+    "Por artrópodos como garrapatas, ácaros, pulgas y piojos",
+    "Por transfusión",
+    "Solo por el aire"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La mayoría de las rickettsiosis son zoonosis transmitidas por artrópodos; la fiebre Q (Coxiella) es la excepción, sobre todo aérea.",
+   "shortExplanation": "Artrópodos.",
+   "pmid": "21413251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rickettsioses are zoonoses that, except for Q fever, are usually transmitted to humans by arthropods",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-21413251-3-en",
+   "translationKey": "micro-21413251-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which metabolic difference separates rickettsiae from chlamydiae?",
+   "options": [
+    "Rickettsiae can synthesize ATP; chlamydiae depend on host ATP",
+    "Chlamydiae have flagella",
+    "Rickettsiae are fungi",
+    "Chlamydiae are free-living"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Both are obligate intracellular, but rickettsiae make their own ATP, unlike chlamydiae ('energy parasites').",
+   "shortExplanation": "Rickettsiae make ATP.",
+   "pmid": "21413251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In contrast with chlamydiae, all rickettsiae can synthesize ATP",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-21413251-3-es",
+   "translationKey": "micro-21413251-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué diferencia metabólica separa a las rickettsias de las clamidias?",
+   "options": [
+    "Las rickettsias sintetizan ATP; las clamidias dependen del ATP del huésped",
+    "Las clamidias tienen flagelos",
+    "Las rickettsias son hongos",
+    "Las clamidias son de vida libre"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Ambas son intracelulares obligadas, pero las rickettsias producen su ATP, a diferencia de las clamidias ('parásitos energéticos').",
+   "shortExplanation": "Rickettsias producen ATP.",
+   "pmid": "21413251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In contrast with chlamydiae, all rickettsiae can synthesize ATP",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-39572454-1-en",
+   "translationKey": "micro-39572454-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What are prions?",
+   "options": [
+    "Very small bacteria",
+    "Viruses without a capsid",
+    "Fungal spores",
+    "Infectious protein particles causing fatal neurodegenerative diseases"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Prions are proteinaceous infectious particles behind fatal neurodegenerative diseases such as CJD and BSE.",
+   "shortExplanation": "Infectious proteins.",
+   "pmid": "39572454",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prions are proteinaceous infectious particles implicated in fatal neurodegenerative disorders",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-39572454-1-es",
+   "translationKey": "micro-39572454-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué son los priones?",
+   "options": [
+    "Bacterias muy pequeñas",
+    "Virus sin cápside",
+    "Esporas fúngicas",
+    "Partículas proteicas infecciosas que causan enfermedades neurodegenerativas mortales"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los priones son partículas proteicas infecciosas responsables de enfermedades neurodegenerativas mortales como la ECJ y la EEB.",
+   "shortExplanation": "Proteínas infecciosas.",
+   "pmid": "39572454",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prions are proteinaceous infectious particles implicated in fatal neurodegenerative disorders",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-9811807-1-en",
+   "translationKey": "micro-9811807-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What makes prions unique among infectious agents?",
+   "options": [
+    "They have a double DNA genome",
+    "They are the largest pathogens",
+    "They lack nucleic acid and consist of a modified protein (PrPSc)",
+    "They are always treatable"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Prions contain no nucleic acid; they are misfolded PrPSc that converts normal PrPC.",
+   "shortExplanation": "No nucleic acid.",
+   "pmid": "9811807",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prions are transmissible particles that are devoid of nucleic acid and seem to be composed exclusively of a modified protein (PrPSc)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-9811807-1-es",
+   "translationKey": "micro-9811807-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué hace únicos a los priones entre los agentes infecciosos?",
+   "options": [
+    "Tienen un genoma doble de ADN",
+    "Son los patógenos más grandes",
+    "No tienen ácido nucleico y son una proteína modificada (PrPSc)",
+    "Siempre tienen tratamiento"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los priones no contienen ácido nucleico; son PrPSc mal plegada que convierte a la PrPC normal.",
+   "shortExplanation": "Sin ácido nucleico.",
+   "pmid": "9811807",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prions are transmissible particles that are devoid of nucleic acid and seem to be composed exclusively of a modified protein (PrPSc)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-9811807-2-en",
+   "translationKey": "micro-9811807-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What structural change occurs when normal prion protein becomes the disease form?",
+   "options": [
+    "It loses all amino acids",
+    "It acquires a high beta-sheet content",
+    "It gains a DNA tail",
+    "It becomes a lipid"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "PrPC is refolded post-translationally into PrPSc, rich in beta-sheets, which templates further conversion.",
+   "shortExplanation": "More beta-sheet.",
+   "pmid": "9811807",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The normal, cellular PrP (PrPC) is converted into PrPSc through a posttranslational process during which it acquires a high beta-sheet content",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-9811807-2-es",
+   "translationKey": "micro-9811807-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué cambio estructural ocurre cuando la proteína priónica normal pasa a la forma patológica?",
+   "options": [
+    "Pierde todos sus aminoácidos",
+    "Adquiere un alto contenido de láminas beta",
+    "Gana una cola de ADN",
+    "Se convierte en lípido"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La PrPC se repliega postraduccionalmente en PrPSc, rica en láminas beta, que sirve de molde para más conversión.",
+   "shortExplanation": "Más láminas beta.",
+   "pmid": "9811807",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The normal, cellular PrP (PrPC) is converted into PrPSc through a posttranslational process during which it acquires a high beta-sheet content",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28108122-1-en",
+   "translationKey": "micro-28108122-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why has MALDI-TOF mass spectrometry become routine in clinical microbiology?",
+   "options": [
+    "It identifies microorganisms quickly and reliably",
+    "It replaces all cultures",
+    "It measures antibiotic levels in blood",
+    "It sequences whole genomes"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "MALDI-TOF identifies bacteria and yeasts quickly and reliably from colonies (and directly from positive blood cultures).",
+   "shortExplanation": "Fast, reliable ID.",
+   "pmid": "28108122",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "MALDI-TOF mass spectrometry is now a routine resource in Clinical Microbiology, because of its speed and reliability in the identification of microorganisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28108122-1-es",
+   "translationKey": "micro-28108122-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la espectrometría de masas MALDI-TOF se volvió rutina en microbiología clínica?",
+   "options": [
+    "Identifica microorganismos de forma rápida y confiable",
+    "Reemplaza todos los cultivos",
+    "Mide niveles de antibióticos",
+    "Secuencia genomas completos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "MALDI-TOF identifica bacterias y levaduras rápido y con fiabilidad a partir de colonias (y directo de hemocultivos positivos).",
+   "shortExplanation": "Identificación rápida.",
+   "pmid": "28108122",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "MALDI-TOF mass spectrometry is now a routine resource in Clinical Microbiology, because of its speed and reliability in the identification of microorganisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28108122-2-en",
+   "translationKey": "micro-28108122-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "For which organisms is MALDI-TOF identification more complex?",
+   "options": [
+    "Gram-negative rods",
+    "Staphylococci",
+    "Common yeasts",
+    "Mycobacteria and molds"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mycobacteria and molds have heterogeneous spectra within species, requiring larger libraries and more complex methods.",
+   "shortExplanation": "Mycobacteria and molds.",
+   "pmid": "28108122",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The identification of mycobacteria and moulds is more complex, due to the heterogeneity of spectra within each species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28108122-2-es",
+   "translationKey": "micro-28108122-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Para qué organismos es más compleja la identificación por MALDI-TOF?",
+   "options": [
+    "Bacilos gramnegativos",
+    "Estafilococos",
+    "Levaduras comunes",
+    "Micobacterias y hongos filamentosos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las micobacterias y los mohos tienen espectros heterogéneos dentro de cada especie y requieren bibliotecas más amplias.",
+   "shortExplanation": "Micobacterias y mohos.",
+   "pmid": "28108122",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The identification of mycobacteria and moulds is more complex, due to the heterogeneity of spectra within each species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28108122-3-en",
+   "translationKey": "micro-28108122-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What advantage do chromogenic culture media offer?",
+   "options": [
+    "They kill all bacteria",
+    "They replace microscopy",
+    "Colonies show colors that speed identification and reveal mixed cultures",
+    "They are only for viruses"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Chromogenic media color colonies by species-specific enzymes, accelerating diagnosis and detecting mixed or resistant cultures.",
+   "shortExplanation": "Colored colonies speed ID.",
+   "pmid": "28108122",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Chromogenic media have also contributed to the rapid diagnosis in both bacteria and yeast",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28108122-3-es",
+   "translationKey": "micro-28108122-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué ventaja ofrecen los medios de cultivo cromogénicos?",
+   "options": [
+    "Matan todas las bacterias",
+    "Reemplazan la microscopía",
+    "Las colonias toman colores que aceleran la identificación y muestran cultivos mixtos",
+    "Solo sirven para virus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los medios cromogénicos colorean las colonias según enzimas específicas, acelerando el diagnóstico y detectando cultivos mixtos o resistentes.",
+   "shortExplanation": "Colonias de color.",
+   "pmid": "28108122",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Chromogenic media have also contributed to the rapid diagnosis in both bacteria and yeast",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-35453179-1-en",
+   "translationKey": "micro-35453179-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why do physicians often prescribe empirical broad-spectrum antibiotics before results arrive?",
+   "options": [
+    "Lab tests are always wrong",
+    "Classic susceptibility testing is time-consuming",
+    "Antibiotics have no side effects",
+    "Patients prefer them"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Conventional AST takes time, so empirical therapy is started; faster AST supports stewardship.",
+   "shortExplanation": "Classic AST is slow.",
+   "pmid": "35453179",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "classic technologies used in clinical microbiology to profile antimicrobial susceptibility are time-consuming",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-35453179-1-es",
+   "translationKey": "micro-35453179-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué se indican con frecuencia antibióticos empíricos de amplio espectro antes de los resultados?",
+   "options": [
+    "Los análisis siempre fallan",
+    "Las pruebas clásicas de sensibilidad tardan",
+    "Los antibióticos no tienen efectos adversos",
+    "Los pacientes los prefieren"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El antibiograma convencional tarda, por eso se inicia tratamiento empírico; pruebas más rápidas ayudan al uso racional.",
+   "shortExplanation": "El antibiograma clásico tarda.",
+   "pmid": "35453179",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "classic technologies used in clinical microbiology to profile antimicrobial susceptibility are time-consuming",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34662054-1-en",
+   "translationKey": "micro-34662054-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What is the difference between disinfectants and antiseptics?",
+   "options": [
+    "There is none",
+    "Antiseptics are antibiotics",
+    "Disinfectants act on surfaces; antiseptics on skin and living tissue",
+    "Disinfectants are only for food"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Both are biocides; disinfectants are used on nonliving surfaces and antiseptics on skin.",
+   "shortExplanation": "Surfaces vs. skin.",
+   "pmid": "34662054",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Disinfectants and antiseptics are active chemical compounds known as biocides, which combat microorganisms on nonliving surfaces and human skin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34662054-1-es",
+   "translationKey": "micro-34662054-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué diferencia hay entre desinfectantes y antisépticos?",
+   "options": [
+    "Ninguna",
+    "Los antisépticos son antibióticos",
+    "Los desinfectantes actúan sobre superficies; los antisépticos sobre piel y tejido vivo",
+    "Los desinfectantes son solo para alimentos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Ambos son biocidas; los desinfectantes se usan en superficies inertes y los antisépticos sobre la piel.",
+   "shortExplanation": "Superficies vs. piel.",
+   "pmid": "34662054",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Disinfectants and antiseptics are active chemical compounds known as biocides, which combat microorganisms on nonliving surfaces and human skin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29939630-1-en",
+   "translationKey": "micro-29939630-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which agents are common skin antiseptics before surgery?",
+   "options": [
+    "Penicillin and amoxicillin",
+    "Fluconazole and nystatin",
+    "Ibuprofen and paracetamol",
+    "Chlorhexidine and povidone-iodine"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Chlorhexidine, povidone-iodine and alcohols are common antiseptics to reduce surgical site infections.",
+   "shortExplanation": "Chlorhexidine, povidone-iodine.",
+   "pmid": "29939630",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antiseptic agents in dermatologic surgery commonly include chlorhexidine, povidone-iodine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29939630-1-es",
+   "translationKey": "micro-29939630-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué agentes son antisépticos de piel comunes antes de una cirugía?",
+   "options": [
+    "Penicilina y amoxicilina",
+    "Fluconazol y nistatina",
+    "Ibuprofeno y paracetamol",
+    "Clorhexidina y povidona yodada"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La clorhexidina, la povidona yodada y los alcoholes son antisépticos comunes para reducir infecciones del sitio quirúrgico.",
+   "shortExplanation": "Clorhexidina, povidona yodada.",
+   "pmid": "29939630",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antiseptic agents in dermatologic surgery commonly include chlorhexidine, povidone-iodine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29939630-2-en",
+   "translationKey": "micro-29939630-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How is a surgical site infection defined in time?",
+   "options": [
+    "Infection at the surgical site within 30 days of the procedure",
+    "Any infection during life after surgery",
+    "Infection within 1 hour",
+    "Only infections of the blood"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "SSIs are infections at the surgical site within 30 days of the procedure.",
+   "shortExplanation": "Within 30 days.",
+   "pmid": "29939630",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "SSIs are defined as an infection occurring at the surgical site within 30 days of the procedure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29939630-2-es",
+   "translationKey": "micro-29939630-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se define temporalmente una infección del sitio quirúrgico?",
+   "options": [
+    "Infección en el sitio quirúrgico dentro de los 30 días del procedimiento",
+    "Cualquier infección de por vida tras una cirugía",
+    "Infección dentro de 1 hora",
+    "Solo infecciones de la sangre"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las ISQ son infecciones en el sitio quirúrgico dentro de los 30 días del procedimiento.",
+   "shortExplanation": "Dentro de 30 días.",
+   "pmid": "29939630",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "SSIs are defined as an infection occurring at the surgical site within 30 days of the procedure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30725895-1-en",
+   "translationKey": "micro-30725895-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What are biosafety guidelines?",
+   "options": [
+    "Rules for prescribing antibiotics",
+    "Policies and procedures for safely handling microbiological agents",
+    "Instructions for cooking",
+    "Guidelines for vaccine prices"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Biosafety guidelines govern safe handling of microbes in labs and healthcare: risk assessment, practices, equipment, training.",
+   "shortExplanation": "Safe handling of microbes.",
+   "pmid": "30725895",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Biosafety guidelines are a set of policies, rules, and procedures that personnel in various facilities handling microbiological agents must follow",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30725895-1-es",
+   "translationKey": "micro-30725895-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué son las normas de bioseguridad?",
+   "options": [
+    "Reglas para recetar antibióticos",
+    "Políticas y procedimientos para manipular agentes microbiológicos de forma segura",
+    "Instrucciones de cocina",
+    "Pautas de precios de vacunas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La bioseguridad regula la manipulación segura de microbios en laboratorios y centros de salud: evaluación de riesgo, prácticas, equipos, capacitación.",
+   "shortExplanation": "Manipulación segura.",
+   "pmid": "30725895",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Biosafety guidelines are a set of policies, rules, and procedures that personnel in various facilities handling microbiological agents must follow",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31985927-1-en",
+   "translationKey": "micro-31985927-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What are probiotics?",
+   "options": [
+    "Live microorganisms that can benefit gut health",
+    "Antibiotics made by fungi",
+    "Dead viruses",
+    "Vitamins"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Probiotics are live microorganisms used to improve gut health in several conditions.",
+   "shortExplanation": "Beneficial live microbes.",
+   "pmid": "31985927",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They are live microorganisms that are known to help improve gut health",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31985927-1-es",
+   "translationKey": "micro-31985927-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué son los probióticos?",
+   "options": [
+    "Microorganismos vivos que pueden beneficiar la salud intestinal",
+    "Antibióticos producidos por hongos",
+    "Virus muertos",
+    "Vitaminas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los probióticos son microorganismos vivos usados para mejorar la salud intestinal en diversas situaciones.",
+   "shortExplanation": "Microbios vivos beneficiosos.",
+   "pmid": "31985927",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They are live microorganisms that are known to help improve gut health",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },

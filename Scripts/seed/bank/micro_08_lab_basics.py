@@ -1,0 +1,156 @@
+# General microbiology VIII — basics: cell envelope and structures, toxins, intracellular bacteria, prions,
+# Koch's postulates, laboratory identification, susceptibility testing, biosafety, antisepsis.
+# Sources: PubMed reviews and StatPearls chapters (abstracts). Excerpts verbatim.
+CATEGORY = "microbiology"
+Q = [
+# --- Cell envelope (20452953)
+("20452953", "beginner", 0, "Gram-negative bacteria are surrounded by a thin peptidoglycan cell wall, which itself is surrounded by an outer membrane containing lipopolysaccharide",
+ ("What surrounds the thin peptidoglycan wall of gram-negative bacteria?", ["An outer membrane containing lipopolysaccharide", "A thick layer of teichoic acids", "A mycolic acid layer", "Nothing"],
+  "Gram-negatives have a thin peptidoglycan layer plus an outer membrane with LPS.", "Outer membrane with LPS."),
+ ("¿Qué rodea a la delgada pared de peptidoglucano de las bacterias gramnegativas?", ["Una membrana externa con lipopolisacárido", "Una capa gruesa de ácidos teicoicos", "Una capa de ácidos micólicos", "Nada"],
+  "Las gramnegativas tienen una capa delgada de peptidoglucano más una membrana externa con LPS.", "Membrana externa con LPS.")),
+("20452953", "beginner", 2, "Gram-positive bacteria lack an outer membrane but are surrounded by layers of peptidoglycan many times thicker than is found in the gram-negatives",
+ ("What characterizes the cell wall of gram-positive bacteria?", ["An outer membrane with LPS", "No cell wall at all", "A thick peptidoglycan layer and no outer membrane", "A wall made of chitin"],
+  "Gram-positives lack an outer membrane but have a much thicker peptidoglycan layer — why they retain crystal violet.", "Thick peptidoglycan."),
+ ("¿Qué caracteriza la pared de las bacterias grampositivas?", ["Una membrana externa con LPS", "No tienen pared", "Una capa gruesa de peptidoglucano y sin membrana externa", "Una pared de quitina"],
+  "Las grampositivas no tienen membrana externa pero sí una capa de peptidoglucano mucho más gruesa; por eso retienen el cristal violeta.", "Peptidoglucano grueso.")),
+("20452953", "curious", 3, "Threading through these layers of peptidoglycan are long anionic polymers, called teichoic acids",
+ ("Which anionic polymers are threaded through the peptidoglycan of gram-positive bacteria?", ["Mycolic acids", "Lipopolysaccharides", "Chitin chains", "Teichoic acids"],
+  "Teichoic acids are long anionic polymers characteristic of the gram-positive wall.", "Teichoic acids."),
+ ("¿Qué polímeros aniónicos atraviesan el peptidoglucano de las grampositivas?", ["Ácidos micólicos", "Lipopolisacáridos", "Cadenas de quitina", "Ácidos teicoicos"],
+  "Los ácidos teicoicos son polímeros aniónicos largos característicos de la pared grampositiva.", "Ácidos teicoicos.")),
+
+# --- Flagella (15627373)
+("15627373", "beginner", 1, "Bacterial and archaeal flagella as prokaryotic motility organelles",
+ ("What is the main function of bacterial flagella?", ["Attachment to DNA", "Motility (movement)", "Photosynthesis", "Storing food"],
+  "Flagella are the motility organelles of bacteria and archaea.", "Movement."),
+ ("¿Cuál es la función principal de los flagelos bacterianos?", ["Unirse al ADN", "La movilidad", "La fotosíntesis", "Almacenar alimento"],
+  "Los flagelos son los organelos de movilidad de bacterias y arqueas.", "Movilidad.")),
+
+# --- Pore-forming toxins (34522083)
+("34522083", "explorer", 2, "They are special membrane-targeting proteins that exert toxic effects by forming pores in the cell membrane",
+ ("How do pore-forming toxins damage host cells?", ["By cutting DNA", "By blocking protein synthesis", "By creating pores in the cell membrane", "By binding antibodies"],
+  "Pore-forming toxins insert into host membranes and create pores, disrupting cells.", "Membrane pores."),
+ ("¿Cómo dañan las toxinas formadoras de poros a las células del huésped?", ["Cortando el ADN", "Bloqueando la síntesis de proteínas", "Creando poros en la membrana celular", "Uniéndose a anticuerpos"],
+  "Las toxinas formadoras de poros se insertan en la membrana y abren poros que alteran la célula.", "Poros en la membrana.")),
+
+# --- Superantigens (8166997)
+("8166997", "researcher", 0, "they cross-link variable parts of the T-cell receptor (TCR) with MHC class II molecules on accessory or target cells",
+ ("How do superantigens activate so many T cells?", ["They cross-link the TCR Vβ region with MHC class II outside the peptide groove", "They are presented as normal peptides", "They activate B cells only", "They kill antigen-presenting cells"],
+  "Superantigens bridge MHC II and the TCR Vβ chain outside the peptide-binding site, activating huge numbers of T cells.", "Cross-link TCR Vβ and MHC II."),
+ ("¿Cómo activan los superantígenos a tantos linfocitos T?", ["Unen la región Vβ del TCR con el MHC II por fuera del surco peptídico", "Se presentan como péptidos normales", "Solo activan linfocitos B", "Matan a las células presentadoras"],
+  "Los superantígenos conectan el MHC II con la cadena Vβ del TCR fuera del sitio de unión del péptido y activan enormes cantidades de linfocitos T.", "Unen TCR Vβ y MHC II.")),
+("8166997", "expert", 3, "The prototype superantigen is the staphylococcal enterotoxin B (SEB)",
+ ("Which molecule is the prototype superantigen?", ["Cholera toxin", "Tetanospasmin", "Lipid A", "Staphylococcal enterotoxin B"],
+  "SEB, from S. aureus, is the prototype; S. pyogenes produces related superantigens.", "Staphylococcal enterotoxin B."),
+ ("¿Qué molécula es el prototipo de superantígeno?", ["Toxina colérica", "Tetanospasmina", "Lípido A", "Enterotoxina B estafilocócica"],
+  "La SEB de S. aureus es el prototipo; S. pyogenes produce superantígenos emparentados.", "Enterotoxina B estafilocócica.")),
+
+# --- Koch (16703338)
+("16703338", "curious", 1, "Koch's postulates were formulated in the late nineteenth century as guidelines for establishing that microbes cause specific diseases",
+ ("What are Koch's postulates for?", ["Classifying antibiotics", "Establishing that a microbe causes a specific disease", "Measuring immunity", "Naming bacteria"],
+  "Koch's postulates are criteria to link a specific microbe to a specific disease; prions and viruses challenged them.", "Microbe → disease causation."),
+ ("¿Para qué sirven los postulados de Koch?", ["Clasificar antibióticos", "Establecer que un microbio causa una enfermedad específica", "Medir la inmunidad", "Nombrar bacterias"],
+  "Los postulados de Koch son criterios para vincular un microbio con una enfermedad; los priones y virus los pusieron a prueba.", "Causalidad microbio → enfermedad.")),
+("16703338", "researcher", 2, "their applicability to inanimate pathogens such as viruses and infectious proteins has been problematic",
+ ("Why are Koch's original postulates hard to apply to viruses and prions?", ["They are too large to see", "They only infect plants", "The postulates were designed for living, culturable agents like bacteria", "They cannot cause disease"],
+  "The postulates assume culturable living agents; viruses and infectious proteins don't fit easily.", "Designed for culturable bacteria."),
+ ("¿Por qué los postulados originales de Koch son difíciles de aplicar a virus y priones?", ["Son demasiado grandes para verlos", "Solo infectan plantas", "Los postulados se diseñaron para agentes vivos cultivables como bacterias", "No causan enfermedad"],
+  "Los postulados suponen agentes vivos cultivables; los virus y las proteínas infecciosas no encajan fácilmente.", "Pensados para bacterias cultivables.")),
+
+# --- Anaerobes (19768627)
+("19768627", "curious", 0, "The study of anaerobic bacteria requires specialized techniques",
+ ("Why do anaerobic bacteria require special culture methods?", ["They must be grown without oxygen", "They only grow at 4 °C", "They need light", "They grow only in humans"],
+  "Anaerobes are inhibited or killed by oxygen, so they need specialized oxygen-free culture techniques.", "No oxygen."),
+ ("¿Por qué las bacterias anaerobias requieren métodos de cultivo especiales?", ["Deben cultivarse sin oxígeno", "Solo crecen a 4 °C", "Necesitan luz", "Solo crecen en humanos"],
+  "El oxígeno inhibe o mata a los anaerobios, por eso necesitan técnicas de cultivo sin oxígeno.", "Sin oxígeno.")),
+
+# --- Rickettsiae (21413251)
+("21413251", "explorer", 3, "In the laboratory, rickettsiae cannot be cultivated on agar plates or in broth, but only in viable eukaryotic host cells",
+ ("How can rickettsiae be grown in the laboratory?", ["On blood agar", "In nutrient broth", "On MacConkey agar", "Only in living eukaryotic cells (cell culture, eggs, animals)"],
+  "Rickettsiae are obligate intracellular bacteria that only grow in living host cells.", "In living cells."),
+ ("¿Cómo se cultivan las rickettsias en el laboratorio?", ["En agar sangre", "En caldo nutritivo", "En agar MacConkey", "Solo en células eucariotas vivas (cultivos celulares, huevos, animales)"],
+  "Las rickettsias son bacterias intracelulares obligadas que solo crecen en células vivas.", "En células vivas.")),
+("21413251", "researcher", 1, "Rickettsioses are zoonoses that, except for Q fever, are usually transmitted to humans by arthropods",
+ ("How are most rickettsioses transmitted to humans?", ["By contaminated water", "By arthropods such as ticks, mites, fleas and lice", "Through blood transfusion", "Through the air only"],
+  "Most rickettsioses are arthropod-borne zoonoses; Q fever (Coxiella) is the exception, mostly airborne.", "Arthropods."),
+ ("¿Cómo se transmiten al ser humano la mayoría de las rickettsiosis?", ["Por agua contaminada", "Por artrópodos como garrapatas, ácaros, pulgas y piojos", "Por transfusión", "Solo por el aire"],
+  "La mayoría de las rickettsiosis son zoonosis transmitidas por artrópodos; la fiebre Q (Coxiella) es la excepción, sobre todo aérea.", "Artrópodos.")),
+("21413251", "expert", 0, "In contrast with chlamydiae, all rickettsiae can synthesize ATP",
+ ("Which metabolic difference separates rickettsiae from chlamydiae?", ["Rickettsiae can synthesize ATP; chlamydiae depend on host ATP", "Chlamydiae have flagella", "Rickettsiae are fungi", "Chlamydiae are free-living"],
+  "Both are obligate intracellular, but rickettsiae make their own ATP, unlike chlamydiae ('energy parasites').", "Rickettsiae make ATP."),
+ ("¿Qué diferencia metabólica separa a las rickettsias de las clamidias?", ["Las rickettsias sintetizan ATP; las clamidias dependen del ATP del huésped", "Las clamidias tienen flagelos", "Las rickettsias son hongos", "Las clamidias son de vida libre"],
+  "Ambas son intracelulares obligadas, pero las rickettsias producen su ATP, a diferencia de las clamidias ('parásitos energéticos').", "Rickettsias producen ATP.")),
+
+# --- Prions (9811807, 39572454)
+("39572454", "beginner", 3, "Prions are proteinaceous infectious particles implicated in fatal neurodegenerative disorders",
+ ("What are prions?", ["Very small bacteria", "Viruses without a capsid", "Fungal spores", "Infectious protein particles causing fatal neurodegenerative diseases"],
+  "Prions are proteinaceous infectious particles behind fatal neurodegenerative diseases such as CJD and BSE.", "Infectious proteins."),
+ ("¿Qué son los priones?", ["Bacterias muy pequeñas", "Virus sin cápside", "Esporas fúngicas", "Partículas proteicas infecciosas que causan enfermedades neurodegenerativas mortales"],
+  "Los priones son partículas proteicas infecciosas responsables de enfermedades neurodegenerativas mortales como la ECJ y la EEB.", "Proteínas infecciosas.")),
+("9811807", "researcher", 2, "Prions are transmissible particles that are devoid of nucleic acid and seem to be composed exclusively of a modified protein (PrPSc)",
+ ("What makes prions unique among infectious agents?", ["They have a double DNA genome", "They are the largest pathogens", "They lack nucleic acid and consist of a modified protein (PrPSc)", "They are always treatable"],
+  "Prions contain no nucleic acid; they are misfolded PrPSc that converts normal PrPC.", "No nucleic acid."),
+ ("¿Qué hace únicos a los priones entre los agentes infecciosos?", ["Tienen un genoma doble de ADN", "Son los patógenos más grandes", "No tienen ácido nucleico y son una proteína modificada (PrPSc)", "Siempre tienen tratamiento"],
+  "Los priones no contienen ácido nucleico; son PrPSc mal plegada que convierte a la PrPC normal.", "Sin ácido nucleico.")),
+("9811807", "expert", 1, "The normal, cellular PrP (PrPC) is converted into PrPSc through a posttranslational process during which it acquires a high beta-sheet content",
+ ("What structural change occurs when normal prion protein becomes the disease form?", ["It loses all amino acids", "It acquires a high beta-sheet content", "It gains a DNA tail", "It becomes a lipid"],
+  "PrPC is refolded post-translationally into PrPSc, rich in beta-sheets, which templates further conversion.", "More beta-sheet."),
+ ("¿Qué cambio estructural ocurre cuando la proteína priónica normal pasa a la forma patológica?", ["Pierde todos sus aminoácidos", "Adquiere un alto contenido de láminas beta", "Gana una cola de ADN", "Se convierte en lípido"],
+  "La PrPC se repliega postraduccionalmente en PrPSc, rica en láminas beta, que sirve de molde para más conversión.", "Más láminas beta.")),
+
+# --- MALDI-TOF (28108122)
+("28108122", "explorer", 0, "MALDI-TOF mass spectrometry is now a routine resource in Clinical Microbiology, because of its speed and reliability in the identification of microorganisms",
+ ("Why has MALDI-TOF mass spectrometry become routine in clinical microbiology?", ["It identifies microorganisms quickly and reliably", "It replaces all cultures", "It measures antibiotic levels in blood", "It sequences whole genomes"],
+  "MALDI-TOF identifies bacteria and yeasts quickly and reliably from colonies (and directly from positive blood cultures).", "Fast, reliable ID."),
+ ("¿Por qué la espectrometría de masas MALDI-TOF se volvió rutina en microbiología clínica?", ["Identifica microorganismos de forma rápida y confiable", "Reemplaza todos los cultivos", "Mide niveles de antibióticos", "Secuencia genomas completos"],
+  "MALDI-TOF identifica bacterias y levaduras rápido y con fiabilidad a partir de colonias (y directo de hemocultivos positivos).", "Identificación rápida.")),
+("28108122", "researcher", 3, "The identification of mycobacteria and moulds is more complex, due to the heterogeneity of spectra within each species",
+ ("For which organisms is MALDI-TOF identification more complex?", ["Gram-negative rods", "Staphylococci", "Common yeasts", "Mycobacteria and molds"],
+  "Mycobacteria and molds have heterogeneous spectra within species, requiring larger libraries and more complex methods.", "Mycobacteria and molds."),
+ ("¿Para qué organismos es más compleja la identificación por MALDI-TOF?", ["Bacilos gramnegativos", "Estafilococos", "Levaduras comunes", "Micobacterias y hongos filamentosos"],
+  "Las micobacterias y los mohos tienen espectros heterogéneos dentro de cada especie y requieren bibliotecas más amplias.", "Micobacterias y mohos.")),
+("28108122", "curious", 2, "Chromogenic media have also contributed to the rapid diagnosis in both bacteria and yeast",
+ ("What advantage do chromogenic culture media offer?", ["They kill all bacteria", "They replace microscopy", "Colonies show colors that speed identification and reveal mixed cultures", "They are only for viruses"],
+  "Chromogenic media color colonies by species-specific enzymes, accelerating diagnosis and detecting mixed or resistant cultures.", "Colored colonies speed ID."),
+ ("¿Qué ventaja ofrecen los medios de cultivo cromogénicos?", ["Matan todas las bacterias", "Reemplazan la microscopía", "Las colonias toman colores que aceleran la identificación y muestran cultivos mixtos", "Solo sirven para virus"],
+  "Los medios cromogénicos colorean las colonias según enzimas específicas, acelerando el diagnóstico y detectando cultivos mixtos o resistentes.", "Colonias de color.")),
+
+# --- AST (35453179)
+("35453179", "explorer", 1, "classic technologies used in clinical microbiology to profile antimicrobial susceptibility are time-consuming",
+ ("Why do physicians often prescribe empirical broad-spectrum antibiotics before results arrive?", ["Lab tests are always wrong", "Classic susceptibility testing is time-consuming", "Antibiotics have no side effects", "Patients prefer them"],
+  "Conventional AST takes time, so empirical therapy is started; faster AST supports stewardship.", "Classic AST is slow."),
+ ("¿Por qué se indican con frecuencia antibióticos empíricos de amplio espectro antes de los resultados?", ["Los análisis siempre fallan", "Las pruebas clásicas de sensibilidad tardan", "Los antibióticos no tienen efectos adversos", "Los pacientes los prefieren"],
+  "El antibiograma convencional tarda, por eso se inicia tratamiento empírico; pruebas más rápidas ayudan al uso racional.", "El antibiograma clásico tarda.")),
+
+# --- Disinfectants/antiseptics (34662054, 29939630)
+("34662054", "beginner", 2, "Disinfectants and antiseptics are active chemical compounds known as biocides, which combat microorganisms on nonliving surfaces and human skin",
+ ("What is the difference between disinfectants and antiseptics?", ["There is none", "Antiseptics are antibiotics", "Disinfectants act on surfaces; antiseptics on skin and living tissue", "Disinfectants are only for food"],
+  "Both are biocides; disinfectants are used on nonliving surfaces and antiseptics on skin.", "Surfaces vs. skin."),
+ ("¿Qué diferencia hay entre desinfectantes y antisépticos?", ["Ninguna", "Los antisépticos son antibióticos", "Los desinfectantes actúan sobre superficies; los antisépticos sobre piel y tejido vivo", "Los desinfectantes son solo para alimentos"],
+  "Ambos son biocidas; los desinfectantes se usan en superficies inertes y los antisépticos sobre la piel.", "Superficies vs. piel.")),
+("29939630", "curious", 3, "Antiseptic agents in dermatologic surgery commonly include chlorhexidine, povidone-iodine",
+ ("Which agents are common skin antiseptics before surgery?", ["Penicillin and amoxicillin", "Fluconazole and nystatin", "Ibuprofen and paracetamol", "Chlorhexidine and povidone-iodine"],
+  "Chlorhexidine, povidone-iodine and alcohols are common antiseptics to reduce surgical site infections.", "Chlorhexidine, povidone-iodine."),
+ ("¿Qué agentes son antisépticos de piel comunes antes de una cirugía?", ["Penicilina y amoxicilina", "Fluconazol y nistatina", "Ibuprofeno y paracetamol", "Clorhexidina y povidona yodada"],
+  "La clorhexidina, la povidona yodada y los alcoholes son antisépticos comunes para reducir infecciones del sitio quirúrgico.", "Clorhexidina, povidona yodada.")),
+("29939630", "explorer", 0, "SSIs are defined as an infection occurring at the surgical site within 30 days of the procedure",
+ ("How is a surgical site infection defined in time?", ["Infection at the surgical site within 30 days of the procedure", "Any infection during life after surgery", "Infection within 1 hour", "Only infections of the blood"],
+  "SSIs are infections at the surgical site within 30 days of the procedure.", "Within 30 days."),
+ ("¿Cómo se define temporalmente una infección del sitio quirúrgico?", ["Infección en el sitio quirúrgico dentro de los 30 días del procedimiento", "Cualquier infección de por vida tras una cirugía", "Infección dentro de 1 hora", "Solo infecciones de la sangre"],
+  "Las ISQ son infecciones en el sitio quirúrgico dentro de los 30 días del procedimiento.", "Dentro de 30 días.")),
+
+# --- Biosafety (30725895)
+("30725895", "beginner", 1, "Biosafety guidelines are a set of policies, rules, and procedures that personnel in various facilities handling microbiological agents must follow",
+ ("What are biosafety guidelines?", ["Rules for prescribing antibiotics", "Policies and procedures for safely handling microbiological agents", "Instructions for cooking", "Guidelines for vaccine prices"],
+  "Biosafety guidelines govern safe handling of microbes in labs and healthcare: risk assessment, practices, equipment, training.", "Safe handling of microbes."),
+ ("¿Qué son las normas de bioseguridad?", ["Reglas para recetar antibióticos", "Políticas y procedimientos para manipular agentes microbiológicos de forma segura", "Instrucciones de cocina", "Pautas de precios de vacunas"],
+  "La bioseguridad regula la manipulación segura de microbios en laboratorios y centros de salud: evaluación de riesgo, prácticas, equipos, capacitación.", "Manipulación segura.")),
+
+# --- Probiotics (31985927)
+("31985927", "beginner", 0, "They are live microorganisms that are known to help improve gut health",
+ ("What are probiotics?", ["Live microorganisms that can benefit gut health", "Antibiotics made by fungi", "Dead viruses", "Vitamins"],
+  "Probiotics are live microorganisms used to improve gut health in several conditions.", "Beneficial live microbes."),
+ ("¿Qué son los probióticos?", ["Microorganismos vivos que pueden beneficiar la salud intestinal", "Antibióticos producidos por hongos", "Virus muertos", "Vitaminas"],
+  "Los probióticos son microorganismos vivos usados para mejorar la salud intestinal en diversas situaciones.", "Microbios vivos beneficiosos.")),
+]
