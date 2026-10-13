@@ -207,7 +207,7 @@ Q = [
 ("28730571", "expert", 2, "L. monocytogenes enters the cerebellopontine angle through the trigeminal nerve, invading the brainstem via the sensory trigeminal nuclei",
  ("Through which route did a 2017 Danish case series suggest Listeria invades the brainstem in rhombencephalitis?", ["Through the olfactory nerve", "Through the spinal cord", "Along the trigeminal nerve", "Through the optic nerve"],
   "Early facial numbness and MRI enhancement of the trigeminal tract suggested retrograde migration along the trigeminal nerve.", "Trigeminal nerve."),
- ("¿Por qué vía propusieron una serie de casos danesa de 2017 que Listeria invade el tronco encefálico en la romboencefalitis?", ["Por el nervio olfatorio de la nariz", "Por la médula espinal", "Por el nervio trigémino", "Por el nervio óptico"],
+ ("¿Por qué vía propuso una serie de casos danesa de 2017 que Listeria invade el tronco encefálico en la romboencefalitis?", ["Por el nervio olfatorio de la nariz", "Por la médula espinal", "Por el nervio trigémino", "Por el nervio óptico"],
   "La hipoestesia facial temprana y el realce del tracto trigeminal en RM sugirieron migración retrógrada por el trigémino.", "Nervio trigémino.")),
 # --- NCC trial (14724304)
 ("14724304", "beginner", 0, "Neurocysticercosis is the main cause of adult-onset seizures in the developing world",
