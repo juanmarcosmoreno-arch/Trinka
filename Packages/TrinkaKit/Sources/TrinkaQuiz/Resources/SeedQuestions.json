@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -2102,6 +2102,446 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK557776"
+  },
+  {
+   "pmid": "29489151",
+   "title": "Immunoglobulin E",
+   "authors": [
+    "Hostoffer RW",
+    "Joseph NI"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Immunoglobulin E(IgE), named in 1968, is the last of the five human immunoglobulins to be discovered and is typically associated with the diverse manifestations of allergic diseases. As one of the five designated immunoglobulin isotypes, immunoglobulin E (IgE) plays a major role in atopic conditions by inducing immediate hypersensitivity reactions. IgE also contributes significantly to the body’s immune response to parasitic infections, which are more prevalent in third-world countries. A fraction of IgE antibodies is found in the plasma. IgE antibodies are predominantly found in the tissues, firmly attached to effector cells, such as mast cells and basophils, by high-affinity IgE Fc receptor (Fc epsilon RI) and low-affinity IgE receptor (Fc epsilon RII). These two receptors facilitate the immunologic responses that are carried out by IgE. As a complex cell-surface receptor with a molecular weight of 49 kDa, Fc epsilon RI binds the Fc domain of IgE with an affinity of 10 M instead of Fc epsilon RII with a notably lower affinity. Fc epsilon RI’s structure is expressed differently based on the effector cell type on which it is presented. For example, an alpha-beta gamma tetramer is seen on mast cells and basophils. In contrast, a trimeric alpha-beta isoform is found on other cell types, such as Langerhans and dendritic cells. Fc epsilon RI activation facilitates immediate hypersensitivity reactions that can manifest as sneezing, urticaria, acute bronchospasm, and secretory diarrhea and can even lead to cardiovascular collapse and fatal systemic anaphylactic reactions. These immediate hypersensitivity reactions utilize alpha beta gamma receptors to activate mast cells and basophils. The mechanism behind this reaction starts with the binding of antigens to the Fc epsilon RI-bound IgE. This triggers the immediate release of histamine and synthesis of prostaglandins and leukotrienes and stimulates the delayed secretion of cytokine and chemokine.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK482212"
+  },
+  {
+   "pmid": "32491765",
+   "title": "Physiology, Lymphatic System",
+   "authors": [
+    "Ozdowski L",
+    "Gupta V"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "The lymphatic system is an important and often underappreciated component of the circulatory, immune, and metabolic systems. It is composed of lymphatic fluid, lymphatic vessels, and lymphatic cells. Lymphatic cells include macrophages, dendritic cells, lymphocytes, as well as lymphatic organs such as the spleen and thymus. There are three primary functions of the lymphatic system: first is the maintenance of fluid balance, second is the facilitation of the absorption of dietary fats from the gastrointestinal tract to the bloodstream for metabolism or storage, and third is the enhancement and facilitation of the immune system. The lymphatic vessels reabsorb interstitial fluid from the periphery to return it to the intravascular space, which prevents fluid build up in peripheral tissues. The lymphatics allow for the immune system to function properly as it carries antigens to lymph nodes, and also carries immune cells, such as macrophages to sites of infection to begin the immune process.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557833"
+  },
+  {
+   "pmid": "34033333",
+   "title": "Neutrophilia",
+   "authors": [
+    "Tahir N",
+    "Zahra F"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Neutrophils are historically defined as \"soldiers of our innate immune system.\" They are the first line of cells recruited at the site of infection and attack, ingest, and digest microorganisms by producing reactive oxygen species. They also play a vital role in acute and chronic inflammatory settings and autoimmune disorders. In adults, the approximate normal range of white blood cell (WBC) count is 4000 to 11,000 cells/microL, out of which 60% to 70% are mature neutrophils circulating in peripheral blood. An absolute neutrophil count (ANC), defined as the percent of neutrophils in the bloodstream and adults, typically ranges between 2500 to 7000 neutrophils/microL. An increase in the WBC count of more than 11,000 cells/microL is defined as leukocytosis. Neutrophilia is the most common type of leukocytosis. It is defined as an increase in the absolute neutrophil count of approximately more than 7700 neutrophils/microL (11,000 cells/microL x 70 percent), i.e., two standard deviations above the mean.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK570571"
+  },
+  {
+   "pmid": "29939524",
+   "title": "Neutropenia",
+   "authors": [
+    "Rout P",
+    "Reynolds SB",
+    "Zito PM"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Neutrophils are the most common type of leukocytes, known colloquially as white blood cells, that normally circulate as granulocytes along the vascular endothelium in peripheral blood vessels. Neutrophils play an essential role in immune defenses because they ingest, kill, and digest invading microorganisms, including fungi and bacteria after extravasating through blood vessels, a process better known as transendothelial migration. Failure to carry out this role leads to immunodeficiency, mainly characterized by recurrent infections. Defects in neutrophil function can be quantitative, as seen in neutropenia, or qualitative, as seen in neutrophil dysfunction. The standard circulating neutrophil count should be greater than 1.5 x 109/L. Neutropenia can be classified as mild, moderate, severe, and agranulocytosis. Please see StatPearls' associated reference, \"Agranulocytosis,\" for further information on this topic. Neutropenia classification, per circulating neutrophil count, includes: Mild: 1.0 to 1.5 x 109/L. Moderate: 0.5 to 1.0 x 109/L. Severe: less than 0.5 x 109/L. Agranulocytosis: less than 0.2 x 109/L with absence of neutrophil precursors in bone marrow. Neutropenia, or a state of low neutrophils, in itself has a wide differential that includes a primary disorder of production in the bone marrow, genetic deficiency, and cyclical deficiency. Additional causes of primary neutropenia include malignant disorders of marrow failure, such as leukopenia, or infiltrative hematologic neoplasms, such as high-grade lymphoma. Neutropenia can also be secondary to marrow extrinsic causes, including autoimmune diseases, cytotoxic chemotherapy, or suppressive illnesses or infections; even antibiotics can be toxic to neutrophils. Multifactorial neutropenia is also not uncommon, and is seen in patients who are on systemic chemotherapy and multiple broad-spectrum antibiotics., for instance. Primary neutropenia, with decreased production and marrow hypoplasia, can be due to chronic benign neutropenia, cyclical neutropenia, or other congenital and genetic neutropenias. Acquired neutropenia can be secondary to cytotoxic drugs, leukemia, drug reactions, or infections. Congenital forms are rare and vary in severity. Some life-threatening neutropenias include leukocyte adhesion deficiency syndromes, Chediak-Higashi syndrome, Shwachman-Diamond syndrome, and chronic granulomatous disease.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK507702"
+  },
+  {
+   "pmid": "32809764",
+   "title": "Eosinophilia",
+   "authors": [
+    "Kanuru S",
+    "Sapra A"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Eosinophils are a kind of blood granulocytes that express cytoplasmic granules that contain basic proteins and bind with acidic dyes like “eosin.” They derive from bone marrow, and IL-5, IL-3, and GM-CSF stimulate their production. They have a circulating half-life of 4.5 to 8 hours. They can reside in tissues, mostly in the respiratory tract and gastrointestinal tract, for 8 to 12 days. Eosinophils are less than 5% of circulating leukocytes. Eosinophilia is defined as an increase of circulating eosinophils >500 /mm^3. Based on the counts, eosinophilia can subdivide into different categories: mild (500 and 1500/mm^3), moderate (1500 to 5000/mm3), and severe (> 5000/mm^3). Hypereosinophilic syndrome is defined as an absolute eosinophil count greater than 1500/mm3 on two occasions at least one month apart or marked tissue eosinophilia.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK560929"
+  },
+  {
+   "pmid": "31335065",
+   "title": "Systemic Mastocytosis",
+   "authors": [
+    "Gangireddy M",
+    "Ciofoaia GA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Mastocytosis is a constellation of disorders where there are excessive proliferation and accumulation of pathologic mast cells in the tissues. It can involve only skin, which is known as cutaneous mastocytosis, or it can involve extracutaneous tissues which is known as systemic mastocytosis. Cutaneous mastocytosis usually has a benign presentation. Systemic mastocytosis, in particular, is an aggressive form of the disorder characterized by the release of numerous vasoactive cell mediators due to excessive activity of mast cells, which can result in a wide variety of symptoms. The most frequent symptoms associated with the disease include pruritis, flushing, itching, diarrhea, and anaphylaxis.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK544345"
+  },
+  {
+   "pmid": "30844213",
+   "title": "Allergic Rhinitis",
+   "authors": [
+    "Akhouri S",
+    "House SA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Allergic rhinitis (AR) is an atopic disease characterized by symptoms of nasal congestion, clear rhinorrhea, sneezing, postnasal drip, and nasal pruritis. It affects one in six individuals and is associated with significant morbidity, loss of productivity, and healthcare costs. Historically, AR was thought to be a disease process of the nasal airway alone. Still, the development of the unified airway theory has classified AR as a component of systemic allergic response, with other associated conditions, such as asthma and atopic dermatitis, sharing an underlying systemic pathology. AR can be classified as either seasonal (intermittent) or perennial (chronic), with approximately 20% of cases being seasonal, 40% perennial, and 40% with features of both. In addition to nasal symptoms, patients with AR may also present with associated allergic conjunctivitis, non-productive cough, Eustachian tube dysfunction, and chronic sinusitis. Once diagnosed, AR is treatable with a variety of modalities, with intra-nasal glucocorticoids being the first-line therapy.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK538186"
+  },
+  {
+   "pmid": "31869060",
+   "title": "Pathophysiology of Asthma",
+   "authors": [
+    "Sinyor B",
+    "Concepcion Perez L"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Asthma is becoming a more prevalent disease since the early 1990s. From 1982 to 1992, the rate of asthma jumped from 34.7 to 49.4 per thousand. The prevalence of asthma in the USA is around 8%. There also has been some mixed trends around the world where different countries have either had increasing cases or have been stagnant. In children, asthma is presented predominantly in males until the age of 20, where the disease equally prevalent. Differences in childhood can be due to atopy, or because boys have a reduced airway size compared to girls. There is a family history component of asthma, as well. However, the genes responsible for inheriting asthma remain unidentified. There are mechanisms of the phenotype of asthma that has a strong correlation of being inherited, but the mechanism is more complex, as asthma does not follow a Mendelian pattern. Asthma is most likely transmitted by multiple genes, with some variation of locus heterogeneity and polygenic inheritance leading to asthma expression being multifaceted. Atopy or IgE antibodies attack specific antigens or pollutants, which can contribute to the disease. Research has shown that asthma was closely related to the total IgE serum level. Enhanced IgE response to environmental factors such as house dust mites, animal allergens, mold, farm animals, have contributed to sensitize asthma exacerbating its symptoms and attributing to increased airway reactivity. The reason being is that there is increased exposure to these allergens, but less data is available on the causality. Air pollution and the causation of asthma are also less clear; however, there is a relationship with smoking and the increased risk of asthma. Interestingly enough, obesity showed a positive linear relationship between asthma and increased BMI. More research needs to be done to have a clearer picture of the multifactorial disease.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK551579"
+  },
+  {
+   "pmid": "30860724",
+   "title": "Angioedema",
+   "authors": [
+    "Memon RJ",
+    "Tiwari V"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Angioedema is defined as \" subcutaneous tissues and/or submucosal tissues circumscribed non-pitting edema affecting lips, face, neck, and extremities oral cavity, larynx, and gut.\" It becomes life-threatening when it involves the larynx, while intestinal angioedema is painful and mimics acute abdomen. Angioedema was first described in 1882 by Quincke, then by Osler in 1888 (hereditary angioedema), and finally in 1963 by Donaldson et al (the role of C1 inhibitor). Classification of angioedema Acquired: Allergic (histaminergic angioedema) associated with anaphylaxis. Non-allergic (non-histaminergic angioedema), presenting isolated or in combination with urticaria. Drug-induced, e.g., angiotensin-converting enzyme inhibitors and non-steroidal anti-inflammatory drugs. Complement-mediated secondary to acquired deficiency of C1-inhibitor. Idiopathic which is subdivided into histaminergic and non-histaminergic. Hereditary forms: C1-Inhibitor deficiency divided into type 1 (lack of C1-inhibitor molecule) and typed 2 (dysfunctional C1-inhibitor molecule) with normal C1 inhibitor.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK538489"
+  },
+  {
+   "pmid": "28722873",
+   "title": "C-Reactive Protein: Clinical Relevance and Interpretation",
+   "authors": [
+    "Singh B",
+    "Goyal A",
+    "Patel BC"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "C-reactive protein (CRP), first identified by Tillett and Francis in 1930, derives its name from its reaction with the C carbohydrate antigen in the capsule of Streptococcus pneumoniae during acute inflammation. CRP is a pentameric protein synthesized by the liver in response to inflammation, with a molecular weight of approximately 115 kDa. This substance exhibits a characteristic \"jelly-like lectin fold.\" CRP typically consists of 5 identical subunits arranged into a cyclic pentamer around a central pore. However, the protein exists in 2 primary isoforms: the pentameric form (pCRP) and the monomeric form (mCRP). PCRP is the circulating form under normal conditions and is primarily anti-inflammatory. Meanwhile, mCRP arises during inflammation and has pro-inflammatory effects. The transition between these 2 forms occurs when pCRP dissociates into monomers, typically in response to tissue damage or other inflammatory stimuli. This structural shift is significant as mCRP exhibits pro-inflammatory properties, such as platelet activation, leukocyte recruitment, and endothelial dysfunction, which contribute to the pathogenesis of various diseases, including cardiovascular conditions. These structural and functional differences underscore CRP's dual role in inflammation, both as a mediator of anti-inflammatory responses and a promoter of inflammatory processes during pathological conditions. CRP functions as an acute-phase reactant, primarily induced by interleukin 6 acting on the hepatic gene responsible for CRP transcription during inflammatory or infectious processes. Studies have explored the potential link between CRP dysregulation in the clearance of apoptotic cells and cellular debris and the onset of systemic lupus erythematosus (SLE), though definitive evidence is currently lacking. Animal models of alveolitis have demonstrated protective effects of CRP in lung tissue, where it reduces neutrophil-mediated alveolar damage and protein leakage into the lungs. This protein plays a role in recognizing and facilitating the clearance of foreign pathogens and damaged cells by binding to phosphocholine, phospholipids, histones, chromatin, and fibronectin (see Image. C-Reactive Protein Isoforms and Their Phosphocholine Complexes). CRP activates the classical complement pathway and engages phagocytic cells via Fc receptors, expediting the removal of apoptotic cells, necrotic debris, and pathogens. Pathologic activation can occur in autoimmune processes when CRP binds to autoantibodies that expose phosphocholine residues. This mechanism contributes to disease in conditions such as idiopathic thrombocytopenic purpura. In certain contexts, CRP-mediated complement activation may exacerbate tissue damage through downstream inflammatory cytokine release. Unlike the erythrocyte sedimentation rate, which indirectly reflects inflammation, CRP levels change rapidly in response to inflammatory stimuli. CRP concentrations increase acutely and decline promptly once the underlying trigger resolves. Chronic elevation may indicate ongoing inflammation from persistent infections or inflammatory arthritides, such as rheumatoid arthritis. Numerous conditions can elevate CRP levels, including both acute and chronic processes, whether infectious or noninfectious. Markedly elevated CRP concentrations most commonly reflect infection, representing an example of pathogen-associated molecular pattern (PAMP) recognition. Trauma can also induce a significant elevation of CRP through the alarmin response. More modest CRP increases often arise from a broader spectrum of stimuli, including sleep disturbances, periodontal disease, or low-grade systemic inflammation. Higher CRP levels correlate with reduced engagement in light physical activity or moderate-to-vigorous physical activity, as well as increased sedentary time.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441843"
+  },
+  {
+   "pmid": "32491417",
+   "title": "Erythrocyte Sedimentation Rate",
+   "authors": [
+    "Tishkowski K",
+    "Zubair M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "The erythrocyte sedimentation rate (sedimentation rate, sed rate, ESR) serves as a routine hematology test used to detect and monitor increased inflammatory activity in response to conditions such as autoimmune disorders, infections, or tumors. Although not specific to a single disease, ESR supports the evaluation of inflammation when interpreted alongside other diagnostic tests. Clinicians have long used the ESR as a general indicator of illness because of its reproducibility and low cost. Multiple techniques for performing the test have emerged over several decades. The reference method endorsed by the International Committee for Standardization in Haematology (ICSH) derives from Westergren’s original description nearly a century ago. More recent laboratory systems incorporate automated readers and closed blood collection tubes to reduce biohazard exposure and shorten processing time. The Westergren method measures the distance, in millimeters, that red blood cells (RBCs) in anticoagulated whole blood settle in a standardized, upright tube over an hour under the influence of gravity. This specialized tube, known as the Westergren tube, is now manufactured from either glass or plastic, with an internal diameter of 2.5 mm and a length ranging from 190 to 300 mm. John Hunter (1728-1793), a British surgeon, first observed changes in blood sedimentation associated with illness, as described in his posthumous publication A Treatise on the Blood, Inflammation, and Gun-Shot Wounds. Edmund Faustyn Biernacki (1866-1911), a Polish physician, refined the clinical application of ESR near the end of the 19th century. In 1897, Biernacki published his findings in both Gazeta Lekarska in Poland and Deutsche Medizinische Wochenschrift in Germany, and developed an instrument for measurement. His work did not gain early recognition in English-speaking medical literature. In many parts of the world, the ESR is still referred to as the \"Biernacki reaction.\" Biernacki’s clinical application of the ESR was further developed by Robert Fahraeus in 1918 and Alf Vilhelm Albertsson Westergren in 1921. Dr. Westergren defined the standard measurement method still used in clinical practice today. Fahraeus and Westergren are often credited jointly for the test, historically known as the Fahraeus-Westergren test (FW test, Westergren test), which employs a standardized tube and sodium citrate-anticoagulated blood. The Westergren method, as endorsed by the ICSH, has provided consistent reproducibility for nearly a century. This method has enabled the establishment of comparable reference values both within individual laboratories and across institutions worldwide. The ICSH adopted the Westergren method as the gold standard for ESR measurement in 1973. Even after the introduction of automated analyzers, the ICSH and the Clinical and Laboratory Standards Institute reaffirmed the Westergren method as the reference standard in 2011.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557485"
+  },
+  {
+   "pmid": "32310382",
+   "title": "Enzyme-Linked Immunosorbent Assay (ELISA)",
+   "authors": [
+    "Zubair M",
+    "Singh C",
+    "Farhana A"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Enzyme immunoassays (EIAs) use the catalytic properties of enzymes to detect and quantify immunologic reactions. Enzyme-linked immunosorbent assay (ELISA) is a heterogeneous EIA technique commonly used in clinical analyses. In ELISA, one of the reaction components is either nonspecifically adsorbed or covalently bound to the surface of a solid phase, such as a microtiter well, magnetic particle, or plastic bead. This attachment facilitates efficient separation of bound and free-labeled reactants. In the most common ELISA approach, an aliquot of the sample or calibrator containing the antigen (Ag) to be quantified is added to a solid-phase antibody (Ab) and allowed to bind. After washing, an enzyme-labeled antibody is introduced, forming a “sandwich complex” of solid-phase Ab–Ag–Ab–enzyme. Unbound antibody is removed by washing, and the enzyme substrate is added. The amount of product generated is proportional to the antigen concentration in the sample. Unlike traditional ELISA, the competitive ELISA method is used to measure low-molecular-weight antigens or haptens. In this format, the antigen in the sample competes with a labeled antigen for binding to a limited amount of solid-phase antibody. The signal produced is inversely proportional to the concentration of antigen in the sample. Specific antibodies in a sample can also be quantified using an ELISA procedure in which the antigen, rather than the antibody, is bound to a solid phase. An enzyme-labeled secondary antibody specific for the analyte antibody is then added. This format, known as an indirect ELISA, is commonly used to detect antiviral antibodies. ELISA assays have been widely applied to detect antibodies to viruses and autoantigens in serum or whole blood. Recent advancements have led to the development of ultrasensitive ELISA techniques capable of detecting biomarkers at femtomolar concentrations via enzymatic amplification. In addition, enzyme conjugates coupled to substrates that generate visible reaction products have been used to develop ELISA-type assays that can be visually interpreted. These assays are very useful for screening, point-of-care testing, and home testing.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK555922"
+  },
+  {
+   "pmid": "31536268",
+   "title": "Biochemistry, HLA Antigens",
+   "authors": [
+    "Nordquist H",
+    "Jamil RT"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Human leukocyte antigens (HLA) are genes in the major histocompatibility complex (MHC) that encode proteins that help differentiate self from non-self. They play a significant role in disease and immune defense. They are beneficial to the immune system but can also have detrimental effects. Some of the immune system effects include interactions with complement, cytotoxic effects of T cells, and cellular and humoral immunity. Additionally, they play a role in autoimmunity and remain targets of researchers for their further effects and interactions.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK546662"
+  },
+  {
+   "pmid": "32310401",
+   "title": "Agammaglobulinemia",
+   "authors": [
+    "Waseem M",
+    "Mazhar M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Agammaglobulinemia or hypogammaglobulinemia is a rare inherited immunodeficiency disorder. It is characterized by low or absent mature B cells, which can result in severe antibody deficiency and recurrent infections. It can manifest in an infant as soon as the protective effect of maternal immunoglobulins wanes at around six months of age. Agammaglobulinemia is comprised of the following types: X-linked agammaglobulinemia (XLA), discovered in 1952 by Dr. Ogden Bruton. X-linked agammaglobulinemia with growth hormone deficiency. Autosomal recessive agammaglobulinemia (ARAG).",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK555941"
+  },
+  {
+   "pmid": "30247822",
+   "title": "Hyper-IgE Syndromes",
+   "authors": [
+    "Saleh HM",
+    "Sathe NC"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Hyperimmunoglobulin E syndromes (HIESs) are defined by the triad of recurrent cutaneous and sinopulmonary infections, dermatitis beginning in infancy or early childhood, and markedly elevated immunoglobulin E (IgE) levels. David et al first described autosomal dominant HIES as Job syndrome in 1966 in 2 patients with eczema, recurrent pulmonary infections, and cold lung abscesses (see Image. Job Syndrome). Later, in 1972, Buckley et al reported an association between this condition and elevated serum IgE levels and a series of phenotypic features. In 2007, researchers discovered that classic autosomal dominant HIES is caused by deficiency of the signal transducer and activator of transcription 3 (STAT3) gene. Subsequently, numerous other HIES variants resulting from abnormalities in proteins involved in STAT3 signaling or other immune regulatory pathways have been recognized.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK525947"
+  },
+  {
+   "pmid": "30725992",
+   "title": "Physiology, Spleen",
+   "authors": [
+    "Kapila V",
+    "Wehrle CJ",
+    "Tuma F"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "The spleen is a significant organ of the hematologic and reticuloendothelial systems. It is an intraperitoneal organ located in the left upper quadrant of the abdomen posterior and lateral to the stomach. The spleen is situated anatomically behind the 9 and 11 ribs on the left side of the body.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK537307"
+  },
+  {
+   "pmid": "32809659",
+   "title": "Splenectomy",
+   "authors": [
+    "Menon G",
+    "Buicko Lopez JL"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Splenectomy is the surgical removal of the spleen. Indications for splenectomy span congenital and acquired hemolytic anemias, immune thrombocytopenias, hematologic malignancies and myeloproliferative disorders, hypersplenism, splenic trauma, and anatomic necessity during en bloc resection for adjacent pancreatic or gastric malignancy. Preoperative evaluation before elective splenectomy centers on cross-sectional imaging to determine spleen size, identify accessory splenic tissue, and detect coexisting pathology such as cholelithiasis in hereditary spherocytosis. Open, laparoscopic, and robotic-assisted techniques are all in current use; laparoscopic and robotic approaches predominate where resources allow, given faster recovery and fewer wound complications, while open splenectomy remains common in resource-limited settings. Because splenectomy eliminates a major component of humoral and innate immune defense, all patients require structured vaccination against encapsulated organisms and long-term follow-up to monitor for postsplenectomy sepsis, venous thromboembolism (VTE), and hematologic derangement.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK560824"
+  },
+  {
+   "pmid": "29083718",
+   "title": "Immunization",
+   "authors": [
+    "Ginglen JG",
+    "Doyle MQ"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "A vaccine functions as a pharmacologic compound that strengthens an individual's immunity against a specific disease. When a pathogenic bacterium or virus enters the body, the immune system identifies it as foreign by detecting distinct protein segments of the invading organism, known as antigens. Vaccines contain a modified form of the disease-causing agent, which may include a weakened or inactivated microbe, a neutralized toxin, or a protein derived from the pathogen’s surface. Modern mRNA vaccine technology introduces messenger RNA that the human body translates into a particular viral or bacterial protein, generating the target antigen internally. This process exposes the immune system to the antigen in a controlled manner, enabling the development of antibodies and memory T lymphocytes specifically tailored to recognize and combat the pathogen. By preparing the immune system in advance, vaccination ensures a faster and more effective defense if the body encounters the infectious organism in the future. Without prior immunization, the initial exposure to the natural pathogen can overwhelm the immune response, potentially leading to severe or fatal illness before adequate protection develops. Immunization stands as one of the most powerful achievements in the history of public health, transforming once-devastating diseases into preventable conditions. Through widespread vaccination, illnesses such as smallpox, polio, and measles—once responsible for immense suffering and mortality—have been drastically reduced or eliminated in many parts of the world. This progress has led to longer life expectancy, enhanced quality of life, and strengthened societal resilience against infectious threats. Despite these profound successes, vaccination continues to face controversy in the modern age, where misinformation, skepticism, and inequitable access pose ongoing challenges to global health progress. The history of immunization dates back to 1796, when Edward Jenner inoculated a 13-year-old boy with cowpox material, demonstrating immunity to smallpox and laying the foundation for modern vaccines. Jenner’s work led to the creation of the first smallpox vaccine in 1798, ultimately culminating in the global eradication of smallpox by 1979. Over the centuries, vaccine development has advanced through the refinement of scientific methods, the discovery of microbial pathogens, and the innovation of novel vaccine platforms, eg, mRNA technology. These achievements not only expanded the scope of preventable diseases but also reinforced the vital role of immunization in safeguarding humanity against both established and emerging infections. In the contemporary era, the World Health Organization (WHO) has emphasized lifelong immunization as a cornerstone of the 2030 Sustainable Development Goals, aiming to reduce the burden of infectious and noncommunicable diseases by expanding vaccine access, supporting vaccine research, and integrating immunization into all stages of healthcare delivery. This approach extends beyond childhood vaccination to encompass adolescents, adults, pregnant women, healthcare workers, and older adults, emphasizing the necessity of catch-up doses, booster programs, and robust vaccine data systems. The COVID-19 pandemic underscored the critical need for strong immunization infrastructures, revealing vulnerabilities but also catalyzing new strategies for outbreak response and system resilience. Building a future of sustained immunization requires not only scientific advancement but also cross-sectoral collaboration, public trust, and a shared commitment to ensuring equitable protection against vaccine-preventable diseases for all populations.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK459331"
+  },
+  {
+   "pmid": "28723028",
+   "title": "Rheumatoid Arthritis",
+   "authors": [
+    "Chauhan K",
+    "Jandu JS",
+    "Brent LH",
+    "Al-Dhahir MA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Rheumatoid arthritis (RA) is a systemic autoimmune disease characterized by inflammatory arthritis and extra-articular involvement. It is a chronic inflammatory disorder caused in many cases by the interaction between genes and environmental factors, including tobacco, that primarily involves synovial joints. It typically starts in small peripheral joints, is usually symmetric, and progresses to involve proximal joints if left untreated. Joint inflammation over time leads to the destruction of the joint with loss of cartilage and bone erosions. RA with a symptom duration of fewer than six months is defined as early RA, and when the symptoms have been present for more than six months, it is defined as established RA. RA, if untreated, is a progressive disease with morbidity and increased mortality. There is no pathognomonic laboratory test for rheumatoid arthritis, which makes the diagnosis of this disease challenging in the early stages. A comprehensive clinical approach is required to make the diagnosis and prevent debilitating joint damage. The treatment of patients with rheumatoid arthritis requires both pharmacological and non-pharmacological therapy. Today, the standard of care is early treatment with disease-modifying anti-rheumatic drugs. Despite treatment, many patients progress to disability and suffer significant morbidity over time. A comprehensive pharmacological and non-pharmacological treatment (physical therapy, counseling, and patient education) is required to improve clinical outcomes.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441999"
+  },
+  {
+   "pmid": "28722929",
+   "title": "Celiac Disease",
+   "authors": [
+    "Daley SF",
+    "Gillespie E"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Celiac disease is an autoimmune disorder triggered by an immune response in the small intestine to dietary gluten, a protein found in wheat, barley, and rye. Although traditionally viewed as a gastrointestinal tract condition primarily associated with malabsorption, it is now more accurately classified as an autoimmune disorder with systemic manifestations. Celiac disease occurs in genetically predisposed individuals and results in a lifelong condition characterized by immune-mediated damage to the small intestinal lining in response to gluten. Mucosal damage is characterized by villous atrophy, crypt hyperplasia, and infiltration of the lamina propria by immune cells, leading to malabsorption of essential nutrients, including micronutrients, fat-soluble vitamins, iron, vitamin B12, and folate. Typical gastrointestinal symptoms include diarrhea, abdominal discomfort, bloating, and constipation. However, celiac disease can also present with extraintestinal manifestations such as fatigue, weight loss, skin rashes, anemia, and osteoporosis. Growth failure is a frequent additional symptom in children with celiac disease (see Image. Intestinal Changes in Celiac Disease). Detection of disease-specific antibodies, such as tissue transglutaminase immunoglobulin A (tTG-IgA) and endomysial antibodies (EMAs), is a key initial step in the diagnosis of suspected celiac disease. Most patients require a duodenal biopsy to confirm the diagnosis and assess the extent of mucosal damage. The only effective treatment for celiac disease is the strict and complete exclusion of gluten from the diet, which involves lifelong adherence to a strict gluten-free diet (GFD). Maintaining a GFD is essential for symptom resolution and preventing long-term complications, and most patients respond well to this dietary modification. Regular medical follow-up is necessary to monitor adherence and promptly identify and manage any disease-related complications.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441900"
+  },
+  {
+   "pmid": "28846344",
+   "title": "Psoriasis",
+   "authors": [
+    "Nair PA",
+    "Badri T"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Psoriasis is a chronic proliferative and inflammatory condition of the skin. It is characterized by erythematous plaques covered with silvery scales, particularly over the extensor surfaces, scalp, and lumbosacral region. The disorder can also affect the joints and eyes. Psoriasis has no cure and the disease waxes and wanes with flareups. Many patients with psoriasis develop depression as the quality of life is poor. There are several subtypes of psoriasis but the plaque type is the most common and presents on the trunk, extremities, and scalp (see Image. Psoriasis, Bilaterally on the Lower Leg). Close examination of the plaques usually reveals white silvery scales. The eye is involved in about 10% of patients, mostly women. In general, the eye is rarely involved alone; it is almost always associated with skin features.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK448194"
+  },
+  {
+   "pmid": "30725848",
+   "title": "Kawasaki Disease",
+   "authors": [
+    "Owens AM",
+    "Plewa MC"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Kawasaki disease (KD), also known by the name mucocutaneous lymph node syndrome, is an acute, self-limited medium vessel vasculitis that has a predilection for the coronary arteries. It is the leading cause of acquired heart disease in developed nations and is slowly bypassing rheumatic heart disease in developing countries.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK537163"
+  },
+  {
+   "pmid": "28613703",
+   "title": "Sjogren Disease",
+   "authors": [
+    "Carsons SE",
+    "Blum MA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "In the early 1900s, Swedish physician Henrik Sjögren (SHOW-gren) first described a group of women whose chronic arthritis was accompanied by dry eyes and dry mouth. Today, Rheumatologists know more about the disease that is named for Sjögren and—most significantly for patients—can offer advice about how to live with it. Primary Sjogren disease is a systemic autoimmune disorder most commonly presenting with sicca symptoms. Sicca refers to dryness most often involving the eyes and mouth due to inflammation and resultant pathology of the lacrimal and salivary glands. Up to one-half of affected individuals also develop extra-glandular involvement implying the occurrence of signs and symptoms in organs distinct from the salivary and lacrimal glands including the joints, skin, lungs, gastrointestinal (GI) tract, nervous system, and kidneys. Sjogren disease frequently occurs in conjunction with other autoimmune disorders including rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE). In this setting, authors will refer to it as secondary Sjogren or Sjogren-overlap disease. Therapies are directed toward replacing moisture at affected glandular sites and suppressing the autoimmune response locally as well as systemically.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK431049"
+  },
+  {
+   "pmid": "29261996",
+   "title": "Ankylosing Spondylitis",
+   "authors": [
+    "Wenker KJ",
+    "Quint JM"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Ankylosing spondylitis (AS) is a chronic, inflammatory disease primarily affecting the axial spine that can manifest with a range of clinical signs and symptoms. The hallmark features of the condition include chronic back pain and progressive spinal stiffness. AS is characterized by the involvement of the spine and sacroiliac (SI) joints and peripheral joints, digits, and entheses. AS often leads to impaired spinal mobility and can result in postural abnormalities. Patients can also experience buttock pain and hip pain. Peripheral arthritis, enthesitis, and dactylitis (\"sausage digits\") are all associated with AS. In addition to skeletal involvement, AS can affect various organs outside the joints. These extraarticular manifestations of AS include inflammatory bowel disease (affecting up to 50% of individuals), acute anterior uveitis (seen in 25%-35% of cases), and psoriasis (approximately 10% occurrence). AS is additionally linked to an increased risk of cardiovascular disease which is believed to stem from the systemic inflammation present in individuals with AS. Pulmonary complications are also associated with AS, as diminished chest wall expansion and limited spinal mobility can predispose individuals to a restrictive pulmonary pattern. Finally, individuals with AS are at least twice as likely to experience vertebral fragility fractures. Additionally, they face an increased risk of atlantoaxial subluxation, spinal cord injury, and, rarely, cauda equina syndrome.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK470173"
+  },
+  {
+   "pmid": "31082033",
+   "title": "Pernicious Anemia",
+   "authors": [
+    "Vaqar S",
+    "Shackelford KB"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Pernicious anemia is a relatively rare autoimmune disorder that causes diminishment in dietary vitamin B12 (cobalamin) absorption, resulting in B12 deficiency and subsequent megaloblastic anemia. It affects people of all ages worldwide, particularly those over 60. Despite the advances in understanding, making the diagnosis can be challenging for clinicians due to its complexity, broad spectrum of clinical presentation, and limitations of the currently available diagnostic tests. Once diagnosed, prompt treatment with B12 supplementation commonly reverses the patient's anemia; however, they will require lifelong supplementation and monitoring.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK540989"
+  },
+  {
+   "pmid": "32965953",
+   "title": "Immune Thrombocytopenia",
+   "authors": [
+    "Pietras NM",
+    "Gupta N",
+    "Justiz Vaillant AA",
+    "Pearson-Shaver AL"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Immune thrombocytopenia (ITP), formerly idiopathic thrombocytopenic purpura, is a condition arising from immunoglobulin G (IgG) autoantibodies sensitizing circulating platelets, manifesting as a low platelet count, purpura, and hemorrhagic episodes. The diagnosis is typically made by excluding known thrombocytopenia causes. ITP can affect both children and adults. The American Society of Hematology (ASH) defines ITP as a generalized purpuric rash accompanied by a platelet count less than 100,000/μL and normal white blood cell (WBC) count and hemoglobin level. Leukocyte count and hemoglobin abnormalities are not characteristic of ITP and should prompt additional diagnostic testing when detected. (American Society of Hematology) Primary ITP develops without an underlying cause and must be distinguished from secondary ITP. Conditions that may trigger secondary ITP include drug reactions, autoimmune illnesses like systemic lupus erythematosus (SLE), malignancies like chronic lymphocytic leukemia (CLL), and infections like HIV. Primary ITP may be further categorized based on the timing and persistence of symptoms. Newly diagnosed ITP refers to the condition from the time of diagnosis to 3 months afterward. Persistent ITP arises when symptoms continue 3 to 12 months following the initial diagnosis. Chronic ITP indicates ongoing symptoms beyond 12 months from the initial diagnosis until resolution or further management. Refractory ITP includes cases that do not resolve with splenectomy. Severe ITP, when platelet counts are below 20,000/μL, warrants medical treatment. Immunosuppressive therapy is the cornerstone of management. Platelet Physiology Platelets are essential for hemostasis. These blood cells originate from megakaryocytes in the bone marrow through a process called \"thrombopoiesis.\" Under normal conditions, platelets circulating in the blood range from 150,000 to 350,000 per μL and have a mean life span of 7 to 10 days. Thrombopoietin (TPO), a hormone primarily produced in the liver, kidneys, and bone marrow, regulates platelet production by stimulating megakaryocyte proliferation and differentiation. Factors such as infection, inflammation, and hemorrhage can induce platelet proliferation to maintain normal platelet counts. Platelets possess distinctive cellular characteristics, including a discoid shape, a lack of nuclei, and abundant granules containing clotting factors and inflammatory mediators. Glycoprotein IIb/IIIa (GP IIb/IIIa) is a key receptor on platelet membranes essential for aggregation, facilitating blood clot formation. This receptor's activation and subsequent fibrinogen binding are crucial steps in hemostasis. The spleen plays a crucial role in platelet homeostasis by removing aged or damaged platelets from circulation.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK562282"
+  },
+  {
+   "pmid": "32119259",
+   "title": "ANCA-Associated Vasculitis",
+   "authors": [
+    "Qasim A",
+    "Patel JB"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Antineutrophil cytoplasmic antibody (ANCA)–associated vasculitides are a heterogeneous group of rare autoimmune conditions that cause inflammation of blood vessels with various manifestations. This group includes 3 main diseases—granulomatosis with polyangiitis (GPA), formerly known as Wegener granulomatosis; eosinophilic granulomatosis with polyangiitis (EGPA), previously known as Churg-Strauss syndrome; and microscopic polyangiitis (MPA). Other ANCA-associated diseases include drug-induced vasculitis and renal-limited vasculitis. Please see StatPearls' companion resources, \"Granulomatosis with Polyangiitis,\" \"Eosinophilic Granulomatosis with Polyangiitis,\" \"Microscopic Polyangiitis,\" and \"Rapidly Progressive Glomerulonephritis,\" for further information.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK554372"
   },
   {
    "pmid": "29261975",
@@ -16862,6 +17302,3078 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "inappropriate, deregulated activation and proliferation of natural killer (NK) cells, CD8+ cytotoxic T-cells, and macrophages",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29489151-1-en",
+   "translationKey": "immuno-29489151-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Which antibody class is most associated with allergies?",
+   "options": [
+    "IgG",
+    "IgE",
+    "IgM",
+    "IgD"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "IgE drives immediate allergic reactions by arming mast cells and basophils.",
+   "shortExplanation": "IgE.",
+   "pmid": "29489151",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is typically associated with the diverse manifestations of allergic diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29489151-1-es",
+   "translationKey": "immuno-29489151-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué clase de anticuerpo se asocia más con las alergias?",
+   "options": [
+    "IgG",
+    "IgE",
+    "IgM",
+    "IgD"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La IgE desencadena las reacciones alérgicas inmediatas al armar mastocitos y basófilos.",
+   "shortExplanation": "IgE.",
+   "pmid": "29489151",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is typically associated with the diverse manifestations of allergic diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29489151-2-en",
+   "translationKey": "immuno-29489151-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Besides allergy, IgE is important in the defense against which type of infection?",
+   "options": [
+    "Viral colds",
+    "Fungal skin infections",
+    "Parasitic infections",
+    "Urinary infections"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "IgE contributes to immunity against parasites, especially helminths.",
+   "shortExplanation": "Parasites.",
+   "pmid": "29489151",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "IgE also contributes significantly to the body’s immune response to parasitic infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29489151-2-es",
+   "translationKey": "immuno-29489151-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Además de la alergia, ¿contra qué tipo de infección es importante la IgE?",
+   "options": [
+    "Resfríos virales",
+    "Micosis de piel",
+    "Infecciones parasitarias",
+    "Infecciones urinarias"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La IgE contribuye a la inmunidad contra parásitos, sobre todo helmintos.",
+   "shortExplanation": "Parásitos.",
+   "pmid": "29489151",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "IgE also contributes significantly to the body’s immune response to parasitic infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29489151-3-en",
+   "translationKey": "immuno-29489151-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Where is most IgE found in the body?",
+   "options": [
+    "Bound to mast cells and basophils through FcεRI",
+    "Free in saliva",
+    "Inside red blood cells",
+    "In the cerebrospinal fluid"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Most IgE sits on mast cells and basophils, held by the high-affinity receptor FcεRI; only a fraction circulates in plasma.",
+   "shortExplanation": "On mast cells.",
+   "pmid": "29489151",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "firmly attached to effector cells, such as mast cells and basophils, by high-affinity IgE Fc receptor (Fc epsilon RI)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29489151-3-es",
+   "translationKey": "immuno-29489151-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde se encuentra la mayor parte de la IgE?",
+   "options": [
+    "Unida a mastocitos y basófilos mediante FcεRI",
+    "Libre en la saliva",
+    "Dentro de los glóbulos rojos",
+    "En el líquido cefalorraquídeo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mayor parte de la IgE está unida a mastocitos y basófilos por el receptor de alta afinidad FcεRI; solo una fracción circula en plasma.",
+   "shortExplanation": "En mastocitos.",
+   "pmid": "29489151",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "firmly attached to effector cells, such as mast cells and basophils, by high-affinity IgE Fc receptor (Fc epsilon RI)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29489151-4-en",
+   "translationKey": "immuno-29489151-4",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "What happens when an allergen cross-links IgE on a mast cell?",
+   "options": [
+    "The mast cell divides into plasma cells",
+    "Complement is inhibited",
+    "Antibody production stops",
+    "Histamine is released and prostaglandins and leukotrienes are synthesized"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Antigen binding to FcεRI-bound IgE triggers immediate histamine release and synthesis of lipid mediators, followed by cytokines.",
+   "shortExplanation": "Histamine release.",
+   "pmid": "29489151",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This triggers the immediate release of histamine and synthesis of prostaglandins and leukotrienes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29489151-4-es",
+   "translationKey": "immuno-29489151-4",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué ocurre cuando un alérgeno entrecruza la IgE de un mastocito?",
+   "options": [
+    "El mastocito se divide en plasmocitos",
+    "Se inhibe el complemento",
+    "Se detiene la producción de anticuerpos",
+    "Se libera histamina y se sintetizan prostaglandinas y leucotrienos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La unión del antígeno a la IgE sobre FcεRI desencadena la liberación inmediata de histamina y la síntesis de mediadores lipídicos, y luego citocinas.",
+   "shortExplanation": "Liberación de histamina.",
+   "pmid": "29489151",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This triggers the immediate release of histamine and synthesis of prostaglandins and leukotrienes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491765-1-en",
+   "translationKey": "immuno-32491765-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Which is a main function of the lymphatic system?",
+   "options": [
+    "Maintaining fluid balance by returning tissue fluid to the blood",
+    "Pumping blood",
+    "Producing bile",
+    "Filtering urine"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Lymphatics maintain fluid balance, absorb dietary fats and support immunity.",
+   "shortExplanation": "Fluid balance.",
+   "pmid": "32491765",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "first is the maintenance of fluid balance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491765-1-es",
+   "translationKey": "immuno-32491765-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es una función principal del sistema linfático?",
+   "options": [
+    "Mantener el equilibrio de líquidos devolviendo el líquido tisular a la sangre",
+    "Bombear sangre",
+    "Producir bilis",
+    "Filtrar orina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los linfáticos mantienen el equilibrio de líquidos, absorben grasas de la dieta y sostienen la inmunidad.",
+   "shortExplanation": "Equilibrio de líquidos.",
+   "pmid": "32491765",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "first is the maintenance of fluid balance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491765-2-en",
+   "translationKey": "immuno-32491765-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "How does the lymphatic system help the immune response?",
+   "options": [
+    "It destroys red blood cells",
+    "It produces insulin",
+    "It carries antigens to lymph nodes",
+    "It stores iron"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Lymph carries antigens and immune cells to lymph nodes, where adaptive responses start.",
+   "shortExplanation": "Antigens to nodes.",
+   "pmid": "32491765",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it carries antigens to lymph nodes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491765-2-es",
+   "translationKey": "immuno-32491765-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo ayuda el sistema linfático a la respuesta inmune?",
+   "options": [
+    "Destruye glóbulos rojos",
+    "Produce insulina",
+    "Lleva antígenos a los ganglios linfáticos",
+    "Almacena hierro"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La linfa transporta antígenos y células inmunes a los ganglios, donde comienzan las respuestas adaptativas.",
+   "shortExplanation": "Antígenos a ganglios.",
+   "pmid": "32491765",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it carries antigens to lymph nodes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491765-3-en",
+   "translationKey": "immuno-32491765-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Which nutrient is absorbed from the gut mainly through the lymphatics?",
+   "options": [
+    "Glucose",
+    "Dietary fats",
+    "Sodium",
+    "Water-soluble vitamins"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Intestinal lymphatics (lacteals) carry absorbed dietary fats to the bloodstream.",
+   "shortExplanation": "Fats.",
+   "pmid": "32491765",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the facilitation of the absorption of dietary fats from the gastrointestinal tract",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491765-3-es",
+   "translationKey": "immuno-32491765-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué nutriente se absorbe del intestino principalmente por vía linfática?",
+   "options": [
+    "Glucosa",
+    "Grasas de la dieta",
+    "Sodio",
+    "Vitaminas hidrosolubles"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los linfáticos intestinales (quilíferos) llevan las grasas absorbidas al torrente sanguíneo.",
+   "shortExplanation": "Grasas.",
+   "pmid": "32491765",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the facilitation of the absorption of dietary fats from the gastrointestinal tract",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-34033333-1-en",
+   "translationKey": "immuno-34033333-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Which white blood cells usually arrive first at a site of bacterial infection?",
+   "options": [
+    "Plasma cells",
+    "Eosinophils",
+    "Memory T cells",
+    "Neutrophils"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Neutrophils are the first cells recruited to infection sites, where they ingest and kill microbes.",
+   "shortExplanation": "Neutrophils.",
+   "pmid": "34033333",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They are the first line of cells recruited at the site of infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-34033333-1-es",
+   "translationKey": "immuno-34033333-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué glóbulos blancos suelen llegar primero a un sitio de infección bacteriana?",
+   "options": [
+    "Plasmocitos",
+    "Eosinófilos",
+    "Linfocitos T de memoria",
+    "Neutrófilos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los neutrófilos son las primeras células reclutadas al sitio de infección, donde ingieren y matan microbios.",
+   "shortExplanation": "Neutrófilos.",
+   "pmid": "34033333",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They are the first line of cells recruited at the site of infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-34033333-2-en",
+   "translationKey": "immuno-34033333-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What is the most common type of leukocytosis?",
+   "options": [
+    "Lymphocytosis",
+    "Neutrophilia",
+    "Eosinophilia",
+    "Basophilia"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Leukocytosis is a WBC above 11,000/µL; an increase in neutrophils is its most common form.",
+   "shortExplanation": "Neutrophilia.",
+   "pmid": "34033333",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Neutrophilia is the most common type of leukocytosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-34033333-2-es",
+   "translationKey": "immuno-34033333-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es el tipo más frecuente de leucocitosis?",
+   "options": [
+    "Linfocitosis",
+    "Neutrofilia",
+    "Eosinofilia",
+    "Basofilia"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La leucocitosis es un recuento de leucocitos mayor de 11.000/µL; su forma más frecuente es el aumento de neutrófilos.",
+   "shortExplanation": "Neutrofilia.",
+   "pmid": "34033333",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Neutrophilia is the most common type of leukocytosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-34033333-3-en",
+   "translationKey": "immuno-34033333-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "In adults, above what white blood cell count is leukocytosis defined?",
+   "options": [
+    "4,000 cells/µL",
+    "7,000 cells/µL",
+    "11,000 cells/µL",
+    "50,000 cells/µL"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The normal adult WBC range is about 4,000–11,000/µL; above 11,000 is leukocytosis.",
+   "shortExplanation": "11,000/µL.",
+   "pmid": "34033333",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "An increase in the WBC count of more than 11,000 cells/microL is defined as leukocytosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-34033333-3-es",
+   "translationKey": "immuno-34033333-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "En adultos, ¿por encima de qué recuento de glóbulos blancos se define leucocitosis?",
+   "options": [
+    "4.000 células/µL",
+    "7.000 células/µL",
+    "11.000 células/µL",
+    "50.000 células/µL"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El rango normal en adultos es de unos 4.000–11.000/µL; por encima de 11.000 hay leucocitosis.",
+   "shortExplanation": "11.000/µL.",
+   "pmid": "34033333",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "An increase in the WBC count of more than 11,000 cells/microL is defined as leukocytosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29939524-1-en",
+   "translationKey": "immuno-29939524-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "What is the main consequence of having too few or poorly working neutrophils?",
+   "options": [
+    "Recurrent infections",
+    "High blood pressure",
+    "Allergies to food",
+    "Excess bleeding only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Quantitative (neutropenia) or functional neutrophil defects cause immunodeficiency with recurrent bacterial and fungal infections.",
+   "shortExplanation": "Recurrent infections.",
+   "pmid": "29939524",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Failure to carry out this role leads to immunodeficiency, mainly characterized by recurrent infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29939524-1-es",
+   "translationKey": "immuno-29939524-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la principal consecuencia de tener pocos neutrófilos o que funcionen mal?",
+   "options": [
+    "Infecciones recurrentes",
+    "Presión arterial alta",
+    "Alergias alimentarias",
+    "Solo sangrado excesivo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los defectos cuantitativos (neutropenia) o funcionales de los neutrófilos causan inmunodeficiencia con infecciones bacterianas y fúngicas recurrentes.",
+   "shortExplanation": "Infecciones recurrentes.",
+   "pmid": "29939524",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Failure to carry out this role leads to immunodeficiency, mainly characterized by recurrent infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29939524-2-en",
+   "translationKey": "immuno-29939524-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Below what neutrophil count is neutropenia considered severe?",
+   "options": [
+    "1.5 × 10⁹/L",
+    "1.0 × 10⁹/L",
+    "0.5 × 10⁹/L",
+    "3.0 × 10⁹/L"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mild 1.0–1.5, moderate 0.5–1.0, severe <0.5 ×10⁹/L; agranulocytosis <0.2 ×10⁹/L.",
+   "shortExplanation": "<0.5 × 10⁹/L.",
+   "pmid": "29939524",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Severe: less than 0.5 x 109/L",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29939524-2-es",
+   "translationKey": "immuno-29939524-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Por debajo de qué recuento de neutrófilos la neutropenia se considera grave?",
+   "options": [
+    "1,5 × 10⁹/L",
+    "1,0 × 10⁹/L",
+    "0,5 × 10⁹/L",
+    "3,0 × 10⁹/L"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Leve 1,0–1,5; moderada 0,5–1,0; grave <0,5 ×10⁹/L; agranulocitosis <0,2 ×10⁹/L.",
+   "shortExplanation": "<0,5 × 10⁹/L.",
+   "pmid": "29939524",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Severe: less than 0.5 x 109/L",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29939524-3-en",
+   "translationKey": "immuno-29939524-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Which is a common cause of acquired neutropenia?",
+   "options": [
+    "Drinking water",
+    "Regular exercise",
+    "Vitamin C intake",
+    "Cytotoxic chemotherapy"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Acquired neutropenia often results from chemotherapy, drugs (including some antibiotics), infections or autoimmunity.",
+   "shortExplanation": "Chemotherapy.",
+   "pmid": "29939524",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Neutropenia can also be secondary to marrow extrinsic causes, including autoimmune diseases, cytotoxic chemotherapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29939524-3-es",
+   "translationKey": "immuno-29939524-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es una causa frecuente de neutropenia adquirida?",
+   "options": [
+    "Tomar agua",
+    "El ejercicio regular",
+    "La vitamina C",
+    "La quimioterapia citotóxica"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La neutropenia adquirida suele deberse a quimioterapia, fármacos (incluidos algunos antibióticos), infecciones o autoinmunidad.",
+   "shortExplanation": "Quimioterapia.",
+   "pmid": "29939524",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Neutropenia can also be secondary to marrow extrinsic causes, including autoimmune diseases, cytotoxic chemotherapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809764-1-en",
+   "translationKey": "immuno-32809764-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Where does the name 'eosinophil' come from?",
+   "options": [
+    "From the place where they were discovered",
+    "From their granules staining with the acidic dye eosin",
+    "From their round nucleus",
+    "From a scientist named Eosin"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Eosinophil granules contain basic proteins that bind acidic dyes such as eosin, staining them orange-red.",
+   "shortExplanation": "Eosin staining.",
+   "pmid": "32809764",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Eosinophils are a kind of blood granulocytes that express cytoplasmic granules that contain basic proteins and bind with acidic dyes like “eosin.”",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809764-1-es",
+   "translationKey": "immuno-32809764-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿De dónde viene el nombre 'eosinófilo'?",
+   "options": [
+    "Del lugar donde se descubrieron",
+    "De que sus gránulos se tiñen con el colorante ácido eosina",
+    "De su núcleo redondo",
+    "De un científico llamado Eosin"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los gránulos de los eosinófilos contienen proteínas básicas que fijan colorantes ácidos como la eosina y se tiñen de rojo anaranjado.",
+   "shortExplanation": "Tinción con eosina.",
+   "pmid": "32809764",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Eosinophils are a kind of blood granulocytes that express cytoplasmic granules that contain basic proteins and bind with acidic dyes like “eosin.”",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809764-2-en",
+   "translationKey": "immuno-32809764-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Eosinophilia is defined as a blood eosinophil count above:",
+   "options": [
+    "50/mm³",
+    "100/mm³",
+    "500/mm³",
+    "10,000/mm³"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Eosinophilia: >500/mm³ (mild 500–1500, moderate 1500–5000, severe >5000). Eosinophils are normally <5% of leukocytes.",
+   "shortExplanation": ">500/mm³.",
+   "pmid": "32809764",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Eosinophilia is defined as an increase of circulating eosinophils >500 /mm^3",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809764-2-es",
+   "translationKey": "immuno-32809764-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "La eosinofilia se define como un recuento de eosinófilos en sangre mayor de:",
+   "options": [
+    "50/mm³",
+    "100/mm³",
+    "500/mm³",
+    "10.000/mm³"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Eosinofilia: >500/mm³ (leve 500–1500, moderada 1500–5000, grave >5000). Normalmente son <5% de los leucocitos.",
+   "shortExplanation": ">500/mm³.",
+   "pmid": "32809764",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Eosinophilia is defined as an increase of circulating eosinophils >500 /mm^3",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809764-3-en",
+   "translationKey": "immuno-32809764-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which cytokine is a key driver of eosinophil production?",
+   "options": [
+    "IL-5",
+    "IL-2",
+    "IL-10",
+    "TNF-β"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Eosinophils develop in the bone marrow under IL-5, IL-3 and GM-CSF; anti-IL-5 drugs lower eosinophils.",
+   "shortExplanation": "IL-5.",
+   "pmid": "32809764",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "IL-5, IL-3, and GM-CSF stimulate their production",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809764-3-es",
+   "translationKey": "immuno-32809764-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué citocina es clave para la producción de eosinófilos?",
+   "options": [
+    "IL-5",
+    "IL-2",
+    "IL-10",
+    "TNF-β"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los eosinófilos se forman en la médula ósea bajo IL-5, IL-3 y GM-CSF; los fármacos anti-IL-5 los disminuyen.",
+   "shortExplanation": "IL-5.",
+   "pmid": "32809764",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "IL-5, IL-3, and GM-CSF stimulate their production",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31335065-1-en",
+   "translationKey": "immuno-31335065-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What is mastocytosis?",
+   "options": [
+    "Excessive proliferation and accumulation of abnormal mast cells in tissues",
+    "A lack of mast cells",
+    "An infection of the breast",
+    "A deficiency of IgE"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Mastocytosis can be cutaneous (skin only, usually benign) or systemic (extracutaneous, more aggressive).",
+   "shortExplanation": "Excess mast cells.",
+   "pmid": "31335065",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "excessive proliferation and accumulation of pathologic mast cells in the tissues",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31335065-1-es",
+   "translationKey": "immuno-31335065-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Qué es la mastocitosis?",
+   "options": [
+    "La proliferación y acumulación excesiva de mastocitos anormales en los tejidos",
+    "La falta de mastocitos",
+    "Una infección de la mama",
+    "Un déficit de IgE"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mastocitosis puede ser cutánea (solo piel, en general benigna) o sistémica (extracutánea, más agresiva).",
+   "shortExplanation": "Exceso de mastocitos.",
+   "pmid": "31335065",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "excessive proliferation and accumulation of pathologic mast cells in the tissues",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31335065-2-en",
+   "translationKey": "immuno-31335065-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Which symptoms are typical of systemic mastocytosis?",
+   "options": [
+    "Fever and joint swelling only",
+    "Muscle weakness and double vision",
+    "Hair loss and cold intolerance",
+    "Itching, flushing, diarrhea and anaphylaxis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mast-cell mediators cause pruritus, flushing, diarrhea and even anaphylaxis.",
+   "shortExplanation": "Mediator symptoms.",
+   "pmid": "31335065",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most frequent symptoms associated with the disease include pruritis, flushing, itching, diarrhea, and anaphylaxis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31335065-2-es",
+   "translationKey": "immuno-31335065-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué síntomas son típicos de la mastocitosis sistémica?",
+   "options": [
+    "Solo fiebre e hinchazón articular",
+    "Debilidad muscular y visión doble",
+    "Caída del cabello e intolerancia al frío",
+    "Prurito, rubor, diarrea y anafilaxia"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los mediadores de los mastocitos causan prurito, rubor, diarrea e incluso anafilaxia.",
+   "shortExplanation": "Síntomas por mediadores.",
+   "pmid": "31335065",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most frequent symptoms associated with the disease include pruritis, flushing, itching, diarrhea, and anaphylaxis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30844213-1-en",
+   "translationKey": "immuno-30844213-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Which group of symptoms is typical of allergic rhinitis?",
+   "options": [
+    "Fever, chills and purulent sputum",
+    "Chest pain and sweating",
+    "Nasal congestion, clear runny nose, sneezing and nasal itching",
+    "Headache and stiff neck"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Allergic rhinitis is an atopic disease with congestion, clear rhinorrhea, sneezing, postnasal drip and itching.",
+   "shortExplanation": "Sneezing and itching.",
+   "pmid": "30844213",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "nasal congestion, clear rhinorrhea, sneezing, postnasal drip, and nasal pruritis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30844213-1-es",
+   "translationKey": "immuno-30844213-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué grupo de síntomas es típico de la rinitis alérgica?",
+   "options": [
+    "Fiebre, escalofríos y esputo purulento",
+    "Dolor de pecho y sudoración",
+    "Congestión nasal, secreción clara, estornudos y picazón nasal",
+    "Cefalea y rigidez de nuca"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La rinitis alérgica es una enfermedad atópica con congestión, rinorrea clara, estornudos, goteo posnasal y prurito.",
+   "shortExplanation": "Estornudos y picazón.",
+   "pmid": "30844213",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "nasal congestion, clear rhinorrhea, sneezing, postnasal drip, and nasal pruritis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30844213-2-en",
+   "translationKey": "immuno-30844213-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What is the first-line treatment for allergic rhinitis?",
+   "options": [
+    "Intranasal corticosteroids",
+    "Oral antibiotics",
+    "Antiviral drugs",
+    "Nasal surgery"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Intranasal glucocorticoids are first-line therapy for allergic rhinitis.",
+   "shortExplanation": "Nasal steroids.",
+   "pmid": "30844213",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "intra-nasal glucocorticoids being the first-line therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30844213-2-es",
+   "translationKey": "immuno-30844213-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es el tratamiento de primera línea de la rinitis alérgica?",
+   "options": [
+    "Corticoides intranasales",
+    "Antibióticos orales",
+    "Antivirales",
+    "Cirugía nasal"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los glucocorticoides intranasales son el tratamiento de primera línea de la rinitis alérgica.",
+   "shortExplanation": "Corticoides nasales.",
+   "pmid": "30844213",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "intra-nasal glucocorticoids being the first-line therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30844213-3-en",
+   "translationKey": "immuno-30844213-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "According to the 'unified airway' concept, allergic rhinitis is linked with which other condition?",
+   "options": [
+    "Kidney stones",
+    "Asthma",
+    "Osteoporosis",
+    "Gout"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The unified airway theory sees allergic rhinitis as part of a systemic allergic response shared with asthma and atopic dermatitis.",
+   "shortExplanation": "Asthma.",
+   "pmid": "30844213",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the unified airway theory",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30844213-3-es",
+   "translationKey": "immuno-30844213-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Según el concepto de 'vía aérea única', ¿con qué otra enfermedad se vincula la rinitis alérgica?",
+   "options": [
+    "Cálculos renales",
+    "Asma",
+    "Osteoporosis",
+    "Gota"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La teoría de la vía aérea única considera la rinitis alérgica parte de una respuesta alérgica sistémica compartida con el asma y la dermatitis atópica.",
+   "shortExplanation": "Asma.",
+   "pmid": "30844213",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the unified airway theory",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31869060-1-en",
+   "translationKey": "immuno-31869060-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Which antibody level is closely related to asthma?",
+   "options": [
+    "Total IgA",
+    "Total IgM",
+    "Total IgD",
+    "Total IgE"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Atopy and IgE responses to dust mites, animal allergens and mold contribute to asthma.",
+   "shortExplanation": "IgE.",
+   "pmid": "31869060",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Research has shown that asthma was closely related to the total IgE serum level",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31869060-1-es",
+   "translationKey": "immuno-31869060-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Con qué nivel de anticuerpo se relaciona estrechamente el asma?",
+   "options": [
+    "IgA total",
+    "IgM total",
+    "IgD total",
+    "IgE total"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La atopia y la respuesta IgE a ácaros, alérgenos animales y hongos contribuyen al asma.",
+   "shortExplanation": "IgE.",
+   "pmid": "31869060",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Research has shown that asthma was closely related to the total IgE serum level",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31869060-2-en",
+   "translationKey": "immuno-31869060-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "How is asthma inherited?",
+   "options": [
+    "By a single dominant gene",
+    "In a complex, polygenic way that is not Mendelian",
+    "Only from the mother",
+    "It has no family component"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Asthma runs in families but is polygenic with locus heterogeneity, not following a Mendelian pattern.",
+   "shortExplanation": "Polygenic.",
+   "pmid": "31869060",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "asthma does not follow a Mendelian pattern",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31869060-2-es",
+   "translationKey": "immuno-31869060-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se hereda el asma?",
+   "options": [
+    "Por un único gen dominante",
+    "De manera compleja y poligénica, no mendeliana",
+    "Solo por vía materna",
+    "No tiene componente familiar"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El asma tiene componente familiar pero es poligénica, con heterogeneidad de locus, y no sigue un patrón mendeliano.",
+   "shortExplanation": "Poligénica.",
+   "pmid": "31869060",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "asthma does not follow a Mendelian pattern",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30860724-1-en",
+   "translationKey": "immuno-30860724-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "When does angioedema become life-threatening?",
+   "options": [
+    "When it involves the larynx",
+    "When it affects the lips",
+    "When it lasts one hour",
+    "When it itches"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Laryngeal angioedema can obstruct the airway; intestinal angioedema causes pain mimicking an acute abdomen.",
+   "shortExplanation": "Larynx.",
+   "pmid": "30860724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It becomes life-threatening when it involves the larynx",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30860724-1-es",
+   "translationKey": "immuno-30860724-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cuándo pone en riesgo la vida el angioedema?",
+   "options": [
+    "Cuando afecta la laringe",
+    "Cuando afecta los labios",
+    "Cuando dura una hora",
+    "Cuando pica"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El angioedema laríngeo puede obstruir la vía aérea; el intestinal causa dolor que simula un abdomen agudo.",
+   "shortExplanation": "Laringe.",
+   "pmid": "30860724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It becomes life-threatening when it involves the larynx",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30860724-2-en",
+   "translationKey": "immuno-30860724-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which drug class is a classic cause of non-allergic angioedema?",
+   "options": [
+    "Statins",
+    "Proton pump inhibitors",
+    "ACE inhibitors",
+    "Beta-lactam antibiotics only"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "ACE inhibitors (and NSAIDs) cause drug-induced angioedema; hereditary forms involve C1-inhibitor deficiency.",
+   "shortExplanation": "ACE inhibitors.",
+   "pmid": "30860724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Drug-induced, e.g., angiotensin-converting enzyme inhibitors",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30860724-2-es",
+   "translationKey": "immuno-30860724-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué clase de fármaco es una causa clásica de angioedema no alérgico?",
+   "options": [
+    "Estatinas",
+    "Inhibidores de la bomba de protones",
+    "Inhibidores de la ECA",
+    "Solo betalactámicos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los IECA (y los AINE) causan angioedema por fármacos; las formas hereditarias se deben a déficit de C1-inhibidor.",
+   "shortExplanation": "IECA.",
+   "pmid": "30860724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Drug-induced, e.g., angiotensin-converting enzyme inhibitors",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30860724-3-en",
+   "translationKey": "immuno-30860724-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "What distinguishes type 1 from type 2 hereditary angioedema?",
+   "options": [
+    "Type 1 is allergic and type 2 is drug-induced",
+    "Type 1 lacks C1-inhibitor; type 2 has a dysfunctional C1-inhibitor",
+    "Type 1 affects only children",
+    "Type 2 involves IgE"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Hereditary angioedema type 1 has low C1-inhibitor; type 2 has normal amounts of a non-functional protein.",
+   "shortExplanation": "Lack vs. dysfunction.",
+   "pmid": "30860724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "C1-Inhibitor deficiency divided into type 1 (lack of C1-inhibitor molecule) and typed 2 (dysfunctional C1-inhibitor molecule)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30860724-3-es",
+   "translationKey": "immuno-30860724-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "¿Qué distingue el angioedema hereditario tipo 1 del tipo 2?",
+   "options": [
+    "El tipo 1 es alérgico y el 2 por fármacos",
+    "El tipo 1 carece de C1-inhibidor; el tipo 2 tiene un C1-inhibidor disfuncional",
+    "El tipo 1 afecta solo a niños",
+    "El tipo 2 involucra IgE"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "En el tipo 1 falta C1-inhibidor; en el tipo 2 hay cantidad normal de una proteína que no funciona.",
+   "shortExplanation": "Falta vs. disfunción.",
+   "pmid": "30860724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "C1-Inhibitor deficiency divided into type 1 (lack of C1-inhibitor molecule) and typed 2 (dysfunctional C1-inhibitor molecule)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722873-1-en",
+   "translationKey": "immuno-28722873-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Which organ makes C-reactive protein (CRP)?",
+   "options": [
+    "The spleen",
+    "The kidneys",
+    "The liver",
+    "The thymus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "CRP is an acute-phase protein made by the liver in response to inflammation, mainly driven by IL-6.",
+   "shortExplanation": "Liver.",
+   "pmid": "28722873",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CRP is a pentameric protein synthesized by the liver in response to inflammation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722873-1-es",
+   "translationKey": "immuno-28722873-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué órgano produce la proteína C reactiva (PCR)?",
+   "options": [
+    "El bazo",
+    "Los riñones",
+    "El hígado",
+    "El timo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La PCR es una proteína de fase aguda producida por el hígado ante la inflamación, sobre todo por estímulo de IL-6.",
+   "shortExplanation": "Hígado.",
+   "pmid": "28722873",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CRP is a pentameric protein synthesized by the liver in response to inflammation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722873-2-en",
+   "translationKey": "immuno-28722873-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Where does the name 'C-reactive protein' come from?",
+   "options": [
+    "Its reaction with the C carbohydrate of Streptococcus pneumoniae",
+    "Its high vitamin C content",
+    "Its discovery in the city of Cork",
+    "Its role in clotting"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "CRP was named for reacting with the C polysaccharide of the pneumococcal capsule (Tillett and Francis, 1930).",
+   "shortExplanation": "Pneumococcal C antigen.",
+   "pmid": "28722873",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "derives its name from its reaction with the C carbohydrate antigen in the capsule of Streptococcus pneumoniae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722873-2-es",
+   "translationKey": "immuno-28722873-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿De dónde viene el nombre 'proteína C reactiva'?",
+   "options": [
+    "De su reacción con el carbohidrato C de Streptococcus pneumoniae",
+    "De su alto contenido de vitamina C",
+    "De haberse descubierto en Córdoba",
+    "De su papel en la coagulación"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La PCR se llamó así por reaccionar con el polisacárido C de la cápsula del neumococo (Tillett y Francis, 1930).",
+   "shortExplanation": "Antígeno C del neumococo.",
+   "pmid": "28722873",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "derives its name from its reaction with the C carbohydrate antigen in the capsule of Streptococcus pneumoniae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722873-3-en",
+   "translationKey": "immuno-28722873-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "How does CRP differ from the erythrocyte sedimentation rate (ESR)?",
+   "options": [
+    "CRP is only used in children",
+    "CRP is specific for cancer",
+    "CRP never decreases",
+    "CRP rises and falls rapidly with inflammation"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "CRP rises acutely and falls promptly once the trigger resolves; ESR reflects inflammation indirectly and changes slowly.",
+   "shortExplanation": "Fast changes.",
+   "pmid": "28722873",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Unlike the erythrocyte sedimentation rate, which indirectly reflects inflammation, CRP levels change rapidly",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722873-3-es",
+   "translationKey": "immuno-28722873-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿En qué se diferencia la PCR de la eritrosedimentación (VSG)?",
+   "options": [
+    "La PCR solo se usa en niños",
+    "La PCR es específica de cáncer",
+    "La PCR nunca baja",
+    "La PCR sube y baja rápidamente con la inflamación"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La PCR aumenta en forma aguda y desciende pronto al resolverse el estímulo; la VSG refleja la inflamación de forma indirecta y cambia lentamente.",
+   "shortExplanation": "Cambios rápidos.",
+   "pmid": "28722873",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Unlike the erythrocyte sedimentation rate, which indirectly reflects inflammation, CRP levels change rapidly",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722873-4-en",
+   "translationKey": "immuno-28722873-4",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which complement pathway does CRP activate?",
+   "options": [
+    "Alternative pathway",
+    "Classical pathway",
+    "Lectin pathway only",
+    "None"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "CRP binds phosphocholine on microbes and damaged cells, activates the classical complement pathway and engages phagocytes via Fc receptors.",
+   "shortExplanation": "Classical.",
+   "pmid": "28722873",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CRP activates the classical complement pathway",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722873-4-es",
+   "translationKey": "immuno-28722873-4",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué vía del complemento activa la PCR?",
+   "options": [
+    "Vía alternativa",
+    "Vía clásica",
+    "Solo la vía de las lectinas",
+    "Ninguna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La PCR se une a fosfocolina de microbios y células dañadas, activa la vía clásica del complemento y recluta fagocitos mediante receptores Fc.",
+   "shortExplanation": "Clásica.",
+   "pmid": "28722873",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CRP activates the classical complement pathway",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491417-1-en",
+   "translationKey": "immuno-32491417-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "What does the erythrocyte sedimentation rate (ESR) measure?",
+   "options": [
+    "How far red blood cells settle in a tube over one hour",
+    "The number of white blood cells",
+    "The amount of hemoglobin",
+    "Blood sugar"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The Westergren method measures in millimeters how far red cells fall in an upright tube over one hour.",
+   "shortExplanation": "Settling of RBCs.",
+   "pmid": "32491417",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "measures the distance, in millimeters, that red blood cells (RBCs) in anticoagulated whole blood settle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491417-1-es",
+   "translationKey": "immuno-32491417-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué mide la eritrosedimentación (VSG)?",
+   "options": [
+    "Cuánto descienden los glóbulos rojos en un tubo en una hora",
+    "La cantidad de glóbulos blancos",
+    "La cantidad de hemoglobina",
+    "La glucemia"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El método de Westergren mide en milímetros cuánto descienden los glóbulos rojos en un tubo vertical durante una hora.",
+   "shortExplanation": "Descenso de eritrocitos.",
+   "pmid": "32491417",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "measures the distance, in millimeters, that red blood cells (RBCs) in anticoagulated whole blood settle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491417-2-en",
+   "translationKey": "immuno-32491417-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Which statement about the ESR is correct?",
+   "options": [
+    "It diagnoses one specific disease",
+    "It measures antibodies",
+    "It is a non-specific marker of inflammation",
+    "It is very expensive"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "ESR is cheap and reproducible but non-specific; it is interpreted together with other tests.",
+   "shortExplanation": "Non-specific.",
+   "pmid": "32491417",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Although not specific to a single disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32491417-2-es",
+   "translationKey": "immuno-32491417-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Qué afirmación sobre la VSG es correcta?",
+   "options": [
+    "Diagnostica una enfermedad específica",
+    "Mide anticuerpos",
+    "Es un marcador inespecífico de inflamación",
+    "Es muy cara"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La VSG es barata y reproducible pero inespecífica; se interpreta junto con otras pruebas.",
+   "shortExplanation": "Inespecífica.",
+   "pmid": "32491417",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Although not specific to a single disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310382-1-en",
+   "translationKey": "immuno-32310382-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What is ELISA commonly used for?",
+   "options": [
+    "Counting red blood cells",
+    "Detecting antibodies or antigens, such as antibodies to viruses",
+    "Sequencing DNA",
+    "Measuring blood pressure"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "ELISA uses enzyme-labeled reagents on a solid phase to detect antigens or antibodies, e.g., antiviral antibodies.",
+   "shortExplanation": "Antigen/antibody detection.",
+   "pmid": "32310382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "ELISA assays have been widely applied to detect antibodies to viruses and autoantigens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310382-1-es",
+   "translationKey": "immuno-32310382-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Para qué se usa habitualmente el ELISA?",
+   "options": [
+    "Para contar glóbulos rojos",
+    "Para detectar anticuerpos o antígenos, como anticuerpos contra virus",
+    "Para secuenciar ADN",
+    "Para medir la presión arterial"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El ELISA usa reactivos marcados con enzimas sobre una fase sólida para detectar antígenos o anticuerpos, por ejemplo antivirales.",
+   "shortExplanation": "Detecta antígenos/anticuerpos.",
+   "pmid": "32310382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "ELISA assays have been widely applied to detect antibodies to viruses and autoantigens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310382-2-en",
+   "translationKey": "immuno-32310382-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "In a sandwich ELISA, how does the signal relate to the antigen amount?",
+   "options": [
+    "The signal is proportional to the antigen concentration",
+    "The signal is inversely proportional",
+    "There is no relation",
+    "The signal only appears without antigen"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "In a sandwich ELISA (Ab–Ag–Ab-enzyme), more antigen means more product; in a competitive ELISA the signal is inverse.",
+   "shortExplanation": "Proportional.",
+   "pmid": "32310382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The amount of product generated is proportional to the antigen concentration in the sample",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310382-2-es",
+   "translationKey": "immuno-32310382-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "En un ELISA tipo sándwich, ¿cómo se relaciona la señal con la cantidad de antígeno?",
+   "options": [
+    "La señal es proporcional a la concentración de antígeno",
+    "La señal es inversamente proporcional",
+    "No hay relación",
+    "Solo hay señal sin antígeno"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "En el ELISA sándwich (Ac–Ag–Ac-enzima), más antígeno da más producto; en el competitivo la señal es inversa.",
+   "shortExplanation": "Proporcional.",
+   "pmid": "32310382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The amount of product generated is proportional to the antigen concentration in the sample",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310382-3-en",
+   "translationKey": "immuno-32310382-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "In a competitive ELISA for a small molecule, a stronger signal means:",
+   "options": [
+    "More antigen in the sample",
+    "The test failed",
+    "The sample contains antibodies",
+    "Less antigen in the sample"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Sample antigen competes with labeled antigen for limited antibody, so signal is inversely proportional to antigen concentration.",
+   "shortExplanation": "Less antigen.",
+   "pmid": "32310382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The signal produced is inversely proportional to the concentration of antigen in the sample",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310382-3-es",
+   "translationKey": "immuno-32310382-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "En un ELISA competitivo para una molécula pequeña, una señal más intensa significa:",
+   "options": [
+    "Más antígeno en la muestra",
+    "Que falló la prueba",
+    "Que la muestra contiene anticuerpos",
+    "Menos antígeno en la muestra"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El antígeno de la muestra compite con el marcado por una cantidad limitada de anticuerpo, así que la señal es inversa a la concentración.",
+   "shortExplanation": "Menos antígeno.",
+   "pmid": "32310382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The signal produced is inversely proportional to the concentration of antigen in the sample",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310382-4-en",
+   "translationKey": "immuno-32310382-4",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Which ELISA format binds antigen to the plate and uses an enzyme-labeled anti-human antibody to detect patient antibodies?",
+   "options": [
+    "Sandwich ELISA",
+    "Competitive ELISA",
+    "Indirect ELISA",
+    "Direct agglutination"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Indirect ELISA: antigen on the solid phase, patient antibody binds, then an enzyme-labeled secondary antibody detects it.",
+   "shortExplanation": "Indirect.",
+   "pmid": "32310382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This format, known as an indirect ELISA, is commonly used to detect antiviral antibodies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310382-4-es",
+   "translationKey": "immuno-32310382-4",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "¿Qué formato de ELISA fija el antígeno a la placa y usa un anticuerpo anti-humano marcado para detectar los anticuerpos del paciente?",
+   "options": [
+    "ELISA sándwich",
+    "ELISA competitivo",
+    "ELISA indirecto",
+    "Aglutinación directa"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "ELISA indirecto: antígeno en fase sólida, se une el anticuerpo del paciente y luego lo detecta un anticuerpo secundario marcado.",
+   "shortExplanation": "Indirecto.",
+   "pmid": "32310382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This format, known as an indirect ELISA, is commonly used to detect antiviral antibodies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31536268-1-en",
+   "translationKey": "immuno-31536268-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What is the main role of HLA (MHC) proteins?",
+   "options": [
+    "Helping the immune system distinguish self from non-self",
+    "Carrying oxygen",
+    "Digesting proteins",
+    "Forming bone"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "HLA genes of the MHC encode proteins that present antigens and help distinguish self from non-self.",
+   "shortExplanation": "Self vs. non-self.",
+   "pmid": "31536268",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "encode proteins that help differentiate self from non-self",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31536268-1-es",
+   "translationKey": "immuno-31536268-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es la función principal de las proteínas HLA (MHC)?",
+   "options": [
+    "Ayudar al sistema inmune a distinguir lo propio de lo ajeno",
+    "Transportar oxígeno",
+    "Digerir proteínas",
+    "Formar hueso"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los genes HLA del MHC codifican proteínas que presentan antígenos y ayudan a distinguir lo propio de lo ajeno.",
+   "shortExplanation": "Propio vs. ajeno.",
+   "pmid": "31536268",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "encode proteins that help differentiate self from non-self",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310401-1-en",
+   "translationKey": "immuno-32310401-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What is the basic defect in agammaglobulinemia?",
+   "options": [
+    "Absent T cells",
+    "Absent neutrophils",
+    "Low or absent mature B cells, so few antibodies",
+    "Excess IgE"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Agammaglobulinemia lacks mature B cells, causing severe antibody deficiency and recurrent infections.",
+   "shortExplanation": "No B cells.",
+   "pmid": "32310401",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "characterized by low or absent mature B cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310401-1-es",
+   "translationKey": "immuno-32310401-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es el defecto básico en la agammaglobulinemia?",
+   "options": [
+    "Ausencia de linfocitos T",
+    "Ausencia de neutrófilos",
+    "Linfocitos B maduros bajos o ausentes, con pocos anticuerpos",
+    "Exceso de IgE"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "En la agammaglobulinemia faltan linfocitos B maduros, lo que causa déficit grave de anticuerpos e infecciones recurrentes.",
+   "shortExplanation": "Sin linfocitos B.",
+   "pmid": "32310401",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "characterized by low or absent mature B cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310401-2-en",
+   "translationKey": "immuno-32310401-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Why do infants with X-linked agammaglobulinemia usually become ill around 6 months of age?",
+   "options": [
+    "Because they start eating solid food",
+    "Because protective maternal antibodies wane",
+    "Because vaccines stop working",
+    "Because the thymus disappears"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Transplacental maternal IgG protects for the first months; infections start as it wanes (~6 months).",
+   "shortExplanation": "Maternal IgG wanes.",
+   "pmid": "32310401",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "as soon as the protective effect of maternal immunoglobulins wanes at around six months of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310401-2-es",
+   "translationKey": "immuno-32310401-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué los lactantes con agammaglobulinemia ligada al X suelen enfermar hacia los 6 meses?",
+   "options": [
+    "Porque empiezan con sólidos",
+    "Porque disminuyen los anticuerpos maternos protectores",
+    "Porque las vacunas dejan de actuar",
+    "Porque desaparece el timo"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La IgG materna transplacentaria protege los primeros meses; las infecciones comienzan cuando disminuye (~6 meses).",
+   "shortExplanation": "Baja la IgG materna.",
+   "pmid": "32310401",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "as soon as the protective effect of maternal immunoglobulins wanes at around six months of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310401-3-en",
+   "translationKey": "immuno-32310401-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Who first described X-linked agammaglobulinemia, in 1952?",
+   "options": [
+    "Ogden Bruton",
+    "Edward Jenner",
+    "Louis Pasteur",
+    "Paul Ehrlich"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "XLA (Bruton agammaglobulinemia) was described by Ogden Bruton in 1952; the gene encodes Bruton tyrosine kinase.",
+   "shortExplanation": "Bruton.",
+   "pmid": "32310401",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "X-linked agammaglobulinemia (XLA), discovered in 1952 by Dr. Ogden Bruton",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32310401-3-es",
+   "translationKey": "immuno-32310401-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "¿Quién describió por primera vez la agammaglobulinemia ligada al X, en 1952?",
+   "options": [
+    "Ogden Bruton",
+    "Edward Jenner",
+    "Louis Pasteur",
+    "Paul Ehrlich"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La XLA (agammaglobulinemia de Bruton) fue descrita por Ogden Bruton en 1952; el gen codifica la tirosina cinasa de Bruton.",
+   "shortExplanation": "Bruton.",
+   "pmid": "32310401",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "X-linked agammaglobulinemia (XLA), discovered in 1952 by Dr. Ogden Bruton",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30247822-1-en",
+   "translationKey": "immuno-30247822-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which triad defines hyper-IgE syndromes?",
+   "options": [
+    "Fever, rash and arthritis",
+    "Anemia, low platelets and kidney failure",
+    "Diabetes, obesity and hypertension",
+    "Recurrent skin and lung infections, early dermatitis and very high IgE"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "HIES combines recurrent cutaneous/sinopulmonary infections, early-onset dermatitis and markedly elevated IgE.",
+   "shortExplanation": "Infections, eczema, high IgE.",
+   "pmid": "30247822",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the triad of recurrent cutaneous and sinopulmonary infections, dermatitis beginning in infancy or early childhood, and markedly elevated immunoglobulin E (IgE) levels",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30247822-1-es",
+   "translationKey": "immuno-30247822-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tríada define los síndromes de hiper-IgE?",
+   "options": [
+    "Fiebre, exantema y artritis",
+    "Anemia, plaquetas bajas e insuficiencia renal",
+    "Diabetes, obesidad e hipertensión",
+    "Infecciones recurrentes de piel y pulmón, dermatitis precoz e IgE muy alta"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los HIES combinan infecciones cutáneas y sinopulmonares recurrentes, dermatitis de inicio temprano e IgE muy elevada.",
+   "shortExplanation": "Infecciones, eccema, IgE alta.",
+   "pmid": "30247822",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the triad of recurrent cutaneous and sinopulmonary infections, dermatitis beginning in infancy or early childhood, and markedly elevated immunoglobulin E (IgE) levels",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30247822-2-en",
+   "translationKey": "immuno-30247822-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Classic autosomal dominant hyper-IgE (Job) syndrome is caused by a defect in:",
+   "options": [
+    "CD40 ligand",
+    "STAT3",
+    "BTK",
+    "Adenosine deaminase"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "In 2007, STAT3 deficiency was identified as the cause of classic autosomal dominant HIES (Job syndrome).",
+   "shortExplanation": "STAT3.",
+   "pmid": "30247822",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "classic autosomal dominant HIES is caused by deficiency of the signal transducer and activator of transcription 3 (STAT3) gene",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30247822-2-es",
+   "translationKey": "immuno-30247822-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "El síndrome de hiper-IgE autosómico dominante clásico (síndrome de Job) se debe a un defecto en:",
+   "options": [
+    "Ligando de CD40",
+    "STAT3",
+    "BTK",
+    "Adenosina desaminasa"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "En 2007 se identificó el déficit de STAT3 como causa del HIES autosómico dominante clásico (síndrome de Job).",
+   "shortExplanation": "STAT3.",
+   "pmid": "30247822",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "classic autosomal dominant HIES is caused by deficiency of the signal transducer and activator of transcription 3 (STAT3) gene",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30725992-1-en",
+   "translationKey": "immuno-30725992-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Where is the spleen located?",
+   "options": [
+    "Right lower abdomen",
+    "Left upper abdomen",
+    "In the neck",
+    "Behind the sternum"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The spleen lies in the left upper quadrant, behind the left 9th–11th ribs, posterior and lateral to the stomach.",
+   "shortExplanation": "Left upper quadrant.",
+   "pmid": "30725992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is an intraperitoneal organ located in the left upper quadrant of the abdomen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30725992-1-es",
+   "translationKey": "immuno-30725992-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Dónde está ubicado el bazo?",
+   "options": [
+    "Abdomen inferior derecho",
+    "Abdomen superior izquierdo",
+    "En el cuello",
+    "Detrás del esternón"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El bazo se ubica en el cuadrante superior izquierdo, detrás de las costillas 9.ª a 11.ª izquierdas, por detrás y al costado del estómago.",
+   "shortExplanation": "Cuadrante superior izquierdo.",
+   "pmid": "30725992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is an intraperitoneal organ located in the left upper quadrant of the abdomen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809659-1-en",
+   "translationKey": "immuno-32809659-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Which vaccines are especially important for people without a spleen?",
+   "options": [
+    "Vaccines against encapsulated bacteria (pneumococcus, meningococcus, Hib)",
+    "Only the flu vaccine",
+    "Rabies vaccine",
+    "No vaccines are needed"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Splenectomy removes key humoral and innate defense; patients need vaccination against encapsulated organisms and follow-up for sepsis.",
+   "shortExplanation": "Encapsulated bacteria.",
+   "pmid": "32809659",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all patients require structured vaccination against encapsulated organisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809659-1-es",
+   "translationKey": "immuno-32809659-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué vacunas son especialmente importantes en personas sin bazo?",
+   "options": [
+    "Contra bacterias encapsuladas (neumococo, meningococo, Hib)",
+    "Solo la antigripal",
+    "La antirrábica",
+    "No necesitan vacunas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La esplenectomía elimina defensas humorales e innatas clave; requieren vacunas contra bacterias encapsuladas y control por riesgo de sepsis.",
+   "shortExplanation": "Bacterias encapsuladas.",
+   "pmid": "32809659",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all patients require structured vaccination against encapsulated organisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809659-2-en",
+   "translationKey": "immuno-32809659-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What is a splenectomy?",
+   "options": [
+    "Removal of the gallbladder",
+    "Removal of a lymph node",
+    "Surgical removal of the spleen",
+    "A blood transfusion"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Splenectomy is surgical removal of the spleen, indicated e.g. for trauma, some anemias and immune thrombocytopenia.",
+   "shortExplanation": "Spleen removal.",
+   "pmid": "32809659",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Splenectomy is the surgical removal of the spleen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32809659-2-es",
+   "translationKey": "immuno-32809659-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Qué es una esplenectomía?",
+   "options": [
+    "La extirpación de la vesícula",
+    "La extirpación de un ganglio",
+    "La extirpación quirúrgica del bazo",
+    "Una transfusión de sangre"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La esplenectomía es la extirpación quirúrgica del bazo, indicada por ejemplo en traumatismos, algunas anemias y la trombocitopenia inmune.",
+   "shortExplanation": "Extirpar el bazo.",
+   "pmid": "32809659",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Splenectomy is the surgical removal of the spleen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29083718-1-en",
+   "translationKey": "immuno-29083718-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Who is credited with the first vaccine, against smallpox, in 1796?",
+   "options": [
+    "Louis Pasteur",
+    "Robert Koch",
+    "Alexander Fleming",
+    "Edward Jenner"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Jenner inoculated a boy with cowpox material and showed protection against smallpox, founding vaccination.",
+   "shortExplanation": "Jenner.",
+   "pmid": "29083718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "1796, when Edward Jenner inoculated a 13-year-old boy with cowpox material",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29083718-1-es",
+   "translationKey": "immuno-29083718-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿A quién se atribuye la primera vacuna, contra la viruela, en 1796?",
+   "options": [
+    "Louis Pasteur",
+    "Robert Koch",
+    "Alexander Fleming",
+    "Edward Jenner"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Jenner inoculó a un niño con material de viruela vacuna y mostró protección contra la viruela, dando origen a la vacunación.",
+   "shortExplanation": "Jenner.",
+   "pmid": "29083718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "1796, when Edward Jenner inoculated a 13-year-old boy with cowpox material",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29083718-2-en",
+   "translationKey": "immuno-29083718-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "How does a vaccine protect us?",
+   "options": [
+    "It trains the immune system to make antibodies and memory cells against the pathogen",
+    "It kills all bacteria in the body",
+    "It replaces white blood cells",
+    "It works like an antibiotic"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Vaccines expose the immune system to antigens safely so it forms antibodies and memory, responding faster on real exposure.",
+   "shortExplanation": "Immune memory.",
+   "pmid": "29083718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "enabling the development of antibodies and memory T lymphocytes specifically tailored to recognize and combat the pathogen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29083718-2-es",
+   "translationKey": "immuno-29083718-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Cómo nos protege una vacuna?",
+   "options": [
+    "Entrena al sistema inmune para producir anticuerpos y células de memoria contra el patógeno",
+    "Mata todas las bacterias del cuerpo",
+    "Reemplaza los glóbulos blancos",
+    "Actúa como un antibiótico"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las vacunas exponen al sistema inmune a antígenos de forma segura para que forme anticuerpos y memoria y responda más rápido ante el patógeno real.",
+   "shortExplanation": "Memoria inmune.",
+   "pmid": "29083718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "enabling the development of antibodies and memory T lymphocytes specifically tailored to recognize and combat the pathogen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29083718-3-en",
+   "translationKey": "immuno-29083718-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "How does an mRNA vaccine work?",
+   "options": [
+    "It contains live virus",
+    "It changes the person's DNA",
+    "It delivers mRNA that our cells translate into a pathogen protein (antigen)",
+    "It contains antibodies"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "mRNA vaccines make our cells produce the target antigen internally, which trains the immune response.",
+   "shortExplanation": "Cells make the antigen.",
+   "pmid": "29083718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Modern mRNA vaccine technology introduces messenger RNA that the human body translates into a particular viral or bacterial protein",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29083718-3-es",
+   "translationKey": "immuno-29083718-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo funciona una vacuna de ARNm?",
+   "options": [
+    "Contiene virus vivo",
+    "Cambia el ADN de la persona",
+    "Aporta ARNm que nuestras células traducen a una proteína del patógeno (antígeno)",
+    "Contiene anticuerpos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las vacunas de ARNm hacen que nuestras células produzcan el antígeno, que entrena la respuesta inmune.",
+   "shortExplanation": "Las células fabrican el antígeno.",
+   "pmid": "29083718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Modern mRNA vaccine technology introduces messenger RNA that the human body translates into a particular viral or bacterial protein",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28723028-1-en",
+   "translationKey": "immuno-28723028-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "What kind of disease is rheumatoid arthritis?",
+   "options": [
+    "A bacterial infection of the joints",
+    "A systemic autoimmune disease",
+    "Wear-and-tear arthritis of old age",
+    "A vitamin deficiency"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "RA is a systemic autoimmune disease with inflammatory arthritis and extra-articular involvement.",
+   "shortExplanation": "Autoimmune.",
+   "pmid": "28723028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rheumatoid arthritis (RA) is a systemic autoimmune disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28723028-1-es",
+   "translationKey": "immuno-28723028-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué tipo de enfermedad es la artritis reumatoide?",
+   "options": [
+    "Una infección bacteriana de las articulaciones",
+    "Una enfermedad autoinmune sistémica",
+    "Artrosis por desgaste de la edad",
+    "Un déficit de vitaminas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La AR es una enfermedad autoinmune sistémica con artritis inflamatoria y compromiso extraarticular.",
+   "shortExplanation": "Autoinmune.",
+   "pmid": "28723028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rheumatoid arthritis (RA) is a systemic autoimmune disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28723028-2-en",
+   "translationKey": "immuno-28723028-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "How does rheumatoid arthritis typically begin?",
+   "options": [
+    "In one large joint, such as one knee",
+    "In the spine",
+    "In the jaw only",
+    "Symmetrically in small peripheral joints"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "RA usually starts symmetrically in small joints of the hands and feet, later involving proximal joints.",
+   "shortExplanation": "Small joints, symmetric.",
+   "pmid": "28723028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It typically starts in small peripheral joints, is usually symmetric",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28723028-2-es",
+   "translationKey": "immuno-28723028-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo suele comenzar la artritis reumatoide?",
+   "options": [
+    "En una sola articulación grande, como una rodilla",
+    "En la columna",
+    "Solo en la mandíbula",
+    "En forma simétrica en articulaciones periféricas pequeñas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La AR suele comenzar de manera simétrica en pequeñas articulaciones de manos y pies y luego compromete articulaciones proximales.",
+   "shortExplanation": "Pequeñas articulaciones, simétrica.",
+   "pmid": "28723028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It typically starts in small peripheral joints, is usually symmetric",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28723028-3-en",
+   "translationKey": "immuno-28723028-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What is the standard of care for rheumatoid arthritis?",
+   "options": [
+    "Early treatment with disease-modifying antirheumatic drugs (DMARDs)",
+    "Antibiotics",
+    "Waiting until joints are destroyed",
+    "Joint replacement as the first step"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Early DMARD therapy prevents joint destruction; there is no pathognomonic lab test, so diagnosis is clinical.",
+   "shortExplanation": "Early DMARDs.",
+   "pmid": "28723028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the standard of care is early treatment with disease-modifying anti-rheumatic drugs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28723028-3-es",
+   "translationKey": "immuno-28723028-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es el tratamiento estándar de la artritis reumatoide?",
+   "options": [
+    "Tratamiento precoz con fármacos modificadores de la enfermedad (FAME)",
+    "Antibióticos",
+    "Esperar a que se destruyan las articulaciones",
+    "Reemplazo articular como primer paso"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El tratamiento precoz con FAME evita la destrucción articular; no hay una prueba patognomónica, por lo que el diagnóstico es clínico.",
+   "shortExplanation": "FAME precoces.",
+   "pmid": "28723028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the standard of care is early treatment with disease-modifying anti-rheumatic drugs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722929-1-en",
+   "translationKey": "immuno-28722929-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Celiac disease is an immune reaction to which dietary component?",
+   "options": [
+    "Lactose in milk",
+    "Fructose in fruit",
+    "Gluten in wheat, barley and rye",
+    "Caffeine"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Celiac disease is an autoimmune response to gluten that damages the small intestinal lining.",
+   "shortExplanation": "Gluten.",
+   "pmid": "28722929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "triggered by an immune response in the small intestine to dietary gluten, a protein found in wheat, barley, and rye",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722929-1-es",
+   "translationKey": "immuno-28722929-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "La enfermedad celíaca es una reacción inmune a ¿qué componente de la dieta?",
+   "options": [
+    "La lactosa de la leche",
+    "La fructosa de la fruta",
+    "El gluten del trigo, la cebada y el centeno",
+    "La cafeína"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La celiaquía es una respuesta autoinmune al gluten que daña la mucosa del intestino delgado.",
+   "shortExplanation": "Gluten.",
+   "pmid": "28722929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "triggered by an immune response in the small intestine to dietary gluten, a protein found in wheat, barley, and rye",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722929-2-en",
+   "translationKey": "immuno-28722929-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What is the only effective treatment for celiac disease?",
+   "options": [
+    "A strict lifelong gluten-free diet",
+    "Antibiotics",
+    "Probiotics",
+    "A short course of steroids"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Treatment is a strict, complete and lifelong gluten-free diet.",
+   "shortExplanation": "Gluten-free diet.",
+   "pmid": "28722929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The only effective treatment for celiac disease is the strict and complete exclusion of gluten from the diet",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722929-2-es",
+   "translationKey": "immuno-28722929-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es el único tratamiento eficaz de la enfermedad celíaca?",
+   "options": [
+    "Una dieta estricta sin gluten de por vida",
+    "Antibióticos",
+    "Probióticos",
+    "Un ciclo corto de corticoides"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El tratamiento es una dieta sin gluten estricta, completa y de por vida.",
+   "shortExplanation": "Dieta sin gluten.",
+   "pmid": "28722929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The only effective treatment for celiac disease is the strict and complete exclusion of gluten from the diet",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722929-3-en",
+   "translationKey": "immuno-28722929-3",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Which blood test is a key first step when celiac disease is suspected?",
+   "options": [
+    "Rheumatoid factor",
+    "Anti-tissue transglutaminase IgA (tTG-IgA)",
+    "Antinuclear antibodies",
+    "Blood culture"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "tTG-IgA and endomysial antibodies are the initial tests; most patients then need a duodenal biopsy.",
+   "shortExplanation": "tTG-IgA.",
+   "pmid": "28722929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "tissue transglutaminase immunoglobulin A (tTG-IgA)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722929-3-es",
+   "translationKey": "immuno-28722929-3",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué análisis de sangre es un primer paso clave ante sospecha de celiaquía?",
+   "options": [
+    "Factor reumatoideo",
+    "IgA anti-transglutaminasa tisular (tTG-IgA)",
+    "Anticuerpos antinucleares",
+    "Hemocultivo"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La tTG-IgA y los anticuerpos antiendomisio son las pruebas iniciales; la mayoría requiere luego biopsia duodenal.",
+   "shortExplanation": "tTG-IgA.",
+   "pmid": "28722929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "tissue transglutaminase immunoglobulin A (tTG-IgA)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722929-4-en",
+   "translationKey": "immuno-28722929-4",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which histologic findings characterize celiac disease in the duodenum?",
+   "options": [
+    "Granulomas and caseation",
+    "Normal villi with eosinophils only",
+    "Transmural ulcers",
+    "Villous atrophy, crypt hyperplasia and immune-cell infiltration"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Celiac mucosa shows villous atrophy, crypt hyperplasia and lamina propria inflammation, causing malabsorption.",
+   "shortExplanation": "Villous atrophy.",
+   "pmid": "28722929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mucosal damage is characterized by villous atrophy, crypt hyperplasia, and infiltration of the lamina propria by immune cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28722929-4-es",
+   "translationKey": "immuno-28722929-4",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué hallazgos histológicos caracterizan la celiaquía en el duodeno?",
+   "options": [
+    "Granulomas con caseificación",
+    "Vellosidades normales solo con eosinófilos",
+    "Úlceras transmurales",
+    "Atrofia vellositaria, hiperplasia de criptas e infiltrado inmune"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La mucosa celíaca muestra atrofia vellositaria, hiperplasia de criptas e inflamación de la lámina propia, con malabsorción.",
+   "shortExplanation": "Atrofia vellositaria.",
+   "pmid": "28722929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mucosal damage is characterized by villous atrophy, crypt hyperplasia, and infiltration of the lamina propria by immune cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28846344-1-en",
+   "translationKey": "immuno-28846344-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Which skin lesions are typical of psoriasis?",
+   "options": [
+    "Small blisters on the palms",
+    "Red plaques with silvery scales on extensor surfaces",
+    "Dark moles",
+    "Painless ulcers"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Plaque psoriasis shows erythematous plaques with silvery scales on extensor surfaces, scalp and lower back.",
+   "shortExplanation": "Silvery plaques.",
+   "pmid": "28846344",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "erythematous plaques covered with silvery scales, particularly over the extensor surfaces",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28846344-1-es",
+   "translationKey": "immuno-28846344-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Qué lesiones de piel son típicas de la psoriasis?",
+   "options": [
+    "Pequeñas ampollas en las palmas",
+    "Placas rojas con escamas plateadas en superficies extensoras",
+    "Lunares oscuros",
+    "Úlceras indoloras"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La psoriasis en placas muestra placas eritematosas con escamas plateadas en superficies extensoras, cuero cabelludo y región lumbosacra.",
+   "shortExplanation": "Placas plateadas.",
+   "pmid": "28846344",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "erythematous plaques covered with silvery scales, particularly over the extensor surfaces",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30725848-1-en",
+   "translationKey": "immuno-30725848-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Why is Kawasaki disease important in children?",
+   "options": [
+    "It causes kidney stones",
+    "It is a common cause of deafness",
+    "It is the leading cause of acquired heart disease in developed nations",
+    "It is a type of leukemia"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Kawasaki disease is a medium-vessel vasculitis with a predilection for coronary arteries.",
+   "shortExplanation": "Coronary arteries.",
+   "pmid": "30725848",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is the leading cause of acquired heart disease in developed nations",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30725848-1-es",
+   "translationKey": "immuno-30725848-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué es importante la enfermedad de Kawasaki en niños?",
+   "options": [
+    "Causa cálculos renales",
+    "Es causa frecuente de sordera",
+    "Es la principal causa de cardiopatía adquirida en países desarrollados",
+    "Es un tipo de leucemia"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La enfermedad de Kawasaki es una vasculitis de vaso mediano con predilección por las arterias coronarias.",
+   "shortExplanation": "Arterias coronarias.",
+   "pmid": "30725848",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is the leading cause of acquired heart disease in developed nations",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28613703-1-en",
+   "translationKey": "immuno-28613703-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Which symptoms are typical of Sjögren disease?",
+   "options": [
+    "Dry eyes and dry mouth",
+    "Excess tearing and drooling",
+    "Hair loss",
+    "Hearing loss"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Sjögren disease is a systemic autoimmune disorder whose sicca symptoms come from lacrimal and salivary gland inflammation.",
+   "shortExplanation": "Dryness.",
+   "pmid": "28613703",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Sicca refers to dryness most often involving the eyes and mouth",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28613703-1-es",
+   "translationKey": "immuno-28613703-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Qué síntomas son típicos de la enfermedad de Sjögren?",
+   "options": [
+    "Ojos secos y boca seca",
+    "Lagrimeo y salivación excesivos",
+    "Caída del cabello",
+    "Pérdida auditiva"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Sjögren es una enfermedad autoinmune sistémica cuyos síntomas de sequedad provienen de la inflamación de glándulas lagrimales y salivales.",
+   "shortExplanation": "Sequedad.",
+   "pmid": "28613703",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Sicca refers to dryness most often involving the eyes and mouth",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29261996-1-en",
+   "translationKey": "immuno-29261996-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Which eye problem is a classic extra-articular feature of ankylosing spondylitis?",
+   "options": [
+    "Cataract from birth",
+    "Retinal detachment",
+    "Glaucoma",
+    "Acute anterior uveitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "AS mainly affects the spine and sacroiliac joints; extra-articular features include anterior uveitis, IBD and psoriasis.",
+   "shortExplanation": "Anterior uveitis.",
+   "pmid": "29261996",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "acute anterior uveitis (seen in 25%-35% of cases)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29261996-1-es",
+   "translationKey": "immuno-29261996-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué problema ocular es una manifestación extraarticular clásica de la espondilitis anquilosante?",
+   "options": [
+    "Catarata congénita",
+    "Desprendimiento de retina",
+    "Glaucoma",
+    "Uveítis anterior aguda"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La EA afecta sobre todo la columna y las sacroilíacas; entre las manifestaciones extraarticulares están la uveítis anterior, la EII y la psoriasis.",
+   "shortExplanation": "Uveítis anterior.",
+   "pmid": "29261996",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "acute anterior uveitis (seen in 25%-35% of cases)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29261996-2-en",
+   "translationKey": "immuno-29261996-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What are the hallmark features of ankylosing spondylitis?",
+   "options": [
+    "Fever and rash",
+    "Chronic back pain and progressive spinal stiffness",
+    "Sudden blindness",
+    "Kidney failure"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "AS is a chronic inflammatory disease of the axial spine with back pain and progressive stiffness.",
+   "shortExplanation": "Back pain, stiffness.",
+   "pmid": "29261996",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The hallmark features of the condition include chronic back pain and progressive spinal stiffness",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29261996-2-es",
+   "translationKey": "immuno-29261996-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cuáles son los rasgos centrales de la espondilitis anquilosante?",
+   "options": [
+    "Fiebre y exantema",
+    "Dolor lumbar crónico y rigidez progresiva de la columna",
+    "Ceguera súbita",
+    "Insuficiencia renal"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La EA es una enfermedad inflamatoria crónica del esqueleto axial con dolor lumbar y rigidez progresiva.",
+   "shortExplanation": "Dolor lumbar, rigidez.",
+   "pmid": "29261996",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The hallmark features of the condition include chronic back pain and progressive spinal stiffness",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31082033-1-en",
+   "translationKey": "immuno-31082033-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Pernicious anemia is an autoimmune disease that impairs absorption of which vitamin?",
+   "options": [
+    "Vitamin B12",
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin K"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Pernicious anemia reduces B12 absorption, causing megaloblastic anemia; treatment is lifelong B12.",
+   "shortExplanation": "B12.",
+   "pmid": "31082033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "diminishment in dietary vitamin B12 (cobalamin) absorption",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31082033-1-es",
+   "translationKey": "immuno-31082033-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "La anemia perniciosa es una enfermedad autoinmune que altera la absorción de ¿qué vitamina?",
+   "options": [
+    "Vitamina B12",
+    "Vitamina C",
+    "Vitamina D",
+    "Vitamina K"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La anemia perniciosa reduce la absorción de B12 y causa anemia megaloblástica; se trata con B12 de por vida.",
+   "shortExplanation": "B12.",
+   "pmid": "31082033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "diminishment in dietary vitamin B12 (cobalamin) absorption",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32965953-1-en",
+   "translationKey": "immuno-32965953-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What causes immune thrombocytopenia (ITP)?",
+   "options": [
+    "Bone marrow cancer",
+    "IgG autoantibodies against platelets",
+    "Vitamin deficiency",
+    "Excess iron"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "In ITP, IgG autoantibodies sensitize platelets, causing low counts, purpura and bleeding.",
+   "shortExplanation": "Anti-platelet IgG.",
+   "pmid": "32965953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "arising from immunoglobulin G (IgG) autoantibodies sensitizing circulating platelets",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32965953-1-es",
+   "translationKey": "immuno-32965953-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué causa la trombocitopenia inmune (PTI)?",
+   "options": [
+    "Un cáncer de médula ósea",
+    "Autoanticuerpos IgG contra las plaquetas",
+    "Un déficit de vitaminas",
+    "Exceso de hierro"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "En la PTI, autoanticuerpos IgG sensibilizan a las plaquetas y causan recuentos bajos, púrpura y sangrado.",
+   "shortExplanation": "IgG antiplaquetaria.",
+   "pmid": "32965953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "arising from immunoglobulin G (IgG) autoantibodies sensitizing circulating platelets",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32965953-2-en",
+   "translationKey": "immuno-32965953-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "When is immune thrombocytopenia classified as chronic?",
+   "options": [
+    "After 1 week",
+    "After 3 months",
+    "After 12 months",
+    "Never"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Newly diagnosed: up to 3 months; persistent: 3–12 months; chronic: beyond 12 months.",
+   "shortExplanation": ">12 months.",
+   "pmid": "32965953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Chronic ITP indicates ongoing symptoms beyond 12 months from the initial diagnosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32965953-2-es",
+   "translationKey": "immuno-32965953-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuándo se clasifica la trombocitopenia inmune como crónica?",
+   "options": [
+    "Tras 1 semana",
+    "Tras 3 meses",
+    "Tras 12 meses",
+    "Nunca"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Recién diagnosticada: hasta 3 meses; persistente: 3–12 meses; crónica: más de 12 meses.",
+   "shortExplanation": ">12 meses.",
+   "pmid": "32965953",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Chronic ITP indicates ongoing symptoms beyond 12 months from the initial diagnosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32119259-1-en",
+   "translationKey": "immuno-32119259-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Which disease was formerly called Wegener granulomatosis?",
+   "options": [
+    "Microscopic polyangiitis",
+    "Kawasaki disease",
+    "Giant cell arteritis",
+    "Granulomatosis with polyangiitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "ANCA-associated vasculitides include GPA (formerly Wegener), EGPA (formerly Churg-Strauss) and microscopic polyangiitis.",
+   "shortExplanation": "GPA.",
+   "pmid": "32119259",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "granulomatosis with polyangiitis (GPA), formerly known as Wegener granulomatosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-32119259-1-es",
+   "translationKey": "immuno-32119259-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "¿Qué enfermedad se llamaba antes granulomatosis de Wegener?",
+   "options": [
+    "Poliangeítis microscópica",
+    "Enfermedad de Kawasaki",
+    "Arteritis de células gigantes",
+    "Granulomatosis con poliangeítis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las vasculitis ANCA incluyen la GPA (antes Wegener), la GEPA (antes Churg-Strauss) y la poliangeítis microscópica.",
+   "shortExplanation": "GPA.",
+   "pmid": "32119259",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "granulomatosis with polyangiitis (GPA), formerly known as Wegener granulomatosis",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
