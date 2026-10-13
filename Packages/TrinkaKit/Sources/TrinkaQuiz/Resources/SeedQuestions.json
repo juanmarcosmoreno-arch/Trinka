@@ -1,5 +1,5 @@
 {
- "version": 43,
+ "version": 44,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -12713,6 +12713,329 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK547698"
+  },
+  {
+   "pmid": "30415629",
+   "title": "Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease.",
+   "authors": [
+    "Manson JE",
+    "Cook NR",
+    "Lee IM",
+    "Christen W",
+    "Bassuk SS",
+    "Mora S",
+    "Gibson H",
+    "Gordon D",
+    "Copeland T",
+    "D'Agostino D",
+    "Friedenberg G",
+    "Ridge C",
+    "Bubes V",
+    "Giovannucci EL",
+    "Willett WC",
+    "Buring JE",
+    "VITAL Research Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2019,
+   "doi": "10.1056/NEJMoa1809944",
+   "abstract": "BACKGROUND: It is unclear whether supplementation with vitamin D reduces the risk of cancer or cardiovascular disease, and data from randomized trials are limited.\nMETHODS: We conducted a nationwide, randomized, placebo-controlled trial, with a two-by-two factorial design, of vitamin D3 (cholecalciferol) at a dose of 2000 IU per day and marine n-3 (also called omega-3) fatty acids at a dose of 1 g per day for the prevention of cancer and cardiovascular disease among men 50 years of age or older and women 55 years of age or older in the United States. Primary end points were invasive cancer of any type and major cardiovascular events (a composite of myocardial infarction, stroke, or death from cardiovascular causes). Secondary end points included site-specific cancers, death from cancer, and additional cardiovascular events. This article reports the results of the comparison of vitamin D with placebo.\nRESULTS: A total of 25,871 participants, including 5106 black participants, underwent randomization. Supplementation with vitamin D was not associated with a lower risk of either of the primary end points. During a median follow-up of 5.3 years, cancer was diagnosed in 1617 participants (793 in the vitamin D group and 824 in the placebo group; hazard ratio, 0.96; 95% confidence interval [CI], 0.88 to 1.06; P=0.47). A major cardiovascular event occurred in 805 participants (396 in the vitamin D group and 409 in the placebo group; hazard ratio, 0.97; 95% CI, 0.85 to 1.12; P=0.69). In the analyses of secondary end points, the hazard ratios were as follows: for death from cancer (341 deaths), 0.83 (95% CI, 0.67 to 1.02); for breast cancer, 1.02 (95% CI, 0.79 to 1.31); for prostate cancer, 0.88 (95% CI, 0.72 to 1.07); for colorectal cancer, 1.09 (95% CI, 0.73 to 1.62); for the expanded composite end point of major cardiovascular events plus coronary revascularization, 0.96 (95% CI, 0.86 to 1.08); for myocardial infarction, 0.96 (95% CI, 0.78 to 1.19); for stroke, 0.95 (95% CI, 0.76 to 1.20); and for death from cardiovascular causes, 1.11 (95% CI, 0.88 to 1.40). In the analysis of death from any cause (978 deaths), the hazard ratio was 0.99 (95% CI, 0.87 to 1.12). No excess risks of hypercalcemia or other adverse events were identified.\nCONCLUSIONS: Supplementation with vitamin D did not result in a lower incidence of invasive cancer or cardiovascular events than placebo. (Funded by the National Institutes of Health and others; VITAL ClinicalTrials.gov number, NCT01169259 .).",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "35939577",
+   "title": "Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults.",
+   "authors": [
+    "LeBoff MS",
+    "Chou SH",
+    "Ratliff KA",
+    "Cook NR",
+    "Khurana B",
+    "Kim E",
+    "Cawthon PM",
+    "Bauer DC",
+    "Black D",
+    "Gallagher JC",
+    "Lee IM",
+    "Buring JE",
+    "Manson JE"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2022,
+   "doi": "10.1056/NEJMoa2202106",
+   "abstract": "BACKGROUND: Vitamin D supplements are widely recommended for bone health in the general population, but data on whether they prevent fractures have been inconsistent.\nMETHODS: In an ancillary study of the Vitamin D and Omega-3 Trial (VITAL), we tested whether supplemental vitamin D3 would result in a lower risk of fractures than placebo. VITAL was a two-by-two factorial, randomized, controlled trial that investigated whether supplemental vitamin D3 (2000 IU per day), n-3 fatty acids (1 g per day), or both would prevent cancer and cardiovascular disease in men 50 years of age or older and women 55 years of age or older in the United States. Participants were not recruited on the basis of vitamin D deficiency, low bone mass, or osteoporosis. Incident fractures were reported by participants on annual questionnaires and adjudicated by centralized medical-record review. The primary end points were incident total, nonvertebral, and hip fractures. Proportional-hazards models were used to estimate the treatment effect in intention-to-treat analyses.\nRESULTS: Among 25,871 participants (50.6% women [13,085 of 25,871] and 20.2% Black [5106 of 25,304]), we confirmed 1991 incident fractures in 1551 participants over a median follow-up of 5.3 years. Supplemental vitamin D3, as compared with placebo, did not have a significant effect on total fractures (which occurred in 769 of 12,927 participants in the vitamin D group and in 782 of 12,944 participants in the placebo group; hazard ratio, 0.98; 95% confidence interval [CI], 0.89 to 1.08; P = 0.70), nonvertebral fractures (hazard ratio, 0.97; 95% CI, 0.87 to 1.07; P = 0.50), or hip fractures (hazard ratio, 1.01; 95% CI, 0.70 to 1.47; P = 0.96). There was no modification of the treatment effect according to baseline characteristics, including age, sex, race or ethnic group, body-mass index, or serum 25-hydroxyvitamin D levels. There were no substantial between-group differences in adverse events as assessed in the parent trial.\nCONCLUSIONS: Vitamin D3 supplementation did not result in a significantly lower risk of fractures than placebo among generally healthy midlife and older adults who were not selected for vitamin D deficiency, low bone mass, or osteoporosis. (Funded by the National Institute of Arthritis and Musculoskeletal and Skin Diseases; VITAL ClinicalTrials.gov number, NCT01704859.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "30415637",
+   "title": "Marine n-3 Fatty Acids and Prevention of Cardiovascular Disease and Cancer.",
+   "authors": [
+    "Manson JE",
+    "Cook NR",
+    "Lee IM",
+    "Christen W",
+    "Bassuk SS",
+    "Mora S",
+    "Gibson H",
+    "Albert CM",
+    "Gordon D",
+    "Copeland T",
+    "D'Agostino D",
+    "Friedenberg G",
+    "Ridge C",
+    "Bubes V",
+    "Giovannucci EL",
+    "Willett WC",
+    "Buring JE",
+    "VITAL Research Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2019,
+   "doi": "10.1056/NEJMoa1811403",
+   "abstract": "BACKGROUND: Higher intake of marine n-3 (also called omega-3) fatty acids has been associated with reduced risks of cardiovascular disease and cancer in several observational studies. Whether supplementation with n-3 fatty acids has such effects in general populations at usual risk for these end points is unclear.\nMETHODS: We conducted a randomized, placebo-controlled trial, with a two-by-two factorial design, of vitamin D3 (at a dose of 2000 IU per day) and marine n-3 fatty acids (at a dose of 1 g per day) in the primary prevention of cardiovascular disease and cancer among men 50 years of age or older and women 55 years of age or older in the United States. Primary end points were major cardiovascular events (a composite of myocardial infarction, stroke, or death from cardiovascular causes) and invasive cancer of any type. Secondary end points included individual components of the composite cardiovascular end point, the composite end point plus coronary revascularization (expanded composite of cardiovascular events), site-specific cancers, and death from cancer. Safety was also assessed. This article reports the results of the comparison of n-3 fatty acids with placebo.\nRESULTS: A total of 25,871 participants, including 5106 black participants, underwent randomization. During a median follow-up of 5.3 years, a major cardiovascular event occurred in 386 participants in the n-3 group and in 419 in the placebo group (hazard ratio, 0.92; 95% confidence interval [CI], 0.80 to 1.06; P=0.24). Invasive cancer was diagnosed in 820 participants in the n-3 group and in 797 in the placebo group (hazard ratio, 1.03; 95% CI, 0.93 to 1.13; P=0.56). In the analyses of key secondary end points, the hazard ratios were as follows: for the expanded composite end point of cardiovascular events, 0.93 (95% CI, 0.82 to 1.04); for total myocardial infarction, 0.72 (95% CI, 0.59 to 0.90); for total stroke, 1.04 (95% CI, 0.83 to 1.31); for death from cardiovascular causes, 0.96 (95% CI, 0.76 to 1.21); and for death from cancer (341 deaths from cancer), 0.97 (95% CI, 0.79 to 1.20). In the analysis of death from any cause (978 deaths overall), the hazard ratio was 1.02 (95% CI, 0.90 to 1.15). No excess risks of bleeding or other serious adverse events were observed.\nCONCLUSIONS: Supplementation with n-3 fatty acids did not result in a lower incidence of major cardiovascular events or cancer than placebo. (Funded by the National Institutes of Health and others; VITAL ClinicalTrials.gov number, NCT01169259 .).",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "30638909",
+   "title": "Carbohydrate quality and human health: a series of systematic reviews and meta-analyses.",
+   "authors": [
+    "Reynolds A",
+    "Mann J",
+    "Cummings J",
+    "Winter N",
+    "Mete E",
+    "Te Morenga L"
+   ],
+   "journal": "Lancet (London, England)",
+   "year": 2019,
+   "doi": "10.1016/S0140-6736(18)31809-9",
+   "abstract": "BACKGROUND: Previous systematic reviews and meta-analyses explaining the relationship between carbohydrate quality and health have usually examined a single marker and a limited number of clinical outcomes. We aimed to more precisely quantify the predictive potential of several markers, to determine which markers are most useful, and to establish an evidence base for quantitative recommendations for intakes of dietary fibre.\nMETHODS: We did a series of systematic reviews and meta-analyses of prospective studies published from database inception to April 30, 2017, and randomised controlled trials published from database inception to Feb 28, 2018, which reported on indicators of carbohydrate quality and non-communicable disease incidence, mortality, and risk factors. Studies were identified by searches in PubMed, Ovid MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials, and by hand searching of previous publications. We excluded prospective studies and trials reporting on participants with a chronic disease, and weight loss trials or trials involving supplements. Searches, data extraction, and bias assessment were duplicated independently. Robustness of pooled estimates from random-effects models was considered with sensitivity analyses, meta-regression, dose-response testing, and subgroup analyses. The GRADE approach was used to assess quality of evidence.\nFINDINGS: Just under 135 million person-years of data from 185 prospective studies and 58 clinical trials with 4635 adult participants were included in the analyses. Observational data suggest a 15-30% decrease in all-cause and cardiovascular related mortality, and incidence of coronary heart disease, stroke incidence and mortality, type 2 diabetes, and colorectal cancer when comparing the highest dietary fibre consumers with the lowest consumers Clinical trials show significantly lower bodyweight, systolic blood pressure, and total cholesterol when comparing higher with lower intakes of dietary fibre. Risk reduction associated with a range of critical outcomes was greatest when daily intake of dietary fibre was between 25 g and 29 g. Dose-response curves suggested that higher intakes of dietary fibre could confer even greater benefit to protect against cardiovascular diseases, type 2 diabetes, and colorectal and breast cancer. Similar findings for whole grain intake were observed. Smaller or no risk reductions were found with the observational data when comparing the effects of diets characterised by low rather than higher glycaemic index or load. The certainty of evidence for relationships between carbohydrate quality and critical outcomes was graded as moderate for dietary fibre, low to moderate for whole grains, and low to very low for dietary glycaemic index and glycaemic load. Data relating to other dietary exposures are scarce.\nINTERPRETATION: Findings from prospective studies and clinical trials associated with relatively high intakes of dietary fibre and whole grains were complementary, and striking dose-response evidence indicates that the relationships to several non-communicable diseases could be causal. Implementation of recommendations to increase dietary fibre intake and to replace refined grains with whole grains is expected to benefit human health. A major strength of the study was the ability to examine key indicators of carbohydrate quality in relation to a range of non-communicable disease outcomes from cohort studies and randomised trials in a single study. Our findings are limited to risk reduction in the population at large rather than those with chronic disease.\nFUNDING: Health Research Council of New Zealand, WHO, Riddet Centre of Research Excellence, Healthier Lives National Science Challenge, University of Otago, and the Otago Southland Diabetes Research Trust.",
+   "publicationTypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "35443107",
+   "title": "Calorie Restriction with or without Time-Restricted Eating in Weight Loss.",
+   "authors": [
+    "Liu D",
+    "Huang Y",
+    "Huang C",
+    "Yang S",
+    "Wei X",
+    "Zhang P",
+    "Guo D",
+    "Lin J",
+    "Xu B",
+    "Li C",
+    "He H",
+    "He J",
+    "Liu S",
+    "Shi L",
+    "Xue Y",
+    "Zhang H"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2022,
+   "doi": "10.1056/NEJMoa2114833",
+   "abstract": "BACKGROUND: The long-term efficacy and safety of time-restricted eating for weight loss are not clear.\nMETHODS: We randomly assigned 139 patients with obesity to time-restricted eating (eating only between 8:00 a.m. and 4:00 p.m.) with calorie restriction or daily calorie restriction alone. For 12 months, all the participants were instructed to follow a calorie-restricted diet that consisted of 1500 to 1800 kcal per day for men and 1200 to 1500 kcal per day for women. The primary outcome was the difference between the two groups in the change from baseline in body weight; secondary outcomes included changes in waist circumference, body-mass index (BMI), amount of body fat, and measures of metabolic risk factors.\nRESULTS: Of the total 139 participants who underwent randomization, 118 (84.9%) completed the 12-month follow-up visit. The mean weight loss from baseline at 12 months was -8.0 kg (95% confidence interval [CI], -9.6 to -6.4) in the time-restriction group and -6.3 kg (95% CI, -7.8 to -4.7) in the daily-calorie-restriction group. Changes in weight were not significantly different in the two groups at the 12-month assessment (net difference, -1.8 kg; 95% CI, -4.0 to 0.4; P = 0.11). Results of analyses of waist circumferences, BMI, body fat, body lean mass, blood pressure, and metabolic risk factors were consistent with the results of the primary outcome. In addition, there were no substantial differences between the groups in the numbers of adverse events.\nCONCLUSIONS: Among patients with obesity, a regimen of time-restricted eating was not more beneficial with regard to reduction in body weight, body fat, or metabolic risk factors than daily calorie restriction. (Funded by the National Key Research and Development Project [No. 2018YFA0800404] and others; ClinicalTrials.gov number, NCT03745612.).",
+   "publicationTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34459569",
+   "title": "Effect of Salt Substitution on Cardiovascular Events and Death.",
+   "authors": [
+    "Neal B",
+    "Wu Y",
+    "Feng X",
+    "Zhang R",
+    "Zhang Y",
+    "Shi J",
+    "Zhang J",
+    "Tian M",
+    "Huang L",
+    "Li Z",
+    "Yu Y",
+    "Zhao Y",
+    "Zhou B",
+    "Sun J",
+    "Liu Y",
+    "Yin X",
+    "Hao Z",
+    "Yu J",
+    "Li KC",
+    "Zhang X",
+    "Duan P",
+    "Wang F",
+    "Ma B",
+    "Shi W",
+    "Di Tanna GL",
+    "Stepien S",
+    "Shan S",
+    "Pearson SA",
+    "Li N",
+    "Yan LL",
+    "Labarthe D",
+    "Elliott P"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2021,
+   "doi": "10.1056/NEJMoa2105675",
+   "abstract": "BACKGROUND: Salt substitutes with reduced sodium levels and increased potassium levels have been shown to lower blood pressure, but their effects on cardiovascular and safety outcomes are uncertain.\nMETHODS: We conducted an open-label, cluster-randomized trial involving persons from 600 villages in rural China. The participants had a history of stroke or were 60 years of age or older and had high blood pressure. The villages were randomly assigned in a 1:1 ratio to the intervention group, in which the participants used a salt substitute (75% sodium chloride and 25% potassium chloride by mass), or to the control group, in which the participants continued to use regular salt (100% sodium chloride). The primary outcome was stroke, the secondary outcomes were major adverse cardiovascular events and death from any cause, and the safety outcome was clinical hyperkalemia.\nRESULTS: A total of 20,995 persons were enrolled in the trial. The mean age of the participants was 65.4 years, and 49.5% were female, 72.6% had a history of stroke, and 88.4% a history of hypertension. The mean duration of follow-up was 4.74 years. The rate of stroke was lower with the salt substitute than with regular salt (29.14 events vs. 33.65 events per 1000 person-years; rate ratio, 0.86; 95% confidence interval [CI], 0.77 to 0.96; P = 0.006), as were the rates of major cardiovascular events (49.09 events vs. 56.29 events per 1000 person-years; rate ratio, 0.87; 95% CI, 0.80 to 0.94; P<0.001) and death (39.28 events vs. 44.61 events per 1000 person-years; rate ratio, 0.88; 95% CI, 0.82 to 0.95; P<0.001). The rate of serious adverse events attributed to hyperkalemia was not significantly higher with the salt substitute than with regular salt (3.35 events vs. 3.30 events per 1000 person-years; rate ratio, 1.04; 95% CI, 0.80 to 1.37; P = 0.76).\nCONCLUSIONS: Among persons who had a history of stroke or were 60 years of age or older and had high blood pressure, the rates of stroke, major cardiovascular events, and death from any cause were lower with the salt substitute than with regular salt. (Funded by the National Health and Medical Research Council of Australia; SSaSS ClinicalTrials.gov number, NCT02092090.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "1677062",
+   "title": "Prevention of neural tube defects: results of the Medical Research Council Vitamin Study. MRC Vitamin Study Research Group.",
+   "authors": [],
+   "journal": "Lancet (London, England)",
+   "year": 1991,
+   "doi": null,
+   "abstract": "A randomised double-blind prevention trial with a factorial design was conducted at 33 centres in seven countries to determine whether supplementation with folic acid (one of the vitamins in the B group) or a mixture of seven other vitamins (A,D,B1,B2,B6,C and nicotinamide) around the time of conception can prevent neural tube defects (anencephaly, spina bifida, encephalocele). A total of 1817 women at high risk of having a pregnancy with a neural tube defect, because of a previous affected pregnancy, were allocated at random to one of four groups--namely, folic acid, other vitamins, both, or neither. 1195 had a completed pregnancy in which the fetus or infant was known to have or not have a neural tube defect; 27 of these had a known neural tube defect, 6 in the folic acid groups and 21 in the two other groups, a 72% protective effect (relative risk 0.28, 95% confidence interval 0.12-0.71). The other vitamins showed no significant protective effect (relative risk 0.80, 95% Cl 0.32-1.72). There was no demonstrable harm from the folic acid supplementation, though the ability of the study to detect rare or slight adverse effects was limited. Folic acid supplementation starting before pregnancy can now be firmly recommended for all women who have had an affected pregnancy, and public health measures should be taken to ensure that the diet of all women who may bear children contains an adequate amount of folic acid.",
+   "publicationTypes": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22998340",
+   "title": "A trial of sugar-free or sugar-sweetened beverages and body weight in children.",
+   "authors": [
+    "de Ruyter JC",
+    "Olthof MR",
+    "Seidell JC",
+    "Katan MB"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2012,
+   "doi": "10.1056/NEJMoa1203034",
+   "abstract": "BACKGROUND: The consumption of beverages that contain sugar is associated with overweight, possibly because liquid sugars do not lead to a sense of satiety, so the consumption of other foods is not reduced. However, data are lacking to show that the replacement of sugar-containing beverages with noncaloric beverages diminishes weight gain.\nMETHODS: We conducted an 18-month trial involving 641 primarily normal-weight children from 4 years 10 months to 11 years 11 months of age. Participants were randomly assigned to receive 250 ml (8 oz) per day of a sugar-free, artificially sweetened beverage (sugar-free group) or a similar sugar-containing beverage that provided 104 kcal (sugar group). Beverages were distributed through schools. At 18 months, 26% of the children had stopped consuming the beverages; the data from children who did not complete the study were imputed.\nRESULTS: The z score for the body-mass index (BMI, the weight in kilograms divided by the square of the height in meters) increased on average by 0.02 SD units in the sugar-free group and by 0.15 SD units in the sugar group; the 95% confidence interval (CI) of the difference was -0.21 to -0.05. Weight increased by 6.35 kg in the sugar-free group as compared with 7.37 kg in the sugar group (95% CI for the difference, -1.54 to -0.48). The skinfold-thickness measurements, waist-to-height ratio, and fat mass also increased significantly less in the sugar-free group. Adverse events were minor. When we combined measurements at 18 months in 136 children who had discontinued the study with those in 477 children who completed the study, the BMI z score increased by 0.06 SD units in the sugar-free group and by 0.12 SD units in the sugar group (P=0.06).\nCONCLUSIONS: Masked replacement of sugar-containing beverages with noncaloric beverages reduced weight gain and fat accumulation in normal-weight children. (Funded by the Netherlands Organization for Health Research and Development and others; DRINK ClinicalTrials.gov number, NCT00893529.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30954305",
+   "title": "Health effects of dietary risks in 195 countries, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017.",
+   "authors": [
+    "GBD 2017 Diet Collaborators"
+   ],
+   "journal": "Lancet (London, England)",
+   "year": 2019,
+   "doi": "10.1016/S0140-6736(19)30041-8",
+   "abstract": "BACKGROUND: Suboptimal diet is an important preventable risk factor for non-communicable diseases (NCDs); however, its impact on the burden of NCDs has not been systematically evaluated. This study aimed to evaluate the consumption of major foods and nutrients across 195 countries and to quantify the impact of their suboptimal intake on NCD mortality and morbidity.\nMETHODS: By use of a comparative risk assessment approach, we estimated the proportion of disease-specific burden attributable to each dietary risk factor (also referred to as population attributable fraction) among adults aged 25 years or older. The main inputs to this analysis included the intake of each dietary factor, the effect size of the dietary factor on disease endpoint, and the level of intake associated with the lowest risk of mortality. Then, by use of disease-specific population attributable fractions, mortality, and disability-adjusted life-years (DALYs), we calculated the number of deaths and DALYs attributable to diet for each disease outcome.\nFINDINGS: In 2017, 11 million (95% uncertainty interval [UI] 10-12) deaths and 255 million (234-274) DALYs were attributable to dietary risk factors. High intake of sodium (3 million [1-5] deaths and 70 million [34-118] DALYs), low intake of whole grains (3 million [2-4] deaths and 82 million [59-109] DALYs), and low intake of fruits (2 million [1-4] deaths and 65 million [41-92] DALYs) were the leading dietary risk factors for deaths and DALYs globally and in many countries. Dietary data were from mixed sources and were not available for all countries, increasing the statistical uncertainty of our estimates.\nINTERPRETATION: This study provides a comprehensive picture of the potential impact of suboptimal diet on NCD mortality and morbidity, highlighting the need for improving diet across nations. Our findings will inform implementation of evidence-based dietary interventions and provide a platform for evaluation of their impact on human health annually.\nFUNDING: Bill & Melinda Gates Foundation.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34496174",
+   "title": "Benefits and Risks of Iron Interventions in Infants in Rural Bangladesh.",
+   "authors": [
+    "Pasricha SR",
+    "Hasan MI",
+    "Braat S",
+    "Larson LM",
+    "Tipu SMM",
+    "Hossain SJ",
+    "Shiraji S",
+    "Baldi A",
+    "Bhuiyan MSA",
+    "Tofail F",
+    "Fisher J",
+    "Grantham-McGregor S",
+    "Simpson JA",
+    "Hamadani JD",
+    "Biggs BA"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2021,
+   "doi": "10.1056/NEJMoa2034187",
+   "abstract": "BACKGROUND: Universal provision of iron supplements (drops or syrup) or multiple micronutrient powders to young children in low-to-middle-income countries where anemia is prevalent is recommended by the World Health Organization and widely implemented. The functional benefits and safety of these interventions are unclear.\nMETHODS: We conducted a three-group, double-blind, double-dummy, individually randomized, placebo-controlled trial to assess the immediate and medium-term benefits and risks of 3 months of daily supplementation with iron syrup or iron-containing multiple micronutrient powders, as compared with placebo, in 8-month-old children in rural Bangladesh. The primary outcome was cognitive development, as assessed by the cognitive composite score on the Bayley Scales of Infant and Toddler Development, third edition, immediately after completion of the assigned 3-month regimen; scores range from 55 to 145, with higher scores indicating better cognitive performance. Secondary outcomes included the cognitive composite score at 9 months after completion of the assigned regimen; behavioral, language, and motor development, as well as growth and hematologic markers, immediately after completion and at 9 months after completion; and safety.\nRESULTS: We randomly assigned 3300 infants to receive iron syrup (1101 infants), multiple micronutrient powders (1099), or placebo (1100) daily. After completion of the assigned 3-month regimen, no apparent effect on the cognitive composite score was observed with iron syrup as compared with placebo (mean between-group difference in change in score from baseline, -0.30 points; 95% confidence interval [CI], -1.08 to 0.48) or with multiple micronutrient powders as compared with placebo (mean between-group difference in change in score from baseline, 0.23 points; 95% CI, -0.55 to 1.00). No apparent effect on any other developmental or growth outcome was observed immediately after completion of the assigned regimen or at 9 months after completion. At 9 months after completion of the assigned regimen, the prevalences of anemia, iron deficiency, and iron deficiency anemia increased in all three trial groups but remained lower among the children who received iron syrup or multiple micronutrient powders than among those who received placebo. The risk of serious adverse events and incidence of symptoms of infection were similar in the three trial groups.\nCONCLUSIONS: In this trial involving infants in Bangladesh, 3 months of daily supplementation with iron syrup or multiple micronutrient powders did not appear to have an effect on child development or other functional outcomes as compared with placebo. (Funded by the National Health and Medical Research Council of Australia; BRISC Australian New Zealand Clinical Trials Registry number, ACTRN12617000660381.).",
+   "publicationTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "26869575",
+   "title": "Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect.",
+   "authors": [
+    "Victora CG",
+    "Bahl R",
+    "Barros AJ",
+    "França GV",
+    "Horton S",
+    "Krasevec J",
+    "Murch S",
+    "Sankar MJ",
+    "Walker N",
+    "Rollins NC",
+    "Lancet Breastfeeding Series Group"
+   ],
+   "journal": "Lancet (London, England)",
+   "year": 2016,
+   "doi": "10.1016/S0140-6736(15)01024-7",
+   "abstract": "The importance of breastfeeding in low-income and middle-income countries is well recognised, but less consensus exists about its importance in high-income countries. In low-income and middle-income countries, only 37% of children younger than 6 months of age are exclusively breastfed. With few exceptions, breastfeeding duration is shorter in high-income countries than in those that are resource-poor. Our meta-analyses indicate protection against child infections and malocclusion, increases in intelligence, and probable reductions in overweight and diabetes. We did not find associations with allergic disorders such as asthma or with blood pressure or cholesterol, and we noted an increase in tooth decay with longer periods of breastfeeding. For nursing women, breastfeeding gave protection against breast cancer and it improved birth spacing, and it might also protect against ovarian cancer and type 2 diabetes. The scaling up of breastfeeding to a near universal level could prevent 823,000 annual deaths in children younger than 5 years and 20,000 annual deaths from breast cancer. Recent epidemiological and biological findings from during the past decade expand on the known benefits of breastfeeding for women and children, whether they are rich or poor.",
+   "publicationTypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "2194128",
+   "title": "A randomized, controlled trial of vitamin A in children with severe measles.",
+   "authors": [
+    "Hussey GD",
+    "Klein M"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 1990,
+   "doi": "10.1056/NEJM199007193230304",
+   "abstract": "BACKGROUND: Measles kills about 2 million children annually, and there is no specific therapy for the disease. It has been suggested that vitamin A may be of benefit in the treatment of measles.\nMETHODS: We conducted a randomized, double-blind trial involving 189 children who were hospitalized at a regional center in South Africa because of measles complicated by pneumonia, diarrhea, or croup. The children (median age, 10 months) were assigned to receive either vitamin A (total dose, 400,000 IU of retinyl palmitate, given orally; n = 92) or placebo (n = 97), beginning within five days of the onset of the rash. At base line, the characteristics of the two groups were similar.\nRESULTS: Although clinically apparent vitamin A deficiency is rare in this population, the children's serum retinol levels were markedly depressed (mean [+/- SEM], 0.405 +/- 0.021 mumols per liter [11.6 +/- 0.6 micrograms per deciliter]), and 92 percent of them had hyporetinemia (serum retinol level less than 0.7 mumols per liter [20 micrograms per deciliter]). Serum concentrations of retinol-binding protein (mean, 30.1 +/- 2.0 mg per liter) and albumin (mean, 33.4 +/- 0.5 g per liter) were also low. As compared with the placebo group, the children who received vitamin A recovered more rapidly from pneumonia (mean, 6.3 vs. 12.4 days, respectively; P less than 0.001) and diarrhea (mean, 5.6 vs. 8.5 days; P less than 0.001), had less croup (13 vs. 27 cases; P = 0.03), and spent fewer days in the hospital (mean, 10.6 vs. 14.8 days; P = 0.01). Of the 12 children who died, 10 were among those given placebo (P = 0.05). For the group treated with vitamin A, the risk of death or a major complication during the hospital stay was half that of the control group (relative risk, 0.51; 95 percent confidence interval, 0.35 to 0.74).\nCONCLUSIONS: Treatment with vitamin A reduces morbidity and mortality in measles, and all children with severe measles should be given vitamin A supplements, whether or not they are thought to have a nutritional deficiency.",
+   "publicationTypes": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
   },
   {
    "pmid": "32491676",
@@ -78901,6 +79224,1014 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Zinc is a medication used in the management and treatment of diarrhea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30415629-1-en",
+   "translationKey": "nutrition-30415629-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "In the VITAL trial, did 2000 IU/day of vitamin D prevent cancer or cardiovascular events?",
+   "options": [
+    "Yes, it halved both",
+    "Only cancer, by 50%",
+    "No, neither was reduced",
+    "Only heart attacks, by 50%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Among ~26,000 older US adults, vitamin D did not lower invasive cancer or major cardiovascular events.",
+   "shortExplanation": "No.",
+   "pmid": "30415629",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Supplementation with vitamin D did not result in a lower incidence of invasive cancer or cardiovascular events than placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30415629-1-es",
+   "translationKey": "nutrition-30415629-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "En el ensayo VITAL, ¿2000 UI/día de vitamina D previnieron el cáncer o los eventos cardiovasculares?",
+   "options": [
+    "Sí, redujo ambos a la mitad",
+    "Solo el cáncer, en 50%",
+    "No, no redujo ninguno",
+    "Solo los infartos, en 50%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "En unos 26.000 adultos mayores de EE. UU., la vitamina D no redujo el cáncer invasivo ni los eventos cardiovasculares.",
+   "shortExplanation": "No.",
+   "pmid": "30415629",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Supplementation with vitamin D did not result in a lower incidence of invasive cancer or cardiovascular events than placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-35939577-1-en",
+   "translationKey": "nutrition-35939577-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "What did the VITAL fracture substudy find for generally healthy adults taking vitamin D3?",
+   "options": [
+    "No significant drop in fractures",
+    "Hip fractures fell by 70%",
+    "Fractures doubled with vitamin D",
+    "Only vertebral fractures fell"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Without selecting for deficiency or osteoporosis, vitamin D3 did not reduce total, nonvertebral or hip fractures.",
+   "shortExplanation": "No fewer fractures.",
+   "pmid": "35939577",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vitamin D3 supplementation did not result in a significantly lower risk of fractures than placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-35939577-1-es",
+   "translationKey": "nutrition-35939577-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué halló el subestudio de fracturas de VITAL en adultos sanos que tomaban vitamina D3?",
+   "options": [
+    "Ninguna baja significativa de fracturas",
+    "Las fracturas de cadera bajaron un 70%",
+    "Las fracturas se duplicaron",
+    "Solo bajaron las vertebrales"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Sin seleccionar por déficit u osteoporosis, la vitamina D3 no redujo fracturas totales, no vertebrales ni de cadera.",
+   "shortExplanation": "Sin menos fracturas.",
+   "pmid": "35939577",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vitamin D3 supplementation did not result in a significantly lower risk of fractures than placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30415637-1-en",
+   "translationKey": "nutrition-30415637-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "In VITAL, omega-3 supplements did not reduce the primary endpoints, but which secondary outcome was lower?",
+   "options": [
+    "Total stroke incidence",
+    "Deaths from cancer",
+    "Death from any cause",
+    "Myocardial infarction"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The hazard ratio for myocardial infarction was 0.72, while major events overall and cancer were not reduced.",
+   "shortExplanation": "Heart attacks.",
+   "pmid": "30415637",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "for total myocardial infarction, 0.72 (95% CI, 0.59 to 0.90)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30415637-1-es",
+   "translationKey": "nutrition-30415637-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "En VITAL, el omega-3 no redujo los objetivos principales, pero ¿qué resultado secundario fue menor?",
+   "options": [
+    "El ACV total",
+    "Las muertes por cáncer",
+    "Las muertes por toda causa",
+    "El infarto de miocardio"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La razón de riesgo para infarto fue 0,72, aunque los eventos mayores en conjunto y el cáncer no bajaron.",
+   "shortExplanation": "Los infartos.",
+   "pmid": "30415637",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "for total myocardial infarction, 0.72 (95% CI, 0.59 to 0.90)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30638909-1-en",
+   "translationKey": "nutrition-30638909-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "According to this Lancet meta-analysis, what daily fibre intake was linked to the greatest risk reduction?",
+   "options": [
+    "5 to 9 g",
+    "25 to 29 g",
+    "60 to 70 g",
+    "Over 100 g"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Benefits were greatest at 25–29 g/day, and higher intakes might protect even more.",
+   "shortExplanation": "25–29 g.",
+   "pmid": "30638909",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Risk reduction associated with a range of critical outcomes was greatest when daily intake of dietary fibre was between 25 g and 29 g",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30638909-1-es",
+   "translationKey": "nutrition-30638909-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Según este metaanálisis de The Lancet, ¿qué consumo diario de fibra se asoció con la mayor reducción de riesgo?",
+   "options": [
+    "5 a 9 g",
+    "25 a 29 g",
+    "60 a 70 g",
+    "Más de 100 g"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los beneficios fueron máximos con 25–29 g/día, y consumos mayores podrían proteger aún más.",
+   "shortExplanation": "25–29 g.",
+   "pmid": "30638909",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Risk reduction associated with a range of critical outcomes was greatest when daily intake of dietary fibre was between 25 g and 29 g",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30638909-2-en",
+   "translationKey": "nutrition-30638909-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "How much lower was all-cause and cardiovascular mortality in the highest versus lowest fibre consumers?",
+   "options": [
+    "About 1–3%",
+    "About 50–70%",
+    "About 15–30%",
+    "No difference"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Cohorts showed 15–30% lower mortality and fewer cases of heart disease, stroke, diabetes and colorectal cancer.",
+   "shortExplanation": "15–30%.",
+   "pmid": "30638909",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Observational data suggest a 15-30% decrease in all-cause and cardiovascular related mortality",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30638909-2-es",
+   "translationKey": "nutrition-30638909-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Cuánto menor era la mortalidad total y cardiovascular en quienes más fibra consumían frente a quienes menos?",
+   "options": [
+    "Cerca del 1–3%",
+    "Cerca del 50–70%",
+    "Cerca del 15–30%",
+    "Sin diferencias"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las cohortes mostraron 15–30% menos mortalidad y menos cardiopatía, ACV, diabetes y cáncer colorrectal.",
+   "shortExplanation": "15–30%.",
+   "pmid": "30638909",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Observational data suggest a 15-30% decrease in all-cause and cardiovascular related mortality",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30638909-3-en",
+   "translationKey": "nutrition-30638909-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "How did glycemic index or load compare with fibre as a marker of carbohydrate quality?",
+   "options": [
+    "It showed smaller or no benefits",
+    "It predicted health far better",
+    "It was identical to fibre",
+    "It was the only useful marker"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Low glycemic index or load diets gave small or no risk reductions; evidence certainty was low.",
+   "shortExplanation": "Weaker marker.",
+   "pmid": "30638909",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Smaller or no risk reductions were found with the observational data when comparing the effects of diets characterised by low rather than higher glycaemic index or load",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30638909-3-es",
+   "translationKey": "nutrition-30638909-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "¿Cómo se comparó el índice o la carga glucémica con la fibra como marcador de calidad de los carbohidratos?",
+   "options": [
+    "Mostró beneficios menores o nulos",
+    "Predijo los resultados mucho mejor",
+    "Fue idéntico a la fibra",
+    "Fue el único marcador útil"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las dietas de bajo índice o carga glucémica dieron reducciones pequeñas o nulas; la certeza fue baja.",
+   "shortExplanation": "Marcador más débil.",
+   "pmid": "30638909",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Smaller or no risk reductions were found with the observational data when comparing the effects of diets characterised by low rather than higher glycaemic index or load",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-35443107-1-en",
+   "translationKey": "nutrition-35443107-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "When both groups cut calories, did eating only between 8 a.m. and 4 p.m. add weight loss after 12 months?",
+   "options": [
+    "Yes, it doubled weight loss",
+    "Yes, but only in women",
+    "It caused weight gain",
+    "No, it gave no extra benefit"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Weight loss was −8.0 vs −6.3 kg, a non-significant difference; metabolic outcomes were also similar.",
+   "shortExplanation": "No extra benefit.",
+   "pmid": "35443107",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a regimen of time-restricted eating was not more beneficial with regard to reduction in body weight, body fat, or metabolic risk factors than daily calorie restriction",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-35443107-1-es",
+   "translationKey": "nutrition-35443107-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Si ambos grupos reducían calorías, ¿comer solo entre las 8 y las 16 h agregó pérdida de peso a los 12 meses?",
+   "options": [
+    "Sí, duplicó la pérdida de peso",
+    "Sí, pero solo en mujeres",
+    "Hizo aumentar de peso",
+    "No, no agregó beneficio"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La pérdida fue −8,0 frente a −6,3 kg, una diferencia no significativa; los resultados metabólicos también fueron similares.",
+   "shortExplanation": "Sin beneficio extra.",
+   "pmid": "35443107",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a regimen of time-restricted eating was not more beneficial with regard to reduction in body weight, body fat, or metabolic risk factors than daily calorie restriction",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34459569-1-en",
+   "translationKey": "nutrition-34459569-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "What was the composition of the salt substitute used in the Chinese village trial?",
+   "options": [
+    "100% potassium chloride",
+    "75% NaCl and 25% KCl",
+    "50% NaCl and 50% sugar",
+    "Sea salt with added iodine"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The substitute replaced a quarter of sodium chloride with potassium chloride.",
+   "shortExplanation": "75% NaCl, 25% KCl.",
+   "pmid": "34459569",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "participants used a salt substitute (75% sodium chloride and 25% potassium chloride by mass)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34459569-1-es",
+   "translationKey": "nutrition-34459569-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué composición tenía el sustituto de sal usado en el ensayo en aldeas chinas?",
+   "options": [
+    "100% cloruro de potasio",
+    "75% NaCl y 25% KCl",
+    "50% NaCl y 50% azúcar",
+    "Sal marina con yodo agregado"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El sustituto reemplazaba un cuarto del cloruro de sodio por cloruro de potasio.",
+   "shortExplanation": "75% NaCl, 25% KCl.",
+   "pmid": "34459569",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "participants used a salt substitute (75% sodium chloride and 25% potassium chloride by mass)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34459569-2-en",
+   "translationKey": "nutrition-34459569-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "What happened to stroke, cardiovascular events and deaths with the salt substitute?",
+   "options": [
+    "All three were lower",
+    "Only stroke rose a little",
+    "Deaths from hyperkalemia rose",
+    "Nothing changed at all"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "All three fell, without a significant rise in serious hyperkalemia.",
+   "shortExplanation": "All lower.",
+   "pmid": "34459569",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the rates of stroke, major cardiovascular events, and death from any cause were lower with the salt substitute than with regular salt",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34459569-2-es",
+   "translationKey": "nutrition-34459569-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué pasó con el ACV, los eventos cardiovasculares y las muertes con el sustituto de sal?",
+   "options": [
+    "Los tres fueron menores",
+    "Solo el ACV subió un poco",
+    "Subieron las muertes por hiperpotasemia",
+    "No cambió nada"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los tres bajaron, sin un aumento significativo de hiperpotasemia grave.",
+   "shortExplanation": "Los tres bajaron.",
+   "pmid": "34459569",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the rates of stroke, major cardiovascular events, and death from any cause were lower with the salt substitute than with regular salt",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-1677062-1-en",
+   "translationKey": "nutrition-1677062-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "How much did folic acid around conception protect against recurrent neural tube defects in the MRC trial?",
+   "options": [
+    "About 12%",
+    "About 32%",
+    "About 72%",
+    "About 100%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Folic acid gave a 72% protective effect; the other vitamins showed no significant protection.",
+   "shortExplanation": "~72%.",
+   "pmid": "1677062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a 72% protective effect",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-1677062-1-es",
+   "translationKey": "nutrition-1677062-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Cuánto protegió el ácido fólico periconcepcional contra la recurrencia de defectos del tubo neural en el ensayo MRC?",
+   "options": [
+    "Cerca del 12%",
+    "Cerca del 32%",
+    "Cerca del 72%",
+    "Cerca del 100%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El ácido fólico protegió en un 72%; las otras vitaminas no mostraron protección significativa.",
+   "shortExplanation": "~72%.",
+   "pmid": "1677062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a 72% protective effect",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-1677062-2-en",
+   "translationKey": "nutrition-1677062-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "What public health action did the MRC Vitamin Study recommend?",
+   "options": [
+    "Avoid all B vitamins in pregnancy",
+    "Give folic acid only after birth",
+    "Test every baby's spine at birth",
+    "Ensure enough folic acid for women"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The diet of all women who may become pregnant should contain enough folic acid.",
+   "shortExplanation": "Folic acid for all women.",
+   "pmid": "1677062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "public health measures should be taken to ensure that the diet of all women who may bear children contains an adequate amount of folic acid",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-1677062-2-es",
+   "translationKey": "nutrition-1677062-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué medida de salud pública recomendó el MRC Vitamin Study?",
+   "options": [
+    "Evitar toda vitamina B en el embarazo",
+    "Dar ácido fólico solo tras el parto",
+    "Revisar la columna de cada bebé al nacer",
+    "Asegurar ácido fólico a las mujeres"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La dieta de todas las mujeres que puedan quedar embarazadas debe tener suficiente ácido fólico.",
+   "shortExplanation": "Ácido fólico para todas.",
+   "pmid": "1677062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "public health measures should be taken to ensure that the diet of all women who may bear children contains an adequate amount of folic acid",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-22998340-1-en",
+   "translationKey": "nutrition-22998340-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "In the DRINK trial, what did replacing a daily sugary drink with a sugar-free one do in children?",
+   "options": [
+    "Less weight gain and fat",
+    "No effect on weight at all",
+    "More weight gain and fat",
+    "Only lowered their height"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Over 18 months, the sugar-free group gained about 1 kg less and accumulated less fat.",
+   "shortExplanation": "Less weight gain.",
+   "pmid": "22998340",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Masked replacement of sugar-containing beverages with noncaloric beverages reduced weight gain and fat accumulation in normal-weight children",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-22998340-1-es",
+   "translationKey": "nutrition-22998340-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "En el ensayo DRINK, ¿qué logró reemplazar una bebida azucarada diaria por una sin azúcar en niños?",
+   "options": [
+    "Menos aumento de peso y grasa",
+    "Ningún efecto sobre el peso",
+    "Más aumento de peso y grasa",
+    "Solo redujo su estatura"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "En 18 meses, el grupo sin azúcar aumentó cerca de 1 kg menos y acumuló menos grasa.",
+   "shortExplanation": "Menos aumento de peso.",
+   "pmid": "22998340",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Masked replacement of sugar-containing beverages with noncaloric beverages reduced weight gain and fat accumulation in normal-weight children",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-22998340-2-en",
+   "translationKey": "nutrition-22998340-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "Why might sugary drinks promote overweight, according to the DRINK investigators?",
+   "options": [
+    "They contain hidden fat",
+    "Liquid sugar gives little satiety",
+    "They block thyroid hormone",
+    "They reduce everyday physical activity"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Calories from liquids do not create satiety, so other food intake is not reduced.",
+   "shortExplanation": "Little satiety.",
+   "pmid": "22998340",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "possibly because liquid sugars do not lead to a sense of satiety",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-22998340-2-es",
+   "translationKey": "nutrition-22998340-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "Según los investigadores de DRINK, ¿por qué las bebidas azucaradas favorecerían el sobrepeso?",
+   "options": [
+    "Contienen grasa oculta",
+    "El azúcar líquido sacia poco",
+    "Bloquean la hormona tiroidea",
+    "Reducen la actividad física"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las calorías líquidas no generan saciedad, así que no se reduce lo que se come.",
+   "shortExplanation": "Sacian poco.",
+   "pmid": "22998340",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "possibly because liquid sugars do not lead to a sense of satiety",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30954305-1-en",
+   "translationKey": "nutrition-30954305-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "How many deaths worldwide were attributed to dietary risks in 2017?",
+   "options": [
+    "About 1 million",
+    "About 110 million",
+    "About 11 million",
+    "About 100,000"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Suboptimal diet caused about 11 million deaths and 255 million DALYs.",
+   "shortExplanation": "~11 million.",
+   "pmid": "30954305",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 2017, 11 million (95% uncertainty interval [UI] 10-12) deaths and 255 million (234-274) DALYs were attributable to dietary risk factors",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30954305-1-es",
+   "translationKey": "nutrition-30954305-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Cuántas muertes en el mundo se atribuyeron a riesgos de la dieta en 2017?",
+   "options": [
+    "Cerca de 1 millón",
+    "Cerca de 110 millones",
+    "Cerca de 11 millones",
+    "Cerca de 100.000"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mala alimentación causó cerca de 11 millones de muertes y 255 millones de AVAD.",
+   "shortExplanation": "~11 millones.",
+   "pmid": "30954305",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 2017, 11 million (95% uncertainty interval [UI] 10-12) deaths and 255 million (234-274) DALYs were attributable to dietary risk factors",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30954305-2-en",
+   "translationKey": "nutrition-30954305-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "Which dietary risks were the leading causes of diet-related deaths globally?",
+   "options": [
+    "Too much red meat, eggs and milk",
+    "Too little coffee, tea and water",
+    "Too much fat, protein and fibre",
+    "High salt, low whole grains, fruit"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "High sodium, low whole grains and low fruit intake led the dietary risks for deaths and DALYs.",
+   "shortExplanation": "Sodium, grains, fruit.",
+   "pmid": "30954305",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "High intake of sodium (3 million [1-5] deaths and 70 million [34-118] DALYs), low intake of whole grains (3 million [2-4] deaths and 82 million [59-109] DALYs), and low intake of fruits",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30954305-2-es",
+   "translationKey": "nutrition-30954305-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué riesgos alimentarios fueron las principales causas de muertes ligadas a la dieta en el mundo?",
+   "options": [
+    "Exceso de carne roja, huevos y leche",
+    "Poco café, té y agua",
+    "Exceso de grasa, proteína y fibra",
+    "Mucho sodio, poco integral y fruta"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mucho sodio, pocos granos integrales y poca fruta encabezaron los riesgos de muerte y AVAD.",
+   "shortExplanation": "Sodio, granos, fruta.",
+   "pmid": "30954305",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "High intake of sodium (3 million [1-5] deaths and 70 million [34-118] DALYs), low intake of whole grains (3 million [2-4] deaths and 82 million [59-109] DALYs), and low intake of fruits",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34496174-1-en",
+   "translationKey": "nutrition-34496174-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "In Bangladeshi infants, what did 3 months of iron syrup or micronutrient powders do for cognitive development?",
+   "options": [
+    "Raised it by many points",
+    "No apparent effect",
+    "Lowered it markedly",
+    "Only helped girls"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "No developmental or growth benefit was seen, although anemia and iron deficiency were lower later on.",
+   "shortExplanation": "No apparent effect.",
+   "pmid": "34496174",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "3 months of daily supplementation with iron syrup or multiple micronutrient powders did not appear to have an effect on child development",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34496174-1-es",
+   "translationKey": "nutrition-34496174-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "En lactantes de Bangladesh, ¿qué efecto tuvieron 3 meses de jarabe de hierro o micronutrientes en polvo sobre el desarrollo cognitivo?",
+   "options": [
+    "Lo subió muchos puntos",
+    "Ningún efecto aparente",
+    "Lo bajó notablemente",
+    "Solo ayudó a las niñas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "No hubo beneficio en desarrollo ni crecimiento, aunque luego hubo menos anemia y déficit de hierro.",
+   "shortExplanation": "Sin efecto aparente.",
+   "pmid": "34496174",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "3 months of daily supplementation with iron syrup or multiple micronutrient powders did not appear to have an effect on child development",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-26869575-1-en",
+   "translationKey": "nutrition-26869575-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "In low- and middle-income countries, what share of infants under 6 months are exclusively breastfed?",
+   "options": [
+    "About 37%",
+    "About 87%",
+    "About 7%",
+    "About 67%"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Only about a third are exclusively breastfed, and durations are even shorter in high-income countries.",
+   "shortExplanation": "~37%.",
+   "pmid": "26869575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "only 37% of children younger than 6 months of age are exclusively breastfed",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-26869575-1-es",
+   "translationKey": "nutrition-26869575-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "En países de ingresos bajos y medios, ¿qué proporción de bebés menores de 6 meses recibe lactancia exclusiva?",
+   "options": [
+    "Cerca del 37%",
+    "Cerca del 87%",
+    "Cerca del 7%",
+    "Cerca del 67%"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Solo cerca de un tercio recibe lactancia exclusiva, y en países ricos la duración es aún menor.",
+   "shortExplanation": "~37%.",
+   "pmid": "26869575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "only 37% of children younger than 6 months of age are exclusively breastfed",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-26869575-2-en",
+   "translationKey": "nutrition-26869575-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "How many child deaths per year could near-universal breastfeeding prevent, according to this Lancet series?",
+   "options": [
+    "About 8,000",
+    "About 82,000",
+    "About 823,000",
+    "About 8 million"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Scaling up breastfeeding could prevent ~823,000 under-5 deaths and 20,000 breast cancer deaths yearly.",
+   "shortExplanation": "~823,000.",
+   "pmid": "26869575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "could prevent 823,000 annual deaths in children younger than 5 years and 20,000 annual deaths from breast cancer",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-26869575-2-es",
+   "translationKey": "nutrition-26869575-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "Según esta serie de The Lancet, ¿cuántas muertes infantiles por año podría evitar una lactancia casi universal?",
+   "options": [
+    "Cerca de 8.000",
+    "Cerca de 82.000",
+    "Cerca de 823.000",
+    "Cerca de 8 millones"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Ampliar la lactancia podría evitar ~823.000 muertes de menores de 5 años y 20.000 por cáncer de mama al año.",
+   "shortExplanation": "~823.000.",
+   "pmid": "26869575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "could prevent 823,000 annual deaths in children younger than 5 years and 20,000 annual deaths from breast cancer",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-26869575-3-en",
+   "translationKey": "nutrition-26869575-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "Which outcome was associated with LONGER breastfeeding in these meta-analyses?",
+   "options": [
+    "More childhood infections",
+    "Lower intelligence scores",
+    "More malocclusion",
+    "More tooth decay"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Breastfeeding protected against infections and malocclusion, but longer periods were linked to more caries.",
+   "shortExplanation": "Tooth decay.",
+   "pmid": "26869575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we noted an increase in tooth decay with longer periods of breastfeeding",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-26869575-3-es",
+   "translationKey": "nutrition-26869575-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "¿Qué resultado se asoció con una lactancia MÁS prolongada en estos metaanálisis?",
+   "options": [
+    "Más infecciones infantiles",
+    "Menor inteligencia",
+    "Más maloclusión",
+    "Más caries dentales"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La lactancia protegía contra infecciones y maloclusión, pero los períodos más largos se asociaron con más caries.",
+   "shortExplanation": "Caries.",
+   "pmid": "26869575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we noted an increase in tooth decay with longer periods of breastfeeding",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-2194128-1-en",
+   "translationKey": "nutrition-2194128-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "In South African children with severe measles, what did high-dose vitamin A achieve?",
+   "options": [
+    "No measurable benefit of any kind",
+    "Halved death or major complications",
+    "It made pneumonia far more frequent",
+    "It only shortened the rash"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Vitamin A sped recovery from pneumonia and diarrhea and halved death or major complications.",
+   "shortExplanation": "Halved bad outcomes.",
+   "pmid": "2194128",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the risk of death or a major complication during the hospital stay was half that of the control group",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-2194128-1-es",
+   "translationKey": "nutrition-2194128-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "En niños sudafricanos con sarampión grave, ¿qué logró la vitamina A en dosis alta?",
+   "options": [
+    "Ningún beneficio medible de ningún tipo",
+    "Mitad de muertes y complicaciones",
+    "Empeoró la neumonía",
+    "Solo acortó el exantema"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La vitamina A aceleró la recuperación de la neumonía y la diarrea y redujo a la mitad muertes o complicaciones mayores.",
+   "shortExplanation": "Mitad de malos resultados.",
+   "pmid": "2194128",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the risk of death or a major complication during the hospital stay was half that of the control group",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-2194128-2-en",
+   "translationKey": "nutrition-2194128-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Which children with measles did the authors say should receive vitamin A?",
+   "options": [
+    "Only those with night blindness",
+    "Only those who are underweight",
+    "Only those under 6 months old",
+    "All with severe measles"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Most had low serum retinol even without obvious deficiency, so all severe cases should get vitamin A.",
+   "shortExplanation": "All severe cases.",
+   "pmid": "2194128",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all children with severe measles should be given vitamin A supplements, whether or not they are thought to have a nutritional deficiency",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-2194128-2-es",
+   "translationKey": "nutrition-2194128-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué niños con sarampión debían recibir vitamina A, según los autores?",
+   "options": [
+    "Solo los que tienen ceguera nocturna",
+    "Solo los de bajo peso",
+    "Solo los menores de 6 meses",
+    "Todos los de sarampión grave"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La mayoría tenía retinol bajo aun sin déficit evidente, así que todos los casos graves deben recibir vitamina A.",
+   "shortExplanation": "Todos los graves.",
+   "pmid": "2194128",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all children with severe measles should be given vitamin A supplements, whether or not they are thought to have a nutritional deficiency",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
