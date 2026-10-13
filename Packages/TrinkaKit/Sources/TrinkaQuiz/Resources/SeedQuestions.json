@@ -2481,6 +2481,372 @@
    "bookshelfID": "NBK482139"
   },
   {
+   "pmid": "28846365",
+   "title": "Varicella-Zoster Virus (Chickenpox)",
+   "authors": [
+    "Saleh HM",
+    "Ayoade F",
+    "Kumar S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Chickenpox, or varicella, is a contagious disease caused by the varicella-zoster virus (VZV). The virus causes chickenpox, typically a primary infection in nonimmune hosts, and herpes zoster, or shingles, which results from the reactivation of a latent infection. In 1767, Heberden first differentiated chickenpox from smallpox. The word \"chickenpox\" has been thought to come from either the French word \"chiche-pois,\" which means \"chickpea\" (referring to the size of the vesicles), or the Old English word \"gigan,\" which means \"to itch.\" The association between varicella and herpes zoster was initially identified in 1888, when von Bokay documented the onset of varicella in children after contact with individuals with herpes zoster illness. Kundratitz (1922) and Bruusgaard (1932) more conclusively established the correlation between the 2 diseases through the occurrence of varicella in susceptible infants implanted with vesicle fluid from patients with herpes zoster. The discovery of the same virus in both cases confirmed their identical etiologies. Chickenpox is an airborne disease spread worldwide by coughing, sneezing, and contact with skin lesions. Symptoms begin 10 to 21 days after exposure; the average incubation period is about 2 weeks. Chickenpox results in a skin rash forming small, itchy blisters that scab over (see Image. Chickenpox [Varicella]). The rash typically starts on the chest, back, and face and then spreads, accompanied by fever, fatigue, pharyngitis, and headaches, usually lasting 5 to 7 days. The virus may spread 1 to 2 days before the rash appears until all lesions are crusted over. Complications include pneumonia, brain inflammation, and bacterial skin infections. The disease is more severe in adults than in children. Chickenpox is diagnosed based on the presenting symptoms and confirmed by polymerase chain reaction testing of the blister fluid or scabs. Tests for antibodies may be performed to determine if immunity is present. Although reinfections by varicella may occur, these reinfections are usually asymptomatic and much milder than the primary infection. Since its introduction in 1995, the varicella vaccine has significantly reduced the number of cases and complications, preventing about 70% to 90% of infections and 95% of severe disease. Routine immunization for children is recommended. Immunization within 3 days of exposure may still improve outcomes in children.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK448191"
+  },
+  {
+   "pmid": "32644711",
+   "title": "Epstein-Barr Virus",
+   "authors": [
+    "Hoover K",
+    "Higginbotham K"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Epstein Barr virus (EBV) is a double-stranded DNA virus that infects B lymphocyte cells. It is in the herpesvirus family and was discovered in 1964. It can cause a variety of diseases and is spread mainly from saliva containing virus-infected epithelial cells. Close to 95% of adults throughout the world have been infected with EBV. It is a causative agent of infectious mononucleosis. Treatment is generally supportive care.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK559285"
+  },
+  {
+   "pmid": "29083720",
+   "title": "Cytomegalovirus Infections",
+   "authors": [
+    "Nguyen AD",
+    "Shorman M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Cytomegalovirus (CMV) is a double-stranded DNA virus that belongs to the family of Herpesviridae and is also known as human herpesvirus 5. The CMV genome is the largest among human viruses, measuring approximately 230 kb and containing 200 genes that encode proteins. Infection with CMV is common in both children and adults, with a worldwide seroprevalence ranging from 24% to 100%, which increases with age. CMV is transmitted through the exchange of bodily fluids, including saliva, fomites, blood transfusions, and sexual contact. CMV can also be transmitted through solid organ transplantation (SOT) and hematopoietic stem cell transplantation (HSCT). As with other herpesviruses, it establishes lifelong latency, remaining dormant in monocytes through specific mechanisms of transcriptional silencing. CMV is a globally widespread virus that becomes latent after primary infection and can become reactivated in the setting of severe immunosuppression. In immunocompetent patients, primary CMV typically causes asymptomatic disease or mild-to-moderate mononucleosis-like or flu-like syndromes, characterized by symptoms such as malaise, fever, lymphadenopathy, and arthralgia. Infection with CMV is a leading cause of morbidity in immunosuppressed individuals, eg, due to HIV/AIDS, after receiving SOT and HSCT. In the latter population, CMV can cause severe organ damage and even cause rejection of the transplanted organ. Additionally, mothers who become infected while they are pregnant may pass the virus to the embryo, and in some cases, this can cause congenital CMV. CMV infection is defined by the detection of active CMV replication in tissue specimens, peripheral blood, or other body fluids, irrespective of clinical manifestations. CMV disease refers to the presence of CMV infection in conjunction with clinically attributable symptoms and signs. CMV disease is subclassified into CMV syndrome, characterized by nonspecific constitutional symptoms, such as fever, malaise, and lymphadenopathy, which are often accompanied by hematologic abnormalities, including leukopenia or thrombocytopenia, as well as tissue-invasive or end-organ CMV disease. CMV syndrome involves direct viral-mediated injury to specific organs, including, but not limited to, the gastrointestinal (GI) tract, lungs, hepatobiliary system, renal parenchyma, myocardium, pancreas, central nervous system, and retina. Primary, but mostly reactivated, CMV can cause viremia, infecting various organs, including the eyes, stomach, esophagus, and colon, especially in patients with profound immunosuppression. The 2 most common GI tract manifestations of CMV disease include CMV colitis and CMV esophagitis. Prevention of CMV viremia and CMV end-organ disease is critical, particularly in immunosuppressed patients. Key strategies include assessing CMV serostatus in both donor and recipient, along with regular monitoring for the emergence of viremia via frequent CMV DNA quantification. In high-risk populations, prophylactic strategies may include universal antiviral administration for all at-risk individuals, targeted prophylaxis for those at highest risk, or a pre-emptive approach. The pre-emptive strategy involves initiating antiviral therapy upon early detection of CMV DNAemia, before the onset of clinical disease.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK459185"
+  },
+  {
+   "pmid": "32310405",
+   "title": "Hepatitis B",
+   "authors": [
+    "Tripathi N",
+    "Mousa OY"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Hepatitis B viral infection is a serious global healthcare problem. It is a potentially life-threatening liver infection caused by the hepatitis B virus (HBV). It is often transmitted via body fluids like blood, semen, and vaginal secretions. The majority (more than 95%) of immunocompetent adults infected with HBV can clear the infection spontaneously. Patients can present with acute symptomatic disease or have an asymptomatic infection that is identified during screening for HBV. The clinical manifestations of HBV infection vary in both acute and chronic diseases. During the acute infection, patients can have subclinical or anicteric hepatitis, icteric hepatitis, or less commonly fulminant hepatitis. In chronic infection, patients can have an asymptomatic carrier state, chronic hepatitis, cirrhosis, and hepatocellular carcinoma. Initial symptoms are nonspecific and may include anorexia, nausea, vomiting, abdominal pain, and jaundice. In cases of severe liver damage, patients can develop jaundice, hepatic encephalopathy, ascites, gastrointestinal bleeding secondary to esophageal varices, coagulopathy, or infections. Diagnosis is based on serologic blood tests in patients with suspected signs and symptoms and associated risk factors for viral hepatitis. This will be discussed in more detail below.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK555945"
+  },
+  {
+   "pmid": "28613647",
+   "title": "Hepatitis C",
+   "authors": [
+    "Basit H",
+    "Koirala J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "First diagnosed in 1989, the hepatitis C virus (HCV) is a significant public health problem affecting 58 million people worldwide. The percentage of people who are seropositive for anti-HCV antibodies worldwide is estimated to have increased from 2.3% to 2.8% between 1990 and 2005. Most patients (80% to 85%) who become acutely infected cannot clear the virus and progress to chronic infection. The effects of chronic infection include cirrhosis, portal hypertension, hepatic decompensation with encephalopathy, and hepatocellular carcinoma. HCV is the most common blood-borne pathogen and a leading cause of morbidity and mortality. The treatment landscape has evolved substantially since introducing highly active direct-acting antivirals (DAAs) in 2011. The goals of treatment aim at viral eradication, delaying fibrosis progression, alleviating symptoms, preventing complications, minimizing all-cause mortality, and ultimately maximizing the quality of life.[3]",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK430897"
+  },
+  {
+   "pmid": "29083664",
+   "title": "Hepatitis A",
+   "authors": [
+    "Girish V",
+    "Grant LM",
+    "John S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "The hepatitis A virus (HAV) is a common infectious etiology of acute hepatitis worldwide. HAV is most commonly transmitted through the fecal-oral route via exposure to contaminated food, water, or close physical contact with an infectious person. According to the World Health Organization, infection rates in high-resource countries are low. However, high-risk groups include injected drug users, men who have sex with men, people traveling to endemic areas, and isolated communities. HAV does not cause chronic liver disease, unlike hepatitis B or C. Acute HAV infection usually presents as a self-limited illness; the development of fulminant hepatitis is rare. Typical symptoms of acute infection include nausea, vomiting, abdominal pain, fatigue, malaise, poor appetite, and fever; management is with supportive care. Alternate clinical patterns include cholestatic, prolonged, and relapsing disease. Vaccination against HAV is recommended for children 12 months or older and adults with the risk of exposure, including travelers to endemic countries, men who have sex with men, people who use drugs (injected and non injected), potential occupational exposure, and chronic liver disease. Globally, the rates of HAV have decreased due to improvements in public healthcare policies, sanitation, and education, but infection rates of other hepatitis viruses appear to be increasing.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK459290"
+  },
+  {
+   "pmid": "28846330",
+   "title": "Measles",
+   "authors": [
+    "Kondamudi NP",
+    "Tobin EH",
+    "Jenks JD"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Measles, or rubeola, is a preventable, highly contagious, acute febrile viral illness; this condition remains an important cause of global mortality and morbidity, particularly in Africa and Southeast Asia, and accounts for about 100,000 deaths annually despite the availability of an effective vaccine. Public health officials declared the elimination of measles from the United States (US) in 2000, marking the absence of continuous disease transmission for 1 year, and from the region of the Americas in 2016. However, outbreaks continue to occur through imported disease and transmission among unvaccinated groups of children in the community (see Image. Measles Infection). Since May 2025, 935 confirmed cases have been reported across multiple states (US Centers for Disease Control and Prevention [CDC]-Measles cases and outbreaks, 2025). Measles is a reportable disease in most nations, including the US.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK448068"
+  },
+  {
+   "pmid": "30521206",
+   "title": "Mumps",
+   "authors": [
+    "Rausch-Phung EA",
+    "Jenks JD"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Mumps, once a common childhood disease, has declined significantly with widespread measles, mumps, and rubella (MMR) vaccination, although it remains a contagious viral illness that continues to affect individuals globally. Mumps is an ancient viral disease that was first described by Hippocrates in the fifth century Before the Common Era (BCE), when he documented clinical symptoms of mumps, including parotid gland and testicular swelling, during an outbreak on the Greek island of Thasos. In the 1930s, the mumps virus was successfully isolated in the laboratory and confirmed to be a virus. In 1967, microbiologist Maurice Hilleman isolated an attenuated strain from his own sick daughter's throat, leading to the FDA-licensed Mumpsvax vaccine. In 1971, the mumps vaccine was combined with measles and rubella to create the MMR vaccine. Widespread vaccination has substantially reduced the incidence of mumps. The illness typically begins with a prodrome characterized by headache, fever, fatigue, anorexia, and malaise, followed by parotitis, the classic hallmark of mumps. Mumps generally follows a self-limited course, and most affected individuals achieve a full recovery. Mumps occurs globally and remains the only known cause of epidemic parotitis. In temperate regions, cases occur most frequently during late winter and early spring, reflecting the seasonal pattern of transmission.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK534785"
+  },
+  {
+   "pmid": "32644466",
+   "title": "Rubella",
+   "authors": [
+    "Camejo Leonor M",
+    "Afzal M",
+    "Mendez MD"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Rubella, also known as German measles, is an acute viral exanthematous infection first described by German physicians in the mid-18th century. The virus is primarily transmitted via respiratory droplets and can be spread by both asymptomatic and symptomatic individuals, including during the incubation period, which averages 14 days (range: 12-23 days). Rubella typically causes a mild, self-limiting illness in children and adults, characterized by low-grade fever, malaise, lymphadenopathy, arthralgias, and a brief, generalized, erythematous maculopapular rash. Approximately 25% to 50% of infections are subclinical. Rubella virus is a significant cause of vaccine-preventable congenital disabilities and can lead to epidemics. The primary public health concern is its teratogenic effect during the first trimester of pregnancy, which can cause miscarriage, fetal death, or a constellation of severe congenital disabilities collectively known as congenital rubella syndrome (CRS). The introduction of the live attenuated rubella vaccine in 1969 resulted in a dramatic decrease in rubella and CRS incidence in many countries. Rubella and CRS have been eliminated from the United States, the Western Hemisphere, and nearly all of Europe, primarily due to high vaccination coverage. However, rubella remains a significant public health issue in regions with suboptimal vaccination strategies, limited diagnostic capacity, and inadequate infection control, particularly in parts of Africa and Asia.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK559040"
+  },
+  {
+   "pmid": "32644377",
+   "title": "Rotavirus",
+   "authors": [
+    "LeClair CE",
+    "McConnell KA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Rotavirus is the leading cause of severe gastroenteritis in children younger than 5 years of age. In 1973, rotavirus was discovered from duodenal biopsies and fecal samples taken from humans with acute diarrhea. Despite the availability of a vaccine against rotavirus, it continues to result in more than 200,000 deaths worldwide per year. In developed countries with routine vaccination programs, rotavirus infection is less prevalent than in non-developed countries, where it continues to be a major cause of life-threatening diarrhea in infants and children younger than 5. Rotavirus symptoms include profuse diarrhea, vomiting, fever, malaise, and rarely neurologic features such as convulsions, encephalitis, or encephalopathy. The most common symptoms are diarrhea and vomiting, leading to significant dehydration and reduced oral intake, which can necessitate hospitalization and lead to death if not treated.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK558951"
+  },
+  {
+   "pmid": "30020637",
+   "title": "Norovirus",
+   "authors": [
+    "Capece G",
+    "Tobin EH"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Noroviruses are nonenveloped, positive-sense, single-stranded RNA viruses belonging to the Caliciviridae viral family (see Image. Norovirus Virion). The virus was first identified and named “Norwalk virus” when it was discovered as the cause of a 1968 outbreak of gastroenteritis in Norwalk, Ohio. Norovirus is the leading cause of acute gastrointestinal illness worldwide. In developed countries with rotavirus vaccine programs, norovirus surpasses rotavirus as the most common cause of gastroenteritis in children. Common symptoms of norovirus infection include nausea, vomiting, and diarrhea. These could lead to clinically significant dehydration, requiring hospitalizations. In addition to its clinical effects, norovirus also has a major financial impact on developed nations. As of December 2024, there has been a significant surge in norovirus-associated gastroenteritis in the United States and other regions worldwide.[CDC NoroSTAT Data]",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK513265"
+  },
+  {
+   "pmid": "28846281",
+   "title": "Human Papillomavirus",
+   "authors": [
+    "Luria L",
+    "Cardoza-Favarato G"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "The Human Papillomavirus (HPV) is the initiating force behind multiple epithelial lesions and cancers, predominantly cutaneous and mucosal surfaces. There are more than 100 subtypes of HPV. Individuals with persistent HPV infection and those who have multiple sexual partners are at very high risk for acquiring more HPV subtypes. The current classification of HPV infection is as follows: Non-genital (Cutaneous). Mucosal or anogenital. Epidermodysplasia verruciformis (EV). The clinical lesions may be visibly obvious, but in some cases (latent lesions) may require testing for viral DNA. The majority of HPV infections are latent, and most clinical lesions present as warts rather than a malignancy. Today, HPV has been implicated as a cause of laryngeal, oral, lung, and anogenital cancer. Subtypes 6 and 11 are low risk and usually present with the formation of condylomata and low-grade precancerous lesions. HPV subtypes 16 and 18 are high risk and are responsible for high-grade intraepithelial lesions that progress to malignancies. It is important to understand that HPV alone does not cause cancer but requires triggers like smoking, folate deficiency, UV light exposure, immunosuppression, and pregnancy.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK448132"
+  },
+  {
+   "pmid": "28613483",
+   "title": "Dengue Fever",
+   "authors": [
+    "Pescador Ruschel MA",
+    "Panda PK",
+    "Farmer A"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Dengue fever is a mosquito-borne viral illness and the most common arthropod-borne viral disease worldwide, posing a growing public health burden. Transmitted primarily by Aedes aegypti and Aedes albopictus mosquitoes, dengue is endemic in large parts of the tropical and subtropical world, with ongoing geographic expansion driven by urbanization, climate change, and increased human mobility. Most dengue virus infections are asymptomatic or mild, but a minority progress to severe disease characterized by plasma leakage, shock, bleeding, or organ dysfunction. Clinically, dengue typically presents after an incubation period of 4 to 10 days with an abrupt onset of high fever, headache, myalgia, arthralgia, gastrointestinal symptoms, and rash, accompanied by laboratory abnormalities such as leukopenia and thrombocytopenia. A subset of patients progress to severe dengue, most commonly during the critical phase around defervescence, due to increased capillary permeability. Early recognition, accurate risk stratification, and appropriate supportive management are essential to reduce morbidity and mortality, particularly in resource-limited and outbreak settings. Effective care and prevention require coordinated efforts by an interprofessional healthcare team that integrates clinical management, diagnostics, surveillance, and public health interventions.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK430732"
+  },
+  {
+   "pmid": "32644370",
+   "title": "Poliomyelitis",
+   "authors": [
+    "Wolbert JG",
+    "Rajnik M",
+    "Swinkels HM",
+    "Higginbotham K"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Poliomyelitis, or polio, is an infection transmitted via the fecal-oral and oral-oral routes by the poliovirus. Today, polio primarily affects children younger than 5 in countries with poor water, sanitation, and hygiene infrastructure. While extremely rare outside these areas, polio presents a risk to populations with low vaccination rates, including in industrialized nations. The 2014 declaration deeming the global spread of polioviruses a public health emergency of international concern under the International Health Regulations remains in place.[WHO. Vaccine Position] Previously one of the most feared diseases in the world, polio caused widespread morbidity and mortality in children during multiple epidemics between the 1900s and 1960s. The incidence of polio began to decline following the development of the injectable polio vaccine (IPV) and oral polio vaccine (OPV). Intensified worldwide vaccination efforts starting in the 1980s by the World Health Organization (WHO) and partners under the Global Polio Eradication Initiative (GPEI) have almost completely eradicated the disease. Vaccination protocols worldwide now recommend administering at least 3 doses of IPV (IPV-only schedule) or at least 3 doses of bivalent OPV plus at least 2 doses of IPV (combined OPV-IPV schedule). The latter is recommended in countries where poliovirus incidence rates remain unchanged or are at risk of increasing. See StatPearls' companion article \"Polio Vaccine\" for more information on polio vaccinations. Healthcare professionals must maintain a high index of suspicion to diagnose acute poliomyelitis in patients who present with new-onset paralysis following a viral prodrome and are living in an endemic region or under-vaccinated population. The presentation of polio is highly variable, ranging from asymptomatic to a transient flu-like viral illness to paralysis, quadriplegia, and even respiratory failure and death. Many polio survivors experience a poor quality of life. Alternate diagnoses must be considered as polio is rare, and other more common diseases and conditions can present similarly. In particular, acute flaccid myelitis (AFM) presents with a polio-like syndrome. This condition is caused by epidemic enteroviral infections, most commonly enterovirus D68. As no antiviral treatment for acute poliomyelitis exists, prevention is critical. Paralytic deficits are often permanent, resulting in chronic pain, deformities, weakness, and eventual osteoporosis and fragility fracture. Between 25% and 40% of the estimated 12 to 20 million polio survivors worldwide will also develop postpolio syndrome (PPS). A diagnosis of PPS requires new-onset, progressive muscle weakness or fatiguability, mental fatigue, or pain in a patient diagnosed with poliomyelitis up to 40 years prior. PPS is not contagious and is rarely life-threatening, but it often affects patients' independence and quality of life. While the near eradication of polio represents a tremendous achievement for global public health, multiple challenges and delays remain. Vaccine-derived polioviruses (VDPVs) revert or recombine to wild-type neurovirulence and transmissibility, causing outbreaks and distrust in vaccination programs. Poliovirus typically escapes early detection; most infections are asymptomatic, and the characteristic paralysis occurs in a small minority of those it infects.[CDC. Polio_HCP] Delays in detecting circulating wild poliovirus (WPV) and VDPVs pose a significant risk to eradication efforts. Political unrest or indecision and declining or competing interests threaten efforts to eradicate the disease. Recent polio cases and the discovery of poliovirus in wastewater in industrialized nations emphasize that, until completely eradicated, polio remains a global risk.[GPEI. Polio Eradication] All suspected cases of poliomyelitis in the United States should be immediately reported to the United States Centers for Disease Control and Prevention (CDC). Clinicians should suspect polio in patients with acute-onset flaccid paralysis, decreased or absent tendon reflexes, and without sensory or cognitive deficits. Contact the CDC Emergency Operations Center within 4 hours of the suspected diagnosis to ensure appropriate diagnostic testing, surveillance, and public health follow-up at 770-488-7100.[CDC. Polio_Clinical]",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK558944"
+  },
+  {
+   "pmid": "32809414",
+   "title": "Ebola Virus Disease",
+   "authors": [
+    "Hollingshead CM",
+    "Swinkels HM",
+    "Shah SU"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Ebola viruses are contagious, lethal viruses that are the causative agents of rare Ebola virus disease. Ebola virus disease, once known as Ebola hemorrhagic fever, can cause oozing from venipuncture sites, melena, hematochezia, and hematemesis. However, these manifestations are seen less than 50% of the time. Nonspecific symptoms, including fever, malaise, headache, and myalgias, are common initial symptoms. Diarrhea, nausea, and vomiting begin a few days later and can be severe. The disease can quickly progress to multiorgan system failure, leading to shock and death. The overall case-fatality rate is about 40% to 50%. The main variables impacting survival rate are early disease identification and access to healthcare for patient stabilization and supportive medical care, differences in health status (such as nutrition and coinfections), genetic differences, and patient attitudes surrounding seeking medical treatment. Highly transmissible, it can cause large outbreaks, epidemics, and pandemics. Despite outbreak control efforts, the Western African epidemic from 2013 to 2016 affected several countries outside continental Africa. An epidemic can have a devastating global impact on healthcare, the economy, and society. Treatment is mainly supportive; investigational therapies continue to be researched. Ebola viruses, filamentous viruses with a characteristic twisted thread shape belonging to the Filoviridae family, were discovered in The Democratic Republic of Congo in 1976. Filoviridae are negative-strand RNA viruses and derive their name from the Latin word \"filum,\" meaning thread. This viral family most commonly infects humans and primates and is thought to use fruit bats of the Pteropodidae family as a natural reservoir. Due to the high transmissibility and lethality of Ebola viruses, high clinical suspicion and early diagnosis are vital to reduce mortality and the risk of an Ebola outbreak. Improved diagnostics, therapeutics, and vaccines have become available in the last few years, improving survival and decreasing the potential for spread. Adequate Infection Prevention and Control (IPC) measures must be implemented rapidly to prevent spread in healthcare facilities. Urgent reporting to Public Health allows contact tracing, surveillance, and other public health measures to be promptly implemented in the community. To reduce the risks of Ebola epidemics and the potential misuse of the virus as an agent of bioterrorism, research is ongoing to further develop diagnostic tests, therapeutics, and vaccines.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK560579"
+  },
+  {
+   "pmid": "32644498",
+   "title": "Adenovirus Infection",
+   "authors": [
+    "Usman N",
+    "Suarez M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "The adenoviruses are DNA viruses common in animals and humans, frequently occurring in adults and children. There are more than 100 serologically different adenovirus types, with 49 types that infect humans. Adenoviridae is separated into 2 genera: the avian adenoviruses (aviadenoviruses) and the mammalian adenoviruses (mastadenovirus). Adenovirus is ubiquitous in animals, and in human populations, they may last long periods outside of a host, endemic throughout the year. Based on various serotypes, adenovirus is known as the etiologic mediator of multiple syndromes. It is spread via aerosolized droplets, direct inoculation to the conjunctiva, exposure to infected tissue, blood, and fecal-oral route. The virus infects multiple organ systems, though most infections are asymptomatic. Adenovirus is recognized to be oncogenic in rodents, but it has not yet been observed in humans. Adenovirus infections are self-limited in immunocompetent individuals, requiring only supportive measures. However, in immunocompromised individuals, the spectrum of disease is much more extensive, with outcomes potentially being fatal.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK559072"
+  },
+  {
+   "pmid": "29083623",
+   "title": "Respiratory Syncytial Virus Infection in Children",
+   "authors": [
+    "Chamarthi PP",
+    "Chamarthi VS",
+    "Daley SF"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Respiratory syncytial virus (RSV) is the leading cause of acute respiratory infection requiring hospitalization in children worldwide. RSV most commonly presents as an upper respiratory tract infection but frequently progresses to bronchiolitis in young infants—a lower respiratory tract illness characterized by small airway obstruction that may lead to respiratory failure, apnea, or death. In the United States, RSV is responsible for over 58,000 hospitalizations annually in children younger than 5 years. Recent advances have revolutionized RSV prevention through the development of maternal vaccines and long-acting monoclonal antibodies. The approval of maternal RSV vaccination with the bivalent prefusion F vaccine and use of monoclonal antibodies, including nirsevimab and clesrovimab, represents a paradigm shift in protecting vulnerable infants. The mainstay of RSV treatment remains supportive care, as currently no safe and effective antiviral therapy has been developed.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK459215"
+  },
+  {
+   "pmid": "32150360",
+   "title": "Features, Evaluation, and Treatment of Coronavirus (COVID-19)",
+   "authors": [
+    "Para K",
+    "Abou-Elmagdo T",
+    "Aleem A",
+    "Di Napoli R"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "The COVID-19 pandemic, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was initially declared by the WHO in 2020, and the associated public health emergency ended in 2023. However, SARS-CoV-2 infections continue to occur worldwide, with nearly 800 million cases and 7 million deaths recorded globally. Despite the reduced threat compared with earlier stages of the pandemic, COVID-19 remains a disease of global concern.[WHO. COVID-19 Dashboard. 2026] Management strategies and the clinical characteristics of COVID-19 have changed substantially over time, likely reflecting the continued genetic evolution and mutation of SARS-CoV-2 as an RNA virus. The WHO has characterized SARS-CoV-2 variants as variants of interest (VOI), variants of concern (VOC), and variants under monitoring (VUM). Currently, Omicron viruses account for more than 98% of available sequences since their emergence in 2022 and will likely provide the genetic background from which future SARS-CoV-2 variants emerge. [WHO. Statement on the Update of WHO’s Working Definitions and Tracking System for SARS-CoV-2 Variants of Concern and Variants of Interest. 2023] Despite the unprecedented speed of COVID-19 vaccine development and extensive global mass vaccination efforts, emerging SARS-CoV-2 variants threaten to reverse progress in limiting disease transmission. This review comprehensively describes the etiology, epidemiology, pathophysiology, and clinical features of COVID-19. The review also provides an overview of SARS-CoV-2 variants and guideline-recommended COVID-19 treatment as of January 2023.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK554776"
+  },
+  {
+   "pmid": "28613699",
+   "title": "Zika Virus",
+   "authors": [
+    "Wolford RW",
+    "Jenks JD",
+    "Schaefer TJ"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Zika virus is a single-stranded RNA virus of the genus Orthoflavivirus (Flavivirus prior to 2023) in the family Flaviviridae, with 2 major phylogenetic lineages: Asian and African. Transmission occurs most commonly through infected mosquitoes, primarily Aedes aegypti and Aedes albopictus, which can also transmit other flaviviruses, including dengue and yellow fever, and the alphavirus chikungunya. Additional routes of Zika virus transmission include vertical transmission from a pregnant woman to the fetus, sexual transmission, and transfusion of blood products such as platelets.[CDC. How Zika Spreads] Zika virus was first identified in a rhesus macaque in the Zika Forest of Uganda in 1947. In 1948, the virus was isolated from Aedes africanus mosquitoes in the same forest. The first recognized human cases were confirmed in Uganda and Tanzania in 1952. Between the 1950s and 1980s, sporadic outbreaks occurred in humans across a narrow equatorial belt in Africa and parts of Asia. Between 2007 and 2014, 2 outbreaks occurred on Yap Island in the Federated States of Micronesia and in French Polynesia in the South Pacific. Between 2015 and 2016, an outbreak occurred throughout South, Central, and North America.[WHO. The History of Zika Virus] According to the World Health Organization (WHO), as of May 2026, 97 countries and territories have reported Zika virus transmission globally.[WHO. Zika Epidemiology Update] Most Zika virus infections are asymptomatic or cause mild illness, although complications can occur. Diagnosis is typically made through antibody or molecular testing, such as real-time reverse transcription polymerase chain reaction (rRT-PCR) testing. No specific treatment is available for Zika virus infection, and treatment is supportive. No vaccine is currently available to prevent Zika virus infection, although numerous candidate vaccines are in development.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK430981"
+  },
+  {
+   "pmid": "29262028",
+   "title": "Yellow Fever",
+   "authors": [
+    "Simon LV",
+    "Hashmi MF",
+    "Torp KD"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Yellow fever is a mosquito-borne viral illness found in tropical and subtropical areas in South America and Africa. Transmission is primarily via Aedes and Haemagogus species of mosquito. It can present with varying clinical features ranging from a self-limited, mild febrile illness to severe hemorrhage and liver disease. The “yellow” comes from jaundice that affects some patients with severe disease. The disease is diagnosed by history travel to an endemic area, exposure to infected mosquitoes, vaccination history, symptoms, and laboratory findings. Most cases are self-limited and resemble many other common viral infections. Of those who develop severe disease mortality can approach 50%. Unlike many other mosquito-transmitted viruses, infected humans are not dead-end hosts and may infect mosquitoes during periods of viremia and spread the virus. There is no specific antiviral therapy, but there is an effective vaccine recommended for travelers to endemic areas. Other than vaccination, prevention of mosquito bites is the best way to avoid contracting the virus.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK470425"
+  },
+  {
+   "pmid": "29262186",
+   "title": "Smallpox",
+   "authors": [
+    "Simonsen KA",
+    "Snowden J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Smallpox is the first human infectious disease to be successfully eradicated worldwide, and the World Health Assembly certified its global eradication in 1980. It remains of clinical importance because of concerns about the potential for release and weaponization.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK470418"
+  },
+  {
+   "pmid": "32491575",
+   "title": "Herpes Simplex Encephalitis",
+   "authors": [
+    "AK AK",
+    "Bhutta BS",
+    "Mendez MD"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Herpetic infections have been well-documented, as far back as ancient Greek literature. Herpes viruses are large double-stranded DNA viruses. Eight types of herpes viruses affect humans (human herpes virus—HHV). Symptoms of central nervous system infection include fever, headache, seizures, focal neurological signs, and impaired consciousness. Herpes simplex encephalitis is an acute or subacute illness associated with focal or global cerebral dysfunction caused by herpes simplex viruses belonging to either type 1 (HSV-1) or type 2 (HSV-2). Most herpes simplex encephalitis is caused by HSV-1, with HSV-2 constituting less than 10% of infections. Almost all herpes encephalitis beyond the neonatal period is caused by herpes simplex type 1 (HSV-1), the most common cause of fatal encephalitis, occurring in a sporadic and non-seasonal pattern across the globe. Herpes encephalitis in neonates could be due to HSV-1 or HSV-2, though the latter is more common. HSV-2 can also cause encephalitis in immunocompromised patients. HSV-1 in adults is associated with significant morbidity and mortality despite treatment with antiviral therapy. Herpes simplex encephalitis has a nonspecific and insidious onset in children and can be devastating, irrespective of treatment. Herpes simplex encephalitisis a rare condition, but if left untreated, it can result in a mortality rate of up to 70%, and only a minority of individuals recover fully without residual deficits. Neonatal encephalitis caused by HSV-2 involves the brain in a more global distribution, resulting in a greater incidence of neurologic sequelae.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557643"
+  },
+  {
    "pmid": "28722861",
    "title": "Brucellosis",
    "authors": [
@@ -19657,6 +20023,2118 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "often transmitted among cats via fleas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846365-1-en",
+   "translationKey": "micro-28846365-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Shingles (herpes zoster) is caused by…",
+   "options": [
+    "A new infection with herpes simplex",
+    "Reactivation of latent varicella-zoster virus",
+    "Measles virus",
+    "A bacterial skin infection"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "VZV causes chickenpox as a primary infection and shingles when the latent virus reactivates.",
+   "shortExplanation": "VZV reactivation.",
+   "pmid": "28846365",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "herpes zoster, or shingles, which results from the reactivation of a latent infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846365-1-es",
+   "translationKey": "micro-28846365-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "El herpes zóster (culebrilla) se debe a…",
+   "options": [
+    "Una nueva infección por herpes simple",
+    "La reactivación del virus varicela-zóster latente",
+    "El virus del sarampión",
+    "Una infección bacteriana de piel"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El VVZ causa varicela como infección primaria y zóster cuando el virus latente se reactiva.",
+   "shortExplanation": "Reactivación del VVZ.",
+   "pmid": "28846365",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "herpes zoster, or shingles, which results from the reactivation of a latent infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846365-2-en",
+   "translationKey": "micro-28846365-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "When is a person with chickenpox contagious?",
+   "options": [
+    "Only during the fever",
+    "Only after lesions crust",
+    "Only during incubation",
+    "From 1–2 days before the rash until all lesions crust over"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Varicella spreads from 1–2 days before the rash until every lesion has crusted.",
+   "shortExplanation": "Until all lesions crust.",
+   "pmid": "28846365",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The virus may spread 1 to 2 days before the rash appears until all lesions are crusted over",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846365-2-es",
+   "translationKey": "micro-28846365-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cuándo contagia una persona con varicela?",
+   "options": [
+    "Solo durante la fiebre",
+    "Solo después de que las lesiones forman costra",
+    "Solo en la incubación",
+    "Desde 1–2 días antes del exantema hasta que todas las lesiones forman costra"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La varicela se contagia desde 1–2 días antes del exantema hasta que todas las lesiones están en costra.",
+   "shortExplanation": "Hasta que todas formen costra.",
+   "pmid": "28846365",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The virus may spread 1 to 2 days before the rash appears until all lesions are crusted over",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846365-3-en",
+   "translationKey": "micro-28846365-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How is a clinical diagnosis of chickenpox confirmed in the lab?",
+   "options": [
+    "PCR of blister fluid or scabs",
+    "Gram stain of the rash",
+    "Blood culture",
+    "Stool antigen test"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Varicella is diagnosed clinically and confirmed by PCR of vesicle fluid or scabs; serology shows immunity.",
+   "shortExplanation": "PCR of lesions.",
+   "pmid": "28846365",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "confirmed by polymerase chain reaction testing of the blister fluid or scabs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846365-3-es",
+   "translationKey": "micro-28846365-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se confirma en el laboratorio un diagnóstico clínico de varicela?",
+   "options": [
+    "PCR del líquido de las vesículas o de las costras",
+    "Tinción de Gram del exantema",
+    "Hemocultivo",
+    "Antígeno en materia fecal"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La varicela se diagnostica clínicamente y se confirma por PCR del líquido vesicular o costras; la serología indica inmunidad.",
+   "shortExplanation": "PCR de lesiones.",
+   "pmid": "28846365",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "confirmed by polymerase chain reaction testing of the blister fluid or scabs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846365-4-en",
+   "translationKey": "micro-28846365-4",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What experimental evidence linked herpes zoster and chickenpox to the same agent?",
+   "options": [
+    "Both responded to penicillin",
+    "Both occurred only in winter",
+    "Vesicle fluid from zoster caused varicella in susceptible infants",
+    "Both had identical skin biopsies in rats"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Inoculating zoster vesicle fluid produced chickenpox in susceptible infants; later isolation of the same virus confirmed it.",
+   "shortExplanation": "Zoster fluid caused varicella.",
+   "pmid": "28846365",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Kundratitz (1922) and Bruusgaard (1932) more conclusively established the correlation between the 2 diseases through the occurrence of varicella in susceptible infants implanted with vesicle fluid from patients with herpes zoster",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846365-4-es",
+   "translationKey": "micro-28846365-4",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué evidencia experimental vinculó al zóster y la varicela con el mismo agente?",
+   "options": [
+    "Ambos respondían a penicilina",
+    "Ambos ocurrían solo en invierno",
+    "El líquido de vesículas de zóster causaba varicela en lactantes susceptibles",
+    "Ambos tenían biopsias idénticas en ratas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Inocular líquido de vesículas de zóster producía varicela en lactantes susceptibles; luego se aisló el mismo virus.",
+   "shortExplanation": "El líquido de zóster causaba varicela.",
+   "pmid": "28846365",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Kundratitz (1922) and Bruusgaard (1932) more conclusively established the correlation between the 2 diseases through the occurrence of varicella in susceptible infants implanted with vesicle fluid from patients with herpes zoster",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644711-1-en",
+   "translationKey": "micro-32644711-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which virus is the classic cause of infectious mononucleosis?",
+   "options": [
+    "Rhinovirus",
+    "Influenza B",
+    "Epstein-Barr virus",
+    "Hepatitis A virus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "EBV, a herpesvirus spread by saliva, causes infectious mononucleosis.",
+   "shortExplanation": "Epstein-Barr virus.",
+   "pmid": "32644711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is a causative agent of infectious mononucleosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644711-1-es",
+   "translationKey": "micro-32644711-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué virus es la causa clásica de la mononucleosis infecciosa?",
+   "options": [
+    "Rinovirus",
+    "Influenza B",
+    "Virus de Epstein-Barr",
+    "Virus de la hepatitis A"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El VEB, un herpesvirus que se transmite por saliva, causa la mononucleosis infecciosa.",
+   "shortExplanation": "Virus de Epstein-Barr.",
+   "pmid": "32644711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is a causative agent of infectious mononucleosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644711-2-en",
+   "translationKey": "micro-32644711-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which cells does Epstein-Barr virus characteristically infect?",
+   "options": [
+    "Red blood cells",
+    "B lymphocytes",
+    "Hepatocytes",
+    "Neurons"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "EBV is a dsDNA herpesvirus that infects B lymphocytes (and epithelial cells).",
+   "shortExplanation": "B lymphocytes.",
+   "pmid": "32644711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Epstein Barr virus (EBV) is a double-stranded DNA virus that infects B lymphocyte cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644711-2-es",
+   "translationKey": "micro-32644711-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué células infecta característicamente el virus de Epstein-Barr?",
+   "options": [
+    "Glóbulos rojos",
+    "Linfocitos B",
+    "Hepatocitos",
+    "Neuronas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El VEB es un herpesvirus ADNdc que infecta linfocitos B (y células epiteliales).",
+   "shortExplanation": "Linfocitos B.",
+   "pmid": "32644711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Epstein Barr virus (EBV) is a double-stranded DNA virus that infects B lymphocyte cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083720-1-en",
+   "translationKey": "micro-29083720-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Cytomegalovirus is also known as…",
+   "options": [
+    "Human herpesvirus 1",
+    "Human herpesvirus 3",
+    "Human herpesvirus 8",
+    "Human herpesvirus 5"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "CMV is human herpesvirus 5, a dsDNA virus with the largest genome among human viruses.",
+   "shortExplanation": "HHV-5.",
+   "pmid": "29083720",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "also known as human herpesvirus 5",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083720-1-es",
+   "translationKey": "micro-29083720-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "El citomegalovirus también se conoce como…",
+   "options": [
+    "Herpesvirus humano 1",
+    "Herpesvirus humano 3",
+    "Herpesvirus humano 8",
+    "Herpesvirus humano 5"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El CMV es el herpesvirus humano 5, un virus ADNdc con el genoma más grande entre los virus humanos.",
+   "shortExplanation": "VHH-5.",
+   "pmid": "29083720",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "also known as human herpesvirus 5",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083720-2-en",
+   "translationKey": "micro-29083720-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Where does CMV remain latent?",
+   "options": [
+    "In monocytes",
+    "In red blood cells",
+    "In skin keratinocytes only",
+    "It never becomes latent"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Like other herpesviruses CMV establishes lifelong latency, dormant in monocytes, and reactivates with immunosuppression.",
+   "shortExplanation": "Monocytes.",
+   "pmid": "29083720",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "remaining dormant in monocytes through specific mechanisms of transcriptional silencing",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083720-2-es",
+   "translationKey": "micro-29083720-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Dónde permanece latente el CMV?",
+   "options": [
+    "En los monocitos",
+    "En los glóbulos rojos",
+    "Solo en queratinocitos",
+    "Nunca queda latente"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Como otros herpesvirus, el CMV establece latencia de por vida en monocitos y se reactiva con inmunosupresión.",
+   "shortExplanation": "Monocitos.",
+   "pmid": "29083720",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "remaining dormant in monocytes through specific mechanisms of transcriptional silencing",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083720-3-en",
+   "translationKey": "micro-29083720-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "In transplant recipients, what is the \"pre-emptive\" CMV strategy?",
+   "options": [
+    "Giving antivirals to everyone from day 1",
+    "Waiting for organ damage before treating",
+    "Starting antivirals when CMV DNA is detected, before disease",
+    "Vaccinating the donor"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Pre-emptive therapy monitors CMV DNA and treats at early DNAemia, before clinical disease.",
+   "shortExplanation": "Treat at early DNAemia.",
+   "pmid": "29083720",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The pre-emptive strategy involves initiating antiviral therapy upon early detection of CMV DNAemia, before the onset of clinical disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083720-3-es",
+   "translationKey": "micro-29083720-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "En trasplantados, ¿qué es la estrategia \"anticipada\" (pre-emptive) frente al CMV?",
+   "options": [
+    "Dar antivirales a todos desde el día 1",
+    "Esperar al daño orgánico para tratar",
+    "Iniciar antivirales al detectar ADN de CMV, antes de la enfermedad",
+    "Vacunar al donante"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La terapia anticipada monitorea el ADN de CMV y trata ante la DNAemia temprana, antes de la enfermedad clínica.",
+   "shortExplanation": "Tratar ante DNAemia temprana.",
+   "pmid": "29083720",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The pre-emptive strategy involves initiating antiviral therapy upon early detection of CMV DNAemia, before the onset of clinical disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32310405-1-en",
+   "translationKey": "micro-32310405-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How is hepatitis B usually transmitted?",
+   "options": [
+    "Through blood, semen and vaginal secretions",
+    "Through contaminated food only",
+    "Through mosquito bites",
+    "Through the air"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "HBV spreads via body fluids: blood, semen and vaginal secretions (and perinatally).",
+   "shortExplanation": "Body fluids.",
+   "pmid": "32310405",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is often transmitted via body fluids like blood, semen, and vaginal secretions",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32310405-1-es",
+   "translationKey": "micro-32310405-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se transmite habitualmente la hepatitis B?",
+   "options": [
+    "Por sangre, semen y secreciones vaginales",
+    "Solo por alimentos contaminados",
+    "Por picaduras de mosquito",
+    "Por el aire"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El VHB se transmite por fluidos corporales: sangre, semen y secreciones vaginales (y en forma perinatal).",
+   "shortExplanation": "Fluidos corporales.",
+   "pmid": "32310405",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is often transmitted via body fluids like blood, semen, and vaginal secretions",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32310405-2-en",
+   "translationKey": "micro-32310405-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What usually happens when an immunocompetent adult acquires HBV?",
+   "options": [
+    "Almost all develop cirrhosis",
+    "Most become chronic carriers",
+    "They need a liver transplant",
+    "More than 95% clear the infection spontaneously"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Over 95% of immunocompetent adults clear HBV; chronicity is far more frequent after perinatal infection.",
+   "shortExplanation": ">95% clear it.",
+   "pmid": "32310405",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The majority (more than 95%) of immunocompetent adults infected with HBV can clear the infection spontaneously",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32310405-2-es",
+   "translationKey": "micro-32310405-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué suele ocurrir cuando un adulto inmunocompetente adquiere el VHB?",
+   "options": [
+    "Casi todos desarrollan cirrosis",
+    "La mayoría queda como portador crónico",
+    "Necesitan trasplante hepático",
+    "Más del 95% elimina la infección espontáneamente"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Más del 95% de los adultos inmunocompetentes elimina el VHB; la cronicidad es mucho más frecuente tras infección perinatal.",
+   "shortExplanation": ">95% la elimina.",
+   "pmid": "32310405",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The majority (more than 95%) of immunocompetent adults infected with HBV can clear the infection spontaneously",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613647-1-en",
+   "translationKey": "micro-28613647-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What fraction of acute hepatitis C infections become chronic?",
+   "options": [
+    "About 5%",
+    "About 20%",
+    "About 80–85%",
+    "100%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Most (80–85%) acutely infected patients fail to clear HCV and become chronic, risking cirrhosis and liver cancer.",
+   "shortExplanation": "80–85%.",
+   "pmid": "28613647",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Most patients (80% to 85%) who become acutely infected cannot clear the virus and progress to chronic infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613647-1-es",
+   "translationKey": "micro-28613647-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué fracción de las hepatitis C agudas se cronifica?",
+   "options": [
+    "Alrededor del 5%",
+    "Alrededor del 20%",
+    "Alrededor del 80–85%",
+    "100%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mayoría (80–85%) no elimina el VHC y se cronifica, con riesgo de cirrosis y cáncer hepático.",
+   "shortExplanation": "80–85%.",
+   "pmid": "28613647",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Most patients (80% to 85%) who become acutely infected cannot clear the virus and progress to chronic infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613647-2-en",
+   "translationKey": "micro-28613647-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What transformed hepatitis C treatment from 2011 onward?",
+   "options": [
+    "Interferon monotherapy",
+    "Direct-acting antivirals (DAAs)",
+    "A preventive vaccine",
+    "Liver transplantation for all"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Direct-acting antivirals enabled viral eradication in most patients.",
+   "shortExplanation": "Direct-acting antivirals.",
+   "pmid": "28613647",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "introducing highly active direct-acting antivirals (DAAs) in 2011",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613647-2-es",
+   "translationKey": "micro-28613647-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué transformó el tratamiento de la hepatitis C desde 2011?",
+   "options": [
+    "Monoterapia con interferón",
+    "Los antivirales de acción directa (AAD)",
+    "Una vacuna preventiva",
+    "Trasplante hepático para todos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los antivirales de acción directa permitieron erradicar el virus en la mayoría de los pacientes.",
+   "shortExplanation": "Antivirales de acción directa.",
+   "pmid": "28613647",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "introducing highly active direct-acting antivirals (DAAs) in 2011",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083664-1-en",
+   "translationKey": "micro-29083664-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "How is hepatitis A mainly transmitted?",
+   "options": [
+    "Blood transfusions",
+    "Sexual fluids only",
+    "Mosquito bites",
+    "Fecal-oral route (contaminated food or water)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "HAV spreads fecal-orally via contaminated food, water or close contact.",
+   "shortExplanation": "Fecal-oral.",
+   "pmid": "29083664",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "HAV is most commonly transmitted through the fecal-oral route",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083664-1-es",
+   "translationKey": "micro-29083664-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Cómo se transmite principalmente la hepatitis A?",
+   "options": [
+    "Transfusiones",
+    "Solo fluidos sexuales",
+    "Picaduras de mosquito",
+    "Vía fecal-oral (agua o alimentos contaminados)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El VHA se transmite por vía fecal-oral: agua, alimentos contaminados o contacto cercano.",
+   "shortExplanation": "Fecal-oral.",
+   "pmid": "29083664",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "HAV is most commonly transmitted through the fecal-oral route",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083664-2-en",
+   "translationKey": "micro-29083664-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which hepatitis virus does NOT cause chronic liver disease?",
+   "options": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hepatitis C",
+    "All cause chronic disease"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "HAV causes self-limited acute hepatitis and, unlike HBV or HCV, never becomes chronic.",
+   "shortExplanation": "Hepatitis A.",
+   "pmid": "29083664",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "HAV does not cause chronic liver disease, unlike hepatitis B or C",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083664-2-es",
+   "translationKey": "micro-29083664-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué virus de hepatitis NO causa enfermedad hepática crónica?",
+   "options": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hepatitis C",
+    "Todos la causan"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El VHA causa hepatitis aguda autolimitada y, a diferencia del VHB o VHC, no se cronifica.",
+   "shortExplanation": "Hepatitis A.",
+   "pmid": "29083664",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "HAV does not cause chronic liver disease, unlike hepatitis B or C",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846330-1-en",
+   "translationKey": "micro-28846330-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which statement about measles is correct?",
+   "options": [
+    "It is caused by a bacterium",
+    "It is a highly contagious, vaccine-preventable viral illness",
+    "It only affects adults",
+    "There is no vaccine"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Measles is a highly contagious febrile viral disease, preventable by vaccination but still causing ~100,000 deaths yearly.",
+   "shortExplanation": "Contagious, vaccine-preventable.",
+   "pmid": "28846330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Measles, or rubeola, is a preventable, highly contagious, acute febrile viral illness",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846330-1-es",
+   "translationKey": "micro-28846330-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué afirmación sobre el sarampión es correcta?",
+   "options": [
+    "Lo causa una bacteria",
+    "Es una enfermedad viral muy contagiosa y prevenible con vacuna",
+    "Solo afecta a adultos",
+    "No hay vacuna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El sarampión es una enfermedad viral febril muy contagiosa, prevenible por vacuna, que aún causa ~100.000 muertes al año.",
+   "shortExplanation": "Contagioso, prevenible.",
+   "pmid": "28846330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Measles, or rubeola, is a preventable, highly contagious, acute febrile viral illness",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846330-2-en",
+   "translationKey": "micro-28846330-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Why do measles outbreaks still occur in countries that had eliminated it?",
+   "options": [
+    "The virus mutated to escape vaccines",
+    "It spreads from animals",
+    "Imported cases spread among unvaccinated groups",
+    "Vaccines expire after one year"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Elimination means no continuous transmission; imported cases spark outbreaks in unvaccinated communities.",
+   "shortExplanation": "Imported cases + unvaccinated people.",
+   "pmid": "28846330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "outbreaks continue to occur through imported disease and transmission among unvaccinated groups",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846330-2-es",
+   "translationKey": "micro-28846330-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué sigue habiendo brotes de sarampión en países que lo habían eliminado?",
+   "options": [
+    "El virus mutó y escapa a las vacunas",
+    "Se transmite desde animales",
+    "Casos importados se propagan en grupos no vacunados",
+    "Las vacunas vencen al año"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Eliminación significa ausencia de transmisión continua; los casos importados generan brotes en comunidades no vacunadas.",
+   "shortExplanation": "Importación + no vacunados.",
+   "pmid": "28846330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "outbreaks continue to occur through imported disease and transmission among unvaccinated groups",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30521206-1-en",
+   "translationKey": "micro-30521206-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What is the classic hallmark of mumps?",
+   "options": [
+    "Koplik spots",
+    "Vesicular rash",
+    "Swelling of the parotid glands (parotitis)",
+    "Bloody diarrhea"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mumps begins with a prodrome and then parotitis, its classic sign.",
+   "shortExplanation": "Parotitis.",
+   "pmid": "30521206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "followed by parotitis, the classic hallmark of mumps",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30521206-1-es",
+   "translationKey": "micro-30521206-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es el signo clásico de las paperas?",
+   "options": [
+    "Manchas de Koplik",
+    "Exantema vesicular",
+    "Inflamación de las parótidas (parotiditis)",
+    "Diarrea con sangre"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las paperas comienzan con pródromo y luego parotiditis, su signo clásico.",
+   "shortExplanation": "Parotiditis.",
+   "pmid": "30521206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "followed by parotitis, the classic hallmark of mumps",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30521206-2-en",
+   "translationKey": "micro-30521206-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which diseases does the MMR vaccine protect against?",
+   "options": [
+    "Meningitis, malaria, rabies",
+    "Mumps, malaria, rotavirus",
+    "Measles, meningococcus, rubella",
+    "Measles, mumps, rubella"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "In 1971 the mumps vaccine was combined with measles and rubella vaccines to form MMR (triple viral).",
+   "shortExplanation": "Measles, mumps, rubella.",
+   "pmid": "30521206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 1971, the mumps vaccine was combined with measles and rubella to create the MMR vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30521206-2-es",
+   "translationKey": "micro-30521206-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Contra qué enfermedades protege la vacuna triple viral (SRP/MMR)?",
+   "options": [
+    "Meningitis, malaria, rabia",
+    "Paperas, malaria, rotavirus",
+    "Sarampión, meningococo, rubéola",
+    "Sarampión, paperas, rubéola"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "En 1971 la vacuna de paperas se combinó con las de sarampión y rubéola para formar la triple viral.",
+   "shortExplanation": "Sarampión, paperas, rubéola.",
+   "pmid": "30521206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 1971, the mumps vaccine was combined with measles and rubella to create the MMR vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644466-1-en",
+   "translationKey": "micro-32644466-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Rubella is also known as…",
+   "options": [
+    "Black measles",
+    "Fifth disease",
+    "Roseola",
+    "German measles"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Rubella (German measles) is usually mild, but dangerous in early pregnancy.",
+   "shortExplanation": "German measles.",
+   "pmid": "32644466",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rubella, also known as German measles",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644466-1-es",
+   "translationKey": "micro-32644466-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "La rubéola también se conoce como…",
+   "options": [
+    "Sarampión negro",
+    "Quinta enfermedad",
+    "Roséola",
+    "Sarampión alemán"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La rubéola (sarampión alemán) suele ser leve, pero es peligrosa al inicio del embarazo.",
+   "shortExplanation": "Sarampión alemán.",
+   "pmid": "32644466",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rubella, also known as German measles",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644466-2-en",
+   "translationKey": "micro-32644466-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why is rubella a major public health concern despite usually being mild?",
+   "options": [
+    "Its teratogenic effect in the first trimester (congenital rubella syndrome)",
+    "It causes liver cancer",
+    "It has no vaccine",
+    "It is always fatal in adults"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "First-trimester infection can cause miscarriage, fetal death or congenital rubella syndrome.",
+   "shortExplanation": "Teratogenic in pregnancy.",
+   "pmid": "32644466",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary public health concern is its teratogenic effect during the first trimester of pregnancy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644466-2-es",
+   "translationKey": "micro-32644466-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la rubéola es un problema de salud pública si suele ser leve?",
+   "options": [
+    "Por su efecto teratogénico en el primer trimestre (síndrome de rubéola congénita)",
+    "Porque causa cáncer de hígado",
+    "Porque no hay vacuna",
+    "Porque siempre es mortal en adultos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La infección en el primer trimestre puede causar aborto, muerte fetal o síndrome de rubéola congénita.",
+   "shortExplanation": "Teratogénica.",
+   "pmid": "32644466",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary public health concern is its teratogenic effect during the first trimester of pregnancy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644377-1-en",
+   "translationKey": "micro-32644377-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What is the leading cause of severe gastroenteritis in children under 5?",
+   "options": [
+    "Salmonella",
+    "Rotavirus",
+    "Giardia",
+    "Hepatitis A"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Rotavirus is the leading cause of severe childhood gastroenteritis; vaccines have reduced it greatly.",
+   "shortExplanation": "Rotavirus.",
+   "pmid": "32644377",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rotavirus is the leading cause of severe gastroenteritis in children younger than 5 years of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644377-1-es",
+   "translationKey": "micro-32644377-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la principal causa de gastroenteritis grave en menores de 5 años?",
+   "options": [
+    "Salmonella",
+    "Rotavirus",
+    "Giardia",
+    "Hepatitis A"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El rotavirus es la principal causa de gastroenteritis grave infantil; las vacunas la redujeron mucho.",
+   "shortExplanation": "Rotavirus.",
+   "pmid": "32644377",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rotavirus is the leading cause of severe gastroenteritis in children younger than 5 years of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644377-2-en",
+   "translationKey": "micro-32644377-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What is the main cause of death in severe rotavirus disease?",
+   "options": [
+    "Encephalitis",
+    "Bowel perforation",
+    "Dehydration from diarrhea and vomiting",
+    "Sepsis from bacterial invasion"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Profuse diarrhea and vomiting cause dehydration, which can require hospitalization and kill if untreated.",
+   "shortExplanation": "Dehydration.",
+   "pmid": "32644377",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "leading to significant dehydration and reduced oral intake, which can necessitate hospitalization and lead to death if not treated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644377-2-es",
+   "translationKey": "micro-32644377-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es la principal causa de muerte en la enfermedad grave por rotavirus?",
+   "options": [
+    "Encefalitis",
+    "Perforación intestinal",
+    "Deshidratación por diarrea y vómitos",
+    "Sepsis por invasión bacteriana"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La diarrea profusa y los vómitos causan deshidratación, que puede requerir internación y ser mortal sin tratamiento.",
+   "shortExplanation": "Deshidratación.",
+   "pmid": "32644377",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "leading to significant dehydration and reduced oral intake, which can necessitate hospitalization and lead to death if not treated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020637-1-en",
+   "translationKey": "micro-30020637-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which description fits norovirus?",
+   "options": [
+    "Enveloped dsDNA virus",
+    "Retrovirus",
+    "Segmented dsRNA virus",
+    "Nonenveloped positive-sense ssRNA calicivirus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Noroviruses are nonenveloped (+)ssRNA viruses in the family Caliciviridae — hardy in the environment.",
+   "shortExplanation": "Nonenveloped (+)ssRNA calicivirus.",
+   "pmid": "30020637",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Noroviruses are nonenveloped, positive-sense, single-stranded RNA viruses belonging to the Caliciviridae viral family",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020637-1-es",
+   "translationKey": "micro-30020637-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué descripción corresponde al norovirus?",
+   "options": [
+    "Virus ADNdc envuelto",
+    "Retrovirus",
+    "Virus ARNdc segmentado",
+    "Calicivirus ARNmc(+) no envuelto"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los norovirus son virus ARNmc(+) no envueltos de la familia Caliciviridae, muy resistentes en el ambiente.",
+   "shortExplanation": "Calicivirus ARN(+) no envuelto.",
+   "pmid": "30020637",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Noroviruses are nonenveloped, positive-sense, single-stranded RNA viruses belonging to the Caliciviridae viral family",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020637-2-en",
+   "translationKey": "micro-30020637-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "In countries with rotavirus vaccination, which virus is now the most common cause of childhood gastroenteritis?",
+   "options": [
+    "Norovirus",
+    "Adenovirus 40/41",
+    "Astrovirus",
+    "Hepatitis E"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Where rotavirus vaccine is used, norovirus has become the leading cause of pediatric gastroenteritis.",
+   "shortExplanation": "Norovirus.",
+   "pmid": "30020637",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In developed countries with rotavirus vaccine programs, norovirus surpasses rotavirus as the most common cause of gastroenteritis in children",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020637-2-es",
+   "translationKey": "micro-30020637-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "En países con vacuna contra rotavirus, ¿qué virus es hoy la causa más común de gastroenteritis infantil?",
+   "options": [
+    "Norovirus",
+    "Adenovirus 40/41",
+    "Astrovirus",
+    "Hepatitis E"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Donde se vacuna contra rotavirus, el norovirus pasó a ser la principal causa de gastroenteritis pediátrica.",
+   "shortExplanation": "Norovirus.",
+   "pmid": "30020637",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In developed countries with rotavirus vaccine programs, norovirus surpasses rotavirus as the most common cause of gastroenteritis in children",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846281-1-en",
+   "translationKey": "micro-28846281-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which HPV types are high-risk for cancer?",
+   "options": [
+    "6 and 11",
+    "16 and 18",
+    "1 and 2",
+    "3 and 10"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "HPV 16 and 18 cause high-grade lesions that progress to cancer; 6 and 11 are low risk (condylomata).",
+   "shortExplanation": "16 and 18.",
+   "pmid": "28846281",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "HPV subtypes 16 and 18 are high risk",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846281-1-es",
+   "translationKey": "micro-28846281-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipos de VPH son de alto riesgo oncogénico?",
+   "options": [
+    "6 y 11",
+    "16 y 18",
+    "1 y 2",
+    "3 y 10"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los VPH 16 y 18 causan lesiones de alto grado que progresan a cáncer; 6 y 11 son de bajo riesgo (condilomas).",
+   "shortExplanation": "16 y 18.",
+   "pmid": "28846281",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "HPV subtypes 16 and 18 are high risk",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846281-2-en",
+   "translationKey": "micro-28846281-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which statement about HPV and cancer is correct?",
+   "options": [
+    "Every HPV infection becomes cancer",
+    "Only low-risk types cause cancer",
+    "HPV causes only skin cancer",
+    "HPV alone is not sufficient; cofactors such as smoking or immunosuppression contribute"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Most infections are latent; progression to cancer requires persistence plus cofactors like smoking, immunosuppression or UV light.",
+   "shortExplanation": "Cofactors needed.",
+   "pmid": "28846281",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "HPV alone does not cause cancer but requires triggers like smoking, folate deficiency, UV light exposure, immunosuppression, and pregnancy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846281-2-es",
+   "translationKey": "micro-28846281-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué afirmación sobre VPH y cáncer es correcta?",
+   "options": [
+    "Toda infección por VPH se vuelve cáncer",
+    "Solo los tipos de bajo riesgo causan cáncer",
+    "El VPH solo causa cáncer de piel",
+    "El VPH solo no alcanza; contribuyen cofactores como tabaco o inmunosupresión"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La mayoría de las infecciones son latentes; la progresión requiere persistencia más cofactores como tabaco, inmunosupresión o UV.",
+   "shortExplanation": "Hacen falta cofactores.",
+   "pmid": "28846281",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "HPV alone does not cause cancer but requires triggers like smoking, folate deficiency, UV light exposure, immunosuppression, and pregnancy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613483-1-en",
+   "translationKey": "micro-28613483-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Which mosquito mainly transmits dengue?",
+   "options": [
+    "Aedes aegypti",
+    "Anopheles",
+    "Culex",
+    "Sandflies"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Dengue is transmitted mainly by Aedes aegypti and Aedes albopictus.",
+   "shortExplanation": "Aedes aegypti.",
+   "pmid": "28613483",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transmitted primarily by Aedes aegypti and Aedes albopictus mosquitoes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613483-1-es",
+   "translationKey": "micro-28613483-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué mosquito transmite principalmente el dengue?",
+   "options": [
+    "Aedes aegypti",
+    "Anopheles",
+    "Culex",
+    "Flebótomos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El dengue lo transmiten sobre todo Aedes aegypti y Aedes albopictus.",
+   "shortExplanation": "Aedes aegypti.",
+   "pmid": "28613483",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transmitted primarily by Aedes aegypti and Aedes albopictus mosquitoes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613483-2-en",
+   "translationKey": "micro-28613483-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "When do patients with dengue most often progress to severe disease?",
+   "options": [
+    "During the first hours of fever",
+    "Months after recovery",
+    "In the critical phase around defervescence, from capillary leak",
+    "Only in the incubation period"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Severe dengue typically appears around defervescence, when capillary permeability rises and plasma leaks.",
+   "shortExplanation": "Around defervescence.",
+   "pmid": "28613483",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "most commonly during the critical phase around defervescence, due to increased capillary permeability",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613483-2-es",
+   "translationKey": "micro-28613483-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuándo suelen progresar a dengue grave los pacientes?",
+   "options": [
+    "En las primeras horas de fiebre",
+    "Meses después de curarse",
+    "En la fase crítica, alrededor de la defervescencia, por fuga capilar",
+    "Solo durante la incubación"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El dengue grave aparece típicamente al bajar la fiebre, cuando aumenta la permeabilidad capilar y se fuga plasma.",
+   "shortExplanation": "Al bajar la fiebre.",
+   "pmid": "28613483",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "most commonly during the critical phase around defervescence, due to increased capillary permeability",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644370-1-en",
+   "translationKey": "micro-32644370-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How is poliovirus transmitted?",
+   "options": [
+    "Mosquito bites",
+    "Blood transfusion",
+    "Sexual contact",
+    "Fecal-oral and oral-oral routes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Poliovirus spreads by fecal-oral and oral-oral routes, mainly affecting children where sanitation is poor.",
+   "shortExplanation": "Fecal-oral/oral-oral.",
+   "pmid": "32644370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Poliomyelitis, or polio, is an infection transmitted via the fecal-oral and oral-oral routes by the poliovirus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644370-1-es",
+   "translationKey": "micro-32644370-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se transmite el poliovirus?",
+   "options": [
+    "Picaduras de mosquito",
+    "Transfusiones",
+    "Contacto sexual",
+    "Vías fecal-oral y oral-oral"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El poliovirus se transmite por vía fecal-oral y oral-oral, sobre todo en niños donde el saneamiento es deficiente.",
+   "shortExplanation": "Fecal-oral/oral-oral.",
+   "pmid": "32644370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Poliomyelitis, or polio, is an infection transmitted via the fecal-oral and oral-oral routes by the poliovirus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644370-2-en",
+   "translationKey": "micro-32644370-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What fraction of poliovirus infections cause the characteristic paralysis?",
+   "options": [
+    "Nearly all",
+    "A small minority",
+    "Exactly half",
+    "None"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Most infections are asymptomatic; paralysis occurs in a small minority, so the virus spreads undetected.",
+   "shortExplanation": "A small minority.",
+   "pmid": "32644370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the characteristic paralysis occurs in a small minority of those it infects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644370-2-es",
+   "translationKey": "micro-32644370-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué fracción de las infecciones por poliovirus causa la parálisis característica?",
+   "options": [
+    "Casi todas",
+    "Una pequeña minoría",
+    "Exactamente la mitad",
+    "Ninguna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La mayoría son asintomáticas; la parálisis ocurre en una pequeña minoría, por lo que el virus circula sin detectarse.",
+   "shortExplanation": "Una pequeña minoría.",
+   "pmid": "32644370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the characteristic paralysis occurs in a small minority of those it infects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644370-3-en",
+   "translationKey": "micro-32644370-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What are vaccine-derived polioviruses (VDPVs)?",
+   "options": [
+    "Oral vaccine strains that revert or recombine to regain neurovirulence and transmissibility",
+    "Inactivated vaccine strains that cause paralysis",
+    "Wild strains resistant to vaccines",
+    "Enteroviruses unrelated to polio"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Attenuated OPV strains can revert or recombine, regaining neurovirulence and causing outbreaks in under-vaccinated areas.",
+   "shortExplanation": "Reverted OPV strains.",
+   "pmid": "32644370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccine-derived polioviruses (VDPVs) revert or recombine to wild-type neurovirulence and transmissibility",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644370-3-es",
+   "translationKey": "micro-32644370-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué son los poliovirus derivados de la vacuna (PVDV)?",
+   "options": [
+    "Cepas de la vacuna oral que revierten o recombinan y recuperan neurovirulencia y transmisibilidad",
+    "Cepas inactivadas que causan parálisis",
+    "Cepas salvajes resistentes a vacunas",
+    "Enterovirus sin relación con la polio"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las cepas atenuadas de la OPV pueden revertir o recombinar y causar brotes en zonas con baja cobertura.",
+   "shortExplanation": "Cepas OPV revertidas.",
+   "pmid": "32644370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccine-derived polioviruses (VDPVs) revert or recombine to wild-type neurovirulence and transmissibility",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809414-1-en",
+   "translationKey": "micro-32809414-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "To which virus family does Ebola belong?",
+   "options": [
+    "Flaviviridae",
+    "Coronaviridae",
+    "Filoviridae",
+    "Herpesviridae"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Ebola viruses are filamentous negative-strand RNA viruses of the Filoviridae (\"filum\" = thread).",
+   "shortExplanation": "Filoviridae.",
+   "pmid": "32809414",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "filamentous viruses with a characteristic twisted thread shape belonging to the Filoviridae family",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809414-1-es",
+   "translationKey": "micro-32809414-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿A qué familia viral pertenece el Ébola?",
+   "options": [
+    "Flaviviridae",
+    "Coronaviridae",
+    "Filoviridae",
+    "Herpesviridae"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los virus del Ébola son virus ARN de cadena negativa filamentosos de la familia Filoviridae (\"filum\" = hilo).",
+   "shortExplanation": "Filoviridae.",
+   "pmid": "32809414",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "filamentous viruses with a characteristic twisted thread shape belonging to the Filoviridae family",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809414-2-en",
+   "translationKey": "micro-32809414-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What is thought to be the natural reservoir of Ebola virus?",
+   "options": [
+    "Mosquitoes",
+    "Rodents",
+    "Domestic pigs",
+    "Fruit bats (Pteropodidae)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Fruit bats are the presumed reservoir; humans and other primates are incidental hosts.",
+   "shortExplanation": "Fruit bats.",
+   "pmid": "32809414",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is thought to use fruit bats of the Pteropodidae family as a natural reservoir",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809414-2-es",
+   "translationKey": "micro-32809414-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál se cree que es el reservorio natural del virus del Ébola?",
+   "options": [
+    "Mosquitos",
+    "Roedores",
+    "Cerdos domésticos",
+    "Murciélagos frugívoros (Pteropodidae)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los murciélagos frugívoros son el reservorio presunto; humanos y otros primates son huéspedes incidentales.",
+   "shortExplanation": "Murciélagos frugívoros.",
+   "pmid": "32809414",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is thought to use fruit bats of the Pteropodidae family as a natural reservoir",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644498-1-en",
+   "translationKey": "micro-32644498-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Regarding adenovirus oncogenicity, which statement is correct?",
+   "options": [
+    "It is oncogenic in rodents but has not been shown to cause cancer in humans",
+    "It is the main cause of cervical cancer",
+    "It causes Burkitt lymphoma",
+    "It causes hepatocellular carcinoma"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Adenoviruses transform rodent cells, but oncogenicity has not been observed in humans.",
+   "shortExplanation": "Rodents only.",
+   "pmid": "32644498",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Adenovirus is recognized to be oncogenic in rodents, but it has not yet been observed in humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644498-1-es",
+   "translationKey": "micro-32644498-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Respecto de la oncogenicidad del adenovirus, ¿qué afirmación es correcta?",
+   "options": [
+    "Es oncogénico en roedores pero no se demostró que cause cáncer en humanos",
+    "Es la principal causa de cáncer de cuello uterino",
+    "Causa linfoma de Burkitt",
+    "Causa carcinoma hepatocelular"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los adenovirus transforman células de roedores, pero no se observó oncogenicidad en humanos.",
+   "shortExplanation": "Solo en roedores.",
+   "pmid": "32644498",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Adenovirus is recognized to be oncogenic in rodents, but it has not yet been observed in humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083623-1-en",
+   "translationKey": "micro-29083623-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which lower respiratory illness does RSV classically cause in young infants?",
+   "options": [
+    "Croup",
+    "Epiglottitis",
+    "Bronchiolitis",
+    "Lobar pneumonia"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "RSV is the leading cause of pediatric respiratory hospitalization, often as bronchiolitis in infants.",
+   "shortExplanation": "Bronchiolitis.",
+   "pmid": "29083623",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "frequently progresses to bronchiolitis in young infants",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083623-1-es",
+   "translationKey": "micro-29083623-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué enfermedad respiratoria baja causa clásicamente el VSR en lactantes?",
+   "options": [
+    "Crup",
+    "Epiglotitis",
+    "Bronquiolitis",
+    "Neumonía lobar"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El VSR es la principal causa de internación respiratoria pediátrica, a menudo como bronquiolitis en lactantes.",
+   "shortExplanation": "Bronquiolitis.",
+   "pmid": "29083623",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "frequently progresses to bronchiolitis in young infants",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083623-2-en",
+   "translationKey": "micro-29083623-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which strategy protects infants against RSV through passive immunization?",
+   "options": [
+    "Oral antivirals",
+    "Long-acting monoclonal antibodies such as nirsevimab",
+    "Live attenuated RSV vaccine for newborns",
+    "Antibiotic prophylaxis"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Maternal prefusion F vaccination and long-acting monoclonals (nirsevimab, clesrovimab) have transformed RSV prevention.",
+   "shortExplanation": "Monoclonal antibodies.",
+   "pmid": "29083623",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "use of monoclonal antibodies, including nirsevimab and clesrovimab",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083623-2-es",
+   "translationKey": "micro-29083623-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué estrategia protege a los lactantes contra el VSR mediante inmunización pasiva?",
+   "options": [
+    "Antivirales orales",
+    "Anticuerpos monoclonales de acción prolongada como nirsevimab",
+    "Vacuna atenuada para recién nacidos",
+    "Profilaxis antibiótica"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La vacuna materna de F prefusión y los monoclonales prolongados (nirsevimab, clesrovimab) transformaron la prevención del VSR.",
+   "shortExplanation": "Anticuerpos monoclonales.",
+   "pmid": "29083623",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "use of monoclonal antibodies, including nirsevimab and clesrovimab",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32150360-1-en",
+   "translationKey": "micro-32150360-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Which virus causes COVID-19?",
+   "options": [
+    "Influenza A H1N1",
+    "MERS-CoV",
+    "Respiratory syncytial virus",
+    "SARS-CoV-2"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "COVID-19 is caused by SARS-CoV-2, an RNA coronavirus.",
+   "shortExplanation": "SARS-CoV-2.",
+   "pmid": "32150360",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32150360-1-es",
+   "translationKey": "micro-32150360-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué virus causa la COVID-19?",
+   "options": [
+    "Influenza A H1N1",
+    "MERS-CoV",
+    "Virus sincicial respiratorio",
+    "SARS-CoV-2"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La COVID-19 la causa el SARS-CoV-2, un coronavirus ARN.",
+   "shortExplanation": "SARS-CoV-2.",
+   "pmid": "32150360",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613699-1-en",
+   "translationKey": "micro-28613699-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Besides mosquitoes, how else can Zika virus be transmitted?",
+   "options": [
+    "Vertically to the fetus and sexually",
+    "Only by mosquitoes",
+    "By the fecal-oral route",
+    "By respiratory droplets"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Zika is mainly mosquito-borne, but also vertical (mother to fetus), sexual and transfusion-related.",
+   "shortExplanation": "Vertical and sexual.",
+   "pmid": "28613699",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Additional routes of Zika virus transmission include vertical transmission from a pregnant woman to the fetus, sexual transmission",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613699-1-es",
+   "translationKey": "micro-28613699-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Además de los mosquitos, ¿cómo se puede transmitir el virus Zika?",
+   "options": [
+    "Verticalmente al feto y por vía sexual",
+    "Solo por mosquitos",
+    "Por vía fecal-oral",
+    "Por gotitas respiratorias"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El Zika es transmitido sobre todo por mosquitos, pero también vertical (madre-feto), sexual y por transfusión.",
+   "shortExplanation": "Vertical y sexual.",
+   "pmid": "28613699",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Additional routes of Zika virus transmission include vertical transmission from a pregnant woman to the fetus, sexual transmission",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29262028-1-en",
+   "translationKey": "micro-29262028-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Why is yellow fever called \"yellow\"?",
+   "options": [
+    "The virus is yellow under the microscope",
+    "Severe cases cause jaundice",
+    "It was discovered in the Yellow River",
+    "Mosquitoes are yellow"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Severe yellow fever damages the liver, causing jaundice.",
+   "shortExplanation": "Jaundice.",
+   "pmid": "29262028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The “yellow” comes from jaundice that affects some patients with severe disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29262028-1-es",
+   "translationKey": "micro-29262028-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Por qué la fiebre amarilla se llama \"amarilla\"?",
+   "options": [
+    "El virus es amarillo al microscopio",
+    "Los casos graves causan ictericia",
+    "Se descubrió en el río Amarillo",
+    "Los mosquitos son amarillos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La fiebre amarilla grave daña el hígado y causa ictericia.",
+   "shortExplanation": "Ictericia.",
+   "pmid": "29262028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The “yellow” comes from jaundice that affects some patients with severe disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29262028-2-en",
+   "translationKey": "micro-29262028-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What epidemiological feature of yellow fever favors urban spread?",
+   "options": [
+    "Humans are dead-end hosts",
+    "It spreads only by blood transfusion",
+    "Viremic humans can infect mosquitoes (not dead-end hosts)",
+    "It has no mosquito vector"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Unlike many arboviruses, viremic humans infect mosquitoes, allowing human–mosquito–human cycles.",
+   "shortExplanation": "Humans infect mosquitoes.",
+   "pmid": "29262028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "infected humans are not dead-end hosts and may infect mosquitoes during periods of viremia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29262028-2-es",
+   "translationKey": "micro-29262028-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué característica epidemiológica de la fiebre amarilla favorece su propagación urbana?",
+   "options": [
+    "Los humanos son huéspedes terminales",
+    "Solo se transmite por transfusión",
+    "Los humanos virémicos pueden infectar mosquitos (no son terminales)",
+    "No tiene vector"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "A diferencia de muchos arbovirus, los humanos virémicos infectan mosquitos, permitiendo ciclos humano–mosquito–humano.",
+   "shortExplanation": "Los humanos infectan mosquitos.",
+   "pmid": "29262028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "infected humans are not dead-end hosts and may infect mosquitoes during periods of viremia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29262186-1-en",
+   "translationKey": "micro-29262186-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Which was the first human infectious disease eradicated worldwide?",
+   "options": [
+    "Smallpox",
+    "Polio",
+    "Measles",
+    "Tuberculosis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Smallpox was the first human disease eradicated; global eradication was certified in 1980.",
+   "shortExplanation": "Smallpox.",
+   "pmid": "29262186",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Smallpox is the first human infectious disease to be successfully eradicated worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29262186-1-es",
+   "translationKey": "micro-29262186-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál fue la primera enfermedad infecciosa humana erradicada del mundo?",
+   "options": [
+    "Viruela",
+    "Polio",
+    "Sarampión",
+    "Tuberculosis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La viruela fue la primera enfermedad humana erradicada; se certificó en 1980.",
+   "shortExplanation": "Viruela.",
+   "pmid": "29262186",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Smallpox is the first human infectious disease to be successfully eradicated worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491575-1-en",
+   "translationKey": "micro-32491575-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which virus is the most common cause of fatal sporadic encephalitis beyond the neonatal period?",
+   "options": [
+    "HSV-2",
+    "HSV-1",
+    "Enterovirus 71",
+    "West Nile virus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Beyond the neonatal period, herpes encephalitis is almost always HSV-1; neonatal cases are more often HSV-2.",
+   "shortExplanation": "HSV-1.",
+   "pmid": "32491575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Almost all herpes encephalitis beyond the neonatal period is caused by herpes simplex type 1 (HSV-1), the most common cause of fatal encephalitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491575-1-es",
+   "translationKey": "micro-32491575-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué virus es la causa más común de encefalitis esporádica mortal fuera del período neonatal?",
+   "options": [
+    "VHS-2",
+    "VHS-1",
+    "Enterovirus 71",
+    "Virus del Nilo Occidental"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Fuera del período neonatal, la encefalitis herpética es casi siempre por VHS-1; en neonatos predomina el VHS-2.",
+   "shortExplanation": "VHS-1.",
+   "pmid": "32491575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Almost all herpes encephalitis beyond the neonatal period is caused by herpes simplex type 1 (HSV-1), the most common cause of fatal encephalitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491575-2-en",
+   "translationKey": "micro-32491575-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How many herpesvirus types infect humans?",
+   "options": [
+    "Two",
+    "Four",
+    "Twelve",
+    "Eight"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Eight human herpesviruses exist (HSV-1, HSV-2, VZV, EBV, CMV, HHV-6, HHV-7, HHV-8), all large dsDNA viruses.",
+   "shortExplanation": "Eight.",
+   "pmid": "32491575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Eight types of herpes viruses affect humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491575-2-es",
+   "translationKey": "micro-32491575-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuántos tipos de herpesvirus infectan al ser humano?",
+   "options": [
+    "Dos",
+    "Cuatro",
+    "Doce",
+    "Ocho"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Existen ocho herpesvirus humanos (VHS-1, VHS-2, VVZ, VEB, CMV, VHH-6, VHH-7, VHH-8), todos virus ADNdc grandes.",
+   "shortExplanation": "Ocho.",
+   "pmid": "32491575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Eight types of herpes viruses affect humans",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
