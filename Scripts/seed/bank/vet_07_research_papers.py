@@ -13,7 +13,7 @@ Q = [
 ("38683888", "explorer", 0, "fatal systemic influenza infection developed in domestic cats fed raw (unpasteurized) colostrum and milk from affected cows",
  ("What happened to cats on farms with H5N1-infected cows?", ["Cats fed raw milk died of influenza", "They developed only mild colds", "They were resistant to infection", "They spread the virus back to birds only"],
   "Raw (unpasteurized) milk transmitted the virus to cats, a warning about cross-species transmission.", "Fatal in cats via raw milk."),
- ("¿Qué les pasó a los gatos de tambos con vacas infectadas por H5N1?", ["Gatos con leche cruda murieron de influenza", "Solo tuvieron resfríos leves", "Fueron resistentes a la infección", "Solo devolvieron el virus a las aves"],
+ ("¿Qué les pasó a los gatos de tambos con vacas infectadas por H5N1?", ["Los que tomaron leche cruda murieron", "Solo tuvieron resfríos leves", "Fueron resistentes a la infección", "Solo devolvieron el virus a las aves silvestres"],
   "La leche cruda (sin pasteurizar) transmitió el virus a los gatos, una alerta sobre la transmisión entre especies.", "Mortal en gatos por leche cruda.")),
 ("39053575", "researcher", 3, "a distinct tropism of the virus for the epithelial cells lining the alveoli of the mammary gland in cows",
  ("Which tissue did H5N1 show a distinct tropism for in dairy cows?", ["The epithelium of the hoof", "Neurons of the brainstem", "Fibers of skeletal muscle", "Mammary alveolar epithelium"],

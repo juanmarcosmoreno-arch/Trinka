@@ -1,5 +1,5 @@
 {
- "version": 29,
+ "version": 30,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -16055,7 +16055,7 @@
    "options": [
     "Louis Pasteur",
     "Antonie van Leeuwenhoek",
-    "Robert Koch",
+    "Ignaz Philipp Semmelweis",
     "Alexander Fleming"
    ],
    "correctOptionIndex": 1,
@@ -16079,7 +16079,7 @@
    "options": [
     "Louis Pasteur",
     "Antonie van Leeuwenhoek",
-    "Robert Koch",
+    "Ignaz Philipp Semmelweis",
     "Alexander Fleming"
    ],
    "correctOptionIndex": 1,
@@ -16101,10 +16101,10 @@
    "difficulty": "curious",
    "prompt": "What did Leeuwenhoek call the microorganisms he observed?",
    "options": [
-    "Germs",
-    "Microbes",
-    "Viruses",
-    "Animalcules (little animals)"
+    "Putrid germs",
+    "Contagia",
+    "Miasmata",
+    "Animalcules"
    ],
    "correctOptionIndex": 3,
    "explanation": "Leeuwenhoek called the protists and bacteria he saw 'animalcules', meaning little animals.",
@@ -16125,10 +16125,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo llamó Leeuwenhoek a los microorganismos que observó?",
    "options": [
-    "Gérmenes",
-    "Microbios",
-    "Virus",
-    "Animálculos (animalitos)"
+    "Gérmenes pútridos",
+    "Contagios",
+    "Miasmas",
+    "Animálculos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Leeuwenhoek llamó 'animálculos', es decir animalitos, a los protistas y bacterias que vio.",
@@ -16150,7 +16150,7 @@
    "prompt": "Which title is often given to Antonie van Leeuwenhoek?",
    "options": [
     "Father of Microbiology",
-    "Father of Surgery",
+    "Father of Modern Surgery",
     "Father of Genetics",
     "Father of Vaccination"
    ],
@@ -16174,7 +16174,7 @@
    "prompt": "¿Qué título se le da a menudo a Antonie van Leeuwenhoek?",
    "options": [
     "Padre de la Microbiología",
-    "Padre de la Cirugía",
+    "Padre de la Cirugía Moderna",
     "Padre de la Genética",
     "Padre de la Vacunación"
    ],
@@ -16245,10 +16245,10 @@
    "difficulty": "curious",
    "prompt": "Which theory established by Pasteur allowed Joseph Lister to develop antiseptic surgery?",
    "options": [
-    "The germ theory of infectious diseases",
-    "The theory of evolution",
-    "The four humors theory",
-    "The theory of relativity"
+    "The germ theory of disease",
+    "The theory of natural selection",
+    "The theory of the four humors",
+    "The miasma theory of disease"
    ],
    "correctOptionIndex": 0,
    "explanation": "Pasteur's germ theory showed microbes cause infection, which Lister applied to prevent wound infection.",
@@ -16269,10 +16269,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué teoría establecida por Pasteur permitió a Joseph Lister desarrollar la cirugía antiséptica?",
    "options": [
-    "La teoría microbiana de las enfermedades infecciosas",
-    "La teoría de la evolución",
+    "La teoría microbiana de la enfermedad",
+    "La teoría de la selección natural",
     "La teoría de los cuatro humores",
-    "La teoría de la relatividad"
+    "La teoría miasmática de la enfermedad"
    ],
    "correctOptionIndex": 0,
    "explanation": "La teoría microbiana de Pasteur mostró que los microbios causan infección, y Lister la aplicó para prevenir la infección de heridas.",
@@ -16341,10 +16341,10 @@
    "difficulty": "researcher",
    "prompt": "Who coined the word 'vaccination', later generalized by Pasteur?",
    "options": [
-    "Louis Pasteur himself",
-    "Richard Dunning, a friend of Edward Jenner",
-    "Robert Koch",
-    "Hippocrates"
+    "Louis Pasteur himself, in 1881",
+    "Richard Dunning, Jenner's friend",
+    "Robert Koch, in his anthrax paper",
+    "Lady Mary Wortley Montagu"
    ],
    "correctOptionIndex": 1,
    "explanation": "Richard Dunning coined 'vaccination' (from vacca, cow); Pasteur extended it to all such immunizations.",
@@ -16365,10 +16365,10 @@
    "difficulty": "researcher",
    "prompt": "¿Quién acuñó la palabra 'vacunación', luego generalizada por Pasteur?",
    "options": [
-    "El propio Louis Pasteur",
-    "Richard Dunning, amigo de Edward Jenner",
-    "Robert Koch",
-    "Hipócrates"
+    "El propio Louis Pasteur, en 1881",
+    "Richard Dunning, amigo de Jenner",
+    "Robert Koch, en su trabajo del carbunco",
+    "Lady Mary Wortley Montagu"
    ],
    "correctOptionIndex": 1,
    "explanation": "Richard Dunning acuñó 'vacunación' (de vacca, vaca); Pasteur la extendió a todas esas inmunizaciones.",
@@ -16389,10 +16389,10 @@
    "difficulty": "expert",
    "prompt": "Before his microbiology work, which chemical phenomenon did Pasteur discover?",
    "options": [
-    "Radioactivity",
+    "Natural radioactivity",
     "The periodic table",
     "Molecular chirality",
-    "Covalent bonding"
+    "The covalent bond"
    ],
    "correctOptionIndex": 2,
    "explanation": "Pasteur discovered molecular chirality (handedness of molecules) while studying tartrate crystals.",
@@ -16413,7 +16413,7 @@
    "difficulty": "expert",
    "prompt": "Antes de su trabajo en microbiología, ¿qué fenómeno químico descubrió Pasteur?",
    "options": [
-    "La radiactividad",
+    "La radiactividad natural",
     "La tabla periódica",
     "La quiralidad molecular",
     "El enlace covalente"
@@ -16485,7 +16485,7 @@
    "difficulty": "curious",
    "prompt": "Which diseases did Robert Koch famously study?",
    "options": [
-    "Malaria and dengue",
+    "Malaria and yellow fever",
     "Polio and measles",
     "Anthrax and tuberculosis",
     "Scurvy and rickets"
@@ -16509,7 +16509,7 @@
    "difficulty": "curious",
    "prompt": "¿Qué enfermedades estudió Robert Koch de manera famosa?",
    "options": [
-    "Malaria y dengue",
+    "Malaria y fiebre amarilla",
     "Polio y sarampión",
     "Carbunco y tuberculosis",
     "Escorbuto y raquitismo"
@@ -16534,9 +16534,9 @@
    "prompt": "Which innovation associated with Koch transformed laboratory research?",
    "options": [
     "Vaccines against smallpox",
-    "Antibiotics",
-    "Anesthesia",
-    "Visual representation of germs (microphotography)"
+    "The first synthetic antibiotics",
+    "General anesthesia with ether",
+    "Microphotography of germs"
    ],
    "correctOptionIndex": 3,
    "explanation": "Koch's photographs of bacteria made germs visible evidence, transforming medical laboratory research.",
@@ -16557,10 +16557,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué innovación asociada a Koch transformó la investigación de laboratorio?",
    "options": [
-    "Vacunas contra la viruela",
-    "Los antibióticos",
-    "La anestesia",
-    "La representación visual de los gérmenes (microfotografía)"
+    "Las vacunas contra la viruela",
+    "Los primeros antibióticos sintéticos",
+    "La anestesia general con éter",
+    "La microfotografía de gérmenes"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las fotografías de bacterias de Koch hicieron visibles los gérmenes como evidencia y transformaron la investigación médica.",
@@ -16581,10 +16581,10 @@
    "difficulty": "explorer",
    "prompt": "Which modern discovery is a classic example of applying Koch's postulates?",
    "options": [
-    "Penicillin",
-    "Helicobacter pylori as a cause of peptic ulcers",
-    "DNA structure",
-    "Insulin"
+    "Penicillin killing staphylococci",
+    "H. pylori as a cause of ulcers",
+    "The double-helix structure of DNA",
+    "Insulin as a treatment for diabetes"
    ],
    "correctOptionIndex": 1,
    "explanation": "H. pylori's link to ulcers and gastric cancer exemplifies Koch's postulates; eradication prevents recurrence.",
@@ -16605,10 +16605,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué descubrimiento moderno es un ejemplo clásico de aplicar los postulados de Koch?",
    "options": [
-    "La penicilina",
-    "Helicobacter pylori como causa de úlcera péptica",
-    "La estructura del ADN",
-    "La insulina"
+    "La penicilina contra estafilococos",
+    "H. pylori como causa de úlcera",
+    "La estructura en doble hélice del ADN",
+    "La insulina para tratar la diabetes"
    ],
    "correctOptionIndex": 1,
    "explanation": "El vínculo de H. pylori con úlceras y cáncer gástrico ejemplifica los postulados de Koch; erradicarlo evita recurrencias.",
@@ -16629,10 +16629,10 @@
    "difficulty": "researcher",
    "prompt": "What technology has expanded our view beyond Koch's culture-based microbiology?",
    "options": [
-    "The light microscope",
-    "Gram staining",
-    "Petri dishes",
-    "Next-generation sequencing of unculturable microbes"
+    "The modern compound light microscope",
+    "Gram staining of smears",
+    "Agar plates in Petri dishes",
+    "Sequencing unculturable microbes"
    ],
    "correctOptionIndex": 3,
    "explanation": "Sequencing reveals trillions of unculturable microbes and the microbiome, changing how we see microbes in health.",
@@ -16653,10 +16653,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué tecnología amplió nuestra visión más allá de la microbiología basada en cultivos de Koch?",
    "options": [
-    "El microscopio óptico",
-    "La tinción de Gram",
-    "Las placas de Petri",
-    "La secuenciación de nueva generación de microbios no cultivables"
+    "El microscopio óptico compuesto",
+    "La tinción de Gram de frotis",
+    "Las placas de agar en cajas de Petri",
+    "Secuenciar microbios no cultivables"
    ],
    "correctOptionIndex": 3,
    "explanation": "La secuenciación revela billones de microbios no cultivables y el microbioma, cambiando cómo vemos a los microbios.",
@@ -16678,9 +16678,9 @@
    "prompt": "What simple measure did Ignaz Semmelweis introduce to reduce deaths of new mothers?",
    "options": [
     "Hand disinfection with chlorine",
-    "Antibiotics",
-    "Vaccines",
-    "Blood transfusions"
+    "Antibiotics given before delivery",
+    "Vaccination of pregnant women",
+    "Blood transfusions after birth"
    ],
    "correctOptionIndex": 0,
    "explanation": "Semmelweis introduced chlorine hand disinfection, cutting childbed fever deaths 3- to 10-fold.",
@@ -16701,10 +16701,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué medida simple introdujo Ignaz Semmelweis para reducir las muertes de madres recién paridas?",
    "options": [
-    "La desinfección de manos con cloro",
-    "Antibióticos",
-    "Vacunas",
-    "Transfusiones"
+    "Desinfectar las manos con cloro",
+    "Antibióticos antes del parto",
+    "Vacunar a todas las embarazadas",
+    "Transfusiones tras el parto"
    ],
    "correctOptionIndex": 0,
    "explanation": "Semmelweis introdujo la desinfección de manos con cloro y redujo de 3 a 10 veces las muertes por fiebre puerperal.",
@@ -16726,9 +16726,9 @@
    "prompt": "Which disease did Semmelweis study in Vienna in 1847?",
    "options": [
     "Tuberculosis",
-    "Smallpox",
-    "Puerperal (childbed) fever",
-    "Cholera"
+    "Smallpox epidemics",
+    "Childbed fever",
+    "Asiatic cholera"
    ],
    "correctOptionIndex": 2,
    "explanation": "Childbed fever was then the leading cause of maternal death in lying-in hospitals.",
@@ -16750,9 +16750,9 @@
    "prompt": "¿Qué enfermedad estudió Semmelweis en Viena en 1847?",
    "options": [
     "Tuberculosis",
-    "Viruela",
+    "Viruela epidémica",
     "Fiebre puerperal",
-    "Cólera"
+    "Cólera asiático"
    ],
    "correctOptionIndex": 2,
    "explanation": "La fiebre puerperal era entonces la principal causa de muerte materna en las maternidades.",
@@ -16773,10 +16773,10 @@
    "difficulty": "explorer",
    "prompt": "Why was maternal mortality higher in the clinic taught by medical students?",
    "options": [
-    "Students used older beds",
-    "Students carried the causative agent from autopsies to mothers on their hands",
-    "Midwives used antibiotics",
-    "The ward was colder"
+    "Students' wards had older, dirtier beds",
+    "Students carried autopsy matter on their hands",
+    "Midwives secretly gave the mothers strong medicines",
+    "The students' ward was colder and damper"
    ],
    "correctOptionIndex": 1,
    "explanation": "Students went from autopsies to deliveries without disinfecting their hands, carrying 'decaying organic matter'.",
@@ -16797,10 +16797,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué era mayor la mortalidad materna en la clínica donde enseñaban a estudiantes de medicina?",
    "options": [
-    "Usaban camas más viejas",
-    "Los estudiantes llevaban el agente de las autopsias a las madres en sus manos",
-    "Las parteras usaban antibióticos",
-    "La sala era más fría"
+    "Las salas de estudiantes tenían camas más sucias",
+    "Los estudiantes traían restos de autopsias en las manos",
+    "Las parteras daban en secreto remedios fuertes a las madres",
+    "La sala de estudiantes era más fría y húmeda"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los estudiantes pasaban de las autopsias a los partos sin desinfectarse, llevando 'materia orgánica en descomposición'.",
@@ -16821,10 +16821,10 @@
    "difficulty": "researcher",
    "prompt": "Why was Semmelweis's doctrine rejected by most leading obstetricians?",
    "options": [
-    "It was proven wrong by experiments",
-    "He refused to publish anything",
-    "It required expensive drugs",
-    "It conflicted with all existing theories of the disease's cause"
+    "Careful experiments had proven it wrong",
+    "He refused to publish anything at all",
+    "It required expensive imported drugs",
+    "It clashed with prevailing theories"
    ],
    "correctOptionIndex": 3,
    "explanation": "His ideas contradicted prevailing theories; validation came only after germ theory was adopted, after his death.",
@@ -16845,10 +16845,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué la mayoría de los obstetras rechazó la doctrina de Semmelweis?",
    "options": [
-    "Los experimentos la refutaron",
-    "Se negó a publicar",
-    "Requería fármacos caros",
-    "Contradecía todas las teorías vigentes sobre la causa"
+    "Experimentos cuidadosos la habían refutado",
+    "Él se negó a publicar cualquier cosa",
+    "Requería fármacos importados y caros",
+    "Chocaba con las teorías vigentes"
    ],
    "correctOptionIndex": 3,
    "explanation": "Sus ideas contradecían las teorías de la época; recién se validaron con la teoría microbiana, tras su muerte.",
@@ -16869,10 +16869,10 @@
    "difficulty": "curious",
    "prompt": "Which antiseptic did Joseph Lister use in surgery?",
    "options": [
-    "Alcohol",
-    "Iodine",
-    "Chlorine",
-    "Carbolic acid (phenol)"
+    "Ethyl alcohol",
+    "Tincture of iodine",
+    "Chlorinated lime",
+    "Carbolic acid"
    ],
    "correctOptionIndex": 3,
    "explanation": "Lister used carbolic acid to prevent germs from entering wounds, reducing sepsis, gangrene and amputations.",
@@ -16893,10 +16893,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué antiséptico usó Joseph Lister en cirugía?",
    "options": [
-    "Alcohol",
-    "Yodo",
-    "Cloro",
-    "Ácido carbólico (fenol)"
+    "Alcohol etílico",
+    "Tintura de yodo",
+    "Cal clorada",
+    "Ácido carbólico"
    ],
    "correctOptionIndex": 3,
    "explanation": "Lister usó ácido carbólico para impedir que los gérmenes entraran en las heridas, reduciendo sepsis, gangrena y amputaciones.",
@@ -16917,10 +16917,10 @@
    "difficulty": "beginner",
    "prompt": "Joseph Lister is known as a pioneer of what?",
    "options": [
-    "Vaccination",
+    "Smallpox vaccination",
     "Antiseptic surgery",
-    "Anesthesia",
-    "Blood groups"
+    "Ether anesthesia",
+    "Blood transfusion"
    ],
    "correctOptionIndex": 1,
    "explanation": "Lister founded antiseptic surgery by applying Pasteur's germ theory to wound infection.",
@@ -16941,10 +16941,10 @@
    "difficulty": "beginner",
    "prompt": "¿De qué se considera pionero a Joseph Lister?",
    "options": [
-    "De la vacunación",
+    "De la vacunación antivariólica",
     "De la cirugía antiséptica",
-    "De la anestesia",
-    "De los grupos sanguíneos"
+    "De la anestesia con éter",
+    "De la transfusión de sangre"
    ],
    "correctOptionIndex": 1,
    "explanation": "Lister fundó la cirugía antiséptica aplicando la teoría microbiana de Pasteur a la infección de heridas.",
@@ -17013,10 +17013,10 @@
    "difficulty": "explorer",
    "prompt": "Who turned penicillin into a widely usable drug after Fleming's discovery?",
    "options": [
-    "Howard Florey, Ernst Chain and Norman Heatley",
+    "Florey, Chain and Heatley",
     "Louis Pasteur and Robert Koch",
     "Jonas Salk and Albert Sabin",
-    "Watson and Crick"
+    "Paul Ehrlich and Sahachiro Hata"
    ],
    "correctOptionIndex": 0,
    "explanation": "Florey, Chain and Heatley purified and produced penicillin, especially during World War II.",
@@ -17037,10 +17037,10 @@
    "difficulty": "explorer",
    "prompt": "¿Quiénes convirtieron la penicilina en un fármaco utilizable tras el descubrimiento de Fleming?",
    "options": [
-    "Howard Florey, Ernst Chain y Norman Heatley",
+    "Florey, Chain y Heatley",
     "Louis Pasteur y Robert Koch",
     "Jonas Salk y Albert Sabin",
-    "Watson y Crick"
+    "Paul Ehrlich y Sahachiro Hata"
    ],
    "correctOptionIndex": 0,
    "explanation": "Florey, Chain y Heatley purificaron y produjeron la penicilina, sobre todo durante la Segunda Guerra Mundial.",
@@ -17158,9 +17158,9 @@
    "prompt": "When did the history of vaccines begin?",
    "options": [
     "In ancient Egypt",
-    "In the 20th century",
+    "Early in the 20th century",
     "Late in the 18th century",
-    "In the 21st century"
+    "In the Middle Ages"
    ],
    "correctOptionIndex": 2,
    "explanation": "Vaccination began late in the 18th century; laboratory vaccines came in the late 19th, molecular ones in the 21st.",
@@ -17182,9 +17182,9 @@
    "prompt": "¿Cuándo comenzó la historia de las vacunas?",
    "options": [
     "En el antiguo Egipto",
-    "En el siglo XX",
+    "A comienzos del siglo XX",
     "A fines del siglo XVIII",
-    "En el siglo XXI"
+    "En la Edad Media"
    ],
    "correctOptionIndex": 2,
    "explanation": "La vacunación empezó a fines del siglo XVIII; las vacunas de laboratorio llegaron a fines del XIX y las moleculares en el XXI.",
@@ -17206,9 +17206,9 @@
    "prompt": "Since when could vaccines be developed in the laboratory?",
    "options": [
     "From the late 19th century",
-    "From the 15th century",
-    "Only since 2000",
-    "Since ancient Rome"
+    "From the 15th century on",
+    "Only since the year 2000",
+    "Since ancient Roman times"
    ],
    "correctOptionIndex": 0,
    "explanation": "Pasteur's era (late 1800s) allowed laboratory vaccine development; molecular biology later enabled new types.",
@@ -17230,8 +17230,8 @@
    "prompt": "¿Desde cuándo se pudieron desarrollar vacunas en el laboratorio?",
    "options": [
     "Desde fines del siglo XIX",
-    "Desde el siglo XV",
-    "Solo desde el 2000",
+    "Desde el siglo XV en adelante",
+    "Solo desde el año 2000",
     "Desde la antigua Roma"
    ],
    "correctOptionIndex": 0,
@@ -17301,10 +17301,10 @@
    "difficulty": "explorer",
    "prompt": "What was Paul Ehrlich's famous 'magic bullet' idea?",
    "options": [
-    "A bullet used in war surgery",
-    "A vaccine for all diseases",
-    "A herbal remedy",
-    "A drug that selectively targets a disease agent without harming the body"
+    "A bullet extracted with magnets in war surgery",
+    "A single vaccine able to prevent all diseases",
+    "An herbal remedy from traditional medicine",
+    "A drug that hits the germ but spares the body"
    ],
    "correctOptionIndex": 3,
    "explanation": "The magic bullet concept inspired targeted therapies, from antimicrobials to modern cancer drugs.",
@@ -17325,10 +17325,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál era la famosa idea de la 'bala mágica' de Paul Ehrlich?",
    "options": [
-    "Una bala usada en cirugía de guerra",
-    "Una vacuna para todo",
-    "Un remedio herbal",
-    "Un fármaco que ataca selectivamente al agente de la enfermedad sin dañar al cuerpo"
+    "Una bala extraída con imanes en cirugía de guerra",
+    "Una única vacuna capaz de prevenir todo",
+    "Un remedio herbal de la medicina tradicional",
+    "Un fármaco que ataca al germen y no al cuerpo"
    ],
    "correctOptionIndex": 3,
    "explanation": "La idea de la bala mágica inspiró las terapias dirigidas, de los antimicrobianos a los fármacos oncológicos modernos.",
@@ -17446,9 +17446,9 @@
    "prompt": "On what principle was Behring's diphtheria therapy based?",
    "options": [
     "Active vaccination with live bacteria",
-    "Antibiotics",
-    "Surgery",
-    "Passive immunization with specific antisera"
+    "Early treatment with sulfa drugs",
+    "Surgical removal of the membrane",
+    "Passive immunization with antisera"
    ],
    "correctOptionIndex": 3,
    "explanation": "Transferring antibodies (antisera) gave immediate protection—passive immunity.",
@@ -17470,9 +17470,9 @@
    "prompt": "¿En qué principio se basaba la terapia de Behring contra la difteria?",
    "options": [
     "Vacunación activa con bacterias vivas",
-    "Antibióticos",
-    "Cirugía",
-    "Inmunización pasiva con antisueros específicos"
+    "Tratamiento precoz con sulfamidas",
+    "Extirpación quirúrgica de la membrana",
+    "Inmunización pasiva con antisueros"
    ],
    "correctOptionIndex": 3,
    "explanation": "Transferir anticuerpos (antisueros) daba protección inmediata: inmunidad pasiva.",
@@ -17494,7 +17494,7 @@
    "prompt": "Which scientist, known for phagocytes, is regarded as a father of immunology?",
    "options": [
     "Élie Metchnikoff",
-    "Gregor Mendel",
+    "Gregor Johann Mendel",
     "Charles Darwin",
     "Joseph Lister"
    ],
@@ -17518,7 +17518,7 @@
    "prompt": "¿Qué científico, conocido por los fagocitos, se considera un padre de la inmunología?",
    "options": [
     "Élie Metchnikoff",
-    "Gregor Mendel",
+    "Gregor Johann Mendel",
     "Charles Darwin",
     "Joseph Lister"
    ],
@@ -17541,10 +17541,10 @@
    "difficulty": "expert",
    "prompt": "What was Metchnikoff's real contribution regarding phagocytosis?",
    "options": [
-    "He discovered that cells can engulf particles",
-    "He invented the microscope",
-    "He assigned phagocytosis the role of defending the host",
-    "He proved phagocytes are useless"
+    "He first discovered that cells engulf particles",
+    "He invented the compound microscope",
+    "He gave phagocytosis a host-defense role",
+    "He proved that phagocytes are useless"
    ],
    "correctOptionIndex": 2,
    "explanation": "Engulfment had been seen before; Metchnikoff's insight was its defensive function.",
@@ -17565,10 +17565,10 @@
    "difficulty": "expert",
    "prompt": "¿Cuál fue la verdadera contribución de Metchnikoff sobre la fagocitosis?",
    "options": [
-    "Descubrió que las células engloban partículas",
-    "Inventó el microscopio",
-    "Le asignó a la fagocitosis el papel de defender al huésped",
-    "Probó que los fagocitos son inútiles"
+    "Descubrió primero que las células engloban partículas",
+    "Inventó el microscopio compuesto",
+    "Dio a la fagocitosis un rol de defensa",
+    "Demostró que los fagocitos son inútiles"
    ],
    "correctOptionIndex": 2,
    "explanation": "El englobamiento ya se conocía; su aporte fue reconocer su función defensiva.",
@@ -17589,9 +17589,9 @@
    "difficulty": "researcher",
    "prompt": "Which theory of antibody formation did Frank Macfarlane Burnet develop?",
    "options": [
-    "Germ theory",
+    "Germ theory of disease",
     "Clonal selection theory",
-    "Miasma theory",
+    "Side-chain receptor theory",
     "Spontaneous generation"
    ],
    "correctOptionIndex": 1,
@@ -17615,7 +17615,7 @@
    "options": [
     "Teoría microbiana",
     "Teoría de la selección clonal",
-    "Teoría miasmática",
+    "Teoría de las cadenas laterales",
     "Generación espontánea"
    ],
    "correctOptionIndex": 1,
@@ -17639,7 +17639,7 @@
    "options": [
     "Karl Landsteiner",
     "William Harvey",
-    "Louis Pasteur",
+    "Emil von Behring",
     "Paul Ehrlich"
    ],
    "correctOptionIndex": 0,
@@ -17663,7 +17663,7 @@
    "options": [
     "Karl Landsteiner",
     "William Harvey",
-    "Louis Pasteur",
+    "Emil von Behring",
     "Paul Ehrlich"
    ],
    "correctOptionIndex": 0,
@@ -17781,10 +17781,10 @@
    "difficulty": "explorer",
    "prompt": "What has happened historically after each new antibiotic reached the market?",
    "options": [
-    "Bacteria disappeared forever",
+    "The target bacteria disappeared forever",
     "Resistant germs appeared before long",
-    "No resistance ever appeared",
-    "The antibiotic became a vaccine"
+    "No resistance appeared for a century",
+    "The antibiotic was turned into a vaccine"
    ],
    "correctOptionIndex": 1,
    "explanation": "History shows a constant race between new antibiotics and bacterial resistance.",
@@ -17805,10 +17805,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué ocurrió históricamente después de que cada nuevo antibiótico llegó al mercado?",
    "options": [
-    "Las bacterias desaparecieron",
+    "Las bacterias blanco desaparecieron",
     "Pronto aparecieron gérmenes resistentes",
-    "Nunca hubo resistencia",
-    "El antibiótico se volvió vacuna"
+    "No hubo resistencia por un siglo",
+    "El antibiótico se convirtió en vacuna"
    ],
    "correctOptionIndex": 1,
    "explanation": "La historia muestra una carrera constante entre nuevos antibióticos y resistencia bacteriana.",
@@ -17829,7 +17829,7 @@
    "difficulty": "researcher",
    "prompt": "How long does it take on average today from discovering a new antibiotic to its launch?",
    "options": [
-    "A few weeks",
+    "Just a few weeks",
     "About 1 year",
     "About 50 years",
     "About 10–12 years"
@@ -17853,10 +17853,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuánto tarda hoy en promedio un antibiótico nuevo desde su descubrimiento hasta su lanzamiento?",
    "options": [
-    "Unas semanas",
+    "Unas pocas semanas",
     "Alrededor de 1 año",
     "Unos 50 años",
-    "Unos 10–12 años"
+    "Unos 10 a 12 años"
    ],
    "correctOptionIndex": 3,
    "explanation": "Hace un siglo los lanzamientos eran más rápidos; hoy el desarrollo promedia 10–12 años.",
@@ -17880,7 +17880,7 @@
     "Penicillin",
     "Tetracycline",
     "Streptomycin",
-    "Vancomycin"
+    "Chloramphenicol"
    ],
    "correctOptionIndex": 2,
    "explanation": "Streptomycin, from soil Streptomyces, was the first effective drug against tuberculosis.",
@@ -17904,7 +17904,7 @@
     "Penicilina",
     "Tetraciclina",
     "Estreptomicina",
-    "Vancomicina"
+    "Cloranfenicol"
    ],
    "correctOptionIndex": 2,
    "explanation": "La estreptomicina, de Streptomyces del suelo, fue el primer fármaco eficaz contra la tuberculosis.",
@@ -17925,10 +17925,10 @@
    "difficulty": "researcher",
    "prompt": "Which group of soil microorganisms did Waksman's team systematically screen for antibiotics?",
    "options": [
-    "Actinomycetes, including Streptomyces",
-    "Yeasts",
-    "Algae",
-    "Protozoa"
+    "Actinomycetes such as Streptomyces",
+    "Yeasts such as Saccharomyces",
+    "Molds such as Penicillium notatum",
+    "Spore-formers such as Bacillus"
    ],
    "correctOptionIndex": 0,
    "explanation": "Screening actinomycetes—especially Streptomyces—yielded streptomycin and many later antibiotics.",
@@ -17949,10 +17949,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué grupo de microorganismos del suelo analizó sistemáticamente el equipo de Waksman en busca de antibióticos?",
    "options": [
-    "Actinomicetos, incluido Streptomyces",
-    "Levaduras",
-    "Algas",
-    "Protozoos"
+    "Actinomicetos como Streptomyces",
+    "Levaduras como Saccharomyces",
+    "Mohos como Penicillium notatum",
+    "Esporulados como Bacillus"
    ],
    "correctOptionIndex": 0,
    "explanation": "El cribado de actinomicetos —sobre todo Streptomyces— dio la estreptomicina y muchos antibióticos posteriores.",
@@ -18021,10 +18021,10 @@
    "difficulty": "explorer",
    "prompt": "Besides treating tuberculosis, why is streptomycin's development historically notable?",
    "options": [
-    "It was the first vaccine",
-    "It was discovered on the Moon",
-    "It cured syphilis",
-    "It included the first use of clinical trials"
+    "It was the first vaccine made in a lab",
+    "It was the first drug made by chemical synthesis",
+    "It was the first cure for syphilis",
+    "It was tested in an early clinical trial"
    ],
    "correctOptionIndex": 3,
    "explanation": "Streptomycin's evaluation pioneered the randomized clinical trial.",
@@ -18045,10 +18045,10 @@
    "difficulty": "explorer",
    "prompt": "Además de tratar la tuberculosis, ¿por qué es históricamente notable el desarrollo de la estreptomicina?",
    "options": [
-    "Fue la primera vacuna",
-    "Se descubrió en la Luna",
-    "Curó la sífilis",
-    "Incluyó el primer uso de ensayos clínicos"
+    "Fue la primera vacuna hecha en laboratorio",
+    "Fue el primer fármaco de síntesis química",
+    "Fue la primera cura de la sífilis",
+    "Se probó en un ensayo clínico temprano"
    ],
    "correctOptionIndex": 3,
    "explanation": "La evaluación de la estreptomicina fue pionera del ensayo clínico aleatorizado.",
@@ -18069,10 +18069,10 @@
    "difficulty": "researcher",
    "prompt": "Which shared experience influenced both Domagk (sulfa drugs) and Fleming (penicillin)?",
    "options": [
-    "The 1918 flu",
-    "Working in the same lab",
-    "The horrendous wound infections of World War I",
-    "The Black Death"
+    "The 1918 influenza pandemic",
+    "Working together in the same lab",
+    "Wound infections of World War I",
+    "The cholera epidemics of the 1890s"
    ],
    "correctOptionIndex": 2,
    "explanation": "Both had seen terrible war-wound infections, motivating their search for antibacterials.",
@@ -18093,10 +18093,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué experiencia compartida influyó tanto a Domagk (sulfas) como a Fleming (penicilina)?",
    "options": [
-    "La gripe de 1918",
-    "Trabajar en el mismo laboratorio",
-    "Las terribles infecciones de heridas de la Primera Guerra Mundial",
-    "La peste negra"
+    "La pandemia de gripe de 1918",
+    "Trabajar juntos en el mismo laboratorio",
+    "Las heridas infectadas de la Gran Guerra",
+    "Las epidemias de cólera de 1890"
    ],
    "correctOptionIndex": 2,
    "explanation": "Ambos vieron terribles infecciones de heridas de guerra, lo que motivó su búsqueda de antibacterianos.",
@@ -18118,9 +18118,9 @@
    "prompt": "Which stain is considered the most important in microbiology, described over a century ago?",
    "options": [
     "The Gram stain",
-    "Ziehl-Neelsen",
-    "Giemsa",
-    "India ink"
+    "Ziehl-Neelsen stain",
+    "Giemsa stain",
+    "India ink stain"
    ],
    "correctOptionIndex": 0,
    "explanation": "The Gram stain, described in 1884, separates bacteria by cell wall structure.",
@@ -18142,9 +18142,9 @@
    "prompt": "¿Qué tinción se considera la más importante de la microbiología, descrita hace más de un siglo?",
    "options": [
     "La tinción de Gram",
-    "Ziehl-Neelsen",
-    "Giemsa",
-    "Tinta china"
+    "La de Ziehl-Neelsen",
+    "La de Giemsa",
+    "La de tinta china"
    ],
    "correctOptionIndex": 0,
    "explanation": "La tinción de Gram, descrita en 1884, separa bacterias según la estructura de su pared.",
@@ -18165,10 +18165,10 @@
    "difficulty": "researcher",
    "prompt": "What determines whether a bacterium stains Gram-positive?",
    "options": [
-    "Its DNA content",
-    "Its shape",
-    "A relatively thick cell wall that retains the crystal violet–iodine complex",
-    "Its flagella"
+    "Its total DNA content",
+    "Its cell shape and its size",
+    "A thick wall that retains crystal violet",
+    "The number and position of its many flagella"
    ],
    "correctOptionIndex": 2,
    "explanation": "A thick wall retains the crystal violet–iodine complex; in gram-negatives the procedure damages the surface and dye is lost.",
@@ -18189,10 +18189,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué determina que una bacteria se tiña como grampositiva?",
    "options": [
-    "Su contenido de ADN",
-    "Su forma",
-    "Una pared relativamente gruesa que retiene el complejo cristal violeta–yodo",
-    "Sus flagelos"
+    "Su contenido total de ADN",
+    "Su forma celular y su tamaño",
+    "Una pared gruesa que retiene el cristal violeta",
+    "El número y la posición de sus muchos flagelos"
    ],
    "correctOptionIndex": 2,
    "explanation": "Una pared gruesa retiene el complejo cristal violeta–yodo; en las gramnegativas el procedimiento daña la superficie y se pierde el colorante.",
@@ -18261,10 +18261,10 @@
    "difficulty": "explorer",
    "prompt": "Besides epidemiology, in which medical field was John Snow a pioneer?",
    "options": [
-    "Radiology",
-    "Dentistry",
-    "Anesthesia (ether and chloroform)",
-    "Genetics"
+    "Diagnostic radiology",
+    "Dentistry and oral surgery",
+    "Anesthesia with chloroform",
+    "Medical genetics"
    ],
    "correctOptionIndex": 2,
    "explanation": "Snow advanced anesthesia with ether and chloroform, improving surgical safety.",
@@ -18285,10 +18285,10 @@
    "difficulty": "explorer",
    "prompt": "Además de la epidemiología, ¿en qué campo médico fue pionero John Snow?",
    "options": [
-    "Radiología",
-    "Odontología",
-    "Anestesia (éter y cloroformo)",
-    "Genética"
+    "Radiología diagnóstica",
+    "Odontología y cirugía oral",
+    "Anestesia con cloroformo",
+    "Genética médica"
    ],
    "correctOptionIndex": 2,
    "explanation": "Snow hizo avanzar la anestesia con éter y cloroformo, mejorando la seguridad quirúrgica.",
@@ -18359,8 +18359,8 @@
    "options": [
     "Live oral vaccine",
     "Inactivated vaccine",
-    "mRNA vaccine",
-    "Toxoid"
+    "Viral vector vaccine",
+    "Toxoid vaccine"
    ],
    "correctOptionIndex": 1,
    "explanation": "Salk's vaccine used inactivated (killed) virus; Sabin later developed a live oral vaccine.",
@@ -18381,10 +18381,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué tipo de vacuna contra la polio creó Salk?",
    "options": [
-    "Vacuna oral a virus vivo",
+    "Vacuna oral viva",
     "Vacuna inactivada",
-    "Vacuna de ARNm",
-    "Toxoide"
+    "Vacuna de vector viral",
+    "Vacuna toxoide"
    ],
    "correctOptionIndex": 1,
    "explanation": "La vacuna de Salk usaba virus inactivado (muerto); Sabin luego desarrolló una vacuna oral a virus vivo.",
@@ -18501,10 +18501,10 @@
    "difficulty": "researcher",
    "prompt": "What were the keys to eradicating rinderpest in remote pastoral areas?",
    "options": [
-    "Antibiotics and culling all cattle",
-    "A thermostable vaccine and participatory epidemiology with herders",
-    "Fencing all of Africa",
-    "Air-dropped insecticides"
+    "Antibiotics and the culling of all cattle",
+    "A heat-stable vaccine and work with herders",
+    "Fencing off whole regions of the continent",
+    "Spraying insecticides from aircraft"
    ],
    "correctOptionIndex": 1,
    "explanation": "A vaccine that tolerated heat and working directly with cattle herders allowed targeted control.",
@@ -18526,9 +18526,9 @@
    "prompt": "¿Cuáles fueron las claves para erradicar la peste bovina en zonas pastoriles remotas?",
    "options": [
     "Antibióticos y sacrificio de todo el ganado",
-    "Una vacuna termoestable y epidemiología participativa con pastores",
-    "Alambrar toda África",
-    "Insecticidas desde aviones"
+    "Una vacuna termoestable y trabajo con pastores",
+    "Alambrar regiones enteras del continente",
+    "Rociar insecticidas desde aviones"
    ],
    "correctOptionIndex": 1,
    "explanation": "Una vacuna resistente al calor y el trabajo directo con los pastores permitieron un control dirigido.",
@@ -18552,7 +18552,7 @@
     "Mad cow disease",
     "Bovine mastitis",
     "Texas cattle fever",
-    "Rinderpest"
+    "Cattle rinderpest"
    ],
    "correctOptionIndex": 2,
    "explanation": "Smith's work on Texas cattle fever (babesiosis) was a landmark in understanding vector-borne disease.",
@@ -18575,7 +18575,7 @@
    "options": [
     "La vaca loca",
     "La mastitis bovina",
-    "La fiebre de Texas del ganado",
+    "La fiebre de Texas",
     "La peste bovina"
    ],
    "correctOptionIndex": 2,
@@ -18597,10 +18597,10 @@
    "difficulty": "researcher",
    "prompt": "What idea is associated with Theobald Smith's 'law of declining virulence'?",
    "options": [
-    "Pathogens tend to evolve toward harmlessness over long associations",
-    "All pathogens become more lethal",
-    "Virulence never changes",
-    "Only viruses evolve"
+    "Pathogens evolve toward harmlessness",
+    "All pathogens inevitably become more lethal",
+    "Virulence of a pathogen never changes",
+    "Only viruses, not bacteria, evolve virulence"
    ],
    "correctOptionIndex": 0,
    "explanation": "This avirulence model dominated until the 1980s, when trade-off models challenged it.",
@@ -18621,10 +18621,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué idea se asocia a la 'ley de la virulencia decreciente' de Theobald Smith?",
    "options": [
-    "Los patógenos tienden a volverse inofensivos en asociaciones largas",
-    "Todos se vuelven más letales",
-    "La virulencia nunca cambia",
-    "Solo los virus evolucionan"
+    "Los patógenos tienden a volverse inofensivos",
+    "Todos los patógenos se vuelven más letales",
+    "La virulencia de un patógeno nunca cambia",
+    "Solo los virus, no las bacterias, evolucionan"
    ],
    "correctOptionIndex": 0,
    "explanation": "Este modelo de avirulencia dominó hasta los años 80, cuando lo desafiaron los modelos de compromiso (trade-off).",
@@ -18645,10 +18645,10 @@
    "difficulty": "researcher",
    "prompt": "How old is rabies as a known disease?",
    "options": [
-    "It appeared in the 20th century",
+    "It first appeared in the 20th century",
     "It has a history spanning millennia",
-    "It was discovered by Pasteur",
-    "It appeared after vaccines"
+    "It was first described by Pasteur",
+    "It appeared only after vaccines began"
    ],
    "correctOptionIndex": 1,
    "explanation": "Rabies is ancient, linked to the first human–dog interactions; prevention attempts date to the 1st century BC.",
@@ -18669,9 +18669,9 @@
    "difficulty": "researcher",
    "prompt": "¿Qué antigüedad tiene la rabia como enfermedad conocida?",
    "options": [
-    "Apareció en el siglo XX",
+    "Apareció recién en el siglo XX",
     "Tiene una historia de milenios",
-    "La descubrió Pasteur",
+    "La describió por primera vez Pasteur",
     "Apareció después de las vacunas"
    ],
    "correctOptionIndex": 1,
@@ -18693,10 +18693,10 @@
    "difficulty": "beginner",
    "prompt": "Roughly what share of Europe's population did the Black Death kill in the 14th century?",
    "options": [
-    "About 1%",
-    "About 5%",
+    "About one in a hundred",
+    "About one in twenty",
     "More than one third",
-    "Everyone"
+    "Nearly every person"
    ],
    "correctOptionIndex": 2,
    "explanation": "The Black Death, caused by Yersinia pestis, killed more than a third of Europe (about 25 million people).",
@@ -18717,10 +18717,10 @@
    "difficulty": "beginner",
    "prompt": "¿Aproximadamente qué proporción de la población europea murió por la peste negra en el siglo XIV?",
    "options": [
-    "Alrededor de 1%",
-    "Alrededor de 5%",
+    "Uno de cada cien",
+    "Uno de cada veinte",
     "Más de un tercio",
-    "Todos"
+    "Casi todas las personas"
    ],
    "correctOptionIndex": 2,
    "explanation": "La peste negra, causada por Yersinia pestis, mató a más de un tercio de Europa (unos 25 millones de personas).",
@@ -18744,7 +18744,7 @@
     "By infected flea bites",
     "By mosquito bites",
     "By drinking water",
-    "By touching coins"
+    "By handling old coins"
    ],
    "correctOptionIndex": 0,
    "explanation": "Fleas from rodents transmit Yersinia pestis, causing buboes; inhaled droplets cause pneumonic plague.",
@@ -18765,10 +18765,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se transmite principalmente la peste entre huéspedes?",
    "options": [
-    "Por picaduras de pulgas infectadas",
+    "Por picaduras de pulgas",
     "Por picaduras de mosquitos",
-    "Por el agua",
-    "Por tocar monedas"
+    "Por el agua de bebida",
+    "Por tocar monedas viejas"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las pulgas de roedores transmiten Yersinia pestis y causan bubones; las gotitas inhaladas causan la peste neumónica.",
@@ -18789,9 +18789,9 @@
    "difficulty": "researcher",
    "prompt": "How many historic plague pandemics have been described, the first starting in 541 AD?",
    "options": [
-    "One",
-    "Ten",
-    "None",
+    "Only one",
+    "Ten or more",
+    "Two",
     "Three"
    ],
    "correctOptionIndex": 3,
@@ -18813,9 +18813,9 @@
    "difficulty": "researcher",
    "prompt": "¿Cuántas pandemias históricas de peste se describieron, la primera iniciada en el 541 d. C.?",
    "options": [
-    "Una",
-    "Diez",
-    "Ninguna",
+    "Solo una",
+    "Diez o más",
+    "Dos",
     "Tres"
    ],
    "correctOptionIndex": 3,
@@ -18837,10 +18837,10 @@
    "difficulty": "expert",
    "prompt": "How did microbiology begin, according to this personal history?",
    "options": [
-    "As a branch of astronomy",
-    "As purely medical practice",
-    "As botany",
-    "As a unified science using chemistry to understand living systems"
+    "As a branch of astronomy and optics",
+    "As a purely medical, bedside practice",
+    "As a subfield of descriptive botany",
+    "As a unified science using chemistry"
    ],
    "correctOptionIndex": 3,
    "explanation": "It later split into medical, molecular and environmental subdisciplines, now reconnected by phylogeny and culture-independent methods.",
@@ -18861,10 +18861,10 @@
    "difficulty": "expert",
    "prompt": "¿Cómo comenzó la microbiología según esta historia personal?",
    "options": [
-    "Como rama de la astronomía",
+    "Como rama de la astronomía y la óptica",
     "Como práctica puramente médica",
-    "Como botánica",
-    "Como ciencia unificada que usaba la química para entender los seres vivos"
+    "Como subcampo de la botánica descriptiva",
+    "Como ciencia unificada basada en la química"
    ],
    "correctOptionIndex": 3,
    "explanation": "Luego se dividió en medicina, biología molecular y ambiental, hoy reconectadas por la filogenia y los métodos sin cultivo.",
@@ -28533,10 +28533,10 @@
    "difficulty": "explorer",
    "prompt": "What did Medzhitov and Janeway report in 1997?",
    "options": [
-    "The discovery of antibodies",
-    "The structure of MHC",
-    "A human homologue of the Drosophila Toll protein",
-    "The first vaccine"
+    "The discovery of the first antibody genes",
+    "The crystal structure of MHC class I",
+    "A human homologue of Drosophila Toll",
+    "The first live attenuated vaccine"
    ],
    "correctOptionIndex": 2,
    "explanation": "Human Toll (now TLR4) linked innate recognition to activation of adaptive immunity.",
@@ -28557,10 +28557,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué informaron Medzhitov y Janeway en 1997?",
    "options": [
-    "El descubrimiento de los anticuerpos",
-    "La estructura del MHC",
-    "Un homólogo humano de la proteína Toll de Drosophila",
-    "La primera vacuna"
+    "El descubrimiento de los genes de anticuerpos",
+    "La estructura cristalina del MHC de clase I",
+    "Un homólogo humano del Toll de Drosophila",
+    "La primera vacuna viva atenuada"
    ],
    "correctOptionIndex": 2,
    "explanation": "El Toll humano (hoy TLR4) vinculó el reconocimiento innato con la activación de la inmunidad adaptativa.",
@@ -28581,10 +28581,10 @@
    "difficulty": "researcher",
    "prompt": "Why was human Toll important for adaptive immunity?",
    "options": [
-    "It induced co-stimulatory B7.1 and inflammatory cytokines needed to activate naive T cells",
-    "It made antibodies directly",
-    "It killed viruses itself",
-    "It replaced MHC"
+    "It induced B7.1 and cytokines for naive T cells",
+    "It made antibodies directly, without any B cells",
+    "It killed viruses by itself inside infected cells",
+    "It replaced MHC in presenting peptides"
    ],
    "correctOptionIndex": 0,
    "explanation": "Toll signaling via NF-κB induced IL-1, IL-6, IL-8 and B7.1, showing innate signals control adaptive activation.",
@@ -28605,10 +28605,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué el Toll humano fue importante para la inmunidad adaptativa?",
    "options": [
-    "Indujo la molécula coestimuladora B7.1 y citocinas inflamatorias necesarias para activar linfocitos T vírgenes",
-    "Fabricaba anticuerpos",
-    "Mataba virus por sí mismo",
-    "Reemplazaba al MHC"
+    "Inducía B7.1 y citocinas para activar T vírgenes",
+    "Fabricaba anticuerpos sin necesidad de linfocitos B",
+    "Mataba virus por sí mismo dentro de las células",
+    "Reemplazaba al MHC en la presentación de péptidos"
    ],
    "correctOptionIndex": 0,
    "explanation": "La señal de Toll por NF-κB indujo IL-1, IL-6, IL-8 y B7.1, mostrando que lo innato controla la activación adaptativa.",
@@ -28677,10 +28677,10 @@
    "difficulty": "researcher",
    "prompt": "What happens to mice with defective Tlr4?",
    "options": [
-    "They die from any endotoxin dose",
-    "They resist endotoxin but are highly susceptible to Gram-negative infection",
-    "They cannot make antibodies",
-    "They become immune to all bacteria"
+    "They die from even the smallest dose of endotoxin",
+    "They resist endotoxin but succumb to gram-negatives",
+    "They cannot make antibodies of any class",
+    "They become immune to all bacterial infections"
    ],
    "correctOptionIndex": 1,
    "explanation": "Without TLR4 they don't respond to LPS (no shock) but also fail to fight Gram-negative bacteria.",
@@ -28701,10 +28701,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué les ocurre a los ratones con Tlr4 defectuoso?",
    "options": [
-    "Mueren con cualquier dosis de endotoxina",
-    "Resisten la endotoxina pero son muy susceptibles a infecciones por gramnegativos",
-    "No producen anticuerpos",
-    "Se vuelven inmunes a todas las bacterias"
+    "Mueren con la más mínima dosis de endotoxina",
+    "Resisten la endotoxina pero no a los gramnegativos",
+    "No producen anticuerpos de ninguna clase",
+    "Se vuelven inmunes a toda infección bacteriana"
    ],
    "correctOptionIndex": 1,
    "explanation": "Sin TLR4 no responden al LPS (no hay shock) pero tampoco combaten bien a los gramnegativos.",
@@ -28773,10 +28773,10 @@
    "difficulty": "curious",
    "prompt": "What happened when mice received CD4+ T cells depleted of CD25+ cells?",
    "options": [
-    "They became immune to infections",
-    "Nothing changed",
-    "They spontaneously developed autoimmune diseases",
-    "They lost all T cells"
+    "They became immune to common infections",
+    "Nothing changed in their immune system",
+    "They developed autoimmune diseases",
+    "They lost all of their T cells within days"
    ],
    "correctOptionIndex": 2,
    "explanation": "Without CD4+CD25+ regulatory cells, mice developed thyroiditis, gastritis, insulitis and other autoimmune diseases.",
@@ -28797,10 +28797,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué pasó cuando ratones recibieron linfocitos T CD4+ sin las células CD25+?",
    "options": [
-    "Se volvieron inmunes a infecciones",
-    "Nada cambió",
-    "Desarrollaron enfermedades autoinmunes en forma espontánea",
-    "Perdieron todos los linfocitos T"
+    "Se volvieron inmunes a infecciones comunes",
+    "Nada cambió en su sistema inmune",
+    "Desarrollaron enfermedades autoinmunes",
+    "Perdieron todos sus linfocitos T en días"
    ],
    "correctOptionIndex": 2,
    "explanation": "Sin las células reguladoras CD4+CD25+, aparecieron tiroiditis, gastritis, insulitis y otras enfermedades autoinmunes.",
@@ -28869,10 +28869,10 @@
    "difficulty": "expert",
    "prompt": "What happened when Foxp3 was transferred into naive T cells?",
    "options": [
-    "They converted toward a regulatory T cell phenotype",
-    "They became B cells",
-    "They died",
-    "They produced IgE"
+    "They converted toward a regulatory phenotype",
+    "They turned into antibody-secreting B cells",
+    "They died by apoptosis within hours",
+    "They began producing large amounts of IgE"
    ],
    "correctOptionIndex": 0,
    "explanation": "Gene transfer of Foxp3 was sufficient to give naive T cells a regulatory phenotype.",
@@ -28893,10 +28893,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué ocurrió al transferir Foxp3 a linfocitos T vírgenes?",
    "options": [
-    "Se convirtieron hacia un fenotipo T regulador",
-    "Se volvieron linfocitos B",
-    "Murieron",
-    "Produjeron IgE"
+    "Adquirieron un fenotipo T regulador",
+    "Se transformaron en linfocitos B secretores",
+    "Murieron por apoptosis en pocas horas",
+    "Empezaron a producir mucha IgE"
    ],
    "correctOptionIndex": 0,
    "explanation": "Transferir el gen Foxp3 bastó para dar a las células T vírgenes un fenotipo regulador.",
@@ -28917,10 +28917,10 @@
    "difficulty": "explorer",
    "prompt": "Which cytokine is characteristic of Th1 cells in Mosmann and Coffman's classic study?",
    "options": [
-    "IL-4",
-    "IL-5",
-    "Interferon-gamma",
-    "IL-10"
+    "Interleukin-4",
+    "Interleukin-5",
+    "Interferon-γ",
+    "Interleukin-10"
    ],
    "correctOptionIndex": 2,
    "explanation": "Th1 clones produced IL-2 and IFN-γ; Th2 clones produced IL-4 (BSF1) and other factors.",
@@ -28941,10 +28941,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué citocina caracteriza a las células Th1 en el estudio clásico de Mosmann y Coffman?",
    "options": [
-    "IL-4",
-    "IL-5",
-    "Interferón gamma",
-    "IL-10"
+    "Interleucina 4",
+    "Interleucina 5",
+    "Interferón γ",
+    "Interleucina 10"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los clones Th1 producían IL-2 e IFN-γ; los Th2, IL-4 (BSF1) y otros factores.",
@@ -28965,10 +28965,10 @@
    "difficulty": "researcher",
    "prompt": "What did Mosmann and Coffman discover in 1986 about helper T cell clones?",
    "options": [
-    "All helper T cells are identical",
-    "Two types (Th1 and Th2) can be distinguished by their cytokine profiles",
-    "Helper T cells make antibodies",
-    "Helper T cells are B cells"
+    "All helper T cell clones are functionally identical",
+    "Two types, Th1 and Th2, differ in cytokines",
+    "Helper T cells secrete antibodies themselves",
+    "Helper T cells are really a subset of B cells"
    ],
    "correctOptionIndex": 1,
    "explanation": "Different cytokine patterns defined Th1 and Th2, a foundational paradigm of immunology.",
@@ -28989,10 +28989,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué descubrieron Mosmann y Coffman en 1986 sobre los clones de linfocitos T colaboradores?",
    "options": [
-    "Todos son idénticos",
-    "Se distinguen dos tipos (Th1 y Th2) por su perfil de citocinas",
-    "Fabrican anticuerpos",
-    "Son linfocitos B"
+    "Todos los clones colaboradores son idénticos",
+    "Hay dos tipos, Th1 y Th2, según sus citocinas",
+    "Los T colaboradores secretan anticuerpos",
+    "Los T colaboradores son en realidad linfocitos B"
    ],
    "correctOptionIndex": 1,
    "explanation": "Patrones distintos de citocinas definieron Th1 y Th2, un paradigma fundacional de la inmunología.",
@@ -29013,10 +29013,10 @@
    "difficulty": "curious",
    "prompt": "How does ipilimumab work against melanoma?",
    "options": [
-    "It blocks CTLA-4 to boost the antitumor T-cell response",
+    "It blocks CTLA-4 to boost antitumor T cells",
     "It kills tumor cells directly like chemotherapy",
-    "It is a vaccine against melanoma",
-    "It blocks blood vessels"
+    "It is a preventive vaccine against melanoma",
+    "It blocks the blood vessels feeding the tumor"
    ],
    "correctOptionIndex": 0,
    "explanation": "Blocking the CTLA-4 brake releases T cells; it improved survival in metastatic melanoma.",
@@ -29037,10 +29037,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo actúa el ipilimumab contra el melanoma?",
    "options": [
-    "Bloquea CTLA-4 para potenciar la respuesta T antitumoral",
+    "Bloquea CTLA-4 y potencia los T antitumorales",
     "Mata células tumorales como la quimioterapia",
-    "Es una vacuna",
-    "Bloquea vasos sanguíneos"
+    "Es una vacuna preventiva contra el melanoma",
+    "Bloquea los vasos que nutren al tumor"
    ],
    "correctOptionIndex": 0,
    "explanation": "Bloquear el freno CTLA-4 libera a los linfocitos T; mejoró la supervivencia en melanoma metastásico.",
@@ -29061,10 +29061,10 @@
    "difficulty": "researcher",
    "prompt": "What survival benefit did ipilimumab show in this phase 3 melanoma trial?",
    "options": [
-    "None",
-    "It cured all patients",
-    "Survival doubled to 5 years",
-    "Median overall survival rose from about 6.4 to 10 months"
+    "No benefit at all over the control arm",
+    "It cured nearly every treated patient",
+    "Median survival doubled to five years",
+    "Median survival: ~6.4 to 10 months"
    ],
    "correctOptionIndex": 3,
    "explanation": "The first therapy to improve overall survival in previously treated metastatic melanoma.",
@@ -29085,10 +29085,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué beneficio en supervivencia mostró el ipilimumab en este ensayo de fase 3 en melanoma?",
    "options": [
-    "Ninguno",
-    "Curó a todos",
-    "La supervivencia se duplicó a 5 años",
-    "La mediana de supervivencia subió de ~6,4 a 10 meses"
+    "Ningún beneficio frente al grupo control",
+    "Curó a casi todos los pacientes tratados",
+    "La mediana se duplicó hasta cinco años",
+    "La mediana subió de ~6,4 a 10 meses"
    ],
    "correctOptionIndex": 3,
    "explanation": "Fue la primera terapia en mejorar la supervivencia global en melanoma metastásico pretratado.",
@@ -29109,10 +29109,10 @@
    "difficulty": "researcher",
    "prompt": "In the early anti-PD-1 trial, which tumors responded?",
    "options": [
-    "Only PD-L1-negative tumors",
-    "All tumors equally",
-    "Responses occurred only in PD-L1-positive tumors (36%)",
-    "No tumor responded"
+    "Only tumors that lacked PD-L1 expression",
+    "All tumor types responded about equally",
+    "Only PD-L1-positive tumors (36%)",
+    "No tumor responded to the antibody"
    ],
    "correctOptionIndex": 2,
    "explanation": "PD-L1 expression on tumor cells was associated with objective response to PD-1 blockade.",
@@ -29133,10 +29133,10 @@
    "difficulty": "researcher",
    "prompt": "En el primer ensayo con anti-PD-1, ¿qué tumores respondieron?",
    "options": [
-    "Solo los PD-L1 negativos",
-    "Todos por igual",
-    "Solo hubo respuestas en tumores PD-L1 positivos (36%)",
-    "Ninguno respondió"
+    "Solo los tumores sin expresión de PD-L1",
+    "Todos los tumores respondieron por igual",
+    "Solo los PD-L1 positivos (36%)",
+    "Ningún tumor respondió al anticuerpo"
    ],
    "correctOptionIndex": 2,
    "explanation": "La expresión de PD-L1 en las células tumorales se asoció con respuesta objetiva al bloqueo de PD-1.",
@@ -29157,10 +29157,10 @@
    "difficulty": "explorer",
    "prompt": "What are CAR-T cells used against B-cell leukemia?",
    "options": [
-    "The patient's own T cells engineered with a CD19-specific chimeric antigen receptor",
-    "Donor antibodies",
-    "A chemotherapy drug",
-    "A bacterial vaccine"
+    "The patient's T cells engineered against CD19",
+    "Antibodies collected from healthy donors",
+    "A targeted chemotherapy drug given orally",
+    "A bacterial vaccine that stimulates B cells"
    ],
    "correctOptionIndex": 0,
    "explanation": "Autologous T cells with a CD19 CAR induced molecular remissions in refractory B-ALL.",
@@ -29181,10 +29181,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué son las células CAR-T usadas contra la leucemia de células B?",
    "options": [
-    "Linfocitos T del propio paciente modificados con un receptor quimérico específico para CD19",
-    "Anticuerpos de donante",
-    "Una quimioterapia",
-    "Una vacuna bacteriana"
+    "Linfocitos T del paciente modificados contra CD19",
+    "Anticuerpos obtenidos de donantes sanos",
+    "Una quimioterapia dirigida por vía oral",
+    "Una vacuna bacteriana que estimula linfocitos B"
    ],
    "correctOptionIndex": 0,
    "explanation": "Linfocitos T autólogos con un CAR anti-CD19 indujeron remisiones moleculares en LLA-B refractaria.",
@@ -29205,10 +29205,10 @@
    "difficulty": "researcher",
    "prompt": "What correlated with cytokine elevations after CAR-T infusion?",
    "options": [
-    "The patient's age",
-    "Blood type",
-    "Tumor burden at the time of infusion",
-    "Time of day"
+    "The patient's age at enrollment",
+    "The patient's ABO blood type",
+    "Tumor burden at infusion",
+    "The time of day of the infusion"
    ],
    "correctOptionIndex": 2,
    "explanation": "Higher tumor burden led to more cytokine release, sometimes requiring steroids.",
@@ -29229,10 +29229,10 @@
    "difficulty": "researcher",
    "prompt": "¿Con qué se correlacionó el aumento de citocinas tras la infusión de CAR-T?",
    "options": [
-    "La edad",
-    "El grupo sanguíneo",
-    "La carga tumoral al momento de la infusión",
-    "La hora del día"
+    "La edad del paciente al ingresar",
+    "El grupo sanguíneo ABO del paciente",
+    "La carga tumoral al infundir",
+    "La hora del día de la infusión"
    ],
    "correctOptionIndex": 2,
    "explanation": "Mayor carga tumoral llevó a más liberación de citocinas, a veces con necesidad de corticoides.",
@@ -29253,10 +29253,10 @@
    "difficulty": "expert",
    "prompt": "What did a 2022 follow-up of the first CLL patients treated with CAR-T cells show?",
    "options": [
-    "All relapsed within a year",
-    "CAR-T cells disappeared in weeks",
-    "Only CD8 cells persisted",
-    "CAR-T cells persisted over ten years with sustained remission"
+    "All patients relapsed within the first year",
+    "CAR-T cells vanished within a few weeks",
+    "Only CD8 T cells persisted, without effect",
+    "CAR-T cells persisted >10 years in remission"
    ],
    "correctOptionIndex": 3,
    "explanation": "A highly activated CD4+ CAR-T population dominated at later time points in decade-long remissions.",
@@ -29277,10 +29277,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué mostró en 2022 el seguimiento de los primeros pacientes con LLC tratados con CAR-T?",
    "options": [
-    "Todos recayeron en un año",
-    "Las CAR-T desaparecieron en semanas",
-    "Solo persistieron los CD8",
-    "Las CAR-T persistieron más de diez años con remisión sostenida"
+    "Todos recayeron durante el primer año",
+    "Las CAR-T desaparecieron en pocas semanas",
+    "Solo persistieron los CD8, sin efecto",
+    "Las CAR-T persistieron >10 años en remisión"
    ],
    "correctOptionIndex": 3,
    "explanation": "Una población CD4+ CAR-T muy activada dominó en etapas tardías de remisiones de una década.",
@@ -29301,10 +29301,10 @@
    "difficulty": "beginner",
    "prompt": "What did the LEAP trial show about introducing peanuts early to high-risk infants?",
    "options": [
-    "It increased peanut allergy",
-    "It significantly decreased the development of peanut allergy",
-    "It had no effect",
-    "It caused eczema"
+    "It increased the rate of peanut allergy",
+    "It sharply reduced peanut allergy",
+    "It had no measurable effect on allergy",
+    "It mainly caused eczema flares in infants"
    ],
    "correctOptionIndex": 1,
    "explanation": "Early consumption cut peanut allergy at 5 years from 13.7% to 1.9% among initially skin-test-negative infants.",
@@ -29325,10 +29325,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué mostró el ensayo LEAP sobre introducir maní temprano en lactantes de alto riesgo?",
    "options": [
-    "Aumentó la alergia al maní",
-    "Redujo significativamente la aparición de alergia al maní",
-    "No tuvo efecto",
-    "Causó eccema"
+    "Aumentó la frecuencia de alergia al maní",
+    "Redujo mucho la alergia al maní",
+    "No tuvo efecto medible sobre la alergia",
+    "Causó sobre todo brotes de eccema"
    ],
    "correctOptionIndex": 1,
    "explanation": "El consumo temprano bajó la alergia al maní a los 5 años de 13,7% a 1,9% en lactantes con prueba cutánea negativa.",
@@ -29350,9 +29350,9 @@
    "prompt": "Which antibody rose mainly in children who consumed peanuts early?",
    "options": [
     "Peanut-specific IgE",
-    "IgM",
+    "Total serum IgM",
     "Peanut-specific IgG4",
-    "IgA only"
+    "Secretory IgA only"
    ],
    "correctOptionIndex": 2,
    "explanation": "Consumption raised IgG4 (tolerance-associated); avoidance groups more often had high peanut IgE.",
@@ -29373,10 +29373,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué anticuerpo aumentó sobre todo en niños que consumieron maní temprano?",
    "options": [
-    "IgE específica",
-    "IgM",
+    "IgE específica de maní",
+    "IgM sérica total",
     "IgG4 específica de maní",
-    "Solo IgA"
+    "Solo IgA secretora"
    ],
    "correctOptionIndex": 2,
    "explanation": "El consumo elevó la IgG4 (asociada a tolerancia); en la evitación fue más frecuente la IgE alta contra el maní.",
@@ -29397,10 +29397,10 @@
    "difficulty": "curious",
    "prompt": "How did asthma compare between Amish and Hutterite farm children?",
    "options": [
-    "It was identical",
-    "Hutterites had less asthma",
-    "Neither group had asthma",
-    "Amish children had about 4 times less asthma"
+    "It was essentially identical in both groups",
+    "Hutterite children had much less asthma",
+    "Neither group had any cases of asthma",
+    "Amish children had ~4 times less asthma"
    ],
    "correctOptionIndex": 3,
    "explanation": "Despite similar genetics, traditional Amish farming was linked to much lower asthma and allergy.",
@@ -29421,10 +29421,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo se comparó el asma entre niños de granjas amish y hutteritas?",
    "options": [
-    "Fue idéntica",
-    "Los hutteritas tenían menos asma",
-    "Ningún grupo tenía asma",
-    "Los niños amish tenían unas 4 veces menos asma"
+    "Fue prácticamente idéntica en ambos grupos",
+    "Los niños hutteritas tenían mucho menos asma",
+    "Ningún grupo tuvo casos de asma",
+    "Los niños amish tenían ~4 veces menos asma"
    ],
    "correctOptionIndex": 3,
    "explanation": "Pese a una genética similar, la agricultura tradicional amish se asoció con mucho menos asma y alergia.",
@@ -29445,10 +29445,10 @@
    "difficulty": "researcher",
    "prompt": "What explained the protection against asthma in Amish children?",
    "options": [
-    "Their environment (rich in microbes/endotoxin) shaped innate immunity",
-    "Different genes",
-    "More antibiotics",
-    "Less contact with animals"
+    "A microbe-rich farm environment",
+    "Different genes inherited from their ancestors",
+    "More frequent use of antibiotics in infancy",
+    "Less contact with farm animals and barns"
    ],
    "correctOptionIndex": 0,
    "explanation": "Amish house dust had more endotoxin; in mice its protection required innate signaling (MyD88 and Trif).",
@@ -29469,10 +29469,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué explicó la protección contra el asma en los niños amish?",
    "options": [
-    "Su ambiente (rico en microbios/endotoxina) moldeó la inmunidad innata",
-    "Genes distintos",
-    "Más antibióticos",
-    "Menos contacto con animales"
+    "Un ambiente de granja rico en microbios",
+    "Genes distintos heredados de sus ancestros",
+    "Mayor uso de antibióticos en la infancia",
+    "Menos contacto con animales y establos"
    ],
    "correctOptionIndex": 0,
    "explanation": "El polvo de las casas amish tenía más endotoxina; en ratones su protección requirió señalización innata (MyD88 y Trif).",
@@ -29541,10 +29541,10 @@
    "difficulty": "curious",
    "prompt": "What is nirsevimab?",
    "options": [
-    "A live RSV vaccine",
-    "An antiviral pill",
-    "A long-acting monoclonal antibody against the RSV fusion protein",
-    "An antibiotic"
+    "A live attenuated RSV vaccine for the mother",
+    "An oral antiviral pill taken for five days",
+    "A long-acting antibody against RSV F protein",
+    "A broad-spectrum antibiotic for infants"
    ],
    "correctOptionIndex": 2,
    "explanation": "A single injection before the RSV season protected healthy infants (74.5% efficacy against medically attended infection).",
@@ -29565,10 +29565,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué es el nirsevimab?",
    "options": [
-    "Una vacuna a virus vivo",
-    "Un antiviral en comprimidos",
-    "Un anticuerpo monoclonal de acción prolongada contra la proteína F del VRS",
-    "Un antibiótico"
+    "Una vacuna a virus vivo atenuado para la madre",
+    "Un antiviral oral que se toma por cinco días",
+    "Un anticuerpo de acción larga contra la proteína F",
+    "Un antibiótico de amplio espectro para lactantes"
    ],
    "correctOptionIndex": 2,
    "explanation": "Una sola inyección antes de la temporada de VRS protegió a lactantes sanos (74,5% de eficacia contra infección con atención médica).",
@@ -29589,9 +29589,9 @@
    "difficulty": "researcher",
    "prompt": "Nirsevimab provides which type of immunity to infants?",
    "options": [
-    "Active immunity from vaccination",
-    "Innate immunity",
-    "Cellular immunity",
+    "Active immunity induced by vaccination",
+    "Innate immunity from trained macrophages",
+    "Cellular immunity from cytotoxic T cells",
     "Passive immunity from a ready-made antibody"
    ],
    "correctOptionIndex": 3,
@@ -29613,9 +29613,9 @@
    "difficulty": "researcher",
    "prompt": "¿Qué tipo de inmunidad da el nirsevimab a los lactantes?",
    "options": [
-    "Inmunidad activa por vacunación",
-    "Inmunidad innata",
-    "Inmunidad celular",
+    "Inmunidad activa inducida por vacunación",
+    "Inmunidad innata por macrófagos entrenados",
+    "Inmunidad celular por linfocitos T citotóxicos",
     "Inmunidad pasiva con un anticuerpo ya hecho"
    ],
    "correctOptionIndex": 3,
@@ -61605,10 +61605,10 @@
    "difficulty": "explorer",
    "prompt": "Why did Woese propose classifying organisms using molecular sequences?",
    "options": [
-    "Molecular sequences reveal evolutionary relationships better than classical phenotypes",
-    "Microscopes were not available",
-    "Sequencing is cheaper than looking at cells",
-    "Phenotypes do not exist in microbes"
+    "Sequences show evolution better than phenotypes",
+    "Light microscopes were not yet widely available",
+    "Sequencing was cheaper than looking at cells",
+    "Microbes have no measurable phenotypes at all"
    ],
    "correctOptionIndex": 0,
    "explanation": "Especially among microorganisms, molecules (like rRNA) reveal evolutionary relationships better than appearance.",
@@ -61629,10 +61629,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué Woese propuso clasificar los organismos usando secuencias moleculares?",
    "options": [
-    "Las secuencias revelan mejor las relaciones evolutivas que los fenotipos clásicos",
-    "No había microscopios",
-    "Secuenciar es más barato que mirar células",
-    "Los microbios no tienen fenotipo"
+    "Las secuencias muestran mejor la evolución",
+    "Todavía no había microscopios disponibles",
+    "Secuenciar era más barato que mirar células",
+    "Los microbios no tienen fenotipos medibles"
    ],
    "correctOptionIndex": 0,
    "explanation": "Sobre todo en microorganismos, las moléculas (como el ARNr) revelan mejor el parentesco evolutivo que la apariencia.",
@@ -61701,10 +61701,10 @@
    "difficulty": "curious",
    "prompt": "What did Marshall and Warren find in 1984 in stomach biopsies of patients with gastritis and ulcers?",
    "options": [
-    "Fungi",
+    "Yeast-like fungal cells",
     "Spiral or curved bacilli",
-    "Viruses",
-    "Worms"
+    "Enveloped viral particles",
+    "Larvae of parasitic worms"
    ],
    "correctOptionIndex": 1,
    "explanation": "These curved bacilli were later named Helicobacter pylori, revolutionizing ulcer treatment.",
@@ -61725,10 +61725,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué encontraron Marshall y Warren en 1984 en biopsias gástricas de pacientes con gastritis y úlceras?",
    "options": [
-    "Hongos",
+    "Células de hongos levaduriformes",
     "Bacilos espirales o curvos",
-    "Virus",
-    "Gusanos"
+    "Partículas virales envueltas",
+    "Larvas de gusanos parásitos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Esos bacilos curvos luego se llamaron Helicobacter pylori y revolucionaron el tratamiento de la úlcera.",
@@ -61749,10 +61749,10 @@
    "difficulty": "explorer",
    "prompt": "How were the stomach bacteria (later H. pylori) first described?",
    "options": [
-    "Gram-positive cocci",
-    "Acid-fast bacilli",
-    "Spore-forming anaerobes",
-    "Gram-negative, flagellate, microaerophilic, related to Campylobacter"
+    "Gram-positive cocci in grape-like clusters",
+    "Acid-fast bacilli similar to mycobacteria",
+    "Spore-forming strict anaerobes like clostridia",
+    "Gram-negative, flagellate, Campylobacter-like"
    ],
    "correctOptionIndex": 3,
    "explanation": "They were initially thought to be a new Campylobacter-like species; the genus Helicobacter was created later.",
@@ -61773,10 +61773,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se describieron al principio las bacterias del estómago (luego H. pylori)?",
    "options": [
-    "Cocos grampositivos",
-    "Bacilos ácido-alcohol resistentes",
-    "Anaerobios esporulados",
-    "Gramnegativas, flageladas, microaerófilas, emparentadas con Campylobacter"
+    "Cocos grampositivos en racimos de uva",
+    "Bacilos ácido-resistentes como micobacterias",
+    "Anaerobios estrictos esporulados como clostridios",
+    "Gramnegativas, flageladas, como Campylobacter"
    ],
    "correctOptionIndex": 3,
    "explanation": "Se creyó que eran una nueva especie parecida a Campylobacter; el género Helicobacter se creó después.",
@@ -61797,10 +61797,10 @@
    "difficulty": "researcher",
    "prompt": "What did the 1984 paper conclude about the curved bacilli and peptic ulcer disease?",
    "options": [
-    "They may be an important factor in the cause of gastritis and ulcers",
-    "They are harmless contaminants",
-    "They cause only skin disease",
-    "They protect against ulcers"
+    "They may be a major cause of gastritis and ulcers",
+    "They are harmless contaminants of the biopsy",
+    "They cause only skin disease in humans",
+    "They actually protect the stomach against ulcers"
    ],
    "correctOptionIndex": 0,
    "explanation": "The bacteria were present in almost all patients with active gastritis or ulcers, suggesting an etiologic role.",
@@ -61821,10 +61821,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué concluyó el artículo de 1984 sobre los bacilos curvos y la úlcera péptica?",
    "options": [
-    "Que podrían ser un factor importante en la causa de gastritis y úlceras",
-    "Que eran contaminantes inocuos",
-    "Que solo causan enfermedad de piel",
-    "Que protegen contra úlceras"
+    "Que podrían causar gastritis y úlceras",
+    "Que eran contaminantes inocuos de la biopsia",
+    "Que solo causan enfermedad de la piel",
+    "Que en realidad protegen al estómago de úlceras"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las bacterias estaban en casi todos los pacientes con gastritis activa o úlceras, lo que sugería un papel causal.",
@@ -61845,10 +61845,10 @@
    "difficulty": "curious",
    "prompt": "What did the 2007 experiment show CRISPR does in bacteria?",
    "options": [
-    "Produces antibiotics",
-    "Forms spores",
-    "Moves the flagellum",
-    "Provides acquired resistance against phages (viruses)"
+    "It produces antibiotics against competitors",
+    "It controls the formation of dormant spores",
+    "It powers the rotation of the flagellum",
+    "It gives acquired resistance against phages"
    ],
    "correctOptionIndex": 3,
    "explanation": "Bacteria integrated phage-derived spacers into CRISPR and became resistant—an adaptive immune system.",
@@ -61869,10 +61869,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué mostró el experimento de 2007 sobre la función de CRISPR en bacterias?",
    "options": [
-    "Produce antibióticos",
-    "Forma esporas",
-    "Mueve el flagelo",
-    "Da resistencia adquirida contra fagos (virus)"
+    "Produce antibióticos contra competidores",
+    "Controla la formación de esporas latentes",
+    "Impulsa la rotación del flagelo",
+    "Da resistencia adquirida contra fagos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las bacterias integraron espaciadores derivados de fagos en CRISPR y se volvieron resistentes: un sistema inmune adaptativo.",
@@ -61893,10 +61893,10 @@
    "difficulty": "explorer",
    "prompt": "How do bacteria 'remember' a phage with CRISPR?",
    "options": [
-    "They make antibodies",
-    "They change their cell wall",
-    "They integrate new spacers derived from the phage genome",
-    "They kill their neighbors"
+    "They make antibodies against the phage proteins",
+    "They permanently change their cell wall receptors",
+    "They add new spacers from the phage genome",
+    "They kill neighboring cells to stop spread"
    ],
    "correctOptionIndex": 2,
    "explanation": "New spacers matching the phage are added; resistance specificity depends on spacer-phage sequence similarity.",
@@ -61917,10 +61917,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo 'recuerdan' las bacterias a un fago mediante CRISPR?",
    "options": [
-    "Fabrican anticuerpos",
-    "Cambian la pared",
-    "Integran nuevos espaciadores derivados del genoma del fago",
-    "Matan a sus vecinas"
+    "Fabrican anticuerpos contra proteínas del fago",
+    "Cambian para siempre los receptores de su pared",
+    "Integran nuevos espaciadores del genoma del fago",
+    "Matan a las células vecinas para frenar la infección"
    ],
    "correctOptionIndex": 2,
    "explanation": "Agregan espaciadores que coinciden con el fago; la especificidad depende de la similitud espaciador-fago.",
@@ -61941,10 +61941,10 @@
    "difficulty": "researcher",
    "prompt": "What did Jinek, Charpentier, Doudna and colleagues show Cas9 does in 2012?",
    "options": [
-    "Copies RNA into DNA",
-    "Introduces RNA-guided double-stranded breaks in target DNA",
-    "Synthesizes proteins",
-    "Repairs ultraviolet damage"
+    "Copies RNA templates into complementary DNA",
+    "Makes RNA-guided double-strand DNA breaks",
+    "Synthesizes proteins from messenger RNA",
+    "Repairs thymine dimers caused by UV light"
    ],
    "correctOptionIndex": 1,
    "explanation": "The dual tracrRNA:crRNA guides Cas9 to cut DNA; engineered as a single RNA, it enabled programmable genome editing.",
@@ -61965,10 +61965,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué mostraron Jinek, Charpentier, Doudna y colaboradores que hace Cas9 en 2012?",
    "options": [
-    "Copia ARN a ADN",
-    "Corta ambas hebras del ADN blanco guiada por ARN",
-    "Sintetiza proteínas",
-    "Repara daño por UV"
+    "Copia moldes de ARN a ADN complementario",
+    "Corta ambas hebras del ADN guiada por ARN",
+    "Sintetiza proteínas a partir de ARN mensajero",
+    "Repara dímeros de timina causados por la luz UV"
    ],
    "correctOptionIndex": 1,
    "explanation": "El ARN dual tracrRNA:crRNA guía a Cas9 para cortar ADN; como ARN único diseñado, permitió la edición genómica programable.",
@@ -61989,10 +61989,10 @@
    "difficulty": "expert",
    "prompt": "Which Cas9 domains cut each DNA strand?",
    "options": [
-    "Both strands by the HNH domain",
-    "Both strands by RuvC",
-    "HNH cuts the complementary strand and RuvC-like cuts the noncomplementary strand",
-    "Neither; Cas9 only binds"
+    "HNH alone cuts both strands of the target DNA",
+    "RuvC alone cuts both strands of the target DNA",
+    "HNH: complementary strand; RuvC: the other",
+    "Neither; Cas9 only binds DNA and never cuts"
    ],
    "correctOptionIndex": 2,
    "explanation": "Two nuclease domains each cleave one strand, producing a double-stranded break.",
@@ -62013,10 +62013,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué dominios de Cas9 cortan cada hebra de ADN?",
    "options": [
-    "Ambas hebras el dominio HNH",
-    "Ambas el RuvC",
-    "HNH corta la hebra complementaria y el tipo RuvC la no complementaria",
-    "Ninguno; Cas9 solo se une"
+    "Solo HNH corta ambas hebras del ADN blanco",
+    "Solo RuvC corta ambas hebras del ADN blanco",
+    "HNH: la complementaria; RuvC: la otra",
+    "Ninguno; Cas9 solo se une y nunca corta"
    ],
    "correctOptionIndex": 2,
    "explanation": "Dos dominios nucleasa cortan cada uno una hebra y producen un corte de doble cadena.",
@@ -62037,10 +62037,10 @@
    "difficulty": "beginner",
    "prompt": "What did the Human Microbiome Project find about healthy people's microbes?",
    "options": [
-    "Healthy people differ remarkably in their microbes",
-    "Everyone has identical microbes",
-    "Healthy people have no microbes",
-    "Microbes live only in the gut"
+    "Healthy people differ widely in their microbes",
+    "Everyone carries an identical set of microbes",
+    "Healthy people have essentially no microbes",
+    "Microbes live only in the gut, nowhere else"
    ],
    "correctOptionIndex": 0,
    "explanation": "Even healthy individuals vary widely in the microbes of gut, skin and other sites.",
@@ -62061,9 +62061,9 @@
    "difficulty": "beginner",
    "prompt": "¿Qué halló el Proyecto Microbioma Humano sobre los microbios de personas sanas?",
    "options": [
-    "Las personas sanas difieren mucho en sus microbios",
-    "Todos tienen los mismos microbios",
-    "Las personas sanas no tienen microbios",
+    "Las personas sanas difieren en sus microbios",
+    "Todos portan el mismo conjunto de microbios",
+    "Las personas sanas casi no tienen microbios",
     "Los microbios solo viven en el intestino"
    ],
    "correctOptionIndex": 0,
@@ -62085,10 +62085,10 @@
    "difficulty": "researcher",
    "prompt": "Which feature of the healthy microbiome was stable across people despite different species composition?",
    "options": [
-    "The exact species list",
-    "Body weight",
-    "Metabolic pathways carried by the community",
-    "Blood type"
+    "The exact list of bacterial species",
+    "The total microbial biomass per gram",
+    "Metabolic pathways of the community",
+    "The proportion of fungi to bacteria"
    ],
    "correctOptionIndex": 2,
    "explanation": "Different communities carried similar functional pathways—function is more conserved than taxonomy.",
@@ -62109,10 +62109,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué característica del microbioma sano fue estable entre personas pese a distinta composición de especies?",
    "options": [
-    "La lista exacta de especies",
-    "El peso corporal",
-    "Las vías metabólicas que porta la comunidad",
-    "El grupo sanguíneo"
+    "La lista exacta de especies bacterianas",
+    "La biomasa microbiana total por gramo",
+    "Las vías metabólicas de la comunidad",
+    "La proporción entre hongos y bacterias"
    ],
    "correctOptionIndex": 2,
    "explanation": "Comunidades distintas portaban vías funcionales similares: la función se conserva más que la taxonomía.",
@@ -62181,10 +62181,10 @@
    "difficulty": "researcher",
    "prompt": "What was remarkable about teixobactin, discovered from uncultured soil bacteria?",
    "options": [
-    "It was a virus",
-    "It only killed fungi",
-    "It was toxic to all animals",
-    "No resistant mutants of S. aureus or M. tuberculosis were obtained"
+    "It turned out to be a bacteriophage, not a drug",
+    "It killed only fungi and spared all bacteria",
+    "It was highly toxic to every animal tested",
+    "No resistant S. aureus or Mtb mutants arose"
    ],
    "correctOptionIndex": 3,
    "explanation": "Teixobactin binds lipid II and lipid III, conserved cell-wall precursors, which may make resistance hard to evolve.",
@@ -62205,10 +62205,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué fue notable de la teixobactina, descubierta a partir de bacterias del suelo no cultivadas?",
    "options": [
-    "Era un virus",
-    "Solo mataba hongos",
-    "Era tóxica para todos los animales",
-    "No se obtuvieron mutantes resistentes de S. aureus ni M. tuberculosis"
+    "Resultó ser un bacteriófago y no un fármaco",
+    "Solo mataba hongos y no afectaba a las bacterias",
+    "Era muy tóxica para todos los animales probados",
+    "No surgieron mutantes resistentes (S. aureus, Mtb)"
    ],
    "correctOptionIndex": 3,
    "explanation": "La teixobactina se une al lípido II y III, precursores conservados de la pared, lo que dificultaría la resistencia.",
@@ -62229,10 +62229,10 @@
    "difficulty": "expert",
    "prompt": "How does teixobactin kill bacteria?",
    "options": [
-    "By binding conserved motifs of lipid II and lipid III, blocking cell wall synthesis",
-    "By blocking DNA gyrase",
-    "By inhibiting the 30S ribosome",
-    "By lysing the outer membrane of gram-negatives"
+    "It binds lipid II and III, blocking cell wall synthesis",
+    "It blocks DNA gyrase and stops DNA replication",
+    "It inhibits the 30S ribosome and protein synthesis",
+    "It lyses the outer membrane of gram-negatives"
    ],
    "correctOptionIndex": 0,
    "explanation": "Targeting non-protein precursors of peptidoglycan and teichoic acid is harder for bacteria to mutate around.",
@@ -62253,10 +62253,10 @@
    "difficulty": "expert",
    "prompt": "¿Cómo mata la teixobactina a las bacterias?",
    "options": [
-    "Uniéndose a motivos conservados del lípido II y III y bloqueando la síntesis de pared",
-    "Bloqueando la ADN girasa",
-    "Inhibiendo el ribosoma 30S",
-    "Lisando la membrana externa de gramnegativas"
+    "Se une a los lípidos II y III y bloquea la pared",
+    "Bloquea la ADN girasa y frena la replicación",
+    "Inhibe el ribosoma 30S y la síntesis proteica",
+    "Lisa la membrana externa de las gramnegativas"
    ],
    "correctOptionIndex": 0,
    "explanation": "Atacar precursores no proteicos del peptidoglicano y del ácido teicoico es más difícil de evadir por mutación.",
@@ -62277,10 +62277,10 @@
    "difficulty": "curious",
    "prompt": "How was the antibiotic halicin discovered?",
    "options": [
-    "By accident in a moldy plate",
-    "From a frog's skin",
-    "By a deep neural network that predicted antibacterial molecules",
-    "From a plant extract"
+    "By accident, on a plate contaminated with mold",
+    "From secretions of a tropical frog's skin",
+    "By a deep neural network screening molecules",
+    "From an extract of a traditional medicinal plant"
    ],
    "correctOptionIndex": 2,
    "explanation": "A deep learning model screened chemical libraries and identified halicin from the Drug Repurposing Hub.",
@@ -62301,10 +62301,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo se descubrió el antibiótico halicina?",
    "options": [
-    "Por accidente en una placa con moho",
-    "De la piel de una rana",
-    "Con una red neuronal profunda que predijo moléculas antibacterianas",
-    "De un extracto vegetal"
+    "Por accidente, en una placa contaminada con moho",
+    "De secreciones de la piel de una rana tropical",
+    "Con una red neuronal profunda que evaluó moléculas",
+    "De un extracto de una planta medicinal tradicional"
    ],
    "correctOptionIndex": 2,
    "explanation": "Un modelo de aprendizaje profundo analizó bibliotecas químicas e identificó la halicina en el Drug Repurposing Hub.",
@@ -62325,10 +62325,10 @@
    "difficulty": "researcher",
    "prompt": "Which infections did halicin effectively treat in mice?",
    "options": [
-    "C. difficile and pan-resistant Acinetobacter baumannii",
-    "Influenza and measles",
-    "Malaria and leishmaniasis",
-    "Candida and Aspergillus"
+    "C. difficile and pan-resistant A. baumannii",
+    "Influenza virus and measles virus infections",
+    "Malaria and cutaneous leishmaniasis",
+    "Invasive Candida and Aspergillus infections"
    ],
    "correctOptionIndex": 0,
    "explanation": "Halicin is structurally different from known antibiotics and active against many resistant pathogens.",
@@ -62349,10 +62349,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué infecciones trató eficazmente la halicina en ratones?",
    "options": [
-    "C. difficile y Acinetobacter baumannii panresistente",
-    "Influenza y sarampión",
-    "Malaria y leishmaniasis",
-    "Candida y Aspergillus"
+    "C. difficile y A. baumannii panresistente",
+    "Infecciones por virus de influenza y sarampión",
+    "Malaria y leishmaniasis cutánea",
+    "Infecciones invasivas por Candida y Aspergillus"
    ],
    "correctOptionIndex": 0,
    "explanation": "La halicina es estructuralmente distinta de los antibióticos conocidos y activa contra muchos patógenos resistentes.",
@@ -62373,10 +62373,10 @@
    "difficulty": "explorer",
    "prompt": "What was alarming about the discovery of MCR-1 in China in 2015?",
    "options": [
-    "It made bacteria sensitive to all drugs",
-    "It was found only in plants",
-    "It was a new vaccine",
-    "It was the first plasmid-mediated (transferable) colistin resistance"
+    "It made bacteria sensitive to every antibiotic",
+    "It was found only in plant-associated bacteria",
+    "It was in fact a new veterinary vaccine",
+    "It was the first transferable colistin resistance"
    ],
    "correctOptionIndex": 3,
    "explanation": "Polymyxin resistance had only involved chromosomal mutations; mcr-1 on a plasmid can spread between bacteria.",
@@ -62397,10 +62397,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué fue alarmante del descubrimiento de MCR-1 en China en 2015?",
    "options": [
-    "Volvía a las bacterias sensibles a todo",
-    "Solo se halló en plantas",
-    "Era una vacuna nueva",
-    "Fue la primera resistencia a colistina mediada por plásmidos (transferible)"
+    "Volvía a las bacterias sensibles a todo antibiótico",
+    "Solo se halló en bacterias asociadas a plantas",
+    "Era en realidad una nueva vacuna veterinaria",
+    "Fue la primera resistencia transferible a colistina"
    ],
    "correctOptionIndex": 3,
    "explanation": "La resistencia a polimixinas solo se debía a mutaciones cromosómicas; mcr-1 en un plásmido puede pasar entre bacterias.",
@@ -62421,10 +62421,10 @@
    "difficulty": "researcher",
    "prompt": "Where was mcr-1 found most frequently in the original study?",
    "options": [
-    "Hospital water only",
+    "In hospital tap water and sinks only",
     "In E. coli from food animals and raw meat",
-    "In wild birds only",
-    "In soil fungi"
+    "In migratory wild birds and their nests",
+    "In soil fungi from agricultural fields"
    ],
    "correctOptionIndex": 1,
    "explanation": "mcr-1 was in 21% of animals and 15% of raw meat samples versus 1% of inpatient samples, pointing to agricultural colistin use.",
@@ -62445,10 +62445,10 @@
    "difficulty": "researcher",
    "prompt": "¿Dónde se encontró mcr-1 con más frecuencia en el estudio original?",
    "options": [
-    "Solo en agua de hospital",
-    "En E. coli de animales de producción y carne cruda",
-    "Solo en aves silvestres",
-    "En hongos del suelo"
+    "Solo en agua y piletas de hospitales",
+    "En E. coli de animales de producción y carne",
+    "En aves silvestres migratorias y sus nidos",
+    "En hongos del suelo de campos agrícolas"
    ],
    "correctOptionIndex": 1,
    "explanation": "mcr-1 estaba en 21% de los animales y 15% de la carne cruda vs. 1% de pacientes internados, lo que señala el uso agropecuario de colistina.",
@@ -62469,10 +62469,10 @@
    "difficulty": "expert",
    "prompt": "How does MCR-1 make bacteria resistant to colistin?",
    "options": [
-    "It pumps colistin out",
-    "It degrades colistin",
-    "It adds phosphoethanolamine to lipid A, modifying the colistin target",
-    "It thickens the peptidoglycan"
+    "It pumps colistin out through an efflux system",
+    "It enzymatically degrades the colistin molecule",
+    "It adds phosphoethanolamine to lipid A",
+    "It greatly thickens the peptidoglycan layer"
    ],
    "correctOptionIndex": 2,
    "explanation": "MCR-1 is a phosphoethanolamine transferase; modified lipid A binds colistin poorly.",
@@ -62493,10 +62493,10 @@
    "difficulty": "expert",
    "prompt": "¿Cómo hace MCR-1 que las bacterias resistan la colistina?",
    "options": [
-    "Bombea colistina afuera",
-    "Degrada la colistina",
-    "Agrega fosfoetanolamina al lípido A y modifica el blanco de la colistina",
-    "Engrosa el peptidoglicano"
+    "Bombea la colistina afuera con un sistema de eflujo",
+    "Degrada enzimáticamente la molécula de colistina",
+    "Agrega fosfoetanolamina al lípido A",
+    "Engrosa mucho la capa de peptidoglicano"
    ],
    "correctOptionIndex": 2,
    "explanation": "MCR-1 es una fosfoetanolamina transferasa; el lípido A modificado une mal a la colistina.",
@@ -62517,10 +62517,10 @@
    "difficulty": "curious",
    "prompt": "What is Candida auris?",
    "options": [
-    "A multidrug-resistant yeast causing invasive infections",
-    "A harmless skin bacterium",
-    "A virus of birds",
-    "A probiotic"
+    "A multidrug-resistant, invasive yeast",
+    "A harmless bacterium of normal human skin",
+    "A virus that infects birds and poultry",
+    "A probiotic used in fermented dairy foods"
    ],
    "correctOptionIndex": 0,
    "explanation": "C. auris, first described in 2009 in Japan, is an emerging healthcare-associated pathogen with high mortality.",
@@ -62541,10 +62541,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué es Candida auris?",
    "options": [
-    "Una levadura multirresistente que causa infecciones invasivas",
-    "Una bacteria inocua de la piel",
-    "Un virus de aves",
-    "Un probiótico"
+    "Una levadura multirresistente e invasiva",
+    "Una bacteria inocua de la piel humana normal",
+    "Un virus que infecta aves y aves de corral",
+    "Un probiótico usado en lácteos fermentados"
    ],
    "correctOptionIndex": 0,
    "explanation": "C. auris, descrita en 2009 en Japón, es un patógeno emergente asociado a la atención de la salud con alta mortalidad.",
@@ -62613,10 +62613,10 @@
    "difficulty": "researcher",
    "prompt": "What did whole-genome sequencing reveal about how Candida auris emerged?",
    "options": [
-    "A single clone spread from Japan",
-    "It came from animals",
-    "It is an ancient human commensal",
-    "Different clonal populations emerged independently and almost simultaneously on 3 continents"
+    "A single clone spread worldwide from Japan",
+    "It jumped to people from farm animals",
+    "It is an ancient, long-standing human commensal",
+    "Separate clones arose at once on 3 continents"
    ],
    "correctOptionIndex": 3,
    "explanation": "Geographic clades separated by thousands of SNPs, each clonal internally, emerged independently.",
@@ -62638,9 +62638,9 @@
    "prompt": "¿Qué reveló la secuenciación genómica completa sobre la aparición de Candida auris?",
    "options": [
     "Un único clon se expandió desde Japón",
-    "Vino de animales",
-    "Es un comensal humano antiguo",
-    "Distintas poblaciones clonales surgieron de forma independiente y casi simultánea en 3 continentes"
+    "Pasó a las personas desde animales de granja",
+    "Es un comensal humano antiguo y estable",
+    "Clones distintos surgieron en 3 continentes"
    ],
    "correctOptionIndex": 3,
    "explanation": "Clados geográficos separados por miles de SNP, clonales por dentro, surgieron de manera independiente.",
@@ -78861,10 +78861,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué les pasó a los gatos de tambos con vacas infectadas por H5N1?",
    "options": [
-    "Gatos con leche cruda murieron de influenza",
+    "Los que tomaron leche cruda murieron",
     "Solo tuvieron resfríos leves",
     "Fueron resistentes a la infección",
-    "Solo devolvieron el virus a las aves"
+    "Solo devolvieron el virus a las aves silvestres"
    ],
    "correctOptionIndex": 0,
    "explanation": "La leche cruda (sin pasteurizar) transmitió el virus a los gatos, una alerta sobre la transmisión entre especies.",
