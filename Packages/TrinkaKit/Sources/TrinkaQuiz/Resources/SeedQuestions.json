@@ -1,5 +1,5 @@
 {
- "version": 38,
+ "version": 39,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -10381,6 +10381,433 @@
    "publicationTypes": [
     "Journal Article",
     "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "25945739",
+   "title": "Complex archaea that bridge the gap between prokaryotes and eukaryotes.",
+   "authors": [
+    "Spang A",
+    "Saw JH",
+    "Jørgensen SL",
+    "Zaremba-Niedzwiedzka K",
+    "Martijn J",
+    "Lind AE",
+    "van Eijk R",
+    "Schleper C",
+    "Guy L",
+    "Ettema TJG"
+   ],
+   "journal": "Nature",
+   "year": 2015,
+   "doi": "10.1038/nature14447",
+   "abstract": "The origin of the eukaryotic cell remains one of the most contentious puzzles in modern biology. Recent studies have provided support for the emergence of the eukaryotic host cell from within the archaeal domain of life, but the identity and nature of the putative archaeal ancestor remain a subject of debate. Here we describe the discovery of 'Lokiarchaeota', a novel candidate archaeal phylum, which forms a monophyletic group with eukaryotes in phylogenomic analyses, and whose genomes encode an expanded repertoire of eukaryotic signature proteins that are suggestive of sophisticated membrane remodelling capabilities. Our results provide strong support for hypotheses in which the eukaryotic host evolved from a bona fide archaeon, and demonstrate that many components that underpin eukaryote-specific features were already present in that ancestor. This provided the host with a rich genomic 'starter-kit' to support the increase in the cellular and genomic complexity that is characteristic of eukaryotes.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28077874",
+   "title": "Asgard archaea illuminate the origin of eukaryotic cellular complexity.",
+   "authors": [
+    "Zaremba-Niedzwiedzka K",
+    "Caceres EF",
+    "Saw JH",
+    "Bäckström D",
+    "Juzokaite L",
+    "Vancaester E",
+    "Seitz KW",
+    "Anantharaman K",
+    "Starnawski P",
+    "Kjeldsen KU",
+    "Stott MB",
+    "Nunoura T",
+    "Banfield JF",
+    "Schramm A",
+    "Baker BJ",
+    "Spang A",
+    "Ettema TJ"
+   ],
+   "journal": "Nature",
+   "year": 2017,
+   "doi": "10.1038/nature21031",
+   "abstract": "The origin and cellular complexity of eukaryotes represent a major enigma in biology. Current data support scenarios in which an archaeal host cell and an alphaproteobacterial (mitochondrial) endosymbiont merged together, resulting in the first eukaryotic cell. The host cell is related to Lokiarchaeota, an archaeal phylum with many eukaryotic features. The emergence of the structural complexity that characterizes eukaryotic cells remains unclear. Here we describe the 'Asgard' superphylum, a group of uncultivated archaea that, as well as Lokiarchaeota, includes Thor-, Odin- and Heimdallarchaeota. Asgard archaea affiliate with eukaryotes in phylogenomic analyses, and their genomes are enriched for proteins formerly considered specific to eukaryotes. Notably, thorarchaeal genomes encode several homologues of eukaryotic membrane-trafficking machinery components, including Sec23/24 and TRAPP domains. Furthermore, we identify thorarchaeal proteins with similar features to eukaryotic coat proteins involved in vesicle biogenesis. Our results expand the known repertoire of 'eukaryote-specific' proteins in Archaea, indicating that the archaeal host cell already contained many key components that govern eukaryotic cellular complexity.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "31942073",
+   "title": "Isolation of an archaeon at the prokaryote-eukaryote interface.",
+   "authors": [
+    "Imachi H",
+    "Nobu MK",
+    "Nakahara N",
+    "Morono Y",
+    "Ogawara M",
+    "Takaki Y",
+    "Takano Y",
+    "Uematsu K",
+    "Ikuta T",
+    "Ito M",
+    "Matsui Y",
+    "Miyazaki M",
+    "Murata K",
+    "Saito Y",
+    "Sakai S",
+    "Song C",
+    "Tasumi E",
+    "Yamanaka Y",
+    "Yamaguchi T",
+    "Kamagata Y",
+    "Tamaki H",
+    "Takai K"
+   ],
+   "journal": "Nature",
+   "year": 2020,
+   "doi": "10.1038/s41586-019-1916-6",
+   "abstract": "The origin of eukaryotes remains unclear1-4. Current data suggest that eukaryotes may have emerged from an archaeal lineage known as 'Asgard' archaea5,6. Despite the eukaryote-like genomic features that are found in these archaea, the evolutionary transition from archaea to eukaryotes remains unclear, owing to the lack of cultured representatives and corresponding physiological insights. Here we report the decade-long isolation of an Asgard archaeon related to Lokiarchaeota from deep marine sediment. The archaeon-'Candidatus Prometheoarchaeum syntrophicum' strain MK-D1-is an anaerobic, extremely slow-growing, small coccus (around 550 nm in diameter) that degrades amino acids through syntrophy. Although eukaryote-like intracellular complexes have been proposed for Asgard archaea6, the isolate has no visible organelle-like structure. Instead, Ca. P. syntrophicum is morphologically complex and has unique protrusions that are long and often branching. On the basis of the available data obtained from cultivation and genomics, and reasoned interpretations of the existing literature, we propose a hypothetical model for eukaryogenesis, termed the entangle-engulf-endogenize (also known as E3) model.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12167859",
+   "title": "Cultivation of the ubiquitous SAR11 marine bacterioplankton clade.",
+   "authors": [
+    "Rappé MS",
+    "Connon SA",
+    "Vergin KL",
+    "Giovannoni SJ"
+   ],
+   "journal": "Nature",
+   "year": 2002,
+   "doi": "10.1038/nature00917",
+   "abstract": "The alpha-proteobacterial lineage that contains SAR11 and related ribosomal RNA gene clones was among the first groups of organisms to be identified when cultivation-independent approaches based on rRNA gene cloning and sequencing were applied to survey microbial diversity in natural ecosystems. This group accounts for 26% of all ribosomal RNA genes that have been identified in sea water and has been found in nearly every pelagic marine bacterioplankton community studied by these methods. The SAR11 clade represents a pervasive problem in microbiology: despite its ubiquity, it has defied cultivation efforts. Genetic evidence suggests that diverse uncultivated microbial taxa dominate most natural ecosystems, which has prompted widespread efforts to elucidate the geochemical activities of these organisms without the benefit of cultures for study. Here we report the isolation of representatives of the SAR11 clade. Eighteen cultures were initially obtained by means of high-throughput procedures for isolating cell cultures through the dilution of natural microbial communities into very low nutrient media. Eleven of these cultures have been successfully passaged and cryopreserved for future study. The volume of these cells, about 0.01 micro m(3), places them among the smallest free-living cells in culture.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "16267553",
+   "title": "Proteorhodopsin in the ubiquitous marine bacterium SAR11.",
+   "authors": [
+    "Giovannoni SJ",
+    "Bibbs L",
+    "Cho JC",
+    "Stapels MD",
+    "Desiderio R",
+    "Vergin KL",
+    "Rappé MS",
+    "Laney S",
+    "Wilhelm LJ",
+    "Tripp HJ",
+    "Mathur EJ",
+    "Barofsky DF"
+   ],
+   "journal": "Nature",
+   "year": 2005,
+   "doi": "10.1038/nature04032",
+   "abstract": "Proteorhodopsins are light-dependent proton pumps that are predicted to have an important role in the ecology of the oceans by supplying energy for microbial metabolism. Proteorhodopsin genes were first discovered through the cloning and sequencing of large genomic DNA fragments from seawater. They were later shown to be widely distributed, phylogenetically diverse, and active in the oceans. Proteorhodopsin genes have not been found in cultured bacteria, and on the basis of environmental sequence data, it has not yet been possible to reconstruct the genomes of uncultured bacterial strains that have proteorhodopsin genes. Although the metabolic effect of proteorhodopsins is uncertain, they are thought to function in cells for which the primary mode of metabolism is the heterotrophic assimilation of dissolved organic carbon. Here we report that SAR11 strain HTCC1062 ('Pelagibacter ubique'), the first cultivated member of the extraordinarily abundant SAR11 clade, expresses a proteorhodopsin gene when cultured in autoclaved seawater and in its natural environment, the ocean. The Pelagibacter proteorhodopsin functions as a light-dependent proton pump. The gene is expressed by cells grown in either diurnal light or in darkness, and there is no difference between the growth rates or cell yields of cultures grown in light or darkness.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "23407494",
+   "title": "Abundant SAR11 viruses in the ocean.",
+   "authors": [
+    "Zhao Y",
+    "Temperton B",
+    "Thrash JC",
+    "Schwalbach MS",
+    "Vergin KL",
+    "Landry ZC",
+    "Ellisman M",
+    "Deerinck T",
+    "Sullivan MB",
+    "Giovannoni SJ"
+   ],
+   "journal": "Nature",
+   "year": 2013,
+   "doi": "10.1038/nature11921",
+   "abstract": "Several reports proposed that the extraordinary dominance of the SAR11 bacterial clade in ocean ecosystems could be a consequence of unusual mechanisms of resistance to bacteriophage infection, including 'cryptic escape' through reduced cell size and/or K-strategist defence specialism. Alternatively, the evolution of high surface-to-volume ratios coupled with minimal genomes containing high-affinity transporters enables unusually efficient metabolism for oxidizing dissolved organic matter in the world's oceans that could support vast population sizes despite phage susceptibility. These ideas are important for understanding plankton ecology because they emphasize the potentially important role of top-down mechanisms in predation, thus determining the size of SAR11 populations and their concomitant role in biogeochemical cycling. Here we report the isolation of diverse SAR11 viruses belonging to two virus families in culture, for which we propose the name 'pelagiphage', after their host. Notably, the pelagiphage genomes were highly represented in marine viral metagenomes, demonstrating their importance in nature. One of the new phages, HTVC010P, represents a new podovirus subfamily more abundant than any seen previously, in all data sets tested, and may represent one of the most abundant virus subfamilies in the biosphere. This discovery disproves the theory that SAR11 cells are immune to viral predation and is consistent with the interpretation that the success of this highly abundant microbial clade is the result of successfully evolved adaptation to resource competition.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9624000",
+   "title": "Physiology and molecular phylogeny of coexisting Prochlorococcus ecotypes.",
+   "authors": [
+    "Moore LR",
+    "Rocap G",
+    "Chisholm SW"
+   ],
+   "journal": "Nature",
+   "year": 1998,
+   "doi": "10.1038/30965",
+   "abstract": "The cyanobacterium Prochlorococcus is the dominant oxygenic phototroph in the tropical and subtropical regions of the world's oceans. It can grow at a range of depths over which light intensities can vary by up to 4 orders of magnitude. This broad depth distribution has been hypothesized to stem from the coexistence of genetically different populations adapted for growth at high- and low-light intensities. Here we report direct evidence supporting this hypothesis, which has been generated by isolating and analysing distinct co-occurring populations of Prochlorococcus at two locations in the North Atlantic. Co-isolates from the same water sample have very different light-dependent physiologies, one growing maximally at light intensities at which the other is completely photoinhibited. Despite this ecotypic differentiation, the co-isolates have 97% similarity in their 16S ribosomal RNA sequences, demonstrating that molecular microdiversity, commonly observed in microbial systems, can be due to the coexistence of closely related, physiologically distinct populations. The coexistence and distribution of multiple ecotypes permits the survival of the population as a whole over a broader range of environmental conditions than would be possible for a homogeneous population.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "12944965",
+   "title": "Cyanophages infecting the oceanic cyanobacterium Prochlorococcus.",
+   "authors": [
+    "Sullivan MB",
+    "Waterbury JB",
+    "Chisholm SW"
+   ],
+   "journal": "Nature",
+   "year": 2003,
+   "doi": "10.1038/nature01929",
+   "abstract": "Prochlorococcus is the numerically dominant phototroph in the tropical and subtropical oceans, accounting for half of the photosynthetic biomass in some areas. Here we report the isolation of cyanophages that infect Prochlorococcus, and show that although some are host-strain-specific, others cross-infect with closely related marine Synechococcus as well as between high-light- and low-light-adapted Prochlorococcus isolates, suggesting a mechanism for horizontal gene transfer. High-light-adapted Prochlorococcus hosts yielded Podoviridae exclusively, which were extremely host-specific, whereas low-light-adapted Prochlorococcus and all strains of Synechococcus yielded primarily Myoviridae, which has a broad host range. Finally, both Prochlorococcus and Synechococcus strain-specific cyanophage titres were low (< 10(3) ml(-1)) in stratified oligotrophic waters even where total cyanobacterial abundances were high (> 10(5) cells x ml(-1)). These low titres in areas of high total host cell abundance seem to be a feature of open ocean ecosystems. We hypothesize that gradients in cyanobacterial population diversity, growth rates, and/or the incidence of lysogeny underlie these trends.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "15308767",
+   "title": "Bacterial persistence as a phenotypic switch.",
+   "authors": [
+    "Balaban NQ",
+    "Merrin J",
+    "Chait R",
+    "Kowalik L",
+    "Leibler S"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2004,
+   "doi": "10.1126/science.1099390",
+   "abstract": "A fraction of a genetically homogeneous microbial population may survive exposure to stress such as antibiotic treatment. Unlike resistant mutants, cells regrown from such persistent bacteria remain sensitive to the antibiotic. We investigated the persistence of single cells of Escherichia coli with the use of microfluidic devices. Persistence was linked to preexisting heterogeneity in bacterial populations because phenotypic switching occurred between normally growing cells and persister cells having reduced growth rates. Quantitative measurements led to a simple mathematical description of the persistence switch. Inherent heterogeneity of bacterial populations may be important in adaptation to fluctuating environments and in the persistence of bacterial infections.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "16469402",
+   "title": "Mimivirus and the emerging concept of \"giant\" virus.",
+   "authors": [
+    "Claverie JM",
+    "Ogata H",
+    "Audic S",
+    "Abergel C",
+    "Suhre K",
+    "Fournier PE"
+   ],
+   "journal": "Virus research",
+   "year": 2006,
+   "doi": "10.1016/j.virusres.2006.01.008",
+   "abstract": "The recently discovered Acanthamoeba polyphaga Mimivirus is the largest known DNA virus. Its particle size (750 nm), genome length (1.2 million bp) and large gene repertoire (911 protein coding genes) blur the established boundaries between viruses and parasitic cellular organisms. In addition, the analysis of its genome sequence identified many types of genes never before encountered in a virus, including aminoacyl-tRNA synthetases and other central components of the translation machinery previously thought to be the signature of cellular organisms. In this article, we examine how the finding of such a giant virus might durably influence the way we look at microbial biodiversity, and lead us to revise the classification of microbial domains and life forms. We propose to introduce the word \"girus\" to recognize the intermediate status of these giant DNA viruses, the genome complexity of which makes them closer to small parasitic prokaryotes than to regular viruses.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26300849",
+   "title": "Pithovirus sibericum, a new bona fide member of the \"Fourth TRUC\" club.",
+   "authors": [
+    "Sharma V",
+    "Colson P",
+    "Chabrol O",
+    "Pontarotti P",
+    "Raoult D"
+   ],
+   "journal": "Frontiers in microbiology",
+   "year": 2015,
+   "doi": "10.3389/fmicb.2015.00722",
+   "abstract": "Nucleocytoplasmic large DNA viruses, or representatives of the proposed order Megavirales, include giant viruses of Acanthamoeba that were discovered over the last 12 years and are bona fide microbes. Phylogenies based on a few genes conserved amongst these megaviruses and shared by microbes classified as Eukarya, Bacteria, and Archaea, allowed for delineation of a fourth monophylogenetic group or \"TRUC\" (Things Resisting Uncompleted Classification) composed of the Megavirales representatives. A new Megavirales member named Pithovirus sibericum was isolated from a >30,000-year-old dated Siberian permafrost sample. This virion is as large as recently described pandoraviruses but has a genome that is approximately three to four times shorter. Our objective was to update the classification of P. sibericum as a new member of the \"Fourth TRUC\" club. Phylogenetic trees were constructed based on four conserved ancient genes and a phyletic analysis was concurrently conducted based on the presence/absence patterns of a set of informational genes from members of Megavirales, Bacteria, Archaea, and Eukarya. Phylogenetic analyses based on the four conserved genes revealed that P. sibericum is part of the fourth TRUC composed of Megavirales members, and is closely related to the families Marseilleviridae and Ascoviridae/Iridoviridae. Additionally, hierarchical clustering delineated four branches, and showed that P. sibericum is part of this fourth TRUC. Overall, phylogenetic and phyletic analyses using informational genes clearly indicate that P. sibericum is a new bona fide member of the \"Fourth TRUC\" club composed of representatives of Megavirales, alongside Bacteria, Archaea, and Eukarya.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18524956",
+   "title": "Historical contingency and the evolution of a key innovation in an experimental population of Escherichia coli.",
+   "authors": [
+    "Blount ZD",
+    "Borland CZ",
+    "Lenski RE"
+   ],
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2008,
+   "doi": "10.1073/pnas.0803151105",
+   "abstract": "The role of historical contingency in evolution has been much debated, but rarely tested. Twelve initially identical populations of Escherichia coli were founded in 1988 to investigate this issue. They have since evolved in a glucose-limited medium that also contains citrate, which E. coli cannot use as a carbon source under oxic conditions. No population evolved the capacity to exploit citrate for >30,000 generations, although each population tested billions of mutations. A citrate-using (Cit+) variant finally evolved in one population by 31,500 generations, causing an increase in population size and diversity. The long-delayed and unique evolution of this function might indicate the involvement of some extremely rare mutation. Alternately, it may involve an ordinary mutation, but one whose physical occurrence or phenotypic expression is contingent on prior mutations in that population. We tested these hypotheses in experiments that \"replayed\" evolution from different points in that population's history. We observed no Cit+ mutants among 8.4 x 10(12) ancestral cells, nor among 9 x 10(12) cells from 60 clones sampled in the first 15,000 generations. However, we observed a significantly greater tendency for later clones to evolve Cit+, indicating that some potentiating mutation arose by 20,000 generations. This potentiating change increased the mutation rate to Cit+ but did not cause generalized hypermutability. Thus, the evolution of this phenotype was contingent on the particular history of that population. More generally, we suggest that historical contingency is especially important when it facilitates the evolution of key innovations that are not easily evolved by gradual, cumulative selection.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "8722758",
+   "title": "Long-term experimental evolution in Escherichia coli. IV. Targets of selection and the specificity of adaptation.",
+   "authors": [
+    "Travisano M",
+    "Lenski RE"
+   ],
+   "journal": "Genetics",
+   "year": 1996,
+   "doi": "10.1093/genetics/143.1.15",
+   "abstract": "This study investigates the physiological manifestation of adaptive evolutionary change in 12 replicate populations of Escherichia coli that were propagated for 2000 generations in a glucose-limited environment. Representative genotypes from each population were assayed for fitness relative to their common ancestor in the experimental glucose environment and in 11 novel single-nutrient environments. After 2000 generations, the 12 derived genotypes had diverged into at least six distinct phenotypic classes. The nutrients were classified into four groups based upon their uptake physiology. All 12 derived genotypes improved in fitness by similar amounts in the glucose environment, and this pattern of parallel fitness gains was also seen in those novel environments where the limiting nutrient shared uptake mechanisms with glucose. Fitness showed little or no consistent improvement, but much greater genetic variation, in novel environments where the limiting nutrient differed from glucose in its uptake mechanisms. This pattern of fitness variation in the novel nutrient environments suggests that the independently derived genotypes adapted to the glucose environment by similar, but not identical, changes in the physiological mechanisms for moving glucose across both the inner and outer membranes.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "10567266",
+   "title": "Genome sequence of the radioresistant bacterium Deinococcus radiodurans R1.",
+   "authors": [
+    "White O",
+    "Eisen JA",
+    "Heidelberg JF",
+    "Hickey EK",
+    "Peterson JD",
+    "Dodson RJ",
+    "Haft DH",
+    "Gwinn ML",
+    "Nelson WC",
+    "Richardson DL",
+    "Moffat KS",
+    "Qin H",
+    "Jiang L",
+    "Pamphile W",
+    "Crosby M",
+    "Shen M",
+    "Vamathevan JJ",
+    "Lam P",
+    "McDonald L",
+    "Utterback T",
+    "Zalewski C",
+    "Makarova KS",
+    "Aravind L",
+    "Daly MJ",
+    "Minton KW",
+    "Fleischmann RD",
+    "Ketchum KA",
+    "Nelson KE",
+    "Salzberg S",
+    "Smith HO",
+    "Venter JC",
+    "Fraser CM"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 1999,
+   "doi": "10.1126/science.286.5444.1571",
+   "abstract": "The complete genome sequence of the radiation-resistant bacterium Deinococcus radiodurans R1 is composed of two chromosomes (2,648,638 and 412,348 base pairs), a megaplasmid (177,466 base pairs), and a small plasmid (45,704 base pairs), yielding a total genome of 3,284, 156 base pairs. Multiple components distributed on the chromosomes and megaplasmid that contribute to the ability of D. radiodurans to survive under conditions of starvation, oxidative stress, and high amounts of DNA damage were identified. Deinococcus radiodurans represents an organism in which all systems for DNA repair, DNA damage export, desiccation and starvation recovery, and genetic redundancy are present in one cell.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "15459345",
+   "title": "Accumulation of Mn(II) in Deinococcus radiodurans facilitates gamma-radiation resistance.",
+   "authors": [
+    "Daly MJ",
+    "Gaidamakova EK",
+    "Matrosova VY",
+    "Vasilenko A",
+    "Zhai M",
+    "Venkateswaran A",
+    "Hess M",
+    "Omelchenko MV",
+    "Kostandarithes HM",
+    "Makarova KS",
+    "Wackett LP",
+    "Fredrickson JK",
+    "Ghosal D"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2004,
+   "doi": "10.1126/science.1103185",
+   "abstract": "Deinococcus radiodurans is extremely resistant to ionizing radiation. How this bacterium can grow under chronic gamma radiation [50 grays (Gy) per hour] or recover from acute doses greater than 10 kGy is unknown. We show that D. radiodurans accumulates very high intracellular manganese and low iron levels compared with radiation-sensitive bacteria and that resistance exhibits a concentration-dependent response to manganous chloride [Mn(II)]. Among the most radiation-resistant bacterial groups reported, Deinococcus, Enterococcus, Lactobacillus, and cyanobacteria accumulate Mn(II). In contrast, Shewanella oneidensis and Pseudomonas putida have high iron but low intracellular manganese concentrations and are very sensitive. We propose that Mn(II) accumulation facilitates recovery from radiation injury.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "40140562",
+   "title": "A broad-spectrum lasso peptide antibiotic targeting the bacterial ribosome.",
+   "authors": [
+    "Jangra M",
+    "Travin DY",
+    "Aleksandrova EV",
+    "Kaur M",
+    "Darwish L",
+    "Koteva K",
+    "Klepacki D",
+    "Wang W",
+    "Tiffany M",
+    "Sokaribo A",
+    "Chen X",
+    "Deng Z",
+    "Tao M",
+    "Coombes BK",
+    "Vázquez-Laslop N",
+    "Polikanov YS",
+    "Mankin AS",
+    "Wright GD"
+   ],
+   "journal": "Nature",
+   "year": 2025,
+   "doi": "10.1038/s41586-025-08723-7",
+   "abstract": "Lasso peptides (biologically active molecules with a distinct structurally constrained knotted fold) are natural products that belong to the class of ribosomally synthesized and post-translationally modified peptides1-3. Lasso peptides act on several bacterial targets4,5, but none have been reported to inhibit the ribosome, one of the main targets of antibiotics in the bacterial cell6,7. Here we report the identification and characterization of the lasso peptide antibiotic lariocidin and its internally cyclized derivative lariocidin B, produced by Paenibacillus sp. M2, which has broad-spectrum activity against a range of bacterial pathogens. We show that lariocidins inhibit bacterial growth by binding to the ribosome and interfering with protein synthesis. Structural, genetic and biochemical data show that lariocidins bind at a unique site in the small ribosomal subunit, where they interact with the 16S ribosomal RNA and aminoacyl-tRNA, inhibiting translocation and inducing miscoding. Lariocidin is unaffected by common resistance mechanisms, has a low propensity for generating spontaneous resistance, shows no toxicity to human cells, and has potent in vivo activity in a mouse model of Acinetobacter baumannii infection. Our identification of ribosome-targeting lasso peptides uncovers new routes towards the discovery of alternative protein-synthesis inhibitors and offers a novel chemical scaffold for the development of much-needed antibacterial drugs.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "39553296",
+   "title": "Clovibactin and Staphylococcus aureus: a new weapon against resistant strains.",
+   "authors": [
+    "Adeiza SS"
+   ],
+   "journal": "GMS hygiene and infection control",
+   "year": 2024,
+   "doi": "10.3205/dgkh000501",
+   "abstract": "Clovibactin is a new depsipeptide and highly efficacious against Sta p h y l o coccus (S.) aureus, including methicillin-resistant and vancomycin-resistant S. aureus, with no apparent resistance. Clovibactin outclasses current antibiotics such as vancomycin. Here, we discuss its efficacy, emphasize the need for new antibiotics owing to growing global antibiotic resistance, highlight its mode of action and possible benefits over current treatments. We also highlight the challenges involved in large-scale manufacturing and the status of continuing research to advance effective and less toxic derivatives.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "3319270",
+   "title": "Principles and lessons from the smallpox eradication programme.",
+   "authors": [
+    "Henderson DA"
+   ],
+   "journal": "Bulletin of the World Health Organization",
+   "year": 1987,
+   "doi": null,
+   "abstract": "The eradication of smallpox required a unique, fully collaborative international effort on the part of WHO and Member States. In the course of the programme, many lessons were learned in its organization, execution and evaluation which have implications for other international activities. Most important among these was the need to establish measurable objectives and to evaluate progress and performance in terms of these; to establish procedures for quality control both of vaccines and performance; to recruit the best possible personnel and support them; and to assure an on-going programme of problem-oriented research which can facilitate activities and resolve apparently paradoxical observations. The inherent capacities of national health services to execute their smallpox eradication programmes was gratifying. It encouraged the belief that other, more complex health measures could be undertaken. Although this would necessitate that adequate numbers of competent leaders be recruited and given delegated responsibility, such persons were usually found to be available although often inexperienced. WHO's roles in catalysing and orchestrating this great effort were critical. Its potential for promoting other efforts in disease prevention and health promotion was apparent although still only partially realized.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
    ]
   },
   {
@@ -69304,6 +69731,1398 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "WGS analysis suggests nearly simultaneous, and recent, independent emergence of different clonal populations on 3 continents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25945739-1-en",
+   "translationKey": "micro-25945739-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What was remarkable about the newly discovered Lokiarchaeota?",
+   "options": [
+    "They turned out to be giant viruses",
+    "They group with eukaryotes",
+    "They are the oldest known bacteria",
+    "They live only inside human cells"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Lokiarchaeota form a group with eukaryotes and carry many eukaryotic signature proteins.",
+   "shortExplanation": "They group with eukaryotes.",
+   "pmid": "25945739",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "forms a monophyletic group with eukaryotes in phylogenomic analyses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25945739-1-es",
+   "translationKey": "micro-25945739-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tenían de notable las recién descubiertas Lokiarchaeota?",
+   "options": [
+    "Resultaron ser virus gigantes",
+    "Se agrupan con los eucariotas",
+    "Son las bacterias más antiguas",
+    "Viven solo dentro de células humanas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las Lokiarchaeota forman un grupo con los eucariotas y portan muchas proteínas típicas de eucariotas.",
+   "shortExplanation": "Se agrupan con eucariotas.",
+   "pmid": "25945739",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "forms a monophyletic group with eukaryotes in phylogenomic analyses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25945739-2-en",
+   "translationKey": "micro-25945739-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What does the Lokiarchaeota genome suggest about the archaeal ancestor of eukaryotes?",
+   "options": [
+    "It had no genes related to eukaryotes",
+    "It was in fact an alphaproteobacterium",
+    "It already had a true nucleus and mitochondria",
+    "It already had a genomic \"starter kit\""
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Many components underpinning eukaryotic features were already present in the archaeal host.",
+   "shortExplanation": "A starter kit.",
+   "pmid": "25945739",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This provided the host with a rich genomic 'starter-kit'",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25945739-2-es",
+   "translationKey": "micro-25945739-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué sugiere el genoma de Lokiarchaeota sobre el ancestro arqueano de los eucariotas?",
+   "options": [
+    "No tenía genes relacionados con eucariotas",
+    "Era en realidad una alfaproteobacteria",
+    "Ya tenía núcleo verdadero y mitocondrias",
+    "Ya tenía un \"kit inicial\" genómico"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Muchos componentes de los rasgos eucariotas ya estaban presentes en el huésped arqueano.",
+   "shortExplanation": "Un kit inicial.",
+   "pmid": "25945739",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This provided the host with a rich genomic 'starter-kit'",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28077874-1-en",
+   "translationKey": "micro-28077874-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Besides Lokiarchaeota, which groups belong to the Asgard superphylum?",
+   "options": [
+    "Thor-, Odin-, Heimdallarchaeota",
+    "Crenarchaeota and Euryarchaeota",
+    "Firmicutes and Actinobacteria",
+    "Cyanobacteria and Chloroflexi phyla"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The Asgard archaea are named after Norse gods: Loki, Thor, Odin and Heimdall.",
+   "shortExplanation": "Thor, Odin, Heimdall.",
+   "pmid": "28077874",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "includes Thor-, Odin- and Heimdallarchaeota",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28077874-1-es",
+   "translationKey": "micro-28077874-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Además de Lokiarchaeota, ¿qué grupos pertenecen al superfilo Asgard?",
+   "options": [
+    "Thor-, Odin-, Heimdallarchaeota",
+    "Crenarchaeota y Euryarchaeota",
+    "Firmicutes y Actinobacteria",
+    "Los filos Cyanobacteria y Chloroflexi"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las arqueas Asgard llevan nombres de dioses nórdicos: Loki, Thor, Odín y Heimdall.",
+   "shortExplanation": "Thor, Odín, Heimdall.",
+   "pmid": "28077874",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "includes Thor-, Odin- and Heimdallarchaeota",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28077874-2-en",
+   "translationKey": "micro-28077874-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which eukaryote-like machinery was found encoded in Thorarchaeota genomes?",
+   "options": [
+    "A complete set of mitochondrial genes",
+    "Chlorophyll-based photosystems",
+    "Membrane-trafficking components",
+    "Flagellar motor proteins of bacteria"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Thorarchaeota carry homologues of Sec23/24, TRAPP domains and coat-like proteins for vesicles.",
+   "shortExplanation": "Membrane trafficking.",
+   "pmid": "28077874",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "thorarchaeal genomes encode several homologues of eukaryotic membrane-trafficking machinery components",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28077874-2-es",
+   "translationKey": "micro-28077874-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué maquinaria de tipo eucariota se halló codificada en los genomas de Thorarchaeota?",
+   "options": [
+    "Un juego completo de genes mitocondriales",
+    "Fotosistemas basados en clorofila",
+    "Componentes del tráfico de membranas",
+    "Proteínas del motor flagelar bacteriano"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Thorarchaeota portan homólogos de Sec23/24, dominios TRAPP y proteínas de cubierta de vesículas.",
+   "shortExplanation": "Tráfico de membranas.",
+   "pmid": "28077874",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "thorarchaeal genomes encode several homologues of eukaryotic membrane-trafficking machinery components",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31942073-1-en",
+   "translationKey": "micro-31942073-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How long did it take to isolate the first cultured Asgard archaeon?",
+   "options": [
+    "A few days",
+    "About a decade",
+    "About a month",
+    "Over a century"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The decade-long effort yielded 'Candidatus Prometheoarchaeum syntrophicum' from deep-sea sediment.",
+   "shortExplanation": "About a decade.",
+   "pmid": "31942073",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Here we report the decade-long isolation of an Asgard archaeon related to Lokiarchaeota from deep marine sediment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31942073-1-es",
+   "translationKey": "micro-31942073-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuánto tiempo llevó aislar la primera arquea Asgard cultivada?",
+   "options": [
+    "Unos pocos días",
+    "Unos diez años",
+    "Cerca de un mes",
+    "Más de un siglo"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El esfuerzo de una década logró 'Candidatus Prometheoarchaeum syntrophicum' de sedimentos marinos profundos.",
+   "shortExplanation": "Una década.",
+   "pmid": "31942073",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Here we report the decade-long isolation of an Asgard archaeon related to Lokiarchaeota from deep marine sediment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31942073-2-en",
+   "translationKey": "micro-31942073-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What did the cultured Asgard archaeon look like?",
+   "options": [
+    "A large cell with a nucleus",
+    "A cell full of mitochondria",
+    "A filament with chloroplasts",
+    "A tiny coccus, no organelles"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "It is a ~550 nm coccus with long branching protrusions but no organelle-like structures.",
+   "shortExplanation": "Small, no organelles.",
+   "pmid": "31942073",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the isolate has no visible organelle-like structure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31942073-2-es",
+   "translationKey": "micro-31942073-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Cómo era la arquea Asgard cultivada?",
+   "options": [
+    "Una célula grande con núcleo",
+    "Una célula llena de mitocondrias",
+    "Un filamento con cloroplastos",
+    "Un coco pequeño sin orgánulos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Es un coco de ~550 nm con prolongaciones largas y ramificadas, pero sin estructuras tipo orgánulo.",
+   "shortExplanation": "Pequeña, sin orgánulos.",
+   "pmid": "31942073",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the isolate has no visible organelle-like structure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12167859-1-en",
+   "translationKey": "micro-12167859-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What share of ribosomal RNA genes found in seawater belongs to the SAR11 clade?",
+   "options": [
+    "About 26%",
+    "About 2%",
+    "About 76%",
+    "Less than 0.1%"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "SAR11 is among the most abundant organisms in the ocean, yet it long resisted cultivation.",
+   "shortExplanation": "~26%.",
+   "pmid": "12167859",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This group accounts for 26% of all ribosomal RNA genes that have been identified in sea water",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12167859-1-es",
+   "translationKey": "micro-12167859-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué proporción de los genes de ARN ribosómico hallados en el agua de mar pertenece al clado SAR11?",
+   "options": [
+    "Cerca del 26%",
+    "Cerca del 2%",
+    "Cerca del 76%",
+    "Menos del 0,1%"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "SAR11 está entre los organismos más abundantes del océano, pero se resistió mucho al cultivo.",
+   "shortExplanation": "~26%.",
+   "pmid": "12167859",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This group accounts for 26% of all ribosomal RNA genes that have been identified in sea water",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12167859-2-en",
+   "translationKey": "micro-12167859-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How was SAR11 finally cultured?",
+   "options": [
+    "On rich blood agar at 37 °C",
+    "Inside amoebae as host cells",
+    "Diluted into low-nutrient media",
+    "In anaerobic jars with hydrogen gas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "High-throughput dilution into very low-nutrient media allowed these oligotrophs to grow.",
+   "shortExplanation": "Dilution, low nutrients.",
+   "pmid": "12167859",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "by means of high-throughput procedures for isolating cell cultures through the dilution of natural microbial communities into very low nutrient media",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12167859-2-es",
+   "translationKey": "micro-12167859-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se logró por fin cultivar SAR11?",
+   "options": [
+    "En agar sangre rico a 37 °C",
+    "Dentro de amebas como huésped",
+    "Diluido en medios pobres",
+    "En jarras anaerobias con hidrógeno"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La dilución masiva en medios muy pobres en nutrientes permitió crecer a estos oligótrofos.",
+   "shortExplanation": "Dilución, medios pobres.",
+   "pmid": "12167859",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "by means of high-throughput procedures for isolating cell cultures through the dilution of natural microbial communities into very low nutrient media",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12167859-3-en",
+   "translationKey": "micro-12167859-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What is notable about the size of SAR11 cells?",
+   "options": [
+    "They are the largest bacteria known",
+    "They are as big as human red cells",
+    "They change size with the tides",
+    "Among the smallest free-living cells"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "With a volume of about 0.01 µm³, they rank among the smallest free-living cells cultured.",
+   "shortExplanation": "Among the smallest.",
+   "pmid": "12167859",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "places them among the smallest free-living cells in culture",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12167859-3-es",
+   "translationKey": "micro-12167859-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué tiene de notable el tamaño de las células de SAR11?",
+   "options": [
+    "Son las bacterias más grandes conocidas",
+    "Son tan grandes como un glóbulo rojo",
+    "Cambian de tamaño con las mareas",
+    "De las células libres más pequeñas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Con un volumen de unos 0,01 µm³, están entre las células de vida libre más pequeñas cultivadas.",
+   "shortExplanation": "De las más pequeñas.",
+   "pmid": "12167859",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "places them among the smallest free-living cells in culture",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16267553-1-en",
+   "translationKey": "micro-16267553-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What does the proteorhodopsin of Pelagibacter ubique (SAR11) do?",
+   "options": [
+    "It fixes atmospheric nitrogen",
+    "It pumps protons using light",
+    "It degrades plastic in seawater",
+    "It produces oxygen like chlorophyll"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "It is a light-driven proton pump, although growth rates were the same in light and darkness.",
+   "shortExplanation": "Light-driven proton pump.",
+   "pmid": "16267553",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Pelagibacter proteorhodopsin functions as a light-dependent proton pump",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16267553-1-es",
+   "translationKey": "micro-16267553-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué hace la proteorrodopsina de Pelagibacter ubique (SAR11)?",
+   "options": [
+    "Fija nitrógeno atmosférico",
+    "Bombea protones usando luz",
+    "Degrada plástico en el agua de mar",
+    "Produce oxígeno como la clorofila"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Es una bomba de protones impulsada por luz, aunque el crecimiento fue igual con luz y en oscuridad.",
+   "shortExplanation": "Bomba de protones por luz.",
+   "pmid": "16267553",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Pelagibacter proteorhodopsin functions as a light-dependent proton pump",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-23407494-1-en",
+   "translationKey": "micro-23407494-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What did the isolation of \"pelagiphages\" show about SAR11?",
+   "options": [
+    "SAR11 is not immune to viruses",
+    "SAR11 cannot be infected at all",
+    "SAR11 is itself a giant virus",
+    "SAR11 lives only in fresh water"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Abundant SAR11 viruses exist, so its success reflects efficient resource use, not viral immunity.",
+   "shortExplanation": "Not immune to viruses.",
+   "pmid": "23407494",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This discovery disproves the theory that SAR11 cells are immune to viral predation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-23407494-1-es",
+   "translationKey": "micro-23407494-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué mostró el aislamiento de los \"pelagifagos\" sobre SAR11?",
+   "options": [
+    "Que SAR11 no es inmune a los virus",
+    "Que SAR11 no puede infectarse",
+    "Que SAR11 es un virus gigante",
+    "Que SAR11 vive solo en agua dulce"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Existen virus de SAR11 muy abundantes; su éxito se debe al uso eficiente de recursos, no a inmunidad viral.",
+   "shortExplanation": "No es inmune.",
+   "pmid": "23407494",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This discovery disproves the theory that SAR11 cells are immune to viral predation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-9624000-1-en",
+   "translationKey": "micro-9624000-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is Prochlorococcus?",
+   "options": [
+    "A giant marine virus",
+    "A toxic dinoflagellate",
+    "The dominant ocean phototroph",
+    "A deep-sea anaerobic archaeon"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "This tiny cyanobacterium dominates oxygenic photosynthesis in tropical and subtropical oceans.",
+   "shortExplanation": "Dominant phototroph.",
+   "pmid": "9624000",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The cyanobacterium Prochlorococcus is the dominant oxygenic phototroph in the tropical and subtropical regions of the world's oceans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-9624000-1-es",
+   "translationKey": "micro-9624000-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué es Prochlorococcus?",
+   "options": [
+    "Un virus marino gigante",
+    "Un dinoflagelado tóxico",
+    "El fotótrofo que domina el mar",
+    "Una arquea anaerobia de los abismos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Esta pequeña cianobacteria domina la fotosíntesis oxigénica en los océanos tropicales y subtropicales.",
+   "shortExplanation": "Fotótrofo dominante.",
+   "pmid": "9624000",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The cyanobacterium Prochlorococcus is the dominant oxygenic phototroph in the tropical and subtropical regions of the world's oceans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-9624000-2-en",
+   "translationKey": "micro-9624000-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How similar were the 16S rRNA genes of high- and low-light Prochlorococcus ecotypes?",
+   "options": [
+    "About 50% identical",
+    "About 97% identical",
+    "Completely unrelated",
+    "100% identical"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Despite opposite light physiologies, the co-isolates shared 97% 16S rRNA similarity.",
+   "shortExplanation": "~97%.",
+   "pmid": "9624000",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the co-isolates have 97% similarity in their 16S ribosomal RNA sequences",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-9624000-2-es",
+   "translationKey": "micro-9624000-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tan parecidos eran los genes 16S de los ecotipos de Prochlorococcus de luz alta y baja?",
+   "options": [
+    "Cerca de 50% idénticos",
+    "Cerca de 97% idénticos",
+    "Totalmente distintos",
+    "100% idénticos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Pese a fisiologías opuestas frente a la luz, compartían 97% de similitud en el ARNr 16S.",
+   "shortExplanation": "~97%.",
+   "pmid": "9624000",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the co-isolates have 97% similarity in their 16S ribosomal RNA sequences",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12944965-1-en",
+   "translationKey": "micro-12944965-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Why does cross-infection of Prochlorococcus and Synechococcus by cyanophages matter?",
+   "options": [
+    "It proves the hosts are one species",
+    "It shows phages cannot infect them",
+    "It means the phages make oxygen",
+    "It suggests horizontal gene transfer"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Phages that infect several hosts can move genes between them.",
+   "shortExplanation": "Gene transfer.",
+   "pmid": "12944965",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "suggesting a mechanism for horizontal gene transfer",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12944965-1-es",
+   "translationKey": "micro-12944965-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué importa que cianófagos infecten tanto a Prochlorococcus como a Synechococcus?",
+   "options": [
+    "Prueba que son una sola especie",
+    "Muestra que los fagos no los infectan",
+    "Significa que los fagos producen oxígeno",
+    "Sugiere transferencia horizontal de genes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los fagos que infectan a varios huéspedes pueden trasladar genes entre ellos.",
+   "shortExplanation": "Transferencia de genes.",
+   "pmid": "12944965",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "suggesting a mechanism for horizontal gene transfer",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-15308767-1-en",
+   "translationKey": "micro-15308767-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How do persister cells differ from resistant mutants?",
+   "options": [
+    "Their offspring stay sensitive",
+    "They carry resistance plasmids",
+    "They grow faster in the drug",
+    "They belong to a different species"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Persisters survive antibiotics without heritable resistance; regrown cultures are sensitive again.",
+   "shortExplanation": "Offspring stay sensitive.",
+   "pmid": "15308767",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Unlike resistant mutants, cells regrown from such persistent bacteria remain sensitive to the antibiotic",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-15308767-1-es",
+   "translationKey": "micro-15308767-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿En qué se diferencian las células persistentes de los mutantes resistentes?",
+   "options": [
+    "Su progenie sigue siendo sensible",
+    "Portan plásmidos de resistencia",
+    "Crecen más rápido con el fármaco",
+    "Pertenecen a una especie distinta"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las persistentes sobreviven sin resistencia heredable; sus cultivos vuelven a ser sensibles.",
+   "shortExplanation": "Su progenie es sensible.",
+   "pmid": "15308767",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Unlike resistant mutants, cells regrown from such persistent bacteria remain sensitive to the antibiotic",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-15308767-2-en",
+   "translationKey": "micro-15308767-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Using microfluidics on single E. coli cells, what did researchers find about persistence?",
+   "options": [
+    "It required a specific mutation",
+    "It appeared only after drug exposure",
+    "Cells switch to slow growth",
+    "It was caused by phage infection"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Preexisting heterogeneity: cells switch between normal growth and slow-growing persister states.",
+   "shortExplanation": "Phenotypic switch.",
+   "pmid": "15308767",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "phenotypic switching occurred between normally growing cells and persister cells having reduced growth rates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-15308767-2-es",
+   "translationKey": "micro-15308767-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Con microfluídica en células individuales de E. coli, ¿qué se halló sobre la persistencia?",
+   "options": [
+    "Requiere una mutación específica",
+    "Aparece solo tras exponerse al fármaco",
+    "Las células pasan a crecer lento",
+    "La causa una infección por fagos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Heterogeneidad previa: las células alternan entre crecimiento normal y un estado persistente lento.",
+   "shortExplanation": "Cambio fenotípico.",
+   "pmid": "15308767",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "phenotypic switching occurred between normally growing cells and persister cells having reduced growth rates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16469402-1-en",
+   "translationKey": "micro-16469402-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why was Mimivirus considered a \"giant\" virus?",
+   "options": [
+    "It infects whales and elephants",
+    "It causes enormous tumors",
+    "It was found in a giant amoeba",
+    "Its huge particle and genome"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mimivirus has a 750 nm particle, a 1.2 million bp genome and 911 protein-coding genes.",
+   "shortExplanation": "Huge particle and genome.",
+   "pmid": "16469402",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Its particle size (750 nm), genome length (1.2 million bp) and large gene repertoire (911 protein coding genes)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16469402-1-es",
+   "translationKey": "micro-16469402-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué Mimivirus se consideró un virus \"gigante\"?",
+   "options": [
+    "Porque infecta ballenas y elefantes",
+    "Porque causa tumores enormes",
+    "Porque se halló en una ameba gigante",
+    "Por su partícula y genoma enormes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mimivirus tiene una partícula de 750 nm, un genoma de 1,2 millones de pb y 911 genes codificantes.",
+   "shortExplanation": "Partícula y genoma enormes.",
+   "pmid": "16469402",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Its particle size (750 nm), genome length (1.2 million bp) and large gene repertoire (911 protein coding genes)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16469402-2-en",
+   "translationKey": "micro-16469402-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which genes in Mimivirus surprised researchers because they were thought to be cellular?",
+   "options": [
+    "Translation machinery genes",
+    "Genes for a peptidoglycan wall",
+    "Genes for chlorophyll synthesis",
+    "Genes for flagella"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "It encodes aminoacyl-tRNA synthetases and other translation components, once considered signatures of cells.",
+   "shortExplanation": "Translation genes.",
+   "pmid": "16469402",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including aminoacyl-tRNA synthetases and other central components of the translation machinery",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16469402-2-es",
+   "translationKey": "micro-16469402-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué genes de Mimivirus sorprendieron porque se creían exclusivos de células?",
+   "options": [
+    "Genes de la maquinaria de traducción",
+    "Genes de una pared de peptidoglucano",
+    "Genes para sintetizar clorofila",
+    "Genes de flagelos bacterianos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Codifica aminoacil-ARNt sintetasas y otros componentes de traducción, antes considerados firma de las células.",
+   "shortExplanation": "Genes de traducción.",
+   "pmid": "16469402",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including aminoacyl-tRNA synthetases and other central components of the translation machinery",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26300849-1-en",
+   "translationKey": "micro-26300849-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Where was the giant virus Pithovirus sibericum isolated from?",
+   "options": [
+    "A hot spring in Yellowstone",
+    "Ancient Siberian permafrost",
+    "A deep-sea hydrothermal vent",
+    "The frozen gut of a woolly mammoth"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Pithovirus was revived from Siberian permafrost dated over 30,000 years old.",
+   "shortExplanation": "Ancient permafrost.",
+   "pmid": "26300849",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "was isolated from a >30,000-year-old dated Siberian permafrost sample",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26300849-1-es",
+   "translationKey": "micro-26300849-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿De dónde se aisló el virus gigante Pithovirus sibericum?",
+   "options": [
+    "Una fuente termal de Yellowstone",
+    "Permafrost siberiano antiguo",
+    "Una fuente hidrotermal abisal",
+    "El intestino congelado de un mamut"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Pithovirus se revivió de permafrost siberiano de más de 30.000 años.",
+   "shortExplanation": "Permafrost antiguo.",
+   "pmid": "26300849",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "was isolated from a >30,000-year-old dated Siberian permafrost sample",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26300849-2-en",
+   "translationKey": "micro-26300849-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How does Pithovirus compare with pandoraviruses?",
+   "options": [
+    "Smaller particle, larger genome",
+    "Same particle and same genome size",
+    "Similar particle, shorter genome",
+    "It has no genome of its own at all"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Its virion is as large as a pandoravirus, but its genome is 3–4 times shorter.",
+   "shortExplanation": "Shorter genome.",
+   "pmid": "26300849",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This virion is as large as recently described pandoraviruses but has a genome that is approximately three to four times shorter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26300849-2-es",
+   "translationKey": "micro-26300849-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se compara Pithovirus con los pandoravirus?",
+   "options": [
+    "Partícula menor, genoma mayor",
+    "Igual partícula e igual genoma",
+    "Partícula similar, genoma corto",
+    "No tiene ningún genoma propio"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Su virión es tan grande como un pandoravirus, pero su genoma es 3–4 veces más corto.",
+   "shortExplanation": "Genoma más corto.",
+   "pmid": "26300849",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This virion is as large as recently described pandoraviruses but has a genome that is approximately three to four times shorter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-18524956-1-en",
+   "translationKey": "micro-18524956-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "In Lenski's long-term E. coli experiment, when did a citrate-using variant evolve?",
+   "options": [
+    "In every population by generation 500",
+    "Never, in any of the populations",
+    "In all 12 populations at once",
+    "In one population by ~31,500 generations"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Only one of 12 populations evolved Cit+, after more than 30,000 generations.",
+   "shortExplanation": "One population, ~31,500.",
+   "pmid": "18524956",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A citrate-using (Cit+) variant finally evolved in one population by 31,500 generations",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-18524956-1-es",
+   "translationKey": "micro-18524956-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "En el experimento de evolución a largo plazo de Lenski, ¿cuándo apareció una variante que usa citrato?",
+   "options": [
+    "En todas las poblaciones a la generación 500",
+    "Nunca, en ninguna población",
+    "En las 12 poblaciones a la vez",
+    "En una población, hacia la generación 31.500"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Solo una de 12 poblaciones evolucionó Cit+, después de más de 30.000 generaciones.",
+   "shortExplanation": "Una población, ~31.500.",
+   "pmid": "18524956",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A citrate-using (Cit+) variant finally evolved in one population by 31,500 generations",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-18524956-2-en",
+   "translationKey": "micro-18524956-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What did \"replaying\" evolution from frozen samples reveal about the Cit+ trait?",
+   "options": [
+    "It needed no prior mutations at all",
+    "An earlier mutation enabled it",
+    "It was caused by contamination",
+    "It appeared in ancestral cells too"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Later clones evolved Cit+ more readily: a potentiating change had occurred, so the trait was historically contingent.",
+   "shortExplanation": "Potentiating mutation.",
+   "pmid": "18524956",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "indicating that some potentiating mutation arose by 20,000 generations",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-18524956-2-es",
+   "translationKey": "micro-18524956-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué reveló \"repetir\" la evolución desde muestras congeladas sobre el rasgo Cit+?",
+   "options": [
+    "No necesitaba mutaciones previas",
+    "Una mutación previa lo hizo posible",
+    "Lo causó una contaminación del cultivo",
+    "También aparecía en las células ancestrales"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los clones tardíos evolucionaban Cit+ con más facilidad: hubo un cambio potenciador, un caso de contingencia histórica.",
+   "shortExplanation": "Mutación potenciadora.",
+   "pmid": "18524956",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "indicating that some potentiating mutation arose by 20,000 generations",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-8722758-1-en",
+   "translationKey": "micro-8722758-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "After 2,000 generations in glucose, how did the 12 E. coli populations compare in fitness on glucose?",
+   "options": [
+    "They improved by similar amounts",
+    "Only one population improved",
+    "All of them lost some fitness",
+    "They became unable to use glucose"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Fitness gains on glucose were parallel, while performance on unrelated nutrients varied much more.",
+   "shortExplanation": "Similar gains.",
+   "pmid": "8722758",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "All 12 derived genotypes improved in fitness by similar amounts in the glucose environment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-8722758-1-es",
+   "translationKey": "micro-8722758-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Tras 2.000 generaciones en glucosa, ¿cómo se compararon las 12 poblaciones de E. coli en glucosa?",
+   "options": [
+    "Mejoraron en cantidades similares",
+    "Solo una población mejoró",
+    "Todas perdieron algo de aptitud",
+    "Ya no podían usar la glucosa"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las mejoras en glucosa fueron paralelas, mientras que en nutrientes no relacionados variaron mucho más.",
+   "shortExplanation": "Mejoras similares.",
+   "pmid": "8722758",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "All 12 derived genotypes improved in fitness by similar amounts in the glucose environment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-10567266-1-en",
+   "translationKey": "micro-10567266-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How is the genome of Deinococcus radiodurans organized?",
+   "options": [
+    "A single circular chromosome only",
+    "Hundreds of tiny linear plasmids",
+    "Two chromosomes and two plasmids",
+    "An RNA genome inside a capsid"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "It has two chromosomes, a megaplasmid and a small plasmid, about 3.28 million bp in total.",
+   "shortExplanation": "Two chromosomes, two plasmids.",
+   "pmid": "10567266",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "composed of two chromosomes (2,648,638 and 412,348 base pairs), a megaplasmid (177,466 base pairs), and a small plasmid",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-10567266-1-es",
+   "translationKey": "micro-10567266-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo está organizado el genoma de Deinococcus radiodurans?",
+   "options": [
+    "Un único cromosoma circular",
+    "Cientos de pequeños plásmidos lineales",
+    "Dos cromosomas y dos plásmidos",
+    "Un genoma de ARN dentro de una cápside"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Tiene dos cromosomas, un megaplásmido y un plásmido pequeño, unos 3,28 millones de pb.",
+   "shortExplanation": "Dos cromosomas, dos plásmidos.",
+   "pmid": "10567266",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "composed of two chromosomes (2,648,638 and 412,348 base pairs), a megaplasmid (177,466 base pairs), and a small plasmid",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-15459345-1-en",
+   "translationKey": "micro-15459345-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which feature helps explain the extreme radiation resistance of Deinococcus radiodurans?",
+   "options": [
+    "A very thick lead-rich cell wall",
+    "High manganese, low iron",
+    "Spores that block all radiation",
+    "Living only in deep caves"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Radiation-resistant bacteria accumulate Mn(II); sensitive ones like Shewanella have high iron, low manganese.",
+   "shortExplanation": "High Mn, low Fe.",
+   "pmid": "15459345",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "D. radiodurans accumulates very high intracellular manganese and low iron levels compared with radiation-sensitive bacteria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-15459345-1-es",
+   "translationKey": "micro-15459345-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué rasgo ayuda a explicar la resistencia extrema a la radiación de Deinococcus radiodurans?",
+   "options": [
+    "Una pared muy gruesa rica en plomo",
+    "Mucho manganeso, poco hierro",
+    "Esporas que bloquean toda radiación",
+    "Vivir solo en cuevas profundas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las bacterias resistentes acumulan Mn(II); las sensibles como Shewanella tienen mucho hierro y poco manganeso.",
+   "shortExplanation": "Mucho Mn, poco Fe.",
+   "pmid": "15459345",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "D. radiodurans accumulates very high intracellular manganese and low iron levels compared with radiation-sensitive bacteria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-40140562-1-en",
+   "translationKey": "micro-40140562-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How does the lasso peptide antibiotic lariocidin kill bacteria?",
+   "options": [
+    "It dissolves the outer membrane",
+    "It blocks DNA gyrase",
+    "It inhibits cell wall cross-linking",
+    "It binds a new site on the ribosome"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Lariocidin binds a unique site on the 30S subunit, inhibiting translocation and causing miscoding.",
+   "shortExplanation": "Ribosome, new site.",
+   "pmid": "40140562",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "lariocidins bind at a unique site in the small ribosomal subunit",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-40140562-1-es",
+   "translationKey": "micro-40140562-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo mata a las bacterias el péptido lazo lariocidina?",
+   "options": [
+    "Disuelve la membrana externa",
+    "Bloquea la ADN girasa",
+    "Inhibe el entrecruzamiento de la pared",
+    "Se une a un sitio nuevo del ribosoma"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La lariocidina se une a un sitio único de la subunidad 30S, inhibe la translocación y causa errores de lectura.",
+   "shortExplanation": "Ribosoma, sitio nuevo.",
+   "pmid": "40140562",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "lariocidins bind at a unique site in the small ribosomal subunit",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-40140562-2-en",
+   "translationKey": "micro-40140562-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which organism produces the antibiotic lariocidin?",
+   "options": [
+    "A Paenibacillus bacterium",
+    "A Penicillium mold",
+    "A marine sponge",
+    "A Streptomyces from the gut"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Lariocidin and lariocidin B come from Paenibacillus sp. M2.",
+   "shortExplanation": "Paenibacillus.",
+   "pmid": "40140562",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "produced by Paenibacillus sp. M2",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-40140562-2-es",
+   "translationKey": "micro-40140562-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué organismo produce el antibiótico lariocidina?",
+   "options": [
+    "Una bacteria Paenibacillus",
+    "Un moho Penicillium",
+    "Una esponja marina",
+    "Un Streptomyces del intestino"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La lariocidina y la lariocidina B provienen de Paenibacillus sp. M2.",
+   "shortExplanation": "Paenibacillus.",
+   "pmid": "40140562",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "produced by Paenibacillus sp. M2",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-39553296-1-en",
+   "translationKey": "micro-39553296-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What makes the new antibiotic clovibactin promising?",
+   "options": [
+    "It is active only against fungi",
+    "It is cheap but very toxic",
+    "It kills MRSA without resistance",
+    "It works only when given with vancomycin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Clovibactin is highly active against S. aureus, including MRSA and VRSA, with no apparent resistance.",
+   "shortExplanation": "Kills MRSA/VRSA.",
+   "pmid": "39553296",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including methicillin-resistant and vancomycin-resistant S. aureus, with no apparent resistance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-39553296-1-es",
+   "translationKey": "micro-39553296-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué hace prometedor al nuevo antibiótico clovibactina?",
+   "options": [
+    "Solo actúa contra hongos",
+    "Es barato pero muy tóxico",
+    "Mata SARM sin generar resistencia",
+    "Solo funciona junto con vancomicina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La clovibactina es muy activa contra S. aureus, incluidos SARM y SARV, sin resistencia aparente.",
+   "shortExplanation": "Mata SARM y SARV.",
+   "pmid": "39553296",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including methicillin-resistant and vancomycin-resistant S. aureus, with no apparent resistance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-3319270-1-en",
+   "translationKey": "micro-3319270-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What was the most important lesson of the smallpox eradication programme?",
+   "options": [
+    "Relying on hospitals only",
+    "Measurable objectives and evaluation",
+    "Vaccinating only once per country",
+    "Keeping all data confidential"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Measurable goals, quality control of vaccines and performance, good personnel and applied research were key.",
+   "shortExplanation": "Measurable objectives.",
+   "pmid": "3319270",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the need to establish measurable objectives and to evaluate progress and performance in terms of these",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-3319270-1-es",
+   "translationKey": "micro-3319270-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál fue la lección más importante del programa de erradicación de la viruela?",
+   "options": [
+    "Depender solo de los hospitales",
+    "Objetivos medibles y evaluación",
+    "Vacunar una sola vez por país",
+    "Mantener todos los datos en secreto"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Fueron clave las metas medibles, el control de calidad de vacunas y del trabajo, el buen personal y la investigación aplicada.",
+   "shortExplanation": "Objetivos medibles.",
+   "pmid": "3319270",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the need to establish measurable objectives and to evaluate progress and performance in terms of these",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
