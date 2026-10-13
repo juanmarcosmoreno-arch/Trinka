@@ -1,5 +1,5 @@
 {
- "version": 24,
+ "version": 25,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -12355,6 +12355,332 @@
     "Journal Article",
     "Research Support, Non-U.S. Gov't",
     "Review"
+   ]
+  },
+  {
+   "pmid": "38683888",
+   "title": "Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Domestic Dairy Cattle and Cats, United States, 2024.",
+   "authors": [
+    "Burrough ER",
+    "Magstadt DR",
+    "Petersen B",
+    "Timmermans SJ",
+    "Gauger PC",
+    "Zhang J",
+    "Siepker C",
+    "Mainenti M",
+    "Li G",
+    "Thompson AC",
+    "Gorden PJ",
+    "Plummer PJ",
+    "Main R"
+   ],
+   "journal": "Emerging infectious diseases",
+   "year": 2024,
+   "doi": "10.3201/eid3007.240508",
+   "abstract": "We report highly pathogenic avian influenza A(H5N1) virus in dairy cattle and cats in Kansas and Texas, United States, which reflects the continued spread of clade 2.3.4.4b viruses that entered the country in late 2021. Infected cattle experienced nonspecific illness, reduced feed intake and rumination, and an abrupt drop in milk production, but fatal systemic influenza infection developed in domestic cats fed raw (unpasteurized) colostrum and milk from affected cows. Cow-to-cow transmission appears to have occurred because infections were observed in cattle on Michigan, Idaho, and Ohio farms where avian influenza virus-infected cows were transported. Although the US Food and Drug Administration has indicated the commercial milk supply remains safe, the detection of influenza virus in unpasteurized bovine milk is a concern because of potential cross-species transmission. Continued surveillance of highly pathogenic avian influenza viruses in domestic production animals is needed to prevent cross-species and mammal-to-mammal transmission.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39053575",
+   "title": "Spillover of highly pathogenic avian influenza H5N1 virus to dairy cattle.",
+   "authors": [
+    "Caserta LC",
+    "Frye EA",
+    "Butt SL",
+    "Laverack M",
+    "Nooruzzaman M",
+    "Covaleda LM",
+    "Thompson AC",
+    "Koscielny MP",
+    "Cronk B",
+    "Johnson A",
+    "Kleinhenz K",
+    "Edwards EE",
+    "Gomez G",
+    "Hitchener G",
+    "Martins M",
+    "Kapczynski DR",
+    "Suarez DL",
+    "Alexander Morris ER",
+    "Hensley T",
+    "Beeby JS",
+    "Lejeune M",
+    "Swinford AK",
+    "Elvinger F",
+    "Dimitrov KM",
+    "Diel DG"
+   ],
+   "journal": "Nature",
+   "year": 2024,
+   "doi": "10.1038/s41586-024-07849-4",
+   "abstract": "The highly pathogenic avian influenza (HPAI) H5N1 virus clade 2.3.4.4b has caused the death of millions of domestic birds and thousands of wild birds in the USA since January 2022 (refs. 1-4). Throughout this outbreak, spillovers to mammals have been frequently documented5-12. Here we report spillover of the HPAI H5N1 virus to dairy cattle across several states in the USA. The affected cows displayed clinical signs encompassing decreased feed intake, altered faecal consistency, respiratory distress and decreased milk production with abnormal milk. Infectious virus and viral RNA were consistently detected in milk from affected cows. Viral distribution in tissues via immunohistochemistry and in situ hybridization revealed a distinct tropism of the virus for the epithelial cells lining the alveoli of the mammary gland in cows. Whole viral genome sequences recovered from dairy cows, birds, domestic cats and a raccoon from affected farms indicated multidirectional interspecies transmissions. Epidemiological and genomic data revealed efficient cow-to-cow transmission after apparently healthy cows from an affected farm were transported to a premise in a different state. These results demonstrate the transmission of the HPAI H5N1 clade 2.3.4.4b virus at a non-traditional interface, underscoring the ability of the virus to cross species barriers.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "19278295",
+   "title": "Transmission dynamics and prospects for the elimination of canine rabies.",
+   "authors": [
+    "Hampson K",
+    "Dushoff J",
+    "Cleaveland S",
+    "Haydon DT",
+    "Kaare M",
+    "Packer C",
+    "Dobson A"
+   ],
+   "journal": "PLoS biology",
+   "year": 2009,
+   "doi": "10.1371/journal.pbio.1000053",
+   "abstract": "Rabies has been eliminated from domestic dog populations in Western Europe and North America, but continues to kill many thousands of people throughout Africa and Asia every year. A quantitative understanding of transmission dynamics in domestic dog populations provides critical information to assess whether global elimination of canine rabies is possible. We report extensive observations of individual rabid animals in Tanzania and generate a uniquely detailed analysis of transmission biology, which explains important epidemiological features, including the level of variation in epidemic trajectories. We found that the basic reproductive number for rabies, R0, is very low in our study area in rural Africa (approximately 1.2) and throughout its historic global range (<2). This finding provides strong support for the feasibility of controlling endemic canine rabies by vaccination, even near wildlife areas with large wild carnivore populations. However, we show that rapid turnover of domestic dog populations has been a major obstacle to successful control in developing countries, thus regular pulse vaccinations will be required to maintain population-level immunity between campaigns. Nonetheless our analyses suggest that with sustained, international commitment, global elimination of rabies from domestic dog populations, the most dangerous vector to humans, is a realistic goal.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "30747125",
+   "title": "Proof of concept of mass dog vaccination for thecontrol and elimination of canine rabies.",
+   "authors": [
+    "Cleaveland S",
+    "Thumbi SM",
+    "Sambo M",
+    "Lugelo A",
+    "Lushasi K",
+    "Hampson K",
+    "Lankester F"
+   ],
+   "journal": "Revue scientifique et technique (International Office of Epizootics)",
+   "year": 2018,
+   "doi": "10.20506/rst.37.2.2824",
+   "abstract": "For more than 100 years, canine rabies vaccination has been available as a tool for rabies control and elimination. However, domestic dogs still remain a major reservoir for rabies, and although canine rabies has been eliminated through mass dog vaccination in some parts of the world, the disease continues to kill tens of thousands of people every year in Africa and Asia. This review focuses on the situation on those two continents, presenting evidence to show that canine rabies elimination is both epidemiologically and operationally feasible, and could be achieved across a wide range of settings in Africa and Asia. The challenges of achieving the large-scale, comprehensive dog vaccination coverage that is required are discussed, and opportunities for developing new strategies that generate multiple benefits for human and animal health and welfare are highlighted. Finally, the substantial progress that has been made in developing the tools, partnerships and frameworks needed to move towards global canine rabies elimination is outlined.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38217891",
+   "title": "Global antimicrobial use in livestock farming: an estimate for cattle, chickens, and pigs.",
+   "authors": [
+    "Ardakani Z",
+    "Aragrande M",
+    "Canali M"
+   ],
+   "journal": "Animal : an international journal of animal bioscience",
+   "year": 2024,
+   "doi": "10.1016/j.animal.2023.101060",
+   "abstract": "Livestock farming substantially contributes to the global economy and food security. However, it poses crucial environmental, animal welfare, and public health challenges. The main objective of this study is to quantify the global antimicrobial use (AMU) in cattle, chicken, and pig farming. This information is important for understanding the potential impact of farm AMU on the emergence and spread of antimicrobial resistance among animals and humans. Using the United States Department of Agriculture Production, Supply, and Distribution and the Food and Agriculture Organization databases, we estimated the total supply of cattle (in heads) and its distribution into four weight categories: calves (26%), cows (41%), heifers (4%), and bulls of more than one year (29%). Similarly, we calculated the total supply of pigs (in heads) and divided it into two weight categories: pigs (96%) and sows (4%). For chickens, we considered one weight category. We attributed to each category a standard weight according to the parameters set by the European Medicines Agency (EMA) to determine the animal biomass at risk of antimicrobial treatment, or population correction unit (PCU). Finally, we estimated the global PCUs and then the global AMU based on the average administered to the three species (in mg of active ingredients per kg PCU). With this method, we estimated a global annual AMU of 76 060 tonnes of antimicrobial active ingredients (2019-2021 average), of which 40 697 tonnes (or 53.5%) for cattle, 4 243 tonnes (or 5.6%) for chickens, and 31 120 tonnes (or 40.9%) for pigs. According to our assessment, global AMU leads to almost 20 000 tonnes less than the previous estimates due to a different evaluation of PCUs. In previous studies, PCUs were calculated on the liveweight at slaughtering of animals, while our method considers the age and sex of animals and their average weight at treatment. Our results are consistent with the World Organization for Animal Health (WOAH) estimate of 76 704 tonnes of veterinary antimicrobials globally consumed in 2018 for the total of food-producing animals (the WOAH estimation is based on sales and import data).",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "26601441",
+   "title": "Schmallenberg virus infection.",
+   "authors": [
+    "Wernike K",
+    "Elbers A",
+    "Beer M"
+   ],
+   "journal": "Revue scientifique et technique (International Office of Epizootics)",
+   "year": 2015,
+   "doi": "10.20506/rst.34.2.2363",
+   "abstract": "Since Schmallenberg virus, an orthobunyavirus of the Simbu serogroup, was identified near the German-Dutch border for the first time in late 2011 it has spread extremely quickly and caused a large epidemic in European livestock. The virus, which is transmitted by Culicoides biting midges, infects domestic and wild ruminants. Adult animals show only mild clinical symptoms or none at all, whereas an infection during a critical period of gestation can lead to abortion, stillbirth or the birth of severely malformed offspring. The impact of the disease is usually greater in sheep than in cattle. Vaccination could be an important aspect of disease control.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37112799",
+   "title": "Stopping Feline Coronavirus Shedding Prevented Feline Infectious Peritonitis.",
+   "authors": [
+    "Addie DD",
+    "Bellini F",
+    "Covell-Ritchie J",
+    "Crowe B",
+    "Curran S",
+    "Fosbery M",
+    "Hills S",
+    "Johnson E",
+    "Johnson C",
+    "Lloyd S",
+    "Jarrett O"
+   ],
+   "journal": "Viruses",
+   "year": 2023,
+   "doi": "10.3390/v15040818",
+   "abstract": "After an incubation period of weeks to months, up to 14% of cats infected with feline coronavirus (FCoV) develop feline infectious peritonitis (FIP): a potentially lethal pyogranulomatous perivasculitis. The aim of this study was to find out if stopping FCoV faecal shedding with antivirals prevents FIP. Guardians of cats from which FCoV had been eliminated at least 6 months earlier were contacted to find out the outcome of their cats; 27 households were identified containing 147 cats. Thirteen cats were treated for FIP, 109 cats shed FCoV and 25 did not; a 4-7-day course of oral GS-441524 antiviral stopped faecal FCoV shedding. Follow-up was from 6 months to 3.5 years; 11 of 147 cats died, but none developed FIP. A previous field study of 820 FCoV-exposed cats was used as a retrospective control group; 37 of 820 cats developed FIP. The difference was statistically highly significant (p = 0.0062). Cats from eight households recovered from chronic FCoV enteropathy. Conclusions: the early treatment of FCoV-infected cats with oral antivirals prevented FIP. Nevertheless, should FCoV be re-introduced into a household, then FIP can result. Further work is required to establish the role of FCoV in the aetiology of feline inflammatory bowel disease.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34676775",
+   "title": "Investigation of monotherapy and combined anticoronaviral therapies against feline coronavirus serotype II in vitro.",
+   "authors": [
+    "Cook SE",
+    "Vogel H",
+    "Castillo D",
+    "Olsen M",
+    "Pedersen N",
+    "Murphy BG"
+   ],
+   "journal": "Journal of feline medicine and surgery",
+   "year": 2022,
+   "doi": "10.1177/1098612X211048647",
+   "abstract": "OBJECTIVES: Feline infectious peritonitis (FIP), caused by genetic mutants of feline enteric coronavirus known as FIPV, is a highly fatal disease of cats with no currently available vaccine or US Food and Drug Administration-approved cure. Dissemination of FIPV in affected cats results in a range of clinical signs, including cavitary effusions, anorexia, fever and lesions of pyogranulomatous vasculitis and perivasculitis, with or without central nervous system or ocular involvement. The objectives of this study were to screen an array of antiviral compounds for anti-FIPV (serotype II) activity, determine cytotoxicity safety profiles of identified compounds with anti-FIPV activity and strategically combine identified monotherapies to assess compound synergy against FIPV in vitro. Based upon clinically successful combination treatment strategies for human patients with HIV and hepatitis C virus infections, we hypothesized that a combined anticoronaviral therapy approach featuring concurrent multiple mechanisms of drug action would result in an additive or synergistic antiviral effect.\nMETHODS: This study screened 90 putative antiviral compounds for efficacy and cytotoxicity using a multimodal in vitro strategy, including plaque bioassays, real-time RT-PCR viral inhibition and cytotoxicity assays.\nRESULTS: Through this process, we identified 26 compounds with effective antiviral activity against FIPV, representing a variety of drug classes and mechanisms of antiviral action. The most effective compounds include GC376, GS-441524, EIDD2081 and EIDD2931. We documented antiviral efficacy for combinations of antiviral agents, with a few examined drug combinations demonstrating evidence of limited synergistic antiviral activity.\nCONCLUSIONS AND RELEVANCE: Although evidence of compound synergy was identified for several combinations of antiviral agents, monotherapies were ultimately determined to be the most effective in the inhibition of viral transcription.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "24597674",
+   "title": "Vaccine-associated Leptospira antibodies in client-owned dogs.",
+   "authors": [
+    "Martin LE",
+    "Wiggans KT",
+    "Wennogle SA",
+    "Curtis K",
+    "Chandrashekar R",
+    "Lappin MR"
+   ],
+   "journal": "Journal of veterinary internal medicine",
+   "year": 2014,
+   "doi": "10.1111/jvim.12337",
+   "abstract": "BACKGROUND: Long-term microscopic agglutination test (MAT) results after vaccination with 4-serovar Leptospira vaccines are not available for all vaccines used in client-owned dogs.\nHYPOTHESIS/OBJECTIVES: To determine antibody responses of client-owned dogs given 1 of 4 commercially available Leptospira vaccines.\nANIMALS: Healthy client-owned dogs (n = 32) with no history of Leptospira vaccination for at least the previous year.\nMETHODS: Dogs were given 1 of 4 Leptospira vaccines on week 0 and then approximately on week 3 and week 52. Sera were collected before vaccine administration on week 0 and then within 3 days of week 3, within 2 days of week 4, and approximately on weeks 7, 15, 29, 52, and 56. Antibody titers against Leptospira serovars bratislava, canicola, grippotyphosa, hardjo, icterohemorrhagiae, and pomona and were determined by MAT.\nRESULTS: When compared among vaccines, MAT results varied in maximal titers, the serovars inducing maximal titers, and the time required to reach maximal titers. Each vaccine induced at least some MAT titers ≥1 : 800. Most dogs were negative for antibodies against all serovars 1 year after vaccination, and anamnestic responses were variable.\nCONCLUSIONS AND CLINICAL IMPORTANCE: Dogs vaccinated with Leptospira vaccines have variable MAT titers over time, and antibodies should not be used to predict resistance to Leptospira infection. MAT titers ≥1 : 800 can develop after Leptospira spp. vaccination, which can complicate the clinical diagnosis of leptospirosis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "16971422",
+   "title": "Molecular epidemiology of the foot-and-mouth disease virus outbreak in the United Kingdom in 2001.",
+   "authors": [
+    "Cottam EM",
+    "Haydon DT",
+    "Paton DJ",
+    "Gloster J",
+    "Wilesmith JW",
+    "Ferris NP",
+    "Hutchings GH",
+    "King DP"
+   ],
+   "journal": "Journal of virology",
+   "year": 2006,
+   "doi": "10.1128/JVI.01236-06",
+   "abstract": "The objective of this study was to quantify the extent to which the genetic diversity of foot-and-mouth disease virus (FMDV) arising over the course of infection of an individual animal becomes fixed, is transmitted to other animals, and thereby accumulates over the course of an outbreak. Complete consensus sequences of 23 genomes (each of 8,200 nucleotides) of FMDV were recovered directly from epithelium tissue acquired from 21 farms infected over a nearly 7-month period during the 2001 FMDV outbreak in the United Kingdom. An analysis of these consensus sequences revealed very few apparently ambiguous sites but clear evidence of 197 nucleotide substitutions at 191 different sites. We estimated the rate of nucleotide substitution to be 2.26 x 10(-5) per site per day (95% confidence interval [CI], 1.75 x 10(-5) to 2.80 x 10(-5)) and nucleotide substitutions to accrue in the consensus sequence at an average rate of 1.5 substitutions per farm infection. This is a sufficiently high rate showing that detailed histories of the transmission pathways can be reliably reconstructed. Coalescent methods indicated that the date at which FMDV first infected livestock in the United Kingdom was 7 February 2001 (95% CI, 20 January to 19 February 2001), which was identical to estimates obtained on the basis of purely clinical evidence. Nucleotide changes appeared to have occurred evenly across the genome, and within the open reading frame, the ratio of nonsynonymous-to-synonymous change was 0.09. The ability to recover particular transmission pathways of acutely acting RNA pathogens from genetic data will help resolve uncertainties about how virus is spread and could help in the control of future epidemics.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23273733",
+   "title": "Factors affecting Bluetongue serotype 8 spread in Northern Europe in 2006: the geographical epidemiology.",
+   "authors": [
+    "Faes C",
+    "van der Stede Y",
+    "Guis H",
+    "Staubach C",
+    "Ducheyne E",
+    "Hendrickx G",
+    "Mintiens K"
+   ],
+   "journal": "Preventive veterinary medicine",
+   "year": 2013,
+   "doi": "10.1016/j.prevetmed.2012.11.026",
+   "abstract": "In 2006, Bluetongue serotype 8 was notified for the first time in north-western Europe, more specifically in Belgium, the Netherlands, Luxemburg, Germany and France. The disease spread very rapidly, affecting mainly cattle and sheep farms. In this paper, we examined risk factors affecting the spatial incidence of reported Bluetongue events during the first outbreak in 2006. Previous studies suggested that the Bluetongue incidence was enhanced by environmental factors, such as temperature and wind speed and direction, as well as by human interventions, such as the transport of animals. In contrast to the previous studies, which were based on univariable analyses, a multivariable epidemiological analysis describing the spatial relationship between Bluetongue incidence and possible risk factors is proposed in this paper. This disentangles the complex interplay between different risk factors. Our model shows that wind is the most important factor affecting the incidence of the disease. In addition, areas with high precipitation are slightly more sensitive to the spread of the infection via the wind. Another important risk factor is the land cover; high-risk areas for infection being characterized by a fragmentation of the land cover, especially the combination of forests and urban areas. Precipitation and temperature are also significant risk factors. High precipitation in areas with a large coverage of forests and/or pasture increases the risk whereas high temperature increases the risk considerably in municipalities covered mainly with pasture. Local spread via the vector is strongest in areas with a large coverage of forests and smallest in highly urbanized areas. Finally, the transport of animals from infected areas is a risk factor.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29279081",
+   "title": "Toxoplasma gondii: A study of oocyst re-shedding in domestic cats.",
+   "authors": [
+    "Zulpo DL",
+    "Sammi AS",
+    "Dos Santos JR",
+    "Sasse JP",
+    "Martins TA",
+    "Minutti AF",
+    "Cardim ST",
+    "de Barros LD",
+    "Navarro IT",
+    "Garcia JL"
+   ],
+   "journal": "Veterinary parasitology",
+   "year": 2018,
+   "doi": "10.1016/j.vetpar.2017.10.021",
+   "abstract": "The aim of the present study was to evaluate the re-shedding of T. gondii oocysts in cats fed tissue cysts of homologous and heterologous strains 12, 24 and 36 months after the first infection. Thirteen cats were used in the present study and were divided into four groups: G1 (n=2), G2 (n=3), G3 (n=5), and G4 (n=3). G1, G3 and G4 cats were infected with brain cysts of ME49 and G2 with TgDoveBr8, both genotype II strains of T. gondii. The G1 and G2 cats were re-infected after twelve months with brain cysts of VEG strain (genotype III), and G3 cats were re-infected with TgDoveBr1 (genotype II). The G3 cats were re-infected a third time after 24 months from the second infection, and the G4 cats were re-infected 36 months after the initial infection with cysts of the VEG strain. The cats' feces were evaluated using fecal flotation and genotyped with PCR-RFLP. The serological responses for IgM, IgA and IgG were determined by ELISA. All cats shed oocysts after the initial infection. Only one G1 cat shed oocysts when re-infected after twelve months with the VEG strain. No G2 cats excreted oocysts after the second infection with VEG. G3 cats, when re-infected after twelve months with the TgDoveBr1 strain, did not shed oocysts. However, when challenged after a third time with the VEG strain, three out of four cats shed oocysts. In the G4 group, when re-infected after thirty-six months with the VEG strain, two out of three cats shed oocysts. All oocyst samples were genotyped and characterized as the same genotype from the inoculum. Protection against oocyst re-excretion occurred in 90%, 25%, and 33.4% of cats after 12, 24, and 36 months from the initial infection, respectively. Therefore, the environmental contamination by oocysts from re-infected adult cats is only 30% lower than from kittens. In conclusion, the excretion of T. gondii oocysts was higher in experimentally re-infected cats throughout the years, especially when a heterologous strain was used.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38576256",
+   "title": "Baiting not-owned dogs against Echinococcus granulosus: innovative tools for integrated control.",
+   "authors": [
+    "Ciccone E",
+    "Bosco A",
+    "Pepe P",
+    "Nocerino M",
+    "Lattero N",
+    "Umhang G",
+    "AbdElkarim L",
+    "Lahmar S",
+    "Said Y",
+    "Saralli G",
+    "Piegari G",
+    "Alterisio MC",
+    "Baka R",
+    "Sotiraki S",
+    "Boué F",
+    "Rinaldi L"
+   ],
+   "journal": "Parasitology",
+   "year": 2024,
+   "doi": "10.1017/S0031182024000258",
+   "abstract": "Cystic echinococcosis (CE), caused by the larval stage of the cestode Echinococcus granulosus, is one of the most widespread zoonoses in Mediterranean countries. Baiting not-owned dogs with praziquantel (PZQ), due to their key role in the maintaining the transmission of CE, currently appears to be the most effective way to limit the transmission of CE, as well as an important aspect to introduce for the control of this parasitic disease. Therefore, this study aims to test 3 types of PZQ-based baits by evaluating different parameters (integrity over time, attractiveness and palatability for dogs, and mechanical resistance after release to different altitudes) and the bait acceptance in field by target animals, i.e. not-owned dogs, by using camera traps. The double PZQ-laced baits (with a double layer of highly palatable chews) showed the greatest resistance in the environment while also preserving the attractiveness and palatability up to 10 days, also withstood heights of 25 m, thus resulting as the most suitable also for drone delivery. The results on the field showed that most of the baits were consumed by not-owned dogs (82.2%), while the remaining were consumed by wild boars (8.9%), foxes (6.7%), badgers (1.1%) and hedgehogs (1.1%), confirming the specific and high attractiveness of the double PZQ-laced baits for the target population and highlights how an anthelmintic baiting programme may be a viable tool for the management of E. granulosus among free-ranging dog populations in endemic rural areas.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34399298",
+   "title": "Canine parvovirus is shed infrequently by cats without diarrhoea in multi-cat environments.",
+   "authors": [
+    "Carrai M",
+    "Decaro N",
+    "Van Brussel K",
+    "Dall'Ara P",
+    "Desario C",
+    "Fracasso M",
+    "Šlapeta J",
+    "Colombo E",
+    "Bo S",
+    "Beatty JA",
+    "Meers J",
+    "Barrs VR"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 2021,
+   "doi": "10.1016/j.vetmic.2021.109204",
+   "abstract": "Whether subclinical shedding of canine parvovirus (CPV) by cats might contribute to the epidemiology of canine CPV infections, particularly in facilities housing both cats and dogs, requires clarification. Conflicting results are reported to date. Using conventional PCR (cPCR) to amplify the VP2 gene, shedding of the CPV variants (CPV-2a, 2b, 2c) by healthy cats in multi-cat environments was reportedly common in Europe but rare in Australia. The aim of this study was to determine whether low-level faecal CPV shedding occurs in multi-cat environments in Australia and Italy using a TaqMan real-time PCR to detect Carnivore protoparvovirus 1 (CPV and feline parvovirus, FPV) DNA, and minor-groove binder probe real-time PCR assay to differentiate FPV and CPV types and to characterize CPV variants. In total, 741 non-diarrhoeic faecal samples from shelters in Australia (n = 263) and from shelters or cat colonies in Italy (n = 478) were tested. Overall, Carnivore protoparvovirus 1 DNA was detected in 49 of 741 (6.61 %) samples. Differentiation was possible for 31 positive samples. FPV was most common among positive samples (28/31, 90.3 %). CPV was detected in 4/31 samples (12.9 %) including CPV-2a in one sample, CPV-2b in another and co-infections of FPV/CPV-2b and CPV-2a/CPV-2b in the remaining two samples. A high rate of subclinical FPV infection was detected in one shelter during an outbreak of feline panleukopenia, during which 21 of 22 asymptomatic cats (95.5 %) sampled were shedding FPV. Faecal shedding of CPV by cats in multi-cat environments is uncommon suggesting that domestic cats are not significant reservoirs of CPV.",
+   "publicationTypes": [
+    "Journal Article"
    ]
   }
  ],
@@ -78452,6 +78778,1062 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "In the absence of the brown adipose tissue, maintenance of body temperature (Tb) in birds is generally believed to be by shivering thermogenesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38683888-1-en",
+   "translationKey": "vet-38683888-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which sign did dairy cows infected with H5N1 avian influenza show in the US in 2024?",
+   "options": [
+    "Hair loss",
+    "Lameness only",
+    "An abrupt drop in milk production",
+    "Blindness"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Infected cows had nonspecific illness, reduced feed intake and rumination, and an abrupt drop in milk.",
+   "shortExplanation": "Milk drop.",
+   "pmid": "38683888",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "an abrupt drop in milk production",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38683888-1-es",
+   "translationKey": "vet-38683888-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué signo mostraron las vacas lecheras infectadas con influenza aviar H5N1 en EE. UU. en 2024?",
+   "options": [
+    "Caída del pelo",
+    "Solo cojera",
+    "Una caída brusca de la producción de leche",
+    "Ceguera"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las vacas infectadas tuvieron enfermedad inespecífica, menor consumo y rumia, y una caída brusca de la leche.",
+   "shortExplanation": "Caída de leche.",
+   "pmid": "38683888",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "an abrupt drop in milk production",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38683888-2-en",
+   "translationKey": "vet-38683888-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What happened to cats on farms with H5N1-infected cows?",
+   "options": [
+    "Cats fed raw milk from affected cows developed fatal influenza",
+    "Cats were immune",
+    "Cats protected the cows",
+    "Cats only had mild colds"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Raw (unpasteurized) milk transmitted the virus to cats, a warning about cross-species transmission.",
+   "shortExplanation": "Fatal in cats via raw milk.",
+   "pmid": "38683888",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "fatal systemic influenza infection developed in domestic cats fed raw (unpasteurized) colostrum and milk from affected cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38683888-2-es",
+   "translationKey": "vet-38683888-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué les pasó a los gatos de tambos con vacas infectadas por H5N1?",
+   "options": [
+    "Los gatos alimentados con leche cruda de vacas afectadas desarrollaron influenza mortal",
+    "Eran inmunes",
+    "Protegieron a las vacas",
+    "Solo tuvieron resfríos leves"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La leche cruda (sin pasteurizar) transmitió el virus a los gatos, una alerta sobre la transmisión entre especies.",
+   "shortExplanation": "Mortal en gatos por leche cruda.",
+   "pmid": "38683888",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "fatal systemic influenza infection developed in domestic cats fed raw (unpasteurized) colostrum and milk from affected cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39053575-1-en",
+   "translationKey": "vet-39053575-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which tissue did H5N1 show a distinct tropism for in dairy cows?",
+   "options": [
+    "Hoof epithelium",
+    "Brain neurons",
+    "Skeletal muscle",
+    "Epithelial cells lining the alveoli of the mammary gland"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Virus replicated in mammary alveolar epithelium, explaining abundant virus in milk.",
+   "shortExplanation": "Mammary epithelium.",
+   "pmid": "39053575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a distinct tropism of the virus for the epithelial cells lining the alveoli of the mammary gland in cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39053575-1-es",
+   "translationKey": "vet-39053575-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué tejido mostró H5N1 un tropismo marcado en vacas lecheras?",
+   "options": [
+    "Epitelio del casco",
+    "Neuronas cerebrales",
+    "Músculo esquelético",
+    "Células epiteliales que recubren los alvéolos de la glándula mamaria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El virus se replicó en el epitelio alveolar mamario, lo que explica la gran cantidad de virus en la leche.",
+   "shortExplanation": "Epitelio mamario.",
+   "pmid": "39053575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a distinct tropism of the virus for the epithelial cells lining the alveoli of the mammary gland in cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39053575-2-en",
+   "translationKey": "vet-39053575-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "What did whole-genome sequencing reveal about H5N1 on affected dairy farms?",
+   "options": [
+    "Only birds were infected",
+    "Multidirectional transmission among cows, birds, cats and a raccoon",
+    "The virus came from pigs",
+    "No genetic data were obtained"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sequences showed transmission in several directions between species, and efficient cow-to-cow spread after cattle movement.",
+   "shortExplanation": "Multidirectional.",
+   "pmid": "39053575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Whole viral genome sequences recovered from dairy cows, birds, domestic cats and a raccoon from affected farms indicated multidirectional interspecies transmissions",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39053575-2-es",
+   "translationKey": "vet-39053575-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué reveló la secuenciación genómica de H5N1 en tambos afectados?",
+   "options": [
+    "Solo se infectaron aves",
+    "Transmisión multidireccional entre vacas, aves, gatos y un mapache",
+    "El virus vino de cerdos",
+    "No se obtuvieron datos genéticos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las secuencias mostraron transmisión en varias direcciones entre especies y contagio eficiente entre vacas tras su traslado.",
+   "shortExplanation": "Multidireccional.",
+   "pmid": "39053575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Whole viral genome sequences recovered from dairy cows, birds, domestic cats and a raccoon from affected farms indicated multidirectional interspecies transmissions",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19278295-1-en",
+   "translationKey": "vet-19278295-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What was the basic reproductive number (R0) of canine rabies in rural Tanzania?",
+   "options": [
+    "About 15",
+    "About 5",
+    "About 1.2",
+    "Zero"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "A low R0 (<2 historically) supports the feasibility of controlling rabies by dog vaccination.",
+   "shortExplanation": "~1.2.",
+   "pmid": "19278295",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the basic reproductive number for rabies, R0, is very low in our study area in rural Africa (approximately 1.2)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19278295-1-es",
+   "translationKey": "vet-19278295-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál fue el número reproductivo básico (R0) de la rabia canina en Tanzania rural?",
+   "options": [
+    "Alrededor de 15",
+    "Alrededor de 5",
+    "Alrededor de 1,2",
+    "Cero"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Un R0 bajo (<2 históricamente) respalda la factibilidad de controlar la rabia vacunando perros.",
+   "shortExplanation": "~1,2.",
+   "pmid": "19278295",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the basic reproductive number for rabies, R0, is very low in our study area in rural Africa (approximately 1.2)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19278295-2-en",
+   "translationKey": "vet-19278295-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What has been a major obstacle to controlling canine rabies in developing countries?",
+   "options": [
+    "Rapid turnover of domestic dog populations",
+    "Lack of any vaccine",
+    "Rabies only infects wildlife",
+    "Dogs cannot be vaccinated"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Births and deaths quickly dilute immunity, so regular pulse vaccination is needed between campaigns.",
+   "shortExplanation": "Dog population turnover.",
+   "pmid": "19278295",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "rapid turnover of domestic dog populations has been a major obstacle to successful control in developing countries",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19278295-2-es",
+   "translationKey": "vet-19278295-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál ha sido un obstáculo importante para controlar la rabia canina en países en desarrollo?",
+   "options": [
+    "El rápido recambio de la población de perros",
+    "La falta de vacuna",
+    "Que la rabia solo infecta fauna",
+    "Que no se puede vacunar a los perros"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los nacimientos y muertes diluyen rápido la inmunidad, por eso hacen falta vacunaciones periódicas entre campañas.",
+   "shortExplanation": "Recambio de perros.",
+   "pmid": "19278295",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "rapid turnover of domestic dog populations has been a major obstacle to successful control in developing countries",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30747125-1-en",
+   "translationKey": "vet-30747125-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Which animal remains the major reservoir for human rabies in Africa and Asia?",
+   "options": [
+    "Cats",
+    "Cows",
+    "Bats only",
+    "Domestic dogs"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Dogs cause most human rabies deaths there; mass dog vaccination is the proven control strategy.",
+   "shortExplanation": "Dogs.",
+   "pmid": "30747125",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "domestic dogs still remain a major reservoir for rabies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30747125-1-es",
+   "translationKey": "vet-30747125-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Qué animal sigue siendo el principal reservorio de la rabia humana en África y Asia?",
+   "options": [
+    "Los gatos",
+    "Las vacas",
+    "Solo los murciélagos",
+    "Los perros domésticos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los perros causan allí la mayoría de las muertes humanas por rabia; vacunarlos masivamente es la estrategia probada.",
+   "shortExplanation": "Perros.",
+   "pmid": "30747125",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "domestic dogs still remain a major reservoir for rabies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38217891-1-en",
+   "translationKey": "vet-38217891-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "About how many tonnes of antimicrobials are used each year in cattle, chicken and pig farming worldwide?",
+   "options": [
+    "About 760 tonnes",
+    "About 76,000 tonnes",
+    "About 7.6 million tonnes",
+    "About 76 tonnes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Estimated 76,060 tonnes per year (2019–2021 average), consistent with WOAH estimates.",
+   "shortExplanation": "~76,000 t.",
+   "pmid": "38217891",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we estimated a global annual AMU of 76 060 tonnes of antimicrobial active ingredients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38217891-1-es",
+   "translationKey": "vet-38217891-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Aproximadamente cuántas toneladas de antimicrobianos se usan por año en la cría de bovinos, pollos y cerdos en el mundo?",
+   "options": [
+    "Unas 760 t",
+    "Unas 76.000 t",
+    "Unos 7,6 millones de t",
+    "Unas 76 t"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Se estimaron 76.060 toneladas anuales (promedio 2019–2021), en línea con las estimaciones de la OMSA.",
+   "shortExplanation": "~76.000 t.",
+   "pmid": "38217891",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we estimated a global annual AMU of 76 060 tonnes of antimicrobial active ingredients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38217891-2-en",
+   "translationKey": "vet-38217891-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which livestock species accounted for the largest share of global antimicrobial use in this estimate?",
+   "options": [
+    "Chickens",
+    "Pigs",
+    "Cattle (about 53%)",
+    "Sheep"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Cattle 53.5%, pigs 40.9% and chickens 5.6% of the estimated global use.",
+   "shortExplanation": "Cattle.",
+   "pmid": "38217891",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "of which 40 697 tonnes (or 53.5%) for cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38217891-2-es",
+   "translationKey": "vet-38217891-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué especie de producción concentró la mayor parte del uso mundial de antimicrobianos en esta estimación?",
+   "options": [
+    "Pollos",
+    "Cerdos",
+    "Bovinos (alrededor de 53%)",
+    "Ovinos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Bovinos 53,5%, cerdos 40,9% y pollos 5,6% del uso mundial estimado.",
+   "shortExplanation": "Bovinos.",
+   "pmid": "38217891",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "of which 40 697 tonnes (or 53.5%) for cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26601441-1-en",
+   "translationKey": "vet-26601441-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "How is Schmallenberg virus transmitted?",
+   "options": [
+    "By ticks",
+    "By contaminated feed",
+    "By direct contact only",
+    "By Culicoides biting midges"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Schmallenberg virus, first found in 2011 near the German-Dutch border, spreads via Culicoides midges.",
+   "shortExplanation": "Midges.",
+   "pmid": "26601441",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which is transmitted by Culicoides biting midges",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26601441-1-es",
+   "translationKey": "vet-26601441-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se transmite el virus Schmallenberg?",
+   "options": [
+    "Por garrapatas",
+    "Por alimento contaminado",
+    "Solo por contacto directo",
+    "Por jejenes Culicoides"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El virus Schmallenberg, hallado en 2011 cerca de la frontera germano-holandesa, se transmite por jejenes Culicoides.",
+   "shortExplanation": "Jejenes.",
+   "pmid": "26601441",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which is transmitted by Culicoides biting midges",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26601441-2-en",
+   "translationKey": "vet-26601441-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why is Schmallenberg virus economically important despite mild disease in adults?",
+   "options": [
+    "It kills all adult cattle",
+    "Infection in a critical period of gestation can cause abortion, stillbirth or malformed offspring",
+    "It contaminates milk with toxins",
+    "It causes blindness in adults"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Adults show mild or no signs, but fetal infection causes losses, more so in sheep than cattle.",
+   "shortExplanation": "Fetal damage.",
+   "pmid": "26601441",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "an infection during a critical period of gestation can lead to abortion, stillbirth or the birth of severely malformed offspring",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26601441-2-es",
+   "translationKey": "vet-26601441-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué el virus Schmallenberg es económicamente importante pese a ser leve en adultos?",
+   "options": [
+    "Mata a todo el ganado adulto",
+    "La infección en un período crítico de la gestación causa abortos, mortinatos o crías malformadas",
+    "Contamina la leche con toxinas",
+    "Causa ceguera en adultos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los adultos tienen signos leves o ninguno, pero la infección fetal causa pérdidas, más en ovinos que en bovinos.",
+   "shortExplanation": "Daño fetal.",
+   "pmid": "26601441",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "an infection during a critical period of gestation can lead to abortion, stillbirth or the birth of severely malformed offspring",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37112799-1-en",
+   "translationKey": "vet-37112799-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What stopped fecal shedding of feline coronavirus in cats in this study?",
+   "options": [
+    "A short course of oral GS-441524 antiviral",
+    "Antibiotics",
+    "A rabies vaccine",
+    "A raw-meat diet"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "A 4–7-day course of GS-441524 stopped shedding; none of the treated households' cats later developed FIP.",
+   "shortExplanation": "GS-441524.",
+   "pmid": "37112799",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a 4-7-day course of oral GS-441524 antiviral stopped faecal FCoV shedding",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37112799-1-es",
+   "translationKey": "vet-37112799-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué detuvo la eliminación fecal del coronavirus felino en gatos en este estudio?",
+   "options": [
+    "Un curso corto del antiviral oral GS-441524",
+    "Antibióticos",
+    "La vacuna antirrábica",
+    "Una dieta de carne cruda"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Un curso de 4 a 7 días de GS-441524 frenó la eliminación; ningún gato de esos hogares desarrolló luego PIF.",
+   "shortExplanation": "GS-441524.",
+   "pmid": "37112799",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a 4-7-day course of oral GS-441524 antiviral stopped faecal FCoV shedding",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37112799-2-en",
+   "translationKey": "vet-37112799-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What share of cats infected with feline coronavirus go on to develop FIP?",
+   "options": [
+    "All of them",
+    "None",
+    "Up to about 14%",
+    "About 90%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Most FCoV infections are mild, but up to 14% develop potentially lethal FIP after weeks to months.",
+   "shortExplanation": "Up to 14%.",
+   "pmid": "37112799",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "up to 14% of cats infected with feline coronavirus (FCoV) develop feline infectious peritonitis (FIP)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37112799-2-es",
+   "translationKey": "vet-37112799-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué proporción de gatos infectados con coronavirus felino desarrolla PIF?",
+   "options": [
+    "Todos",
+    "Ninguno",
+    "Hasta alrededor del 14%",
+    "Alrededor del 90%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mayoría de las infecciones son leves, pero hasta 14% desarrolla PIF potencialmente mortal tras semanas o meses.",
+   "shortExplanation": "Hasta 14%.",
+   "pmid": "37112799",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "up to 14% of cats infected with feline coronavirus (FCoV) develop feline infectious peritonitis (FIP)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34676775-1-en",
+   "translationKey": "vet-34676775-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "What did this in vitro screen conclude about combining antivirals against FIP virus?",
+   "options": [
+    "Combinations were always far better",
+    "No compound had any activity",
+    "Antibiotics worked best",
+    "Monotherapies were ultimately the most effective at inhibiting viral transcription"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "26 compounds were active (e.g., GC376, GS-441524); some combinations showed limited synergy, but monotherapies were most effective.",
+   "shortExplanation": "Monotherapy best.",
+   "pmid": "34676775",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "monotherapies were ultimately determined to be the most effective in the inhibition of viral transcription",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34676775-1-es",
+   "translationKey": "vet-34676775-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué concluyó este cribado in vitro sobre combinar antivirales contra el virus de la PIF?",
+   "options": [
+    "Las combinaciones siempre fueron mucho mejores",
+    "Ningún compuesto tuvo actividad",
+    "Los antibióticos funcionaron mejor",
+    "Las monoterapias fueron finalmente las más eficaces para inhibir la transcripción viral"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "26 compuestos fueron activos (como GC376 y GS-441524); algunas combinaciones mostraron sinergia limitada, pero las monoterapias fueron las más eficaces.",
+   "shortExplanation": "Monoterapia mejor.",
+   "pmid": "34676775",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "monotherapies were ultimately determined to be the most effective in the inhibition of viral transcription",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-24597674-1-en",
+   "translationKey": "vet-24597674-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why can recent Leptospira vaccination complicate diagnosis in dogs?",
+   "options": [
+    "Vaccines cause leptospirosis",
+    "Vaccinated dogs cannot be tested",
+    "Vaccination can produce high MAT titers (≥1:800) that mimic infection",
+    "Vaccines destroy antibodies"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Vaccine-induced titers vary and can be high, so a single titer may mislead; titers also do not predict protection.",
+   "shortExplanation": "High vaccine titers.",
+   "pmid": "24597674",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "MAT titers ≥1 : 800 can develop after Leptospira spp. vaccination, which can complicate the clinical diagnosis of leptospirosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-24597674-1-es",
+   "translationKey": "vet-24597674-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué una vacunación reciente contra Leptospira puede complicar el diagnóstico en perros?",
+   "options": [
+    "La vacuna causa leptospirosis",
+    "No se puede analizar a perros vacunados",
+    "La vacunación puede dar títulos MAT altos (≥1:800) que simulan infección",
+    "La vacuna destruye anticuerpos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los títulos vacunales varían y pueden ser altos, así que un único título puede confundir; además no predicen protección.",
+   "shortExplanation": "Títulos vacunales altos.",
+   "pmid": "24597674",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "MAT titers ≥1 : 800 can develop after Leptospira spp. vaccination, which can complicate the clinical diagnosis of leptospirosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16971422-1-en",
+   "translationKey": "vet-16971422-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "What did genetic analysis estimate about the start of the 2001 UK foot-and-mouth outbreak?",
+   "options": [
+    "Livestock were first infected around 7 February 2001, matching clinical evidence",
+    "It began in 1995",
+    "It started in pigs in Spain",
+    "Its start could not be estimated"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Viral genomes accumulated ~1.5 substitutions per farm infection, enough to reconstruct transmission pathways.",
+   "shortExplanation": "~7 Feb 2001.",
+   "pmid": "16971422",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the date at which FMDV first infected livestock in the United Kingdom was 7 February 2001",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16971422-1-es",
+   "translationKey": "vet-16971422-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué estimó el análisis genético sobre el comienzo del brote de fiebre aftosa del Reino Unido en 2001?",
+   "options": [
+    "Que el ganado se infectó por primera vez alrededor del 7 de febrero de 2001, coincidiendo con la clínica",
+    "Que empezó en 1995",
+    "Que comenzó en cerdos en España",
+    "Que no se pudo estimar"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los genomas acumularon ~1,5 sustituciones por granja infectada, suficiente para reconstruir las rutas de transmisión.",
+   "shortExplanation": "~7 feb 2001.",
+   "pmid": "16971422",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the date at which FMDV first infected livestock in the United Kingdom was 7 February 2001",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16971422-2-en",
+   "translationKey": "vet-16971422-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why could transmission pathways between farms be reconstructed from FMD virus genomes?",
+   "options": [
+    "The virus never mutates",
+    "Each farm had a different virus species",
+    "Farmers recorded every contact",
+    "The virus accumulated about 1.5 substitutions per farm infection"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Rapid mutation of this RNA virus leaves a genetic trail linking farms.",
+   "shortExplanation": "Mutations as a trail.",
+   "pmid": "16971422",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "nucleotide substitutions to accrue in the consensus sequence at an average rate of 1.5 substitutions per farm infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16971422-2-es",
+   "translationKey": "vet-16971422-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué se pudieron reconstruir las rutas de transmisión entre granjas a partir de genomas del virus de la aftosa?",
+   "options": [
+    "El virus nunca muta",
+    "Cada granja tenía una especie viral distinta",
+    "Los productores registraron cada contacto",
+    "El virus acumuló ~1,5 sustituciones por granja infectada"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La rápida mutación de este virus ARN deja un rastro genético que conecta las granjas.",
+   "shortExplanation": "Mutaciones como rastro.",
+   "pmid": "16971422",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "nucleotide substitutions to accrue in the consensus sequence at an average rate of 1.5 substitutions per farm infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23273733-1-en",
+   "translationKey": "vet-23273733-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "During the 2006 bluetongue serotype 8 outbreak in northern Europe, which factor most affected disease incidence?",
+   "options": [
+    "Animal breed",
+    "Wind",
+    "Farm size",
+    "Milk price"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Wind carrying infected midges was the most important factor, along with land cover, rain, temperature and animal transport.",
+   "shortExplanation": "Wind.",
+   "pmid": "23273733",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Our model shows that wind is the most important factor affecting the incidence of the disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23273733-1-es",
+   "translationKey": "vet-23273733-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Durante el brote de lengua azul serotipo 8 de 2006 en el norte de Europa, ¿qué factor afectó más la incidencia?",
+   "options": [
+    "La raza",
+    "El viento",
+    "El tamaño del campo",
+    "El precio de la leche"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El viento que arrastraba jejenes infectados fue el factor más importante, junto con la cobertura del suelo, la lluvia, la temperatura y el transporte de animales.",
+   "shortExplanation": "Viento.",
+   "pmid": "23273733",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Our model shows that wind is the most important factor affecting the incidence of the disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29279081-1-en",
+   "translationKey": "vet-29279081-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What did this study find about Toxoplasma oocyst re-shedding in previously infected cats?",
+   "options": [
+    "Protection waned over time, so re-infected adult cats can shed oocysts again",
+    "Cats shed oocysts only once in life",
+    "Adult cats never shed",
+    "Cats are not definitive hosts"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Protection fell from 90% at 12 months to ~25–33% at 24–36 months, especially with heterologous strains.",
+   "shortExplanation": "Protection wanes.",
+   "pmid": "29279081",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Protection against oocyst re-excretion occurred in 90%, 25%, and 33.4% of cats after 12, 24, and 36 months",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29279081-1-es",
+   "translationKey": "vet-29279081-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué halló este estudio sobre la reeliminación de ooquistes de Toxoplasma en gatos ya infectados?",
+   "options": [
+    "La protección disminuye con el tiempo, así que los gatos adultos reinfectados pueden volver a eliminar ooquistes",
+    "Los gatos eliminan ooquistes una sola vez en la vida",
+    "Los adultos nunca eliminan",
+    "Los gatos no son huéspedes definitivos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La protección cayó de 90% a los 12 meses a ~25–33% a los 24–36 meses, sobre todo con cepas heterólogas.",
+   "shortExplanation": "La protección disminuye.",
+   "pmid": "29279081",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Protection against oocyst re-excretion occurred in 90%, 25%, and 33.4% of cats after 12, 24, and 36 months",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38576256-1-en",
+   "translationKey": "vet-38576256-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "In an Italian field test, who ate most praziquantel baits against Echinococcus granulosus?",
+   "options": [
+    "Wild boars",
+    "Foxes",
+    "Not-owned (free-ranging) dogs",
+    "Badgers"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "82% were eaten by the target not-owned dogs; double-layer baits even withstood drone drops from 25 m.",
+   "shortExplanation": "Free-ranging dogs.",
+   "pmid": "38576256",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "most of the baits were consumed by not-owned dogs (82.2%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38576256-1-es",
+   "translationKey": "vet-38576256-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "En una prueba de campo en Italia, ¿quién comió la mayoría de los cebos con praziquantel contra Echinococcus granulosus?",
+   "options": [
+    "Jabalíes",
+    "Zorros",
+    "Perros sin dueño (de libre circulación)",
+    "Tejones"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El 82% lo consumieron los perros sin dueño objetivo; los cebos de doble capa resistieron incluso caídas desde drones a 25 m.",
+   "shortExplanation": "Perros sin dueño.",
+   "pmid": "38576256",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "most of the baits were consumed by not-owned dogs (82.2%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38576256-2-en",
+   "translationKey": "vet-38576256-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What causes cystic echinococcosis (hydatid disease)?",
+   "options": [
+    "The larval stage of the tapeworm Echinococcus granulosus",
+    "A virus",
+    "A bacterium in water",
+    "A fungus in soil"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Dogs carry the adult tapeworm; deworming free-ranging dogs with praziquantel limits transmission.",
+   "shortExplanation": "Echinococcus larva.",
+   "pmid": "38576256",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cystic echinococcosis (CE), caused by the larval stage of the cestode Echinococcus granulosus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38576256-2-es",
+   "translationKey": "vet-38576256-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué causa la equinococosis quística (hidatidosis)?",
+   "options": [
+    "El estadio larval de la tenia Echinococcus granulosus",
+    "Un virus",
+    "Una bacteria del agua",
+    "Un hongo del suelo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los perros portan la tenia adulta; desparasitar a los perros sueltos con praziquantel limita la transmisión.",
+   "shortExplanation": "Larva de Echinococcus.",
+   "pmid": "38576256",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cystic echinococcosis (CE), caused by the larval stage of the cestode Echinococcus granulosus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34399298-1-en",
+   "translationKey": "vet-34399298-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Are healthy domestic cats an important reservoir of canine parvovirus?",
+   "options": [
+    "Yes, all cats shed CPV",
+    "Yes, cats are the main source of dog infections",
+    "Cats cannot be infected by any parvovirus",
+    "No; CPV shedding by cats without diarrhea was uncommon"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Most parvovirus detected in cats was feline panleukopenia virus; CPV was rare.",
+   "shortExplanation": "Not significant reservoirs.",
+   "pmid": "34399298",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Faecal shedding of CPV by cats in multi-cat environments is uncommon suggesting that domestic cats are not significant reservoirs of CPV",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34399298-1-es",
+   "translationKey": "vet-34399298-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Son los gatos domésticos sanos un reservorio importante del parvovirus canino?",
+   "options": [
+    "Sí, todos lo eliminan",
+    "Sí, son la fuente principal para los perros",
+    "Los gatos no se infectan con ningún parvovirus",
+    "No; la eliminación de PVC en gatos sin diarrea fue poco frecuente"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La mayor parte del parvovirus hallado en gatos era el de la panleucopenia felina; el canino fue raro.",
+   "shortExplanation": "No son reservorio importante.",
+   "pmid": "34399298",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Faecal shedding of CPV by cats in multi-cat environments is uncommon suggesting that domestic cats are not significant reservoirs of CPV",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   }
