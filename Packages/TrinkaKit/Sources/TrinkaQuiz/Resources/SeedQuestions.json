@@ -1,5 +1,5 @@
 {
- "version": 36,
+ "version": 37,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -1420,6 +1420,366 @@
    "abstract": "Microbiology began as a unified science using the principles of chemistry to understand living systems. The unified view quickly split into the subdisciplines of medical microbiology, molecular biology, and environmental microbiology. The advent of a universal phylogeny and culture-independent approaches has helped tear down the boundaries separating the subdisciplines. The vision for the future is that the study of the fundamental roles of microbes in ecology and evolution will lead to an integrated biology with no boundary between microbiology and macrobiology.",
    "publicationTypes": [
     "Journal Article"
+   ]
+  },
+  {
+   "pmid": "29358495",
+   "title": "History of CRISPR-Cas from Encounter with a Mysterious Repeated Sequence to Genome Editing Technology.",
+   "authors": [
+    "Ishino Y",
+    "Krupovic M",
+    "Forterre P"
+   ],
+   "journal": "Journal of bacteriology",
+   "year": 2018,
+   "doi": "10.1128/JB.00580-17",
+   "abstract": "Clustered regularly interspaced short palindromic repeat (CRISPR)-Cas systems are well-known acquired immunity systems that are widespread in archaea and bacteria. The RNA-guided nucleases from CRISPR-Cas systems are currently regarded as the most reliable tools for genome editing and engineering. The first hint of their existence came in 1987, when an unusual repetitive DNA sequence, which subsequently was defined as a CRISPR, was discovered in the Escherichia coli genome during an analysis of genes involved in phosphate metabolism. Similar sequence patterns were then reported in a range of other bacteria as well as in halophilic archaea, suggesting an important role for such evolutionarily conserved clusters of repeated sequences. A critical step toward functional characterization of the CRISPR-Cas systems was the recognition of a link between CRISPRs and the associated Cas proteins, which were initially hypothesized to be involved in DNA repair in hyperthermophilic archaea. Comparative genomics, structural biology, and advanced biochemistry could then work hand in hand, not only culminating in the explosion of genome editing tools based on CRISPR-Cas9 and other class II CRISPR-Cas systems but also providing insights into the origin and evolution of this system from mobile genetic elements denoted casposons. To celebrate the 30th anniversary of the discovery of CRISPR, this minireview briefly discusses the fascinating history of CRISPR-Cas systems, from the original observation of an enigmatic sequence in E. coli to genome editing in humans.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28515626",
+   "title": "The history of tuberculosis: from the first historical records to the isolation of Koch's bacillus.",
+   "authors": [
+    "Barberis I",
+    "Bragazzi NL",
+    "Galluzzo L",
+    "Martini M"
+   ],
+   "journal": "Journal of preventive medicine and hygiene",
+   "year": 2017,
+   "doi": null,
+   "abstract": "Tuberculosis (TB) is a contagious, infectious disease, due to Mycobacterium tuberculosis (MT) that has always been a permanent challenge over the course of human history, because of its severe social implications. It has been hypothesized that the genus Mycobacterium originated more than 150 million years ago. In the Middle Ages, scrofula, a disease affecting cervical lymph nodes, was described as a new clinical form of TB. The illness was known in England and France as \"king's evil\", and it was widely believed that persons affected could heal after a royal touch. In 1720, for the first time, the infectious origin of TB was conjectured by the English physician Benjamin Marten, while the first successful remedy against TB was the introduction of the sanatorium cure. The famous scientist Robert Koch was able to isolate the tubercle bacillus and presented this extraordinary result to the society of Physiology in Berlin on 24 March 1882. In the decades following this discovery, the Pirquet and Mantoux tuberculin skin tests, Albert Calmette and Camille Guérin BCG vaccine, Selman Waksman streptomycin and other anti-tuberculous drugs were developed.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36479755",
+   "title": "History of Streptococcus pyogenes Research",
+   "authors": [
+    "Ferretti JJ"
+   ],
+   "journal": "Streptococcus pyogenes: Basic Biology to Clinical Manifestations [Internet]",
+   "year": 2022,
+   "doi": null,
+   "abstract": "Streptococcal diseases have been known for centuries, although their delineation into separate disease entities did not begin to occur until the 16th century AD. The original writings of Hippocrates from the 4th century BC describe the disease erysipelas (ἐρυσίπελας, red skin), as well as the symptoms of childbed fever, and “Galen remarks that not only erysipelas, but also inflammation, when it attacks the impregnated uterus, generally proves fatal” (Adams, 1849). Centuries later, after epidemic rates of mortality, this particular disease was recognized in 1716 as puerperal fever or childbed fever (Strother, 1716). Many theories about the origin of diseases appeared in the intervening centuries, including associating their occurrence with natural phenomena like comets and eclipses; the spread of disease by vapors and smells; “contagion,” or the transferring of diseases from one to another; and the introduction of non-living matter into a patient (Karamanou, Panayiotakopoulos, Tsoucalas, Kousoulis, & Androutsos, 2012). It was not until the 18th century that further progress into the etiology of diseases was made. A major advancement was the invention of the microscope by Anton van Leeuwenhoek (1632–1723) as well as his descriptions of new life forms, including the shapes of cocci, bacilli, and spirochetes (Figure 1) (Dobell, 1932). However, as with a number of early scientific and medical discoveries or observations, the link between the microscopic discovery of these new life forms and diseases was not realized until almost two centuries later.",
+   "publicationTypes": [
+    "Review"
+   ],
+   "bookshelfID": "NBK587093"
+  },
+  {
+   "pmid": "34564627",
+   "title": "The History of Pertussis Toxin.",
+   "authors": [
+    "Locht C",
+    "Antoine R"
+   ],
+   "journal": "Toxins",
+   "year": 2021,
+   "doi": "10.3390/toxins13090623",
+   "abstract": "Besides the typical whooping cough syndrome, infection with Bordetella pertussis or immunization with whole-cell vaccines can result in a wide variety of physiological manifestations, including leukocytosis, hyper-insulinemia, and histamine sensitization, as well as protection against disease. Initially believed to be associated with different molecular entities, decades of research have provided the demonstration that these activities are all due to a single molecule today referred to as pertussis toxin. The three-dimensional structure and molecular mechanisms of pertussis toxin action, as well as its role in protective immunity have been uncovered in the last 50 years. In this article, we review the history of pertussis toxin, including the paradigm shift that occurred in the 1980s which established the pertussis toxin as a single molecule. We describe the role molecular biology played in the understanding of pertussis toxin action, its role as a molecular tool in cell biology and as a protective antigen in acellular pertussis vaccines and possibly new-generation vaccines, as well as potential therapeutical applications.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "20471523",
+   "title": "Vaccines in veterinary medicine: a brief review of history and technology.",
+   "authors": [
+    "McVey S",
+    "Shi J"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 2010,
+   "doi": "10.1016/j.cvsm.2010.02.001",
+   "abstract": "The use of vaccines in veterinary medicine has progressed from an experimental adventure to a routine and relatively safe practice. The common and aggressive use of efficacious vaccines has been responsible for the control and eradication of several diseases. Despite progress in research technologies, diagnostic capabilities, and manufacturing methods, there remain many infectious diseases for which no effective vaccines exist. Global availability, field compliance, effectiveness, and safety are also significant concerns. This review addresses the history, current practices, and potential future improvements of vaccine use in veterinary medicine.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34355760",
+   "title": "The One Medicine concept: its emergence from history as a systematic approach to re-integrate human and veterinary medicine.",
+   "authors": [
+    "King TA"
+   ],
+   "journal": "Emerging topics in life sciences",
+   "year": 2021,
+   "doi": "10.1042/ETLS20200353",
+   "abstract": "The COVID-19 pandemic has resulted in the global recognition for greater inter-disciplinary and multi-disciplinary working, and the need for systematic approaches which recognise the interconnectedness and interactions between human, animal and environmental health. The notion of such a One Team/One science approach is perhaps best exemplified by the One Health concept, a systematic approach which is rapidly entering into the mainstream. However, the concept of One Health, as we presently know it, originated from One Medicine, a notion which is much older and which emerged to promote collaboration between the human and veterinary medicine professions and the allied health/scientific disciplines. Whilst One Medicine is perhaps better known by the veterinary community, some misconceptions of what One Medicine is have arisen. Therefore, this review introduces this emerging concept and how it can help to address overlapping (communicable and non-communicable disease) health challenges faced by both human and veterinary medicine.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29271338",
+   "title": "History and Current Use of Antimicrobial Drugs in Veterinary Medicine.",
+   "authors": [
+    "Prescott JF"
+   ],
+   "journal": "Microbiology spectrum",
+   "year": 2017,
+   "doi": "10.1128/microbiolspec.ARBA-0002-2017",
+   "abstract": "This chapter briefly reviews the history and current use of antimicrobials in animals, with a focus on food animals in the more economically developed countries. It identifies some of the differences between human medical and food animal use, particularly in growth promotional and \"subtherapeutic\" use of medically-important antibiotics in animals. The public health impact of the extensive use of antibiotics in food animals for these purposes, differences internationally in such usage, and the major changes in current practices now underway in agricultural use are summarized. The emerging framing of the dimensions of antimicrobial resistance within a \"One Health\" framework is focusing global efforts to address the antimicrobial resistance crisis in a collaborative manner. The rapidly evolving development and application of practices of antimicrobial stewardship in animal is a critical part of the huge global effort to address antimicrobial resistance. The outcome is still uncertain.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "1840859",
+   "title": "History of veterinary public health in the United States of America.",
+   "authors": [
+    "Steele JH"
+   ],
+   "journal": "Revue scientifique et technique (International Office of Epizootics)",
+   "year": 1991,
+   "doi": "10.20506/rst.10.4.582",
+   "abstract": "Animal medicine, human medicine and public health have been associated ever since sheep, goats, cattle, horses, dogs, cats and other animals were first domesticated to serve the needs of society. The more recent history of veterinary public health (VPH) in Europe has seen developments through the seventeenth and eighteenth centuries, and the beginning of modern conceptions of VPH. The recognition of animal disease problems as they have affected public health in the Americas carries the reader forward into the nineteenth and twentieth centuries. Advances made in public health and veterinary medicine in the latter years are reviewed, together with the way in which they have benefited both humans and animals. For the period since 1945, the article reviews the organization of VPH in national governments and international agencies, i.e. the World Health Organization (WHO) and Pan American Health Organization (PAHO). These international health agencies have promoted VPH in national governments. Some of the leaders are recognized for their contributions.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "3307123",
+   "title": "The history of scabies in veterinary and human medicine from biblical to modern times.",
+   "authors": [
+    "Roncalli RA"
+   ],
+   "journal": "Veterinary parasitology",
+   "year": 1987,
+   "doi": "10.1016/0304-4017(87)90104-x",
+   "abstract": "For many centuries a host of naturalists, savants, physicians and veterinarians have tried to unravel the etiology of scabies in humans and animals and to discover effective remedies to control it. After many attempts, success was achieved in the discovery of the parasitic etiology of the disease in the 15th century. Also, major advances with regard to the treatment of the disease were made during the 19th and 20th centuries. Today the prevalence of epidemic scabies in humans has diminished; on the other hand, good progress in the control of mange of livestock has been made only in a few countries including Australia, New Zealand and the U.S.A.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "26025714",
+   "title": "Excavating the history of ancient veterinary practices.",
+   "authors": [
+    "Binois A"
+   ],
+   "journal": "The Veterinary record",
+   "year": 2015,
+   "doi": "10.1136/vr.h991",
+   "abstract": "People have lived alongside animals for many centuries, and it can be assumed that they also treated them when they were sick. There are some texts that describe early veterinary care, but details are lacking and medical instruments are hard to come by in archaeological sites. However, as ANNELISE BINOIS: explains, archaeological findings can provide a lot more information than might be thought, and can start to give a glimpse of the vast history of veterinary medicine.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25791890",
+   "title": "The history of vaccination against cytomegalovirus.",
+   "authors": [
+    "Plotkin S"
+   ],
+   "journal": "Medical microbiology and immunology",
+   "year": 2015,
+   "doi": "10.1007/s00430-015-0388-z",
+   "abstract": "Cytomegalovirus vaccine development started in the 1970s with attenuated strains. In the 1980s, one of the strains was shown to be safe and effective in renal transplant patients. Then, attention switched to glycoprotein gB, which was shown to give moderate but transient protection against acquisition of the virus by women. The identification of the pp65 tegument protein as the principal target of cellular immune responses resulted in new approaches, particularly DNA, plasmids to protect hematogenous stem cell recipients. The subsequent discovery of the pentameric protein complex that generates most neutralizing antibodies led to efforts to incorporate that complex into vaccines. At this point, there are many candidate CMV vaccines, including live recombinants, replication-defective virus, DNA plasmids, soluble pentameric proteins, peptides, virus-like particles and vectored envelope proteins.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41246889",
+   "title": "The History of Measles and Vaccine Development.",
+   "authors": [
+    "Peltola H"
+   ],
+   "journal": "Acta paediatrica (Oslo, Norway : 1992)",
+   "year": 2026,
+   "doi": "10.1111/apa.70370",
+   "abstract": "Measles is one of the oldest human diseases, but the fact that it was separate from smallpox, scarlatina and rubella was only disclosed a century ago. It is extremely contagious, as the infection may spread for up to 4 days before the first symptoms appear. One patient may infect 12-18 secondary cases, who then spread the infection further. Before the vaccine era, measles caused 2-3 million deaths a year, with remote populations facing chaotic consequences from epidemics. Safe and inexpensive live-virus vaccines, often combined with mumps and rubella components, have been available for 50 years. The global death toll first dropped below 100 000 per year in 2021, but setbacks have been seen in many countries, including Europe. High mortality is mainly due to immune amnesia, as previously acquired memory is partly disturbed because of the elimination of T and B cells. Impaired protection from pathogens other than measles recovers slowly in subsequent years. Measles is almost exclusively a human infection, which is potentially eradicable with vaccinations. It warrants two doses, especially when contacts with natural measles are minimal or lacking. The World Health Organization is running a measles and rubella elimination program, but current vaccination levels will make that difficult.",
+   "publicationTypes": [
+    "Journal Article",
+    "Historical Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36414136",
+   "title": "History of measles.",
+   "authors": [
+    "Berche P"
+   ],
+   "journal": "Presse medicale (Paris, France : 1983)",
+   "year": 2022,
+   "doi": "10.1016/j.lpm.2022.104149",
+   "abstract": "Measles is a highly contagious viral disease transmitted by aerosols through human-to-human contact. It is often considered as a benign disease, although mortality remains high in developing countries (>5%). Frequent complications (diarrhea, otitis, pneumonia, encephalitis) can be observed. The disease mainly affects young children from 5 to 6 months of age with a mortality peak in the first three years of life. The Persian physician Rhazes gave the first clinical description of the disease in the 10th century, clearly differentiating it from smallpox. Measles spread worldwide from the Renaissance. Its epidemiology was remarkably studied in 1846 by a Danish physician, Peter Panum, during an epidemic in the Faroe Islands. The viral nature of this disease was demonstrated in 1911 and the virus was identified in 1954 by Thomas Peebles and John Enders. It is a morbillivirus (family Paramyxoviridae), also responsible for rinderpest (ovine, bovine), distemper (canine, feline), and epidemic diseases of dolphins, porpoises and seals. The current measles virus appeared recently from the rinderpest virus around the 6th century BCE. It has adapted perfectly to the human species, becoming strictly human, without animal reservoirs. A live attenuated vaccine was developed in 1958 by Enders' team after numerous passages in cell cultures. The vaccine was licensed in the United States in 1963 and is used on a large scale by the WHO throughout the world. This highly effective and well-tolerated vaccine has greatly reduced the number of measles cases and saved millions of lives. Measles remains a major public health concern, causing over 100,000 deaths per year worldwide. Today, the most affected continents remain Africa, South America and Asia.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "29318984",
+   "title": "A Brief History of Shigella.",
+   "authors": [
+    "Lampel KA",
+    "Formal SB",
+    "Maurelli AT"
+   ],
+   "journal": "EcoSal Plus",
+   "year": 2018,
+   "doi": "10.1128/ecosalplus.ESP-0006-2017",
+   "abstract": "The history of Shigella, the causative agent of bacillary dysentery, is a long and fascinating one. This brief historical account starts with descriptions of the disease and its impact on human health from ancient time to the present. Our story of the bacterium starts just before the identification of the dysentery bacillus by Kiyoshi Shiga in 1898 and follows the scientific discoveries and principal scientists who contributed to the elucidation of Shigella pathogenesis in the first 100 years. Over the past century, Shigella has proved to be an outstanding model of an invasive bacterial pathogen and has served as a paradigm for the study of other bacterial pathogens. In addition to invasion of epithelial cells, some of those shared virulence traits include toxin production, multiple-antibiotic resistance, virulence genes encoded on plasmids and bacteriophages, global regulation of virulence genes, pathogenicity islands, intracellular motility, remodeling of host cytoskeleton, inflammation/polymorphonuclear leukocyte signaling, apoptosis induction/inhibition, and \"black holes\" and antivirulence genes. While there is still much to learn from studying Shigella pathogenesis, what we have learned so far has also contributed greatly to our broader understanding of bacterial pathogenesis.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35373578",
+   "title": "A Brief History of Plasmids.",
+   "authors": [
+    "Helinski DR"
+   ],
+   "journal": "EcoSal Plus",
+   "year": 2022,
+   "doi": "10.1128/ecosalplus.esp-0028-2021",
+   "abstract": "In the late 1950s, a number of laboratories took up the study of plasmids once the discovery was made that extrachromosomal antibiotic resistance (R) factors are the responsible agents for the transmissibility of multiple antibiotic resistance among the enterobacteria. The use of incompatibility for the classification of plasmids is now widespread. It seems clear now on the basis of the limited studies to date that the number of incompatibility groups of plasmids will likely be extremely large when one includes plasmids obtained from bacteria that are normal inhabitants of poorly studied natural environments. The presence of both linear chromosomes and linear plasmids is now established for several Streptomyces species. One of the more fascinating developments in plasmid biology was the discovery of linear plasmids in the 1980s. A remarkable feature of the Ti plasmids of Agrobacterium tumefaciens is the presence of two DNA transfer systems. A definitive demonstration that plasmids consisted of duplex DNA came from interspecies conjugal transfer of plasmids followed by separation of plasmid DNA from chromosomal DNA by equilibrium buoyant density centrifugation. The formation of channels for DNA movement and the actual steps involved in DNA transport offer many opportunities for the discovery of proteins with novel activities and for establishing fundamentally new concepts of macromolecular interactions between DNA and specific proteins, membranes, and the peptidoglycan matrix.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27726780",
+   "title": "The History of Epidemic Typhus.",
+   "authors": [
+    "Angelakis E",
+    "Bechah Y",
+    "Raoult D"
+   ],
+   "journal": "Microbiology spectrum",
+   "year": 2016,
+   "doi": "10.1128/microbiolspec.PoH-0010-2015",
+   "abstract": "Epidemic typhus caused by Rickettsia prowazekii is one of the oldest pestilential diseases of humankind. The disease is transmitted to human beings by the body louse Pediculus humanus corporis and is still considered a major threat by public health authorities, despite the efficacy of antibiotics, because poor sanitary conditions are conducive to louse proliferation. Epidemic typhus has accompanied disasters that impact humanity and has arguably determined the outcome of more wars than have soldiers and generals. The detection, identification, and characterization of microorganisms in ancient remains by paleomicrobiology has permitted the diagnosis of past epidemic typhus outbreaks through the detection of R. prowazekii. Various techniques, including microscopy and immunodetection, can be used in paleomicrobiology, but most of the data have been obtained by using PCR-based molecular techniques on dental pulp samples. Paleomicrobiology enabled the identification of the first outbreak of epidemic typhus in the 18th century in the context of a pan-European great war in the city of Douai, France, and supported the hypothesis that typhus was imported into Europe by Spanish soldiers returning from America. R. prowazekii was also detected in the remains of soldiers of Napoleon's Grand Army in Vilnius, Lithuania, which indicates that Napoleon's soldiers had epidemic typhus. The purpose of this article is to underscore the modern comprehension of clinical epidemic typhus, focus on the historical relationships of the disease, and examine the use of paleomicrobiology in the detection of past epidemic typhus outbreaks.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27047477",
+   "title": "The History of Mycoplasma pneumoniae Pneumonia.",
+   "authors": [
+    "Saraya T"
+   ],
+   "journal": "Frontiers in microbiology",
+   "year": 2016,
+   "doi": "10.3389/fmicb.2016.00364",
+   "abstract": "In the United States in the 1930s, although the pathogen was not known, atypical pneumonia was clinically distinguished from pneumococcal pneumonia by its resistance to sulfonamides. Reimann (1938) reported seven patients with an unusual form of tracheo bronchopneumonia and severe constitutional symptoms. He believed the clinical picture of this disease differed from that of the disease caused by influenza viruses or known bacteria and instead suspected \"primary atypical pneumonia.\" For many years, the responsible infectious agent was tentatively classified as a filterable virus that could pass through a Seitz filter to remove bacteria and was reported to be a psittacosis-like or new virus. After that, Eaton et al. (1942, 1944, 1945) identified an agent that was the principal cause of primary atypical pneumonia using cotton rats, hamsters, and chick embryos. Eaton et al. (1942, 1944, 1945) did not perform an inoculation study in human volunteers. During the 1940s, there were three groups engaged in discovering the etiology of the primary atypical pneumonia. (1) Commission on Acute Respiratory Diseases Diseases directed by John Dingle, (2) Dr. Monroe Eaton's group, the Virus Research Laboratory of the California State Public Health Department, (3) The Hospital of the Rockefeller Institute for Medical Research directed by Horsfall. During 1940s, the members of the Commission on Acute Respiratory Diseases concluded that the bacteria-free filtrates obtained from the patients, presumably containing a virus, could induce primary atypical pneumonia in human volunteers via Pinehurst trials. During 1950s, serological approaches for identification of the Eaton agent developed such as Fluorescent-Stainable Antibody, and at the beginning of the1960s, the Eaton agent successfully grew in media, and finally accepted as a cause of primary atypical pneumonia. Thus, technical difficulties with visualizing the agent and failure to recognize the full significance of the Pinehurst transmission experiments resulted in a lapse of 20 years before acceptance of the Eaton agent as Mycoplasma pneumoniae. This review describes the history of M. pneumoniae pneumonia with a special focus on the recognition between the 1930 and 1960s of the Eaton agent as the infectious cause.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27741152",
+   "title": "Probiotics History.",
+   "authors": [
+    "Gasbarrini G",
+    "Bonvicini F",
+    "Gramenzi A"
+   ],
+   "journal": "Journal of clinical gastroenterology",
+   "year": 2016,
+   "doi": "10.1097/MCG.0000000000000697",
+   "abstract": "Gut microbiota promotes healthy effects on the host and prevents diseases. Probiotic (probios, for life) are defined as \"live microorganisms which when administered in adequate amounts confer a health benefit on the host.\" At the beginning of 1900s Louis Pasteur identified the microorganisms responsible for the process of fermentation, whereas E. Metchnikoff associated the enhanced longevity of Bulgarian rural people to the regular consumption of fermented dairy products such as yogurt. He suggested that lactobacilli might counteract the putrefactive effects of gastrointestinal metabolism that contributed to illness and aging. Hippocrates declared, 2000 years earlier, that \"death sits in the bowels.\" Metchnikoff considered the lactobacilli as probiotics (\"probios,\" conducive to life of the host as opposed to antibiotics); probiotics could have a positive influence on health and prevent aging. During the neolitic period of the age of the stone, the domestication of animals occurred and man began to get fermented food. Probably serendipitous contaminations in favorable environments played a major role. Fecal microbiota transplantation dates to a fourth-century Chinese handbook for food poisoning or severe diarrhea. To date fecal transplant cures Clostridium difficile infections with more efficacy than vancomycin, and prevents recurrence.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "25544991",
+   "title": "The early history of the eosinophil.",
+   "authors": [
+    "Kay AB"
+   ],
+   "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+   "year": 2015,
+   "doi": "10.1111/cea.12480",
+   "abstract": "In 1879 Paul Ehrlich published his technique for staining blood films and his method for differential blood cell counting using coal tar dyes and mentions the eosinophil for the first time. Eosin is a bright red synthetic dye produced by the action of bromine on fluorescein and stains basic proteins due to its acidic nature. It was discovered in 1874 by Heinrich Caro, Director of the German chemical company Badische Anilin- und Soda-Fabrik. Ehrlich introduced the term 'eosinophil' to describe cells with granules (which he called alpha-granules) having an affinity for eosin and other acid dyes. He also observed black-staining, indulinophilic, beta-granules in bone marrow-derived eosinophils, which were probably immature crystalloid granules in eosinophil myelocytes. Ehrlich described the features of the alpha-granule and the cell's distribution in various species and tissues. He speculated correctly that the alpha-granule contents were secretory products and described several causes of eosinophilia including asthma, various skin diseases, helminths and reactions to medications. However, the cell was almost certainly observed by others before Ehrlich. In 1846 Thomas Wharton Jones (1808-1891) described 'granule blood cells' in the lamprey, frog, fowl, horse, elephant and man. He 'borrowed' the term granule cell from Julius Vogel (1814-1880) who had observed similar cells in inflammatory exudates. Vogel in turn was aware of the work of the Gottlieb (Théophile) Gluge (1812-1898) who used the term 'compound inflammatory globules' to describe cells in pus and serum. Almost 20 years before Ehrlich developed his staining methods, Max Johann Sigismund Schultze (1825-1874) performed functional experiments on coarse granular cells using a warm stage microscopic technique and showed they had amoeboid movement and phagocytic abilities. Although these early investigators recognised distinct granular cells Ehrlich's use of stains was a landmark contribution, which heralded modern studies on eosinophils and other blood leucocytes.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33584597",
+   "title": "Pandemics Throughout History.",
+   "authors": [
+    "Piret J",
+    "Boivin G"
+   ],
+   "journal": "Frontiers in microbiology",
+   "year": 2020,
+   "doi": "10.3389/fmicb.2020.631736",
+   "abstract": "The emergence and spread of infectious diseases with pandemic potential occurred regularly throughout history. Major pandemics and epidemics such as plague, cholera, flu, severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) have already afflicted humanity. The world is now facing the new coronavirus disease 2019 (COVID-19) pandemic. Many infectious diseases leading to pandemics are caused by zoonotic pathogens that were transmitted to humans due to increased contacts with animals through breeding, hunting and global trade activities. The understanding of the mechanisms of transmission of pathogens to humans allowed the establishment of methods to prevent and control infections. During centuries, implementation of public health measures such as isolation, quarantine and border control helped to contain the spread of infectious diseases and maintain the structure of the society. In the absence of pharmaceutical interventions, these containment methods have still been used nowadays to control COVID-19 pandemic. Global surveillance programs of water-borne pathogens, vector-borne diseases and zoonotic spillovers at the animal-human interface are of prime importance to rapidly detect the emergence of infectious threats. Novel technologies for rapid diagnostic testing, contact tracing, drug repurposing, biomarkers of disease severity as well as new platforms for the development and production of vaccines are needed for an effective response in case of pandemics.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31123692",
+   "title": "The History of Antibiotic Treatment of Osteomyelitis.",
+   "authors": [
+    "Cortés-Penfield NW",
+    "Kulkarni PA"
+   ],
+   "journal": "Open forum infectious diseases",
+   "year": 2019,
+   "doi": "10.1093/ofid/ofz181",
+   "abstract": "Antibiotic treatment of osteomyelitis has evolved substantially over the past 80 years. Traditional teachings (eg, that antimicrobials must be given parenterally, selected based upon ratios of achieved bone vs serum drug levels, and continued for 4-6 weeks) are supported by limited data. New studies are challenging this dogma, however. In this review, we seek to contextualize the discussion by providing a narrative, chronologic review of osteomyelitis treatment spanning the pre-antibiotic era through the present day and by describing the quality of evidence supporting each component of traditional osteomyelitis therapy.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "24653750",
+   "title": "Brief history of syphilis.",
+   "authors": [
+    "Tampa M",
+    "Sarbu I",
+    "Matei C",
+    "Benea V",
+    "Georgescu SR"
+   ],
+   "journal": "Journal of medicine and life",
+   "year": 2014,
+   "doi": null,
+   "abstract": "Before the discovery of Treponema pallidum as the etiologic agent, the origins of syphilis have been the subject of several debates. Diverse therapeutic agents were employed in an attempt to cure the disease. Examining the milestones in the history of syphilis, the present article reviews the existing theories that tried to explain the origins of the disease, the approach in art, the cultural and the evolution of the treatments from the empiric means to the discovery of penicillin.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
    ]
   },
   {
@@ -19255,6 +19615,1878 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Microbiology began as a unified science using the principles of chemistry to understand living systems",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29358495-1-en",
+   "translationKey": "history-29358495-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "When and where was the first CRISPR sequence noticed?",
+   "options": [
+    "In 2012, in human embryonic cells",
+    "In 1953, in bacteriophage T2",
+    "In 1987, in Escherichia coli",
+    "In 1970, in yeast mitochondria"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "An odd repetitive sequence turned up in E. coli in 1987 while studying phosphate metabolism genes.",
+   "shortExplanation": "1987, E. coli.",
+   "pmid": "29358495",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The first hint of their existence came in 1987, when an unusual repetitive DNA sequence, which subsequently was defined as a CRISPR, was discovered in the Escherichia coli genome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29358495-1-es",
+   "translationKey": "history-29358495-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuándo y dónde se observó por primera vez una secuencia CRISPR?",
+   "options": [
+    "En 2012, en células embrionarias humanas",
+    "En 1953, en el bacteriófago T2",
+    "En 1987, en Escherichia coli",
+    "En 1970, en mitocondrias de levadura"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Una secuencia repetitiva extraña apareció en E. coli en 1987, al estudiar genes del metabolismo del fosfato.",
+   "shortExplanation": "1987, E. coli.",
+   "pmid": "29358495",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The first hint of their existence came in 1987, when an unusual repetitive DNA sequence, which subsequently was defined as a CRISPR, was discovered in the Escherichia coli genome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29358495-2-en",
+   "translationKey": "history-29358495-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What role was first proposed for Cas proteins, before their immune function was known?",
+   "options": [
+    "DNA repair in heat-loving archaea",
+    "Photosynthesis in marine cyanobacteria",
+    "Toxin secretion in pathogens",
+    "Spore formation in Bacillus species"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cas proteins were initially thought to repair DNA in heat-loving archaea, before CRISPR was recognized as adaptive immunity.",
+   "shortExplanation": "DNA repair.",
+   "pmid": "29358495",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which were initially hypothesized to be involved in DNA repair in hyperthermophilic archaea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29358495-2-es",
+   "translationKey": "history-29358495-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué función se propuso primero para las proteínas Cas, antes de conocer su papel inmune?",
+   "options": [
+    "Reparar ADN en arqueas termófilas",
+    "La fotosíntesis en cianobacterias marinas",
+    "Secretar toxinas en patógenos",
+    "Formar esporas en especies de Bacillus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Se pensó primero que las Cas reparaban ADN en arqueas amantes del calor, antes de reconocer a CRISPR como inmunidad adaptativa.",
+   "shortExplanation": "Reparar ADN.",
+   "pmid": "29358495",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which were initially hypothesized to be involved in DNA repair in hyperthermophilic archaea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28515626-1-en",
+   "translationKey": "history-28515626-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Why was scrofula called the \"king's evil\" in England and France?",
+   "options": [
+    "It only affected members of royalty",
+    "Kings caught it while at war",
+    "It was spread by royal horses",
+    "People believed a royal touch cured it"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Scrofula, a tuberculous infection of neck lymph nodes, was thought curable by the touch of the king.",
+   "shortExplanation": "Royal touch.",
+   "pmid": "28515626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The illness was known in England and France as \"king's evil\", and it was widely believed that persons affected could heal after a royal touch",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28515626-1-es",
+   "translationKey": "history-28515626-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Por qué la escrófula se llamaba \"mal del rey\" en Inglaterra y Francia?",
+   "options": [
+    "Solo afectaba a miembros de la realeza",
+    "Los reyes se contagiaban en la guerra",
+    "La propagaban los caballos del rey",
+    "Se creía que el toque real la curaba"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La escrófula, una tuberculosis de los ganglios del cuello, se creía curable con el toque del rey.",
+   "shortExplanation": "El toque real.",
+   "pmid": "28515626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The illness was known in England and France as \"king's evil\", and it was widely believed that persons affected could heal after a royal touch",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28515626-2-en",
+   "translationKey": "history-28515626-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Who first suggested, in 1720, that tuberculosis was infectious?",
+   "options": [
+    "Robert Koch",
+    "Benjamin Marten",
+    "René Laennec",
+    "Hippocrates of Kos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The English physician Benjamin Marten conjectured an infectious origin more than 160 years before Koch.",
+   "shortExplanation": "Benjamin Marten.",
+   "pmid": "28515626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 1720, for the first time, the infectious origin of TB was conjectured by the English physician Benjamin Marten",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28515626-2-es",
+   "translationKey": "history-28515626-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Quién sugirió por primera vez, en 1720, que la tuberculosis era infecciosa?",
+   "options": [
+    "Robert Koch",
+    "Benjamin Marten",
+    "René Laennec",
+    "Hipócrates de Cos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El médico inglés Benjamin Marten conjeturó un origen infeccioso más de 160 años antes que Koch.",
+   "shortExplanation": "Benjamin Marten.",
+   "pmid": "28515626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 1720, for the first time, the infectious origin of TB was conjectured by the English physician Benjamin Marten",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28515626-3-en",
+   "translationKey": "history-28515626-3",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "On which date did Koch announce the isolation of the tubercle bacillus in Berlin?",
+   "options": [
+    "24 March 1882",
+    "14 May 1796",
+    "6 July 1885",
+    "28 September 1928"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Koch presented his discovery on 24 March 1882; that date is now World Tuberculosis Day.",
+   "shortExplanation": "24 March 1882.",
+   "pmid": "28515626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "presented this extraordinary result to the society of Physiology in Berlin on 24 March 1882",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28515626-3-es",
+   "translationKey": "history-28515626-3",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿En qué fecha anunció Koch en Berlín el aislamiento del bacilo de la tuberculosis?",
+   "options": [
+    "24 de marzo de 1882",
+    "14 de mayo de 1796",
+    "6 de julio de 1885",
+    "28 de septiembre de 1928"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Koch presentó su hallazgo el 24 de marzo de 1882; hoy esa fecha es el Día Mundial de la Tuberculosis.",
+   "shortExplanation": "24 de marzo de 1882.",
+   "pmid": "28515626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "presented this extraordinary result to the society of Physiology in Berlin on 24 March 1882",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28515626-4-en",
+   "translationKey": "history-28515626-4",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What was the first successful remedy against tuberculosis, before drugs existed?",
+   "options": [
+    "Bloodletting and leeches",
+    "Inhaling mercury vapors",
+    "The sanatorium cure",
+    "Removing the lymph nodes"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Sanatoria offered rest, nutrition and fresh air; streptomycin and other drugs came only in the 20th century.",
+   "shortExplanation": "Sanatorium cure.",
+   "pmid": "28515626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the first successful remedy against TB was the introduction of the sanatorium cure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28515626-4-es",
+   "translationKey": "history-28515626-4",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál fue el primer remedio exitoso contra la tuberculosis, antes de los fármacos?",
+   "options": [
+    "Las sangrías y las sanguijuelas",
+    "Inhalar vapores de mercurio",
+    "La cura en sanatorios",
+    "Extirpar los ganglios linfáticos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los sanatorios ofrecían reposo, nutrición y aire puro; la estreptomicina y otros fármacos llegaron recién en el siglo XX.",
+   "shortExplanation": "La cura en sanatorios.",
+   "pmid": "28515626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the first successful remedy against TB was the introduction of the sanatorium cure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36479755-1-en",
+   "translationKey": "history-36479755-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Which streptococcal disease was already described by Hippocrates in the 4th century BC?",
+   "options": [
+    "Rheumatic heart disease",
+    "Necrotizing fasciitis",
+    "Toxic shock syndrome",
+    "Erysipelas of the skin"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hippocrates described erysipelas (\"red skin\") and the symptoms of childbed fever.",
+   "shortExplanation": "Erysipelas.",
+   "pmid": "36479755",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The original writings of Hippocrates from the 4th century BC describe the disease erysipelas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36479755-1-es",
+   "translationKey": "history-36479755-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué enfermedad estreptocócica ya describía Hipócrates en el siglo IV a. C.?",
+   "options": [
+    "La cardiopatía reumática",
+    "La fascitis necrotizante",
+    "El síndrome de shock tóxico",
+    "La erisipela de la piel"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hipócrates describió la erisipela (\"piel roja\") y los síntomas de la fiebre puerperal.",
+   "shortExplanation": "La erisipela.",
+   "pmid": "36479755",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The original writings of Hippocrates from the 4th century BC describe the disease erysipelas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36479755-2-en",
+   "translationKey": "history-36479755-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Before germ theory, which natural phenomena were sometimes blamed for diseases?",
+   "options": [
+    "Tides and ocean currents",
+    "Comets and eclipses",
+    "Earthquakes and volcanoes",
+    "Rainbows and northern lights"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Old theories linked disease to comets and eclipses, to vapors and smells, or to contagion between people.",
+   "shortExplanation": "Comets and eclipses.",
+   "pmid": "36479755",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "associating their occurrence with natural phenomena like comets and eclipses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36479755-2-es",
+   "translationKey": "history-36479755-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Antes de la teoría microbiana, ¿a qué fenómenos naturales se culpaba a veces de las enfermedades?",
+   "options": [
+    "A las mareas y las corrientes",
+    "A los cometas y los eclipses",
+    "A los terremotos y los volcanes",
+    "A los arcoíris y las auroras"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Teorías antiguas vinculaban la enfermedad con cometas y eclipses, con vapores y olores o con el contagio entre personas.",
+   "shortExplanation": "Cometas y eclipses.",
+   "pmid": "36479755",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "associating their occurrence with natural phenomena like comets and eclipses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-34564627-1-en",
+   "translationKey": "history-34564627-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Leukocytosis, hyperinsulinemia and histamine sensitization in pertussis turned out to be caused by…",
+   "options": [
+    "A single molecule: pertussis toxin",
+    "Three separate bacterial toxins",
+    "The host's own antibodies",
+    "Contaminants in old vaccines"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Long thought to be different molecules, all these effects were shown in the 1980s to come from one toxin.",
+   "shortExplanation": "One toxin.",
+   "pmid": "34564627",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "these activities are all due to a single molecule today referred to as pertussis toxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-34564627-1-es",
+   "translationKey": "history-34564627-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "La leucocitosis, la hiperinsulinemia y la sensibilización a histamina de la tos convulsa resultaron deberse a…",
+   "options": [
+    "Una sola molécula: la toxina pertussis",
+    "Tres toxinas bacterianas distintas",
+    "Los propios anticuerpos del huésped",
+    "Contaminantes de las vacunas antiguas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Se creían moléculas distintas, pero en los años 80 se demostró que todos estos efectos venían de una sola toxina.",
+   "shortExplanation": "Una sola toxina.",
+   "pmid": "34564627",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "these activities are all due to a single molecule today referred to as pertussis toxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-34564627-2-en",
+   "translationKey": "history-34564627-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "Besides being a lab tool in cell biology, how is pertussis toxin used today?",
+   "options": [
+    "As a treatment for diabetes",
+    "As a food preservative",
+    "As an antigen in acellular vaccines",
+    "As an antibiotic against Bordetella"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Detoxified pertussis toxin is a key protective antigen in acellular pertussis vaccines.",
+   "shortExplanation": "Vaccine antigen.",
+   "pmid": "34564627",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a protective antigen in acellular pertussis vaccines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-34564627-2-es",
+   "translationKey": "history-34564627-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "Además de herramienta de laboratorio en biología celular, ¿cómo se usa hoy la toxina pertussis?",
+   "options": [
+    "Como tratamiento de la diabetes",
+    "Como conservante de alimentos",
+    "Como antígeno de vacunas acelulares",
+    "Como antibiótico contra Bordetella"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La toxina pertussis destoxificada es un antígeno protector clave de las vacunas acelulares.",
+   "shortExplanation": "Antígeno vacunal.",
+   "pmid": "34564627",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a protective antigen in acellular pertussis vaccines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-20471523-1-en",
+   "translationKey": "history-20471523-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "What has the widespread use of effective veterinary vaccines achieved?",
+   "options": [
+    "Nothing measurable so far",
+    "Control of several diseases",
+    "The end of all animal infections",
+    "Replacement of every antibiotic"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Vaccines controlled and even eradicated several animal diseases, though many still lack effective vaccines.",
+   "shortExplanation": "Control and eradication.",
+   "pmid": "20471523",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The common and aggressive use of efficacious vaccines has been responsible for the control and eradication of several diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-20471523-1-es",
+   "translationKey": "history-20471523-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué logró el uso amplio de vacunas veterinarias eficaces?",
+   "options": [
+    "Nada medible hasta ahora",
+    "Controlar varias enfermedades",
+    "El fin de toda infección animal",
+    "Reemplazar a todos los antibióticos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las vacunas controlaron e incluso erradicaron varias enfermedades animales, aunque muchas aún no tienen vacuna eficaz.",
+   "shortExplanation": "Control y erradicación.",
+   "pmid": "20471523",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The common and aggressive use of efficacious vaccines has been responsible for the control and eradication of several diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-34355760-1-en",
+   "translationKey": "history-34355760-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "From which older idea did the One Health concept originate?",
+   "options": [
+    "Germ theory",
+    "Galenic humors",
+    "Miasma theory",
+    "One Medicine"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "One Medicine promoted collaboration between human and veterinary medicine long before One Health.",
+   "shortExplanation": "One Medicine.",
+   "pmid": "34355760",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the concept of One Health, as we presently know it, originated from One Medicine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-34355760-1-es",
+   "translationKey": "history-34355760-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿De qué idea más antigua surgió el concepto Una Salud?",
+   "options": [
+    "La teoría microbiana de la enfermedad",
+    "La medicina humoral de Galeno",
+    "La teoría miasmática",
+    "Una Medicina (One Medicine)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Una Medicina promovía la colaboración entre medicina humana y veterinaria mucho antes que Una Salud.",
+   "shortExplanation": "Una Medicina.",
+   "pmid": "34355760",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the concept of One Health, as we presently know it, originated from One Medicine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29271338-1-en",
+   "translationKey": "history-29271338-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Which use most distinguishes food-animal antibiotic use from human medical use?",
+   "options": [
+    "Growth promotion, low doses",
+    "Treating individual sick animals only",
+    "Use only under hospital conditions",
+    "Use exclusively as topical creams"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Food animals historically received medically important antibiotics for growth promotion and at subtherapeutic doses.",
+   "shortExplanation": "Growth promotion.",
+   "pmid": "29271338",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "particularly in growth promotional and \"subtherapeutic\" use of medically-important antibiotics in animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29271338-1-es",
+   "translationKey": "history-29271338-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué uso distingue más el empleo de antibióticos en animales de producción del uso médico humano?",
+   "options": [
+    "Promotores de crecimiento, dosis bajas",
+    "Tratar solo a animales enfermos individuales",
+    "Usarlos solo en condiciones hospitalarias",
+    "Usarlos exclusivamente como cremas tópicas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los animales de producción recibieron antibióticos de importancia médica como promotores de crecimiento y en dosis subterapéuticas.",
+   "shortExplanation": "Promoción del crecimiento.",
+   "pmid": "29271338",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "particularly in growth promotional and \"subtherapeutic\" use of medically-important antibiotics in animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-1840859-1-en",
+   "translationKey": "history-1840859-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Which agencies promoted veterinary public health in national governments after 1945?",
+   "options": [
+    "UNESCO and IMF",
+    "NATO, Red Cross",
+    "WHO and PAHO",
+    "FAO, World Bank"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The World Health Organization and the Pan American Health Organization promoted VPH programs.",
+   "shortExplanation": "WHO and PAHO.",
+   "pmid": "1840859",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "These international health agencies have promoted VPH in national governments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-1840859-1-es",
+   "translationKey": "history-1840859-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué organismos promovieron la salud pública veterinaria en los gobiernos después de 1945?",
+   "options": [
+    "UNESCO y FMI",
+    "OTAN y Cruz Roja",
+    "La OMS y la OPS",
+    "FAO y Banco Mundial"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La Organización Mundial de la Salud y la Organización Panamericana de la Salud impulsaron programas de SPV.",
+   "shortExplanation": "OMS y OPS.",
+   "pmid": "1840859",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "These international health agencies have promoted VPH in national governments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-3307123-1-en",
+   "translationKey": "history-3307123-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "According to this history of scabies, when was its parasitic cause discovered?",
+   "options": [
+    "In ancient Egypt",
+    "In the 15th century",
+    "In the 20th century",
+    "It is still unknown"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "After many attempts, the parasitic (mite) cause was found in the 15th century; treatments improved in the 19th–20th.",
+   "shortExplanation": "15th century.",
+   "pmid": "3307123",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "success was achieved in the discovery of the parasitic etiology of the disease in the 15th century",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-3307123-1-es",
+   "translationKey": "history-3307123-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Según esta historia de la sarna, ¿cuándo se descubrió su causa parasitaria?",
+   "options": [
+    "En el antiguo Egipto",
+    "En el siglo XV",
+    "En el siglo XX",
+    "Todavía se desconoce"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Tras muchos intentos, la causa parasitaria (un ácaro) se halló en el siglo XV; los tratamientos mejoraron en los siglos XIX–XX.",
+   "shortExplanation": "Siglo XV.",
+   "pmid": "3307123",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "success was achieved in the discovery of the parasitic etiology of the disease in the 15th century",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-26025714-1-en",
+   "translationKey": "history-26025714-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Why is archaeology useful for the history of veterinary medicine?",
+   "options": [
+    "Finds reveal more than old texts do",
+    "Ancient vets wrote detailed manuals",
+    "Medical tools are easy to excavate",
+    "It shows animals were never treated"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Early texts lack detail and instruments are rare, but archaeological findings still reveal a lot.",
+   "shortExplanation": "Finds reveal more.",
+   "pmid": "26025714",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "archaeological findings can provide a lot more information than might be thought",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-26025714-1-es",
+   "translationKey": "history-26025714-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Por qué la arqueología es útil para la historia de la veterinaria?",
+   "options": [
+    "Los hallazgos revelan más que los textos",
+    "Los veterinarios antiguos escribían manuales",
+    "Los instrumentos son fáciles de excavar",
+    "Muestra que nunca se trataba a los animales"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los textos antiguos tienen pocos detalles y los instrumentos son raros, pero los hallazgos arqueológicos revelan mucho.",
+   "shortExplanation": "Los hallazgos revelan más.",
+   "pmid": "26025714",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "archaeological findings can provide a lot more information than might be thought",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25791890-1-en",
+   "translationKey": "history-25791890-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Which CMV discovery redirected vaccine efforts toward a new antigen?",
+   "options": [
+    "The gene for the viral DNA polymerase",
+    "That CMV is a type of retrovirus",
+    "That CMV only infects transplant patients",
+    "A pentamer driving neutralization"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The pentameric complex generates most neutralizing antibodies, so newer vaccines try to include it.",
+   "shortExplanation": "The pentamer.",
+   "pmid": "25791890",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The subsequent discovery of the pentameric protein complex that generates most neutralizing antibodies led to efforts to incorporate that complex into vaccines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25791890-1-es",
+   "translationKey": "history-25791890-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué hallazgo sobre el CMV reorientó las vacunas hacia un nuevo antígeno?",
+   "options": [
+    "El gen de la ADN polimerasa viral",
+    "Que el CMV es un tipo de retrovirus",
+    "Que el CMV solo infecta trasplantados",
+    "Un pentámero clave para neutralizar"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El complejo pentamérico genera la mayoría de los anticuerpos neutralizantes, por eso las vacunas nuevas intentan incluirlo.",
+   "shortExplanation": "El pentámero.",
+   "pmid": "25791890",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The subsequent discovery of the pentameric protein complex that generates most neutralizing antibodies led to efforts to incorporate that complex into vaccines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25791890-2-en",
+   "translationKey": "history-25791890-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "How did cytomegalovirus vaccine development begin in the 1970s?",
+   "options": [
+    "With mRNA vaccines",
+    "With inactivated whole virus",
+    "With attenuated strains",
+    "With monoclonal antibodies"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Live attenuated strains came first; one proved safe and effective in kidney transplant patients in the 1980s.",
+   "shortExplanation": "Attenuated strains.",
+   "pmid": "25791890",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cytomegalovirus vaccine development started in the 1970s with attenuated strains",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25791890-2-es",
+   "translationKey": "history-25791890-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo empezó el desarrollo de vacunas contra el citomegalovirus en los años 70?",
+   "options": [
+    "Con vacunas de ARNm",
+    "Con virus entero inactivado",
+    "Con cepas atenuadas",
+    "Con anticuerpos monoclonales"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Primero vinieron cepas vivas atenuadas; una resultó segura y eficaz en trasplantados renales en los 80.",
+   "shortExplanation": "Cepas atenuadas.",
+   "pmid": "25791890",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cytomegalovirus vaccine development started in the 1970s with attenuated strains",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-41246889-1-en",
+   "translationKey": "history-41246889-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What mainly explains the high mortality of measles, per this history?",
+   "options": [
+    "Direct brain infection in all cases",
+    "Immune amnesia: loss of prior memory",
+    "Allergic reactions to the rash",
+    "Kidney failure from dehydration"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Measles eliminates memory T and B cells, erasing protection against other pathogens for years.",
+   "shortExplanation": "Immune amnesia.",
+   "pmid": "41246889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "High mortality is mainly due to immune amnesia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-41246889-1-es",
+   "translationKey": "history-41246889-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Según esta historia, ¿qué explica sobre todo la alta mortalidad del sarampión?",
+   "options": [
+    "Infección cerebral directa en todos los casos",
+    "La amnesia inmune: pierde la memoria previa",
+    "Reacciones alérgicas al exantema",
+    "Falla renal por deshidratación"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El sarampión elimina linfocitos T y B de memoria y borra por años la protección contra otros patógenos.",
+   "shortExplanation": "Amnesia inmune.",
+   "pmid": "41246889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "High mortality is mainly due to immune amnesia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-41246889-2-en",
+   "translationKey": "history-41246889-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "How many people can one measles patient infect in a susceptible population?",
+   "options": [
+    "About 1 or 2",
+    "About 3 or 4",
+    "About 6 or 7",
+    "About 12–18"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Measles is extremely contagious, partly because it spreads up to 4 days before symptoms.",
+   "shortExplanation": "12–18.",
+   "pmid": "41246889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "One patient may infect 12-18 secondary cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-41246889-2-es",
+   "translationKey": "history-41246889-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿A cuántas personas puede contagiar un enfermo de sarampión en una población susceptible?",
+   "options": [
+    "A uno o dos",
+    "A tres o cuatro",
+    "A seis o siete",
+    "A entre 12 y 18"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El sarampión es extremadamente contagioso, en parte porque se transmite hasta 4 días antes de los síntomas.",
+   "shortExplanation": "12–18.",
+   "pmid": "41246889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "One patient may infect 12-18 secondary cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36414136-1-en",
+   "translationKey": "history-36414136-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Who first described measles clinically, distinguishing it from smallpox?",
+   "options": [
+    "Rhazes (al-Razi)",
+    "Thomas Sydenham",
+    "Galen of Pergamon",
+    "Edward Jenner"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "In the 10th century Rhazes clearly separated measles from smallpox.",
+   "shortExplanation": "Rhazes.",
+   "pmid": "36414136",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Persian physician Rhazes gave the first clinical description of the disease in the 10th century, clearly differentiating it from smallpox",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36414136-1-es",
+   "translationKey": "history-36414136-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Quién describió primero el sarampión clínicamente, distinguiéndolo de la viruela?",
+   "options": [
+    "Rhazes (al-Razi)",
+    "Thomas Sydenham",
+    "Galeno de Pérgamo",
+    "Edward Jenner"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "En el siglo X Rhazes separó claramente el sarampión de la viruela.",
+   "shortExplanation": "Rhazes.",
+   "pmid": "36414136",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Persian physician Rhazes gave the first clinical description of the disease in the 10th century, clearly differentiating it from smallpox",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36414136-2-en",
+   "translationKey": "history-36414136-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "From which animal virus did measles virus emerge, around the 6th century BCE?",
+   "options": [
+    "Canine distemper virus",
+    "Avian influenza virus",
+    "Rinderpest virus",
+    "Swine fever virus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Measles virus diverged from rinderpest, a cattle morbillivirus, and became strictly human.",
+   "shortExplanation": "Rinderpest.",
+   "pmid": "36414136",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The current measles virus appeared recently from the rinderpest virus around the 6th century BCE",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36414136-2-es",
+   "translationKey": "history-36414136-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "¿De qué virus animal surgió el virus del sarampión, hacia el siglo VI a. C.?",
+   "options": [
+    "Virus del moquillo canino",
+    "Virus de la influenza aviar",
+    "Virus de la peste bovina",
+    "Virus de la fiebre porcina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El virus del sarampión divergió de la peste bovina, un morbilivirus del ganado, y pasó a ser estrictamente humano.",
+   "shortExplanation": "Peste bovina.",
+   "pmid": "36414136",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The current measles virus appeared recently from the rinderpest virus around the 6th century BCE",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36414136-3-en",
+   "translationKey": "history-36414136-3",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Where did Peter Panum study a famous measles epidemic in 1846?",
+   "options": [
+    "In Iceland's capital",
+    "In the Faroe Islands",
+    "On the island of Fiji",
+    "In Greenland's villages"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Panum's study in the isolated Faroe Islands clarified incubation and lifelong immunity.",
+   "shortExplanation": "Faroe Islands.",
+   "pmid": "36414136",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Its epidemiology was remarkably studied in 1846 by a Danish physician, Peter Panum, during an epidemic in the Faroe Islands",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36414136-3-es",
+   "translationKey": "history-36414136-3",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde estudió Peter Panum una famosa epidemia de sarampión en 1846?",
+   "options": [
+    "En la capital de Islandia",
+    "En las islas Feroe",
+    "En la isla de Fiyi",
+    "En aldeas de Groenlandia"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El estudio de Panum en las aisladas islas Feroe aclaró la incubación y la inmunidad de por vida.",
+   "shortExplanation": "Islas Feroe.",
+   "pmid": "36414136",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Its epidemiology was remarkably studied in 1846 by a Danish physician, Peter Panum, during an epidemic in the Faroe Islands",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36414136-4-en",
+   "translationKey": "history-36414136-4",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Who identified the measles virus in 1954?",
+   "options": [
+    "Louis Pasteur and Émile Roux",
+    "Jonas Salk and Albert Sabin",
+    "Robert Koch and Paul Ehrlich",
+    "Thomas Peebles and John Enders"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Peebles and Enders isolated the virus; Enders' team later developed the live attenuated vaccine (1958).",
+   "shortExplanation": "Peebles and Enders.",
+   "pmid": "36414136",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the virus was identified in 1954 by Thomas Peebles and John Enders",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36414136-4-es",
+   "translationKey": "history-36414136-4",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Quiénes identificaron el virus del sarampión en 1954?",
+   "options": [
+    "Louis Pasteur y Émile Roux",
+    "Jonas Salk y Albert Sabin",
+    "Robert Koch y Paul Ehrlich",
+    "Thomas Peebles y John Enders"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Peebles y Enders aislaron el virus; luego el equipo de Enders creó la vacuna atenuada (1958).",
+   "shortExplanation": "Peebles y Enders.",
+   "pmid": "36414136",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the virus was identified in 1954 by Thomas Peebles and John Enders",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29318984-1-en",
+   "translationKey": "history-29318984-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Who identified the dysentery bacillus in 1898, giving Shigella its name?",
+   "options": [
+    "Kiyoshi Shiga",
+    "Shibasaburo Kitasato",
+    "Hideyo Noguchi",
+    "Sahachiro Hata"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Kiyoshi Shiga identified the bacillus of bacillary dysentery in Japan in 1898.",
+   "shortExplanation": "Kiyoshi Shiga.",
+   "pmid": "29318984",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the identification of the dysentery bacillus by Kiyoshi Shiga in 1898",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29318984-1-es",
+   "translationKey": "history-29318984-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Quién identificó en 1898 el bacilo de la disentería, que dio nombre a Shigella?",
+   "options": [
+    "Kiyoshi Shiga",
+    "Shibasaburo Kitasato",
+    "Hideyo Noguchi",
+    "Sahachiro Hata"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Kiyoshi Shiga identificó el bacilo de la disentería bacilar en Japón en 1898.",
+   "shortExplanation": "Kiyoshi Shiga.",
+   "pmid": "29318984",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the identification of the dysentery bacillus by Kiyoshi Shiga in 1898",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29318984-2-en",
+   "translationKey": "history-29318984-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Why has Shigella been so important in microbiology research?",
+   "options": [
+    "It was the first bacterium ever seen",
+    "It is harmless and easy to grow",
+    "It is a model invasive pathogen",
+    "It produces the first antibiotic"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Shigella's invasion, toxins and plasmid-borne virulence made it a paradigm for other pathogens.",
+   "shortExplanation": "Model invasive pathogen.",
+   "pmid": "29318984",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Shigella has proved to be an outstanding model of an invasive bacterial pathogen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-29318984-2-es",
+   "translationKey": "history-29318984-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué Shigella fue tan importante en la investigación microbiológica?",
+   "options": [
+    "Fue la primera bacteria observada",
+    "Es inocua y fácil de cultivar",
+    "Es un modelo de patógeno invasivo",
+    "Produce el primer antibiótico"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Su invasión, sus toxinas y la virulencia en plásmidos hicieron de Shigella un modelo para otros patógenos.",
+   "shortExplanation": "Modelo de patógeno invasivo.",
+   "pmid": "29318984",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Shigella has proved to be an outstanding model of an invasive bacterial pathogen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35373578-1-en",
+   "translationKey": "history-35373578-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What discovery in the late 1950s launched the study of plasmids?",
+   "options": [
+    "That plasmids cause all viral diseases",
+    "R factors transfer multidrug resistance",
+    "That bacteria lack any chromosome",
+    "That antibiotics are made by plasmids"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Extrachromosomal R factors were found to spread multiple antibiotic resistance among enterobacteria.",
+   "shortExplanation": "R factors.",
+   "pmid": "35373578",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "extrachromosomal antibiotic resistance (R) factors are the responsible agents for the transmissibility of multiple antibiotic resistance among the enterobacteria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35373578-1-es",
+   "translationKey": "history-35373578-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué descubrimiento de fines de los 50 impulsó el estudio de los plásmidos?",
+   "options": [
+    "Que los plásmidos causan todas las virosis",
+    "Los factores R transfieren multirresistencia",
+    "Que las bacterias no tienen cromosoma",
+    "Que los plásmidos fabrican antibióticos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Se halló que factores R extracromosómicos diseminaban resistencia a varios antibióticos entre enterobacterias.",
+   "shortExplanation": "Los factores R.",
+   "pmid": "35373578",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "extrachromosomal antibiotic resistance (R) factors are the responsible agents for the transmissibility of multiple antibiotic resistance among the enterobacteria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35373578-2-en",
+   "translationKey": "history-35373578-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "Which surprising plasmid type was discovered in the 1980s, for example in Streptomyces?",
+   "options": [
+    "Plasmids made of RNA",
+    "Plasmids found only in viruses",
+    "Plasmids encoding ribosomes",
+    "Linear plasmids"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Linear plasmids, and even linear chromosomes, were found in several Streptomyces species.",
+   "shortExplanation": "Linear plasmids.",
+   "pmid": "35373578",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "One of the more fascinating developments in plasmid biology was the discovery of linear plasmids in the 1980s",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35373578-2-es",
+   "translationKey": "history-35373578-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué tipo sorprendente de plásmido se descubrió en los años 80, por ejemplo en Streptomyces?",
+   "options": [
+    "Plásmidos hechos de ARN",
+    "Plásmidos presentes solo en virus",
+    "Plásmidos que codifican ribosomas",
+    "Plásmidos lineales"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Se hallaron plásmidos lineales, e incluso cromosomas lineales, en varias especies de Streptomyces.",
+   "shortExplanation": "Plásmidos lineales.",
+   "pmid": "35373578",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "One of the more fascinating developments in plasmid biology was the discovery of linear plasmids in the 1980s",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27726780-1-en",
+   "translationKey": "history-27726780-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Why is epidemic typhus famous in military history?",
+   "options": [
+    "It decided more wars than generals",
+    "It only affected navies at sea",
+    "It was used as the first bioweapon",
+    "It disappeared before modern wars"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Typhus followed disasters and armies, and arguably shaped wars more than soldiers and generals.",
+   "shortExplanation": "It decided wars.",
+   "pmid": "27726780",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "has arguably determined the outcome of more wars than have soldiers and generals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27726780-1-es",
+   "translationKey": "history-27726780-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué el tifus epidémico es famoso en la historia militar?",
+   "options": [
+    "Decidió más guerras que los generales",
+    "Solo afectó a las armadas en el mar",
+    "Fue la primera arma biológica",
+    "Desapareció antes de las guerras modernas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El tifus acompañó desastres y ejércitos, y probablemente influyó en las guerras más que soldados y generales.",
+   "shortExplanation": "Decidió guerras.",
+   "pmid": "27726780",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "has arguably determined the outcome of more wars than have soldiers and generals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27726780-2-en",
+   "translationKey": "history-27726780-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What did paleomicrobiology find in remains of Napoleon's soldiers in Vilnius?",
+   "options": [
+    "Yersinia pestis, the plague bacillus",
+    "Smallpox virus DNA",
+    "Rickettsia prowazekii (typhus)",
+    "Vibrio cholerae in their teeth"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "PCR on dental pulp detected R. prowazekii, showing the Grand Army suffered epidemic typhus.",
+   "shortExplanation": "Typhus Rickettsia.",
+   "pmid": "27726780",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "R. prowazekii was also detected in the remains of soldiers of Napoleon's Grand Army in Vilnius",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27726780-2-es",
+   "translationKey": "history-27726780-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué halló la paleomicrobiología en restos de soldados de Napoleón en Vilna?",
+   "options": [
+    "Yersinia pestis, el bacilo de la peste",
+    "ADN del virus de la viruela",
+    "Rickettsia prowazekii (tifus)",
+    "Vibrio cholerae en sus dientes"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La PCR de pulpa dental detectó R. prowazekii: el Gran Ejército sufrió tifus epidémico.",
+   "shortExplanation": "Rickettsia del tifus.",
+   "pmid": "27726780",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "R. prowazekii was also detected in the remains of soldiers of Napoleon's Grand Army in Vilnius",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27047477-1-en",
+   "translationKey": "history-27047477-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "In the 1930s, how was atypical pneumonia told apart from pneumococcal pneumonia?",
+   "options": [
+    "By a positive Gram stain of sputum",
+    "It ignored sulfonamides",
+    "By its seasonal pattern only",
+    "It only affected children"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Primary atypical pneumonia did not respond to sulfonamides, unlike pneumococcal pneumonia.",
+   "shortExplanation": "Sulfonamide resistance.",
+   "pmid": "27047477",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "atypical pneumonia was clinically distinguished from pneumococcal pneumonia by its resistance to sulfonamides",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27047477-1-es",
+   "translationKey": "history-27047477-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "En los años 30, ¿cómo se distinguía la neumonía atípica de la neumocócica?",
+   "options": [
+    "Por una tinción de Gram positiva",
+    "No respondía a las sulfas",
+    "Solo por su patrón estacional",
+    "Solo afectaba a niños"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La neumonía atípica primaria no respondía a las sulfonamidas, a diferencia de la neumocócica.",
+   "shortExplanation": "No respondía a sulfas.",
+   "pmid": "27047477",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "atypical pneumonia was clinically distinguished from pneumococcal pneumonia by its resistance to sulfonamides",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27047477-2-en",
+   "translationKey": "history-27047477-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "How long did it take for the \"Eaton agent\" to be accepted as Mycoplasma pneumoniae?",
+   "options": [
+    "About 2 months",
+    "About 2 years",
+    "About 50 years",
+    "About 20 years"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "It was long thought to be a virus; growth in media in the early 1960s finally proved it was a mycoplasma.",
+   "shortExplanation": "~20 years.",
+   "pmid": "27047477",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resulted in a lapse of 20 years before acceptance of the Eaton agent as Mycoplasma pneumoniae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27047477-2-es",
+   "translationKey": "history-27047477-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "¿Cuánto tardó en aceptarse que el \"agente de Eaton\" era Mycoplasma pneumoniae?",
+   "options": [
+    "Unos 2 meses",
+    "Unos 2 años",
+    "Unos 50 años",
+    "Unos 20 años"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Se lo creyó un virus durante mucho tiempo; su cultivo en medios a comienzos de los 60 probó que era un micoplasma.",
+   "shortExplanation": "~20 años.",
+   "pmid": "27047477",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resulted in a lapse of 20 years before acceptance of the Eaton agent as Mycoplasma pneumoniae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27741152-1-en",
+   "translationKey": "history-27741152-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "What did Metchnikoff link to the long lives of rural Bulgarians?",
+   "options": [
+    "Drinking mountain spring water",
+    "Eating mostly raw vegetables",
+    "Eating yogurt and fermented dairy",
+    "Avoiding all meat and fish"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Metchnikoff proposed that lactobacilli in fermented milk counter harmful gut putrefaction and aging.",
+   "shortExplanation": "Fermented dairy.",
+   "pmid": "27741152",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "E. Metchnikoff associated the enhanced longevity of Bulgarian rural people to the regular consumption of fermented dairy products such as yogurt",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27741152-1-es",
+   "translationKey": "history-27741152-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué relacionó Metchnikoff con la larga vida de los campesinos búlgaros?",
+   "options": [
+    "Tomar agua de manantial de montaña",
+    "Comer sobre todo verduras crudas",
+    "Consumir yogur y lácteos fermentados",
+    "Evitar toda carne y pescado"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Metchnikoff propuso que los lactobacilos de la leche fermentada contrarrestan la putrefacción intestinal y el envejecimiento.",
+   "shortExplanation": "Lácteos fermentados.",
+   "pmid": "27741152",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "E. Metchnikoff associated the enhanced longevity of Bulgarian rural people to the regular consumption of fermented dairy products such as yogurt",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27741152-2-en",
+   "translationKey": "history-27741152-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "How old is the idea behind fecal microbiota transplantation?",
+   "options": [
+    "A 4th-century Chinese handbook",
+    "It was invented in the 1990s",
+    "It began with Pasteur in 1880",
+    "It started with Fleming in 1928"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "A Chinese handbook from the 4th century already used it for food poisoning and severe diarrhea.",
+   "shortExplanation": "4th-century China.",
+   "pmid": "27741152",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fecal microbiota transplantation dates to a fourth-century Chinese handbook for food poisoning or severe diarrhea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27741152-2-es",
+   "translationKey": "history-27741152-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué antigüedad tiene la idea detrás del trasplante de microbiota fecal?",
+   "options": [
+    "Un manual chino del siglo IV",
+    "Se inventó en los años 90",
+    "Empezó con Pasteur en 1880",
+    "Comenzó con Fleming en 1928"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Un manual chino del siglo IV ya lo usaba para intoxicaciones alimentarias y diarreas graves.",
+   "shortExplanation": "China, siglo IV.",
+   "pmid": "27741152",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fecal microbiota transplantation dates to a fourth-century Chinese handbook for food poisoning or severe diarrhea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25544991-1-en",
+   "translationKey": "history-25544991-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Who introduced blood film staining with coal tar dyes and named the eosinophil?",
+   "options": [
+    "Robert Koch",
+    "Paul Ehrlich",
+    "Rudolf Virchow",
+    "Élie Metchnikoff"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "In 1879 Ehrlich published his staining and differential count methods and first mentioned the eosinophil.",
+   "shortExplanation": "Paul Ehrlich.",
+   "pmid": "25544991",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 1879 Paul Ehrlich published his technique for staining blood films",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25544991-1-es",
+   "translationKey": "history-25544991-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Quién introdujo la tinción de frotis sanguíneos con colorantes de alquitrán y nombró al eosinófilo?",
+   "options": [
+    "Robert Koch",
+    "Paul Ehrlich",
+    "Rudolf Virchow",
+    "Élie Metchnikoff"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "En 1879 Ehrlich publicó sus métodos de tinción y recuento diferencial y mencionó por primera vez al eosinófilo.",
+   "shortExplanation": "Paul Ehrlich.",
+   "pmid": "25544991",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 1879 Paul Ehrlich published his technique for staining blood films",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25544991-2-en",
+   "translationKey": "history-25544991-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Who discovered the dye eosin, later used to name eosinophils?",
+   "options": [
+    "Paul Ehrlich himself",
+    "William Henry Perkin",
+    "Christian Gram",
+    "Heinrich Caro, at BASF"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Heinrich Caro of BASF discovered eosin in 1874, made by brominating fluorescein.",
+   "shortExplanation": "Heinrich Caro.",
+   "pmid": "25544991",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It was discovered in 1874 by Heinrich Caro",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25544991-2-es",
+   "translationKey": "history-25544991-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Quién descubrió el colorante eosina, que luego dio nombre a los eosinófilos?",
+   "options": [
+    "El propio Paul Ehrlich",
+    "William Henry Perkin",
+    "Christian Gram",
+    "Heinrich Caro, en BASF"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Heinrich Caro, de BASF, descubrió la eosina en 1874 al bromar la fluoresceína.",
+   "shortExplanation": "Heinrich Caro.",
+   "pmid": "25544991",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It was discovered in 1874 by Heinrich Caro",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-33584597-1-en",
+   "translationKey": "history-33584597-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Over the centuries, which measures helped contain epidemics without drugs?",
+   "options": [
+    "Bloodletting and purging",
+    "Burning herbs in the streets",
+    "Isolation and quarantine",
+    "Ringing church bells loudly"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Isolation, quarantine and border control have been used for centuries, and again for COVID-19.",
+   "shortExplanation": "Isolation and quarantine.",
+   "pmid": "33584597",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "implementation of public health measures such as isolation, quarantine and border control helped to contain the spread of infectious diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-33584597-1-es",
+   "translationKey": "history-33584597-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "A lo largo de los siglos, ¿qué medidas ayudaron a contener epidemias sin fármacos?",
+   "options": [
+    "Sangrías y purgas",
+    "Quemar hierbas en las calles",
+    "Aislamiento y cuarentena",
+    "Tocar fuerte las campanas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El aislamiento, la cuarentena y el control de fronteras se usan desde hace siglos, y otra vez con la COVID-19.",
+   "shortExplanation": "Aislamiento y cuarentena.",
+   "pmid": "33584597",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "implementation of public health measures such as isolation, quarantine and border control helped to contain the spread of infectious diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-31123692-1-en",
+   "translationKey": "history-31123692-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What does this history say about traditional osteomyelitis rules, such as 4–6 weeks of IV antibiotics?",
+   "options": [
+    "They rest on limited data",
+    "They are proven by many trials",
+    "They were abandoned in 1950",
+    "They apply only to children"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Dogmas like mandatory parenteral therapy for 4–6 weeks have little supporting evidence and are being challenged.",
+   "shortExplanation": "Limited data.",
+   "pmid": "31123692",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Traditional teachings (eg, that antimicrobials must be given parenterally, selected based upon ratios of achieved bone vs serum drug levels, and continued for 4-6 weeks) are supported by limited data",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-31123692-1-es",
+   "translationKey": "history-31123692-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué dice esta historia sobre las reglas tradicionales de la osteomielitis, como 4–6 semanas de antibiótico IV?",
+   "options": [
+    "Se basan en pocos datos",
+    "Las prueban muchos ensayos",
+    "Se abandonaron en 1950",
+    "Solo valen para niños"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Dogmas como la terapia parenteral obligatoria por 4–6 semanas tienen poco respaldo y hoy se cuestionan.",
+   "shortExplanation": "Pocos datos.",
+   "pmid": "31123692",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Traditional teachings (eg, that antimicrobials must be given parenterally, selected based upon ratios of achieved bone vs serum drug levels, and continued for 4-6 weeks) are supported by limited data",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-24653750-1-en",
+   "translationKey": "history-24653750-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Which discovery ended the long search for an effective syphilis treatment?",
+   "options": [
+    "Mercury ointments",
+    "Guaiacum wood",
+    "Bismuth salts",
+    "Penicillin G"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Treatments evolved from empirical remedies to penicillin, still the drug of choice.",
+   "shortExplanation": "Penicillin.",
+   "pmid": "24653750",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the evolution of the treatments from the empiric means to the discovery of penicillin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-24653750-1-es",
+   "translationKey": "history-24653750-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué descubrimiento terminó con la larga búsqueda de un tratamiento eficaz para la sífilis?",
+   "options": [
+    "Ungüentos de mercurio",
+    "Madera de guayaco",
+    "Sales de bismuto",
+    "La penicilina G"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los tratamientos pasaron de remedios empíricos a la penicilina, todavía el fármaco de elección.",
+   "shortExplanation": "La penicilina.",
+   "pmid": "24653750",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the evolution of the treatments from the empiric means to the discovery of penicillin",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
