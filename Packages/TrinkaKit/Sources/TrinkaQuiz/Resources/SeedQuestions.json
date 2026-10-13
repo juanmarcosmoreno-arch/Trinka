@@ -1,5 +1,5 @@
 {
- "version": 13,
+ "version": 14,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -6174,6 +6174,336 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK448173"
+  },
+  {
+   "pmid": "33620821",
+   "title": "Vitamin A Deficiency",
+   "authors": [
+    "Ravi U",
+    "Daley SF",
+    "Taylor C"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Vitamin A is a fat-soluble vitamin essential for cell development, metabolism, immune competency, vision, and reproductive functions. Vitamin A deficiency (VAD) is a global health concern associated with substantial morbidity and mortality, mostly affecting young children in resource-poor regions. Insufficient intake or absorption leads to deficiency and compromise of essential physiologic processes. Natural sources of vitamin A include dark leafy greens, orange-colored vegetables, eggs, dairy products, liver, and fish. Vitamin A is absorbed in the duodenum after hydrolysis by pancreatic and intestinal enzymes, and emulsified with dietary fats and bile acids. Most vitamin A is then stored in hepatic stellate cells, with significant amounts also found in adipose tissue and the pancreas. The recommended dietary allowance (RDA) of vitamin A by the Institute of Medicine for healthy adults is 700 µg/d for women and 900 µg/d for men. For children, pregnant women, and lactating women, the RDAs are 300 to 900 µg/d, 770 µg/d, and 1300 µg/d, respectively. The minimum requirement to prevent symptomatic VAD in children 1 to 5 years of age is about 200 µg/d. Serum retinol levels indicate vitamin A nutritional status. Deficiency is defined as a retinol concentration of less than 20 µg/dL. VAD-associated ocular symptoms typically develop at concentrations less than 10 µg/dL. Dietary vitamin A is consumed as either provitamin A carotenoids from fruits and vegetables or preformed vitamin A (retinoids) from animal products. Carotenoids are most commonly beta-carotene, and retinoids are the active forms of vitamin A, including retinol and retinyl esters. Retinoids are well-absorbed at 75% to 100%, whereas carotenoid absorption varies widely depending on the food matrix and the type of carotenoid. A 12:1 ratio of beta-carotene to retinol absorption in a diet of mixed fruits and vegetables is the estimated conversion used by the Centers for Disease Control and Prevention. Many populations in developing countries rarely ingest meat, dairy, or carotenoid-rich vegetables, making it difficult to obtain sufficient vitamin A without supplementation. VAD remains a significant global public health problem and an important cause of preventable visual impairment, particularly among children and pregnant women in low-resource settings. In addition to ocular disease, VAD impairs immune function, growth, and epithelial integrity, increasing susceptibility to infections and other complications. This activity reviews the etiology, epidemiology, pathophysiology, clinical manifestations, evaluation, treatment, prevention, and interprofessional management of VAD, emphasizing early recognition and timely intervention to reduce associated morbidity and mortality.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK567744"
+  },
+  {
+   "pmid": "28722952",
+   "title": "Vitamin B12 Deficiency",
+   "authors": [
+    "Ankar A",
+    "Kumar A"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Vitamin B12 (cobalamin) is a water-soluble vitamin that is derived from animal products such as red meat, dairy, and eggs. Intrinsic factor is a glycoprotein that is produced by parietal cells in the stomach and is necessary for the absorption of B12 in the terminal ileum. Once absorbed, B12 is used as a cofactor for enzymes that are involved in the synthesis of deoxyribonucleic acid (DNA), fatty acids, and myelin. As a result, B12 deficiency can lead to hematologic and neurologic symptoms. B12 is stored in excess in the liver; however, in cases in which B12 cannot be absorbed for a prolonged period (eg, dietary insufficiency, malabsorption, lack of intrinsic factor), hepatic stores are depleted, and deficiency occurs.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441923"
+  },
+  {
+   "pmid": "29630239",
+   "title": "Vitamin C Deficiency",
+   "authors": [
+    "Maxfield L",
+    "Daley SF",
+    "Crane JS"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Scurvy is a clinical syndrome resulting from vitamin C deficiency. Vitamin C is essential for the growth and repair of skin, cartilage, bone, and teeth. In addition, it has significant antioxidant properties that protect cells from free radical damage. This article defines the sources, metabolism, and functions of vitamin C, covering the diagnosis, physical manifestations, evaluation, treatment, prognosis, and prevention of vitamin C deficiency. History of Vitamin C Deficiency Ancient Egyptian medical practitioners first documented the symptoms of this condition in 1550 bc in the Ebers Papyrus and prescribed the treatment with onions and vegetables. Hippocrates coined ileos emantis for the disease and described it as follows: \"The mouth feels unpleasant; gums are separated from the teeth; blood flows from the nostrils… ulcerations appear on the legs; skin becomes thin.\" During the 1700s, James Lind, a British Royal Navy surgeon, made the significant discovery that the consumption of lemons and oranges alleviated the symptoms of vitamin C deficiency. Tales from the pirates and British sailors era have made scurvy infamous across several countries. Scurvy also led to notable morbidity during the European potato famine, polar expeditions, the United States Civil War, and the California gold rush. In the 1920s, Albert Szent-Györgyi, a Hungarian biochemist, discovered the molecular structure of vitamin C and named it ascorbic acid, meaning anti-scurvy.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK493187"
+  },
+  {
+   "pmid": "28722941",
+   "title": "Vitamin D",
+   "authors": [
+    "Chauhan K",
+    "Shahrokhi M",
+    "Huecker MR"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Vitamin D is labeled as the \"sunshine vitamin,\" as it is produced in the skin during sun exposure. Vitamin D is required to maintain the serum calcium concentration within the normal physiologic range for musculoskeletal health. The Endocrine Society, the National and International Osteoporosis Foundation, and the American Geriatric Society define vitamin D deficiency as the level of 25-hydroxyvitamin (25 OH D) of less than 30 ng/mL. The Endocrine Society recommends a preferred range of 40 to 60 ng/mL. To maintain this level, the Endocrine Society recommends an intake of 400 to 1000 International Units (IU) daily for infants less than one year, 600 to 1000 IU for children and adolescents from 1 to 18 years, and 1500 to 2000 IU for all adults. This activity outlines the indications, mechanism of action, methods of administration, significant adverse effects, contraindications, toxicity, and monitoring, of vitamin D so providers can direct patient therapy in treatment or supplementation where it is indicated as part of the interprofessional team.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441912"
+  },
+  {
+   "pmid": "30725668",
+   "title": "Vitamin K Deficiency in Neonates and Adults",
+   "authors": [
+    "Daley SF",
+    "Sina RE"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Vitamin K deficiency is an often overlooked condition that affects both adults and newborns and can lead to significant morbidity, primarily due to impaired coagulation. Vitamin K is a fat-soluble vitamin essential for the synthesis of vitamin K–dependent proteins that are involved in hemostasis, bone metabolism, and cardiovascular health. Deficiency can cause bleeding complications, with severity ranging from subtle lab abnormalities to life-threatening hemorrhages, as well as contribute to poor bone development, osteoporosis, and increased cardiovascular disease. According to the National Academy of Sciences Food and Nutrition Board, the recommended adequate dietary intake for healthy adults is 120 μg/day for men and 90 μg/day for women. For children, the recommended range varies from 2 to 75 μg/day, depending on age. Vitamin K deficiency can occur across the lifespan. In adults, it is typically associated with inadequate dietary intake, fat malabsorption, liver disease, or use of medications that interfere with vitamin K metabolism. In contrast, newborns are at increased risk due to physiologic factors, including low vitamin K stores at birth and limited intake in early life. Vitamin K deficiency bleeding (VKDB) in newborns is categorized based on the timing of presentation. Early VKDB occurs within 24 hours after birth, classic VKDB presents in the first week of life, and late VKDB occurs between 1 week and 6 months, with a peak incidence between 2 and 8 weeks. In addition, hereditary vitamin K-dependent clotting factor deficiency (VKCFD) is a rare congenital disorder that can present in infancy or later in life. This activity reviews the etiology, epidemiology, clinical presentation, assessment, and treatment of vitamin K deficiency in both adults and newborns, and discusses current clinical guidelines for newborn prophylaxis to prevent VKDB, as well as the apparent rise in its incidence attributable to parental refusal and the lower efficacy of oral alternatives to parenteral vitamin K.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK536983"
+  },
+  {
+   "pmid": "30725889",
+   "title": "Vitamin B1 (Thiamine) Deficiency",
+   "authors": [
+    "Wiley KD",
+    "Singh J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Thiamine, identified many years ago as the first vitamin and designated vitamin B1, functions as a critical catalyst in energy generation through the decarboxylation of branched-chain amino acids and alpha-ketoacids. This vitamin also acts as a coenzyme for transketolase reactions in the form of thiamine pyrophosphate. An additional, not fully defined role involves the propagation of nerve impulses and the maintenance of the myelin sheath. This water-soluble vitamin occurs naturally in meat, beef, pork, legumes, whole grains, and nuts. In contrast, milled rice and processed grains contain minimal thiamine because manufacturing processes remove much of the vitamin. Certain foods, including tea, coffee, raw fish, and shellfish, contain thiaminases, which function as enzymes that degrade thiamine. Thiamine deficiency affects the cardiovascular, nervous, and immune systems and commonly manifests as wet beriberi, dry beriberi, or Wernicke-Korsakoff syndrome. Worldwide prevalence remains highest in populations relying on polished rice or milled cereals as staple foods and among individuals with chronic alcohol use disorder. Dry beriberi presents with symmetrical peripheral neuropathy, whereas wet beriberi presents with high-output heart failure. Wernicke-Korsakoff syndrome may involve central nervous system manifestations such as gait abnormalities, altered mental status, and ocular findings. Wernicke encephalopathy represents the most severe acute neurologic manifestation of thiamine deficiency and may progress to Korsakoff syndrome without timely thiamine replacement. Detailed discussion of diagnosis and management appears in the dedicated StatPearls article on Wernicke encephalopathy and Wernicke–Korsakoff syndrome.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK537204"
+  },
+  {
+   "pmid": "32491660",
+   "title": "Niacin Deficiency",
+   "authors": [
+    "Redzic S",
+    "Hashmi MF",
+    "Gupta V"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Niacin or vitamin B3 are generic terms for nicotinic acid and nicotinamide (niacinamide). Niacin was initially referred to as the anti-black tongue factor due to niacin's effect on dogs. In humans, niacin was discovered through the niacin deficiency condition pellagra. In the 1700s, pellagra first appeared in Italy, and the name translates into \"pella,\" meaning skin, and \"agra,\" meaning rough. In the early 1900s, pellagra was prevalent in the Southern United States due to the low availability of corn, the primary dietary source of niacin. In 1937, Elvehjem and his colleagues isolated the vitamin and demonstrated that pure nicotinic acid and nicotinic acid amide would reverse the black tongue and pellagra. Today, niacin deficiencies are uncommon in industrialized nations primarily due to sufficient dietary intake; however, specific populations remain at risk of this mostly eradicated condition. Previously nutritional deficiency was the commonest cause of pellagra in the world. However, this is no longer true in developed countries, where it has been nearly eradicated as a manifestation of primary nutritional deficiency. Instead, it now presents a consequence of chronic alcoholism, malabsorption syndrome, adverse drug effects, and anorexia nervosa.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557728"
+  },
+  {
+   "pmid": "30570998",
+   "title": "Folic Acid Deficiency",
+   "authors": [
+    "Baddam S",
+    "Khan KM",
+    "Jialal I"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Folic acid deficiency is defined by low folate concentrations in serum, plasma, or red blood cells (RBCs), although diagnostic thresholds vary among studies. Folate (vitamin B9 or folacin) is a water-soluble B vitamin essential for DNA synthesis, RBC formation, and cellular metabolism. Folate is naturally present in foods such as leafy greens, legumes, fruits, and liver. Folic acid—the synthetic form of folate—is widely used in fortified foods and supplements due to its superior bioavailability. Given its crucial role in fetal development, especially in preventing neural tube defects, many countries, including the United States, mandate folic acid fortification of grain products as a public health measure. Folate functions as a coenzyme in one-carbon (1C) metabolism, facilitating the synthesis of purines and pyrimidines required for DNA and RNA production. Folate also supports methylation reactions, which are vital to amino acid metabolism and gene regulation. Due to its involvement in rapidly dividing tissues, folate is essential during periods of rapid growth, such as pregnancy and infancy. Deficiency can impair DNA synthesis, leading to megaloblastic anemia, neuropsychiatric symptoms, and increased homocysteine levels, which have been associated with cardiovascular risk. Please see StatPearls' companion resource, \"Folic Acid,\" for additional information. In addition to its well-established role in hematological and fetal health, emerging research suggests that folate status is also linked to a broader range of clinical outcomes, including stroke, neurodevelopmental disorders, childhood leukemia, and lipid metabolism. Although supplementation offers significant health benefits, particularly for women of childbearing age, excessive intake has raised concerns about potential long-term risks, including cancer. Understanding the complex role of folate in health and disease remains a critical focus in clinical and public health nutrition. The recommended daily folate intake ranges from 65 mcg dietary folate equivalents in infants to 400 mcg in adults, with higher needs during pregnancy (600 mcg) and lactation (500 mcg). These guidelines aim to support normal cellular function and prevent deficiency-related complications, particularly during rapid growth or increased metabolic demand.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK535377"
+  },
+  {
+   "pmid": "32809711",
+   "title": "Iron Deficiency and Microcytic Hypochromic Anemia",
+   "authors": [
+    "Hanif N",
+    "Rout P",
+    "Anwer F"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Anemia is one of the most common chronic conditions worldwide and has significant morbidity. Circulating red blood cells (RBCs) contain the protein hemoglobin, which has 4 polypeptide chains and 1 heme ring containing iron in its reduced form. Iron is the main component of hemoglobin and is the prime carrier of oxygen. Iron deficiency causes a profound global burden, affecting over 2 billion people worldwide. Iron deficiency is estimated to affect about 40% of the population in developing countries and 10% in developed countries, making it the most common cause of anemia worldwide. Iron is essential for multiple important biological functions. Additionally, it is necessary for the synthesis of hemoglobin and myoglobin, oxygen transport, hormone synthesis, cell regulation and proliferation, DNA synthesis, mitochondrial electron transport, and antioxidation. Iron also plays a vital role in regulating both innate and adaptive immunity. The etiologies of chronic iron deficiency vary widely by demographics, including gender, age, geographic region, and diet. The primary cause of iron deficiency worldwide is a lack of enough iron-containing food. Other common causes include blood loss, gastrointestinal (GI) malabsorption, and genetic conditions. Quantifiable iron deficiency can result from inadequate intake, impaired absorption, or blood loss. Iron deficiency can be with or without anemia, both of which have clinical implications. Inflammatory states can also cause functional iron deficiency, in which iron stores are adequate but are sequestered by macrophages and unavailable for systemic use; this is referred to as anemia of chronic disease. Less commonly, thalassemias and lead toxicity may cause hypochromic anemia. Both conditions result from decreased hemoglobin content and cause microcytic hypochromic anemia. Reticulocyte count, iron indices, serum electrophoresis, lead levels, microscopy, and DNA studies can help distinguish these etiologies from iron deficiency.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK560876"
+  },
+  {
+   "pmid": "32644459",
+   "title": "The Role of Dietary Fiber in Health Promotion and Disease Prevention: A Practical Guide for Clinicians",
+   "authors": [
+    "Daley SF",
+    "Vadakekut ES"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Despite decades of research showing that dietary fiber is linked to lower rates of cardiovascular disease, type 2 diabetes, and colorectal cancer, most adults consume less than half of the recommended daily amount. For many patients, the advice to \"eat more fiber\" is familiar but not well understood in practice. Because fiber significantly influences gut health, glycemic control, lipid metabolism, and satiety, it has important implications for preventing and managing chronic diseases. Historical Definitions of Dietary Fiber Dietary fiber is a complex carbohydrate from the structural parts of plant foods, generally classified as soluble or insoluble. Soluble fiber dissolves in water and is partially fermented in the colon, while insoluble fiber does not dissolve and mainly adds bulk to the stool.[ASPEN Adult Nutrition Support Core Curriculum, Fourth Edition. 2025] No single universally accepted definition of dietary fiber has been established. In 1953, E.H. Hipsley of Australia first described fiber as the \"nondigestible constituent that makes up the plant cell wall.\" Since then, many organizations and countries have proposed different definitions. Creating a universally accepted definition remains difficult as researchers discover new compounds that share either the chemical structure or the physiological functions of fiber, but not always both. From a health perspective, fiber is best defined by its physiological effects, eg, supporting regular bowel movements, improving glycemic control, and lowering cholesterol. However, for food labeling and analytical purposes, scientists and regulatory agencies rely on the Association of Official Analytical Chemists' definition, based on chemical and analytical properties. Most definitions agree that fiber is composed of carbohydrates and lignin that resist digestion in the small intestine and are partially or fully fermented in the large intestine, producing beneficial metabolites such as short-chain fatty acids. Understanding these definitions is essential for clinicians, as it supports effective patient counseling, accurate interpretation of nutrition labels, and selection of foods that reliably provide the intended health benefits. Nutritional Impact of Dietary Fiber All dietary fiber comes from plant-based foods, including fruits, vegetables, whole grains, legumes, nuts, and seeds. Fiber plays a vital role in digestion, nutrient absorption, and gastrointestinal health. Soluble fibers, eg, pectin, gums, mucilage, fructans, and some resistant starches, absorb water to form a gel that slows gastric emptying, delays glucose absorption, and blunts postmeal blood sugar spikes. Soluble fiber also binds bile acids, modestly lowering LDL cholesterol levels, and acts as a prebiotic substrate for gut microbiota that produce short-chain fatty acids, which decrease inflammation and support metabolic and immune functions. In contrast, insoluble fiber does not dissolve in water. Insoluble fibers include lignin, cellulose, and hemicellulose, which reduce intestinal transit time and increase fecal bulk to promote digestive regularity. Both soluble and insoluble fibers enhance satiety, aid in weight management, and support cardiovascular and metabolic health. Added, or functional, fiber refers to indigestible carbohydrates that are extracted or isolated from plant sources and have been shown to offer health benefits, including better blood glucose regulation, lower cholesterol, and improved bowel regularity. This category includes certain concentrated or synthetically produced nondigestible carbohydrates, eg, psyllium, resistant starch, inulin, polydextrose, and cellulose. The effects of added fibers vary based on their chemical structure and physical properties, and laboratory-synthesized fibers must demonstrate proven health benefits before being labeled as dietary fiber. Adding fibers to foods can help individuals meet daily fiber goals when the naturally occurring fiber from whole foods is insufficient. Consumers can identify added fibers by looking for terms like \"soluble fiber,\" \"psyllium,\" \"inulin,\" \"resistant starch,\" or \"functional fiber,\" which are listed under total dietary fiber on the Nutrition Facts label. Dietary Fiber Recommendations The recommended adequate daily intake for fiber is 25 g for women and 38 g for men, or 14 g per 1,000 kcal consumed. This recommendation is based on evidence showing protection against coronary heart disease and other chronic diseases. It is supported by the Institute of Medicine, the Academy of Nutrition and Dietetics, and major U.S. guidelines. For children and adolescents, the target intake varies by age and sex, from 19 g daily for young children to 31 to 38 g/day for older boys and 25 to 26 g/day for older girls. Between 2017 and 2020, the mean consumption of dietary fiber by American adults was only 17 g per day, about half of the recommended adequate intake level. Approximately 94% of American children and adults fail to meet the adequate intake levels for dietary fiber. Dietary sources include: Soluble fiber: Fruits high in soluble fiber: apples, pears, citrus, berries, plums, peaches, and apricots. Vegetables high in soluble fiber: carrots, broccoli, Brussels sprouts, sweet potatoes, turnips, onions, and asparagus. Legumes, grains, and seeds high in soluble fiber: beans, lentils, chickpeas, oats, barley, rye, and chia seeds. Insoluble fiber: Fruits high in insoluble fiber: apples and pears with skin, berries (especially raspberries and blackberries), grapes, bananas, and oranges. Vegetables high in insoluble fiber: green beans, cauliflower, zucchini, broccoli stems, leafy greens (spinach, kale, and collards), potatoes, celery, and bell peppers. Other sources of insoluble fiber: whole grains (whole wheat, brown rice, rye, corn bran, and bulgur), nuts and seeds (almonds, walnuts, flaxseeds, chia seeds), legumes (beans, lentils, chickpeas, and peas).",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK559033"
+  },
+  {
+   "pmid": "32644650",
+   "title": "Severe Acute Malnutrition: Recognition and Management of Marasmus and Kwashiorkor",
+   "authors": [
+    "Titi-Lartey OA",
+    "Daley SF"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Severe acute malnutrition (SAM) is a life-threatening condition affecting millions of children worldwide and is characterized by inadequate weight relative to height. SAM is clinically categorized into 2 primary forms: marasmus, caused by an overall calorie deficiency, and kwashiorkor, primarily due to severe dietary protein deficiency despite adequate or near-adequate energy intake. A mixed form, marasmic-kwashiorkor, may also occur, combining features of both. The term \"kwashiorkor\" is derived from the Ga language spoken in Ghana and loosely translates to \"the sickness a baby gets when the new baby comes,\" referring to early weaning to a low-protein, high-carbohydrate diet. Anthropometry, the measurement of a child's physical size and dimensions, is the most commonly used tool to quantify pediatric undernutrition. Children with the marasmus form of SAM exhibit severe wasting, defined by a weight-for-height z-score that is greater than 3 standard deviations below the mean, based on age and gender, or, in children aged 6 to 59 months, a mid-upper arm circumference of 115 mm or less. The World Health Organization (WHO) and the Centers for Disease Control and Prevention growth charts are the most frequently used references for growth standards (see Image. World Health Organization Classification of Weight Status Table). Children with severe wasting exhibit a marked loss of both fat and muscle mass. Those with kwashiorkor present with bilateral edema, often with minimal or no visible wasting. Children with both forms of SAM typically have concomitant micronutrient deficiencies, particularly of iron, zinc, vitamin A, and iodine, which are associated with faltering growth, impaired cognitive development, and compromised host defenses, resulting in an increased risk of severe infections and mortality. Understanding these conditions' distinct presentations and underlying pathophysiology is critical for timely diagnosis and effective management. This article reviews the etiology, epidemiology, clinical features, diagnosis, and management of marasmus and kwashiorkor within the broader context of SAM, guided by WHO criteria and evidence-based clinical practice.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK559224"
+  },
+  {
+   "pmid": "30571077",
+   "title": "Physiology, Body Mass Index",
+   "authors": [
+    "Zierle-Ghosh A",
+    "Jan A"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Body mass index (BMI) is the method of utilizing an adult's height and weight to broadly place them into underweight, normal weight, overweight and obese categories. An individual's BMI is important in the determination of potential future health issues and has been widely used as a factor in the determination of various public health policies. BMI can be calculated using metric or imperial (US) units. Metric units: weight (kilograms) divided by height squared (meters): BMI = kg/m2. Imperial (US) units: weight (pounds) divided by height squared (inches) multiplied by 703: BMI = 703 (lbs/in2). To further discuss BMI and the issues, disease states, and clinical significance, it is important to understand the current cut-off points of each category as determined by the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC). World Health Organization:  Severely Underweight: <16 kg/m2. Underweight: 16.0 to 18.4 kg/m2. Normal weight: 18.5 to 24.9 kg/m2. Overweight: 25.0 to 29.9 kg/m2. Moderately Obese: 30.0 to 34.9 kg/m2. Severely Obese: 35.0 to 39.9 kg/m2. Morbidly Obese: ≥40.0 kg/m2. Centers for Disease Control and Prevention:  Underweight: less than or equal to 18.4 kg/m2. Normal weight: 18.5 to 24.9 kg/m2. Overweight: 25.0 to 39.9 kg/m2. Obese: ≥40.0 kg/m2. Centers for Disease Control and Prevention Child and Teen BMI (Utilized for those aged 2 to 20): Underweight: below the 5th percentile. Healthy weight: between the 5th and 85th percentile. Overweight: between the 85th and 95th percentile. Obese: greater than or equal to the 95th percentile. World Health Organization Asian-Population Criteria: Underweight: <18.5 kg/m2. Normal weight: 18.5 to 23.0 kg/m2. Overweight: 23.0 to 27.5 kg/m2. Obese: ≥27.5 kg/m2 .",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK535456"
+  },
+  {
+   "pmid": "34283442",
+   "title": "Pathophysiology of Obesity",
+   "authors": [
+    "Khanna D",
+    "Welch BS",
+    "Rehman A"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2022,
+   "doi": null,
+   "abstract": "Obesity is one of the most common preventable diseases. It is a major public health concern. Obesity has a multifactorial etiology that includes genetic, environmental, socioeconomic, and behavioral or psychological influences. Obesity results from a chronic positive energy balance regulated by a complex interaction between endocrine tissues and the central nervous system. Obesity measurement can also be used to estimate morbidity and mortality. Body mass index (BMI) has been used to screen overweight and obese individuals. However, waist circumference is the best anthropometric indicator of visceral fat and a better predictor of metabolic disorders such as diabetes, hypertension, and dyslipidemia. People with a normal BMI with a large waist are at higher risk. However, combining BMI and waist circumference adds relatively less risk prediction since they are collinear in nature. Furthermore, hip circumference is inversely related to metabolic syndrome. Large hip circumference is related to lower risks of diabetes and coronary heart disease. This is probably due to having a large muscle mass in the hip region. Compared to the Body Mass Index (BMI), the Visceral Adiposity Index (VAI) is a more specific and sensitive examination tool. The VAI is, therefore, a reliable indicator of increased patient risk for cardiometabolic diseases.[7] There is currently a lack of scientific knowledge regarding the biochemical and physiologic mechanisms associated with this. A possible explanation for the increased specificity and sensitivity of the VAI is that visceral fat has direct access to the portal venous system, whereas subcutaneous white adipose tissue does not. Obesity has inflammatory components, directly and indirectly, related to major chronic diseases such as diabetes, atherosclerosis, hypertension, and several types of cancer. Overweight and obese individuals have altered circulatory levels of inflammatory cytokines, such as interleukin (IL)-6, tumor necrosis factor (TNF)-α, C-reactive protein (CRP), IL-18, resistin, and visfatin. Measures of body fat have a stronger correlation with inflammatory markers than BMI. Exercise and dietary restrictions have been strongly advocated to reduce weight gain and its related complications. Caloric restriction has been proven effective in reducing inflammation in obesity. However, a few studies showed that dietary weight loss has less impact on a long-term anti-inflammatory intervention. On the other hand, regular exercise significantly affects chronic inflammation related to obesity and obesity-associated conditions such as hypertension, diabetes, dyslipidemia, etc. Obesity and its inflammatory markers have significant effects on hypertension, diabetes, and other chronic conditions. This review provides detailed insight into chronic inflammation and immune and hormonal disturbance related to the pathophysiology of obesity and their effects on chronic conditions.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK572076"
+  },
+  {
+   "pmid": "33231984",
+   "title": "Omega-3 Fatty Acids",
+   "authors": [
+    "Krupa KN",
+    "Fritz K",
+    "Parmar M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Omega-3 (ω-3) fatty acids, renowned for their multiple health benefits, are pivotal in managing hyperlipidemia by modulating lipid profiles. This comprehensive activity explores the indications for omega-3 fatty acids, elucidating their multifunctional actions in various cardiovascular conditions. In addition to their well-established lipid-lowering effects, these acids exhibit anti-inflammatory, antiarrhythmic, and vasodilatory properties, influencing atherosclerotic processes and cardiac rhythm regulation. Additionally, the activity will discuss contraindications, emphasizing safe utilization.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK564314"
+  },
+  {
+   "pmid": "32491665",
+   "title": "Mediterranean Diet",
+   "authors": [
+    "Daley SF",
+    "Hinson MR"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "The term Mediterranean diet refers to the traditional eating patterns of people living in countries bordering the Mediterranean Sea, including Greece, Italy, southern France, Crete, Spain, and parts of the Middle East. The diet is primarily a plant-based eating pattern that emphasizes fruits, vegetables, whole grains, legumes, nuts, and seeds, with olive oil as the primary source of fat. Rich in minimally processed plant foods and monounsaturated and unsaturated fats from olives, nuts, and seeds, but low in saturated fats, the diet is relatively high in total fat, with at least 35% of calories from fat. The Mediterranean Diet includes moderate amounts of fish, poultry, and fermented dairy products, while red and processed meats are consumed in minimal quantities. Moderate wine drinking with meals has traditionally been an optional part of the diet. First recognized in the post–World War II era and later defined through the Seven Countries Study, the Mediterranean eating pattern has been linked to lower rates of cardiovascular disease and increased lifespan, sparking decades of research into its health benefits. Post–World War II research, beginning with Leland Allbaugh's Rockefeller Foundation–funded survey of Crete, described a local diet rich in olives, olive oil, whole grains, pulses, fruits, vegetables, and herbs, with low consumption of animal products. The Seven Countries Study, launched in 1958 by American physiologist Ancel Keys, later compared dietary patterns and health outcomes across 7 countries and found that populations in Italy and Greece, which primarily consumed olive oil as their main fat, had lower rates of all-cause and coronary heart disease mortality than those in northern Europe and the United States, providing evidence for the health benefits of the Mediterranean diet. Historically, the Mediterranean diet was deeply rooted in local agriculture, climate, and cultural traditions, with meals centered on seasonal, minimally processed plant foods and communal eating as a key part of daily life. This sociocultural and economic context is increasingly uncommon in the twenty-first century, as modernization and globalization have shifted toward processed foods, including those with added sugars, refined grains, and industrial or animal fats, and have been accompanied by a decline in home cooking and the sharing of meals. The \"contemporary\" Mediterranean diet, often discussed in clinical research and popular publications, reflects an adaptation of the traditional lifestyle rather than a direct continuation. The diet emphasizes similar core food groups but is implemented within modern food systems, diverse cultures, and different socioeconomic settings, factors that can influence adherence, nutrient quality, and overall health effects. This activity examines key issues related to the Mediterranean diet, including evidence for its health benefits, its contemporary applications, and the limitations of existing scientific research. Also reviewed are the consensus recommendations from leading professional organizations and highlights practical strategies for interprofessional teams to incorporate the diet into patient education and chronic disease management. The article aims to equip clinicians with the tools needed to counsel patients on adopting this dietary pattern in practice by addressing both the scientific basis and real-world applications.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557733"
+  },
+  {
+   "pmid": "30521188",
+   "title": "Breastfeeding",
+   "authors": [
+    "Kalarikkal SM",
+    "Pfleghaar JL"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Breastfeeding is an important part of the neonatal and infant periods. Breastfeeding or lactation provides total nutritional support and promotes the emotional dependency of the baby on the breastfeeding parent. A strong emotional bond facilitates the successful prolongation of breastfeeding. Breast milk is recommended as the optimal and exclusive source of early nutrition for all infants from birth to at least six months of age. Maternal milk is crucial for development.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK534767"
+  },
+  {
+   "pmid": "33232094",
+   "title": "Refeeding Syndrome",
+   "authors": [
+    "Persaud-Sharma D",
+    "Saha S",
+    "Trippensee AW"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2022,
+   "doi": null,
+   "abstract": "Increased nutrition following a prolonged period of starvation can result in refeeding syndrome. Refeeding syndrome is defined as medical complications that result from fluid and electrolyte shifts as a result of aggressive nutritional rehabilitation. The refeeding syndrome commonly occurs in populations at high risk for malnutrition, ranging from patients with eating disorders to renal failure patients on hemodialysis. Metabolic disturbances manifest in cardiopulmonary, hematologic, and neurological dysfunction in these types of patients. Hypophosphatemia is a hallmark of refeeding syndrome; however, other electrolyte irregularities may include but are not limited to decreased amounts of magnesium, potassium, and thiamine. Despite the long-standing recognition of refeeding syndrome as a serious clinical complication with a high mortality rate that requires immediate medical intervention, high-quality scientific evidence on the etiology and management of refeeding syndrome is limited. Historically, early descriptions of this phenomenon date to documentation from World War II when individuals living during the famine unexpectedly became ill following nutritional reconstitution. In 1951, Schnitker et al reported that one-fifth of Japanese prisoners starved in prison camps died suddenly after nutritional and vitamin replenishment.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK564513"
+  },
+  {
+   "pmid": "29262062",
+   "title": "Riboflavin Deficiency",
+   "authors": [
+    "Sina RE",
+    "Daley SF"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Riboflavin (vitamin B2) is a water-soluble, heat-stable vitamin essential for cellular energy metabolism, acting as a precursor to the coenzymes flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD). These cofactors are required by flavoproteins such as succinate dehydrogenase (Complex II), which participate in both the citric acid cycle and the mitochondrial electron transport chain, enabling adenosine triphosphate (ATP) production, maintaining redox balance, and supporting antioxidant defenses. Beyond energy metabolism, riboflavin contributes to immune function and to maintaining the health of skin, hair, and mucous membranes. Deficiency disrupts these pathways, leading to fatigue, normocytic anemia, neuromuscular symptoms, and secondary impairments in iron and other B-vitamin metabolism, including the activation of niacin (vitamin B3) and pyridoxine (vitamin B6). Because humans cannot synthesize riboflavin, adequate dietary intake is necessary, and absorption depends on normal gastrointestinal function. Excess riboflavin is excreted in urine, producing the characteristic yellow color that indicates adequate intake. Clinical deficiency is characterized by mucocutaneous manifestations (cheilosis, angular stomatitis, glossitis, dermatitis) and anemia; in severe or prolonged cases, it may lead to neurologic or ocular metabolic abnormalities, reduced physical performance, and developmental problems. Emerging evidence also links riboflavin deficiency to psoriasis, with decreased intake associated with a higher risk and upregulated riboflavin metabolism observed in psoriatic skin, suggesting a protective role for adequate riboflavin status, particularly in individuals older than 40 years. This article reviews the etiology, epidemiology, pathophysiology, clinical presentation, evaluation, management, complications, and prognosis of riboflavin deficiency. The article also highlights the roles of patient education and interprofessional healthcare team collaboration in optimizing patient outcomes.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK470460"
+  },
+  {
+   "pmid": "29489289",
+   "title": "Selenium Deficiency",
+   "authors": [
+    "Shreenath AP",
+    "Hashmi MF",
+    "Dooley J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Selenium is an essential trace mineral that is vital in maintaining human health. Selenium primarily exists as selenoproteins, which have diverse roles in the body's regular physiological processes and metabolism. In particular, glutathione peroxidase (G-Px), a selenoprotein, contributes to antioxidant defense, safeguarding the body against the damaging effects of reactive oxygen and nitrogen species. Another significant selenium-dependent function involves iodothyronine deiodinases, which facilitate the conversion of inactive thyroxine or tetraiodothyronine (T4) into the active thyroid hormone triiodothyronine (T3). Selenium's impact extends to the immune system, influencing its proper function and affecting the progression of HIV to AIDS. Research suggests that selenium deficiency is associated with an increased risk of various health conditions, including cardiovascular diseases, infertility, myodegenerative disorders, and cognitive decline. Current research is investigating the potential role of selenium in cancer treatment. Our understanding of selenium's significance in human health has evolved over the past 200 years since its discovery in 1817. Previously considered a carcinogen, selenium is now recognized as a crucial nutrient with a narrow therapeutic-to-toxic range. Historically, selenium deficiency was associated with a type of cardiomyopathy known as Keshan disease, which was initially documented in China in the 1930s. The administration of selenium supplementation to individuals residing in areas where Keshan disease is endemic has demonstrated a significant reduction in the incidence of this condition, underscoring selenium's therapeutic potential.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK482260"
+  },
+  {
+   "pmid": "31613478",
+   "title": "Zinc",
+   "authors": [
+    "Rabinovich D",
+    "Smadi Y"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Zinc is a medication used in the management and treatment of diarrhea. It is in the mineral and supplemental class of drugs. This activity outlines the indications, action, and contraindications for zinc as a valuable agent. This activity will highlight the mechanism of action, adverse event profile, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, relevant interactions) pertinent for members of the interprofessional team in the management of patients with zinc deficiency and related conditions.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK547698"
   },
   {
    "pmid": "28722861",
@@ -43993,6 +44323,2406 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Murine typhus is a flea-borne zoonosis maintained primarily in rodents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33620821-1-en",
+   "translationKey": "nutrition-33620821-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "Which foods are natural sources of vitamin A?",
+   "options": [
+    "White bread and sugar",
+    "Orange vegetables, dark leafy greens, liver, eggs and dairy",
+    "Only citrus fruits",
+    "Only red meat"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Vitamin A comes as carotenoids from colored vegetables and as preformed retinoids from animal foods.",
+   "shortExplanation": "Orange and green vegetables, liver.",
+   "pmid": "33620821",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Natural sources of vitamin A include dark leafy greens, orange-colored vegetables, eggs, dairy products, liver, and fish",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33620821-1-es",
+   "translationKey": "nutrition-33620821-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Qué alimentos son fuentes naturales de vitamina A?",
+   "options": [
+    "Pan blanco y azúcar",
+    "Verduras anaranjadas, hojas verde oscuro, hígado, huevos y lácteos",
+    "Solo cítricos",
+    "Solo carne roja"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La vitamina A llega como carotenoides de vegetales coloreados y como retinoides preformados de alimentos animales.",
+   "shortExplanation": "Verduras anaranjadas y verdes, hígado.",
+   "pmid": "33620821",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Natural sources of vitamin A include dark leafy greens, orange-colored vegetables, eggs, dairy products, liver, and fish",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33620821-2-en",
+   "translationKey": "nutrition-33620821-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "Vitamin A deficiency is an important cause of which preventable problem?",
+   "options": [
+    "Hearing loss",
+    "Tooth decay",
+    "Visual impairment",
+    "Hair loss"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Vitamin A deficiency causes preventable visual impairment (night blindness, xerophthalmia), especially in children.",
+   "shortExplanation": "Vision loss.",
+   "pmid": "33620821",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "an important cause of preventable visual impairment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33620821-2-es",
+   "translationKey": "nutrition-33620821-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "La deficiencia de vitamina A es una causa importante de ¿qué problema prevenible?",
+   "options": [
+    "Sordera",
+    "Caries",
+    "Discapacidad visual",
+    "Caída del cabello"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La deficiencia de vitamina A causa discapacidad visual prevenible (ceguera nocturna, xeroftalmia), sobre todo en niños.",
+   "shortExplanation": "Pérdida de visión.",
+   "pmid": "33620821",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "an important cause of preventable visual impairment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33620821-3-en",
+   "translationKey": "nutrition-33620821-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Where is most vitamin A stored in the body?",
+   "options": [
+    "In hepatic stellate cells of the liver",
+    "In red blood cells",
+    "In the kidneys",
+    "In bone marrow"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Most vitamin A is stored in liver stellate cells, with additional amounts in adipose tissue and pancreas.",
+   "shortExplanation": "Liver.",
+   "pmid": "33620821",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Most vitamin A is then stored in hepatic stellate cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33620821-3-es",
+   "translationKey": "nutrition-33620821-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde se almacena la mayor parte de la vitamina A?",
+   "options": [
+    "En las células estrelladas del hígado",
+    "En los glóbulos rojos",
+    "En los riñones",
+    "En la médula ósea"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mayor parte se guarda en las células estrelladas hepáticas, con cantidades adicionales en tejido adiposo y páncreas.",
+   "shortExplanation": "Hígado.",
+   "pmid": "33620821",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Most vitamin A is then stored in hepatic stellate cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33620821-4-en",
+   "translationKey": "nutrition-33620821-4",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "What is the difference between beta-carotene and retinol?",
+   "options": [
+    "They are identical molecules",
+    "Retinol comes from plants and beta-carotene from animals",
+    "Beta-carotene is a mineral",
+    "Beta-carotene is a provitamin carotenoid; retinol is an active retinoid"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Plant carotenoids (mostly beta-carotene) are provitamin A; animal retinoids (retinol, retinyl esters) are active forms and better absorbed.",
+   "shortExplanation": "Provitamin vs. active.",
+   "pmid": "33620821",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Carotenoids are most commonly beta-carotene, and retinoids are the active forms of vitamin A",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33620821-4-es",
+   "translationKey": "nutrition-33620821-4",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué diferencia hay entre el betacaroteno y el retinol?",
+   "options": [
+    "Son la misma molécula",
+    "El retinol viene de plantas y el betacaroteno de animales",
+    "El betacaroteno es un mineral",
+    "El betacaroteno es un carotenoide provitamina; el retinol es un retinoide activo"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los carotenoides vegetales (sobre todo betacaroteno) son provitamina A; los retinoides animales (retinol, ésteres de retinilo) son activos y se absorben mejor.",
+   "shortExplanation": "Provitamina vs. activa.",
+   "pmid": "33620821",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Carotenoids are most commonly beta-carotene, and retinoids are the active forms of vitamin A",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722952-1-en",
+   "translationKey": "nutrition-28722952-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "Where does dietary vitamin B12 mainly come from?",
+   "options": [
+    "Fruits",
+    "Leafy vegetables",
+    "Animal products such as meat, dairy and eggs",
+    "Cereals"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "B12 comes from animal foods, so strict vegans need fortified foods or supplements.",
+   "shortExplanation": "Animal foods.",
+   "pmid": "28722952",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is derived from animal products such as red meat, dairy, and eggs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722952-1-es",
+   "translationKey": "nutrition-28722952-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿De dónde proviene principalmente la vitamina B12 de la dieta?",
+   "options": [
+    "De las frutas",
+    "De las verduras de hoja",
+    "De productos animales como carne, lácteos y huevos",
+    "De los cereales"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La B12 proviene de alimentos animales, por eso los veganos estrictos necesitan alimentos fortificados o suplementos.",
+   "shortExplanation": "Alimentos animales.",
+   "pmid": "28722952",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is derived from animal products such as red meat, dairy, and eggs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722952-2-en",
+   "translationKey": "nutrition-28722952-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "What is needed to absorb vitamin B12 in the terminal ileum?",
+   "options": [
+    "Bile salts only",
+    "Intrinsic factor from gastric parietal cells",
+    "Vitamin C",
+    "Lactase"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Intrinsic factor, made by stomach parietal cells, is required for B12 absorption in the terminal ileum.",
+   "shortExplanation": "Intrinsic factor.",
+   "pmid": "28722952",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Intrinsic factor is a glycoprotein that is produced by parietal cells in the stomach and is necessary for the absorption of B12 in the terminal ileum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722952-2-es",
+   "translationKey": "nutrition-28722952-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué se necesita para absorber vitamina B12 en el íleon terminal?",
+   "options": [
+    "Solo sales biliares",
+    "El factor intrínseco de las células parietales gástricas",
+    "Vitamina C",
+    "Lactasa"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El factor intrínseco, producido por las células parietales del estómago, es necesario para absorber B12 en el íleon terminal.",
+   "shortExplanation": "Factor intrínseco.",
+   "pmid": "28722952",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Intrinsic factor is a glycoprotein that is produced by parietal cells in the stomach and is necessary for the absorption of B12 in the terminal ileum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722952-3-en",
+   "translationKey": "nutrition-28722952-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "Which types of symptoms can vitamin B12 deficiency cause?",
+   "options": [
+    "Hematologic and neurologic symptoms",
+    "Only skin rashes",
+    "Only hair loss",
+    "Only bone fractures"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "B12 is a cofactor for DNA, fatty acid and myelin synthesis, so deficiency causes anemia and neurologic damage.",
+   "shortExplanation": "Blood and nerves.",
+   "pmid": "28722952",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "B12 deficiency can lead to hematologic and neurologic symptoms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722952-3-es",
+   "translationKey": "nutrition-28722952-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Qué tipo de síntomas puede causar la deficiencia de vitamina B12?",
+   "options": [
+    "Síntomas hematológicos y neurológicos",
+    "Solo erupciones",
+    "Solo caída del cabello",
+    "Solo fracturas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La B12 es cofactor en la síntesis de ADN, ácidos grasos y mielina, por eso su falta causa anemia y daño neurológico.",
+   "shortExplanation": "Sangre y nervios.",
+   "pmid": "28722952",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "B12 deficiency can lead to hematologic and neurologic symptoms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29630239-1-en",
+   "translationKey": "nutrition-29630239-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "Which disease is caused by a lack of vitamin C?",
+   "options": [
+    "Rickets",
+    "Beriberi",
+    "Pellagra",
+    "Scurvy"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Scurvy results from vitamin C deficiency, which is needed for skin, cartilage, bone and teeth.",
+   "shortExplanation": "Scurvy.",
+   "pmid": "29630239",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Scurvy is a clinical syndrome resulting from vitamin C deficiency",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29630239-1-es",
+   "translationKey": "nutrition-29630239-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Qué enfermedad causa la falta de vitamina C?",
+   "options": [
+    "Raquitismo",
+    "Beriberi",
+    "Pelagra",
+    "Escorbuto"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El escorbuto se debe a la falta de vitamina C, necesaria para piel, cartílago, hueso y dientes.",
+   "shortExplanation": "Escorbuto.",
+   "pmid": "29630239",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Scurvy is a clinical syndrome resulting from vitamin C deficiency",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29630239-2-en",
+   "translationKey": "nutrition-29630239-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "Who showed in the 1700s that lemons and oranges relieved scurvy?",
+   "options": [
+    "Louis Pasteur",
+    "James Lind",
+    "Edward Jenner",
+    "Albert Einstein"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Royal Navy surgeon James Lind found that citrus fruits alleviated scurvy in sailors.",
+   "shortExplanation": "James Lind.",
+   "pmid": "29630239",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "James Lind, a British Royal Navy surgeon, made the significant discovery that the consumption of lemons and oranges alleviated the symptoms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29630239-2-es",
+   "translationKey": "nutrition-29630239-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Quién mostró en el siglo XVIII que limones y naranjas aliviaban el escorbuto?",
+   "options": [
+    "Louis Pasteur",
+    "James Lind",
+    "Edward Jenner",
+    "Albert Einstein"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El cirujano naval James Lind descubrió que los cítricos aliviaban el escorbuto de los marineros.",
+   "shortExplanation": "James Lind.",
+   "pmid": "29630239",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "James Lind, a British Royal Navy surgeon, made the significant discovery that the consumption of lemons and oranges alleviated the symptoms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29630239-3-en",
+   "translationKey": "nutrition-29630239-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "What does the name 'ascorbic acid' mean?",
+   "options": [
+    "Sour acid",
+    "Orange acid",
+    "Anti-scurvy",
+    "Vitamin of life"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Szent-Györgyi determined vitamin C's structure in the 1920s and named it ascorbic acid, meaning anti-scurvy.",
+   "shortExplanation": "Anti-scurvy.",
+   "pmid": "29630239",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "named it ascorbic acid, meaning anti-scurvy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29630239-3-es",
+   "translationKey": "nutrition-29630239-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué significa el nombre 'ácido ascórbico'?",
+   "options": [
+    "Ácido agrio",
+    "Ácido de naranja",
+    "Antiescorbuto",
+    "Vitamina de la vida"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Szent-Györgyi determinó la estructura de la vitamina C en los años 20 y la llamó ácido ascórbico, es decir, antiescorbuto.",
+   "shortExplanation": "Antiescorbuto.",
+   "pmid": "29630239",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "named it ascorbic acid, meaning anti-scurvy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722941-1-en",
+   "translationKey": "nutrition-28722941-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "Why is vitamin D called the 'sunshine vitamin'?",
+   "options": [
+    "It is produced in the skin during sun exposure",
+    "It is found only in sunflowers",
+    "It makes skin tan",
+    "It is yellow"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The skin makes vitamin D under sunlight; it keeps blood calcium in range for bone and muscle health.",
+   "shortExplanation": "Made in sunlit skin.",
+   "pmid": "28722941",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it is produced in the skin during sun exposure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722941-1-es",
+   "translationKey": "nutrition-28722941-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Por qué la vitamina D se llama 'vitamina del sol'?",
+   "options": [
+    "Porque se produce en la piel con la exposición solar",
+    "Porque solo está en el girasol",
+    "Porque broncea la piel",
+    "Porque es amarilla"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La piel produce vitamina D con la luz solar; mantiene el calcio sanguíneo para la salud ósea y muscular.",
+   "shortExplanation": "Se forma en la piel al sol.",
+   "pmid": "28722941",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it is produced in the skin during sun exposure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722941-2-en",
+   "translationKey": "nutrition-28722941-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "What is a key function of vitamin D?",
+   "options": [
+    "Clotting blood",
+    "Making insulin",
+    "Keeping blood calcium in the normal range",
+    "Digesting fat"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Vitamin D maintains serum calcium for musculoskeletal health.",
+   "shortExplanation": "Calcium balance.",
+   "pmid": "28722941",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vitamin D is required to maintain the serum calcium concentration within the normal physiologic range",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722941-2-es",
+   "translationKey": "nutrition-28722941-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es una función clave de la vitamina D?",
+   "options": [
+    "Coagular la sangre",
+    "Producir insulina",
+    "Mantener el calcio en sangre en rango normal",
+    "Digerir grasas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La vitamina D mantiene el calcio sérico para la salud musculoesquelética.",
+   "shortExplanation": "Equilibrio del calcio.",
+   "pmid": "28722941",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vitamin D is required to maintain the serum calcium concentration within the normal physiologic range",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722941-3-en",
+   "translationKey": "nutrition-28722941-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "Which blood marker is used to define vitamin D deficiency?",
+   "options": [
+    "Serum calcium alone",
+    "25-hydroxyvitamin D",
+    "Parathyroid hormone alone",
+    "Alkaline phosphatase"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Several societies define deficiency as 25(OH)D below 30 ng/mL.",
+   "shortExplanation": "25(OH)D.",
+   "pmid": "28722941",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "define vitamin D deficiency as the level of 25-hydroxyvitamin (25 OH D) of less than 30 ng/mL",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-28722941-3-es",
+   "translationKey": "nutrition-28722941-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué marcador sanguíneo se usa para definir deficiencia de vitamina D?",
+   "options": [
+    "Solo el calcio sérico",
+    "La 25-hidroxivitamina D",
+    "Solo la PTH",
+    "La fosfatasa alcalina"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Varias sociedades definen deficiencia como 25(OH)D menor de 30 ng/mL.",
+   "shortExplanation": "25(OH)D.",
+   "pmid": "28722941",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "define vitamin D deficiency as the level of 25-hydroxyvitamin (25 OH D) of less than 30 ng/mL",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725668-1-en",
+   "translationKey": "nutrition-30725668-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "What is the main problem caused by vitamin K deficiency?",
+   "options": [
+    "Night blindness",
+    "Goiter",
+    "Muscle cramps",
+    "Impaired blood clotting and bleeding"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Vitamin K is needed for clotting factors; deficiency causes bleeding from subtle to life-threatening.",
+   "shortExplanation": "Bleeding.",
+   "pmid": "30725668",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can lead to significant morbidity, primarily due to impaired coagulation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725668-1-es",
+   "translationKey": "nutrition-30725668-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es el principal problema que causa la deficiencia de vitamina K?",
+   "options": [
+    "Ceguera nocturna",
+    "Bocio",
+    "Calambres",
+    "Alteración de la coagulación y sangrado"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La vitamina K es necesaria para los factores de coagulación; su falta causa sangrados desde leves hasta graves.",
+   "shortExplanation": "Sangrado.",
+   "pmid": "30725668",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can lead to significant morbidity, primarily due to impaired coagulation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725668-2-en",
+   "translationKey": "nutrition-30725668-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Why are newborns at risk of vitamin K deficiency bleeding?",
+   "options": [
+    "They have low vitamin K stores at birth and limited intake",
+    "Breast milk has too much vitamin K",
+    "They make too many clotting factors",
+    "They are allergic to vitamin K"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Low stores at birth and limited early intake put newborns at risk; prophylaxis at birth prevents VKDB.",
+   "shortExplanation": "Low stores.",
+   "pmid": "30725668",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "newborns are at increased risk due to physiologic factors, including low vitamin K stores at birth",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725668-2-es",
+   "translationKey": "nutrition-30725668-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué los recién nacidos tienen riesgo de sangrado por déficit de vitamina K?",
+   "options": [
+    "Tienen pocas reservas al nacer y escaso aporte",
+    "La leche materna tiene demasiada vitamina K",
+    "Producen demasiados factores de coagulación",
+    "Son alérgicos a la vitamina K"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las bajas reservas al nacer y el escaso aporte inicial generan riesgo; la profilaxis al nacer previene el sangrado.",
+   "shortExplanation": "Pocas reservas.",
+   "pmid": "30725668",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "newborns are at increased risk due to physiologic factors, including low vitamin K stores at birth",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725889-1-en",
+   "translationKey": "nutrition-30725889-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Which groups are most at risk of thiamine (vitamin B1) deficiency?",
+   "options": [
+    "People who eat lots of meat",
+    "People relying on polished rice and people with chronic alcohol use",
+    "Athletes",
+    "People who drink milk"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Polished rice and milled grains lose thiamine in processing; alcohol use disorder also causes deficiency.",
+   "shortExplanation": "Polished rice, alcohol.",
+   "pmid": "30725889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Worldwide prevalence remains highest in populations relying on polished rice or milled cereals as staple foods and among individuals with chronic alcohol use disorder",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725889-1-es",
+   "translationKey": "nutrition-30725889-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué grupos tienen más riesgo de deficiencia de tiamina (vitamina B1)?",
+   "options": [
+    "Quienes comen mucha carne",
+    "Quienes dependen del arroz pulido y quienes consumen alcohol en forma crónica",
+    "Los deportistas",
+    "Quienes toman leche"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El arroz pulido y los granos molidos pierden tiamina al procesarse; el alcoholismo también causa deficiencia.",
+   "shortExplanation": "Arroz pulido, alcohol.",
+   "pmid": "30725889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Worldwide prevalence remains highest in populations relying on polished rice or milled cereals as staple foods and among individuals with chronic alcohol use disorder",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725889-2-en",
+   "translationKey": "nutrition-30725889-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "Which disease is caused by thiamine deficiency?",
+   "options": [
+    "Scurvy",
+    "Rickets",
+    "Beriberi",
+    "Goiter"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Thiamine deficiency causes wet beriberi (heart failure), dry beriberi (neuropathy) or Wernicke-Korsakoff syndrome.",
+   "shortExplanation": "Beriberi.",
+   "pmid": "30725889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "commonly manifests as wet beriberi, dry beriberi, or Wernicke-Korsakoff syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725889-2-es",
+   "translationKey": "nutrition-30725889-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Qué enfermedad causa la deficiencia de tiamina?",
+   "options": [
+    "Escorbuto",
+    "Raquitismo",
+    "Beriberi",
+    "Bocio"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La falta de tiamina causa beriberi húmedo (insuficiencia cardíaca), beriberi seco (neuropatía) o síndrome de Wernicke-Korsakoff.",
+   "shortExplanation": "Beriberi.",
+   "pmid": "30725889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "commonly manifests as wet beriberi, dry beriberi, or Wernicke-Korsakoff syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725889-3-en",
+   "translationKey": "nutrition-30725889-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "Which foods contain thiaminases that degrade vitamin B1?",
+   "options": [
+    "Milk and cheese",
+    "Rice and wheat",
+    "Apples and pears",
+    "Tea, coffee, raw fish and shellfish"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Thiaminases in tea, coffee, raw fish and shellfish break down thiamine.",
+   "shortExplanation": "Raw fish, tea, coffee.",
+   "pmid": "30725889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Certain foods, including tea, coffee, raw fish, and shellfish, contain thiaminases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30725889-3-es",
+   "translationKey": "nutrition-30725889-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué alimentos contienen tiaminasas que degradan la vitamina B1?",
+   "options": [
+    "Leche y queso",
+    "Arroz y trigo",
+    "Manzanas y peras",
+    "Té, café, pescado crudo y mariscos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las tiaminasas del té, café, pescado crudo y mariscos degradan la tiamina.",
+   "shortExplanation": "Pescado crudo, té, café.",
+   "pmid": "30725889",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Certain foods, including tea, coffee, raw fish, and shellfish, contain thiaminases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491660-1-en",
+   "translationKey": "nutrition-32491660-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "Which disease is caused by niacin (vitamin B3) deficiency?",
+   "options": [
+    "Pellagra",
+    "Scurvy",
+    "Beriberi",
+    "Anemia of chronic disease"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Pellagra is niacin deficiency; it was common where corn was the staple food.",
+   "shortExplanation": "Pellagra.",
+   "pmid": "32491660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In humans, niacin was discovered through the niacin deficiency condition pellagra",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491660-1-es",
+   "translationKey": "nutrition-32491660-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Qué enfermedad causa la deficiencia de niacina (vitamina B3)?",
+   "options": [
+    "Pelagra",
+    "Escorbuto",
+    "Beriberi",
+    "Anemia de enfermedad crónica"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La pelagra es la deficiencia de niacina; era frecuente donde el maíz era el alimento básico.",
+   "shortExplanation": "Pelagra.",
+   "pmid": "32491660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In humans, niacin was discovered through the niacin deficiency condition pellagra",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491660-2-en",
+   "translationKey": "nutrition-32491660-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "What does the word 'pellagra' mean?",
+   "options": [
+    "Yellow blood",
+    "Weak bones",
+    "Rough skin",
+    "Black tongue"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "From Italian 'pella' (skin) and 'agra' (rough), reflecting the characteristic dermatitis.",
+   "shortExplanation": "Rough skin.",
+   "pmid": "32491660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the name translates into \"pella,\" meaning skin, and \"agra,\" meaning rough",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491660-2-es",
+   "translationKey": "nutrition-32491660-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué significa la palabra 'pelagra'?",
+   "options": [
+    "Sangre amarilla",
+    "Huesos débiles",
+    "Piel áspera",
+    "Lengua negra"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Viene del italiano 'pella' (piel) y 'agra' (áspera), por la dermatitis característica.",
+   "shortExplanation": "Piel áspera.",
+   "pmid": "32491660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the name translates into \"pella,\" meaning skin, and \"agra,\" meaning rough",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491660-3-en",
+   "translationKey": "nutrition-32491660-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "In developed countries today, pellagra mainly occurs as a consequence of:",
+   "options": [
+    "Eating too much meat",
+    "Chronic alcoholism, malabsorption, drugs or anorexia nervosa",
+    "Excess sunlight",
+    "Vaccination"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Primary dietary pellagra is nearly eradicated in developed countries; it now follows alcoholism, malabsorption, drugs or anorexia.",
+   "shortExplanation": "Secondary causes.",
+   "pmid": "32491660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it now presents a consequence of chronic alcoholism, malabsorption syndrome, adverse drug effects, and anorexia nervosa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491660-3-es",
+   "translationKey": "nutrition-32491660-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "En países desarrollados, la pelagra hoy aparece sobre todo como consecuencia de:",
+   "options": [
+    "Comer mucha carne",
+    "Alcoholismo crónico, malabsorción, fármacos o anorexia nerviosa",
+    "Exceso de sol",
+    "Vacunación"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La pelagra dietaria primaria está casi erradicada en países desarrollados; hoy se ve tras alcoholismo, malabsorción, fármacos o anorexia.",
+   "shortExplanation": "Causas secundarias.",
+   "pmid": "32491660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it now presents a consequence of chronic alcoholism, malabsorption syndrome, adverse drug effects, and anorexia nervosa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30570998-1-en",
+   "translationKey": "nutrition-30570998-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "Why is folic acid especially important in pregnancy?",
+   "options": [
+    "It prevents morning sickness",
+    "It helps prevent neural tube defects in the baby",
+    "It makes the baby bigger",
+    "It prevents stretch marks"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Folate is crucial in fetal development; adequate intake prevents neural tube defects, so many countries fortify grains.",
+   "shortExplanation": "Neural tube defects.",
+   "pmid": "30570998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "especially in preventing neural tube defects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30570998-1-es",
+   "translationKey": "nutrition-30570998-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Por qué el ácido fólico es especialmente importante en el embarazo?",
+   "options": [
+    "Previene las náuseas",
+    "Ayuda a prevenir defectos del tubo neural en el bebé",
+    "Hace al bebé más grande",
+    "Previene las estrías"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El folato es clave en el desarrollo fetal; un aporte adecuado previene defectos del tubo neural, por eso muchos países fortifican harinas.",
+   "shortExplanation": "Tubo neural.",
+   "pmid": "30570998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "especially in preventing neural tube defects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30570998-2-en",
+   "translationKey": "nutrition-30570998-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Which type of anemia results from folate deficiency?",
+   "options": [
+    "Microcytic anemia",
+    "Hemolytic anemia",
+    "Sickle cell anemia",
+    "Megaloblastic anemia"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Folate is needed for DNA synthesis; deficiency causes megaloblastic anemia and raises homocysteine.",
+   "shortExplanation": "Megaloblastic.",
+   "pmid": "30570998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Deficiency can impair DNA synthesis, leading to megaloblastic anemia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30570998-2-es",
+   "translationKey": "nutrition-30570998-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipo de anemia produce la deficiencia de folato?",
+   "options": [
+    "Anemia microcítica",
+    "Anemia hemolítica",
+    "Anemia falciforme",
+    "Anemia megaloblástica"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El folato es necesario para sintetizar ADN; su falta causa anemia megaloblástica y eleva la homocisteína.",
+   "shortExplanation": "Megaloblástica.",
+   "pmid": "30570998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Deficiency can impair DNA synthesis, leading to megaloblastic anemia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30570998-3-en",
+   "translationKey": "nutrition-30570998-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "What is the difference between folate and folic acid?",
+   "options": [
+    "Folic acid is the synthetic form of folate used in supplements and fortified foods",
+    "Folate is a mineral",
+    "Folic acid is found only in meat",
+    "They have opposite effects"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Folate occurs naturally in foods; folic acid is the synthetic, more bioavailable form used in fortification.",
+   "shortExplanation": "Synthetic form.",
+   "pmid": "30570998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Folic acid—the synthetic form of folate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30570998-3-es",
+   "translationKey": "nutrition-30570998-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Qué diferencia hay entre folato y ácido fólico?",
+   "options": [
+    "El ácido fólico es la forma sintética del folato usada en suplementos y alimentos fortificados",
+    "El folato es un mineral",
+    "El ácido fólico solo está en la carne",
+    "Tienen efectos opuestos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El folato está naturalmente en los alimentos; el ácido fólico es la forma sintética, más biodisponible, usada para fortificar.",
+   "shortExplanation": "Forma sintética.",
+   "pmid": "30570998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Folic acid—the synthetic form of folate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32809711-1-en",
+   "translationKey": "nutrition-32809711-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "What is the most common cause of anemia worldwide?",
+   "options": [
+    "Vitamin C deficiency",
+    "Excess exercise",
+    "Iron deficiency",
+    "Too much water"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Iron deficiency affects over 2 billion people and is the most common cause of anemia.",
+   "shortExplanation": "Iron deficiency.",
+   "pmid": "32809711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "making it the most common cause of anemia worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32809711-1-es",
+   "translationKey": "nutrition-32809711-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la causa más frecuente de anemia en el mundo?",
+   "options": [
+    "Falta de vitamina C",
+    "Exceso de ejercicio",
+    "La deficiencia de hierro",
+    "Tomar mucha agua"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La deficiencia de hierro afecta a más de 2.000 millones de personas y es la causa más común de anemia.",
+   "shortExplanation": "Falta de hierro.",
+   "pmid": "32809711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "making it the most common cause of anemia worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32809711-2-en",
+   "translationKey": "nutrition-32809711-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "Why is iron essential in the blood?",
+   "options": [
+    "It is the key component of hemoglobin, which carries oxygen",
+    "It makes blood thicker",
+    "It fights viruses directly",
+    "It colors the plasma"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Iron in heme lets hemoglobin carry oxygen; it is also needed for myoglobin, DNA synthesis and immunity.",
+   "shortExplanation": "Oxygen transport.",
+   "pmid": "32809711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Iron is the main component of hemoglobin and is the prime carrier of oxygen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32809711-2-es",
+   "translationKey": "nutrition-32809711-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Por qué el hierro es esencial en la sangre?",
+   "options": [
+    "Es componente clave de la hemoglobina, que transporta oxígeno",
+    "Espesa la sangre",
+    "Combate virus directamente",
+    "Colorea el plasma"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El hierro del hemo permite que la hemoglobina transporte oxígeno; también es necesario para mioglobina, ADN e inmunidad.",
+   "shortExplanation": "Transporte de oxígeno.",
+   "pmid": "32809711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Iron is the main component of hemoglobin and is the prime carrier of oxygen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32809711-3-en",
+   "translationKey": "nutrition-32809711-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "What is the primary cause of iron deficiency worldwide?",
+   "options": [
+    "Genetic disorders",
+    "Insufficient iron-containing food",
+    "Excess vitamin D",
+    "Too much sleep"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Inadequate dietary iron is the leading global cause; blood loss and malabsorption are other common causes.",
+   "shortExplanation": "Low iron intake.",
+   "pmid": "32809711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary cause of iron deficiency worldwide is a lack of enough iron-containing food",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32809711-3-es",
+   "translationKey": "nutrition-32809711-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es la causa principal de deficiencia de hierro en el mundo?",
+   "options": [
+    "Trastornos genéticos",
+    "Insuficientes alimentos con hierro",
+    "Exceso de vitamina D",
+    "Dormir mucho"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El aporte insuficiente en la dieta es la causa global principal; la pérdida de sangre y la malabsorción también son comunes.",
+   "shortExplanation": "Poco hierro en la dieta.",
+   "pmid": "32809711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary cause of iron deficiency worldwide is a lack of enough iron-containing food",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32809711-4-en",
+   "translationKey": "nutrition-32809711-4",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "What happens to iron in anemia of chronic disease?",
+   "options": [
+    "Iron stores are completely empty",
+    "Iron is lost in urine",
+    "Stores are adequate but iron is sequestered in macrophages",
+    "Iron is converted to calcium"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Inflammation causes functional iron deficiency: iron is trapped in macrophages and unavailable for red cell production.",
+   "shortExplanation": "Sequestered iron.",
+   "pmid": "32809711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "iron stores are adequate but are sequestered by macrophages and unavailable for systemic use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32809711-4-es",
+   "translationKey": "nutrition-32809711-4",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué ocurre con el hierro en la anemia de enfermedad crónica?",
+   "options": [
+    "Las reservas están vacías",
+    "El hierro se pierde por orina",
+    "Las reservas son adecuadas pero el hierro queda secuestrado en macrófagos",
+    "El hierro se convierte en calcio"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La inflamación produce deficiencia funcional: el hierro queda atrapado en macrófagos y no está disponible para fabricar glóbulos rojos.",
+   "shortExplanation": "Hierro secuestrado.",
+   "pmid": "32809711",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "iron stores are adequate but are sequestered by macrophages and unavailable for systemic use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644459-1-en",
+   "translationKey": "nutrition-32644459-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "Where does dietary fiber come from?",
+   "options": [
+    "Meat",
+    "Milk",
+    "Eggs",
+    "Plant-based foods"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "All dietary fiber comes from plant foods: fruits, vegetables, whole grains, legumes, nuts and seeds.",
+   "shortExplanation": "Plants.",
+   "pmid": "32644459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "All dietary fiber comes from plant-based foods",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644459-1-es",
+   "translationKey": "nutrition-32644459-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿De dónde proviene la fibra dietaria?",
+   "options": [
+    "De la carne",
+    "De la leche",
+    "De los huevos",
+    "De los alimentos de origen vegetal"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Toda la fibra proviene de vegetales: frutas, verduras, cereales integrales, legumbres, frutos secos y semillas.",
+   "shortExplanation": "Vegetales.",
+   "pmid": "32644459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "All dietary fiber comes from plant-based foods",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644459-2-en",
+   "translationKey": "nutrition-32644459-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "How does insoluble fiber differ from soluble fiber?",
+   "options": [
+    "Insoluble fiber dissolves in water",
+    "Insoluble fiber mainly adds bulk to stool; soluble fiber forms a gel and is fermented",
+    "Only soluble fiber comes from plants",
+    "They are the same"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Soluble fiber forms a gel, slows glucose absorption and lowers LDL; insoluble fiber adds bulk and speeds transit.",
+   "shortExplanation": "Bulk vs. gel.",
+   "pmid": "32644459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Soluble fiber dissolves in water and is partially fermented in the colon, while insoluble fiber does not dissolve and mainly adds bulk to the stool",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644459-2-es",
+   "translationKey": "nutrition-32644459-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿En qué difiere la fibra insoluble de la soluble?",
+   "options": [
+    "La insoluble se disuelve en agua",
+    "La insoluble aporta volumen a las heces; la soluble forma un gel y se fermenta",
+    "Solo la soluble viene de plantas",
+    "Son iguales"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La soluble forma un gel, enlentece la absorción de glucosa y baja el LDL; la insoluble aporta volumen y acelera el tránsito.",
+   "shortExplanation": "Volumen vs. gel.",
+   "pmid": "32644459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Soluble fiber dissolves in water and is partially fermented in the colon, while insoluble fiber does not dissolve and mainly adds bulk to the stool",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644459-3-en",
+   "translationKey": "nutrition-32644459-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "What is the recommended adequate daily fiber intake for adult women and men?",
+   "options": [
+    "5 g and 8 g",
+    "10 g and 15 g",
+    "25 g and 38 g",
+    "100 g and 150 g"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Adequate intake is 25 g/day for women and 38 g/day for men (14 g per 1,000 kcal); most adults eat about half.",
+   "shortExplanation": "25 and 38 g.",
+   "pmid": "32644459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The recommended adequate daily intake for fiber is 25 g for women and 38 g for men",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644459-3-es",
+   "translationKey": "nutrition-32644459-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es la ingesta adecuada diaria de fibra recomendada para mujeres y hombres adultos?",
+   "options": [
+    "5 g y 8 g",
+    "10 g y 15 g",
+    "25 g y 38 g",
+    "100 g y 150 g"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La ingesta adecuada es de 25 g/día en mujeres y 38 g/día en hombres (14 g cada 1.000 kcal); la mayoría consume la mitad.",
+   "shortExplanation": "25 y 38 g.",
+   "pmid": "32644459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The recommended adequate daily intake for fiber is 25 g for women and 38 g for men",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644459-4-en",
+   "translationKey": "nutrition-32644459-4",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "What beneficial metabolites are produced when gut bacteria ferment fiber?",
+   "options": [
+    "Short-chain fatty acids",
+    "Ethanol",
+    "Trans fats",
+    "Ammonia only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Colonic fermentation of fiber yields short-chain fatty acids that reduce inflammation and support metabolic and immune function.",
+   "shortExplanation": "SCFAs.",
+   "pmid": "32644459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "producing beneficial metabolites such as short-chain fatty acids",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644459-4-es",
+   "translationKey": "nutrition-32644459-4",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué metabolitos beneficiosos se producen cuando las bacterias intestinales fermentan la fibra?",
+   "options": [
+    "Ácidos grasos de cadena corta",
+    "Etanol",
+    "Grasas trans",
+    "Solo amoníaco"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La fermentación colónica de la fibra genera ácidos grasos de cadena corta que reducen la inflamación y sostienen funciones metabólicas e inmunes.",
+   "shortExplanation": "AGCC.",
+   "pmid": "32644459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "producing beneficial metabolites such as short-chain fatty acids",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644650-1-en",
+   "translationKey": "nutrition-32644650-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "What is the main difference between marasmus and kwashiorkor?",
+   "options": [
+    "Marasmus is viral and kwashiorkor bacterial",
+    "Kwashiorkor affects only adults",
+    "Marasmus is overall calorie deficiency; kwashiorkor is mainly protein deficiency",
+    "They are the same disease"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Marasmus results from global energy deficiency with severe wasting; kwashiorkor from protein deficiency with edema.",
+   "shortExplanation": "Calories vs. protein.",
+   "pmid": "32644650",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "marasmus, caused by an overall calorie deficiency, and kwashiorkor, primarily due to severe dietary protein deficiency",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644650-1-es",
+   "translationKey": "nutrition-32644650-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es la diferencia principal entre marasmo y kwashiorkor?",
+   "options": [
+    "El marasmo es viral y el kwashiorkor bacteriano",
+    "El kwashiorkor afecta solo adultos",
+    "El marasmo es déficit calórico global; el kwashiorkor, sobre todo déficit de proteínas",
+    "Son la misma enfermedad"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El marasmo se debe a déficit energético global con emaciación grave; el kwashiorkor, a déficit proteico con edemas.",
+   "shortExplanation": "Calorías vs. proteínas.",
+   "pmid": "32644650",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "marasmus, caused by an overall calorie deficiency, and kwashiorkor, primarily due to severe dietary protein deficiency",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644650-2-en",
+   "translationKey": "nutrition-32644650-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Which sign is characteristic of kwashiorkor?",
+   "options": [
+    "Bilateral edema",
+    "Extreme thinness without swelling",
+    "High fever",
+    "Jaundice"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Children with kwashiorkor have bilateral edema, often with little visible wasting.",
+   "shortExplanation": "Edema.",
+   "pmid": "32644650",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Those with kwashiorkor present with bilateral edema",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644650-2-es",
+   "translationKey": "nutrition-32644650-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué signo es característico del kwashiorkor?",
+   "options": [
+    "Edemas bilaterales",
+    "Delgadez extrema sin hinchazón",
+    "Fiebre alta",
+    "Ictericia"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los niños con kwashiorkor tienen edemas bilaterales, a menudo con poca emaciación visible.",
+   "shortExplanation": "Edemas.",
+   "pmid": "32644650",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Those with kwashiorkor present with bilateral edema",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644650-3-en",
+   "translationKey": "nutrition-32644650-3",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "In children 6–59 months, which mid-upper arm circumference indicates severe wasting?",
+   "options": [
+    "≤ 200 mm",
+    "≤ 160 mm",
+    "≤ 135 mm",
+    "≤ 115 mm"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Severe wasting: weight-for-height z < −3 or MUAC ≤ 115 mm in children aged 6–59 months.",
+   "shortExplanation": "≤115 mm.",
+   "pmid": "32644650",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a mid-upper arm circumference of 115 mm or less",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32644650-3-es",
+   "translationKey": "nutrition-32644650-3",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "En niños de 6 a 59 meses, ¿qué perímetro braquial indica emaciación grave?",
+   "options": [
+    "≤ 200 mm",
+    "≤ 160 mm",
+    "≤ 135 mm",
+    "≤ 115 mm"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Emaciación grave: puntaje z peso/talla < −3 o perímetro braquial ≤ 115 mm entre 6 y 59 meses.",
+   "shortExplanation": "≤115 mm.",
+   "pmid": "32644650",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a mid-upper arm circumference of 115 mm or less",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30571077-1-en",
+   "translationKey": "nutrition-30571077-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "How is body mass index (BMI) calculated?",
+   "options": [
+    "Weight in kg divided by height in meters squared",
+    "Height divided by weight",
+    "Weight times age",
+    "Waist divided by hip"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "BMI = kg/m²; it classifies adults as underweight, normal, overweight or obese.",
+   "shortExplanation": "kg/m².",
+   "pmid": "30571077",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "weight (kilograms) divided by height squared (meters)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30571077-1-es",
+   "translationKey": "nutrition-30571077-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Cómo se calcula el índice de masa corporal (IMC)?",
+   "options": [
+    "Peso en kg dividido por la altura en metros al cuadrado",
+    "Altura dividida por peso",
+    "Peso por edad",
+    "Cintura dividida por cadera"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "IMC = kg/m²; clasifica a los adultos en bajo peso, normal, sobrepeso u obesidad.",
+   "shortExplanation": "kg/m².",
+   "pmid": "30571077",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "weight (kilograms) divided by height squared (meters)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30571077-2-en",
+   "translationKey": "nutrition-30571077-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "According to the WHO, what is a normal-weight BMI range for adults?",
+   "options": [
+    "15 to 18",
+    "18.5 to 24.9",
+    "25 to 29.9",
+    "30 to 35"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "WHO: underweight <18.5, normal 18.5–24.9, overweight 25–29.9, obesity ≥30.",
+   "shortExplanation": "18.5–24.9.",
+   "pmid": "30571077",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Normal weight: 18.5 to 24.9 kg/m2",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30571077-2-es",
+   "translationKey": "nutrition-30571077-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "Según la OMS, ¿cuál es el rango de IMC de peso normal en adultos?",
+   "options": [
+    "15 a 18",
+    "18,5 a 24,9",
+    "25 a 29,9",
+    "30 a 35"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "OMS: bajo peso <18,5; normal 18,5–24,9; sobrepeso 25–29,9; obesidad ≥30.",
+   "shortExplanation": "18,5–24,9.",
+   "pmid": "30571077",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Normal weight: 18.5 to 24.9 kg/m2",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34283442-1-en",
+   "translationKey": "nutrition-34283442-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Which simple measurement is the best anthropometric indicator of visceral fat?",
+   "options": [
+    "Height",
+    "Shoe size",
+    "Waist circumference",
+    "Wrist circumference"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Waist circumference better reflects visceral fat and predicts diabetes, hypertension and dyslipidemia; normal BMI with a large waist is still risky.",
+   "shortExplanation": "Waist.",
+   "pmid": "34283442",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "waist circumference is the best anthropometric indicator of visceral fat",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34283442-1-es",
+   "translationKey": "nutrition-34283442-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué medida sencilla es el mejor indicador antropométrico de grasa visceral?",
+   "options": [
+    "La altura",
+    "El talle de calzado",
+    "La circunferencia de cintura",
+    "La circunferencia de muñeca"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La cintura refleja mejor la grasa visceral y predice diabetes, hipertensión y dislipemia; un IMC normal con cintura grande sigue siendo de riesgo.",
+   "shortExplanation": "Cintura.",
+   "pmid": "34283442",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "waist circumference is the best anthropometric indicator of visceral fat",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34283442-2-en",
+   "translationKey": "nutrition-34283442-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "What basic energy situation leads to obesity?",
+   "options": [
+    "A negative energy balance",
+    "Drinking water",
+    "Sleeping too much only",
+    "A chronic positive energy balance"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Obesity results from long-term energy intake exceeding expenditure, regulated by hormones and the brain; its causes are multifactorial.",
+   "shortExplanation": "Positive balance.",
+   "pmid": "34283442",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Obesity results from a chronic positive energy balance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-34283442-2-es",
+   "translationKey": "nutrition-34283442-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Qué situación energética básica lleva a la obesidad?",
+   "options": [
+    "Un balance energético negativo",
+    "Tomar agua",
+    "Solo dormir mucho",
+    "Un balance energético positivo crónico"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La obesidad resulta de ingerir más energía de la que se gasta a largo plazo, con regulación hormonal y cerebral; sus causas son multifactoriales.",
+   "shortExplanation": "Balance positivo.",
+   "pmid": "34283442",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Obesity results from a chronic positive energy balance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33231984-1-en",
+   "translationKey": "nutrition-33231984-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Omega-3 fatty acids are used mainly to help manage which condition?",
+   "options": [
+    "Anemia",
+    "Hyperlipidemia",
+    "Osteoporosis",
+    "Asthma"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Omega-3s modulate lipid profiles and have anti-inflammatory and antiarrhythmic properties.",
+   "shortExplanation": "High blood lipids.",
+   "pmid": "33231984",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "pivotal in managing hyperlipidemia by modulating lipid profiles",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33231984-1-es",
+   "translationKey": "nutrition-33231984-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Los ácidos grasos omega-3 se usan sobre todo para ayudar a manejar ¿qué condición?",
+   "options": [
+    "Anemia",
+    "Hiperlipidemia",
+    "Osteoporosis",
+    "Asma"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los omega-3 modulan el perfil lipídico y tienen propiedades antiinflamatorias y antiarrítmicas.",
+   "shortExplanation": "Lípidos altos.",
+   "pmid": "33231984",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "pivotal in managing hyperlipidemia by modulating lipid profiles",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491665-1-en",
+   "translationKey": "nutrition-32491665-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "What is the main source of fat in the Mediterranean diet?",
+   "options": [
+    "Butter",
+    "Lard",
+    "Olive oil",
+    "Coconut oil"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The Mediterranean diet is plant-based with olive oil as the main fat, plus fish and little red meat.",
+   "shortExplanation": "Olive oil.",
+   "pmid": "32491665",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with olive oil as the primary source of fat",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491665-1-es",
+   "translationKey": "nutrition-32491665-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la principal fuente de grasa en la dieta mediterránea?",
+   "options": [
+    "Manteca",
+    "Grasa de cerdo",
+    "Aceite de oliva",
+    "Aceite de coco"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La dieta mediterránea es de base vegetal, con aceite de oliva como grasa principal, más pescado y poca carne roja.",
+   "shortExplanation": "Aceite de oliva.",
+   "pmid": "32491665",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with olive oil as the primary source of fat",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491665-2-en",
+   "translationKey": "nutrition-32491665-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "Which study, led by Ancel Keys, linked Mediterranean eating to lower heart disease mortality?",
+   "options": [
+    "The Seven Countries Study",
+    "The Framingham Study",
+    "The Nurses' Health Study",
+    "The Women's Health Initiative"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The Seven Countries Study (1958) found lower coronary mortality in olive-oil-consuming Italy and Greece.",
+   "shortExplanation": "Seven Countries.",
+   "pmid": "32491665",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Seven Countries Study, launched in 1958 by American physiologist Ancel Keys",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-32491665-2-es",
+   "translationKey": "nutrition-32491665-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Qué estudio, liderado por Ancel Keys, vinculó la alimentación mediterránea con menor mortalidad cardíaca?",
+   "options": [
+    "El Estudio de los Siete Países",
+    "El Estudio de Framingham",
+    "El Nurses' Health Study",
+    "La Women's Health Initiative"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El Estudio de los Siete Países (1958) halló menor mortalidad coronaria en Italia y Grecia, donde se consumía aceite de oliva.",
+   "shortExplanation": "Siete Países.",
+   "pmid": "32491665",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Seven Countries Study, launched in 1958 by American physiologist Ancel Keys",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30521188-1-en",
+   "translationKey": "nutrition-30521188-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "For how long is exclusive breastfeeding recommended?",
+   "options": [
+    "2 weeks",
+    "At least 6 months",
+    "Only the first day",
+    "Until the baby walks"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Breast milk is recommended as the optimal, exclusive source of nutrition from birth to at least 6 months.",
+   "shortExplanation": "6 months.",
+   "pmid": "30521188",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Breast milk is recommended as the optimal and exclusive source of early nutrition for all infants from birth to at least six months of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-30521188-1-es",
+   "translationKey": "nutrition-30521188-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Durante cuánto tiempo se recomienda la lactancia materna exclusiva?",
+   "options": [
+    "2 semanas",
+    "Al menos 6 meses",
+    "Solo el primer día",
+    "Hasta que el bebé camine"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La leche materna se recomienda como fuente óptima y exclusiva desde el nacimiento hasta al menos los 6 meses.",
+   "shortExplanation": "6 meses.",
+   "pmid": "30521188",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Breast milk is recommended as the optimal and exclusive source of early nutrition for all infants from birth to at least six months of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33232094-1-en",
+   "translationKey": "nutrition-33232094-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "Which electrolyte abnormality is the hallmark of refeeding syndrome?",
+   "options": [
+    "High sodium",
+    "High calcium",
+    "High potassium",
+    "Low phosphate (hypophosphatemia)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Aggressive refeeding after starvation shifts fluids and electrolytes; low phosphate is the hallmark, with low Mg, K and thiamine.",
+   "shortExplanation": "Hypophosphatemia.",
+   "pmid": "33232094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Hypophosphatemia is a hallmark of refeeding syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33232094-1-es",
+   "translationKey": "nutrition-33232094-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "¿Qué alteración electrolítica es el sello del síndrome de realimentación?",
+   "options": [
+    "Sodio alto",
+    "Calcio alto",
+    "Potasio alto",
+    "Fósforo bajo (hipofosfatemia)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La realimentación agresiva tras el ayuno desplaza líquidos y electrolitos; la hipofosfatemia es característica, con Mg, K y tiamina bajos.",
+   "shortExplanation": "Hipofosfatemia.",
+   "pmid": "33232094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Hypophosphatemia is a hallmark of refeeding syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33232094-2-en",
+   "translationKey": "nutrition-33232094-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "When can refeeding syndrome occur?",
+   "options": [
+    "When nutrition is increased after prolonged starvation",
+    "After drinking too much water",
+    "After a normal meal in healthy people",
+    "During exercise"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Refeeding syndrome follows aggressive nutritional rehabilitation in malnourished patients, so refeeding must be gradual.",
+   "shortExplanation": "After starvation.",
+   "pmid": "33232094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Increased nutrition following a prolonged period of starvation can result in refeeding syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-33232094-2-es",
+   "translationKey": "nutrition-33232094-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "explorer",
+   "prompt": "¿Cuándo puede ocurrir el síndrome de realimentación?",
+   "options": [
+    "Al aumentar la alimentación tras un ayuno prolongado",
+    "Tras tomar mucha agua",
+    "Tras una comida normal en personas sanas",
+    "Durante el ejercicio"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El síndrome aparece tras una rehabilitación nutricional agresiva en pacientes desnutridos, por eso la realimentación debe ser gradual.",
+   "shortExplanation": "Tras el ayuno.",
+   "pmid": "33232094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Increased nutrition following a prolonged period of starvation can result in refeeding syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29262062-1-en",
+   "translationKey": "nutrition-29262062-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "Riboflavin (vitamin B2) is the precursor of which coenzymes?",
+   "options": [
+    "NAD and NADP",
+    "FMN and FAD",
+    "Coenzyme A",
+    "Thiamine pyrophosphate"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Riboflavin forms FMN and FAD, needed by flavoproteins in the citric acid cycle and electron transport chain.",
+   "shortExplanation": "FMN and FAD.",
+   "pmid": "29262062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "acting as a precursor to the coenzymes flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29262062-1-es",
+   "translationKey": "nutrition-29262062-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "La riboflavina (vitamina B2) es precursora de ¿qué coenzimas?",
+   "options": [
+    "NAD y NADP",
+    "FMN y FAD",
+    "Coenzima A",
+    "Pirofosfato de tiamina"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La riboflavina forma FMN y FAD, necesarias para flavoproteínas del ciclo de Krebs y la cadena respiratoria.",
+   "shortExplanation": "FMN y FAD.",
+   "pmid": "29262062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "acting as a precursor to the coenzymes flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29262062-2-en",
+   "translationKey": "nutrition-29262062-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "Why can B-vitamin supplements turn urine bright yellow?",
+   "options": [
+    "Because of blood in the urine",
+    "Because of excess iron",
+    "Because excess riboflavin is excreted in urine",
+    "Because of dehydration only"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Excess riboflavin is excreted in urine, giving a characteristic yellow color.",
+   "shortExplanation": "Riboflavin.",
+   "pmid": "29262062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Excess riboflavin is excreted in urine, producing the characteristic yellow color",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29262062-2-es",
+   "translationKey": "nutrition-29262062-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Por qué los suplementos de vitaminas B pueden poner la orina amarilla brillante?",
+   "options": [
+    "Por sangre en la orina",
+    "Por exceso de hierro",
+    "Porque el exceso de riboflavina se elimina por orina",
+    "Solo por deshidratación"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El exceso de riboflavina se elimina por orina y le da un color amarillo característico.",
+   "shortExplanation": "Riboflavina.",
+   "pmid": "29262062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Excess riboflavin is excreted in urine, producing the characteristic yellow color",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29489289-1-en",
+   "translationKey": "nutrition-29489289-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "Which disease is historically linked to selenium deficiency?",
+   "options": [
+    "Keshan disease (a cardiomyopathy)",
+    "Pellagra",
+    "Scurvy",
+    "Wilson disease"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Keshan disease, a cardiomyopathy described in China in the 1930s, decreased with selenium supplementation.",
+   "shortExplanation": "Keshan disease.",
+   "pmid": "29489289",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "selenium deficiency was associated with a type of cardiomyopathy known as Keshan disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29489289-1-es",
+   "translationKey": "nutrition-29489289-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "¿Qué enfermedad se vincula históricamente con la deficiencia de selenio?",
+   "options": [
+    "La enfermedad de Keshan (una miocardiopatía)",
+    "La pelagra",
+    "El escorbuto",
+    "La enfermedad de Wilson"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La enfermedad de Keshan, miocardiopatía descrita en China en los años 30, disminuyó con suplementos de selenio.",
+   "shortExplanation": "Keshan.",
+   "pmid": "29489289",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "selenium deficiency was associated with a type of cardiomyopathy known as Keshan disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29489289-2-en",
+   "translationKey": "nutrition-29489289-2",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "Selenium-dependent deiodinases are important for which process?",
+   "options": [
+    "Absorbing iron",
+    "Making bile",
+    "Converting T4 into active T3",
+    "Producing insulin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Selenoproteins include glutathione peroxidase (antioxidant) and deiodinases that activate thyroid hormone.",
+   "shortExplanation": "T4 to T3.",
+   "pmid": "29489289",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "iodothyronine deiodinases, which facilitate the conversion of inactive thyroxine or tetraiodothyronine (T4) into the active thyroid hormone triiodothyronine (T3)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-29489289-2-es",
+   "translationKey": "nutrition-29489289-2",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "researcher",
+   "prompt": "Las desyodasas dependientes de selenio son importantes para ¿qué proceso?",
+   "options": [
+    "Absorber hierro",
+    "Producir bilis",
+    "Convertir T4 en T3 activa",
+    "Producir insulina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las selenoproteínas incluyen la glutatión peroxidasa (antioxidante) y desyodasas que activan la hormona tiroidea.",
+   "shortExplanation": "T4 a T3.",
+   "pmid": "29489289",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "iodothyronine deiodinases, which facilitate the conversion of inactive thyroxine or tetraiodothyronine (T4) into the active thyroid hormone triiodothyronine (T3)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-31613478-1-en",
+   "translationKey": "nutrition-31613478-1",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "For which common condition is zinc used as a treatment, especially in children?",
+   "options": [
+    "Diarrhea",
+    "Myopia",
+    "Hair graying",
+    "Headache"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Zinc supplementation is used in the management of diarrhea and of zinc deficiency.",
+   "shortExplanation": "Diarrhea.",
+   "pmid": "31613478",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Zinc is a medication used in the management and treatment of diarrhea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-31613478-1-es",
+   "translationKey": "nutrition-31613478-1",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "curious",
+   "prompt": "¿Para qué condición frecuente se usa el zinc como tratamiento, sobre todo en niños?",
+   "options": [
+    "Diarrea",
+    "Miopía",
+    "Canas",
+    "Dolor de cabeza"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los suplementos de zinc se usan en el manejo de la diarrea y de la deficiencia de zinc.",
+   "shortExplanation": "Diarrea.",
+   "pmid": "31613478",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Zinc is a medication used in the management and treatment of diarrhea",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
