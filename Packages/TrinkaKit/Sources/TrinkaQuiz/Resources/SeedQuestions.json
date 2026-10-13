@@ -1,5 +1,5 @@
 {
- "version": 40,
+ "version": 41,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -3821,6 +3821,530 @@
     "Multicenter Study",
     "Randomized Controlled Trial",
     "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25258085",
+   "title": "Epigenetic programming of monocyte-to-macrophage differentiation and trained innate immunity.",
+   "authors": [
+    "Saeed S",
+    "Quintin J",
+    "Kerstens HH",
+    "Rao NA",
+    "Aghajanirefah A",
+    "Matarese F",
+    "Cheng SC",
+    "Ratter J",
+    "Berentsen K",
+    "van der Ent MA",
+    "Sharifi N",
+    "Janssen-Megens EM",
+    "Ter Huurne M",
+    "Mandoli A",
+    "van Schaik T",
+    "Ng A",
+    "Burden F",
+    "Downes K",
+    "Frontini M",
+    "Kumar V",
+    "Giamarellos-Bourboulis EJ",
+    "Ouwehand WH",
+    "van der Meer JW",
+    "Joosten LA",
+    "Wijmenga C",
+    "Martens JH",
+    "Xavier RJ",
+    "Logie C",
+    "Netea MG",
+    "Stunnenberg HG"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2014,
+   "doi": "10.1126/science.1251086",
+   "abstract": "Monocyte differentiation into macrophages represents a cornerstone process for host defense. Concomitantly, immunological imprinting of either tolerance or trained immunity determines the functional fate of macrophages and susceptibility to secondary infections. We characterized the transcriptomes and epigenomes in four primary cell types: monocytes and in vitro-differentiated naïve, tolerized, and trained macrophages. Inflammatory and metabolic pathways were modulated in macrophages, including decreased inflammasome activation, and we identified pathways functionally implicated in trained immunity. β-glucan training elicits an exclusive epigenetic signature, revealing a complex network of enhancers and promoters. Analysis of transcription factor motifs in deoxyribonuclease I hypersensitive sites at cell-type-specific epigenetic loci unveiled differentiation and treatment-specific repertoires. Altogether, we provide a resource to understand the epigenetic changes that underlie innate immunity in humans.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31672891",
+   "title": "Measles virus infection diminishes preexisting antibodies that offer protection from other pathogens.",
+   "authors": [
+    "Mina MJ",
+    "Kula T",
+    "Leng Y",
+    "Li M",
+    "de Vries RD",
+    "Knip M",
+    "Siljander H",
+    "Rewers M",
+    "Choy DF",
+    "Wilson MS",
+    "Larman HB",
+    "Nelson AN",
+    "Griffin DE",
+    "de Swart RL",
+    "Elledge SJ"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2019,
+   "doi": "10.1126/science.aay6485",
+   "abstract": "Measles virus is directly responsible for more than 100,000 deaths yearly. Epidemiological studies have associated measles with increased morbidity and mortality for years after infection, but the reasons why are poorly understood. Measles virus infects immune cells, causing acute immune suppression. To identify and quantify long-term effects of measles on the immune system, we used VirScan, an assay that tracks antibodies to thousands of pathogen epitopes in blood. We studied 77 unvaccinated children before and 2 months after natural measles virus infection. Measles caused elimination of 11 to 73% of the antibody repertoire across individuals. Recovery of antibodies was detected after natural reexposure to pathogens. Notably, these immune system effects were not observed in infants vaccinated against MMR (measles, mumps, and rubella), but were confirmed in measles-infected macaques. The reduction in humoral immune memory after measles infection generates potential vulnerability to future infections, underscoring the need for widespread vaccination.",
+   "publicationTypes": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23258413",
+   "title": "Cyclic GMP-AMP synthase is a cytosolic DNA sensor that activates the type I interferon pathway.",
+   "authors": [
+    "Sun L",
+    "Wu J",
+    "Du F",
+    "Chen X",
+    "Chen ZJ"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2013,
+   "doi": "10.1126/science.1232458",
+   "abstract": "The presence of DNA in the cytoplasm of mammalian cells is a danger signal that triggers host immune responses such as the production of type I interferons. Cytosolic DNA induces interferons through the production of cyclic guanosine monophosphate-adenosine monophosphate (cyclic GMP-AMP, or cGAMP), which binds to and activates the adaptor protein STING. Through biochemical fractionation and quantitative mass spectrometry, we identified a cGAMP synthase (cGAS), which belongs to the nucleotidyltransferase family. Overexpression of cGAS activated the transcription factor IRF3 and induced interferon-β in a STING-dependent manner. Knockdown of cGAS inhibited IRF3 activation and interferon-β induction by DNA transfection or DNA virus infection. cGAS bound to DNA in the cytoplasm and catalyzed cGAMP synthesis. These results indicate that cGAS is a cytosolic DNA sensor that induces interferons by producing the second messenger cGAMP.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23258412",
+   "title": "Cyclic GMP-AMP is an endogenous second messenger in innate immune signaling by cytosolic DNA.",
+   "authors": [
+    "Wu J",
+    "Sun L",
+    "Chen X",
+    "Du F",
+    "Shi H",
+    "Chen C",
+    "Chen ZJ"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2013,
+   "doi": "10.1126/science.1229963",
+   "abstract": "Cytosolic DNA induces type I interferons and other cytokines that are important for antimicrobial defense but can also result in autoimmunity. This DNA signaling pathway requires the adaptor protein STING and the transcription factor IRF3, but the mechanism of DNA sensing is unclear. We found that mammalian cytosolic extracts synthesized cyclic guanosine monophosphate-adenosine monophosphate (cyclic GMP-AMP, or cGAMP) in vitro from adenosine triphosphate and guanosine triphosphate in the presence of DNA but not RNA. DNA transfection or DNA virus infection of mammalian cells also triggered cGAMP production. cGAMP bound to STING, leading to the activation of IRF3 and induction of interferon-β. Thus, cGAMP functions as an endogenous second messenger in metazoans and triggers interferon production in response to cytosolic DNA.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28596308",
+   "title": "Mismatch repair deficiency predicts response of solid tumors to PD-1 blockade.",
+   "authors": [
+    "Le DT",
+    "Durham JN",
+    "Smith KN",
+    "Wang H",
+    "Bartlett BR",
+    "Aulakh LK",
+    "Lu S",
+    "Kemberling H",
+    "Wilt C",
+    "Luber BS",
+    "Wong F",
+    "Azad NS",
+    "Rucki AA",
+    "Laheru D",
+    "Donehower R",
+    "Zaheer A",
+    "Fisher GA",
+    "Crocenzi TS",
+    "Lee JJ",
+    "Greten TF",
+    "Duffy AG",
+    "Ciombor KK",
+    "Eyring AD",
+    "Lam BH",
+    "Joe A",
+    "Kang SP",
+    "Holdhoff M",
+    "Danilova L",
+    "Cope L",
+    "Meyer C",
+    "Zhou S",
+    "Goldberg RM",
+    "Armstrong DK",
+    "Bever KM",
+    "Fader AN",
+    "Taube J",
+    "Housseau F",
+    "Spetzler D",
+    "Xiao N",
+    "Pardoll DM",
+    "Papadopoulos N",
+    "Kinzler KW",
+    "Eshleman JR",
+    "Vogelstein B",
+    "Anders RA",
+    "Diaz LA"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2017,
+   "doi": "10.1126/science.aan6733",
+   "abstract": "The genomes of cancers deficient in mismatch repair contain exceptionally high numbers of somatic mutations. In a proof-of-concept study, we previously showed that colorectal cancers with mismatch repair deficiency were sensitive to immune checkpoint blockade with antibodies to programmed death receptor-1 (PD-1). We have now expanded this study to evaluate the efficacy of PD-1 blockade in patients with advanced mismatch repair-deficient cancers across 12 different tumor types. Objective radiographic responses were observed in 53% of patients, and complete responses were achieved in 21% of patients. Responses were durable, with median progression-free survival and overall survival still not reached. Functional analysis in a responding patient demonstrated rapid in vivo expansion of neoantigen-specific T cell clones that were reactive to mutant neopeptides found in the tumor. These data support the hypothesis that the large proportion of mutant neoantigens in mismatch repair-deficient cancers make them sensitive to immune checkpoint blockade, regardless of the cancers' tissue of origin.",
+   "publicationTypes": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29226797",
+   "title": "Axicabtagene Ciloleucel CAR T-Cell Therapy in Refractory Large B-Cell Lymphoma.",
+   "authors": [
+    "Neelapu SS",
+    "Locke FL",
+    "Bartlett NL",
+    "Lekakis LJ",
+    "Miklos DB",
+    "Jacobson CA",
+    "Braunschweig I",
+    "Oluwole OO",
+    "Siddiqi T",
+    "Lin Y",
+    "Timmerman JM",
+    "Stiff PJ",
+    "Friedberg JW",
+    "Flinn IW",
+    "Goy A",
+    "Hill BT",
+    "Smith MR",
+    "Deol A",
+    "Farooq U",
+    "McSweeney P",
+    "Munoz J",
+    "Avivi I",
+    "Castro JE",
+    "Westin JR",
+    "Chavez JC",
+    "Ghobadi A",
+    "Komanduri KV",
+    "Levy R",
+    "Jacobsen ED",
+    "Witzig TE",
+    "Reagan P",
+    "Bot A",
+    "Rossi J",
+    "Navale L",
+    "Jiang Y",
+    "Aycock J",
+    "Elias M",
+    "Chang D",
+    "Wiezorek J",
+    "Go WY"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2017,
+   "doi": "10.1056/NEJMoa1707447",
+   "abstract": "BACKGROUND: In a phase 1 trial, axicabtagene ciloleucel (axi-cel), an autologous anti-CD19 chimeric antigen receptor (CAR) T-cell therapy, showed efficacy in patients with refractory large B-cell lymphoma after the failure of conventional therapy.\nMETHODS: In this multicenter, phase 2 trial, we enrolled 111 patients with diffuse large B-cell lymphoma, primary mediastinal B-cell lymphoma, or transformed follicular lymphoma who had refractory disease despite undergoing recommended prior therapy. Patients received a target dose of 2×106 anti-CD19 CAR T cells per kilogram of body weight after receiving a conditioning regimen of low-dose cyclophosphamide and fludarabine. The primary end point was the rate of objective response (calculated as the combined rates of complete response and partial response). Secondary end points included overall survival, safety, and biomarker assessments.\nRESULTS: Among the 111 patients who were enrolled, axi-cel was successfully manufactured for 110 (99%) and administered to 101 (91%). The objective response rate was 82%, and the complete response rate was 54%.With a median follow-up of 15.4 months, 42% of the patients continued to have a response, with 40% continuing to have a complete response. The overall rate of survival at 18 months was 52%. The most common adverse events of grade 3 or higher during treatment were neutropenia (in 78% of the patients), anemia (in 43%), and thrombocytopenia (in 38%). Grade 3 or higher cytokine release syndrome and neurologic events occurred in 13% and 28% of the patients, respectively. Three of the patients died during treatment. Higher CAR T-cell levels in blood were associated with response.\nCONCLUSIONS: In this multicenter study, patients with refractory large B-cell lymphoma who received CAR T-cell therapy with axi-cel had high levels of durable response, with a safety profile that included myelosuppression, the cytokine release syndrome, and neurologic events. (Funded by Kite Pharma and the Leukemia and Lymphoma Society Therapy Acceleration Program; ZUMA-1 ClinicalTrials.gov number, NCT02348216 .).",
+   "publicationTypes": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29385370",
+   "title": "Tisagenlecleucel in Children and Young Adults with B-Cell Lymphoblastic Leukemia.",
+   "authors": [
+    "Maude SL",
+    "Laetsch TW",
+    "Buechner J",
+    "Rives S",
+    "Boyer M",
+    "Bittencourt H",
+    "Bader P",
+    "Verneris MR",
+    "Stefanski HE",
+    "Myers GD",
+    "Qayed M",
+    "De Moerloose B",
+    "Hiramatsu H",
+    "Schlis K",
+    "Davis KL",
+    "Martin PL",
+    "Nemecek ER",
+    "Yanik GA",
+    "Peters C",
+    "Baruchel A",
+    "Boissel N",
+    "Mechinaud F",
+    "Balduzzi A",
+    "Krueger J",
+    "June CH",
+    "Levine BL",
+    "Wood P",
+    "Taran T",
+    "Leung M",
+    "Mueller KT",
+    "Zhang Y",
+    "Sen K",
+    "Lebwohl D",
+    "Pulsipher MA",
+    "Grupp SA"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2018,
+   "doi": "10.1056/NEJMoa1709866",
+   "abstract": "BACKGROUND: In a single-center phase 1-2a study, the anti-CD19 chimeric antigen receptor (CAR) T-cell therapy tisagenlecleucel produced high rates of complete remission and was associated with serious but mainly reversible toxic effects in children and young adults with relapsed or refractory B-cell acute lymphoblastic leukemia (ALL).\nMETHODS: We conducted a phase 2, single-cohort, 25-center, global study of tisagenlecleucel in pediatric and young adult patients with CD19+ relapsed or refractory B-cell ALL. The primary end point was the overall remission rate (the rate of complete remission or complete remission with incomplete hematologic recovery) within 3 months.\nRESULTS: For this planned analysis, 75 patients received an infusion of tisagenlecleucel and could be evaluated for efficacy. The overall remission rate within 3 months was 81%, with all patients who had a response to treatment found to be negative for minimal residual disease, as assessed by means of flow cytometry. The rates of event-free survival and overall survival were 73% (95% confidence interval [CI], 60 to 82) and 90% (95% CI, 81 to 95), respectively, at 6 months and 50% (95% CI, 35 to 64) and 76% (95% CI, 63 to 86) at 12 months. The median duration of remission was not reached. Persistence of tisagenlecleucel in the blood was observed for as long as 20 months. Grade 3 or 4 adverse events that were suspected to be related to tisagenlecleucel occurred in 73% of patients. The cytokine release syndrome occurred in 77% of patients, 48% of whom received tocilizumab. Neurologic events occurred in 40% of patients and were managed with supportive care, and no cerebral edema was reported.\nCONCLUSIONS: In this global study of CAR T-cell therapy, a single infusion of tisagenlecleucel provided durable remission with long-term persistence in pediatric and young adult patients with relapsed or refractory B-cell ALL, with transient high-grade toxic effects. (Funded by Novartis Pharmaceuticals; ClinicalTrials.gov number, NCT02435849 .).",
+   "publicationTypes": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29782217",
+   "title": "Dupilumab Efficacy and Safety in Moderate-to-Severe Uncontrolled Asthma.",
+   "authors": [
+    "Castro M",
+    "Corren J",
+    "Pavord ID",
+    "Maspero J",
+    "Wenzel S",
+    "Rabe KF",
+    "Busse WW",
+    "Ford L",
+    "Sher L",
+    "FitzGerald JM",
+    "Katelaris C",
+    "Tohda Y",
+    "Zhang B",
+    "Staudinger H",
+    "Pirozzi G",
+    "Amin N",
+    "Ruddy M",
+    "Akinlade B",
+    "Khan A",
+    "Chao J",
+    "Martincova R",
+    "Graham NMH",
+    "Hamilton JD",
+    "Swanson BN",
+    "Stahl N",
+    "Yancopoulos GD",
+    "Teper A"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2018,
+   "doi": "10.1056/NEJMoa1804092",
+   "abstract": "BACKGROUND: Dupilumab is a fully human anti-interleukin-4 receptor α monoclonal antibody that blocks both interleukin-4 and interleukin-13 signaling. We assessed its efficacy and safety in patients with uncontrolled asthma.\nMETHODS: We randomly assigned 1902 patients 12 years of age or older with uncontrolled asthma in a 2:2:1:1 ratio to receive add-on subcutaneous dupilumab at a dose of 200 or 300 mg every 2 weeks or matched-volume placebos for 52 weeks. The primary end points were the annualized rate of severe asthma exacerbations and the absolute change from baseline to week 12 in the forced expiratory volume in 1 second (FEV1) before bronchodilator use in the overall trial population. Secondary end points included the exacerbation rate and FEV1 in patients with a blood eosinophil count of 300 or more per cubic millimeter. Asthma control and dupilumab safety were also assessed.\nRESULTS: The annualized rate of severe asthma exacerbations was 0.46 (95% confidence interval [CI], 0.39 to 0.53) among patients assigned to 200 mg of dupilumab every 2 weeks and 0.87 (95% CI, 0.72 to 1.05) among those assigned to a matched placebo, for a 47.7% lower rate with dupilumab than with placebo (P<0.001); similar results were seen with the dupilumab dose of 300 mg every 2 weeks. At week 12, the FEV1 had increased by 0.32 liters in patients assigned to the lower dose of dupilumab (difference vs. matched placebo, 0.14 liters; P<0.001); similar results were seen with the higher dose. Among patients with a blood eosinophil count of 300 or more per cubic millimeter, the annualized rate of severe asthma exacerbations was 0.37 (95% CI, 0.29 to 0.48) among those receiving lower-dose dupilumab and 1.08 (95% CI, 0.85 to 1.38) among those receiving a matched placebo (65.8% lower rate with dupilumab than with placebo; 95% CI, 52.0 to 75.6); similar results were observed with the higher dose. Blood eosinophilia occurred after the start of the intervention in 52 patients (4.1%) who received dupilumab as compared with 4 patients (0.6%) who received placebo.\nCONCLUSIONS: In this trial, patients who received dupilumab had significantly lower rates of severe asthma exacerbation than those who received placebo, as well as better lung function and asthma control. Greater benefits were seen in patients with higher baseline levels of eosinophils. Hypereosinophilia was observed in some patients. (Funded by Sanofi and Regeneron Pharmaceuticals; LIBERTY ASTHMA QUEST ClinicalTrials.gov number, NCT02414854 .).",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23688323",
+   "title": "Dupilumab in persistent asthma with elevated eosinophil levels.",
+   "authors": [
+    "Wenzel S",
+    "Ford L",
+    "Pearlman D",
+    "Spector S",
+    "Sher L",
+    "Skobieranda F",
+    "Wang L",
+    "Kirkesseli S",
+    "Rocklin R",
+    "Bock B",
+    "Hamilton J",
+    "Ming JE",
+    "Radin A",
+    "Stahl N",
+    "Yancopoulos GD",
+    "Graham N",
+    "Pirozzi G"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2013,
+   "doi": "10.1056/NEJMoa1304048",
+   "abstract": "BACKGROUND: Moderate-to-severe asthma remains poorly treated. We evaluated the efficacy and safety of dupilumab (SAR231893/REGN668), a fully human monoclonal antibody to the alpha subunit of the interleukin-4 receptor, in patients with persistent, moderate-to-severe asthma and elevated eosinophil levels.\nMETHODS: We enrolled patients with persistent, moderate-to-severe asthma and a blood eosinophil count of at least 300 cells per microliter or a sputum eosinophil level of at least 3% who used medium-dose to high-dose inhaled glucocorticoids plus long-acting beta-agonists (LABAs). We administered dupilumab (300 mg) or placebo subcutaneously once weekly. Patients were instructed to discontinue LABAs at week 4 and to taper and discontinue inhaled glucocorticoids during weeks 6 through 9. Patients received the study drug for 12 weeks or until a protocol-defined asthma exacerbation occurred. The primary end point was the occurrence of an asthma exacerbation; secondary end points included a range of measures of asthma control. Effects on various type 2 helper T-cell (Th2)-associated biomarkers and safety and tolerability were also evaluated.\nRESULTS: A total of 52 patients were assigned to the dupilumab group, and 52 patients were assigned to the placebo group. Baseline characteristics were similar in the two groups. Three patients had an asthma exacerbation with dupilumab (6%) versus 23 with placebo (44%), corresponding to an 87% reduction with dupilumab (odds ratio, 0.08; 95% confidence interval, 0.02 to 0.28; P<0.001). Significant improvements were observed for most measures of lung function and asthma control. Dupilumab reduced biomarkers associated with Th2-driven inflammation. Injection-site reactions, nasopharyngitis, nausea, and headache occurred more frequently with dupilumab than with placebo.\nCONCLUSIONS: In patients with persistent, moderate-to-severe asthma and elevated eosinophil levels who used inhaled glucocorticoids and LABAs, dupilumab therapy, as compared with placebo, was associated with fewer asthma exacerbations when LABAs and inhaled glucocorticoids were withdrawn, with improved lung function and reduced levels of Th2-associated inflammatory markers. (Funded by Sanofi and Regeneron Pharmaceuticals; ClinicalTrials.gov number, NCT01312961.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30449234",
+   "title": "AR101 Oral Immunotherapy for Peanut Allergy.",
+   "authors": [
+    "PALISADE Group of Clinical Investigators",
+    "Vickery BP",
+    "Vereda A",
+    "Casale TB",
+    "Beyer K",
+    "du Toit G",
+    "Hourihane JO",
+    "Jones SM",
+    "Shreffler WG",
+    "Marcantonio A",
+    "Zawadzki R",
+    "Sher L",
+    "Carr WW",
+    "Fineman S",
+    "Greos L",
+    "Rachid R",
+    "Ibáñez MD",
+    "Tilles S",
+    "Assa’ad AH",
+    "Nilsson C",
+    "Rupp N",
+    "Welch MJ",
+    "Sussman G",
+    "Chinthrajah S",
+    "Blumchen K",
+    "Sher E",
+    "Spergel JM",
+    "Leickly FE",
+    "Zielen S",
+    "Wang J",
+    "Sanders GM",
+    "Wood RA",
+    "Cheema A",
+    "Bindslev-Jensen C",
+    "Leonard S",
+    "Kachru R",
+    "Johnston DT",
+    "Hampel FC",
+    "Kim EH",
+    "Anagnostou A",
+    "Pongracic JA",
+    "Ben-Shoshan M",
+    "Sharma HP",
+    "Stillerman A",
+    "Windom HH",
+    "Yang WH",
+    "Muraro A",
+    "Zubeldia JM",
+    "Sharma V",
+    "Dorsey MJ",
+    "Chong HJ",
+    "Ohayon J",
+    "Bird JA",
+    "Carr TF",
+    "Siri D",
+    "Fernández-Rivas M",
+    "Jeong DK",
+    "Fleischer DM",
+    "Lieberman JA",
+    "Dubois AEJ",
+    "Tsoumani M",
+    "Ciaccio CE",
+    "Portnoy JM",
+    "Mansfield LE",
+    "Fritz SB",
+    "Lanser BJ",
+    "Matz J",
+    "Oude Elberink HNG",
+    "Varshney P",
+    "Dilly SG",
+    "Adelman DC",
+    "Burks AW"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2018,
+   "doi": "10.1056/NEJMoa1812856",
+   "abstract": "BACKGROUND: Peanut allergy, for which there are no approved treatment options, affects patients who are at risk for unpredictable and occasionally life-threatening allergic reactions.\nMETHODS: In a phase 3 trial, we screened participants 4 to 55 years of age with peanut allergy for allergic dose-limiting symptoms at a challenge dose of 100 mg or less of peanut protein (approximately one third of a peanut kernel) in a double-blind, placebo-controlled food challenge. Participants with an allergic response were randomly assigned, in a 3:1 ratio, to receive AR101 (a peanut-derived investigational biologic oral immunotherapy drug) or placebo in an escalating-dose program. Participants who completed the regimen (i.e., received 300 mg per day of the maintenance regimen for approximately 24 weeks) underwent a double-blind, placebo-controlled food challenge at trial exit. The primary efficacy end point was the proportion of participants 4 to 17 years of age who could ingest a challenge dose of 600 mg or more, without dose-limiting symptoms.\nRESULTS: Of the 551 participants who received AR101 or placebo, 496 were 4 to 17 years of age; of these, 250 of 372 participants (67.2%) who received active treatment, as compared with 5 of 124 participants (4.0%) who received placebo, were able to ingest a dose of 600 mg or more of peanut protein, without dose-limiting symptoms, at the exit food challenge (difference, 63.2 percentage points; 95% confidence interval, 53.0 to 73.3; P<0.001). During the exit food challenge, the maximum severity of symptoms was moderate in 25% of the participants in the active-drug group and 59% of those in the placebo group and severe in 5% and 11%, respectively. Adverse events during the intervention period affected more than 95% of the participants 4 to 17 years of age. A total of 34.7% of the participants in the active-drug group had mild events, as compared with 50.0% of those in the placebo group; 59.7% and 44.4% of the participants, respectively, had events that were graded as moderate, and 4.3% and 0.8%, respectively, had events that were graded as severe. Efficacy was not shown in the participants 18 years of age or older.\nCONCLUSIONS: In this phase 3 trial of oral immunotherapy in children and adolescents who were highly allergic to peanut, treatment with AR101 resulted in higher doses of peanut protein that could be ingested without dose-limiting symptoms and in lower symptom severity during peanut exposure at the exit food challenge than placebo. (Funded by Aimmune Therapeutics; PALISADE ClinicalTrials.gov number, NCT02635776 .).",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38407394",
+   "title": "Omalizumab for the Treatment of Multiple Food Allergies.",
+   "authors": [
+    "Wood RA",
+    "Togias A",
+    "Sicherer SH",
+    "Shreffler WG",
+    "Kim EH",
+    "Jones SM",
+    "Leung DYM",
+    "Vickery BP",
+    "Bird JA",
+    "Spergel JM",
+    "Iqbal A",
+    "Olsson J",
+    "Ligueros-Saylan M",
+    "Uddin A",
+    "Calatroni A",
+    "Huckabee CM",
+    "Rogers NH",
+    "Yovetich N",
+    "Dantzer J",
+    "Mudd K",
+    "Wang J",
+    "Groetch M",
+    "Pyle D",
+    "Keet CA",
+    "Kulis M",
+    "Sindher SB",
+    "Long A",
+    "Scurlock AM",
+    "Lanser BJ",
+    "Lee T",
+    "Parrish C",
+    "Brown-Whitehorn T",
+    "Spergel AKR",
+    "Veri M",
+    "Hamrah SD",
+    "Brittain E",
+    "Poyser J",
+    "Wheatley LM",
+    "Chinthrajah RS"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2024,
+   "doi": "10.1056/NEJMoa2312382",
+   "abstract": "BACKGROUND: Food allergies are common and are associated with substantial morbidity; the only approved treatment is oral immunotherapy for peanut allergy.\nMETHODS: In this trial, we assessed whether omalizumab, a monoclonal anti-IgE antibody, would be effective and safe as monotherapy in patients with multiple food allergies. Persons 1 to 55 years of age who were allergic to peanuts and at least two other trial-specified foods (cashew, milk, egg, walnut, wheat, and hazelnut) were screened. Inclusion required a reaction to a food challenge of 100 mg or less of peanut protein and 300 mg or less of the two other foods. Participants were randomly assigned, in a 2:1 ratio, to receive omalizumab or placebo administered subcutaneously (with the dose based on weight and IgE levels) every 2 to 4 weeks for 16 to 20 weeks, after which the challenges were repeated. The primary end point was ingestion of peanut protein in a single dose of 600 mg or more without dose-limiting symptoms. The three key secondary end points were the consumption of cashew, of milk, and of egg in single doses of at least 1000 mg each without dose-limiting symptoms. The first 60 participants (59 of whom were children or adolescents) who completed this first stage were enrolled in a 24-week open-label extension.\nRESULTS: Of the 462 persons who were screened, 180 underwent randomization. The analysis population consisted of the 177 children and adolescents (1 to 17 years of age). A total of 79 of the 118 participants (67%) receiving omalizumab met the primary end-point criteria, as compared with 4 of the 59 participants (7%) receiving placebo (P<0.001). Results for the key secondary end points were consistent with those of the primary end point (cashew, 41% vs. 3%; milk, 66% vs. 10%; egg, 67% vs. 0%; P<0.001 for all comparisons). Safety end points did not differ between the groups, aside from more injection-site reactions in the omalizumab group.\nCONCLUSIONS: In persons as young as 1 year of age with multiple food allergies, omalizumab treatment for 16 weeks was superior to placebo in increasing the reaction threshold for peanut and other common food allergens. (Funded by the National Institute of Allergy and Infectious Diseases and others; ClinicalTrials.gov number, NCT03881696.).",
+   "publicationTypes": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "27653600",
+   "title": "Germinal Center B Cell Dynamics.",
+   "authors": [
+    "Mesin L",
+    "Ersching J",
+    "Victora GD"
+   ],
+   "journal": "Immunity",
+   "year": 2016,
+   "doi": "10.1016/j.immuni.2016.09.001",
+   "abstract": "Germinal centers (GCs) are the site of antibody diversification and affinity maturation and as such are vitally important for humoral immunity. The study of GC biology has undergone a renaissance in the past 10 years, with a succession of findings that have transformed our understanding of the cellular dynamics of affinity maturation. In this review, we discuss recent developments in the field, with special emphasis on how GC cellular and clonal dynamics shape antibody affinity and diversity during the immune response.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
    ]
   },
   {
@@ -33407,6 +33931,1014 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "these findings correspond to an efficacy of 74.5%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-25258085-1-en",
+   "translationKey": "immuno-25258085-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "In this study, which stimulus produced a distinct epigenetic signature of trained immunity in macrophages?",
+   "options": [
+    "Insulin",
+    "Histamine",
+    "β-glucan",
+    "Vitamin D"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Training with β-glucan left a unique network of enhancers and promoters, unlike LPS-induced tolerance.",
+   "shortExplanation": "β-glucan.",
+   "pmid": "25258085",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "β-glucan training elicits an exclusive epigenetic signature",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-25258085-1-es",
+   "translationKey": "immuno-25258085-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "En este estudio, ¿qué estímulo produjo una firma epigenética propia de inmunidad entrenada en macrófagos?",
+   "options": [
+    "La insulina",
+    "La histamina",
+    "El β-glucano",
+    "La vitamina D"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El entrenamiento con β-glucano dejó una red única de potenciadores y promotores, a diferencia de la tolerancia por LPS.",
+   "shortExplanation": "El β-glucano.",
+   "pmid": "25258085",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "β-glucan training elicits an exclusive epigenetic signature",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-25258085-2-en",
+   "translationKey": "immuno-25258085-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "According to this paper, what determines the functional fate of macrophages after an earlier exposure?",
+   "options": [
+    "Imprinting of tolerance or training",
+    "Only the person's ABO blood type",
+    "The number of red blood cells",
+    "The time of day of the infection"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "A prior encounter can imprint tolerance or trained immunity, shaping later responses to infection.",
+   "shortExplanation": "Tolerance or training.",
+   "pmid": "25258085",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "immunological imprinting of either tolerance or trained immunity determines the functional fate of macrophages",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-25258085-2-es",
+   "translationKey": "immuno-25258085-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Según este trabajo, ¿qué determina el destino funcional de los macrófagos tras una exposición previa?",
+   "options": [
+    "Impronta de tolerancia o entrenamiento",
+    "Solo el grupo sanguíneo de la persona",
+    "La cantidad de glóbulos rojos",
+    "La hora del día de la infección"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Un encuentro previo puede imprimir tolerancia o inmunidad entrenada y modelar la respuesta posterior.",
+   "shortExplanation": "Tolerancia o entrenamiento.",
+   "pmid": "25258085",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "immunological imprinting of either tolerance or trained immunity determines the functional fate of macrophages",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31672891-1-en",
+   "translationKey": "immuno-31672891-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "How much of children's preexisting antibody repertoire did measles infection eliminate?",
+   "options": [
+    "None at all",
+    "About 1% of it",
+    "All of it, always",
+    "From 11% to 73%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "VirScan showed measles wiped out 11–73% of antibodies against other pathogens: immune amnesia.",
+   "shortExplanation": "11–73%.",
+   "pmid": "31672891",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Measles caused elimination of 11 to 73% of the antibody repertoire across individuals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31672891-1-es",
+   "translationKey": "immuno-31672891-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuánto del repertorio de anticuerpos previo de los niños eliminó la infección por sarampión?",
+   "options": [
+    "Nada en absoluto",
+    "Cerca del 1%",
+    "Todo, siempre",
+    "Entre 11% y 73%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "VirScan mostró que el sarampión eliminó 11–73% de los anticuerpos contra otros patógenos: amnesia inmune.",
+   "shortExplanation": "11–73%.",
+   "pmid": "31672891",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Measles caused elimination of 11 to 73% of the antibody repertoire across individuals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31672891-2-en",
+   "translationKey": "immuno-31672891-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Did the MMR vaccine cause the same loss of antibodies as natural measles?",
+   "options": [
+    "Yes, an even bigger loss",
+    "No, it did not",
+    "Only in adults",
+    "Only after two doses"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Vaccinated infants did not lose antibodies, which strengthens the case for widespread vaccination.",
+   "shortExplanation": "No.",
+   "pmid": "31672891",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "these immune system effects were not observed in infants vaccinated against MMR",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-31672891-2-es",
+   "translationKey": "immuno-31672891-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿La vacuna triple viral causó la misma pérdida de anticuerpos que el sarampión natural?",
+   "options": [
+    "Sí, una pérdida aún mayor",
+    "No, no la causó",
+    "Solo en adultos",
+    "Solo tras dos dosis"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los lactantes vacunados no perdieron anticuerpos, lo que refuerza la importancia de vacunar.",
+   "shortExplanation": "No.",
+   "pmid": "31672891",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "these immune system effects were not observed in infants vaccinated against MMR",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23258413-1-en",
+   "translationKey": "immuno-23258413-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "What does the enzyme cGAS do in innate immunity?",
+   "options": [
+    "Senses cytosolic DNA, makes cGAMP",
+    "Cuts viral RNA into small pieces",
+    "Presents peptides on MHC class I",
+    "Produces antibodies against DNA"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "cGAS binds DNA in the cytoplasm and synthesizes cGAMP, which activates STING and type I interferons.",
+   "shortExplanation": "Senses DNA, makes cGAMP.",
+   "pmid": "23258413",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cGAS is a cytosolic DNA sensor that induces interferons by producing the second messenger cGAMP",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23258413-1-es",
+   "translationKey": "immuno-23258413-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué hace la enzima cGAS en la inmunidad innata?",
+   "options": [
+    "Detecta ADN citosólico, hace cGAMP",
+    "Corta el ARN viral en pedazos",
+    "Presenta péptidos en el MHC de clase I",
+    "Produce anticuerpos contra el ADN"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "cGAS se une al ADN del citoplasma y sintetiza cGAMP, que activa STING y los interferones de tipo I.",
+   "shortExplanation": "Detecta ADN, produce cGAMP.",
+   "pmid": "23258413",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cGAS is a cytosolic DNA sensor that induces interferons by producing the second messenger cGAMP",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23258412-1-en",
+   "translationKey": "immuno-23258412-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Cytosolic extracts synthesized cGAMP from ATP and GTP in the presence of…",
+   "options": [
+    "RNA but not DNA",
+    "Both RNA and protein",
+    "DNA but not RNA",
+    "Lipids from bacteria"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "cGAMP synthesis required DNA, not RNA, and then bound STING to induce interferon-β.",
+   "shortExplanation": "DNA, not RNA.",
+   "pmid": "23258412",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "in the presence of DNA but not RNA",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23258412-1-es",
+   "translationKey": "immuno-23258412-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Los extractos citosólicos sintetizaron cGAMP a partir de ATP y GTP en presencia de…",
+   "options": [
+    "ARN pero no ADN",
+    "ARN y proteínas",
+    "ADN pero no ARN",
+    "Lípidos bacterianos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La síntesis de cGAMP requería ADN, no ARN, y luego se unía a STING para inducir interferón-β.",
+   "shortExplanation": "ADN, no ARN.",
+   "pmid": "23258412",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "in the presence of DNA but not RNA",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23258412-2-en",
+   "translationKey": "immuno-23258412-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which adaptor protein does cGAMP bind to trigger interferon-β?",
+   "options": [
+    "MyD88",
+    "TLR4",
+    "RIG-I",
+    "STING"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "cGAMP binds STING, which activates IRF3 and the interferon-β gene.",
+   "shortExplanation": "STING.",
+   "pmid": "23258412",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cGAMP bound to STING, leading to the activation of IRF3 and induction of interferon-β",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23258412-2-es",
+   "translationKey": "immuno-23258412-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿A qué proteína adaptadora se une el cGAMP para inducir interferón-β?",
+   "options": [
+    "MyD88",
+    "TLR4",
+    "RIG-I",
+    "STING"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El cGAMP se une a STING, que activa IRF3 y el gen del interferón-β.",
+   "shortExplanation": "STING.",
+   "pmid": "23258412",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cGAMP bound to STING, leading to the activation of IRF3 and induction of interferon-β",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28596308-1-en",
+   "translationKey": "immuno-28596308-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "In mismatch repair–deficient cancers of 12 tissue types, how many patients responded to PD-1 blockade?",
+   "options": [
+    "About 5%",
+    "About half",
+    "About 95%",
+    "None of them"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "53% had objective responses and 21% complete responses, many of them durable.",
+   "shortExplanation": "About half.",
+   "pmid": "28596308",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Objective radiographic responses were observed in 53% of patients, and complete responses were achieved in 21% of patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28596308-1-es",
+   "translationKey": "immuno-28596308-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "En cánceres con déficit de reparación de errores de 12 tejidos, ¿cuántos pacientes respondieron al bloqueo de PD-1?",
+   "options": [
+    "Cerca del 5%",
+    "La mitad",
+    "Cerca del 95%",
+    "Ninguno"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El 53% tuvo respuesta objetiva y el 21% respuesta completa, muchas de ellas duraderas.",
+   "shortExplanation": "Cerca de la mitad.",
+   "pmid": "28596308",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Objective radiographic responses were observed in 53% of patients, and complete responses were achieved in 21% of patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28596308-2-en",
+   "translationKey": "immuno-28596308-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Why are mismatch repair–deficient tumors sensitive to PD-1 blockade?",
+   "options": [
+    "They lack any blood supply",
+    "They grow only very slowly",
+    "They carry many neoantigens",
+    "They have no MHC molecules"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Their many mutations create neoantigens that T cells recognize, whatever the tissue of origin.",
+   "shortExplanation": "Many neoantigens.",
+   "pmid": "28596308",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the large proportion of mutant neoantigens in mismatch repair-deficient cancers make them sensitive to immune checkpoint blockade, regardless of the cancers' tissue of origin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-28596308-2-es",
+   "translationKey": "immuno-28596308-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué los tumores con déficit de reparación de errores son sensibles al bloqueo de PD-1?",
+   "options": [
+    "No tienen irrigación sanguínea",
+    "Crecen muy lentamente",
+    "Portan muchos neoantígenos",
+    "No tienen moléculas MHC"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Sus muchas mutaciones generan neoantígenos que los linfocitos T reconocen, sea cual sea el tejido.",
+   "shortExplanation": "Muchos neoantígenos.",
+   "pmid": "28596308",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the large proportion of mutant neoantigens in mismatch repair-deficient cancers make them sensitive to immune checkpoint blockade, regardless of the cancers' tissue of origin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29226797-1-en",
+   "translationKey": "immuno-29226797-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "In the ZUMA-1 trial of axi-cel CAR-T for refractory large B-cell lymphoma, what was the objective response rate?",
+   "options": [
+    "About 82%",
+    "About 28%",
+    "About 8%",
+    "About 48%"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "82% responded and 54% had a complete response; 40% remained in complete response at 15 months.",
+   "shortExplanation": "82%.",
+   "pmid": "29226797",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The objective response rate was 82%, and the complete response rate was 54%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29226797-1-es",
+   "translationKey": "immuno-29226797-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "En el ensayo ZUMA-1 de CAR-T axi-cel para linfoma B de células grandes refractario, ¿cuál fue la tasa de respuesta objetiva?",
+   "options": [
+    "Cerca del 82%",
+    "Cerca del 28%",
+    "Cerca del 8%",
+    "Cerca del 48%"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El 82% respondió y el 54% tuvo respuesta completa; el 40% seguía en respuesta completa a los 15 meses.",
+   "shortExplanation": "82%.",
+   "pmid": "29226797",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The objective response rate was 82%, and the complete response rate was 54%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29226797-2-en",
+   "translationKey": "immuno-29226797-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What was associated with response to axi-cel CAR-T therapy?",
+   "options": [
+    "Younger age of the patients",
+    "Lower doses of the conditioning",
+    "Absence of any side effects",
+    "Higher CAR-T levels in blood"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Patients with higher circulating CAR T-cell levels were more likely to respond.",
+   "shortExplanation": "Higher CAR-T levels.",
+   "pmid": "29226797",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Higher CAR T-cell levels in blood were associated with response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29226797-2-es",
+   "translationKey": "immuno-29226797-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué se asoció con la respuesta a la terapia CAR-T axi-cel?",
+   "options": [
+    "La menor edad de los pacientes",
+    "Dosis menores de acondicionamiento",
+    "La ausencia de efectos adversos",
+    "Más CAR-T circulantes en sangre"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los pacientes con niveles circulantes más altos de CAR-T tenían más probabilidad de responder.",
+   "shortExplanation": "Más CAR-T en sangre.",
+   "pmid": "29226797",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Higher CAR T-cell levels in blood were associated with response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29385370-1-en",
+   "translationKey": "immuno-29385370-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "In children and young adults with relapsed B-cell ALL, what was the 3-month remission rate after tisagenlecleucel?",
+   "options": [
+    "About 18%",
+    "About 81%",
+    "About 41%",
+    "About 100%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "81% achieved remission, all of them negative for minimal residual disease.",
+   "shortExplanation": "81%.",
+   "pmid": "29385370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The overall remission rate within 3 months was 81%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29385370-1-es",
+   "translationKey": "immuno-29385370-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "En niños y jóvenes con LLA B en recaída, ¿cuál fue la tasa de remisión a 3 meses con tisagenlecleucel?",
+   "options": [
+    "Cerca del 18%",
+    "Cerca del 81%",
+    "Cerca del 41%",
+    "Cerca del 100%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El 81% logró la remisión, todos negativos para enfermedad mínima residual.",
+   "shortExplanation": "81%.",
+   "pmid": "29385370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The overall remission rate within 3 months was 81%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29385370-2-en",
+   "translationKey": "immuno-29385370-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Which drug was used to treat cytokine release syndrome in about half of the affected ELIANA patients?",
+   "options": [
+    "Rituximab",
+    "Ipilimumab",
+    "Dexamethasone alone",
+    "Tocilizumab"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "CRS occurred in 77%; 48% of them received tocilizumab, an IL-6 receptor blocker.",
+   "shortExplanation": "Tocilizumab.",
+   "pmid": "29385370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The cytokine release syndrome occurred in 77% of patients, 48% of whom received tocilizumab",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29385370-2-es",
+   "translationKey": "immuno-29385370-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "¿Qué fármaco se usó para tratar el síndrome de liberación de citocinas en cerca de la mitad de los afectados en ELIANA?",
+   "options": [
+    "Rituximab",
+    "Ipilimumab",
+    "Solo dexametasona",
+    "Tocilizumab"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El SLC ocurrió en el 77%; el 48% de ellos recibió tocilizumab, que bloquea el receptor de IL-6.",
+   "shortExplanation": "Tocilizumab.",
+   "pmid": "29385370",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The cytokine release syndrome occurred in 77% of patients, 48% of whom received tocilizumab",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29782217-1-en",
+   "translationKey": "immuno-29782217-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "How does dupilumab work in asthma?",
+   "options": [
+    "It blocks IgE on mast cells",
+    "It depletes all B lymphocytes",
+    "It blocks IL-4 and IL-13 signaling",
+    "It is a long-acting bronchodilator"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Dupilumab targets IL-4 receptor α, blocking both IL-4 and IL-13, key type 2 cytokines.",
+   "shortExplanation": "Blocks IL-4/IL-13.",
+   "pmid": "29782217",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Dupilumab is a fully human anti-interleukin-4 receptor α monoclonal antibody that blocks both interleukin-4 and interleukin-13 signaling",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29782217-1-es",
+   "translationKey": "immuno-29782217-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo actúa el dupilumab en el asma?",
+   "options": [
+    "Bloquea la IgE de los mastocitos",
+    "Elimina todos los linfocitos B",
+    "Bloquea las señales de IL-4 e IL-13",
+    "Es un broncodilatador de acción larga"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El dupilumab apunta al receptor α de IL-4 y bloquea IL-4 e IL-13, citocinas clave de tipo 2.",
+   "shortExplanation": "Bloquea IL-4 e IL-13.",
+   "pmid": "29782217",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Dupilumab is a fully human anti-interleukin-4 receptor α monoclonal antibody that blocks both interleukin-4 and interleukin-13 signaling",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29782217-2-en",
+   "translationKey": "immuno-29782217-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which asthma patients benefited most from dupilumab?",
+   "options": [
+    "Those with high blood eosinophils",
+    "Those with no eosinophils at all",
+    "Only smokers over 70 years old",
+    "Only children under 5 years old"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Exacerbations fell 47.7% overall and 65.8% in patients with ≥300 eosinophils/mm³.",
+   "shortExplanation": "High eosinophils.",
+   "pmid": "29782217",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Greater benefits were seen in patients with higher baseline levels of eosinophils",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-29782217-2-es",
+   "translationKey": "immuno-29782217-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué pacientes con asma se beneficiaron más con dupilumab?",
+   "options": [
+    "Los de eosinófilos altos en sangre",
+    "Los que no tenían eosinófilos",
+    "Solo fumadores de más de 70 años",
+    "Solo niños menores de 5 años"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las exacerbaciones bajaron 47,7% en general y 65,8% con ≥300 eosinófilos/mm³.",
+   "shortExplanation": "Eosinófilos altos.",
+   "pmid": "29782217",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Greater benefits were seen in patients with higher baseline levels of eosinophils",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23688323-1-en",
+   "translationKey": "immuno-23688323-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "In the first dupilumab trial with steroid withdrawal, how much were asthma exacerbations reduced?",
+   "options": [
+    "About 8%",
+    "About 87%",
+    "About 47%",
+    "Not at all"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Exacerbations occurred in 6% with dupilumab versus 44% with placebo: an 87% reduction.",
+   "shortExplanation": "87%.",
+   "pmid": "23688323",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "corresponding to an 87% reduction with dupilumab",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23688323-1-es",
+   "translationKey": "immuno-23688323-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "En el primer ensayo de dupilumab con retiro de corticoides, ¿cuánto se redujeron las exacerbaciones?",
+   "options": [
+    "Cerca del 8%",
+    "Cerca del 87%",
+    "Cerca del 47%",
+    "Nada"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Hubo exacerbaciones en 6% con dupilumab frente a 44% con placebo: 87% menos.",
+   "shortExplanation": "87%.",
+   "pmid": "23688323",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "corresponding to an 87% reduction with dupilumab",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30449234-1-en",
+   "translationKey": "immuno-30449234-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "In PALISADE, what share of children on AR101 tolerated 600 mg of peanut protein at the exit challenge?",
+   "options": [
+    "About 4%",
+    "About 27%",
+    "About 97%",
+    "About 67%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "67.2% on AR101 versus 4% on placebo tolerated ≥600 mg without dose-limiting symptoms.",
+   "shortExplanation": "~67%.",
+   "pmid": "30449234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "250 of 372 participants (67.2%) who received active treatment, as compared with 5 of 124 participants (4.0%) who received placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30449234-1-es",
+   "translationKey": "immuno-30449234-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "En PALISADE, ¿qué proporción de niños con AR101 toleró 600 mg de proteína de maní en el desafío final?",
+   "options": [
+    "Cerca del 4%",
+    "Cerca del 27%",
+    "Cerca del 97%",
+    "Cerca del 67%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El 67,2% con AR101 frente al 4% con placebo toleró ≥600 mg sin síntomas limitantes.",
+   "shortExplanation": "~67%.",
+   "pmid": "30449234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "250 of 372 participants (67.2%) who received active treatment, as compared with 5 of 124 participants (4.0%) who received placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30449234-2-en",
+   "translationKey": "immuno-30449234-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "In which group did peanut oral immunotherapy with AR101 NOT show efficacy?",
+   "options": [
+    "Adults 18 and older",
+    "Children aged 4 to 11",
+    "Adolescents aged 12 to 17",
+    "All ages equally"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Benefit was shown in 4–17-year-olds but not in adults.",
+   "shortExplanation": "Adults.",
+   "pmid": "30449234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Efficacy was not shown in the participants 18 years of age or older",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-30449234-2-es",
+   "translationKey": "immuno-30449234-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿En qué grupo la inmunoterapia oral con AR101 NO mostró eficacia?",
+   "options": [
+    "Adultos de 18 años o más",
+    "Niños de 4 a 11 años",
+    "Adolescentes de 12 a 17 años",
+    "En todas las edades por igual"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Hubo beneficio entre los 4 y 17 años, pero no en adultos.",
+   "shortExplanation": "Adultos.",
+   "pmid": "30449234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Efficacy was not shown in the participants 18 years of age or older",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-38407394-1-en",
+   "translationKey": "immuno-38407394-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "In this trial, what share of children on omalizumab could eat ≥600 mg of peanut protein without dose-limiting symptoms?",
+   "options": [
+    "About 7%",
+    "About 37%",
+    "About 67%",
+    "About 97%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "67% on omalizumab versus 7% on placebo; similar benefits were seen for cashew, milk and egg.",
+   "shortExplanation": "~67%.",
+   "pmid": "38407394",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A total of 79 of the 118 participants (67%) receiving omalizumab met the primary end-point criteria, as compared with 4 of the 59 participants (7%) receiving placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-38407394-1-es",
+   "translationKey": "immuno-38407394-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "En este ensayo, ¿qué proporción de niños con omalizumab pudo comer ≥600 mg de proteína de maní sin síntomas limitantes?",
+   "options": [
+    "Cerca del 7%",
+    "Cerca del 37%",
+    "Cerca del 67%",
+    "Cerca del 97%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "67% con omalizumab frente a 7% con placebo; hubo beneficios similares con castaña de cajú, leche y huevo.",
+   "shortExplanation": "~67%.",
+   "pmid": "38407394",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A total of 79 of the 118 participants (67%) receiving omalizumab met the primary end-point criteria, as compared with 4 of the 59 participants (7%) receiving placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-38407394-2-en",
+   "translationKey": "immuno-38407394-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What kind of drug is omalizumab?",
+   "options": [
+    "A peanut extract given orally",
+    "A monoclonal anti-IgE antibody",
+    "An oral antihistamine tablet",
+    "A corticosteroid nasal spray"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Omalizumab binds IgE, raising the reaction threshold to several foods.",
+   "shortExplanation": "Anti-IgE antibody.",
+   "pmid": "38407394",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "omalizumab, a monoclonal anti-IgE antibody",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-38407394-2-es",
+   "translationKey": "immuno-38407394-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipo de fármaco es el omalizumab?",
+   "options": [
+    "Un extracto de maní por vía oral",
+    "Un anticuerpo monoclonal anti-IgE",
+    "Un comprimido antihistamínico",
+    "Un corticoide en aerosol nasal"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El omalizumab se une a la IgE y eleva el umbral de reacción a varios alimentos.",
+   "shortExplanation": "Anticuerpo anti-IgE.",
+   "pmid": "38407394",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "omalizumab, a monoclonal anti-IgE antibody",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-27653600-1-en",
+   "translationKey": "immuno-27653600-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What happens in germinal centers?",
+   "options": [
+    "Red blood cells are produced",
+    "T cells learn self-tolerance",
+    "Bile is stored before meals",
+    "Antibodies diversify, mature"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "In lymphoid follicles, B cells mutate antibody genes and are selected for higher affinity.",
+   "shortExplanation": "Affinity maturation.",
+   "pmid": "27653600",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Germinal centers (GCs) are the site of antibody diversification and affinity maturation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-27653600-1-es",
+   "translationKey": "immuno-27653600-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué ocurre en los centros germinales?",
+   "options": [
+    "Se producen los glóbulos rojos",
+    "Los T aprenden autotolerancia",
+    "Se guarda la bilis antes de comer",
+    "Los anticuerpos maduran"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "En los folículos linfoides, los B mutan sus genes de anticuerpos y se seleccionan por mayor afinidad.",
+   "shortExplanation": "Maduración de afinidad.",
+   "pmid": "27653600",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Germinal centers (GCs) are the site of antibody diversification and affinity maturation",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
