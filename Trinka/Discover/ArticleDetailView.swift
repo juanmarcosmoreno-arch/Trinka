@@ -9,6 +9,13 @@ struct ArticleDetailView: View {
     let article: ArticleReference
     let category: ScienceCategory?
 
+    @State private var quizPhase: QuizPhase = .idle
+
+    enum QuizPhase: Equatable {
+        case idle, working
+        case failed(TopicQuizError)
+    }
+
     var body: some View {
         let digest = ArticleDigest(article: article)
         ScrollView {
@@ -59,6 +66,10 @@ struct ArticleDetailView: View {
                     }
                 }
 
+                if (article.abstract?.count ?? 0) >= 200 {
+                    makeQuizSection
+                }
+
                 SourceReferenceView(article: article, onOpen: model.didOpen)
             }
             .padding(Theme.Spacing.l)
@@ -68,6 +79,46 @@ struct ArticleDetailView: View {
         .toolbar {
             ToolbarItem(placement: .topBarTrailing) {
                 ShareLink(item: article.pubMedURL, subject: Text(article.title), message: Text(article.citation))
+            }
+        }
+    }
+
+    /// "Create questions from this article", with the on-device model or the question service.
+    @ViewBuilder
+    private var makeQuizSection: some View {
+        VStack(alignment: .leading, spacing: Theme.Spacing.s) {
+            switch quizPhase {
+            case .working:
+                HStack(spacing: Theme.Spacing.m) {
+                    ProgressView()
+                    Text(L10n.tr("article.quiz.working")).font(.subheadline).foregroundStyle(Theme.textSecondary)
+                }
+            case .idle, .failed:
+                Button(action: makeQuiz) {
+                    Label(L10n.tr("article.quiz.button"), systemImage: "sparkles")
+                }
+                .buttonStyle(.trinkaSecondary)
+                .disabled(!model.canGenerateTopicQuizzes)
+                if case let .failed(error) = quizPhase {
+                    Text(L10n.tr(error == .noQuestions ? "article.quiz.noQuestions" : (error == .offline ? "state.offline.message" : "topic.error.service")))
+                        .font(.footnote).foregroundStyle(Theme.error)
+                }
+                if !model.canGenerateTopicQuizzes {
+                    Text(L10n.tr(OnDeviceAI.statusMessageKey)).font(.footnote).foregroundStyle(Theme.textSecondary)
+                }
+            }
+        }
+    }
+
+    private func makeQuiz() {
+        quizPhase = .working
+        Task {
+            do {
+                let quiz = try await model.buildArticleQuiz(article, level: model.level ?? .curious)
+                quizPhase = .idle
+                model.startTopicQuiz(quiz)
+            } catch {
+                quizPhase = .failed(error as? TopicQuizError ?? .service)
             }
         }
     }

@@ -101,16 +101,52 @@ final class AppModel {
 
     // MARK: - Topic quizzes (generated on demand)
 
-    var canGenerateTopicQuizzes: Bool { questionService != nil }
+    /// Topic quizzes work with the question service (if configured) or Apple's on-device model.
+    var canGenerateTopicQuizzes: Bool { questionService != nil || OnDeviceAI.isAvailable }
+
+    private func questionGenerator(category: ScienceCategory) -> QuestionGenerating? {
+        questionService ?? OnDeviceAI.questionGenerator(category: category)
+    }
 
     /// Searches PubMed for `topic` and generates source-checked questions at `level`.
-    func buildTopicQuiz(topic: String, level: Difficulty, count: Int,
+    func buildTopicQuiz(topic: String, level: Difficulty, count: Int, category: ScienceCategory = .generalScience,
                         progress: @escaping @Sendable (TopicQuizProgress) -> Void) async throws -> TopicQuiz {
-        guard let questionService else { throw TopicQuizError.notConfigured }
-        let quiz = try await TopicQuizBuilder(search: pubMed, generator: questionService)
-            .build(topic: topic, language: language, level: level, questionCount: count, progress: progress)
+        guard let generator = questionGenerator(category: category) else { throw TopicQuizError.notConfigured }
+        var builder = TopicQuizBuilder(search: pubMed, generator: generator)
+        if questionService == nil {
+            // On-device: fewer articles (one model, one request at a time) and English search terms.
+            builder.maxArticles = 3
+            builder.searchTerms = { await OnDeviceAI.searchTerms(for: $0) }
+        }
+        let quiz = try await builder.build(topic: topic, language: language, level: level, questionCount: count, progress: progress)
         if let saved = try? await topicQuizStore.save(quiz) { topicQuizzes = saved }
         return quiz
+    }
+
+    /// Generates source-checked questions from a single article (Discover → article → "Create questions").
+    func buildArticleQuiz(_ article: ArticleReference, level: Difficulty, count: Int = 3) async throws -> TopicQuiz {
+        let category = category(of: article) ?? .generalScience
+        guard let generator = questionGenerator(category: category) else { throw TopicQuizError.notConfigured }
+        let drafts: [QuestionDraft]
+        do {
+            drafts = try await generator.generateDrafts(for: article, language: language, difficulty: level, count: count + 1)
+        } catch QuestionGenerationError.offline {
+            throw TopicQuizError.offline
+        } catch {
+            throw TopicQuizError.service
+        }
+        let batch = String(UUID().uuidString.prefix(8)).lowercased()
+        let questions = Array(QuestionVerificationPipeline().verify(drafts, against: article, idPrefix: "art-\(batch)").accepted.prefix(count))
+        guard !questions.isEmpty else { throw TopicQuizError.noQuestions }
+        let quiz = TopicQuiz(topic: article.title, language: language, level: level, questions: questions, articles: [article])
+        if let saved = try? await topicQuizStore.save(quiz) { topicQuizzes = saved }
+        return quiz
+    }
+
+    /// Answers a question using only PubMed abstracts, citing them (on-device model when available,
+    /// otherwise verbatim quotes from the most relevant abstracts).
+    func askPubMed(_ question: String) async throws -> EvidenceAnswer {
+        try await PubMedAnswerer(search: pubMed, composer: OnDeviceAI.composer()).answer(question, language: language)
     }
 
     func startTopicQuiz(_ quiz: TopicQuiz) {

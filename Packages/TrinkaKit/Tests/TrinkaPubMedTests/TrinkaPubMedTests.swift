@@ -286,3 +286,72 @@ final class TopicQuizBuilderTests: XCTestCase {
         XCTAssertTrue(saved[0].questions.allSatisfy(QuestionValidator.isPlayable), "Round-trips with abstracts intact")
     }
 }
+
+final class PubMedAnswererTests: XCTestCase {
+    struct Search: ArticleSearching {
+        var articles: [ArticleReference]
+        func searchArticles(_ query: PubMedQuery) async throws -> [ArticleReference] { articles }
+    }
+
+    struct Composer: EvidenceComposing {
+        var text: String
+        func searchTerms(for question: String) async throws -> String { "MRSA treatment" }
+        func answer(question: String, language: AppLanguage, sources: [ArticleReference]) async throws -> String { text }
+    }
+
+    private let articles = [
+        ArticleReference(pmid: "1", title: "MRSA review", authors: ["A B"], journal: "J", year: 2020,
+                         abstract: "Methicillin-resistant Staphylococcus aureus is a leading cause of skin infections. Vancomycin remains a first-line option for severe MRSA infections in hospitals."),
+        ArticleReference(pmid: "2", title: "Other", authors: ["C D"], journal: "K", year: 2021,
+                         abstract: "Daptomycin is an alternative for MRSA bacteremia when vancomycin fails or is not tolerated by the patient. Outcomes were compared across several hospitals over five years."),
+        ArticleReference(pmid: "3", title: "Unrelated", authors: ["E F"], journal: "L", year: 2022,
+                         abstract: "Coffee consumption was studied in a large cohort of adults living in several European countries. Sleep quality and cardiovascular outcomes were recorded every year."),
+    ]
+
+    func testKeepsOnlySentencesWithValidCitationsAndRenumbersSources() async throws {
+        let composer = Composer(text: "Vancomycin is first-line for severe MRSA [1]. Daptomycin is an alternative [2, 9]. MRSA is always fatal. Made-up claim [7].")
+        let answer = try await PubMedAnswerer(search: Search(articles: articles), composer: composer)
+            .answer("¿Cómo se trata el MRSA?", language: .es)
+        XCTAssertEqual(answer.kind, .synthesized)
+        XCTAssertEqual(answer.searchTerms, "MRSA treatment")
+        XCTAssertEqual(answer.statements.map(\.text), ["Vancomycin is first-line for severe MRSA.", "Daptomycin is an alternative."])
+        XCTAssertEqual(answer.statements.map(\.citations), [[1], [2]])
+        XCTAssertEqual(answer.sources.map(\.pmid), ["1", "2"])
+    }
+
+    func testFallsBackToVerbatimQuotesWithoutAComposer() async throws {
+        let answer = try await PubMedAnswerer(search: Search(articles: articles), composer: nil)
+            .answer("vancomycin MRSA treatment", language: .en)
+        XCTAssertEqual(answer.kind, .quoted)
+        XCTAssertFalse(answer.statements.isEmpty)
+        for statement in answer.statements {
+            let source = answer.sources[statement.citations[0] - 1]
+            XCTAssertTrue(source.abstract!.contains(statement.text), "Quotes must be verbatim")
+        }
+        XCTAssertFalse(answer.sources.contains { $0.pmid == "3" })
+    }
+
+    func testUncitedComposerOutputFallsBackToQuotes() async throws {
+        let answer = try await PubMedAnswerer(search: Search(articles: articles), composer: Composer(text: "MRSA is treated with love."))
+            .answer("vancomycin MRSA", language: .en)
+        XCTAssertEqual(answer.kind, .quoted)
+    }
+
+    func testNoEvidenceWhenAbstractsDoNotMatch() async throws {
+        let answer = try await PubMedAnswerer(search: Search(articles: [articles[2]]), composer: nil)
+            .answer("zebrafish regeneration", language: .en)
+        XCTAssertEqual(answer.kind, .noEvidence)
+        XCTAssertTrue(answer.statements.isEmpty)
+    }
+}
+
+final class AbstractQuoteTests: XCTestCase {
+    let abstract = "Methicillin-resistant Staphylococcus aureus is a leading cause of skin infections. Vancomycin remains a first-line option for severe MRSA infections in hospitals."
+
+    func testKeepsExactQuotesAndSnapsCloseParaphrases() {
+        XCTAssertEqual(AbstractQuote.snap("leading cause of skin infections", to: abstract), "leading cause of skin infections")
+        XCTAssertEqual(AbstractQuote.snap("Vancomycin remains the first-line option for severe MRSA infections in hospital", to: abstract),
+                       "Vancomycin remains a first-line option for severe MRSA infections in hospitals.")
+        XCTAssertNil(AbstractQuote.snap("Penicillin cures every infection quickly", to: abstract))
+    }
+}

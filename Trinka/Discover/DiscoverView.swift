@@ -16,6 +16,7 @@ struct DiscoverView: View {
         NavigationStack {
             ScrollView {
                 VStack(alignment: .leading, spacing: Theme.Spacing.l) {
+                    AskPubMedCard()
                     categoryPicker
                     if model.canGenerateTopicQuizzes, discover.topic.trimmingCharacters(in: .whitespaces).count >= 3 {
                         Button {

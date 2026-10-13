@@ -268,7 +268,38 @@
 "topic.progress.generating" = "Creando preguntas a partir de %ld artículos y comprobando cada respuesta en su resumen…";
 "topic.progress.checking" = "Comprobando las respuestas en sus fuentes…";
 "topic.disclaimer" = "Estas preguntas se generan automáticamente. Cada respuesta se comprueba con un fragmento literal del resumen del artículo, pero ningún experto las ha revisado. Siempre puedes abrir el estudio original.";
-"topic.notConfigured" = "La generación de preguntas aún no está configurada en esta versión (ver Backend/README.md).";
+"topic.notConfigured" = "Crear preguntas requiere Apple Intelligence (iPhone 15 Pro o posterior con iOS 26, activado en Ajustes).";
+
+"ai.status.available" = "Apple Intelligence está activado: las respuestas y preguntas se generan en privado en tu iPhone.";
+"ai.status.deviceNotEligible" = "Este iPhone no es compatible con Apple Intelligence (se necesita iPhone 15 Pro o posterior).";
+"ai.status.notEnabled" = "Activa Apple Intelligence en Ajustes para crear preguntas y respuestas redactadas.";
+"ai.status.modelNotReady" = "Apple Intelligence todavía se está descargando. Prueba de nuevo en unos minutos.";
+"ai.status.unsupportedOS" = "Crear preguntas y respuestas redactadas requiere iOS 26 con Apple Intelligence.";
+
+"ask.title" = "Pregúntale a PubMed";
+"ask.card.subtitle" = "Haz una pregunta y recibe una respuesta hecha solo con PubMed, con sus fuentes.";
+"ask.intro" = "Escribe una pregunta o un tema. TRINKA busca en PubMed y responde solo con lo que dicen los resúmenes, citando cada artículo.";
+"ask.placeholder" = "p. ej., ¿Cómo se trata el SAMR?";
+"ask.button" = "Buscar y responder";
+"ask.working" = "Buscando en PubMed y leyendo resúmenes…";
+"ask.mode.onDevice" = "Redactada en tu iPhone con Apple Intelligence, usando solo los resúmenes encontrados.";
+"ask.mode.quotes" = "%@ Mientras tanto, TRINKA muestra las frases más relevantes citadas de los resúmenes (en inglés). Consejo: pregunta en inglés para mejores resultados.";
+"ask.kind.synthesized" = "Respuesta basada solo en estos artículos";
+"ask.kind.quoted" = "Citado textualmente de los resúmenes";
+"ask.disclaimer" = "Generado a partir de resúmenes, no de textos completos. No es consejo médico; revisa las fuentes.";
+"ask.sources" = "Fuentes";
+"ask.makeQuiz" = "Crear un quiz sobre esto";
+"ask.noEvidence.title" = "Sin respuesta clara en PubMed";
+"ask.noEvidence.message" = "Los resúmenes encontrados no responden esta pregunta. Prueba reformularla o usar términos más específicos.";
+"ask.error.title" = "No se pudo responder";
+"ask.error.tooShort" = "Escribe una pregunta más larga.";
+"ask.error.noArticles" = "PubMed no encontró artículos con resumen para esto. Prueba con otras palabras (en inglés funciona mejor).";
+"ask.error.service" = "PubMed no respondió. Prueba de nuevo en un momento.";
+
+"article.quiz.button" = "Crear preguntas de este artículo";
+"article.quiz.working" = "Creando y verificando preguntas…";
+"article.quiz.noQuestions" = "Ninguna pregunta pasó la verificación con la fuente en este artículo. Prueba con otro.";
+
 "topic.error.title" = "No se pudieron crear preguntas";
 "topic.error.noArticles" = "PubMed no tiene artículos con resumen sobre este tema. Prueba un término más amplio o en inglés.";
 "topic.error.noQuestions" = "Se encontraron artículos, pero ninguna pregunta superó la comprobación con la fuente. Prueba otro nivel o tema.";

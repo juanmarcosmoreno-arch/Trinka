@@ -268,7 +268,38 @@
 "topic.progress.generating" = "Writing questions from %ld articles and checking each answer against its abstract…";
 "topic.progress.checking" = "Checking answers against their sources…";
 "topic.disclaimer" = "These questions are generated automatically. Each answer is checked against a verbatim passage of the article's abstract, but no expert has reviewed them. You can always open the original study.";
-"topic.notConfigured" = "Question generation isn't set up in this build yet (see Backend/README.md).";
+"topic.notConfigured" = "Creating questions needs Apple Intelligence (iPhone 15 Pro or newer with iOS 26, turned on in Settings).";
+
+"ai.status.available" = "Apple Intelligence is on: answers and questions are generated privately on your iPhone.";
+"ai.status.deviceNotEligible" = "This iPhone doesn't support Apple Intelligence (iPhone 15 Pro or newer is needed).";
+"ai.status.notEnabled" = "Turn on Apple Intelligence in Settings to create questions and written answers.";
+"ai.status.modelNotReady" = "Apple Intelligence is still downloading. Try again in a few minutes.";
+"ai.status.unsupportedOS" = "Creating questions and written answers needs iOS 26 with Apple Intelligence.";
+
+"ask.title" = "Ask PubMed";
+"ask.card.subtitle" = "Ask a question and get an answer built only from PubMed, with its sources.";
+"ask.intro" = "Type a question or a topic. TRINKA searches PubMed and answers only with what the abstracts say, citing each article.";
+"ask.placeholder" = "e.g. How is MRSA treated?";
+"ask.button" = "Search and answer";
+"ask.working" = "Searching PubMed and reading abstracts…";
+"ask.mode.onDevice" = "Written on your iPhone with Apple Intelligence, using only the abstracts found.";
+"ask.mode.quotes" = "%@ Meanwhile, TRINKA shows the most relevant sentences quoted from the abstracts (in English). Tip: ask in English for better results.";
+"ask.kind.synthesized" = "Answer based only on these articles";
+"ask.kind.quoted" = "Quoted from the abstracts";
+"ask.disclaimer" = "Generated from abstracts, not full texts. It is not medical advice; check the sources.";
+"ask.sources" = "Sources";
+"ask.makeQuiz" = "Create a quiz about this";
+"ask.noEvidence.title" = "No clear answer in PubMed";
+"ask.noEvidence.message" = "The abstracts found don't answer this question. Try rephrasing it or using more specific terms.";
+"ask.error.title" = "Couldn't answer";
+"ask.error.tooShort" = "Write a longer question.";
+"ask.error.noArticles" = "PubMed found no articles with abstracts for this. Try other words (in English works best).";
+"ask.error.service" = "PubMed didn't respond. Try again in a moment.";
+
+"article.quiz.button" = "Create questions from this article";
+"article.quiz.working" = "Creating and checking questions…";
+"article.quiz.noQuestions" = "No question passed the source check for this article. Try another one.";
+
 "topic.error.title" = "Couldn't create questions";
 "topic.error.noArticles" = "PubMed has no articles with an abstract for this topic. Try a broader or English term.";
 "topic.error.noQuestions" = "Articles were found, but no question passed the source check. Try another level or topic.";

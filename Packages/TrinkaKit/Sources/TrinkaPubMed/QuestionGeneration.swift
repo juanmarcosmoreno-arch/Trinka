@@ -243,6 +243,9 @@ public struct TopicQuizBuilder: Sendable {
     public let generator: QuestionGenerating
     /// Articles used per quiz; questions are spread across them.
     public var maxArticles = 5
+    /// Turns the topic into PubMed search terms (e.g. translates "estafilococo" to English).
+    /// When `nil` or when it returns nothing, the topic is searched as typed.
+    public var searchTerms: (@Sendable (String) async -> String?)?
 
     public init(search: ArticleSearching, generator: QuestionGenerating) {
         self.search = search
@@ -261,7 +264,12 @@ public struct TopicQuizBuilder: Sendable {
 
         let found: [ArticleReference]
         do {
-            found = try await search.searchArticles(PubMedQuery(topic: topic, requireAbstract: true, sort: .relevance, maxResults: 15))
+            var terms = topic
+            if let searchTerms, let rewritten = await searchTerms(topic)?.trimmingCharacters(in: .whitespacesAndNewlines),
+               !rewritten.isEmpty {
+                terms = rewritten
+            }
+            found = try await search.searchArticles(PubMedQuery(topic: terms, requireAbstract: true, sort: .relevance, maxResults: 15))
         } catch PubMedError.offline {
             throw TopicQuizError.offline
         } catch {
