@@ -1,5 +1,5 @@
 {
- "version": 25,
+ "version": 26,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -34246,9 +34246,9 @@
    "prompt": "Where was the death rate attributable to antimicrobial resistance highest in 2019?",
    "options": [
     "Western sub-Saharan Africa",
-    "Australasia",
-    "Western Europe",
-    "North America"
+    "Southern Latin America",
+    "Southeast Asia and Oceania",
+    "High-income North America"
    ],
    "correctOptionIndex": 0,
    "explanation": "Western sub-Saharan Africa had 27.3 deaths per 100,000; Australasia the lowest at 6.5.",
@@ -34270,9 +34270,9 @@
    "prompt": "¿Dónde fue más alta la tasa de muertes atribuibles a la resistencia antimicrobiana en 2019?",
    "options": [
     "África subsahariana occidental",
-    "Australasia",
-    "Europa occidental",
-    "América del Norte"
+    "El sur de América Latina",
+    "Sudeste asiático y Oceanía",
+    "Norteamérica de altos ingresos"
    ],
    "correctOptionIndex": 0,
    "explanation": "África subsahariana occidental tuvo 27,3 muertes cada 100.000; Australasia la más baja, 6,5.",
@@ -34293,13 +34293,13 @@
    "difficulty": "researcher",
    "prompt": "What is the difference between deaths 'attributable to' and 'associated with' AMR in this study?",
    "options": [
-    "They are identical",
-    "Associated deaths only count children",
-    "Attributable deaths are those prevented by vaccines",
-    "Associated deaths (4.95 M) include all deaths with resistant infection; attributable (1.27 M) are those due to resistance itself"
+    "Associated deaths count only resistant infections confirmed by culture",
+    "Attributable deaths occur in hospital; associated ones in the community",
+    "Attributable counts every death with a resistant infection; associated, only those due to resistance",
+    "Associated counts every death with a resistant infection; attributable, only those due to resistance"
    ],
    "correctOptionIndex": 3,
-   "explanation": "Associated: resistant infections replaced by no infection; attributable: resistant infections replaced by susceptible ones.",
+   "explanation": "Associated (4.95 M): resistant infections replaced by no infection; attributable (1.27 M): resistant infections replaced by susceptible ones.",
    "shortExplanation": "Two counterfactuals.",
    "pmid": "35065702",
    "verification": {
@@ -34317,13 +34317,13 @@
    "difficulty": "researcher",
    "prompt": "¿Qué diferencia hay entre muertes 'atribuibles a' y 'asociadas con' la resistencia en este estudio?",
    "options": [
-    "Son idénticas",
-    "Las asociadas solo cuentan niños",
-    "Las atribuibles son las que evitan las vacunas",
-    "Asociadas (4,95 M) incluye toda muerte con infección resistente; atribuibles (1,27 M), las debidas a la resistencia en sí"
+    "Las asociadas cuentan solo infecciones resistentes confirmadas por cultivo",
+    "Las atribuibles ocurren en el hospital; las asociadas, en la comunidad",
+    "Atribuibles incluye toda muerte con infección resistente; asociadas, solo las debidas a la resistencia",
+    "Asociadas incluye toda muerte con infección resistente; atribuibles, solo las debidas a la resistencia"
    ],
    "correctOptionIndex": 3,
-   "explanation": "Asociadas: infecciones resistentes reemplazadas por ninguna infección; atribuibles: reemplazadas por infecciones sensibles.",
+   "explanation": "Asociadas (4,95 M): infecciones resistentes reemplazadas por ninguna infección; atribuibles (1,27 M): reemplazadas por infecciones sensibles.",
    "shortExplanation": "Dos contrafácticos.",
    "pmid": "35065702",
    "verification": {
@@ -34389,13 +34389,13 @@
    "difficulty": "explorer",
    "prompt": "Which viral protein does the BNT162b2 mRNA vaccine encode?",
    "options": [
-    "The nucleocapsid protein",
-    "The viral polymerase",
-    "The envelope protein",
-    "A prefusion-stabilized full-length spike protein"
+    "The nucleocapsid (N) protein",
+    "The RNA-dependent RNA polymerase (nsp12)",
+    "The membrane (M) glycoprotein",
+    "A prefusion-stabilized spike protein"
    ],
    "correctOptionIndex": 3,
-   "explanation": "The lipid nanoparticle mRNA encodes the stabilized spike protein, which the body then makes and responds to.",
+   "explanation": "The lipid nanoparticle mRNA encodes a full-length, prefusion-stabilized, membrane-anchored spike protein, which the body then makes and responds to.",
    "shortExplanation": "Spike protein.",
    "pmid": "33301246",
    "verification": {
@@ -34413,13 +34413,13 @@
    "difficulty": "explorer",
    "prompt": "¿Qué proteína viral codifica la vacuna de ARNm BNT162b2?",
    "options": [
-    "La nucleocápside",
-    "La polimerasa viral",
-    "La proteína de envoltura",
-    "La proteína espiga completa estabilizada en prefusión"
+    "La proteína de la nucleocápside (N)",
+    "La ARN polimerasa dependiente de ARN (nsp12)",
+    "La glucoproteína de membrana (M)",
+    "La proteína espiga estabilizada en prefusión"
    ],
    "correctOptionIndex": 3,
-   "explanation": "El ARNm en nanopartículas lipídicas codifica la espiga estabilizada, que el cuerpo fabrica y frente a la que responde.",
+   "explanation": "El ARNm en nanopartículas lipídicas codifica la espiga completa, estabilizada en prefusión y anclada a membrana, que el cuerpo fabrica y frente a la que responde.",
    "shortExplanation": "Proteína espiga.",
    "pmid": "33301246",
    "verification": {
@@ -34485,10 +34485,10 @@
    "difficulty": "curious",
    "prompt": "What did the first randomized trial of fecal transplantation for recurrent C. difficile show?",
    "options": [
-    "It was worse than vancomycin",
-    "It had no effect",
-    "Donor feces infusion was much more effective than vancomycin",
-    "It caused more relapses"
+    "It was less effective than vancomycin alone",
+    "It was no better than vancomycin plus lavage",
+    "It was much more effective than vancomycin",
+    "It led to more relapses than vancomycin"
    ],
    "correctOptionIndex": 2,
    "explanation": "81% resolved after one infusion vs. 31% with vancomycin alone; the trial was stopped early.",
@@ -34509,10 +34509,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué mostró el primer ensayo aleatorizado de trasplante fecal para C. difficile recurrente?",
    "options": [
-    "Fue peor que vancomicina",
-    "No tuvo efecto",
-    "La infusión de heces de donante fue mucho más eficaz que la vancomicina",
-    "Causó más recaídas"
+    "Fue menos eficaz que la vancomicina sola",
+    "No superó a la vancomicina con lavado intestinal",
+    "Fue mucho más eficaz que la vancomicina",
+    "Causó más recaídas que la vancomicina"
    ],
    "correctOptionIndex": 2,
    "explanation": "El 81% se resolvió tras una infusión vs. 31% con vancomicina sola; el ensayo se detuvo antes de tiempo.",
@@ -34533,10 +34533,10 @@
    "difficulty": "researcher",
    "prompt": "What happened to patients' gut microbiota after donor feces infusion?",
    "options": [
-    "Diversity decreased",
-    "Fecal bacterial diversity increased to resemble healthy donors",
-    "All bacteria disappeared",
-    "Only fungi remained"
+    "Diversity fell, dominated by Proteobacteria",
+    "Diversity rose to resemble healthy donors",
+    "Diversity was unchanged, but C. difficile vanished",
+    "Fungi replaced most of the bacterial species"
    ],
    "correctOptionIndex": 1,
    "explanation": "Bacteroidetes and Clostridium clusters IV and XIVa increased while Proteobacteria decreased.",
@@ -34557,10 +34557,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué pasó con la microbiota de los pacientes tras la infusión de heces de donante?",
    "options": [
-    "Disminuyó la diversidad",
-    "Aumentó la diversidad bacteriana fecal, parecida a la de donantes sanos",
-    "Desaparecieron todas las bacterias",
-    "Solo quedaron hongos"
+    "La diversidad cayó, con dominio de Proteobacteria",
+    "La diversidad aumentó, parecida a la de donantes sanos",
+    "La diversidad no cambió, pero desapareció C. difficile",
+    "Los hongos reemplazaron a la mayoría de las bacterias"
    ],
    "correctOptionIndex": 1,
    "explanation": "Aumentaron Bacteroidetes y los clusters IV y XIVa de Clostridium, y bajaron las Proteobacteria.",
@@ -34582,9 +34582,9 @@
    "prompt": "How effective were releases of Wolbachia-infected mosquitoes against dengue in Yogyakarta, Indonesia?",
    "options": [
     "About 77% protective efficacy",
-    "No effect",
-    "About 10%",
-    "They increased dengue"
+    "No significant protective efficacy",
+    "About 25% protective efficacy",
+    "About 95% protective efficacy"
    ],
    "correctOptionIndex": 0,
    "explanation": "Dengue fell from 9.4% to 2.3% of participants, with 86% fewer hospitalizations.",
@@ -34606,9 +34606,9 @@
    "prompt": "¿Qué eficacia tuvieron las liberaciones de mosquitos con Wolbachia contra el dengue en Yogyakarta, Indonesia?",
    "options": [
     "Alrededor de 77% de eficacia protectora",
-    "Ningún efecto",
-    "Alrededor de 10%",
-    "Aumentaron el dengue"
+    "Sin eficacia protectora significativa",
+    "Alrededor de 25% de eficacia protectora",
+    "Alrededor de 95% de eficacia protectora"
    ],
    "correctOptionIndex": 0,
    "explanation": "El dengue bajó de 9,4% a 2,3% de los participantes, con 86% menos hospitalizaciones.",
@@ -34629,10 +34629,10 @@
    "difficulty": "curious",
    "prompt": "Why are Wolbachia-infected Aedes aegypti mosquitoes released to fight dengue?",
    "options": [
-    "They bite more people",
-    "They kill all other insects",
+    "They bite humans less often than wild-type mosquitoes",
+    "Their larvae prey on wild-type mosquito larvae",
     "They are less susceptible to dengue virus infection",
-    "They carry a dengue vaccine"
+    "Their bites transfer antibodies against dengue"
    ],
    "correctOptionIndex": 2,
    "explanation": "The wMel strain of Wolbachia reduces the mosquito's ability to become infected with and transmit dengue.",
@@ -34653,10 +34653,10 @@
    "difficulty": "curious",
    "prompt": "¿Por qué se liberan Aedes aegypti infectados con Wolbachia para combatir el dengue?",
    "options": [
-    "Pican a más personas",
-    "Matan a otros insectos",
+    "Pican a los humanos menos que los mosquitos silvestres",
+    "Sus larvas depredan las larvas de mosquitos silvestres",
     "Son menos susceptibles a infectarse con el virus del dengue",
-    "Llevan una vacuna"
+    "Sus picaduras transfieren anticuerpos contra el dengue"
    ],
    "correctOptionIndex": 2,
    "explanation": "La cepa wMel de Wolbachia reduce la capacidad del mosquito de infectarse con dengue y transmitirlo.",
@@ -34677,9 +34677,9 @@
    "difficulty": "researcher",
    "prompt": "What study design was used to test Wolbachia deployments against dengue?",
    "options": [
-    "A case report",
-    "An animal study",
-    "A cross-sectional survey",
+    "An individually randomized placebo-controlled trial",
+    "A prospective cohort study with household follow-up",
+    "A retrospective case–control study of hospital records",
     "A cluster-randomized trial with a test-negative design"
    ],
    "correctOptionIndex": 3,
@@ -34701,9 +34701,9 @@
    "difficulty": "researcher",
    "prompt": "¿Qué diseño de estudio se usó para probar las liberaciones de Wolbachia contra el dengue?",
    "options": [
-    "Un reporte de caso",
-    "Un estudio en animales",
-    "Una encuesta transversal",
+    "Un ensayo aleatorizado individual controlado con placebo",
+    "Un estudio de cohorte prospectivo con seguimiento domiciliario",
+    "Un estudio retrospectivo de casos y controles con historias clínicas",
     "Un ensayo aleatorizado por conglomerados con diseño test-negativo"
    ],
    "correctOptionIndex": 3,
@@ -34773,9 +34773,9 @@
    "difficulty": "researcher",
    "prompt": "What was the strongest determinant of protection by HIV PrEP in the iPrEx trial?",
    "options": [
-    "Age",
-    "Body weight",
-    "Condom brand",
+    "Number of sexual partners reported at baseline",
+    "Circumcision status of the participant",
+    "Baseline kidney function (creatinine clearance)",
     "Detectable drug levels in blood (adherence)"
    ],
    "correctOptionIndex": 3,
@@ -34797,10 +34797,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál fue el principal determinante de la protección de la PrEP contra el VIH en iPrEx?",
    "options": [
-    "La edad",
-    "El peso",
-    "La marca de preservativo",
-    "Niveles detectables del fármaco en sangre (adherencia)"
+    "Número de parejas sexuales declaradas al inicio",
+    "Estado de circuncisión del participante",
+    "Función renal inicial (depuración de creatinina)",
+    "Fármaco detectable en sangre (adherencia)"
    ],
    "correctOptionIndex": 3,
    "explanation": "Quienes tenían fármaco detectable estaban mucho más protegidos, lo que muestra el papel de la adherencia.",
@@ -34821,10 +34821,10 @@
    "difficulty": "researcher",
    "prompt": "What did the HPTN 052 trial show about early antiretroviral therapy in serodiscordant couples?",
    "options": [
-    "It had no effect on transmission",
-    "It increased transmission",
-    "It almost eliminated linked HIV transmission to partners",
-    "It only helped the HIV-negative partner"
+    "It reduced linked transmission by about half",
+    "It increased transmission through risk compensation",
+    "It nearly eliminated linked transmission to partners",
+    "It had no significant effect on linked transmission"
    ],
    "correctOptionIndex": 2,
    "explanation": "Only 1 of 28 linked transmissions occurred with early therapy (hazard ratio 0.04)—the basis of 'treatment as prevention'.",
@@ -34845,10 +34845,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué mostró el ensayo HPTN 052 sobre el tratamiento antirretroviral temprano en parejas serodiscordantes?",
    "options": [
-    "No afectó la transmisión",
-    "Aumentó la transmisión",
-    "Casi eliminó la transmisión vinculada del VIH a la pareja",
-    "Solo ayudó a la pareja negativa"
+    "Redujo la transmisión vinculada a la mitad",
+    "Aumentó la transmisión por compensación de riesgo",
+    "Casi eliminó la transmisión vinculada a la pareja",
+    "No tuvo efecto significativo en la transmisión vinculada"
    ],
    "correctOptionIndex": 2,
    "explanation": "Solo 1 de 28 transmisiones vinculadas ocurrió con tratamiento temprano (HR 0,04): la base de 'tratamiento como prevención'.",
@@ -34917,10 +34917,10 @@
    "difficulty": "researcher",
    "prompt": "What dosing schedule was used for the R21/Matrix-M malaria vaccine in the phase 3 trial?",
    "options": [
-    "A single dose",
-    "Two doses one year apart",
-    "Daily oral tablets",
-    "Three doses 4 weeks apart plus a booster 12 months later"
+    "A single dose followed by a booster 6 months later",
+    "Two doses 8 weeks apart with no booster",
+    "Four monthly doses before the rainy season",
+    "Three doses 4 weeks apart plus a 12-month booster"
    ],
    "correctOptionIndex": 3,
    "explanation": "Children received three monthly doses and a booster a year after the third dose.",
@@ -34941,10 +34941,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué esquema se usó para la vacuna antimalárica R21/Matrix-M en el ensayo de fase 3?",
    "options": [
-    "Una sola dosis",
-    "Dos dosis con un año de diferencia",
-    "Comprimidos diarios",
-    "Tres dosis cada 4 semanas más un refuerzo a los 12 meses"
+    "Una dosis única y un refuerzo a los 6 meses",
+    "Dos dosis separadas por 8 semanas, sin refuerzo",
+    "Cuatro dosis mensuales antes de la temporada de lluvias",
+    "Tres dosis cada 4 semanas y un refuerzo a los 12 meses"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los niños recibieron tres dosis mensuales y un refuerzo un año después de la tercera.",
@@ -34965,10 +34965,10 @@
    "difficulty": "expert",
    "prompt": "What did a large pragmatic trial find about daily chlorhexidine bathing in ICUs?",
    "options": [
-    "It halved all infections",
-    "It did not reduce the composite of health care–associated infections",
-    "It eliminated C. difficile",
-    "It increased resistant organisms"
+    "It halved the rate of health care–associated infections",
+    "It did not reduce health care–associated infections overall",
+    "It cut C. difficile infections by about two-thirds",
+    "It raised rates of chlorhexidine-resistant organisms"
    ],
    "correctOptionIndex": 1,
    "explanation": "Rates were 2.86 vs. 2.90 per 1000 patient-days—no significant difference—challenging a widespread practice.",
@@ -34989,10 +34989,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué halló un gran ensayo pragmático sobre el baño diario con clorhexidina en terapia intensiva?",
    "options": [
-    "Redujo a la mitad todas las infecciones",
-    "No redujo el conjunto de infecciones asociadas a la atención de la salud",
-    "Eliminó C. difficile",
-    "Aumentó los organismos resistentes"
+    "Redujo a la mitad las infecciones asociadas a la atención",
+    "No redujo en conjunto las infecciones asociadas a la atención",
+    "Redujo en dos tercios las infecciones por C. difficile",
+    "Aumentó los organismos resistentes a la clorhexidina"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las tasas fueron 2,86 vs. 2,90 por 1000 días-paciente, sin diferencia significativa, lo que cuestiona una práctica difundida.",
@@ -65061,10 +65061,10 @@
    "difficulty": "beginner",
    "prompt": "What does the acronym ADME stand for in pharmacokinetics?",
    "options": [
-    "Action, dose, mechanism, effect",
-    "Antibody, drug, membrane, enzyme",
+    "Activity, distribution, mechanism, efficacy",
+    "Affinity, dosage, modulation, elimination",
     "Absorption, distribution, metabolism, excretion",
-    "Allergy, dependence, misuse, error"
+    "Administration, dissolution, metabolism, effect"
    ],
    "correctOptionIndex": 2,
    "explanation": "Pharmacokinetics studies how the body handles a drug: absorption, distribution, metabolism and excretion.",
@@ -65085,10 +65085,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué significa la sigla ADME en farmacocinética?",
    "options": [
-    "Acción, dosis, mecanismo, efecto",
-    "Anticuerpo, droga, membrana, enzima",
+    "Actividad, distribución, mecanismo, eficacia",
+    "Afinidad, dosificación, modulación, eliminación",
     "Absorción, distribución, metabolismo, excreción",
-    "Alergia, dependencia, mal uso, error"
+    "Administración, disolución, metabolismo, efecto"
    ],
    "correctOptionIndex": 2,
    "explanation": "La farmacocinética estudia cómo el cuerpo maneja un fármaco: absorción, distribución, metabolismo y excreción.",
@@ -65109,10 +65109,10 @@
    "difficulty": "curious",
    "prompt": "What is the difference between pharmacodynamics and pharmacokinetics?",
    "options": [
-    "Pharmacodynamics is what the drug does to the body; pharmacokinetics is what the body does to the drug",
-    "They are the same",
-    "Pharmacokinetics is only about side effects",
-    "Pharmacodynamics studies drug prices"
+    "Pharmacodynamics is what the drug does to the body; pharmacokinetics, what the body does to the drug",
+    "Pharmacodynamics is how the body eliminates the drug; pharmacokinetics, how the drug binds receptors",
+    "Pharmacokinetics studies adverse effects alone; pharmacodynamics, drug–drug interactions alone",
+    "Pharmacodynamics studies drug formulation; pharmacokinetics studies industrial drug manufacturing"
    ],
    "correctOptionIndex": 0,
    "explanation": "These are the two branches of pharmacology: drug action on the organism vs. the organism's processing of the drug.",
@@ -65134,9 +65134,9 @@
    "prompt": "¿Qué diferencia hay entre farmacodinamia y farmacocinética?",
    "options": [
     "La farmacodinamia es lo que el fármaco le hace al cuerpo; la farmacocinética, lo que el cuerpo le hace al fármaco",
-    "Son lo mismo",
-    "La farmacocinética solo trata efectos adversos",
-    "La farmacodinamia estudia precios"
+    "La farmacodinamia es cómo el cuerpo elimina el fármaco; la farmacocinética, cómo este se une a receptores",
+    "La farmacocinética estudia solo los efectos adversos; la farmacodinamia, solo las interacciones",
+    "La farmacodinamia estudia la formulación del fármaco; la farmacocinética, su fabricación industrial"
    ],
    "correctOptionIndex": 0,
    "explanation": "Son las dos ramas de la farmacología: acción del fármaco sobre el organismo vs. procesamiento del fármaco por el organismo.",
@@ -65157,10 +65157,10 @@
    "difficulty": "curious",
    "prompt": "What does a drug's bioavailability measure?",
    "options": [
-    "Its price",
-    "Its color and taste",
-    "How toxic it is",
-    "The rate and fraction of a dose that reaches its site of action or circulation"
+    "The fraction of a dose bound to plasma proteins in the blood",
+    "The time it takes for the plasma concentration to fall by half",
+    "The volume of plasma cleared of the drug per unit of time",
+    "How much of a dose, and how fast, reaches the circulation"
    ],
    "correctOptionIndex": 3,
    "explanation": "Bioavailability is how much of a dose, and how fast, reaches the site of action or the relevant body fluid (e.g., circulation).",
@@ -65181,10 +65181,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué mide la biodisponibilidad de un fármaco?",
    "options": [
-    "Su precio",
-    "Su color y sabor",
-    "Qué tan tóxico es",
-    "La velocidad y fracción de la dosis que llega a su sitio de acción o a la circulación"
+    "La fracción de la dosis unida a proteínas plasmáticas en la sangre",
+    "El tiempo que tarda la concentración plasmática en bajar a la mitad",
+    "El volumen de plasma depurado del fármaco por unidad de tiempo",
+    "Cuánto de la dosis llega a la circulación, y a qué velocidad"
    ],
    "correctOptionIndex": 3,
    "explanation": "La biodisponibilidad es cuánto de una dosis, y a qué velocidad, llega al sitio de acción o al líquido corporal relevante (como la circulación).",
@@ -65205,10 +65205,10 @@
    "difficulty": "explorer",
    "prompt": "What does a high volume of distribution (Vd) indicate?",
    "options": [
-    "The drug stays mostly in plasma",
-    "The drug distributes extensively into tissues outside the plasma",
-    "The drug is quickly excreted",
-    "The drug is not absorbed"
+    "The drug stays mostly within the plasma",
+    "The drug distributes widely into tissues",
+    "The drug is rapidly excreted by the kidneys",
+    "The drug is poorly absorbed from the gut"
    ],
    "correctOptionIndex": 1,
    "explanation": "High Vd: extensive tissue distribution, often needing a higher dose for a given plasma level; low Vd: stays in plasma.",
@@ -65229,10 +65229,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué indica un volumen de distribución (Vd) alto?",
    "options": [
-    "Que el fármaco queda sobre todo en el plasma",
-    "Que el fármaco se distribuye ampliamente en tejidos fuera del plasma",
-    "Que se elimina rápido",
-    "Que no se absorbe"
+    "Que el fármaco se queda sobre todo en el plasma",
+    "Que el fármaco pasa ampliamente a los tejidos",
+    "Que el fármaco se excreta rápido por los riñones",
+    "Que el fármaco se absorbe mal en el intestino"
    ],
    "correctOptionIndex": 1,
    "explanation": "Vd alto: amplia distribución tisular, a menudo con mayor dosis para lograr un nivel plasmático; Vd bajo: queda en plasma.",
@@ -65253,10 +65253,10 @@
    "difficulty": "researcher",
    "prompt": "Which statement about volume of distribution is correct?",
    "options": [
-    "It is an apparent, theoretical volume, not a real physical one",
-    "It equals total blood volume",
-    "It equals body water exactly",
-    "It is always below 5 L"
+    "It is an apparent volume, not a physical one",
+    "It equals the patient's total blood volume",
+    "It equals the total body water exactly",
+    "It cannot exceed the patient's body volume"
    ],
    "correctOptionIndex": 0,
    "explanation": "Vd = amount in body / plasma concentration; it can exceed body size (e.g., chloroquine 235 L/kg).",
@@ -65277,10 +65277,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué afirmación sobre el volumen de distribución es correcta?",
    "options": [
-    "Es un volumen aparente y teórico, no físico",
-    "Es igual al volumen de sangre",
-    "Es exactamente el agua corporal",
-    "Siempre es menor de 5 L"
+    "Es un volumen aparente, no uno físico real",
+    "Equivale al volumen total de sangre del paciente",
+    "Equivale exactamente al agua corporal total",
+    "No puede superar el volumen corporal del paciente"
    ],
    "correctOptionIndex": 0,
    "explanation": "Vd = cantidad en el cuerpo / concentración plasmática; puede superar el tamaño corporal (cloroquina 235 L/kg).",
@@ -65301,10 +65301,10 @@
    "difficulty": "explorer",
    "prompt": "How is drug clearance defined?",
    "options": [
-    "The amount of drug in a tablet",
-    "The time to reach peak concentration",
-    "The volume of plasma cleared of the drug per unit time",
-    "The percentage of drug bound to protein"
+    "The amount of drug eliminated unchanged in urine",
+    "The time needed to reach peak plasma concentration",
+    "The volume of plasma cleared of drug per unit time",
+    "The percentage of drug bound to plasma proteins"
    ],
    "correctOptionIndex": 2,
    "explanation": "Clearance (volume/time) mainly reflects renal plus hepatic elimination; it does not directly state the amount removed.",
@@ -65325,10 +65325,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se define el clearance (depuración) de un fármaco?",
    "options": [
-    "La cantidad de fármaco en un comprimido",
-    "El tiempo hasta la concentración máxima",
+    "La cantidad de fármaco eliminada sin cambios en orina",
+    "El tiempo hasta alcanzar la concentración plasmática máxima",
     "El volumen de plasma depurado del fármaco por unidad de tiempo",
-    "El porcentaje unido a proteínas"
+    "El porcentaje de fármaco unido a proteínas plasmáticas"
    ],
    "correctOptionIndex": 2,
    "explanation": "El clearance (volumen/tiempo) refleja sobre todo la eliminación renal y hepática; no indica directamente la cantidad eliminada.",
@@ -65397,10 +65397,10 @@
    "difficulty": "beginner",
    "prompt": "To which antibiotic family does amoxicillin belong?",
    "options": [
-    "Penicillins (aminopenicillin, beta-lactam)",
-    "Macrolides",
-    "Tetracyclines",
-    "Aminoglycosides"
+    "Penicillins (aminopenicillins)",
+    "Macrolides (erythromycin-like)",
+    "Tetracyclines (doxycycline-like)",
+    "Aminoglycosides (gentamicin-like)"
    ],
    "correctOptionIndex": 0,
    "explanation": "Amoxicillin is an aminopenicillin, a beta-lactam antibiotic widely used in primary care.",
@@ -65421,10 +65421,10 @@
    "difficulty": "beginner",
    "prompt": "¿A qué familia de antibióticos pertenece la amoxicilina?",
    "options": [
-    "Penicilinas (aminopenicilina, betalactámico)",
-    "Macrólidos",
-    "Tetraciclinas",
-    "Aminoglucósidos"
+    "Penicilinas (aminopenicilinas)",
+    "Macrólidos (tipo eritromicina)",
+    "Tetraciclinas (tipo doxiciclina)",
+    "Aminoglucósidos (tipo gentamicina)"
    ],
    "correctOptionIndex": 0,
    "explanation": "La amoxicilina es una aminopenicilina, un betalactámico muy usado en atención primaria.",
@@ -65445,10 +65445,10 @@
    "difficulty": "explorer",
    "prompt": "Amoxicillin alone is effective against which bacteria?",
    "options": [
-    "All bacteria",
-    "Only fungi",
-    "Only beta-lactamase producers",
-    "Susceptible beta-lactamase–negative bacteria"
+    "Methicillin-resistant Staphylococcus aureus",
+    "Atypical bacteria such as Mycoplasma pneumoniae",
+    "Beta-lactamase–producing staphylococci",
+    "Susceptible bacteria lacking beta-lactamase"
    ],
    "correctOptionIndex": 3,
    "explanation": "Amoxicillin is destroyed by beta-lactamases, so alone it works on susceptible beta-lactamase–negative isolates.",
@@ -65469,10 +65469,10 @@
    "difficulty": "explorer",
    "prompt": "La amoxicilina sola es eficaz contra ¿qué bacterias?",
    "options": [
-    "Todas las bacterias",
-    "Solo hongos",
-    "Solo productoras de betalactamasa",
-    "Bacterias sensibles que no producen betalactamasa"
+    "Staphylococcus aureus resistente a meticilina",
+    "Bacterias atípicas como Mycoplasma pneumoniae",
+    "Estafilococos productores de betalactamasa",
+    "Bacterias sensibles sin betalactamasa"
    ],
    "correctOptionIndex": 3,
    "explanation": "La amoxicilina es destruida por las betalactamasas, así que sola actúa sobre aislamientos sensibles no productores de betalactamasa.",
@@ -65493,10 +65493,10 @@
    "difficulty": "curious",
    "prompt": "Why is clavulanic acid combined with amoxicillin?",
    "options": [
-    "To improve the taste",
-    "To counteract beta-lactamase–producing bacteria",
-    "To reduce the dose of amoxicillin",
-    "To make it work against viruses"
+    "To increase amoxicillin's oral absorption",
+    "To inhibit beta-lactamases made by bacteria",
+    "To slow amoxicillin's renal excretion",
+    "To add activity against atypical bacteria"
    ],
    "correctOptionIndex": 1,
    "explanation": "Clavulanate inhibits beta-lactamases, broadening amoxicillin's coverage to producers such as MSSA.",
@@ -65517,10 +65517,10 @@
    "difficulty": "curious",
    "prompt": "¿Por qué se combina el ácido clavulánico con la amoxicilina?",
    "options": [
-    "Para mejorar el sabor",
-    "Para contrarrestar bacterias productoras de betalactamasa",
-    "Para reducir la dosis de amoxicilina",
-    "Para que actúe contra virus"
+    "Para aumentar la absorción oral de la amoxicilina",
+    "Para inhibir las betalactamasas bacterianas",
+    "Para frenar la excreción renal de la amoxicilina",
+    "Para añadir actividad contra bacterias atípicas"
    ],
    "correctOptionIndex": 1,
    "explanation": "El clavulánico inhibe betalactamasas y amplía la cobertura de la amoxicilina a productoras como S. aureus sensible a meticilina.",
@@ -65541,10 +65541,10 @@
    "difficulty": "explorer",
    "prompt": "What do beta-lactamases do?",
    "options": [
-    "Inactivate the beta-lactam ring of beta-lactam antibiotics",
-    "Build the bacterial cell wall",
-    "Pump drugs out of the cell",
-    "Modify ribosomes"
+    "Inactivate the antibiotic's beta-lactam ring",
+    "Cross-link peptidoglycan in the cell wall",
+    "Pump antibiotics out of the bacterial cell",
+    "Methylate the ribosome's binding site"
    ],
    "correctOptionIndex": 0,
    "explanation": "Beta-lactamases hydrolyze the beta-lactam ring; beta-lactamase inhibitors protect the partner antibiotic.",
@@ -65565,10 +65565,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué hacen las betalactamasas?",
    "options": [
-    "Inactivan el anillo betalactámico de los betalactámicos",
-    "Construyen la pared bacteriana",
-    "Bombean fármacos hacia afuera",
-    "Modifican ribosomas"
+    "Inactivan el anillo betalactámico del antibiótico",
+    "Entrecruzan el peptidoglicano de la pared celular",
+    "Bombean antibióticos fuera de la célula bacteriana",
+    "Metilan el sitio de unión del ribosoma"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las betalactamasas hidrolizan el anillo betalactámico; los inhibidores de betalactamasa protegen al antibiótico acompañante.",
@@ -65589,10 +65589,10 @@
    "difficulty": "researcher",
    "prompt": "How do beta-lactams such as cefepime kill bacteria?",
    "options": [
-    "By blocking DNA gyrase",
-    "By inhibiting folate synthesis",
-    "By binding enzymes of the final transpeptidation step of peptidoglycan synthesis",
-    "By blocking the 50S ribosome"
+    "By inhibiting DNA gyrase and topoisomerase IV",
+    "By blocking dihydropteroate synthase in folate synthesis",
+    "By binding transpeptidases that cross-link peptidoglycan",
+    "By binding the 50S subunit and blocking translation"
    ],
    "correctOptionIndex": 2,
    "explanation": "Beta-lactams covalently bind penicillin-binding proteins (transpeptidases), causing cell wall defects and autolysis.",
@@ -65613,10 +65613,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo matan las bacterias los betalactámicos como la cefepima?",
    "options": [
-    "Bloqueando la ADN girasa",
-    "Inhibiendo la síntesis de folato",
-    "Uniéndose a enzimas de la transpeptidación final del peptidoglicano",
-    "Bloqueando el ribosoma 50S"
+    "Inhibiendo la ADN girasa y la topoisomerasa IV bacterianas",
+    "Bloqueando la dihidropteroato sintasa en la síntesis de folato",
+    "Uniéndose a transpeptidasas que entrecruzan el peptidoglicano",
+    "Uniéndose a la subunidad 50S y bloqueando la traducción"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los betalactámicos se unen covalentemente a proteínas fijadoras de penicilina (transpeptidasas), causando defectos de pared y autólisis.",
@@ -65733,10 +65733,10 @@
    "difficulty": "explorer",
    "prompt": "Third-generation cephalosporins are valuable in which of these infections?",
    "options": [
-    "Fungal meningitis",
-    "Malaria",
+    "Cryptococcal meningitis and candidemia",
+    "Falciparum malaria and toxoplasmosis",
     "Gram-negative meningitis and Lyme disease",
-    "Influenza"
+    "Influenza and RSV bronchiolitis in infants"
    ],
    "correctOptionIndex": 2,
    "explanation": "Third-generation cephalosporins (e.g., ceftriaxone) treat gram-negative meningitis, Lyme disease, gonorrhea and sepsis, among others.",
@@ -65757,10 +65757,10 @@
    "difficulty": "explorer",
    "prompt": "¿En cuáles de estas infecciones son valiosas las cefalosporinas de tercera generación?",
    "options": [
-    "Meningitis fúngica",
-    "Malaria",
+    "Meningitis criptocócica y candidemia",
+    "Malaria por falciparum y toxoplasmosis",
     "Meningitis por gramnegativos y enfermedad de Lyme",
-    "Influenza"
+    "Influenza y bronquiolitis por VRS en lactantes"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las de tercera generación (como ceftriaxona) tratan meningitis por gramnegativos, Lyme, gonorrea y sepsis, entre otras.",
@@ -65829,10 +65829,10 @@
    "difficulty": "researcher",
    "prompt": "What is remarkable about penicillin and Streptococcus pyogenes?",
    "options": [
-    "S. pyogenes is naturally resistant",
-    "Penicillin causes S. pyogenes to mutate",
-    "Only vancomycin works",
-    "No penicillin resistance has been reported in S. pyogenes"
+    "S. pyogenes is intrinsically resistant to penicillin",
+    "Most S. pyogenes isolates now produce beta-lactamase",
+    "S. pyogenes requires vancomycin as first-line therapy",
+    "S. pyogenes has no reported penicillin resistance"
    ],
    "correctOptionIndex": 3,
    "explanation": "Group A streptococcus has remained penicillin-susceptible, so penicillin remains reliable for it.",
@@ -65853,10 +65853,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué es notable sobre la penicilina y Streptococcus pyogenes?",
    "options": [
-    "S. pyogenes es naturalmente resistente",
-    "La penicilina hace mutar a S. pyogenes",
-    "Solo funciona la vancomicina",
-    "No se ha informado resistencia a penicilina en S. pyogenes"
+    "S. pyogenes es intrínsecamente resistente a la penicilina",
+    "La mayoría de los S. pyogenes ya producen betalactamasa",
+    "S. pyogenes requiere vancomicina como primera línea",
+    "No se ha informado resistencia de S. pyogenes a penicilina"
    ],
    "correctOptionIndex": 3,
    "explanation": "El estreptococo del grupo A sigue siendo sensible a la penicilina, que continúa siendo confiable para él.",
@@ -65877,10 +65877,10 @@
    "difficulty": "explorer",
    "prompt": "Ampicillin is active against which important gram-positive pathogens that cephalosporins miss?",
    "options": [
-    "MRSA and C. difficile",
-    "Enterococcus species and Listeria monocytogenes",
-    "Mycoplasma and Chlamydia",
-    "Pseudomonas and Acinetobacter"
+    "MRSA and Clostridioides difficile",
+    "Enterococcus and Listeria monocytogenes",
+    "Nocardia and Corynebacterium jeikeium",
+    "Mycoplasma and Chlamydia trachomatis"
    ],
    "correctOptionIndex": 1,
    "explanation": "Ampicillin covers Enterococcus and Listeria, which are intrinsically resistant to cephalosporins.",
@@ -65901,10 +65901,10 @@
    "difficulty": "explorer",
    "prompt": "La ampicilina es activa contra ¿qué grampositivos importantes que no cubren las cefalosporinas?",
    "options": [
-    "SARM y C. difficile",
+    "SARM y Clostridioides difficile",
     "Enterococcus y Listeria monocytogenes",
-    "Mycoplasma y Chlamydia",
-    "Pseudomonas y Acinetobacter"
+    "Nocardia y Corynebacterium jeikeium",
+    "Mycoplasma y Chlamydia trachomatis"
    ],
    "correctOptionIndex": 1,
    "explanation": "La ampicilina cubre Enterococcus y Listeria, intrínsecamente resistentes a las cefalosporinas.",
@@ -66021,10 +66021,10 @@
    "difficulty": "researcher",
    "prompt": "How does vancomycin infusion reaction differ from vancomycin anaphylaxis?",
    "options": [
-    "It is IgE-mediated",
-    "It is a non-immune (anaphylactoid) histamine release, not IgE-mediated",
-    "It needs prior exposure",
-    "It only occurs orally"
+    "It is IgE-mediated and needs prior sensitization",
+    "It is non-immune histamine release, not IgE-mediated",
+    "It is a T-cell–mediated delayed hypersensitivity",
+    "It is caused by immune complexes with complement"
    ],
    "correctOptionIndex": 1,
    "explanation": "Infusion reaction is non-immune mast cell degranulation related to dose and rate; anaphylaxis is IgE-mediated and needs prior exposure.",
@@ -66045,10 +66045,10 @@
    "difficulty": "researcher",
    "prompt": "¿En qué difiere la reacción a la infusión de vancomicina de la anafilaxia por vancomicina?",
    "options": [
-    "Está mediada por IgE",
-    "Es una liberación de histamina no inmune (anafilactoide), no mediada por IgE",
-    "Requiere exposición previa",
-    "Solo ocurre por vía oral"
+    "Está mediada por IgE y requiere sensibilización previa",
+    "Es liberación de histamina no inmune, no mediada por IgE",
+    "Es una hipersensibilidad retardada mediada por linfocitos T",
+    "Se debe a inmunocomplejos que activan el complemento"
    ],
    "correctOptionIndex": 1,
    "explanation": "La reacción es una desgranulación de mastocitos no inmune, ligada a dosis y velocidad; la anafilaxia es IgE y requiere exposición previa.",
@@ -66117,10 +66117,10 @@
    "difficulty": "explorer",
    "prompt": "How do aminoglycosides such as neomycin act?",
    "options": [
-    "They inhibit cell wall synthesis",
-    "They block folate synthesis",
-    "They bind the 30S ribosomal subunit and disrupt protein synthesis",
-    "They disrupt fungal membranes"
+    "They inhibit peptidoglycan cell wall synthesis",
+    "They block folate synthesis at dihydrofolate reductase",
+    "They bind the 30S subunit and disrupt protein synthesis",
+    "They bind the 50S subunit and block peptide transfer"
    ],
    "correctOptionIndex": 2,
    "explanation": "Aminoglycosides bind the 30S subunit, impair translational accuracy and are bactericidal against gram-negatives.",
@@ -66141,10 +66141,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo actúan los aminoglucósidos como la neomicina?",
    "options": [
-    "Inhiben la síntesis de pared",
-    "Bloquean la síntesis de folato",
-    "Se unen a la subunidad 30S y alteran la síntesis de proteínas",
-    "Alteran membranas fúngicas"
+    "Inhiben la síntesis de peptidoglicano de la pared",
+    "Bloquean el folato a nivel de la dihidrofolato reductasa",
+    "Se unen a la subunidad 30S y alteran la síntesis proteica",
+    "Se unen a la 50S y bloquean la transferencia peptídica"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los aminoglucósidos se unen a la subunidad 30S, alteran la fidelidad de la traducción y son bactericidas contra gramnegativos.",
@@ -66165,10 +66165,10 @@
    "difficulty": "researcher",
    "prompt": "Why is oral neomycin useful for gut-related conditions such as hepatic coma?",
    "options": [
-    "It is poorly absorbed, so it stays in the gastrointestinal tract",
-    "It is absorbed completely",
-    "It kills viruses in the liver",
-    "It lowers blood sugar"
+    "It is poorly absorbed and stays in the gut",
+    "It is fully absorbed and concentrates in bile",
+    "It neutralizes ammonia directly in the blood",
+    "It stimulates bile flow from the liver"
    ],
    "correctOptionIndex": 0,
    "explanation": "Oral neomycin is minimally absorbed and acts locally in the gut, used for hepatic coma and bowel prophylaxis.",
@@ -66189,10 +66189,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué la neomicina oral sirve para cuadros intestinales como el coma hepático?",
    "options": [
-    "Se absorbe poco y queda en el tubo digestivo",
-    "Se absorbe por completo",
-    "Mata virus en el hígado",
-    "Baja la glucemia"
+    "Se absorbe poco y permanece en el tubo digestivo",
+    "Se absorbe por completo y se concentra en la bilis",
+    "Neutraliza el amoníaco directamente en la sangre",
+    "Estimula el flujo de bilis desde el hígado"
    ],
    "correctOptionIndex": 0,
    "explanation": "La neomicina oral casi no se absorbe y actúa localmente en el intestino; se usa en coma hepático y profilaxis intestinal.",
@@ -66213,10 +66213,10 @@
    "difficulty": "expert",
    "prompt": "Which aminoglycoside property distinguishes gentamicin from amikacin in enterococcal therapy?",
    "options": [
-    "Amikacin is synergistic and gentamicin is not",
-    "Neither has any activity on gram-negatives",
-    "Amikacin is oral only",
-    "Gentamicin can be synergistic with beta-lactams; amikacin does not provide that synergy for E. faecium"
+    "Amikacin adds beta-lactam synergy; gentamicin does not for E. faecium",
+    "Gentamicin is given orally, amikacin intravenously",
+    "Amikacin has no activity against gram-negative bacilli",
+    "Gentamicin adds beta-lactam synergy; amikacin does not for E. faecium"
    ],
    "correctOptionIndex": 3,
    "explanation": "Amikacin is kept for resistant gram-negatives (Pseudomonas, Acinetobacter) and some mycobacteria, not for enterococcal synergy.",
@@ -66237,10 +66237,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué propiedad distingue a la gentamicina de la amikacina en el tratamiento de enterococos?",
    "options": [
-    "La amikacina es sinérgica y la gentamicina no",
-    "Ninguna actúa sobre gramnegativos",
-    "La amikacina es solo oral",
-    "La gentamicina puede ser sinérgica con betalactámicos; la amikacina no da esa sinergia contra E. faecium"
+    "La amikacina aporta sinergia con betalactámicos; la gentamicina no, en E. faecium",
+    "La gentamicina se da por vía oral y la amikacina, por vía intravenosa",
+    "La amikacina no tiene actividad contra bacilos gramnegativos",
+    "La gentamicina aporta sinergia con betalactámicos; la amikacina no, en E. faecium"
    ],
    "correctOptionIndex": 3,
    "explanation": "La amikacina se reserva para gramnegativos resistentes (Pseudomonas, Acinetobacter) y algunas micobacterias, no para sinergia en enterococos.",
@@ -66261,10 +66261,10 @@
    "difficulty": "researcher",
    "prompt": "Amikacin is especially useful against which bacteria?",
    "options": [
-    "Streptococcus pyogenes",
-    "Resistant gram-negative bacilli such as Acinetobacter and Pseudomonas",
-    "Anaerobes in abscesses",
-    "Treponema pallidum"
+    "Penicillin-susceptible Streptococcus pyogenes",
+    "Resistant gram-negatives like Pseudomonas",
+    "Anaerobes such as Bacteroides fragilis",
+    "Spirochetes like Treponema pallidum"
    ],
    "correctOptionIndex": 1,
    "explanation": "Amikacin retains activity against more resistant gram-negatives and some nontuberculous mycobacteria.",
@@ -66285,10 +66285,10 @@
    "difficulty": "researcher",
    "prompt": "¿Contra qué bacterias es especialmente útil la amikacina?",
    "options": [
-    "Streptococcus pyogenes",
-    "Bacilos gramnegativos resistentes como Acinetobacter y Pseudomonas",
-    "Anaerobios de abscesos",
-    "Treponema pallidum"
+    "Streptococcus pyogenes sensible a penicilina",
+    "Gramnegativos resistentes como Pseudomonas",
+    "Anaerobios como Bacteroides fragilis",
+    "Espiroquetas como Treponema pallidum"
    ],
    "correctOptionIndex": 1,
    "explanation": "La amikacina conserva actividad contra gramnegativos más resistentes y algunas micobacterias no tuberculosas.",
@@ -66312,7 +66312,7 @@
     "Cephalosporins",
     "Macrolides",
     "Aminoglycosides",
-    "Carbapenems"
+    "Tetracyclines"
    ],
    "correctOptionIndex": 1,
    "explanation": "Azithromycin is a macrolide used for community-acquired pneumonia and sexually transmitted infections.",
@@ -66336,7 +66336,7 @@
     "Cefalosporinas",
     "Macrólidos",
     "Aminoglucósidos",
-    "Carbapenémicos"
+    "Tetraciclinas"
    ],
    "correctOptionIndex": 1,
    "explanation": "La azitromicina es un macrólido usado en neumonía adquirida en la comunidad e infecciones de transmisión sexual.",
@@ -66357,9 +66357,9 @@
    "difficulty": "explorer",
    "prompt": "Which classic preventive use does erythromycin have in newborns?",
    "options": [
-    "Preventing jaundice",
-    "Preventing colic",
-    "Preventing rickets",
+    "Prevention of neonatal jaundice",
+    "Prevention of newborn hemorrhagic disease",
+    "Prophylaxis of umbilical cord infection",
     "Prophylaxis of neonatal conjunctivitis"
    ],
    "correctOptionIndex": 3,
@@ -66381,9 +66381,9 @@
    "difficulty": "explorer",
    "prompt": "¿Qué uso preventivo clásico tiene la eritromicina en recién nacidos?",
    "options": [
-    "Prevenir ictericia",
-    "Prevenir cólicos",
-    "Prevenir raquitismo",
+    "Prevención de la ictericia neonatal",
+    "Prevención de la enfermedad hemorrágica neonatal",
+    "Profilaxis de la infección del cordón umbilical",
     "Profilaxis de la conjuntivitis neonatal"
    ],
    "correctOptionIndex": 3,
@@ -66406,9 +66406,9 @@
    "prompt": "Clindamycin is commonly used for which type of infection?",
    "options": [
     "Skin and soft tissue infections",
-    "Viral hepatitis",
-    "Fungal nail infections",
-    "Influenza"
+    "Chronic hepatitis B infection",
+    "Fungal infections of the nails",
+    "Seasonal influenza infection"
    ],
    "correctOptionIndex": 0,
    "explanation": "Clindamycin treats skin and skin-structure, respiratory, gynecological and other bacterial infections.",
@@ -66430,9 +66430,9 @@
    "prompt": "¿Para qué tipo de infección se usa habitualmente la clindamicina?",
    "options": [
     "Infecciones de piel y partes blandas",
-    "Hepatitis viral",
-    "Onicomicosis",
-    "Influenza"
+    "Infección crónica por hepatitis B",
+    "Infecciones por hongos en las uñas",
+    "Infección por gripe estacional"
    ],
    "correctOptionIndex": 0,
    "explanation": "La clindamicina trata infecciones de piel y partes blandas, respiratorias, ginecológicas y otras.",
@@ -66453,10 +66453,10 @@
    "difficulty": "curious",
    "prompt": "What is 'Doxy PEP'?",
    "options": [
-    "A vaccine against HPV",
-    "A test for syphilis",
-    "Doxycycline postexposure prophylaxis to prevent bacterial STIs",
-    "A doxycycline cream for acne"
+    "A vaccine given after sex to prevent HPV infection",
+    "A rapid point-of-care blood test for syphilis",
+    "Post-exposure doxycycline to prevent bacterial STIs",
+    "A low-dose doxycycline protocol for moderate acne"
    ],
    "correctOptionIndex": 2,
    "explanation": "CDC recommends doxycycline PEP for high-risk populations to prevent bacterial sexually transmitted infections.",
@@ -66477,10 +66477,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué es 'Doxy PEP'?",
    "options": [
-    "Una vacuna contra el VPH",
-    "Un test de sífilis",
-    "Profilaxis posexposición con doxiciclina para prevenir ITS bacterianas",
-    "Una crema de doxiciclina para el acné"
+    "Una vacuna tras el sexo para prevenir la infección por VPH",
+    "Una prueba rápida en sangre para detectar sífilis",
+    "Doxiciclina posexposición para prevenir ITS bacterianas",
+    "Un esquema de doxiciclina a dosis baja para el acné moderado"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los CDC recomiendan la PEP con doxiciclina en poblaciones de alto riesgo para prevenir ITS bacterianas.",
@@ -66501,10 +66501,10 @@
    "difficulty": "explorer",
    "prompt": "Why is doxycycline also used for rosacea and periodontal disease?",
    "options": [
-    "It has anti-inflammatory and immunomodulatory effects",
-    "It kills viruses",
-    "It is an antifungal",
-    "It is a steroid"
+    "It also has anti-inflammatory effects",
+    "It acts like a corticosteroid on the skin",
+    "It suppresses sebum like isotretinoin",
+    "It is active against fungi in these lesions"
    ],
    "correctOptionIndex": 0,
    "explanation": "Besides antimicrobial activity, doxycycline has anti-inflammatory effects useful in rosacea, periodontitis and others.",
@@ -66525,10 +66525,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué la doxiciclina también se usa en rosácea y enfermedad periodontal?",
    "options": [
-    "Tiene efectos antiinflamatorios e inmunomoduladores",
-    "Mata virus",
-    "Es antifúngica",
-    "Es un corticoide"
+    "También tiene efectos antiinflamatorios",
+    "Actúa como un corticoide sobre la piel",
+    "Suprime el sebo como la isotretinoína",
+    "Es activa contra hongos de estas lesiones"
    ],
    "correctOptionIndex": 0,
    "explanation": "Además de su acción antimicrobiana, la doxiciclina es antiinflamatoria, útil en rosácea, periodontitis y otras.",
@@ -66597,7 +66597,7 @@
    "difficulty": "beginner",
    "prompt": "Ciprofloxacin belongs to which antibiotic class?",
    "options": [
-    "Penicillins",
+    "Aminoglycosides",
     "Tetracyclines",
     "Fluoroquinolones",
     "Glycopeptides"
@@ -66621,7 +66621,7 @@
    "difficulty": "beginner",
    "prompt": "¿A qué clase de antibióticos pertenece la ciprofloxacina?",
    "options": [
-    "Penicilinas",
+    "Aminoglucósidos",
     "Tetraciclinas",
     "Fluoroquinolonas",
     "Glucopéptidos"
@@ -66645,9 +66645,9 @@
    "difficulty": "explorer",
    "prompt": "Which adverse effect requires monitoring with levofloxacin?",
    "options": [
-    "Weight gain",
-    "Hair growth",
-    "Low blood pressure only",
+    "Gingival overgrowth",
+    "Gray baby syndrome",
+    "Tooth discoloration",
     "QT prolongation"
    ],
    "correctOptionIndex": 3,
@@ -66669,9 +66669,9 @@
    "difficulty": "explorer",
    "prompt": "¿Qué efecto adverso requiere vigilancia con levofloxacina?",
    "options": [
-    "Aumento de peso",
-    "Crecimiento de pelo",
-    "Solo hipotensión",
+    "Hiperplasia gingival",
+    "Síndrome del niño gris",
+    "Tinción de los dientes",
     "Prolongación del QT"
    ],
    "correctOptionIndex": 3,
@@ -66693,10 +66693,10 @@
    "difficulty": "explorer",
    "prompt": "Why does rifaximin act mainly in the gut?",
    "options": [
-    "It is given intravenously",
-    "It is not absorbed, so it stays in the gastrointestinal tract",
-    "It only kills fungi",
-    "It is destroyed by stomach acid"
+    "It is given by intravenous infusion",
+    "It is barely absorbed and stays in the gut",
+    "It acts mainly against intestinal fungi",
+    "It is rapidly destroyed by stomach acid"
    ],
    "correctOptionIndex": 1,
    "explanation": "Nonabsorbable rifaximin treats travelers' diarrhea, IBS-D and reduces hepatic encephalopathy recurrence.",
@@ -66717,10 +66717,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué la rifaximina actúa sobre todo en el intestino?",
    "options": [
-    "Se da por vía intravenosa",
-    "No se absorbe y queda en el tubo digestivo",
-    "Solo mata hongos",
-    "El ácido gástrico la destruye"
+    "Se administra en infusión intravenosa",
+    "Casi no se absorbe y queda en el intestino",
+    "Actúa sobre todo contra hongos intestinales",
+    "El ácido gástrico la destruye rápido"
    ],
    "correctOptionIndex": 1,
    "explanation": "La rifaximina, no absorbible, trata la diarrea del viajero, el colon irritable con diarrea y reduce las recaídas de encefalopatía hepática.",
@@ -66742,9 +66742,9 @@
    "prompt": "How is mupirocin administered?",
    "options": [
     "Topically, on the skin",
-    "Intravenously",
-    "By inhalation",
-    "As an oral tablet"
+    "As an intravenous infusion",
+    "As an inhaled aerosol",
+    "As an oral tablet or syrup"
    ],
    "correctOptionIndex": 0,
    "explanation": "Mupirocin is a topical antibiotic for skin and soft tissue infections; resistance is increasing with widespread use.",
@@ -66766,9 +66766,9 @@
    "prompt": "¿Cómo se administra la mupirocina?",
    "options": [
     "De forma tópica, sobre la piel",
-    "Por vía intravenosa",
-    "Inhalada",
-    "En comprimidos"
+    "En infusión intravenosa",
+    "En aerosol para inhalar",
+    "En comprimidos o jarabe oral"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mupirocina es un antibiótico tópico para infecciones de piel; la resistencia aumenta con su uso extendido.",
@@ -66789,7 +66789,7 @@
    "difficulty": "researcher",
    "prompt": "Which severe adverse effect is associated with ethambutol?",
    "options": [
-    "Hearing loss",
+    "Sensorineural deafness",
     "Kidney stones",
     "Optic neuropathy",
     "Tendon rupture"
@@ -66813,7 +66813,7 @@
    "difficulty": "researcher",
    "prompt": "¿Qué efecto adverso grave se asocia al etambutol?",
    "options": [
-    "Sordera",
+    "Sordera neurosensorial",
     "Cálculos renales",
     "Neuropatía óptica",
     "Rotura de tendones"
@@ -66838,9 +66838,9 @@
    "prompt": "Why is ethambutol never used alone to treat tuberculosis?",
    "options": [
     "To prevent the emergence of resistant strains",
-    "Because it is too cheap",
-    "Because it only works in children",
-    "Because it is an antiviral"
+    "Because it must be activated by isoniazid",
+    "Because it cannot reach the lung tissue",
+    "Because companion drugs reduce its toxicity"
    ],
    "correctOptionIndex": 0,
    "explanation": "TB is treated with multidrug regimens; monotherapy selects resistant strains.",
@@ -66862,9 +66862,9 @@
    "prompt": "¿Por qué el etambutol nunca se usa solo para tratar la tuberculosis?",
    "options": [
     "Para evitar que surjan cepas resistentes",
-    "Porque es muy barato",
-    "Porque solo funciona en niños",
-    "Porque es antiviral"
+    "Porque necesita la isoniazida para activarse",
+    "Porque no logra llegar al tejido pulmonar",
+    "Porque los otros fármacos reducen su toxicidad"
    ],
    "correctOptionIndex": 0,
    "explanation": "La TB se trata con esquemas de varios fármacos; la monoterapia selecciona cepas resistentes.",
@@ -66885,9 +66885,9 @@
    "difficulty": "curious",
    "prompt": "What is the goal of preoperative antibiotic prophylaxis?",
    "options": [
-    "Treating an existing pneumonia",
-    "Reducing pain after surgery",
-    "Preventing blood clots",
+    "Treating infections already present before surgery",
+    "Reducing pain and inflammation after surgery",
+    "Preventing postoperative venous blood clots",
     "Decreasing the risk of postoperative infection"
    ],
    "correctOptionIndex": 3,
@@ -66909,9 +66909,9 @@
    "difficulty": "curious",
    "prompt": "¿Cuál es el objetivo de la profilaxis antibiótica preoperatoria?",
    "options": [
-    "Tratar una neumonía existente",
-    "Reducir el dolor posoperatorio",
-    "Prevenir trombos",
+    "Tratar infecciones ya presentes antes de operar",
+    "Reducir el dolor y la inflamación posoperatorios",
+    "Prevenir la trombosis venosa posoperatoria",
     "Disminuir el riesgo de infección posoperatoria"
    ],
    "correctOptionIndex": 3,
@@ -66933,10 +66933,10 @@
    "difficulty": "explorer",
    "prompt": "In which surgery is routine antibiotic prophylaxis standard?",
    "options": [
-    "Removing a small skin mole with no implant",
-    "Surgery implanting an artificial implant or foreign body",
-    "A dental cleaning",
-    "A blood draw"
+    "Removing a small skin mole without any implant",
+    "Surgery placing an implant or foreign body",
+    "A routine professional dental cleaning",
+    "A diagnostic upper GI endoscopy"
    ],
    "correctOptionIndex": 1,
    "explanation": "Prophylaxis is standard when implants or foreign bodies are placed, in bone grafting and in extensive surgeries with blood loss.",
@@ -66957,10 +66957,10 @@
    "difficulty": "explorer",
    "prompt": "¿En qué cirugía es estándar la profilaxis antibiótica de rutina?",
    "options": [
-    "Quitar un lunar sin implante",
-    "Cirugías que colocan un implante o cuerpo extraño",
-    "Una limpieza dental",
-    "Una extracción de sangre"
+    "Extirpar un lunar pequeño de la piel sin implantes",
+    "Cirugía que coloca un implante o cuerpo extraño",
+    "Una limpieza dental profesional de rutina",
+    "Una endoscopia digestiva alta con fines diagnósticos"
    ],
    "correctOptionIndex": 1,
    "explanation": "La profilaxis es estándar cuando se colocan implantes o cuerpos extraños, en injertos óseos y en cirugías extensas con sangrado.",
@@ -71376,7 +71376,7 @@
     "Bovinos",
     "Perros",
     "Caballos",
-    "Pollos"
+    "Gallinas"
    ],
    "correctOptionIndex": 2,
    "explanation": "La adenitis equina es una infección contagiosa de los caballos causada por Streptococcus equi subsp. equi.",
@@ -71397,10 +71397,10 @@
    "difficulty": "researcher",
    "prompt": "Why are carrier horses important in strangles control?",
    "options": [
-    "Subclinical carriers keep transmitting the infection",
-    "Carriers are immune and protect the herd",
-    "Carriers cannot shed bacteria",
-    "Carriers only exist in vaccinated herds"
+    "Subclinical carriers keep shedding and infecting others",
+    "Carriers become immune and shield the rest of the herd",
+    "Carriers stop shedding once their fever resolves",
+    "Carriers arise mainly from live-vaccine strains"
    ],
    "correctOptionIndex": 0,
    "explanation": "Carrier states sustain transmission; detecting carriers (PCR, serology) is key to outbreak control.",
@@ -71421,10 +71421,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué los caballos portadores son importantes en el control de la adenitis equina?",
    "options": [
-    "Los portadores subclínicos siguen transmitiendo la infección",
-    "Los portadores son inmunes y protegen al grupo",
-    "Los portadores no eliminan bacterias",
-    "Solo hay portadores en rebaños vacunados"
+    "Los portadores subclínicos siguen eliminando e infectando",
+    "Los portadores se vuelven inmunes y protegen al grupo",
+    "Los portadores dejan de eliminar al ceder la fiebre",
+    "Los portadores surgen sobre todo de cepas vacunales vivas"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los portadores mantienen la transmisión; detectarlos (PCR, serología) es clave para controlar brotes.",
@@ -71493,10 +71493,10 @@
    "difficulty": "researcher",
    "prompt": "What was associated with the re-emergence of feline panleukopenia in shelter cats?",
    "options": [
-    "A new antibiotic",
-    "Climate change only",
-    "Contaminated cat food",
-    "Failure to vaccinate"
+    "Feeding raw meat diets",
+    "Contaminated commercial cat food",
+    "Disinfectant-resistant virus strains",
+    "Failure to vaccinate cats"
    ],
    "correctOptionIndex": 3,
    "explanation": "Panleukopenia re-emerged in shelters where cats were not vaccinated.",
@@ -71517,10 +71517,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué se asoció al resurgimiento de la panleucopenia felina en refugios?",
    "options": [
-    "Un antibiótico nuevo",
-    "Solo el cambio climático",
-    "Alimento contaminado",
-    "La falta de vacunación"
+    "Dietas de carne cruda",
+    "Alimento comercial contaminado",
+    "Cepas resistentes a desinfectantes",
+    "Falta de vacunación de los gatos"
    ],
    "correctOptionIndex": 3,
    "explanation": "La panleucopenia resurgió en refugios donde los gatos no estaban vacunados.",
@@ -71541,10 +71541,10 @@
    "difficulty": "explorer",
    "prompt": "Which statement about feline calicivirus vaccination is correct?",
    "options": [
-    "It prevents all infection",
-    "It is not available",
-    "It reduces disease but does not prevent infection or persistent carriage",
-    "It only works in dogs"
+    "It prevents infection and persistent carriage",
+    "It blocks infection but not clinical disease",
+    "It reduces disease but not infection or carriage",
+    "It gives lifelong sterile immunity after one dose"
    ],
    "correctOptionIndex": 2,
    "explanation": "FCV vaccines reduce clinical disease, but vaccinated cats can still be infected and become carriers; strain variability limits protection.",
@@ -71565,10 +71565,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué afirmación sobre la vacunación contra calicivirus felino es correcta?",
    "options": [
-    "Previene toda infección",
-    "No existe vacuna",
-    "Reduce la enfermedad pero no previene la infección ni la portación persistente",
-    "Solo funciona en perros"
+    "Previene la infección y la portación persistente",
+    "Bloquea la infección pero no la enfermedad clínica",
+    "Reduce la enfermedad, no la infección ni la portación",
+    "Da inmunidad estéril de por vida con una dosis"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las vacunas contra FCV reducen la enfermedad, pero los gatos vacunados pueden infectarse y quedar portadores; la variabilidad de cepas limita la protección.",
@@ -71589,10 +71589,10 @@
    "difficulty": "expert",
    "prompt": "How does porcine circovirus 2 increase the severity of disease in pigs?",
    "options": [
-    "It causes lymphocyte depletion and immunosuppression, favoring co-infections",
-    "It produces a potent exotoxin",
-    "It forms spores in the gut",
-    "It blocks blood clotting"
+    "It depletes lymphocytes, favoring co-infections",
+    "It secretes a potent enterotoxin in the gut",
+    "It forms resistant cysts in muscle tissue",
+    "It blocks platelet aggregation and clotting"
    ],
    "correctOptionIndex": 0,
    "explanation": "PCV2 disrupts interferon and cytokine pathways and depletes lymphocytes, so co-infections become more severe.",
@@ -71613,10 +71613,10 @@
    "difficulty": "expert",
    "prompt": "¿Cómo aumenta el circovirus porcino 2 la gravedad de la enfermedad en cerdos?",
    "options": [
-    "Causa depleción linfocitaria e inmunosupresión, favoreciendo coinfecciones",
-    "Produce una exotoxina potente",
-    "Forma esporas en el intestino",
-    "Bloquea la coagulación"
+    "Depleta linfocitos y favorece las coinfecciones",
+    "Secreta una enterotoxina potente en el intestino",
+    "Forma quistes resistentes en el tejido muscular",
+    "Bloquea la agregación plaquetaria y la coagulación"
    ],
    "correctOptionIndex": 0,
    "explanation": "El PCV2 altera las vías del interferón y las citocinas y depleta linfocitos, agravando las coinfecciones.",
@@ -71637,10 +71637,10 @@
    "difficulty": "explorer",
    "prompt": "Porcine epidemic diarrhea virus is a…",
    "options": [
-    "Parvovirus of adult sows",
-    "Bacterium of the large intestine",
-    "Flavivirus transmitted by mosquitoes",
-    "Coronavirus causing severe diarrhea and high mortality in newborn piglets"
+    "Parvovirus causing reproductive failure in sows",
+    "Bacterium causing colitis in growing pigs",
+    "Flavivirus transmitted to pigs by mosquitoes",
+    "Coronavirus causing lethal diarrhea in piglets"
    ],
    "correctOptionIndex": 3,
    "explanation": "PEDV is an alphacoronavirus causing acute diarrhea, dehydration and high mortality in neonatal piglets.",
@@ -71661,10 +71661,10 @@
    "difficulty": "explorer",
    "prompt": "El virus de la diarrea epidémica porcina es un…",
    "options": [
-    "Parvovirus de cerdas adultas",
-    "Bacteria del intestino grueso",
-    "Flavivirus transmitido por mosquitos",
-    "Coronavirus que causa diarrea grave y alta mortalidad en lechones recién nacidos"
+    "Parvovirus que causa fallas reproductivas en cerdas",
+    "Bacteria que causa colitis en cerdos de engorde",
+    "Flavivirus que los mosquitos transmiten a cerdos",
+    "Coronavirus que causa diarrea letal en lechones"
    ],
    "correctOptionIndex": 3,
    "explanation": "El PEDV es un alfacoronavirus que causa diarrea aguda, deshidratación y alta mortalidad en lechones neonatos.",
@@ -71685,13 +71685,13 @@
    "difficulty": "researcher",
    "prompt": "How are newborn piglets protected against PEDV?",
    "options": [
-    "By antibiotics in feed",
-    "By lactogenic immunity: IgA in milk from orally primed sows",
-    "By their own adaptive immunity at birth",
-    "By heat lamps"
+    "By antibiotics added to the sow's feed",
+    "By milk IgA from orally primed sows",
+    "By the piglet's own antibodies at birth",
+    "By transplacental IgG received in the uterus"
    ],
    "correctOptionIndex": 1,
-   "explanation": "Sows primed orally produce IgA-secreting cells that pass protective antibodies to piglets in milk (lactogenic immunity).",
+   "explanation": "Sows primed orally produce IgA-secreting cells that pass protective antibodies to piglets in milk (lactogenic immunity); the porcine placenta does not transfer antibodies.",
    "shortExplanation": "Maternal IgA in milk.",
    "pmid": "32502552",
    "verification": {
@@ -71709,13 +71709,13 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo se protege a los lechones recién nacidos contra el PEDV?",
    "options": [
-    "Con antibióticos en el alimento",
-    "Con inmunidad lactogénica: IgA en la leche de cerdas inmunizadas por vía oral",
-    "Con su propia inmunidad adaptativa al nacer",
-    "Con lámparas de calor"
+    "Con antibióticos en el alimento de la cerda",
+    "Con IgA láctea de cerdas inmunizadas por vía oral",
+    "Con anticuerpos propios del lechón al nacer",
+    "Con IgG transplacentaria recibida en el útero"
    ],
    "correctOptionIndex": 1,
-   "explanation": "Las cerdas inmunizadas por vía oral generan células secretoras de IgA que pasan anticuerpos protectores en la leche.",
+   "explanation": "Las cerdas inmunizadas por vía oral generan células secretoras de IgA que pasan anticuerpos protectores en la leche (inmunidad lactogénica); la placenta porcina no transfiere anticuerpos.",
    "shortExplanation": "IgA materna en la leche.",
    "pmid": "32502552",
    "verification": {
@@ -71733,13 +71733,13 @@
    "difficulty": "researcher",
    "prompt": "What role do wild boars play in classical swine fever?",
    "options": [
-    "They are immune and protect farms",
-    "They are dead-end hosts",
-    "They are a reservoir that sporadically transmits the virus to pig farms",
-    "They transmit it only to humans"
+    "They are resistant and shield farms from it",
+    "They are dead-end hosts that cannot transmit it",
+    "They are a reservoir that reinfects pig farms",
+    "They spread it mainly to humans as a zoonosis"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Wild boar act as reservoir hosts of CSF virus (a Pestivirus) and can reintroduce it into domestic herds.",
+   "explanation": "Wild boar act as reservoir hosts of CSF virus (a Pestivirus, not zoonotic) and can sporadically reintroduce it into domestic herds.",
    "shortExplanation": "Reservoir host.",
    "pmid": "28430168",
    "verification": {
@@ -71757,13 +71757,13 @@
    "difficulty": "researcher",
    "prompt": "¿Qué papel cumplen los jabalíes en la peste porcina clásica?",
    "options": [
-    "Son inmunes y protegen granjas",
-    "Son huéspedes terminales",
-    "Son reservorio y transmiten esporádicamente el virus a granjas",
-    "Solo lo transmiten a humanos"
+    "Son resistentes y protegen a las granjas",
+    "Son huéspedes terminales que no lo transmiten",
+    "Son reservorio que reintroduce el virus en granjas",
+    "Lo transmiten sobre todo a humanos como zoonosis"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Los jabalíes son reservorio del virus de la PPC (un Pestivirus) y pueden reintroducirlo en granjas.",
+   "explanation": "Los jabalíes son reservorio del virus de la PPC (un Pestivirus, no zoonótico) y pueden reintroducirlo esporádicamente en granjas.",
    "shortExplanation": "Reservorio.",
    "pmid": "28430168",
    "verification": {
@@ -71781,10 +71781,10 @@
    "difficulty": "expert",
    "prompt": "How do CSF-free countries control an outbreak of classical swine fever?",
    "options": [
-    "Mass antibiotic treatment",
-    "Routine vaccination of all pigs",
-    "Ignoring it until it burns out",
-    "Quarantine and strict culling of affected herds"
+    "Mass antibiotic treatment of the herds",
+    "Routine vaccination of all domestic pigs",
+    "Treating sick pigs with antiviral drugs",
+    "Quarantine and culling of affected herds"
    ],
    "correctOptionIndex": 3,
    "explanation": "Free countries rely on quarantine and culling; vaccination is only an emergency option there, while endemic regions use live vaccines.",
@@ -71805,10 +71805,10 @@
    "difficulty": "expert",
    "prompt": "¿Cómo controlan un brote de peste porcina clásica los países libres?",
    "options": [
-    "Tratamiento antibiótico masivo",
+    "Tratamiento antibiótico masivo de los rebaños",
     "Vacunación rutinaria de todos los cerdos",
-    "Ignorándolo",
-    "Cuarentena y sacrificio estricto de los rebaños afectados"
+    "Tratamiento antiviral de los cerdos enfermos",
+    "Cuarentena y sacrificio de los rebaños afectados"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los países libres usan cuarentena y sacrificio; la vacunación es solo de emergencia, mientras que las zonas endémicas usan vacunas vivas.",
@@ -71829,10 +71829,10 @@
    "difficulty": "beginner",
    "prompt": "How is canine heartworm transmitted between dogs?",
    "options": [
-    "Through food",
+    "Through contaminated food",
     "By mosquitoes",
     "By direct contact",
-    "Through water bowls"
+    "By fleas"
    ],
    "correctOptionIndex": 1,
    "explanation": "Dirofilaria immitis microfilariae are carried from dog to dog by mosquitoes.",
@@ -71853,10 +71853,10 @@
    "difficulty": "beginner",
    "prompt": "¿Cómo se transmite el gusano del corazón (dirofilariasis) entre perros?",
    "options": [
-    "Por la comida",
+    "Por comida contaminada",
     "Por mosquitos",
     "Por contacto directo",
-    "Por los bebederos"
+    "Por pulgas"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las microfilarias de Dirofilaria immitis pasan de perro a perro a través de mosquitos.",
@@ -71877,13 +71877,13 @@
    "difficulty": "expert",
    "prompt": "Why is doxycycline used in canine heartworm treatment?",
    "options": [
-    "It kills mosquitoes",
-    "It dissolves blood clots",
-    "It targets Wolbachia, an obligate bacterial symbiont of the worm",
-    "It replaces melarsomine entirely"
+    "It kills the mosquito vectors on the dog",
+    "It dissolves dead worms in the arteries",
+    "It targets Wolbachia, the worm's symbiont",
+    "It kills adult worms in place of melarsomine"
    ],
    "correctOptionIndex": 2,
-   "explanation": "D. immitis depends on Wolbachia; antibiotics like doxycycline target the symbiont, complementing adulticide therapy.",
+   "explanation": "D. immitis depends on its obligate symbiont Wolbachia; antibiotics like doxycycline target it, complementing (not replacing) melarsomine adulticide therapy.",
    "shortExplanation": "Targets Wolbachia.",
    "pmid": "21922235",
    "verification": {
@@ -71901,13 +71901,13 @@
    "difficulty": "expert",
    "prompt": "¿Por qué se usa doxiciclina en el tratamiento de la dirofilariasis canina?",
    "options": [
-    "Mata mosquitos",
-    "Disuelve coágulos",
-    "Ataca a Wolbachia, una bacteria simbionte obligada del parásito",
-    "Reemplaza por completo a la melarsomina"
+    "Mata a los mosquitos vectores sobre el perro",
+    "Disuelve los gusanos muertos en las arterias",
+    "Ataca a Wolbachia, simbionte del parásito",
+    "Mata a los adultos en lugar de la melarsomina"
    ],
    "correctOptionIndex": 2,
-   "explanation": "D. immitis depende de Wolbachia; antibióticos como la doxiciclina atacan al simbionte y complementan el tratamiento adulticida.",
+   "explanation": "D. immitis depende de su simbionte obligado Wolbachia; antibióticos como la doxiciclina lo atacan y complementan (no reemplazan) el tratamiento adulticida con melarsomina.",
    "shortExplanation": "Ataca a Wolbachia.",
    "pmid": "21922235",
    "verification": {
@@ -71925,10 +71925,10 @@
    "difficulty": "curious",
    "prompt": "How is babesiosis transmitted?",
    "options": [
-    "By mosquitoes",
+    "By mosquito bites",
     "By contaminated food",
-    "By sexual contact",
-    "By ticks"
+    "By sandfly bites",
+    "By tick bites"
    ],
    "correctOptionIndex": 3,
    "explanation": "Babesiosis is a tick-borne protozoan disease of humans and animals.",
@@ -71949,10 +71949,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo se transmite la babesiosis?",
    "options": [
-    "Por mosquitos",
+    "Por picaduras de mosquito",
     "Por alimentos contaminados",
-    "Por contacto sexual",
-    "Por garrapatas"
+    "Por picaduras de flebótomo",
+    "Por picaduras de garrapata"
    ],
    "correctOptionIndex": 3,
    "explanation": "La babesiosis es una enfermedad protozoaria transmitida por garrapatas que afecta a humanos y animales.",
@@ -71974,9 +71974,9 @@
    "prompt": "Which findings characterize canine babesiosis?",
    "options": [
     "Hemolytic anemia, jaundice and hemoglobinuria",
-    "Coughing and nasal discharge",
-    "Hair loss and itching",
-    "Lameness only"
+    "Cough, nasal discharge and bronchopneumonia",
+    "Alopecia, pruritus and crusting dermatitis",
+    "Vomiting, bloody diarrhea and leukopenia"
    ],
    "correctOptionIndex": 0,
    "explanation": "Babesia destroys red cells, causing hemolytic anemia, icterus and red-brown urine (hemoglobinuria).",
@@ -71998,9 +71998,9 @@
    "prompt": "¿Qué hallazgos caracterizan la babesiosis canina?",
    "options": [
     "Anemia hemolítica, ictericia y hemoglobinuria",
-    "Tos y secreción nasal",
-    "Pérdida de pelo y prurito",
-    "Solo cojera"
+    "Tos, secreción nasal y bronconeumonía",
+    "Alopecia, prurito y dermatitis costrosa",
+    "Vómitos, diarrea sanguinolenta y leucopenia"
    ],
    "correctOptionIndex": 0,
    "explanation": "Babesia destruye glóbulos rojos y causa anemia hemolítica, ictericia y orina rojiza (hemoglobinuria).",
@@ -72021,10 +72021,10 @@
    "difficulty": "explorer",
    "prompt": "What is Haemonchus contortus?",
    "options": [
-    "A tick of cattle",
+    "A one-host tick feeding on cattle",
     "A blood-feeding nematode of sheep and goats",
-    "A virus of pigs",
-    "A fungus of horses' hooves"
+    "A tapeworm of the pig's small intestine",
+    "A liver fluke infecting horses and donkeys"
    ],
    "correctOptionIndex": 1,
    "explanation": "H. contortus is a blood-feeding stomach worm of small ruminants, a major cause of anemia and death.",
@@ -72045,10 +72045,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué es Haemonchus contortus?",
    "options": [
-    "Una garrapata bovina",
+    "Una garrapata de un huésped del bovino",
     "Un nematodo hematófago de ovinos y caprinos",
-    "Un virus porcino",
-    "Un hongo de los cascos"
+    "Una tenia del intestino delgado del cerdo",
+    "Una duela hepática de caballos y burros"
    ],
    "correctOptionIndex": 1,
    "explanation": "H. contortus es un nematodo hematófago del abomaso de pequeños rumiantes, causa importante de anemia y muerte.",
@@ -72069,10 +72069,10 @@
    "difficulty": "researcher",
    "prompt": "What does the FAMACHA system assess in sheep and goats?",
    "options": [
-    "Body weight",
-    "Wool quality",
-    "Conjunctival color as an indicator of anemia from Haemonchus",
-    "Hoof health"
+    "Body condition score as a sign of malnutrition",
+    "Fecal egg counts of gastrointestinal worms",
+    "Conjunctival color as a sign of Haemonchus anemia",
+    "Hoof scoring to detect footrot lesions"
    ],
    "correctOptionIndex": 2,
    "explanation": "FAMACHA scores eyelid conjunctival color to detect anemia and treat only the animals that need it, slowing resistance.",
@@ -72093,10 +72093,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué evalúa el sistema FAMACHA en ovinos y caprinos?",
    "options": [
-    "El peso corporal",
-    "La calidad de la lana",
-    "El color de la conjuntiva como indicador de anemia por Haemonchus",
-    "La salud de las pezuñas"
+    "La condición corporal como indicador de desnutrición",
+    "El recuento de huevos de nematodos en heces",
+    "El color conjuntival, signo de anemia por Haemonchus",
+    "La puntuación de pezuñas para detectar pedero"
    ],
    "correctOptionIndex": 2,
    "explanation": "FAMACHA puntúa el color de la conjuntiva para detectar anemia y tratar solo a los animales que lo necesitan, frenando la resistencia.",
@@ -72117,9 +72117,9 @@
    "difficulty": "researcher",
    "prompt": "Why is relying only on anthelmintics to control livestock nematodes unsustainable?",
    "options": [
-    "Anthelmintics are too expensive",
-    "They are banned worldwide",
-    "Nematodes never become resistant",
+    "Anthelmintics destroy the rumen's microbial flora",
+    "Most anthelmintics are now banned for livestock",
+    "Dosing makes pasture larvae more infective",
     "Nematode biology makes resistance inevitable"
    ],
    "correctOptionIndex": 3,
@@ -72141,9 +72141,9 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué depender solo de antihelmínticos para controlar nematodos del ganado no es sostenible?",
    "options": [
-    "Son demasiado caros",
-    "Están prohibidos en todo el mundo",
-    "Los nematodos nunca se vuelven resistentes",
+    "Los antihelmínticos destruyen la flora del rumen",
+    "La mayoría de ellos están prohibidos en el ganado",
+    "Las dosis vuelven más infectivas a las larvas del pasto",
     "La biología de los nematodos hace inevitable la resistencia"
    ],
    "correctOptionIndex": 3,
@@ -72166,9 +72166,9 @@
    "prompt": "Neospora caninum is an important cause of what in cattle?",
    "options": [
     "Abortion and reproductive failure",
-    "Mastitis",
-    "Foot rot",
-    "Pneumonia in calves only"
+    "Clinical mastitis in dairy cows",
+    "Foot rot and lameness in adults",
+    "Bronchopneumonia in young calves"
    ],
    "correctOptionIndex": 0,
    "explanation": "Neosporosis is a leading transmissible cause of abortion and reproductive failure in cattle.",
@@ -72190,9 +72190,9 @@
    "prompt": "¿De qué es causa importante Neospora caninum en bovinos?",
    "options": [
     "Abortos y fallas reproductivas",
-    "Mastitis",
-    "Pietín",
-    "Solo neumonía en terneros"
+    "Mastitis clínica en vacas lecheras",
+    "Pietín y cojera en adultos",
+    "Bronconeumonía en terneros jóvenes"
    ],
    "correctOptionIndex": 0,
    "explanation": "La neosporosis es una de las principales causas transmisibles de aborto y fallas reproductivas en bovinos.",
@@ -72261,10 +72261,10 @@
    "difficulty": "researcher",
    "prompt": "How is bovine trichomoniasis (Tritrichomonas foetus) transmitted?",
    "options": [
-    "By ticks",
-    "By flies",
+    "By ticks feeding on the cows",
+    "By biting flies around the eyes",
     "Sexually, during breeding",
-    "Through drinking water"
+    "Through contaminated drinking water"
    ],
    "correctOptionIndex": 2,
    "explanation": "Bovine trichomoniasis is a sexually transmitted protozoan disease; testing bulls is the core of control.",
@@ -72285,10 +72285,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo se transmite la tricomoniasis bovina (Tritrichomonas foetus)?",
    "options": [
-    "Por garrapatas",
-    "Por moscas",
-    "Por vía sexual, en el servicio",
-    "Por el agua de bebida"
+    "Por garrapatas que pican a las vacas",
+    "Por moscas que se alimentan en los ojos",
+    "Por vía sexual, durante el servicio",
+    "Por agua de bebida contaminada"
    ],
    "correctOptionIndex": 2,
    "explanation": "La tricomoniasis bovina es una protozoosis de transmisión sexual; controlar a los toros es la base del control.",
@@ -72336,11 +72336,11 @@
     "Vacas lecheras",
     "Cerdos",
     "Caballos",
-    "Pollos y gallinas"
+    "Pollos"
    ],
    "correctOptionIndex": 3,
    "explanation": "El virus de la bronquitis infecciosa, un gammacoronavirus, causa enfermedad respiratoria y urogenital en aves.",
-   "shortExplanation": "Aves.",
+   "shortExplanation": "Pollos.",
    "pmid": "33809420",
    "verification": {
     "status": "verified",
@@ -72358,9 +72358,9 @@
    "prompt": "How are clostridial diseases of sheep and goats mainly prevented?",
    "options": [
     "Vaccination against their toxins",
-    "Antibiotics in drinking water",
-    "Keeping animals indoors",
-    "Removing all soil"
+    "Antibiotics in the drinking water",
+    "Housing animals off contaminated pasture",
+    "Routine deworming of the whole flock"
    ],
    "correctOptionIndex": 0,
    "explanation": "Clostridial disease is toxin-mediated, so immunoprophylaxis (toxoid vaccines) is the main control strategy.",
@@ -72382,9 +72382,9 @@
    "prompt": "¿Cómo se previenen principalmente las clostridiosis de ovinos y caprinos?",
    "options": [
     "Vacunando contra sus toxinas",
-    "Antibióticos en el agua",
-    "Manteniendo los animales encerrados",
-    "Eliminando el suelo"
+    "Con antibióticos en el agua de bebida",
+    "Alojando a los animales fuera del pasto",
+    "Desparasitando a todo el rebaño"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las clostridiosis están mediadas por toxinas, por eso la inmunoprofilaxis (vacunas con toxoides) es la principal medida.",
@@ -72405,13 +72405,13 @@
    "difficulty": "explorer",
    "prompt": "What does rabbit hemorrhagic disease virus 2 cause?",
    "options": [
-    "Mild skin lesions",
-    "Chronic diarrhea",
-    "Highly contagious disease with liver necrosis and disseminated coagulation",
-    "Blindness"
+    "Papillomas and crusting lesions on the skin",
+    "Chronic mucoid diarrhea in weaned kits",
+    "Liver necrosis and disseminated coagulation",
+    "Swollen eyelids and blindness from myxomas"
    ],
    "correctOptionIndex": 2,
-   "explanation": "RHDV2 (a lagovirus) causes hepatic necrosis and DIC in rabbits and hares; it has spread almost globally since 2010.",
+   "explanation": "RHDV2 (a lagovirus) causes a highly contagious disease with hepatic necrosis and DIC in rabbits and hares; it has spread almost globally since 2010.",
    "shortExplanation": "Liver necrosis and DIC.",
    "pmid": "39344909",
    "verification": {
@@ -72429,13 +72429,13 @@
    "difficulty": "explorer",
    "prompt": "¿Qué causa el virus de la enfermedad hemorrágica del conejo 2?",
    "options": [
-    "Lesiones leves de piel",
-    "Diarrea crónica",
-    "Una enfermedad muy contagiosa con necrosis hepática y coagulación intravascular diseminada",
-    "Ceguera"
+    "Papilomas y lesiones costrosas en la piel",
+    "Diarrea mucoide crónica en gazapos destetados",
+    "Necrosis hepática y coagulación diseminada",
+    "Párpados hinchados y ceguera por mixomas"
    ],
    "correctOptionIndex": 2,
-   "explanation": "El RHDV2 (lagovirus) causa necrosis hepática y CID en conejos y liebres; se diseminó casi a todo el mundo desde 2010.",
+   "explanation": "El RHDV2 (lagovirus) causa una enfermedad muy contagiosa con necrosis hepática y CID en conejos y liebres; se diseminó casi a todo el mundo desde 2010.",
    "shortExplanation": "Necrosis hepática y CID.",
    "pmid": "39344909",
    "verification": {
@@ -72453,10 +72453,10 @@
    "difficulty": "expert",
    "prompt": "Why has necrotic enteritis (Clostridium perfringens) in chickens increased in recent years?",
    "options": [
-    "New virulent viruses",
-    "Higher temperatures only",
-    "Use of more antibiotics",
-    "Withdrawal of in-feed antibiotic growth promoters with anticlostridial activity"
+    "Emergence of new virulent avian reoviruses",
+    "Higher stocking temperatures in broiler houses",
+    "Heavier use of in-feed antibiotics",
+    "Withdrawal of antibiotic growth promoters"
    ],
    "correctOptionIndex": 3,
    "explanation": "Removing antibiotic growth promoters, which had anticlostridial activity, increased necrotic enteritis risk; coccidiosis predisposes to it.",
@@ -72477,10 +72477,10 @@
    "difficulty": "expert",
    "prompt": "¿Por qué aumentó en los últimos años la enteritis necrótica (Clostridium perfringens) en pollos?",
    "options": [
-    "Nuevos virus virulentos",
-    "Solo temperaturas más altas",
-    "Uso de más antibióticos",
-    "El retiro de antibióticos promotores de crecimiento con actividad anticlostridial"
+    "Aparición de nuevos reovirus aviares virulentos",
+    "Temperaturas más altas en los galpones",
+    "Mayor uso de antibióticos en el alimento",
+    "Retiro de antibióticos promotores de crecimiento"
    ],
    "correctOptionIndex": 3,
    "explanation": "Retirar los promotores de crecimiento antibióticos, que tenían actividad anticlostridial, aumentó el riesgo de enteritis necrótica; la coccidiosis predispone.",
@@ -72501,10 +72501,10 @@
    "difficulty": "curious",
    "prompt": "Who is at risk of orf (contagious ecthyma) infection?",
    "options": [
+    "Vets who mostly treat dogs and cats",
     "People who handle sheep and goats",
-    "Only veterinarians working with dogs",
-    "Fish farmers",
-    "Beekeepers"
+    "Workers on fish and shrimp farms",
+    "Beekeepers tending their hives"
    ],
    "correctOptionIndex": 1,
    "explanation": "Orf is a parapoxvirus zoonosis acquired by people handling sheep and goats; it usually resolves in 3–6 weeks.",
@@ -72525,10 +72525,10 @@
    "difficulty": "curious",
    "prompt": "¿Quiénes corren riesgo de infectarse con orf (ectima contagioso)?",
    "options": [
+    "Veterinarios que atienden perros y gatos",
     "Quienes manipulan ovejas y cabras",
-    "Solo veterinarios de perros",
-    "Piscicultores",
-    "Apicultores"
+    "Trabajadores de granjas de peces",
+    "Apicultores que cuidan colmenas"
    ],
    "correctOptionIndex": 1,
    "explanation": "El orf es una zoonosis por parapoxvirus que adquieren quienes manipulan ovinos y caprinos; suele resolverse en 3–6 semanas.",
@@ -72575,7 +72575,7 @@
    "options": [
     "Erisipela porcina",
     "Mastitis bovina",
-    "Moquillo canino",
+    "Moquillo del perro",
     "Adenitis equina"
    ],
    "correctOptionIndex": 0,
@@ -72597,10 +72597,10 @@
    "difficulty": "researcher",
    "prompt": "How do humans usually acquire Erysipelothrix rhusiopathiae?",
    "options": [
-    "Through mosquito bites",
-    "From contaminated drinking water",
-    "From other people by droplets",
-    "Occupationally, by contact with infected animals, their products or soil"
+    "Through bites of infected mosquitoes",
+    "From drinking contaminated well water",
+    "From other people through respiratory droplets",
+    "By handling infected animals or their products"
    ],
    "correctOptionIndex": 3,
    "explanation": "Human infection (erysipeloid) is occupational — butchers, fish handlers, farmers — after contact with animals or their products.",
@@ -72621,10 +72621,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo adquieren habitualmente los humanos Erysipelothrix rhusiopathiae?",
    "options": [
-    "Por picaduras de mosquito",
-    "Por agua contaminada",
-    "Por gotitas de otras personas",
-    "Laboralmente, por contacto con animales infectados, sus productos o el suelo"
+    "Por picaduras de mosquitos infectados",
+    "Por beber agua de pozo contaminada",
+    "De otras personas a través de gotitas respiratorias",
+    "Al manipular animales infectados o sus productos"
    ],
    "correctOptionIndex": 3,
    "explanation": "La infección humana (erisipeloide) es ocupacional: carniceros, pescadores, productores, tras contacto con animales o sus productos.",
@@ -72646,9 +72646,9 @@
    "prompt": "What does the 'One Health' approach combine?",
    "options": [
     "Human, animal and environmental health",
-    "Only human hospitals",
-    "Only veterinary clinics",
-    "Only food production"
+    "Hospital, primary and community care",
+    "Food safety, trade and animal welfare law",
+    "Clinical, laboratory and genomic medicine"
    ],
    "correctOptionIndex": 0,
    "explanation": "One Health links human, animal and environmental health to tackle problems such as zoonoses.",
@@ -72669,10 +72669,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué combina el enfoque 'Una Salud' (One Health)?",
    "options": [
-    "La salud humana, animal y ambiental",
-    "Solo hospitales humanos",
-    "Solo clínicas veterinarias",
-    "Solo la producción de alimentos"
+    "La salud humana, la animal y la ambiental",
+    "La atención hospitalaria, primaria y comunitaria",
+    "La inocuidad, el comercio y el bienestar animal",
+    "La medicina clínica, de laboratorio y genómica"
    ],
    "correctOptionIndex": 0,
    "explanation": "Una Salud vincula la salud humana, animal y ambiental para abordar problemas como las zoonosis.",
@@ -72693,10 +72693,10 @@
    "difficulty": "curious",
    "prompt": "Since the 1950s, antimicrobials have been widely used in food animals for…",
    "options": [
-    "Coloring meat",
-    "Preserving eggs",
+    "Carcass preservation",
+    "Estrus synchronization",
     "Growth promotion",
-    "Making milk sweeter"
+    "Meat tenderizing"
    ],
    "correctOptionIndex": 2,
    "explanation": "Antimicrobials were used as growth promoters; resistance that emerges can reach humans via food and contact.",
@@ -72717,10 +72717,10 @@
    "difficulty": "curious",
    "prompt": "Desde los años 50, los antimicrobianos se usaron mucho en animales de producción para…",
    "options": [
-    "Colorear la carne",
-    "Conservar huevos",
+    "Conservar las canales",
+    "Sincronizar el celo",
     "Promover el crecimiento",
-    "Endulzar la leche"
+    "Ablandar la carne"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los antimicrobianos se usaron como promotores de crecimiento; la resistencia que surge puede llegar al ser humano por alimentos y contacto.",
@@ -72741,10 +72741,10 @@
    "difficulty": "explorer",
    "prompt": "How does antimicrobial resistance from animal production reach people?",
    "options": [
-    "Only through the air",
+    "Through antibiotic residues in pasteurized milk",
     "Through the food chain and direct contact",
-    "It never reaches people",
-    "Only through vaccines"
+    "Through live vaccines given to livestock",
+    "Through mosquitoes biting livestock and people"
    ],
    "correctOptionIndex": 1,
    "explanation": "Resistance arising on farms spreads to humans via food and direct contact — a One Health problem.",
@@ -72765,10 +72765,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo llega a las personas la resistencia antimicrobiana de la producción animal?",
    "options": [
-    "Solo por el aire",
+    "Por residuos antibióticos en la leche pasteurizada",
     "Por la cadena alimentaria y el contacto directo",
-    "Nunca llega",
-    "Solo por vacunas"
+    "Por vacunas vivas aplicadas al ganado",
+    "Por mosquitos que pican al ganado y a personas"
    ],
    "correctOptionIndex": 1,
    "explanation": "La resistencia surgida en granjas pasa al ser humano por los alimentos y el contacto directo: un problema de Una Salud.",
@@ -77013,10 +77013,10 @@
    "difficulty": "beginner",
    "prompt": "What is the distinctive feature of the ruminant digestive tract?",
    "options": [
-    "A very long small intestine only",
+    "Enzymatic digestion in a long small intestine",
     "Microbial fermentation of feed in the rumen",
-    "Absence of a stomach",
-    "Digestion only by the animal's own enzymes"
+    "Fiber fermentation mainly in cecum and colon",
+    "Acid digestion in a single glandular stomach"
    ],
    "correctOptionIndex": 1,
    "explanation": "Ruminants depend on rumen microbes that ferment feed; the host derives energy and nutrients from this activity.",
@@ -77037,10 +77037,10 @@
    "difficulty": "beginner",
    "prompt": "¿Cuál es el rasgo distintivo del aparato digestivo de los rumiantes?",
    "options": [
-    "Solo un intestino delgado muy largo",
+    "Digestión enzimática en un intestino delgado largo",
     "La fermentación microbiana del alimento en el rumen",
-    "La ausencia de estómago",
-    "Digerir solo con enzimas propias"
+    "Fermentación de fibra sobre todo en ciego y colon",
+    "Digestión ácida en un único estómago glandular"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los rumiantes dependen de los microbios del rumen que fermentan el alimento; el animal obtiene energía y nutrientes de esa actividad.",
@@ -77061,10 +77061,10 @@
    "difficulty": "curious",
    "prompt": "Why are rumen microbes essential to cattle?",
    "options": [
-    "They cause disease only",
-    "They produce milk directly",
-    "They regulate body temperature",
-    "The animal obtains energy and nutrients from their activity"
+    "They produce the cow's own digestive enzymes",
+    "They detoxify compounds circulating in blood",
+    "They regulate the cow's core body temperature",
+    "They supply energy and nutrients by fermentation"
    ],
    "correctOptionIndex": 3,
    "explanation": "Rumen microorganisms are essential for survival: their fermentation supplies the host's energy and nutrients.",
@@ -77085,10 +77085,10 @@
    "difficulty": "curious",
    "prompt": "¿Por qué los microbios del rumen son esenciales para el ganado?",
    "options": [
-    "Solo causan enfermedad",
-    "Producen leche directamente",
-    "Regulan la temperatura",
-    "El animal obtiene energía y nutrientes de su actividad"
+    "Producen las enzimas digestivas propias de la vaca",
+    "Eliminan toxinas que circulan en la sangre",
+    "Regulan la temperatura corporal de la vaca",
+    "Aportan energía y nutrientes mediante la fermentación"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los microorganismos ruminales son esenciales: su fermentación aporta energía y nutrientes al animal.",
@@ -77110,12 +77110,12 @@
    "prompt": "When does microbial colonization of the calf rumen begin?",
    "options": [
     "Immediately after birth",
-    "Only after weaning",
-    "At one year of age",
-    "Only before birth, in utero"
+    "Once weaning is complete",
+    "Around six months of age",
+    "When rumination first starts"
    ],
    "correctOptionIndex": 0,
-   "explanation": "The rumen is colonized right after birth, which opens a window for early-life interventions with lasting effects.",
+   "explanation": "The rumen is colonized right after birth, weeks before rumination begins, which opens a window for early-life interventions with lasting effects.",
    "shortExplanation": "At birth.",
    "pmid": "26528276",
    "verification": {
@@ -77133,13 +77133,13 @@
    "difficulty": "explorer",
    "prompt": "¿Cuándo comienza la colonización microbiana del rumen del ternero?",
    "options": [
-    "Inmediatamente después del nacimiento",
-    "Solo después del destete",
-    "Al año de edad",
-    "Solo antes de nacer, en el útero"
+    "Justo después de nacer",
+    "Una vez completado el destete",
+    "Hacia los seis meses de edad",
+    "Cuando empieza a rumiar"
    ],
    "correctOptionIndex": 0,
-   "explanation": "El rumen se coloniza enseguida tras el nacimiento, lo que abre una ventana para intervenciones tempranas con efectos duraderos.",
+   "explanation": "El rumen se coloniza enseguida tras el nacimiento, semanas antes de que empiece la rumia, lo que abre una ventana para intervenciones tempranas con efectos duraderos.",
    "shortExplanation": "Al nacer.",
    "pmid": "26528276",
    "verification": {
@@ -77157,10 +77157,10 @@
    "difficulty": "researcher",
    "prompt": "During rumen development, which dietary transition requires special care?",
    "options": [
-    "From pasture to hay",
-    "From water to milk",
+    "From fresh pasture to dry hay",
+    "From colostrum to whole milk",
     "From liquid (milk) to solid feed",
-    "From grain to silage in adults"
+    "From grass silage to maize silage"
    ],
    "correctOptionIndex": 2,
    "explanation": "Rumen epithelium and musculature develop differently depending on diet, so the milk-to-solid transition needs care.",
@@ -77181,10 +77181,10 @@
    "difficulty": "researcher",
    "prompt": "Durante el desarrollo del rumen, ¿qué transición alimentaria requiere cuidado especial?",
    "options": [
-    "De pastura a heno",
-    "De agua a leche",
-    "De alimento líquido (leche) a sólido",
-    "De grano a silo en adultos"
+    "De pastura fresca a heno seco",
+    "De calostro a leche entera",
+    "De la leche al alimento sólido",
+    "De silo de pasto a silo de maíz"
    ],
    "correctOptionIndex": 2,
    "explanation": "El epitelio y la musculatura del rumen se desarrollan distinto según la dieta, por eso la transición de leche a sólidos requiere cuidado.",
@@ -77205,13 +77205,13 @@
    "difficulty": "curious",
    "prompt": "What triggers ruminal acidosis in cattle?",
    "options": [
-    "Drinking too much water",
-    "Eating excessive highly fermentable carbohydrates without adaptation",
-    "Grazing on dry grass",
-    "Cold weather"
+    "Prolonged water deprivation in hot weather",
+    "Abrupt excess of fermentable carbohydrates",
+    "Abrupt excess of mature, fibrous forage",
+    "Excess dietary protein that yields ammonia"
    ],
    "correctOptionIndex": 1,
-   "explanation": "Sudden excess of rapidly fermentable carbohydrates (e.g., grain) disrupts fermentation and drops rumen pH.",
+   "explanation": "A sudden excess of rapidly fermentable carbohydrates (e.g., grain) without prior adaptation disrupts fermentation and drops rumen pH.",
    "shortExplanation": "Too much grain, too fast.",
    "pmid": "32761212",
    "verification": {
@@ -77229,13 +77229,13 @@
    "difficulty": "curious",
    "prompt": "¿Qué desencadena la acidosis ruminal en bovinos?",
    "options": [
-    "Tomar mucha agua",
-    "Consumir en exceso carbohidratos muy fermentables sin adaptación",
-    "Pastorear pasto seco",
-    "El frío"
+    "Privación prolongada de agua con calor",
+    "Exceso brusco de carbohidratos fermentables",
+    "Exceso brusco de forraje maduro y fibroso",
+    "Exceso de proteína que genera amoníaco"
    ],
    "correctOptionIndex": 1,
-   "explanation": "Un exceso repentino de carbohidratos de fermentación rápida (por ejemplo, grano) altera la fermentación y baja el pH ruminal.",
+   "explanation": "Un exceso repentino de carbohidratos de fermentación rápida (por ejemplo, grano) sin adaptación previa altera la fermentación y baja el pH ruminal.",
    "shortExplanation": "Mucho grano, muy rápido.",
    "pmid": "32761212",
    "verification": {
@@ -77253,13 +77253,13 @@
    "difficulty": "explorer",
    "prompt": "Why does rumen pH fall during acidosis?",
    "options": [
-    "Because of excess saliva",
-    "Because of bicarbonate accumulation",
-    "Because of ammonia production",
-    "Because short-chain fatty acids and lactate accumulate"
+    "Salivary buffer secretion increases sharply",
+    "Bicarbonate builds up in the rumen fluid",
+    "Ammonia from protein breakdown builds up",
+    "Short-chain fatty acids and lactate build up"
    ],
    "correctOptionIndex": 3,
-   "explanation": "Rapid fermentation accumulates SCFAs and lactate, lowering pH and damaging the rumen epithelium.",
+   "explanation": "Rapid fermentation accumulates SCFAs and lactate, lowering pH (saliva, bicarbonate and ammonia would buffer or raise it) and damaging the rumen epithelium.",
    "shortExplanation": "SCFAs and lactate.",
    "pmid": "32761212",
    "verification": {
@@ -77277,13 +77277,13 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué baja el pH ruminal en la acidosis?",
    "options": [
-    "Por exceso de saliva",
-    "Por acumulación de bicarbonato",
-    "Por producción de amoníaco",
-    "Porque se acumulan ácidos grasos de cadena corta y lactato"
+    "Aumenta mucho la secreción de saliva tampón",
+    "Se acumula bicarbonato en el líquido ruminal",
+    "Se acumula amoníaco por degradación proteica",
+    "Se acumulan ácidos grasos volátiles y lactato"
    ],
    "correctOptionIndex": 3,
-   "explanation": "La fermentación rápida acumula AGCC y lactato, baja el pH y daña el epitelio ruminal.",
+   "explanation": "La fermentación rápida acumula ácidos grasos de cadena corta (volátiles) y lactato, baja el pH (la saliva, el bicarbonato y el amoníaco lo amortiguan o elevan) y daña el epitelio ruminal.",
    "shortExplanation": "AGCC y lactato.",
    "pmid": "32761212",
    "verification": {
@@ -77302,12 +77302,12 @@
    "prompt": "Why does LPS (endotoxin) increase in rumen fluid during acidosis?",
    "options": [
     "Gram-negative bacteria lyse and release LPS",
-    "Protozoa produce LPS",
-    "The cow's liver secretes LPS",
-    "Fungi multiply"
+    "Protozoa engulf bacteria and secrete LPS",
+    "The cow's liver secretes LPS into the rumen",
+    "Lysed Gram-positive bacteria shed their LPS"
    ],
    "correctOptionIndex": 0,
-   "explanation": "As pH drops, Gram-negative bacteria decrease and lyse, releasing proinflammatory LPS that may cross a damaged epithelium.",
+   "explanation": "As pH drops, Gram-negative bacteria decrease and lyse, releasing proinflammatory LPS (a component only of Gram-negative walls) that may cross a damaged epithelium.",
    "shortExplanation": "Gram-negative lysis.",
    "pmid": "32761212",
    "verification": {
@@ -77326,12 +77326,12 @@
    "prompt": "¿Por qué aumenta el LPS (endotoxina) en el líquido ruminal durante la acidosis?",
    "options": [
     "Las bacterias Gram negativas se lisan y liberan LPS",
-    "Los protozoos producen LPS",
-    "El hígado de la vaca secreta LPS",
-    "Se multiplican los hongos"
+    "Los protozoos fagocitan bacterias y secretan LPS",
+    "El hígado de la vaca secreta LPS hacia el rumen",
+    "Las bacterias Gram positivas lisadas liberan LPS"
    ],
    "correctOptionIndex": 0,
-   "explanation": "Al bajar el pH, las Gram negativas disminuyen y se lisan, liberando LPS proinflamatorio que puede atravesar un epitelio dañado.",
+   "explanation": "Al bajar el pH, las Gram negativas disminuyen y se lisan, liberando LPS proinflamatorio (exclusivo de la pared de las Gram negativas) que puede atravesar un epitelio dañado.",
    "shortExplanation": "Lisis de Gram negativas.",
    "pmid": "32761212",
    "verification": {
@@ -77349,13 +77349,13 @@
    "difficulty": "explorer",
    "prompt": "What is rumen transfaunation?",
    "options": [
-    "Surgical removal of the rumen",
-    "Giving antibiotics into the rumen",
-    "Transferring rumen contents from a healthy donor to a sick animal",
-    "Vaccinating calves orally"
+    "Surgically emptying an overloaded rumen",
+    "Infusing antibiotics directly into the rumen",
+    "Transferring rumen fluid from a healthy donor",
+    "Dosing an oral buffer to correct rumen pH"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Transfaunation transfers rumen fluid/cud from a healthy donor to restore fermentation, e.g., in simple indigestion.",
+   "explanation": "Transfaunation transfers rumen fluid/cud from a healthy donor to a sick recipient to restore fermentation, e.g., in simple indigestion.",
    "shortExplanation": "Rumen fluid transfer.",
    "pmid": "25262872",
    "verification": {
@@ -77373,13 +77373,13 @@
    "difficulty": "explorer",
    "prompt": "¿Qué es la transfaunación ruminal?",
    "options": [
-    "La extirpación quirúrgica del rumen",
-    "Poner antibióticos en el rumen",
-    "Transferir contenido ruminal de un donante sano a un animal enfermo",
-    "Vacunar terneros por boca"
+    "Vaciar quirúrgicamente un rumen sobrecargado",
+    "Infundir antibióticos directamente en el rumen",
+    "Transferir líquido ruminal de un donante sano",
+    "Dar un tampón oral para corregir el pH ruminal"
    ],
    "correctOptionIndex": 2,
-   "explanation": "La transfaunación transfiere líquido ruminal de un donante sano para restablecer la fermentación, por ejemplo en indigestiones simples.",
+   "explanation": "La transfaunación transfiere líquido ruminal de un donante sano a un animal enfermo para restablecer la fermentación, por ejemplo en indigestiones simples.",
    "shortExplanation": "Transferencia de líquido ruminal.",
    "pmid": "25262872",
    "verification": {
@@ -77398,9 +77398,9 @@
    "prompt": "Which human therapy is conceptually similar to rumen transfaunation?",
    "options": [
     "Fecal microbiota transplantation",
-    "Blood transfusion",
-    "Kidney dialysis",
-    "Insulin therapy"
+    "Broad-spectrum antibiotic therapy",
+    "Pancreatic enzyme replacement",
+    "Oral rehydration therapy"
    ],
    "correctOptionIndex": 0,
    "explanation": "Both restore a healthy microbial community in the gut; FMT is used for digestive disorders in humans.",
@@ -77422,9 +77422,9 @@
    "prompt": "¿Qué terapia humana es conceptualmente similar a la transfaunación ruminal?",
    "options": [
     "El trasplante de microbiota fecal",
-    "La transfusión de sangre",
-    "La diálisis",
-    "La insulina"
+    "La terapia antibiótica de amplio espectro",
+    "El reemplazo de enzimas pancreáticas",
+    "La terapia de rehidratación oral"
    ],
    "correctOptionIndex": 0,
    "explanation": "Ambas restablecen una comunidad microbiana sana en el intestino; el TMF se usa en trastornos digestivos humanos.",
@@ -77446,9 +77446,9 @@
    "prompt": "In this meta-analysis, rumination time in dairy cows was most related to:",
    "options": [
     "Body temperature",
-    "Milk fat",
-    "Hoof growth",
-    "Coat color"
+    "Milk fat yield",
+    "Hoof growth rate",
+    "Somatic cell count"
    ],
    "correctOptionIndex": 1,
    "explanation": "Rumination increased with milk fat yield and percent, milk yield, intake and rumen pH, but explained limited variation.",
@@ -77472,7 +77472,7 @@
     "La temperatura corporal",
     "La grasa de la leche",
     "El crecimiento del casco",
-    "El color del pelaje"
+    "Las células somáticas"
    ],
    "correctOptionIndex": 1,
    "explanation": "La rumia aumentó con la grasa láctea, la producción, el consumo y el pH ruminal, aunque explicó poca variación.",
@@ -77496,7 +77496,7 @@
     "About 30 minutes",
     "About 2 hours",
     "About 20 hours",
-    "About 7 hours (≈444 min)"
+    "About 7 hours"
    ],
    "correctOptionIndex": 3,
    "explanation": "Across studies, rumination averaged about 444 min/day in roughly 14 bouts.",
@@ -77520,7 +77520,7 @@
     "Unos 30 minutos",
     "Unas 2 horas",
     "Unas 20 horas",
-    "Unas 7 horas (≈444 min)"
+    "Unas 7 horas"
    ],
    "correctOptionIndex": 3,
    "explanation": "En los estudios, la rumia promedió unos 444 min/día en unos 14 episodios.",
@@ -77541,13 +77541,13 @@
    "difficulty": "curious",
    "prompt": "Why is the transition period around calving challenging for dairy cows?",
    "options": [
-    "They stop eating permanently",
-    "They lose their rumen microbes",
-    "Energy, protein and mineral needs rise several-fold within days",
-    "Their body temperature drops"
+    "Their nutrient needs fall as gestation ends",
+    "Their rumen microbes die off at calving",
+    "Nutrient needs rise several-fold within days",
+    "Their appetite rises well above their needs"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Starting lactation multiplies nutrient requirements within days, often at the expense of other tissues.",
+   "explanation": "Starting lactation multiplies energy, protein and mineral requirements within days, while intake lags, often at the expense of other tissues.",
    "shortExplanation": "Nutrient demand surges.",
    "pmid": "29539306",
    "verification": {
@@ -77565,13 +77565,13 @@
    "difficulty": "curious",
    "prompt": "¿Por qué el período de transición alrededor del parto es un desafío para las vacas lecheras?",
    "options": [
-    "Dejan de comer para siempre",
-    "Pierden sus microbios ruminales",
-    "Sus necesidades de energía, proteína y minerales se multiplican en días",
-    "Baja su temperatura corporal"
+    "Sus necesidades bajan al terminar la gestación",
+    "Sus microbios ruminales mueren al parir",
+    "Sus requerimientos se multiplican en pocos días",
+    "Su apetito sube muy por encima de lo necesario"
    ],
    "correctOptionIndex": 2,
-   "explanation": "El inicio de la lactancia multiplica los requerimientos en pocos días, muchas veces a costa de otros tejidos.",
+   "explanation": "El inicio de la lactancia multiplica los requerimientos de energía, proteína y minerales en pocos días, mientras el consumo se rezaga, muchas veces a costa de otros tejidos.",
    "shortExplanation": "Sube la demanda de nutrientes.",
    "pmid": "29539306",
    "verification": {
@@ -77589,10 +77589,10 @@
    "difficulty": "explorer",
    "prompt": "Why do high-producing dairy cows experience negative energy balance after calving?",
    "options": [
-    "Milk yield has increased without an adequate increase in feed intake",
-    "They exercise too much",
-    "They lose water",
-    "They produce too much insulin"
+    "Milk yield outpaces their dry matter intake",
+    "Rumen fermentation stops after calving",
+    "They secrete excess insulin after calving",
+    "They lose energy through heavy sweating"
    ],
    "correctOptionIndex": 0,
    "explanation": "Milk yield rises faster than dry matter intake, so cows mobilize body fat, risking fatty liver and ketosis.",
@@ -77613,10 +77613,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué las vacas de alta producción tienen balance energético negativo después del parto?",
    "options": [
-    "La producción de leche aumentó sin un aumento adecuado del consumo",
-    "Hacen demasiado ejercicio",
-    "Pierden agua",
-    "Producen demasiada insulina"
+    "La producción de leche supera al consumo",
+    "La fermentación ruminal se detiene al parir",
+    "Secretan insulina en exceso tras el parto",
+    "Pierden energía por sudoración intensa"
    ],
    "correctOptionIndex": 0,
    "explanation": "La producción crece más que el consumo de materia seca, así que movilizan grasa corporal, con riesgo de hígado graso y cetosis.",
@@ -77637,13 +77637,13 @@
    "difficulty": "researcher",
    "prompt": "What happens when mobilized fatty acids overwhelm the cow's metabolic capacity?",
    "options": [
-    "They are stored in the udder",
-    "They become glucose",
-    "They deposit as triglycerides in the liver (lipidosis)",
-    "They are excreted in milk only"
+    "They build up as glycogen in muscle",
+    "They are converted into blood glucose",
+    "They accumulate as liver triglycerides",
+    "They are excreted unchanged in urine"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Excess NEFAs accumulate as liver triglycerides, impairing liver function and causing ketosis and production diseases.",
+   "explanation": "Excess NEFAs accumulate as liver triglycerides (hepatic lipidosis), impairing liver function and causing ketosis and production diseases.",
    "shortExplanation": "Fatty liver.",
    "pmid": "37835703",
    "verification": {
@@ -77661,13 +77661,13 @@
    "difficulty": "researcher",
    "prompt": "¿Qué ocurre cuando los ácidos grasos movilizados superan la capacidad metabólica de la vaca?",
    "options": [
-    "Se almacenan en la ubre",
-    "Se convierten en glucosa",
-    "Se depositan como triglicéridos en el hígado (lipidosis)",
-    "Se eliminan solo por leche"
+    "Se acumulan como glucógeno en el músculo",
+    "Se convierten en glucosa sanguínea",
+    "Se acumulan como triglicéridos en el hígado",
+    "Se eliminan sin cambios por la orina"
    ],
    "correctOptionIndex": 2,
-   "explanation": "El exceso de AGNE se acumula como triglicéridos hepáticos, altera la función del hígado y causa cetosis y enfermedades de la producción.",
+   "explanation": "El exceso de AGNE se acumula como triglicéridos hepáticos (lipidosis hepática), altera la función del hígado y causa cetosis y enfermedades de la producción.",
    "shortExplanation": "Hígado graso.",
    "pmid": "37835703",
    "verification": {
@@ -77685,10 +77685,10 @@
    "difficulty": "explorer",
    "prompt": "About what share of dairy cows worldwide have subclinical ketosis, according to this meta-analysis?",
    "options": [
-    "Less than 1%",
+    "About 5%",
     "About 23%",
     "About 75%",
-    "All of them"
+    "About 50%"
    ],
    "correctOptionIndex": 1,
    "explanation": "Global subclinical ketosis prevalence was 22.7%, higher in indoor barns.",
@@ -77709,10 +77709,10 @@
    "difficulty": "explorer",
    "prompt": "Según este metaanálisis, ¿qué proporción de vacas lecheras en el mundo tiene cetosis subclínica?",
    "options": [
-    "Menos del 1%",
+    "Alrededor del 5%",
     "Alrededor del 23%",
     "Alrededor del 75%",
-    "Todas"
+    "Alrededor del 50%"
    ],
    "correctOptionIndex": 1,
    "explanation": "La prevalencia mundial de cetosis subclínica fue de 22,7%, mayor en estabulación.",
@@ -77733,9 +77733,9 @@
    "difficulty": "researcher",
    "prompt": "Which metabolite is measured to diagnose subclinical ketosis in cows?",
    "options": [
-    "Glucose",
-    "Urea",
-    "Lactate",
+    "Serum glucose (glycemia)",
+    "Blood urea nitrogen (BUN)",
+    "Serum haptoglobin (Hp)",
     "Beta-hydroxybutyrate (BHB)"
    ],
    "correctOptionIndex": 3,
@@ -77757,9 +77757,9 @@
    "difficulty": "researcher",
    "prompt": "¿Qué metabolito se mide para diagnosticar cetosis subclínica en vacas?",
    "options": [
-    "Glucosa",
-    "Urea",
-    "Lactato",
+    "Glucosa sérica (glucemia)",
+    "Nitrógeno ureico en sangre (BUN)",
+    "Haptoglobina sérica (Hp)",
     "Beta-hidroxibutirato (BHB)"
    ],
    "correctOptionIndex": 3,
@@ -77782,8 +77782,8 @@
    "prompt": "Milk fever in dairy cows is a disorder of which mineral?",
    "options": [
     "Calcium",
-    "Iron",
-    "Sodium",
+    "Potassium",
+    "Selenium",
     "Iodine"
    ],
    "correctOptionIndex": 0,
@@ -77806,8 +77806,8 @@
    "prompt": "La fiebre de la leche en vacas lecheras es un trastorno de ¿qué mineral?",
    "options": [
     "Calcio",
-    "Hierro",
-    "Sodio",
+    "Potasio",
+    "Selenio",
     "Yodo"
    ],
    "correctOptionIndex": 0,
@@ -77829,13 +77829,13 @@
    "difficulty": "researcher",
    "prompt": "How does adjusting the dietary cation-anion difference (DCAD) help prevent milk fever?",
    "options": [
-    "It adds more calcium to milk",
-    "It reduces milk yield",
-    "It improves tissue sensitivity to parathyroid hormone",
-    "It blocks vitamin D"
+    "It lowers the calcium secreted into colostrum",
+    "It induces a mild metabolic alkalosis in the cow",
+    "It boosts tissue response to parathyroid hormone",
+    "It suppresses the renal activation of vitamin D"
    ],
    "correctOptionIndex": 2,
-   "explanation": "A lower DCAD before calving improves tissue responsiveness to PTH, helping mobilize calcium.",
+   "explanation": "A lower DCAD before calving induces mild metabolic acidosis that improves tissue responsiveness to PTH, helping mobilize calcium.",
    "shortExplanation": "PTH sensitivity.",
    "pmid": "18342555",
    "verification": {
@@ -77853,13 +77853,13 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo ayuda ajustar la diferencia catión-anión de la dieta (DCAD) a prevenir la fiebre de la leche?",
    "options": [
-    "Agrega calcio a la leche",
-    "Reduce la producción",
-    "Mejora la sensibilidad de los tejidos a la paratohormona",
-    "Bloquea la vitamina D"
+    "Reduce el calcio secretado en el calostro",
+    "Induce una alcalosis metabólica leve en la vaca",
+    "Mejora la respuesta tisular a la paratohormona",
+    "Suprime la activación renal de la vitamina D"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Una DCAD más baja antes del parto mejora la respuesta de los tejidos a la PTH y ayuda a movilizar calcio.",
+   "explanation": "Una DCAD más baja antes del parto induce una acidosis metabólica leve que mejora la respuesta de los tejidos a la PTH y ayuda a movilizar calcio.",
    "shortExplanation": "Sensibilidad a la PTH.",
    "pmid": "18342555",
    "verification": {
@@ -77877,10 +77877,10 @@
    "difficulty": "expert",
    "prompt": "Which other mineral deficiency is a major risk factor for milk fever?",
    "options": [
-    "Iron deficiency",
-    "Hypomagnesemia (low magnesium)",
-    "Low iodine",
-    "Low copper"
+    "Hypocupremia (low blood copper)",
+    "Hypomagnesemia (low blood magnesium)",
+    "Hypokalemia (low blood potassium)",
+    "Hyponatremia (low blood sodium)"
    ],
    "correctOptionIndex": 1,
    "explanation": "Low magnesium impairs calcium homeostasis and predisposes cows to hypocalcemia.",
@@ -77901,10 +77901,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué otra deficiencia mineral es un factor de riesgo importante de fiebre de la leche?",
    "options": [
-    "Falta de hierro",
-    "Hipomagnesemia (magnesio bajo)",
-    "Yodo bajo",
-    "Cobre bajo"
+    "Hipocupremia (cobre bajo en sangre)",
+    "Hipomagnesemia (magnesio bajo en sangre)",
+    "Hipopotasemia (potasio bajo en sangre)",
+    "Hiponatremia (sodio bajo en sangre)"
    ],
    "correctOptionIndex": 1,
    "explanation": "El magnesio bajo altera la homeostasis del calcio y predispone a la hipocalcemia.",
@@ -77925,13 +77925,13 @@
    "difficulty": "beginner",
    "prompt": "How does a newborn calf get its first antibody protection?",
    "options": [
-    "From vaccines at birth",
-    "By producing antibodies in the womb",
-    "From colostrum, which carries maternal antibodies",
-    "From drinking water"
+    "From a vaccine given right after birth",
+    "From its own antibodies made in utero",
+    "From maternal antibodies in colostrum",
+    "From antibodies crossing the placenta"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Calves are born immunonaive and depend on maternal immunoglobulins and cells absorbed from colostrum.",
+   "explanation": "The bovine placenta blocks antibody transfer, so calves are born immunonaive and depend on maternal immunoglobulins and cells absorbed from colostrum.",
    "shortExplanation": "Colostrum.",
    "pmid": "11692503",
    "verification": {
@@ -77949,13 +77949,13 @@
    "difficulty": "beginner",
    "prompt": "¿Cómo obtiene un ternero recién nacido su primera protección de anticuerpos?",
    "options": [
-    "Por vacunas al nacer",
-    "Fabricando anticuerpos en el útero",
-    "Del calostro, que trae anticuerpos maternos",
-    "Del agua de bebida"
+    "De una vacuna aplicada al nacer",
+    "De anticuerpos propios fabricados en el útero",
+    "De los anticuerpos maternos del calostro",
+    "De anticuerpos que cruzan la placenta"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Los terneros nacen inmunológicamente ingenuos y dependen de las inmunoglobulinas y células maternas que absorben del calostro.",
+   "explanation": "La placenta bovina no deja pasar anticuerpos, así que los terneros nacen inmunológicamente ingenuos y dependen de las inmunoglobulinas y células maternas que absorben del calostro.",
    "shortExplanation": "Calostro.",
    "pmid": "11692503",
    "verification": {
@@ -77974,9 +77974,9 @@
    "prompt": "Which statement best describes the immune system of a newborn calf?",
    "options": [
     "Immunocompetent but immunonaive",
-    "Completely unable to respond",
-    "Already full of memory cells",
-    "Identical to an adult cow"
+    "Immunodeficient and unable to respond",
+    "Rich in memory cells inherited from the dam",
+    "Functionally identical to an adult's"
    ],
    "correctOptionIndex": 0,
    "explanation": "The calf can respond to antigens but has no prior exposure, so passive transfer is critical early on.",
@@ -77997,10 +77997,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué afirmación describe mejor el sistema inmune de un ternero recién nacido?",
    "options": [
-    "Inmunocompetente pero inmunológicamente ingenuo",
-    "Totalmente incapaz de responder",
-    "Ya lleno de células de memoria",
-    "Idéntico al de una vaca adulta"
+    "Inmunocompetente pero sin exposición previa",
+    "Inmunodeficiente e incapaz de responder",
+    "Rico en células de memoria heredadas de la madre",
+    "Funcionalmente idéntico al de un adulto"
    ],
    "correctOptionIndex": 0,
    "explanation": "El ternero puede responder a antígenos pero no tuvo exposición previa, por eso la transferencia pasiva es crítica al inicio.",
@@ -78022,7 +78022,7 @@
    "prompt": "Which blood measurements are commonly used to assess transfer of passive immunity in calves?",
    "options": [
     "Glucose and cholesterol",
-    "Hemoglobin only",
+    "Hemoglobin and hematocrit",
     "Urea and creatinine",
     "IgG and total protein"
    ],
@@ -78046,7 +78046,7 @@
    "prompt": "¿Qué mediciones en sangre se usan habitualmente para evaluar la transferencia de inmunidad pasiva en terneros?",
    "options": [
     "Glucosa y colesterol",
-    "Solo hemoglobina",
+    "Hemoglobina y hematocrito",
     "Urea y creatinina",
     "IgG y proteínas totales"
    ],
@@ -78069,10 +78069,10 @@
    "difficulty": "curious",
    "prompt": "Besides quantity and quality, which colostrum factor affects passive immunity in calves?",
    "options": [
-    "The color of the bucket",
-    "The timing of the first feeding",
-    "The calf's coat color",
-    "The time of year"
+    "The color of the colostrum",
+    "The timing of the first meal",
+    "The breed of the calf's sire",
+    "The season the calf is born"
    ],
    "correctOptionIndex": 1,
    "explanation": "Quantity, quality and timing of first colostrum feeding influence passive immunity; early feeding is key.",
@@ -78093,10 +78093,10 @@
    "difficulty": "curious",
    "prompt": "Además de la cantidad y la calidad, ¿qué factor del calostro influye en la inmunidad pasiva del ternero?",
    "options": [
-    "El color del balde",
+    "El color que tiene el calostro",
     "El momento de la primera toma",
-    "El color del pelaje",
-    "La estación del año"
+    "La raza del padre del ternero",
+    "La estación en que nace el ternero"
    ],
    "correctOptionIndex": 1,
    "explanation": "La cantidad, la calidad y el momento de la primera toma de calostro influyen en la inmunidad pasiva; darlo temprano es clave.",
@@ -78117,13 +78117,13 @@
    "difficulty": "expert",
    "prompt": "How is the bovine placenta classified?",
    "options": [
-    "Discoid and hemochorial",
     "Diffuse and epitheliochorial",
+    "Cotyledonary and endotheliochorial",
     "Cotyledonary and synepitheliochorial",
-    "Zonary and endotheliochorial"
+    "Zonary and synepitheliochorial"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Cattle have a cotyledonary, synepitheliochorial placenta; humans have a discoid hemochorial one, dogs a zonary endotheliochorial one.",
+   "explanation": "Cattle have a cotyledonary, synepitheliochorial placenta; horses and pigs have a diffuse epitheliochorial one, dogs a zonary endotheliochorial one.",
    "shortExplanation": "Cotyledonary.",
    "pmid": "27155733",
    "verification": {
@@ -78141,13 +78141,13 @@
    "difficulty": "expert",
    "prompt": "¿Cómo se clasifica la placenta bovina?",
    "options": [
-    "Discoidal y hemocorial",
     "Difusa y epiteliocorial",
+    "Cotiledonaria y endoteliocorial",
     "Cotiledonaria y sinepiteliocorial",
-    "Zonal y endoteliocorial"
+    "Zonal y sinepiteliocorial"
    ],
    "correctOptionIndex": 2,
-   "explanation": "Los bovinos tienen placenta cotiledonaria sinepiteliocorial; la humana es discoidal hemocorial y la del perro zonal endoteliocorial.",
+   "explanation": "Los bovinos tienen placenta cotiledonaria sinepiteliocorial; la del caballo y el cerdo es difusa epiteliocorial y la del perro zonal endoteliocorial.",
    "shortExplanation": "Cotiledonaria.",
    "pmid": "27155733",
    "verification": {
@@ -78166,9 +78166,9 @@
    "prompt": "Which cells are thought to be key players in the bovine placenta?",
    "options": [
     "Trophoblast giant cells",
-    "Red blood cells",
-    "Osteoclasts",
-    "Hepatocytes"
+    "Uterine natural killer cells",
+    "Decidual stromal cells",
+    "Hofbauer macrophages"
    ],
    "correctOptionIndex": 0,
    "explanation": "Binucleate trophoblast giant cells are central to the cattle placenta and are hard to maintain in culture.",
@@ -78190,9 +78190,9 @@
    "prompt": "¿Qué células se consideran protagonistas de la placenta bovina?",
    "options": [
     "Las células gigantes del trofoblasto",
-    "Los glóbulos rojos",
-    "Los osteoclastos",
-    "Los hepatocitos"
+    "Las células asesinas naturales uterinas",
+    "Las células del estroma decidual",
+    "Los macrófagos de Hofbauer"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las células gigantes binucleadas del trofoblasto son centrales en la placenta bovina y difíciles de mantener en cultivo.",
@@ -78213,10 +78213,10 @@
    "difficulty": "explorer",
    "prompt": "To design drugs that control the estrous cycle in cattle, what must be understood?",
    "options": [
-    "Only the price of the drug",
-    "Only coat genetics",
-    "Only feed composition",
-    "The endocrine changes, reproductive function and behavior"
+    "Milk yield and udder health records",
+    "Coat genetics and heat tolerance",
+    "Rumen fermentation and feed efficiency",
+    "Reproductive endocrinology and behavior"
    ],
    "correctOptionIndex": 3,
    "explanation": "Estrous synchronization relies on understanding reproductive endocrinology, physiology and behavior.",
@@ -78237,10 +78237,10 @@
    "difficulty": "explorer",
    "prompt": "Para diseñar fármacos que controlen el ciclo estral bovino, ¿qué hay que entender?",
    "options": [
-    "Solo el precio del fármaco",
-    "Solo la genética del pelaje",
-    "Solo la composición del alimento",
-    "Los cambios endocrinos, la función reproductiva y el comportamiento"
+    "La producción de leche y la salud de la ubre",
+    "La genética del pelaje y la tolerancia al calor",
+    "La fermentación ruminal y la eficiencia alimenticia",
+    "La endocrinología y el comportamiento reproductivos"
    ],
    "correctOptionIndex": 3,
    "explanation": "La sincronización de celos se basa en conocer la endocrinología, la fisiología y el comportamiento reproductivos.",
@@ -78261,10 +78261,10 @@
    "difficulty": "curious",
    "prompt": "In horses, where is fiber mainly digested?",
    "options": [
-    "The stomach",
+    "The stomach and duodenum",
     "The small intestine",
-    "The large intestine (hindgut)",
-    "The mouth"
+    "The large intestine",
+    "The non-glandular stomach"
    ],
    "correctOptionIndex": 2,
    "explanation": "Horses are hindgut fermenters: fiber is digested in the large intestine, while protein, sugars and fats are absorbed in the small intestine.",
@@ -78285,10 +78285,10 @@
    "difficulty": "curious",
    "prompt": "En los caballos, ¿dónde se digiere principalmente la fibra?",
    "options": [
-    "En el estómago",
+    "En el estómago y el duodeno",
     "En el intestino delgado",
     "En el intestino grueso",
-    "En la boca"
+    "En el estómago no glandular"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los caballos fermentan en el intestino grueso: allí digieren la fibra, mientras proteínas, azúcares y grasas se absorben en el delgado.",
@@ -78309,10 +78309,10 @@
    "difficulty": "explorer",
    "prompt": "In the horse, where are protein and soluble carbohydrates mainly digested and absorbed?",
    "options": [
-    "The cecum",
+    "The cecum and colon",
     "The small intestine",
-    "The stomach only",
-    "The rectum"
+    "The glandular stomach",
+    "The large colon"
    ],
    "correctOptionIndex": 1,
    "explanation": "The equine small intestine handles protein, soluble carbohydrates, fats, vitamins and most minerals.",
@@ -78333,10 +78333,10 @@
    "difficulty": "explorer",
    "prompt": "En el caballo, ¿dónde se digieren y absorben principalmente las proteínas y los carbohidratos solubles?",
    "options": [
-    "En el ciego",
+    "En el ciego y el colon",
     "En el intestino delgado",
-    "Solo en el estómago",
-    "En el recto"
+    "En el estómago glandular",
+    "En el colon mayor"
    ],
    "correctOptionIndex": 1,
    "explanation": "El intestino delgado equino se encarga de proteínas, carbohidratos solubles, grasas, vitaminas y la mayoría de los minerales.",
@@ -78405,10 +78405,10 @@
    "difficulty": "curious",
    "prompt": "What problems does taurine deficiency cause in cats?",
    "options": [
-    "Retinal degeneration and cardiomyopathy",
-    "Hair loss only",
-    "Kidney stones only",
-    "Obesity"
+    "Retinal degeneration, cardiomyopathy",
+    "Fatty liver disease and jaundice",
+    "Kidney stones and urinary blockage",
+    "Rickets and spontaneous fractures"
    ],
    "correctOptionIndex": 0,
    "explanation": "Taurine deficiency causes retinal degeneration, dilated cardiomyopathy, immune and growth problems.",
@@ -78430,9 +78430,9 @@
    "prompt": "¿Qué problemas causa la deficiencia de taurina en gatos?",
    "options": [
     "Degeneración de retina y miocardiopatía",
-    "Solo caída de pelo",
-    "Solo cálculos renales",
-    "Obesidad"
+    "Lipidosis hepática con ictericia",
+    "Cálculos renales y obstrucción urinaria",
+    "Raquitismo y fracturas espontáneas"
    ],
    "correctOptionIndex": 0,
    "explanation": "La falta de taurina causa degeneración retiniana, miocardiopatía dilatada y problemas inmunes y de crecimiento.",
@@ -78453,10 +78453,10 @@
    "difficulty": "explorer",
    "prompt": "Which diet can cause vitamin A toxicity in cats?",
    "options": [
-    "Dry kibble",
-    "Rice and chicken",
+    "Large amounts of raw fish",
+    "Mostly commercial dry kibble",
     "Large amounts of beef liver",
-    "Fish oil-free diets"
+    "A strict vegetable-based diet"
    ],
    "correctOptionIndex": 2,
    "explanation": "Liver stores a lot of vitamin A; feeding it heavily can cause hypervitaminosis A with cervical bony exostoses.",
@@ -78477,10 +78477,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué dieta puede causar toxicidad por vitamina A en gatos?",
    "options": [
-    "Alimento balanceado seco",
-    "Arroz y pollo",
+    "Grandes cantidades de pescado crudo",
+    "Sobre todo alimento seco comercial",
     "Grandes cantidades de hígado vacuno",
-    "Dietas sin aceite de pescado"
+    "Una dieta estrictamente vegetal"
    ],
    "correctOptionIndex": 2,
    "explanation": "El hígado almacena mucha vitamina A; darlo en exceso puede causar hipervitaminosis A con exostosis óseas cervicales.",
@@ -78501,13 +78501,13 @@
    "difficulty": "researcher",
    "prompt": "Can taurine supplementation reverse established feline central retinal degeneration?",
    "options": [
-    "Yes, completely",
-    "No; it can only prevent further degeneration",
-    "Only with vitamin A",
-    "Only in kittens"
+    "Yes, within a few weeks of treatment",
+    "No, but it can halt further damage",
+    "Yes, if combined with vitamin A",
+    "Yes, but only in young kittens"
    ],
    "correctOptionIndex": 1,
-   "explanation": "The existing lesion is irreversible, though supplementation can save the remaining retina.",
+   "explanation": "The existing lesion is irreversible at any age or with any cofactor, though supplementation can prevent further degeneration and save the remaining retina.",
    "shortExplanation": "Not reversible.",
    "pmid": "7039812",
    "verification": {
@@ -78525,13 +78525,13 @@
    "difficulty": "researcher",
    "prompt": "¿Puede la taurina revertir una degeneración retiniana central felina ya establecida?",
    "options": [
-    "Sí, por completo",
-    "No; solo evita que avance",
-    "Solo con vitamina A",
-    "Solo en gatitos"
+    "Sí, en pocas semanas de tratamiento",
+    "No, pero puede frenar el avance",
+    "Sí, si se combina con vitamina A",
+    "Sí, pero solo en gatitos jóvenes"
    ],
    "correctOptionIndex": 1,
-   "explanation": "La lesión existente es irreversible, aunque el suplemento puede salvar el resto de la retina.",
+   "explanation": "La lesión existente es irreversible a cualquier edad y con cualquier cofactor, aunque el suplemento puede evitar que avance y salvar el resto de la retina.",
    "shortExplanation": "No es reversible.",
    "pmid": "7039812",
    "verification": {
@@ -78549,10 +78549,10 @@
    "difficulty": "curious",
    "prompt": "Why are dairy cows especially susceptible to heat stress?",
    "options": [
-    "They have thick wool",
-    "They cannot drink water",
-    "Their high metabolic heat load from milk production",
-    "They have no sweat glands at all"
+    "Their thick layer of subcutaneous fat",
+    "Their low water intake during lactation",
+    "High metabolic heat from milk production",
+    "Their lack of functional sweat glands"
    ],
    "correctOptionIndex": 2,
    "explanation": "High-producing cows generate a large metabolic heat load, so hot weather reduces milk, fertility and health.",
@@ -78573,10 +78573,10 @@
    "difficulty": "curious",
    "prompt": "¿Por qué las vacas lecheras son especialmente susceptibles al estrés por calor?",
    "options": [
-    "Tienen lana gruesa",
-    "No pueden tomar agua",
-    "Por su gran carga de calor metabólico al producir leche",
-    "No tienen ninguna glándula sudorípara"
+    "Su gruesa capa de grasa subcutánea",
+    "Su bajo consumo de agua en lactancia",
+    "El gran calor metabólico de producir leche",
+    "Su falta de glándulas sudoríparas funcionales"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las vacas de alta producción generan mucho calor metabólico, así que el calor reduce leche, fertilidad y salud.",
@@ -78597,10 +78597,10 @@
    "difficulty": "explorer",
    "prompt": "Which effects does heat stress have on dairy cattle?",
    "options": [
-    "Lower milk production and reproduction, more disease",
-    "Higher milk yield",
-    "Faster growth",
-    "No measurable effect"
+    "Less milk and fertility, more disease",
+    "Higher milk yield but lower fertility",
+    "Faster growth and higher milk fat",
+    "Lower fertility but no effect on milk"
    ],
    "correctOptionIndex": 0,
    "explanation": "Diverting energy to cooling reduces milk yield and fertility and increases disease and mortality.",
@@ -78621,10 +78621,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué efectos tiene el estrés por calor en el ganado lechero?",
    "options": [
-    "Menos leche y reproducción, más enfermedad",
-    "Más producción de leche",
-    "Crecimiento más rápido",
-    "Ningún efecto"
+    "Menos leche y fertilidad, más enfermedad",
+    "Más leche pero menor fertilidad",
+    "Crecimiento más rápido y más grasa láctea",
+    "Menor fertilidad sin efecto en la leche"
    ],
    "correctOptionIndex": 0,
    "explanation": "Desviar energía a refrigerarse reduce la leche y la fertilidad y aumenta enfermedad y mortalidad.",
@@ -78645,9 +78645,9 @@
    "difficulty": "researcher",
    "prompt": "Which aspect of poultry heat stress does this review focus on, among others?",
    "options": [
-    "Feather color genetics",
-    "Egg pricing",
-    "Antibiotic resistance",
+    "Genetics of feather color and pattern",
+    "Antibiotic resistance in gut bacteria",
+    "Vaccine efficacy against avian influenza",
     "Neuroendocrine and behavioral responses"
    ],
    "correctOptionIndex": 3,
@@ -78669,9 +78669,9 @@
    "difficulty": "researcher",
    "prompt": "¿En qué aspecto del estrés por calor en aves se centra esta revisión, entre otros?",
    "options": [
-    "Genética del color de pluma",
-    "Precio del huevo",
-    "Resistencia a antibióticos",
+    "Genética del color y diseño de la pluma",
+    "Resistencia antibiótica en bacterias intestinales",
+    "Eficacia de vacunas contra la gripe aviar",
     "Respuestas neuroendocrinas y de comportamiento"
    ],
    "correctOptionIndex": 3,
@@ -78693,10 +78693,10 @@
    "difficulty": "researcher",
    "prompt": "What did heat research before the 1996 Olympics recommend for competing horses?",
    "options": [
-    "Avoid all water before competing",
+    "Withhold drinking water before events",
     "Allow time for heat acclimatization",
-    "Clip all hair off",
-    "Compete only at night"
+    "Restrict electrolytes during competition",
+    "Ship horses in on the day of competition"
    ],
    "correctOptionIndex": 1,
    "explanation": "Heat acclimation studies guided acclimatization periods and cooling strategies for equine athletes in Atlanta.",
@@ -78717,10 +78717,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué recomendó la investigación sobre calor antes de los Juegos de 1996 para los caballos?",
    "options": [
-    "No darles agua antes de competir",
+    "Retirar el agua de bebida antes de competir",
     "Dar tiempo de aclimatación al calor",
-    "Esquilarlos por completo",
-    "Competir solo de noche"
+    "Restringir los electrolitos al competir",
+    "Trasladarlos el mismo día de la competencia"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los estudios de aclimatación al calor orientaron los períodos de adaptación y las estrategias de enfriamiento en Atlanta.",
@@ -78741,9 +78741,9 @@
    "difficulty": "expert",
    "prompt": "How do birds mainly generate heat to keep body temperature, given they lack brown adipose tissue?",
    "options": [
-    "Brown fat burning",
-    "Panting",
-    "Sweating",
+    "Brown adipose thermogenesis",
+    "Panting and gular flutter",
+    "Fluffing feathers for insulation",
     "Shivering thermogenesis"
    ],
    "correctOptionIndex": 3,
@@ -78765,10 +78765,10 @@
    "difficulty": "expert",
    "prompt": "¿Cómo generan calor las aves para mantener la temperatura, si no tienen tejido adiposo pardo?",
    "options": [
-    "Quemando grasa parda",
-    "Jadeando",
-    "Sudando",
-    "Por termogénesis con escalofríos"
+    "Termogénesis en grasa parda",
+    "Jadeo y aleteo gular",
+    "Esponjar las plumas para aislarse",
+    "Termogénesis por escalofríos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las aves carecen de grasa parda y dependen sobre todo de la termogénesis por escalofríos, con alguna evidencia de termogénesis sin escalofríos.",
