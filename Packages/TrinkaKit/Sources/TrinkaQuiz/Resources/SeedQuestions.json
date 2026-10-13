@@ -1,5 +1,5 @@
 {
- "version": 32,
+ "version": 33,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -35013,10 +35013,10 @@
    "difficulty": "beginner",
    "prompt": "In simple terms, what is mastitis in a dairy cow?",
    "options": [
-    "An infection of the hoof",
-    "A disease of the rumen",
-    "Inflammation of the udder (mammary gland) of cattle",
-    "A lung infection in calves"
+    "An infection of the hoof and sole",
+    "A digestive disease of the rumen",
+    "Inflammation of the udder",
+    "A lung infection that affects calves"
    ],
    "correctOptionIndex": 2,
    "explanation": "Mastitis is inflammation of the mammary gland/udder, caused in most cases by bacteria.",
@@ -35037,10 +35037,10 @@
    "difficulty": "beginner",
    "prompt": "En pocas palabras, ¿qué es la mastitis en una vaca lechera?",
    "options": [
-    "Una infección del casco",
-    "Una enfermedad del rumen",
-    "La inflamación de la ubre (glándula mamaria) del bovino",
-    "Una infección pulmonar en terneros"
+    "Una infección del casco y la suela",
+    "Una enfermedad digestiva del rumen",
+    "La inflamación de la glándula mamaria",
+    "Una infección pulmonar de los terneros"
    ],
    "correctOptionIndex": 2,
    "explanation": "La mastitis es la inflamación de la glándula mamaria/ubre, causada en la mayoría de los casos por bacterias.",
@@ -35111,7 +35111,7 @@
    "options": [
     "Acute and genetic",
     "Viral and fungal",
-    "Left and right",
+    "Front and rear quarter",
     "Clinical and subclinical"
    ],
    "correctOptionIndex": 3,
@@ -35135,7 +35135,7 @@
    "options": [
     "Aguda y genética",
     "Viral y fúngica",
-    "Izquierda y derecha",
+    "De cuarto anterior o posterior",
     "Clínica y subclínica"
    ],
    "correctOptionIndex": 3,
@@ -35157,10 +35157,10 @@
    "difficulty": "researcher",
    "prompt": "What did this review conclude about mastitis therapies used as monotherapy?",
    "options": [
-    "Antibiotics alone always cure it",
-    "None reliably eliminated the causative agent on its own",
-    "Herbs are fully effective",
-    "Vaccines alone eradicate it"
+    "Antibiotics alone always cured it",
+    "No single therapy reliably cleared it",
+    "Herbal remedies were fully effective",
+    "Vaccines alone eradicated the infection"
    ],
    "correctOptionIndex": 1,
    "explanation": "Antibiotics, phages, bacteriocins, probiotics and others all lacked efficacy as monotherapy, so combined strategies are needed.",
@@ -35181,10 +35181,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué concluyó esta revisión sobre las terapias de mastitis usadas como monoterapia?",
    "options": [
-    "Los antibióticos solos siempre la curan",
-    "Ninguna eliminó de forma confiable al agente por sí sola",
-    "Las hierbas son totalmente eficaces",
-    "Las vacunas solas la erradican"
+    "Los antibióticos solos siempre la curaban",
+    "Ninguna terapia sola la eliminaba bien",
+    "Los remedios herbales eran totalmente eficaces",
+    "Las vacunas solas erradicaban la infección"
    ],
    "correctOptionIndex": 1,
    "explanation": "Antibióticos, fagos, bacteriocinas, probióticos y otros fallaron como monoterapia, por eso se necesitan estrategias combinadas.",
@@ -35205,10 +35205,10 @@
    "difficulty": "curious",
    "prompt": "Besides infection, what else can cause udder inflammation (mastitis)?",
    "options": [
-    "Physical damage or chemical irritation",
-    "Too much sunlight",
-    "Eating grass",
-    "Drinking cold water"
+    "Physical injury or chemical irritation",
+    "Too much direct sunlight on the udder",
+    "Grazing on fresh spring grass",
+    "Drinking very cold water in winter"
    ],
    "correctOptionIndex": 0,
    "explanation": "Mastitis can result from physical damage, chemical irritation or infection, though infection is most common.",
@@ -35229,10 +35229,10 @@
    "difficulty": "curious",
    "prompt": "Además de la infección, ¿qué otra cosa puede causar inflamación de la ubre (mastitis)?",
    "options": [
-    "Daño físico o irritación química",
-    "Exceso de sol",
-    "Comer pasto",
-    "Tomar agua fría"
+    "Lesión física o irritación química",
+    "Mucho sol directo sobre la ubre en verano",
+    "Pastar pasto tierno de primavera",
+    "Tomar agua muy fría en invierno"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mastitis puede deberse a daño físico, irritación química o infección, aunque la infección es lo más común.",
@@ -35253,10 +35253,10 @@
    "difficulty": "explorer",
    "prompt": "How can bovine mastitis affect human health?",
    "options": [
-    "It causes human mastitis directly",
-    "It has no relation to humans",
-    "It can promote antibiotic-resistant pathogens that may spread",
-    "It makes milk radioactive"
+    "It directly causes mastitis in women",
+    "It has no relation to human health",
+    "It can select resistant bacteria",
+    "It makes the milk slightly radioactive"
    ],
    "correctOptionIndex": 2,
    "explanation": "Antibiotic use for mastitis can select resistant pathogens with One Health implications.",
@@ -35277,10 +35277,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo puede afectar la mastitis bovina a la salud humana?",
    "options": [
-    "Causa mastitis humana directamente",
-    "No tiene relación con las personas",
-    "Puede favorecer patógenos resistentes a antibióticos que se diseminen",
-    "Vuelve radiactiva la leche"
+    "Causa directamente mastitis en mujeres",
+    "No tiene relación con la salud humana",
+    "Puede seleccionar bacterias resistentes",
+    "Vuelve a la leche levemente radiactiva"
    ],
    "correctOptionIndex": 2,
    "explanation": "El uso de antibióticos para mastitis puede seleccionar patógenos resistentes, con implicancias de Una Salud.",
@@ -35349,10 +35349,10 @@
    "difficulty": "explorer",
    "prompt": "Which group lists the most common bovine mastitis pathogens?",
    "options": [
-    "Salmonella, Listeria, Brucella",
-    "Clostridium, Bacillus, Mycobacterium",
-    "Candida, Aspergillus, Mucor",
-    "S. aureus, S. agalactiae, S. uberis, E. coli, K. pneumoniae"
+    "Salmonella, Listeria and Brucella",
+    "Clostridium, Bacillus and Mycobacterium",
+    "Candida, Aspergillus and Mucor",
+    "S. aureus, streptococci, E. coli"
    ],
    "correctOptionIndex": 3,
    "explanation": "These five bacteria are the most commonly associated with mastitis; their prevalence varies by region.",
@@ -35373,10 +35373,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué grupo enumera los patógenos más comunes de mastitis bovina?",
    "options": [
-    "Salmonella, Listeria, Brucella",
-    "Clostridium, Bacillus, Mycobacterium",
-    "Candida, Aspergillus, Mucor",
-    "S. aureus, S. agalactiae, S. uberis, E. coli, K. pneumoniae"
+    "Salmonella, Listeria y Brucella",
+    "Clostridium, Bacillus y Mycobacterium",
+    "Candida, Aspergillus y Mucor",
+    "S. aureus, estreptococos, E. coli"
    ],
    "correctOptionIndex": 3,
    "explanation": "Estas cinco bacterias son las más asociadas a mastitis; su prevalencia varía según la región.",
@@ -35400,7 +35400,7 @@
     "Streptococcus agalactiae",
     "Escherichia coli",
     "Klebsiella pneumoniae",
-    "Serratia marcescens"
+    "Enterobacter cloacae complex"
    ],
    "correctOptionIndex": 0,
    "explanation": "Contagious pathogens include S. agalactiae, S. aureus, Corynebacterium bovis, Mycoplasma and S. dysgalactiae.",
@@ -35424,7 +35424,7 @@
     "Streptococcus agalactiae",
     "Escherichia coli",
     "Klebsiella pneumoniae",
-    "Serratia marcescens"
+    "Enterobacter cloacae complex"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los contagiosos incluyen S. agalactiae, S. aureus, Corynebacterium bovis, Mycoplasma y S. dysgalactiae.",
@@ -35445,10 +35445,10 @@
    "difficulty": "curious",
    "prompt": "Which measures help control contagious mastitis?",
    "options": [
-    "Feeding more grain",
-    "Changing the cows' color",
-    "Milking-time hygiene, segregation, culling, vaccination and treatment",
-    "Removing water troughs"
+    "Feeding more grain in the ration",
+    "Changing the cows' breed every year",
+    "Milking hygiene, segregation, culling",
+    "Removing water troughs from pens"
    ],
    "correctOptionIndex": 2,
    "explanation": "Contagious mastitis spreads at milking, so hygiene, segregating or culling infected cows and treatment are key.",
@@ -35469,10 +35469,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué medidas ayudan a controlar la mastitis contagiosa?",
    "options": [
-    "Dar más grano",
-    "Cambiar el color de las vacas",
-    "Higiene en el ordeño, segregación, descarte, vacunación y tratamiento",
-    "Quitar los bebederos"
+    "Dar más grano en la ración",
+    "Cambiar la raza de las vacas cada año",
+    "Higiene de ordeño, segregación, descarte",
+    "Quitar los bebederos de los corrales"
    ],
    "correctOptionIndex": 2,
    "explanation": "La mastitis contagiosa se transmite en el ordeño, por eso son clave la higiene, separar o descartar infectadas y tratar.",
@@ -35494,7 +35494,7 @@
    "prompt": "In modern dairy herds that control contagious spread, which form of mastitis is most common and costly?",
    "options": [
     "Viral mastitis",
-    "Genetic mastitis",
+    "Inherited (genetic) mastitis",
     "Traumatic mastitis",
     "Environmental mastitis"
    ],
@@ -35541,9 +35541,9 @@
    "difficulty": "researcher",
    "prompt": "What does this review argue about classifying mastitis pathogens as 'contagious' or 'environmental'?",
    "options": [
-    "It is always exact",
-    "The binary classification is misleading for several species",
-    "Only viruses are contagious",
+    "It is always exact for every species",
+    "The binary split misleads for some species",
+    "Only viruses are truly contagious",
     "Environmental pathogens never spread between cows"
    ],
    "correctOptionIndex": 1,
@@ -35565,8 +35565,8 @@
    "difficulty": "researcher",
    "prompt": "¿Qué plantea esta revisión sobre clasificar los patógenos de mastitis como 'contagiosos' o 'ambientales'?",
    "options": [
-    "Que siempre es exacto",
-    "Que la clasificación binaria es engañosa para varias especies",
+    "Que siempre es exacta para toda especie",
+    "Que la división binaria engaña en varios casos",
     "Que solo los virus son contagiosos",
     "Que los ambientales nunca pasan entre vacas"
    ],
@@ -35589,10 +35589,10 @@
    "difficulty": "explorer",
    "prompt": "Which are major sources of environmental mastitis pathogens such as E. coli and S. uberis?",
    "options": [
-    "Clean drinking water",
-    "Fresh air",
-    "Cow feces, the indoor environment and used pasture",
-    "Milk tanks only"
+    "Clean drinking water from troughs",
+    "Fresh air in open barns",
+    "Feces, housing and used pasture",
+    "Only the bulk milk tank"
    ],
    "correctOptionIndex": 2,
    "explanation": "Feces, housing and used pasture harbor environmental pathogens; a fecal-oral cycle may amplify them.",
@@ -35613,10 +35613,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cuáles son fuentes importantes de patógenos ambientales como E. coli y S. uberis?",
    "options": [
-    "El agua limpia",
-    "El aire fresco",
-    "La bosta, el ambiente de los galpones y la pastura usada",
-    "Solo los tanques de leche"
+    "El agua de bebida limpia",
+    "El aire fresco de los galpones abiertos",
+    "La bosta, el galpón y la pastura usada",
+    "Solo el tanque de leche"
    ],
    "correctOptionIndex": 2,
    "explanation": "La bosta, el alojamiento y la pastura usada albergan patógenos ambientales; un ciclo fecal-oral puede amplificarlos.",
@@ -35637,10 +35637,10 @@
    "difficulty": "expert",
    "prompt": "What is the status of mastitis vaccines according to this review?",
    "options": [
-    "Vaccines reduce coliform mastitis impact, but gram-positive vaccines remain only 'promising'",
-    "Excellent vaccines exist for all pathogens",
-    "No mastitis vaccine has ever been made",
-    "Only viral mastitis vaccines work"
+    "Coliform vaccines help; gram-positive ones lag",
+    "Excellent vaccines exist for every pathogen",
+    "No mastitis vaccine has ever been developed",
+    "Only vaccines against viral mastitis work"
    ],
    "correctOptionIndex": 0,
    "explanation": "Coliform (core-antigen) vaccines are effective; gram-positive mastitis vaccines have stalled for decades.",
@@ -35661,10 +35661,10 @@
    "difficulty": "expert",
    "prompt": "¿Cuál es el estado de las vacunas contra mastitis según esta revisión?",
    "options": [
-    "Las vacunas reducen el impacto de la mastitis por coliformes, pero las de grampositivos siguen 'prometedoras'",
-    "Hay vacunas excelentes para todo",
-    "Nunca se hizo una vacuna",
-    "Solo funcionan las de mastitis viral"
+    "Sirven contra coliformes; contra grampositivos, menos",
+    "Hay vacunas excelentes para todos los patógenos de la ubre",
+    "Nunca se desarrolló una vacuna contra mastitis",
+    "Solo funcionan las vacunas contra mastitis viral"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las vacunas para coliformes (antígeno core) son eficaces; las de grampositivos están estancadas hace décadas.",
@@ -35685,10 +35685,10 @@
    "difficulty": "beginner",
    "prompt": "What is the classic rule for preventing environmental mastitis?",
    "options": [
-    "Keep cows hot and humid",
+    "Keep cows warm and humid",
     "Keep cows cool, dry and comfortable",
     "Milk them only once a week",
-    "Keep them in muddy pens"
+    "Keep them in muddy pens to cool off"
    ],
    "correctOptionIndex": 1,
    "explanation": "Reducing moisture and organic contamination—clean, dry bedding, no overcrowding—is the core of control.",
@@ -35711,7 +35711,7 @@
    "options": [
     "Mantener a las vacas con calor y humedad",
     "Mantenerlas frescas, secas y cómodas",
-    "Ordeñarlas una vez por semana",
+    "Ordeñarlas una sola vez por semana",
     "Tenerlas en corrales con barro"
    ],
    "correctOptionIndex": 1,
@@ -35733,10 +35733,10 @@
    "difficulty": "curious",
    "prompt": "Which bedding helps reduce environmental mastitis?",
    "options": [
-    "Wet straw",
+    "Wet straw changed weekly",
     "Used sawdust full of manure",
-    "No bedding at all",
-    "Clean, dry inorganic bedding (e.g., sand)"
+    "No bedding at all on concrete",
+    "Clean, dry sand bedding"
    ],
    "correctOptionIndex": 3,
    "explanation": "Clean, dry inorganic bedding supports fewer bacteria than organic bedding.",
@@ -35757,10 +35757,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué tipo de cama ayuda a reducir la mastitis ambiental?",
    "options": [
-    "Paja húmeda",
-    "Aserrín usado con bosta",
-    "Sin cama",
-    "Cama inorgánica limpia y seca (como arena)"
+    "Paja húmeda cambiada cada semana",
+    "Aserrín usado lleno de bosta",
+    "Sin cama, sobre el cemento",
+    "Cama de arena limpia y seca"
    ],
    "correctOptionIndex": 3,
    "explanation": "La cama inorgánica limpia y seca sostiene menos bacterias que la orgánica.",
@@ -35830,9 +35830,9 @@
    "prompt": "What is the main host defense against coliform mastitis during lactation?",
    "options": [
     "Neutrophils migrating into the gland",
-    "Antibodies from vaccines only",
-    "Eosinophils",
-    "Stomach acid"
+    "Antibodies induced by vaccines only",
+    "Eosinophils recruited from the blood",
+    "Lysozyme from the cow's saliva"
    ],
    "correctOptionIndex": 0,
    "explanation": "Rapid neutrophil recruitment eliminates coliforms; damage is mediated by endotoxin release.",
@@ -35853,10 +35853,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál es la principal defensa del huésped contra la mastitis por coliformes en lactancia?",
    "options": [
-    "Los neutrófilos que migran a la glándula",
-    "Solo anticuerpos vacunales",
-    "Los eosinófilos",
-    "El ácido gástrico"
+    "Neutrófilos que migran a la glándula",
+    "Solo anticuerpos inducidos por vacunas",
+    "Eosinófilos reclutados desde la sangre",
+    "La lisozima de la saliva de la vaca"
    ],
    "correctOptionIndex": 0,
    "explanation": "El reclutamiento rápido de neutrófilos elimina a los coliformes; el daño lo causa la liberación de endotoxina.",
@@ -35877,10 +35877,10 @@
    "difficulty": "expert",
    "prompt": "What bacterial ability is directly related to coliform infection of the dry (non-lactating) gland?",
    "options": [
-    "Producing spores",
-    "Fermenting lactose",
-    "Forming capsules only",
-    "Acquiring iron from mammary secretion"
+    "Producing heat-resistant spores",
+    "Fermenting lactose rapidly in milk",
+    "Forming a thick polysaccharide capsule",
+    "Acquiring iron from the secretion"
    ],
    "correctOptionIndex": 3,
    "explanation": "Dry secretion is rich in lactoferrin, which limits iron; coliforms that acquire iron can infect the dry gland.",
@@ -35901,9 +35901,9 @@
    "difficulty": "expert",
    "prompt": "¿Qué capacidad bacteriana se relaciona directamente con la infección por coliformes de la glándula seca?",
    "options": [
-    "Formar esporas",
-    "Fermentar lactosa",
-    "Solo formar cápsula",
+    "Producir esporas resistentes al calor",
+    "Fermentar rápido la lactosa de la leche",
+    "Formar una cápsula gruesa de polisacárido",
     "Obtener hierro de la secreción mamaria"
    ],
    "correctOptionIndex": 3,
@@ -35925,10 +35925,10 @@
    "difficulty": "curious",
    "prompt": "When is the risk of coliform infection highest?",
    "options": [
-    "Mid-lactation",
-    "During the transitional phases of the dry period",
-    "Only in winter",
-    "Only in calves"
+    "At peak mid-lactation",
+    "In the dry period's transitions",
+    "Only during the coldest winter",
+    "Only in young, unbred calves"
    ],
    "correctOptionIndex": 1,
    "explanation": "Early dry-off and the period just before calving are high-risk windows for new coliform infections.",
@@ -35949,10 +35949,10 @@
    "difficulty": "curious",
    "prompt": "¿Cuándo es mayor el riesgo de infección por coliformes?",
    "options": [
-    "A mitad de la lactancia",
-    "En las fases de transición del período seco",
-    "Solo en invierno",
-    "Solo en terneras"
+    "En el pico de mitad de lactancia",
+    "En las transiciones del período seco",
+    "Solo durante el invierno más frío",
+    "Solo en terneras jóvenes sin servicio"
    ],
    "correctOptionIndex": 1,
    "explanation": "El inicio del secado y el período previo al parto son ventanas de alto riesgo para nuevas infecciones por coliformes.",
@@ -35973,10 +35973,10 @@
    "difficulty": "curious",
    "prompt": "Why is Staphylococcus aureus mastitis hard to control?",
    "options": [
-    "It only lasts one day",
-    "It is a virus",
-    "It causes chronic infections that respond poorly to antibiotics",
-    "It never spreads"
+    "Infections only last about one day",
+    "It is actually a virus, not a bacterium",
+    "It causes chronic, hard-to-cure infections",
+    "It never spreads from cow to cow"
    ],
    "correctOptionIndex": 2,
    "explanation": "S. aureus causes chronic intramammary infections with poor treatment response and spreads within the herd.",
@@ -35997,10 +35997,10 @@
    "difficulty": "curious",
    "prompt": "¿Por qué es difícil controlar la mastitis por Staphylococcus aureus?",
    "options": [
-    "Dura solo un día",
-    "Es un virus",
-    "Causa infecciones crónicas que responden mal a los antibióticos",
-    "Nunca se contagia"
+    "Las infecciones duran solo un día",
+    "En realidad es un virus y no una bacteria",
+    "Causa infecciones crónicas difíciles de curar",
+    "Nunca se contagia de vaca a vaca"
    ],
    "correctOptionIndex": 2,
    "explanation": "S. aureus causa infecciones intramamarias crónicas con mala respuesta al tratamiento y se disemina en el rodeo.",
@@ -36069,10 +36069,10 @@
    "difficulty": "researcher",
    "prompt": "What trend did this meta-analysis find in S. aureus resistance from mastitis?",
    "options": [
-    "Resistance disappeared",
-    "It stayed constant since 1969",
-    "It only decreased",
-    "Resistance increased over time, especially from 2009"
+    "Resistance disappeared over time",
+    "It has stayed constant since 1969",
+    "It decreased steadily every decade",
+    "It rose over time, mainly since 2009"
    ],
    "correctOptionIndex": 3,
    "explanation": "Resistance increased for almost all antimicrobials, mostly clindamycin, gentamicin and oxacillin.",
@@ -36093,10 +36093,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué tendencia halló este metaanálisis en la resistencia de S. aureus de mastitis?",
    "options": [
-    "La resistencia desapareció",
+    "La resistencia desapareció con el tiempo",
     "Se mantuvo igual desde 1969",
-    "Solo disminuyó",
-    "Aumentó con el tiempo, sobre todo desde 2009"
+    "Bajó de forma constante cada década",
+    "Aumentó, sobre todo desde 2009"
    ],
    "correctOptionIndex": 3,
    "explanation": "La resistencia aumentó para casi todos los antimicrobianos, más para clindamicina, gentamicina y oxacilina.",
@@ -36117,10 +36117,10 @@
    "difficulty": "explorer",
    "prompt": "Which resistant form of S. aureus is a major concern in bovine mastitis?",
    "options": [
-    "VRE",
-    "MRSA (methicillin-resistant S. aureus)",
-    "ESBL S. aureus",
-    "MDR-TB"
+    "Vancomycin-resistant enterococci",
+    "Methicillin-resistant S. aureus",
+    "ESBL-producing S. aureus",
+    "Multidrug-resistant M. bovis"
    ],
    "correctOptionIndex": 1,
    "explanation": "MRSA emergence in dairy herds raises animal health and zoonotic concerns.",
@@ -36141,10 +36141,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué forma resistente de S. aureus preocupa en la mastitis bovina?",
    "options": [
-    "VRE",
-    "SARM (S. aureus resistente a meticilina)",
-    "S. aureus BLEE",
-    "TB-MDR"
+    "Enterococos resistentes a vancomicina",
+    "S. aureus resistente a meticilina",
+    "S. aureus productor de BLEE",
+    "M. bovis multirresistente"
    ],
    "correctOptionIndex": 1,
    "explanation": "La aparición de SARM en rodeos lecheros preocupa por la salud animal y el riesgo zoonótico.",
@@ -36165,10 +36165,10 @@
    "difficulty": "researcher",
    "prompt": "Which diagnostic tools are evaluated for detecting S. aureus mastitis?",
    "options": [
-    "Only visual inspection",
-    "Blood pressure",
-    "Culture, PCR, MALDI-TOF MS and AI-based systems",
-    "X-rays only"
+    "Only visual inspection of the milk",
+    "Measuring the cow's blood pressure",
+    "Culture, PCR, MALDI-TOF and AI",
+    "X-rays of the udder only"
    ],
    "correctOptionIndex": 2,
    "explanation": "Detection ranges from culture and PCR to MALDI-TOF mass spectrometry and AI-based systems.",
@@ -36189,10 +36189,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué herramientas diagnósticas se evalúan para detectar mastitis por S. aureus?",
    "options": [
-    "Solo inspección visual",
-    "La presión arterial",
-    "Cultivo, PCR, MALDI-TOF MS y sistemas basados en IA",
-    "Solo radiografías"
+    "Solo inspección visual de la leche",
+    "Medir la presión arterial de la vaca",
+    "Cultivo, PCR, MALDI-TOF e IA",
+    "Solo radiografías de la ubre"
    ],
    "correctOptionIndex": 2,
    "explanation": "La detección va del cultivo y la PCR a la espectrometría MALDI-TOF y sistemas con IA.",
@@ -36213,10 +36213,10 @@
    "difficulty": "researcher",
    "prompt": "Which mechanisms help S. aureus persist inside the udder?",
    "options": [
-    "Biofilms, capsules, small colony variants and invasion of host cells",
-    "Producing spores",
-    "Photosynthesis",
-    "Flagellar motility only"
+    "Biofilms and small colony variants",
+    "Producing heat-resistant spores",
+    "Photosynthesis in the teat canal",
+    "Rapid flagellar motility only"
    ],
    "correctOptionIndex": 0,
    "explanation": "These traits protect S. aureus from the cow's immune response and from antibiotics.",
@@ -36237,10 +36237,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué mecanismos ayudan a S. aureus a persistir dentro de la ubre?",
    "options": [
-    "Biofilms, cápsulas, variantes de colonia pequeña e invasión de células",
-    "Producir esporas",
-    "Fotosíntesis",
-    "Solo motilidad flagelar"
+    "Biofilm y variantes de colonia pequeña",
+    "Producir esporas resistentes al calor",
+    "Fotosíntesis en el canal del pezón",
+    "Solo una rápida motilidad flagelar"
    ],
    "correctOptionIndex": 0,
    "explanation": "Estos rasgos protegen a S. aureus de la respuesta inmune de la vaca y de los antibióticos.",
@@ -36261,10 +36261,10 @@
    "difficulty": "expert",
    "prompt": "Which alternative therapies have been tested against mastitis S. aureus?",
    "options": [
-    "Antifungals",
-    "Antivirals",
-    "Insulin",
-    "Probiotic bacteria, bacteriocins and bacteriophages"
+    "Systemic antifungal drugs",
+    "Broad-spectrum antiviral drugs",
+    "Insulin and growth hormone",
+    "Probiotics, bacteriocins, phages"
    ],
    "correctOptionIndex": 3,
    "explanation": "Because antibiotics are often insufficient, probiotics, bacteriocins and phages are being explored.",
@@ -36285,10 +36285,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué terapias alternativas se probaron contra S. aureus de mastitis?",
    "options": [
-    "Antifúngicos",
-    "Antivirales",
-    "Insulina",
-    "Bacterias probióticas, bacteriocinas y bacteriófagos"
+    "Antifúngicos sistémicos",
+    "Antivirales de amplio espectro",
+    "Insulina y hormona de crecimiento",
+    "Probióticos, bacteriocinas, fagos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Como los antibióticos suelen ser insuficientes, se exploran probióticos, bacteriocinas y fagos.",
@@ -36309,10 +36309,10 @@
    "difficulty": "researcher",
    "prompt": "What has been important in the emergence of S. aureus as a bovine mastitis pathogen?",
    "options": [
-    "Loss of its cell wall",
-    "Host-adaptation of specific clones to cattle",
-    "Becoming a virus",
-    "Transmission by mosquitoes"
+    "Loss of its cell wall over time",
+    "Host adaptation of specific clones",
+    "Becoming an obligate intracellular virus",
+    "Transmission by biting mosquitoes"
    ],
    "correctOptionIndex": 1,
    "explanation": "Bovine-adapted S. aureus clones evolved and differ geographically; host adaptation underlies their success.",
@@ -36333,10 +36333,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué fue importante en la emergencia de S. aureus como patógeno de mastitis bovina?",
    "options": [
-    "Perder la pared celular",
-    "La adaptación al huésped de clones específicos del bovino",
-    "Convertirse en virus",
-    "Transmitirse por mosquitos"
+    "La pérdida de su pared con el tiempo",
+    "La adaptación de clones al bovino",
+    "Convertirse en un virus intracelular",
+    "La transmisión por mosquitos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Clones de S. aureus adaptados al bovino evolucionaron y varían geográficamente; la adaptación al huésped explica su éxito.",
@@ -36359,8 +36359,8 @@
    "options": [
     "They give 100% protection",
     "They are mandatory worldwide",
-    "No vaccine seems to provide reliable protection so far",
-    "They cure chronic cases"
+    "None protects reliably so far",
+    "They cure chronic cases quickly"
    ],
    "correctOptionIndex": 2,
    "explanation": "Targets include surface proteins, capsules, biofilm and toxins, but reliable protection has not been achieved.",
@@ -36383,8 +36383,8 @@
    "options": [
     "Dan 100% de protección",
     "Son obligatorias en todo el mundo",
-    "Hasta ahora ninguna parece dar protección confiable",
-    "Curan los casos crónicos"
+    "Ninguna protege bien por ahora",
+    "Curan rápido los casos crónicos"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los blancos incluyen proteínas de superficie, cápsula, biofilm y toxinas, pero no se logró protección confiable.",
@@ -36406,9 +36406,9 @@
    "prompt": "The classic five-point mastitis control plan was very effective against which type of mastitis?",
    "options": [
     "Environmental mastitis",
-    "Viral mastitis",
-    "Fungal mastitis",
-    "Contagious mastitis, with little effect on environmental mastitis"
+    "Viral mastitis in heifers",
+    "Fungal mastitis after treatment",
+    "Contagious, not environmental"
    ],
    "correctOptionIndex": 3,
    "explanation": "The five-point plan cut contagious mastitis but did little against environmental pathogens like S. uberis.",
@@ -36430,9 +36430,9 @@
    "prompt": "¿Contra qué tipo de mastitis fue muy eficaz el plan clásico de cinco puntos?",
    "options": [
     "Mastitis ambiental",
-    "Mastitis viral",
-    "Mastitis fúngica",
-    "Mastitis contagiosa, con poco efecto sobre la ambiental"
+    "Mastitis viral en vaquillonas",
+    "Mastitis fúngica tras tratamientos",
+    "La contagiosa, no la ambiental"
    ],
    "correctOptionIndex": 3,
    "explanation": "El plan de cinco puntos redujo la mastitis contagiosa pero poco hizo contra patógenos ambientales como S. uberis.",
@@ -36453,10 +36453,10 @@
    "difficulty": "researcher",
    "prompt": "What special requirement must a mastitis vaccine meet, according to this review?",
    "options": [
-    "It must cause strong fever",
-    "It must control infection without a marked inflammatory response",
-    "It must be given in feed",
-    "It must kill all udder cells"
+    "It must cause a strong fever",
+    "It must avoid strong inflammation",
+    "It must be given mixed in the feed",
+    "It must kill infected udder cells"
    ],
    "correctOptionIndex": 1,
    "explanation": "Inflammation itself damages milk quality, so effective vaccines should control infection without marked inflammation.",
@@ -36477,10 +36477,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué requisito especial debe cumplir una vacuna contra mastitis según esta revisión?",
    "options": [
-    "Debe causar fiebre fuerte",
-    "Debe controlar la infección sin una respuesta inflamatoria marcada",
-    "Debe darse en el alimento",
-    "Debe matar las células de la ubre"
+    "Debe causar una fiebre fuerte",
+    "Debe evitar una inflamación marcada",
+    "Debe darse mezclada en el alimento",
+    "Debe matar las células infectadas"
    ],
    "correctOptionIndex": 1,
    "explanation": "La inflamación en sí daña la calidad de la leche, por eso la vacuna debe controlar la infección sin inflamación marcada.",
@@ -36550,9 +36550,9 @@
    "prompt": "What are MSCRAMMs in the pathogenesis of S. uberis mastitis?",
    "options": [
     "Antibiotics produced by the cow",
-    "Milk sugars",
-    "Bacterial surface proteins that bind host matrix molecules such as fibronectin and collagen",
-    "Viral capsids"
+    "Sugars dissolved in the milk",
+    "Adhesins for host matrix proteins",
+    "Protein shells of bacteriophages"
    ],
    "correctOptionIndex": 2,
    "explanation": "MSCRAMMs mediate adhesion to host cells, an early step before internalization into mammary cells.",
@@ -36573,10 +36573,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué son las MSCRAMM en la patogenia de la mastitis por S. uberis?",
    "options": [
-    "Antibióticos de la vaca",
-    "Azúcares de la leche",
-    "Proteínas bacterianas de superficie que se unen a moléculas de la matriz como fibronectina y colágeno",
-    "Cápsides virales"
+    "Antibióticos producidos por la vaca",
+    "Azúcares disueltos en la leche",
+    "Adhesinas para la matriz del huésped",
+    "Cubiertas proteicas de bacteriófagos"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las MSCRAMM median la adhesión a células del huésped, paso temprano antes de la internalización en células mamarias.",
@@ -36599,8 +36599,8 @@
    "options": [
     "It is always 0%",
     "It is always 100%",
-    "It is identical in all continents",
-    "It is highly variable, so no single average could be reported"
+    "It is identical on all continents",
+    "Too variable to give one average"
    ],
    "correctOptionIndex": 3,
    "explanation": "Resistance proportions varied widely and were influenced by many unmeasured factors.",
@@ -36624,7 +36624,7 @@
     "Siempre es 0%",
     "Siempre es 100%",
     "Es idéntica en todos los continentes",
-    "Es muy variable, por lo que no se pudo dar un promedio único"
+    "Muy variable para dar un promedio"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las proporciones de resistencia variaron mucho y dependieron de muchos factores no medidos.",
@@ -36645,9 +36645,9 @@
    "difficulty": "researcher",
    "prompt": "What did in vitro studies show about Streptococcus dysgalactiae and mammary epithelial cells?",
    "options": [
-    "It cannot attach to them",
-    "It survives inside them for long periods without losing viability",
-    "It kills them instantly",
+    "It cannot attach to them at all",
+    "It survives inside them for long",
+    "It kills them within seconds",
     "It turns them into neutrophils"
    ],
    "correctOptionIndex": 1,
@@ -36669,10 +36669,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué mostraron estudios in vitro sobre Streptococcus dysgalactiae y las células epiteliales mamarias?",
    "options": [
-    "No puede adherirse",
-    "Sobrevive dentro de ellas por largos períodos sin perder viabilidad",
-    "Las mata al instante",
-    "Las convierte en neutrófilos"
+    "No puede adherirse a ellas",
+    "Sobrevive largo tiempo en ellas",
+    "Las mata en pocos segundos",
+    "Las transforma en neutrófilos"
    ],
    "correctOptionIndex": 1,
    "explanation": "S. dysgalactiae se adhiere y es internalizado por células mamarias y sobrevive dentro, una posible forma de evadir defensas.",
@@ -36742,9 +36742,9 @@
    "prompt": "What is the main virulence factor of E. coli in mastitis?",
    "options": [
     "A capsule of hyaluronic acid",
-    "Spores",
-    "A cytotoxin from fungi",
-    "Lipopolysaccharide (LPS), causing endotoxic shock"
+    "Heat-resistant spores",
+    "A cytotoxin borrowed from fungi",
+    "LPS, causing endotoxic shock"
    ],
    "correctOptionIndex": 3,
    "explanation": "LPS binds TLR4 and triggers a strong inflammatory response that can cause endotoxic shock.",
@@ -36766,9 +36766,9 @@
    "prompt": "¿Cuál es el principal factor de virulencia de E. coli en la mastitis?",
    "options": [
     "Una cápsula de ácido hialurónico",
-    "Esporas",
-    "Una citotoxina fúngica",
-    "El lipopolisacárido (LPS), que causa shock endotóxico"
+    "Esporas resistentes al calor",
+    "Una citotoxina tomada de hongos",
+    "El LPS, que causa shock endotóxico"
    ],
    "correctOptionIndex": 3,
    "explanation": "El LPS se une a TLR4 y desencadena una fuerte respuesta inflamatoria que puede causar shock endotóxico.",
@@ -36790,9 +36790,9 @@
    "prompt": "Which receptor recognizes E. coli LPS in the udder?",
    "options": [
     "Toll-like receptor 4 (TLR4)",
-    "Insulin receptor",
-    "TLR3",
-    "Fc epsilon receptor"
+    "The insulin receptor",
+    "Toll-like receptor 3 (TLR3)",
+    "The Fc epsilon receptor"
    ],
    "correctOptionIndex": 0,
    "explanation": "LPS-TLR4 binding induces chemokines (IL-8) and pro-inflammatory cytokines (IL-6, IL-1β).",
@@ -36815,7 +36815,7 @@
    "options": [
     "El receptor tipo Toll 4 (TLR4)",
     "El receptor de insulina",
-    "TLR3",
+    "El receptor tipo Toll 3 (TLR3)",
     "El receptor Fc épsilon"
    ],
    "correctOptionIndex": 0,
@@ -36837,10 +36837,10 @@
    "difficulty": "expert",
    "prompt": "Why is Shiga toxin-producing E. coli (STEC) in mastitis likely underestimated?",
    "options": [
-    "It cannot grow in milk",
-    "It is always detected",
-    "Many labs detect E. coli without subtyping, so STEC is underdiagnosed",
-    "It only infects humans"
+    "It cannot grow in milk at all",
+    "It is always detected in routine culture",
+    "Labs rarely subtype E. coli isolates",
+    "It only infects humans, never cows"
    ],
    "correctOptionIndex": 2,
    "explanation": "STEC in mastitis is underdiagnosed; its low infectious dose makes it a public health concern.",
@@ -36861,10 +36861,10 @@
    "difficulty": "expert",
    "prompt": "¿Por qué la E. coli productora de toxina Shiga (STEC) en mastitis probablemente está subestimada?",
    "options": [
-    "No crece en la leche",
-    "Siempre se detecta",
-    "Muchos laboratorios detectan E. coli sin subtipificar, y la STEC queda subdiagnosticada",
-    "Solo infecta humanos"
+    "No puede crecer en la leche",
+    "Siempre se detecta en el cultivo de rutina",
+    "Los laboratorios rara vez subtipifican E. coli",
+    "Solo infecta a personas, nunca a vacas"
    ],
    "correctOptionIndex": 2,
    "explanation": "La STEC en mastitis está subdiagnosticada; su baja dosis infectiva la vuelve un problema de salud pública.",
@@ -36886,8 +36886,8 @@
    "prompt": "What does the evidence say about resistant mastitis coliforms threatening human health directly?",
    "options": [
     "They are proven to cause most human infections",
-    "There is no conclusive evidence of a direct threat, though similarities exist",
-    "They cannot carry resistance genes",
+    "No conclusive evidence of a direct threat",
+    "They cannot carry any resistance genes",
     "They are harmless and never resistant"
    ],
    "correctOptionIndex": 1,
@@ -36909,8 +36909,8 @@
    "difficulty": "researcher",
    "prompt": "¿Qué dice la evidencia sobre si los coliformes resistentes de mastitis amenazan directamente la salud humana?",
    "options": [
-    "Está probado que causan la mayoría de las infecciones humanas",
-    "No hay evidencia concluyente de amenaza directa, aunque hay similitudes",
+    "Está probado que causan casi todas las infecciones humanas",
+    "No hay evidencia concluyente de amenaza directa",
     "No pueden portar genes de resistencia",
     "Son inocuos y nunca resistentes"
    ],
@@ -36981,10 +36981,10 @@
    "difficulty": "expert",
    "prompt": "Why can Serratia marcescens mastitis outbreaks be linked to teat disinfectants?",
    "options": [
-    "The disinfectant feeds the cow",
-    "Serratia only grows in milk",
+    "The disinfectant serves as feed for cows",
+    "Serratia only grows inside the milk",
     "Disinfectants have no effect on bacteria",
-    "Serratia can resist specific biocides and spread through the disinfectant"
+    "Serratia resists some biocides"
    ],
    "correctOptionIndex": 3,
    "explanation": "Biocide-resistant Serratia can contaminate teat disinfectants, which must then be removed from the environment.",
@@ -37005,10 +37005,10 @@
    "difficulty": "expert",
    "prompt": "¿Por qué los brotes de mastitis por Serratia marcescens pueden vincularse a los desinfectantes de pezón?",
    "options": [
-    "El desinfectante alimenta a la vaca",
-    "Serratia solo crece en la leche",
-    "Los desinfectantes no afectan bacterias",
-    "Serratia puede resistir ciertos biocidas y diseminarse por el desinfectante"
+    "El desinfectante sirve de alimento a la vaca",
+    "Serratia solo crece dentro de la leche",
+    "Los desinfectantes no afectan a las bacterias",
+    "Serratia resiste ciertos biocidas"
    ],
    "correctOptionIndex": 3,
    "explanation": "Serratia resistente a biocidas puede contaminar desinfectantes de pezón, que deben retirarse del ambiente.",
@@ -37029,10 +37029,10 @@
    "difficulty": "researcher",
    "prompt": "What most likely explains differences in clinical severity among gram-negative mastitis pathogens?",
    "options": [
-    "Their color on agar",
-    "Their size",
-    "The structure of the lipid A fraction of their LPS",
-    "The cow's coat color"
+    "Their colony color on agar",
+    "Their cell size and their shape",
+    "The structure of their lipid A",
+    "The coat color of the cow"
    ],
    "correctOptionIndex": 2,
    "explanation": "Differences in lipid A of LPS between and within species likely explain severity differences.",
@@ -37053,9 +37053,9 @@
    "difficulty": "researcher",
    "prompt": "¿Qué explica probablemente las diferencias de gravedad clínica entre los gramnegativos de mastitis?",
    "options": [
-    "Su color en agar",
-    "Su tamaño",
-    "La estructura del lípido A de su LPS",
+    "El color de su colonia en agar",
+    "Su tamaño y forma celular",
+    "La estructura de su lípido A",
     "El color del pelaje de la vaca"
    ],
    "correctOptionIndex": 2,
@@ -37077,10 +37077,10 @@
    "difficulty": "explorer",
    "prompt": "What does the E. coli J5 vaccine do in dairy cows?",
    "options": [
-    "Prevents all mastitis",
-    "Reduces the severity of clinical coliform mastitis",
-    "Increases milk fat",
-    "Treats S. aureus"
+    "Prevents every kind of mastitis",
+    "Reduces clinical coliform severity",
+    "Increases the fat content of milk",
+    "Treats chronic S. aureus infections"
    ],
    "correctOptionIndex": 1,
    "explanation": "The J5 core-antigen bacterin reduces the severity of coliform mastitis, though it does not prevent all infections.",
@@ -37101,10 +37101,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué hace la vacuna J5 de E. coli en vacas lecheras?",
    "options": [
-    "Previene toda mastitis",
-    "Reduce la gravedad de la mastitis clínica por coliformes",
+    "Previene todo tipo de mastitis",
+    "Reduce la gravedad por coliformes",
     "Aumenta la grasa de la leche",
-    "Trata S. aureus"
+    "Trata infecciones crónicas por S. aureus"
    ],
    "correctOptionIndex": 1,
    "explanation": "La bacterina J5 de antígeno core reduce la gravedad de la mastitis por coliformes, aunque no evita todas las infecciones.",
@@ -37126,9 +37126,9 @@
    "prompt": "Which bacterial mutants are used in commercial core-antigen coliform mastitis vaccines?",
    "options": [
     "S. aureus Newman and USA300",
-    "Mycoplasma bovis PG45",
-    "Listeria EGD",
-    "E. coli O111:B4 (J5) and Salmonella Typhimurium Re-17"
+    "Mycoplasma bovis strains PG45 and PG2",
+    "Listeria monocytogenes EGD-e",
+    "E. coli J5 and Salmonella Re-17"
    ],
    "correctOptionIndex": 3,
    "explanation": "These rough mutants expose the conserved LPS core, giving cross-protection against different gram-negatives.",
@@ -37150,9 +37150,9 @@
    "prompt": "¿Qué mutantes bacterianos se usan en vacunas comerciales de antígeno core contra mastitis por coliformes?",
    "options": [
     "S. aureus Newman y USA300",
-    "Mycoplasma bovis PG45",
-    "Listeria EGD",
-    "E. coli O111:B4 (J5) y Salmonella Typhimurium Re-17"
+    "Mycoplasma bovis cepas PG45 y PG2",
+    "Listeria monocytogenes EGD-e",
+    "E. coli J5 y Salmonella Re-17"
    ],
    "correctOptionIndex": 3,
    "explanation": "Estos mutantes rugosos exponen el core conservado del LPS y dan protección cruzada contra distintos gramnegativos.",
@@ -37221,10 +37221,10 @@
    "difficulty": "explorer",
    "prompt": "How do Mycoplasma bovis mastitis outbreaks usually start?",
    "options": [
-    "By introducing infected cows into a farm",
-    "From rainwater",
-    "From feed grain",
-    "From wild birds only"
+    "By bringing in infected cows",
+    "From rainwater pooling in pens",
+    "From contaminated feed grain",
+    "From wild birds visiting the barn"
    ],
    "correctOptionIndex": 0,
    "explanation": "Most outbreaks start with purchased infected cows, maintained by poor hygiene and cow-to-cow spread.",
@@ -37245,10 +37245,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo suelen comenzar los brotes de mastitis por Mycoplasma bovis?",
    "options": [
-    "Al introducir vacas infectadas al establecimiento",
-    "Por agua de lluvia",
-    "Por el grano del alimento",
-    "Solo por aves silvestres"
+    "Al ingresar vacas infectadas",
+    "Por agua de lluvia en los corrales",
+    "Por grano del alimento contaminado",
+    "Por aves silvestres que visitan el galpón"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mayoría de los brotes empieza con vacas compradas infectadas y se mantiene por mala higiene y contagio entre vacas.",
@@ -37269,10 +37269,10 @@
    "difficulty": "researcher",
    "prompt": "What is the current status of treatment and vaccines for Mycoplasma bovis mastitis?",
    "options": [
-    "Penicillin cures it",
+    "Penicillin cures it within days",
     "A highly effective vaccine is widely sold",
-    "It resolves by itself in days",
-    "There is no effective treatment and no effective commercial vaccine"
+    "It resolves by itself in a few days",
+    "No effective treatment or vaccine exists"
    ],
    "correctOptionIndex": 3,
    "explanation": "Intrinsic beta-lactam resistance, growing AMR and unknown virulence mechanisms leave no effective treatment or vaccine.",
@@ -37293,10 +37293,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál es el estado actual del tratamiento y las vacunas para la mastitis por Mycoplasma bovis?",
    "options": [
-    "La penicilina la cura",
-    "Se vende una vacuna muy eficaz",
-    "Se resuelve sola en días",
-    "No hay tratamiento eficaz ni vacuna comercial eficaz"
+    "La penicilina la cura en días",
+    "Se vende mucho una vacuna muy eficaz",
+    "Se resuelve sola en pocos días",
+    "No hay tratamiento ni vacuna eficaces"
    ],
    "correctOptionIndex": 3,
    "explanation": "La resistencia intrínseca a betalactámicos, la resistencia creciente y la virulencia poco conocida dejan sin tratamiento ni vacuna eficaces.",
@@ -37317,10 +37317,10 @@
    "difficulty": "expert",
    "prompt": "Why has Mycoplasma bovis often gone undetected in dairy farms?",
    "options": [
-    "It is always symptomatic",
-    "Some cows are asymptomatic or shed it intermittently, and testing was lacking",
-    "It turns milk blue",
-    "It is easy to culture in a day"
+    "It is always clearly symptomatic",
+    "Silent, intermittent shedders",
+    "It turns the milk a bright blue color",
+    "It is easy to culture within a day"
    ],
    "correctOptionIndex": 1,
    "explanation": "Silent carriers, intermittent shedding and limited testing allowed M. bovis to spread undetected.",
@@ -37341,10 +37341,10 @@
    "difficulty": "expert",
    "prompt": "¿Por qué Mycoplasma bovis pasó a menudo inadvertido en los tambos?",
    "options": [
-    "Siempre da síntomas",
-    "Algunas vacas son asintomáticas o lo eliminan en forma intermitente, y faltaban pruebas",
-    "Vuelve azul la leche",
-    "Se cultiva fácil en un día"
+    "Siempre da síntomas claros",
+    "Portadoras silenciosas e intermitentes",
+    "Vuelve la leche de un color azul intenso",
+    "Se cultiva fácilmente en un día"
    ],
    "correctOptionIndex": 1,
    "explanation": "Portadoras silenciosas, eliminación intermitente y pocas pruebas permitieron que se difundiera sin detectarse.",
@@ -37415,8 +37415,8 @@
    "options": [
     "It is usually therapy-resistant",
     "It responds well to penicillin",
-    "It only affects beef calves",
-    "It is caused by a virus"
+    "It only affects young beef calves",
+    "It is caused by a bovine virus"
    ],
    "correctOptionIndex": 0,
    "explanation": "Prototheca mastitis is therapy-resistant; infected cows are often culled, and poor management favors endemic herds.",
@@ -37439,8 +37439,8 @@
    "options": [
     "Suele ser resistente a la terapia",
     "Responde bien a la penicilina",
-    "Solo afecta terneros de carne",
-    "La causa un virus"
+    "Solo afecta terneros jóvenes de carne",
+    "La causa un virus bovino"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mastitis por Prototheca es resistente al tratamiento; las vacas infectadas suelen descartarse, y el mal manejo favorece rodeos endémicos.",
@@ -37461,10 +37461,10 @@
    "difficulty": "researcher",
    "prompt": "What is surprising about non-aureus staphylococci and mammaliicocci (NASM) in mastitis?",
    "options": [
-    "They are viruses",
-    "They never cause disease",
-    "They only live in soil",
-    "Besides causing mastitis, some studies suggest a protective role"
+    "They turned out to be viruses",
+    "They never cause any disease",
+    "They live only in soil and water",
+    "Some may even protect the udder"
    ],
    "correctOptionIndex": 3,
    "explanation": "NASM cause increasing mastitis, including resistant strains, but some may protect the udder against major pathogens.",
@@ -37485,10 +37485,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué es sorprendente de los estafilococos no aureus y mammaliicocos (NASM) en la mastitis?",
    "options": [
-    "Son virus",
-    "Nunca causan enfermedad",
-    "Solo viven en el suelo",
-    "Además de causar mastitis, algunos estudios sugieren un rol protector"
+    "Resultaron ser virus",
+    "Nunca causan ninguna enfermedad",
+    "Solo viven en el suelo y el agua",
+    "Algunos incluso protegerían la ubre"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los NASM causan cada vez más mastitis, incluso cepas resistentes, pero algunos podrían proteger la ubre frente a patógenos mayores.",
@@ -37509,10 +37509,10 @@
    "difficulty": "explorer",
    "prompt": "Why does the udder become inflamed during mastitis?",
    "options": [
-    "Because milk is too cold",
-    "Because immune cells and soluble factors act together to eliminate invading microbes",
-    "Because of excess fat",
-    "Because the cow is pregnant"
+    "Because the milk gets too cold",
+    "Immune cells and factors fight microbes",
+    "Because of an excess of fat in the ration",
+    "Because the cow is pregnant again"
    ],
    "correctOptionIndex": 1,
    "explanation": "Inflammation is the immune response; its factors differ depending on the infecting pathogen.",
@@ -37533,10 +37533,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué se inflama la ubre en la mastitis?",
    "options": [
-    "Porque la leche está fría",
-    "Porque células inmunes y factores solubles actúan juntos para eliminar microbios invasores",
-    "Por exceso de grasa",
-    "Porque la vaca está preñada"
+    "Porque la leche se enfría demasiado",
+    "Células y factores inmunes atacan al microbio",
+    "Por un exceso de grasa en la ración diaria",
+    "Porque la vaca quedó preñada de nuevo"
    ],
    "correctOptionIndex": 1,
    "explanation": "La inflamación es la respuesta inmune; sus factores varían según el patógeno que infecta.",
@@ -37557,10 +37557,10 @@
    "difficulty": "researcher",
    "prompt": "Why is biofilm formation studied in bovine mastitis?",
    "options": [
-    "It makes milk sweeter",
-    "It speeds healing",
-    "It could explain cases not resolved by standard antibiotic treatment",
-    "It prevents infection"
+    "It makes the milk taste sweeter",
+    "It speeds up healing of the teat",
+    "It may explain antibiotic failures",
+    "It prevents new infections entirely"
    ],
    "correctOptionIndex": 2,
    "explanation": "Chronic biofilm infections resist antibiotics, but the in vivo role of biofilm in the udder is still unclear.",
@@ -37581,10 +37581,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué se estudia la formación de biofilm en la mastitis bovina?",
    "options": [
-    "Endulza la leche",
-    "Acelera la curación",
-    "Podría explicar casos que no se resuelven con el tratamiento antibiótico estándar",
-    "Previene la infección"
+    "Hace que la leche sea más dulce",
+    "Acelera la curación del pezón",
+    "Podría explicar fallas del antibiótico",
+    "Previene por completo nuevas infecciones"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las infecciones crónicas por biofilm resisten antibióticos, aunque su papel real dentro de la ubre aún no está claro.",
@@ -37605,10 +37605,10 @@
    "difficulty": "expert",
    "prompt": "What is the main gap in biofilm research in bovine mastitis?",
    "options": [
-    "Very few studies examine biofilms inside the udder in vivo",
-    "There are too many in vivo studies",
-    "Biofilms cannot be grown in vitro",
-    "No milk isolates have been tested"
+    "Few studies look at biofilms in the udder",
+    "There are too many in vivo studies already",
+    "Biofilms cannot be grown in the lab",
+    "No isolates from milk have ever been tested"
    ],
    "correctOptionIndex": 0,
    "explanation": "Most work tests milk isolates in vitro; only two papers located biofilms inside infected udders.",
@@ -37629,10 +37629,10 @@
    "difficulty": "expert",
    "prompt": "¿Cuál es el principal vacío en la investigación de biofilm en mastitis bovina?",
    "options": [
-    "Muy pocos estudios examinan biofilms dentro de la ubre in vivo",
-    "Hay demasiados estudios in vivo",
-    "No se pueden cultivar biofilms in vitro",
-    "No se probaron aislamientos de leche"
+    "Pocos estudios miran biofilms en la ubre",
+    "Ya hay demasiados estudios in vivo",
+    "Los biofilms no se pueden cultivar in vitro",
+    "Nunca se probaron aislamientos de leche"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mayoría prueba aislamientos de leche in vitro; solo dos trabajos ubicaron biofilms dentro de ubres infectadas.",
@@ -37701,10 +37701,10 @@
    "difficulty": "explorer",
    "prompt": "Which pathogens raise quarter somatic cell count the least?",
    "options": [
-    "Coliforms and S. uberis",
-    "S. agalactiae",
-    "S. aureus",
-    "Non-aureus staphylococci and Corynebacterium bovis"
+    "Coliforms and Streptococcus uberis",
+    "Streptococcus agalactiae",
+    "Staphylococcus aureus",
+    "NAS and Corynebacterium bovis"
    ],
    "correctOptionIndex": 3,
    "explanation": "Minor pathogens (NAS ~138,000; C. bovis ~105,000) raise SCC little, while coliforms and S. uberis exceed 1 million.",
@@ -37725,10 +37725,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué patógenos elevan menos el recuento de células somáticas del cuarto?",
    "options": [
-    "Coliformes y S. uberis",
-    "S. agalactiae",
-    "S. aureus",
-    "Estafilococos no aureus y Corynebacterium bovis"
+    "Coliformes y Streptococcus uberis",
+    "Streptococcus agalactiae",
+    "Staphylococcus aureus",
+    "ENA y Corynebacterium bovis"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los patógenos menores (NAS ~138.000; C. bovis ~105.000) elevan poco el RCS, mientras coliformes y S. uberis superan el millón.",
@@ -37749,10 +37749,10 @@
    "difficulty": "beginner",
    "prompt": "What does the somatic cell count (SCC) in milk mainly indicate?",
    "options": [
-    "The fat content",
-    "The sugar content",
-    "Udder inflammation, usually due to infection",
-    "The milk's color"
+    "The fat content of the milk",
+    "The lactose content of the milk",
+    "Udder inflammation, mostly infection",
+    "The color and clarity of the milk"
    ],
    "correctOptionIndex": 2,
    "explanation": "SCC—mostly white blood cells—rises with intramammary infection and is the key indicator of udder health.",
@@ -37773,10 +37773,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué indica principalmente el recuento de células somáticas (RCS) de la leche?",
    "options": [
-    "El contenido de grasa",
-    "El contenido de azúcar",
-    "La inflamación de la ubre, en general por infección",
-    "El color de la leche"
+    "El contenido de grasa de la leche",
+    "El contenido de lactosa disuelta en la leche",
+    "Inflamación de la ubre, casi siempre infecciosa",
+    "El color y la claridad de la leche"
    ],
    "correctOptionIndex": 2,
    "explanation": "El RCS —sobre todo glóbulos blancos— aumenta con la infección intramamaria y es el indicador clave de salud de ubre.",
@@ -37797,10 +37797,10 @@
    "difficulty": "explorer",
    "prompt": "How have many countries encouraged lower bulk milk somatic cell counts?",
    "options": [
-    "Through milk price premiums or penalties",
-    "By banning dairy farms",
-    "By adding water to milk",
-    "By vaccinating farmers"
+    "Milk price premiums or penalties",
+    "By banning small family dairy farms",
+    "By adding water to dilute the milk",
+    "By vaccinating the farmers each year"
    ],
    "correctOptionIndex": 0,
    "explanation": "Payment systems reward low bulk-tank SCC and penalize high counts, incentivizing mastitis control.",
@@ -37821,10 +37821,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo incentivaron muchos países la reducción del recuento de células somáticas del tanque?",
    "options": [
-    "Con bonificaciones o penalizaciones en el precio de la leche",
-    "Prohibiendo tambos",
-    "Agregando agua a la leche",
-    "Vacunando a los productores"
+    "Con premios o castigos en el precio",
+    "Prohibiendo los tambos familiares chicos",
+    "Agregando agua para diluir la leche",
+    "Vacunando a los productores cada año"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los sistemas de pago premian el bajo RCS del tanque y castigan los altos, incentivando el control de la mastitis.",
@@ -37845,10 +37845,10 @@
    "difficulty": "researcher",
    "prompt": "In the herd-level approach to high bulk milk SCC, what comes right after defining the problem?",
    "options": [
-    "Selling the whole herd",
-    "Changing the milk truck",
-    "Detecting the cows causing the problem",
-    "Stopping milking for a week"
+    "Selling the whole herd at once",
+    "Changing the milk collection truck",
+    "Finding the cows that cause it",
+    "Stopping milking for a full week"
    ],
    "correctOptionIndex": 2,
    "explanation": "Steps: define the problem, detect responsible cows, set goals, implement a plan, and evaluate results.",
@@ -37869,10 +37869,10 @@
    "difficulty": "researcher",
    "prompt": "En el abordaje de rodeo ante RCS de tanque alto, ¿qué viene justo después de definir el problema?",
    "options": [
-    "Vender todo el rodeo",
-    "Cambiar el camión",
-    "Detectar las vacas que causan el problema",
-    "Dejar de ordeñar una semana"
+    "Vender todo el rodeo de una vez",
+    "Cambiar el camión que recoge la leche",
+    "Detectar las vacas que lo causan",
+    "Dejar de ordeñar una semana entera"
    ],
    "correctOptionIndex": 2,
    "explanation": "Pasos: definir el problema, detectar las vacas responsables, fijar metas, aplicar un plan y evaluar resultados.",
@@ -37941,10 +37941,10 @@
    "difficulty": "curious",
    "prompt": "What causes the largest economic losses from mastitis?",
    "options": [
-    "Veterinary fees",
-    "Drug costs",
-    "Discarded milk only",
-    "Reduced milk production from subclinical mastitis"
+    "Veterinary fees for each visit",
+    "The cost of the drugs used",
+    "Discarded milk alone",
+    "Less milk from subclinical cases"
    ],
    "correctOptionIndex": 3,
    "explanation": "Subclinical mastitis silently lowers milk yield, the largest share of losses—more than drugs or vet visits.",
@@ -37965,10 +37965,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué causa las mayores pérdidas económicas por mastitis?",
    "options": [
-    "Los honorarios veterinarios",
-    "El costo de los fármacos",
+    "Los honorarios veterinarios por visita",
+    "El costo de los fármacos usados",
     "Solo la leche descartada",
-    "La menor producción de leche por mastitis subclínica"
+    "Menos leche por casos subclínicos"
    ],
    "correctOptionIndex": 3,
    "explanation": "La mastitis subclínica baja en silencio la producción, la mayor parte de las pérdidas, más que fármacos o veterinario.",
@@ -38037,10 +38037,10 @@
    "difficulty": "explorer",
    "prompt": "Approximately how much can bovine mastitis cost the global dairy industry each year?",
    "options": [
-    "EUR 32 thousand",
-    "EUR 32 million",
+    "About EUR 32 thousand",
+    "About EUR 32 million",
     "Up to EUR 32 billion",
-    "Nothing measurable"
+    "Nothing that is measurable"
    ],
    "correctOptionIndex": 2,
    "explanation": "Mastitis is a polymicrobial disease with global costs estimated up to EUR 32 billion a year.",
@@ -38061,10 +38061,10 @@
    "difficulty": "explorer",
    "prompt": "¿Aproximadamente cuánto puede costar la mastitis bovina a la industria lechera mundial por año?",
    "options": [
-    "32 mil euros",
-    "32 millones de euros",
+    "Unos 32 mil euros",
+    "Unos 32 millones de euros",
     "Hasta 32 mil millones de euros",
-    "Nada medible"
+    "Nada que pueda medirse en dinero"
    ],
    "correctOptionIndex": 2,
    "explanation": "La mastitis es polimicrobiana, con costos mundiales estimados de hasta 32 mil millones de euros anuales.",
@@ -38085,10 +38085,10 @@
    "difficulty": "curious",
    "prompt": "What are bacteriophages, proposed as a mastitis therapy?",
    "options": [
-    "Antibiotics made by fungi",
-    "Viruses that target and lyse bacteria very specifically",
-    "Vitamins",
-    "Immune cells from the cow"
+    "Antibiotics produced by soil fungi",
+    "Viruses that lyse specific bacteria",
+    "Vitamins added to the dry-cow ration",
+    "Immune cells taken from the cow's blood"
    ],
    "correctOptionIndex": 1,
    "explanation": "Phages infect and lyse specific bacteria and could complement or replace antibiotics.",
@@ -38109,10 +38109,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué son los bacteriófagos, propuestos como terapia para la mastitis?",
    "options": [
-    "Antibióticos de hongos",
-    "Virus que atacan y lisan bacterias con gran especificidad",
-    "Vitaminas",
-    "Células inmunes de la vaca"
+    "Antibióticos producidos por hongos",
+    "Virus que lisan bacterias específicas",
+    "Vitaminas agregadas a la ración de secado",
+    "Células inmunes tomadas de la sangre"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los fagos infectan y lisan bacterias específicas y podrían complementar o reemplazar a los antibióticos.",
@@ -38133,10 +38133,10 @@
    "difficulty": "researcher",
    "prompt": "Which improvements does this review highlight for phage therapy in mastitis?",
    "options": [
-    "Phage cocktail optimization, formulation and genetic engineering",
-    "Replacing phages with steroids",
-    "Giving phages in drinking water only",
-    "Using one phage for all bacteria"
+    "Better cocktails and formulations",
+    "Replacing phages with corticosteroids",
+    "Giving phages only in drinking water",
+    "Using a single phage for all bacteria"
    ],
    "correctOptionIndex": 0,
    "explanation": "Cocktails, better formulation and engineering aim to improve delivery, stability, efficacy and safety in cattle.",
@@ -38157,10 +38157,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué mejoras destaca esta revisión para la terapia con fagos en mastitis?",
    "options": [
-    "Optimizar cócteles de fagos, formulación e ingeniería genética",
-    "Reemplazarlos por corticoides",
-    "Darlos solo en el agua",
-    "Usar un fago para todas las bacterias"
+    "Mejores cócteles, formulación e ingeniería",
+    "Reemplazar los fagos por corticoides",
+    "Darlos solo en el agua de bebida",
+    "Usar un solo fago para todas las bacterias"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los cócteles, mejores formulaciones y la ingeniería buscan mejorar la entrega, estabilidad, eficacia y seguridad.",
@@ -38181,10 +38181,10 @@
    "difficulty": "researcher",
    "prompt": "What did this critical appraisal conclude about probiotics for mastitis?",
    "options": [
-    "They are proven cures",
-    "They replace all antibiotics",
-    "They work best orally",
-    "There is currently no sound scientific foundation for their use"
+    "They are proven, reliable cures",
+    "They can replace all antibiotics",
+    "They work best when given orally in feed",
+    "No sound scientific basis yet"
    ],
    "correctOptionIndex": 3,
    "explanation": "Oral probiotics look unpromising; intramammary use calls for caution; teat-apex probiotics deserve research.",
@@ -38205,10 +38205,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué concluyó esta evaluación crítica sobre los probióticos para mastitis?",
    "options": [
-    "Que son curas probadas",
-    "Que reemplazan a todos los antibióticos",
-    "Que funcionan mejor por boca",
-    "Que hoy no hay un fundamento científico sólido para usarlos"
+    "Que son curas probadas y confiables",
+    "Que pueden reemplazar a todos los antibióticos",
+    "Que funcionan mejor si se dan por boca",
+    "Que aún no hay una base científica sólida"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los orales no son prometedores; los intramamarios requieren cautela; los aplicados en la punta del pezón merecen más estudio.",
@@ -38229,10 +38229,10 @@
    "difficulty": "expert",
    "prompt": "What happens when lactic acid bacteria (LAB) are infused into the udder?",
    "options": [
-    "Nothing at all",
-    "They are pro-inflammatory, causing neutrophil influx into milk",
-    "They raise milk fat",
-    "They seal the teat"
+    "Nothing happens at all",
+    "They cause neutrophil influx into milk",
+    "They raise the fat content of milk",
+    "They permanently seal the teat canal"
    ],
    "correctOptionIndex": 1,
    "explanation": "Intramammary LABs induce intense neutrophil influx; their capacity to cure mastitis is unproven.",
@@ -38253,10 +38253,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué ocurre cuando se infunden bacterias ácido lácticas (BAL) en la ubre?",
    "options": [
-    "Nada",
-    "Son proinflamatorias y provocan entrada de neutrófilos a la leche",
-    "Aumentan la grasa",
-    "Sellan el pezón"
+    "No pasa absolutamente nada",
+    "Atraen neutrófilos a la leche",
+    "Aumentan la grasa de la leche",
+    "Sellan para siempre el canal del pezón"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las BAL intramamarias inducen un intenso ingreso de neutrófilos; su capacidad de curar la mastitis no está probada.",
@@ -38277,10 +38277,10 @@
    "difficulty": "curious",
    "prompt": "What is selective dry cow therapy?",
    "options": [
-    "Giving antibiotics at dry-off only to infected or high-risk cows or quarters",
-    "Treating every cow with antibiotics",
-    "Never drying off cows",
-    "Giving vitamins at calving"
+    "Antibiotics at dry-off only for infected cows",
+    "Treating every cow with antibiotics at dry-off",
+    "Never drying off the cows between lactations",
+    "Giving vitamins to every cow at calving"
    ],
    "correctOptionIndex": 0,
    "explanation": "Selective therapy targets antibiotics to cows that need them, reducing antimicrobial use.",
@@ -38301,10 +38301,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué es la terapia de secado selectiva?",
    "options": [
-    "Dar antibióticos al secado solo a vacas o cuartos infectados o de alto riesgo",
-    "Tratar a todas las vacas",
-    "No secar nunca a las vacas",
-    "Dar vitaminas al parto"
+    "Antibiótico al secado solo a vacas infectadas",
+    "Tratar a todas las vacas con antibiótico al secado",
+    "No secar nunca a las vacas entre lactancias",
+    "Dar vitaminas a todas las vacas al parto"
    ],
    "correctOptionIndex": 0,
    "explanation": "La terapia selectiva dirige los antibióticos a las vacas que los necesitan y reduce el uso de antimicrobianos.",
@@ -38326,9 +38326,9 @@
    "prompt": "Which method is the most economically viable to select cows for selective dry cow therapy?",
    "options": [
     "Bacterial culture of every quarter",
-    "Blood tests",
+    "Blood tests for antibodies",
     "Somatic cell count (SCC)",
-    "Ultrasound"
+    "Udder ultrasound imaging"
    ],
    "correctOptionIndex": 2,
    "explanation": "SCC is the most practical and economical; combining it with differential SCC improves accuracy.",
@@ -38349,10 +38349,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué método es el más viable económicamente para seleccionar vacas para el secado selectivo?",
    "options": [
-    "Cultivo de cada cuarto",
-    "Análisis de sangre",
-    "Recuento de células somáticas (RCS)",
-    "Ecografía"
+    "Cultivo bacteriano de cada cuarto",
+    "Análisis de anticuerpos en sangre",
+    "Recuento de células somáticas",
+    "Ecografía de la ubre"
    ],
    "correctOptionIndex": 2,
    "explanation": "El RCS es el más práctico y económico; combinado con el RCS diferencial mejora la precisión.",
@@ -38373,10 +38373,10 @@
    "difficulty": "researcher",
    "prompt": "According to the review, what condition makes selective dry cow therapy safe and effective?",
    "options": [
-    "Treating no cows at all",
-    "Accurately identifying infected cows and using internal teat sealants in untreated quarters",
+    "Treating no cows at all at dry-off",
+    "Spotting infected cows; sealing the rest",
     "Milking twice during the dry period",
-    "Using oral antibiotics instead"
+    "Using oral antibiotics instead of tubes"
    ],
    "correctOptionIndex": 1,
    "explanation": "SDCT maintains udder health and profitability if infected cows are identified and untreated quarters receive teat sealants.",
@@ -38397,10 +38397,10 @@
    "difficulty": "researcher",
    "prompt": "Según la revisión, ¿qué condición hace segura y eficaz la terapia de secado selectiva?",
    "options": [
-    "No tratar a ninguna vaca",
-    "Identificar bien a las infectadas y usar selladores internos en los cuartos no tratados",
+    "No tratar a ninguna vaca al secado",
+    "Detectar infectadas y sellar el resto",
     "Ordeñar dos veces durante el secado",
-    "Usar antibióticos orales"
+    "Usar antibióticos orales en vez de pomos"
    ],
    "correctOptionIndex": 1,
    "explanation": "El secado selectivo mantiene la salud de ubre y la rentabilidad si se identifican las infectadas y se sellan los cuartos no tratados.",
@@ -38421,10 +38421,10 @@
    "difficulty": "expert",
    "prompt": "In this meta-analysis, when was selective dry cow therapy as good as blanket therapy for infections at calving?",
    "options": [
-    "Never",
-    "Only in beef cows",
-    "Only without teat sealants",
-    "When internal teat sealants were used"
+    "Never, in any of the trials",
+    "Only in beef suckler cows",
+    "Only when no teat sealant was used",
+    "When internal sealants were used"
    ],
    "correctOptionIndex": 3,
    "explanation": "Overall selective therapy had higher IMI risk at calving, but with internal teat sealants there was no difference.",
@@ -38445,10 +38445,10 @@
    "difficulty": "expert",
    "prompt": "En este metaanálisis, ¿cuándo fue la terapia selectiva tan buena como la total para infecciones al parto?",
    "options": [
-    "Nunca",
-    "Solo en vacas de carne",
-    "Solo sin selladores",
-    "Cuando se usaron selladores internos de pezón"
+    "Nunca, en ninguno de los ensayos",
+    "Solo en vacas de cría de carne",
+    "Solo cuando no se usó ningún sellador",
+    "Cuando se usaron selladores internos"
    ],
    "correctOptionIndex": 3,
    "explanation": "En general la selectiva tuvo más riesgo al parto, pero con selladores internos no hubo diferencia.",
@@ -38469,10 +38469,10 @@
    "difficulty": "explorer",
    "prompt": "What is 'blanket' dry cow therapy?",
    "options": [
-    "Treating all cows/quarters with antibiotics at dry-off",
+    "Antibiotics for every cow at dry-off",
     "Covering cows with blankets in winter",
-    "Treating only sick cows",
-    "A vaccine given at calving"
+    "Treating only cows that look sick",
+    "A vaccine that is given at calving"
    ],
    "correctOptionIndex": 0,
    "explanation": "Blanket therapy treats every quarter at dry-off; concern about resistance is shifting practice toward selective therapy.",
@@ -38493,10 +38493,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué es la terapia de secado 'total' (blanket)?",
    "options": [
-    "Tratar con antibióticos a todas las vacas/cuartos al secado",
+    "Antibiótico a todas las vacas al secado",
     "Tapar a las vacas con mantas en invierno",
-    "Tratar solo a las enfermas",
-    "Una vacuna al parto"
+    "Tratar solo a las vacas que se ven enfermas",
+    "Una vacuna que se aplica al parto"
    ],
    "correctOptionIndex": 0,
    "explanation": "La terapia total trata todos los cuartos al secado; la preocupación por la resistencia está llevando a la selectiva.",
@@ -38565,10 +38565,10 @@
    "difficulty": "researcher",
    "prompt": "Which active ingredient is used in common internal teat sealants?",
    "options": [
-    "Penicillin",
-    "Iodine",
+    "Benzathine penicillin",
+    "Povidone-iodine",
     "Bismuth subnitrate",
-    "Chlorhexidine"
+    "Chlorhexidine gluconate"
    ],
    "correctOptionIndex": 2,
    "explanation": "Bismuth subnitrate sealants form a physical barrier in the teat canal and outperformed antimicrobials for preventing new IMI.",
@@ -38589,10 +38589,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué principio activo usan los selladores internos de pezón comunes?",
    "options": [
-    "Penicilina",
-    "Yodo",
+    "Penicilina benzatínica",
+    "Povidona yodada",
     "Subnitrato de bismuto",
-    "Clorhexidina"
+    "Gluconato de clorhexidina"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los selladores de subnitrato de bismuto forman una barrera física en el canal del pezón y superaron a los antimicrobianos para prevenir nuevas infecciones.",
@@ -38613,10 +38613,10 @@
    "difficulty": "researcher",
    "prompt": "By how much did internal teat sealants (with or without antibiotics) reduce clinical mastitis after calving?",
    "options": [
-    "About 29% (alone) to 48% (with antibiotic dry cow therapy)",
-    "No effect",
-    "About 2%",
-    "About 95%"
+    "By about 29% to 48%",
+    "No measurable effect at all",
+    "By only about 2%",
+    "By about 95% in every herd"
    ],
    "correctOptionIndex": 0,
    "explanation": "Sealants alone cut clinical mastitis risk by 29% and with antibiotic dry cow therapy by 48%.",
@@ -38637,10 +38637,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuánto redujeron los selladores internos (con o sin antibiótico) la mastitis clínica después del parto?",
    "options": [
-    "Alrededor de 29% (solos) a 48% (con antibiótico de secado)",
-    "Ningún efecto",
-    "Alrededor de 2%",
-    "Alrededor de 95%"
+    "Entre un 29% y un 48%",
+    "Ningún efecto medible",
+    "Solo alrededor de un 2%",
+    "Un 95% en todos los rodeos"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los selladores solos redujeron 29% el riesgo de mastitis clínica y con antibiótico de secado, 48%.",
@@ -38661,10 +38661,10 @@
    "difficulty": "beginner",
    "prompt": "What does an internal teat sealant do at dry-off?",
    "options": [
-    "Kills all bacteria in the blood",
+    "Kills all bacteria in the cow's blood",
     "Increases milk yield immediately",
-    "Feeds the calf",
-    "Forms a plug in the teat to keep bacteria out during the dry period"
+    "Provides nutrients for the calf",
+    "Plugs the teat to keep bacteria out"
    ],
    "correctOptionIndex": 3,
    "explanation": "An internal teat sealant (bismuth subnitrate paste) physically blocks the teat canal during the dry period.",
@@ -38686,9 +38686,9 @@
    "prompt": "¿Qué hace un sellador interno de pezón al secado?",
    "options": [
     "Mata todas las bacterias de la sangre",
-    "Aumenta la leche al instante",
-    "Alimenta al ternero",
-    "Forma un tapón en el pezón que impide la entrada de bacterias durante el secado"
+    "Aumenta la producción de inmediato",
+    "Aporta nutrientes al ternero",
+    "Tapona el pezón y frena a las bacterias"
    ],
    "correctOptionIndex": 3,
    "explanation": "Un sellador interno (pasta de subnitrato de bismuto) bloquea físicamente el canal del pezón durante el secado.",
@@ -38709,10 +38709,10 @@
    "difficulty": "explorer",
    "prompt": "How important is the milking machine as a cause of new udder infections?",
    "options": [
-    "It causes almost all infections",
-    "It never matters",
-    "Most new infections are due to other factors; the machine may account for ~10–20%",
-    "It only matters in goats"
+    "It causes almost all new infections",
+    "It never matters for udder health",
+    "A minor share, perhaps ~10–20%",
+    "It only matters when milking goats"
    ],
    "correctOptionIndex": 2,
    "explanation": "Machine effects may account for up to 20% of new infections in some herds, about 10% on average, if settings are right.",
@@ -38733,10 +38733,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué importancia tiene la máquina de ordeño como causa de nuevas infecciones de ubre?",
    "options": [
-    "Causa casi todas las infecciones",
-    "Nunca importa",
-    "La mayoría se debe a otros factores; la máquina puede explicar ~10–20%",
-    "Solo importa en cabras"
+    "Causa casi todas las infecciones nuevas",
+    "Nunca importa para la salud de la ubre",
+    "Una parte menor, quizá ~10–20%",
+    "Solo importa al ordeñar cabras"
    ],
    "correctOptionIndex": 2,
    "explanation": "La máquina puede explicar hasta 20% de nuevas infecciones en algunos rodeos y ~10% en promedio, si está bien regulada.",
@@ -38757,10 +38757,10 @@
    "difficulty": "beginner",
    "prompt": "What is key to prevent the milking machine from contributing to mastitis?",
    "options": [
-    "Proper maintenance and correct operation",
-    "Milking faster than possible",
-    "Never cleaning it",
-    "Turning it off halfway"
+    "Proper maintenance and operation",
+    "Milking faster than the cows allow",
+    "Never cleaning the milking units",
+    "Turning it off halfway through milking"
    ],
    "correctOptionIndex": 0,
    "explanation": "Correct settings, maintenance and operation of the milking system minimize its role in mastitis.",
@@ -38781,9 +38781,9 @@
    "difficulty": "beginner",
    "prompt": "¿Qué es clave para que la máquina de ordeño no favorezca la mastitis?",
    "options": [
-    "El mantenimiento y el uso correctos",
-    "Ordeñar más rápido de lo posible",
-    "No limpiarla nunca",
+    "Mantenimiento y uso correctos",
+    "Ordeñar más rápido de lo que la vaca permite",
+    "No limpiar nunca las unidades",
     "Apagarla a mitad del ordeño"
    ],
    "correctOptionIndex": 0,
@@ -38806,9 +38806,9 @@
    "prompt": "What did the systematic review conclude about teat-end hyperkeratosis?",
    "options": [
     "Any teat-end change prevents mastitis",
-    "It has no relation to mastitis",
-    "It only affects heifers",
-    "Severe hyperkeratosis is a risk factor for clinical and subclinical mastitis"
+    "It has no relation to mastitis at all",
+    "It only affects first-calf heifers",
+    "Severe forms raise mastitis risk"
    ],
    "correctOptionIndex": 3,
    "explanation": "Severe teat-end hyperkeratosis increased mastitis risk, especially for S. aureus; mild changes may even be protective.",
@@ -38829,10 +38829,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué concluyó la revisión sistemática sobre la hiperqueratosis de la punta del pezón?",
    "options": [
-    "Cualquier cambio previene la mastitis",
-    "No tiene relación con la mastitis",
-    "Solo afecta vaquillonas",
-    "La hiperqueratosis grave es factor de riesgo de mastitis clínica y subclínica"
+    "Cualquier cambio en la punta previene mastitis",
+    "No tiene ninguna relación con la mastitis",
+    "Solo afecta a vaquillonas de primer parto",
+    "Las formas graves aumentan el riesgo"
    ],
    "correctOptionIndex": 3,
    "explanation": "La hiperqueratosis grave aumentó el riesgo, sobre todo de S. aureus; los cambios leves incluso podrían proteger.",
@@ -38853,10 +38853,10 @@
    "difficulty": "researcher",
    "prompt": "How might mild teat-end hyperkeratosis affect udder infection?",
    "options": [
-    "It always causes infection",
-    "It may be protective, as a physiological response to milking",
-    "It causes blindness",
-    "It changes milk color"
+    "It always leads to infection",
+    "It may be a protective adaptation",
+    "It causes blindness in cows",
+    "It changes the color of the milk"
    ],
    "correctOptionIndex": 1,
    "explanation": "Quarters with mild THK had lower infection or SCC than quarters with none, so the focus is on preventing severe THK.",
@@ -38877,9 +38877,9 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo podría afectar la hiperqueratosis leve de la punta del pezón a la infección?",
    "options": [
-    "Siempre causa infección",
-    "Podría ser protectora, como respuesta fisiológica al ordeño",
-    "Causa ceguera",
+    "Siempre lleva a infección",
+    "Podría ser protectora",
+    "Causa ceguera en las vacas",
     "Cambia el color de la leche"
    ],
    "correctOptionIndex": 1,
@@ -38901,10 +38901,10 @@
    "difficulty": "expert",
    "prompt": "How can the way intramammary dry-off tubes are inserted reduce new infections?",
    "options": [
-    "Inserting the full cannula deep into the cistern",
-    "Inserting it twice",
-    "Partial insertion of the cannula (2–3 mm) into the teat canal",
-    "Not cleaning the teat first"
+    "Inserting the full cannula into the cistern",
+    "Inserting the tube twice in a row",
+    "Inserting only 2–3 mm of the cannula",
+    "Skipping teat cleaning beforehand"
    ],
    "correctOptionIndex": 2,
    "explanation": "Partial insertion preserves teat canal keratin and cut new infections by about 50%.",
@@ -38926,8 +38926,8 @@
    "prompt": "¿Cómo puede reducir nuevas infecciones la forma de introducir los pomos intramamarios al secado?",
    "options": [
     "Introducir toda la cánula hasta la cisterna",
-    "Introducirla dos veces",
-    "Introducir la cánula solo parcialmente (2–3 mm) en el canal",
+    "Introducir el pomo dos veces seguidas",
+    "Introducir solo 2–3 mm de la cánula",
     "No limpiar el pezón antes"
    ],
    "correctOptionIndex": 2,
@@ -38949,10 +38949,10 @@
    "difficulty": "researcher",
    "prompt": "Why does the teat canal keratin matter for mastitis?",
    "options": [
-    "It is a key teat-end defense; damaging it increases new infections",
-    "It produces milk",
-    "It colors the teat",
-    "It has no role"
+    "Damaging it raises infection risk",
+    "It produces part of the milk",
+    "It gives the teat its color",
+    "It has no known role in udder health"
    ],
    "correctOptionIndex": 0,
    "explanation": "Keratin in the teat canal traps and inhibits bacteria; disrupting it during infusions raises infection risk.",
@@ -38973,10 +38973,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué importa la queratina del canal del pezón en la mastitis?",
    "options": [
-    "Es una defensa clave; dañarla aumenta nuevas infecciones",
-    "Produce leche",
-    "Da color al pezón",
-    "No tiene función"
+    "Dañarla aumenta las infecciones",
+    "Produce parte de la leche",
+    "Le da su color al pezón",
+    "No tiene ninguna función conocida en la ubre"
    ],
    "correctOptionIndex": 0,
    "explanation": "La queratina del canal atrapa e inhibe bacterias; alterarla al infundir aumenta el riesgo de infección.",
@@ -38997,10 +38997,10 @@
    "difficulty": "curious",
    "prompt": "What did research reveal about the old belief that heifers are free of mastitis?",
    "options": [
-    "It was correct",
-    "Heifers cannot have udders infected",
-    "It was challenged: heifers can have high infection prevalence before calving",
-    "Only bulls get mastitis"
+    "It was confirmed as correct",
+    "Heifers' udders cannot be infected",
+    "Heifers can be infected pre-calving",
+    "Only bulls can get mastitis"
    ],
    "correctOptionIndex": 2,
    "explanation": "Prepartum quarter infection prevalence ranged from about 29% to 75%, so heifers are not mastitis-free.",
@@ -39022,8 +39022,8 @@
    "prompt": "¿Qué mostró la investigación sobre la vieja creencia de que las vaquillonas no tienen mastitis?",
    "options": [
     "Que era correcta",
-    "Que no pueden infectarse",
-    "Que fue cuestionada: pueden tener alta prevalencia de infección antes del parto",
+    "Que la ubre de la vaquillona no se infecta",
+    "Pueden infectarse antes del parto",
     "Que solo los toros tienen mastitis"
    ],
    "correctOptionIndex": 2,
@@ -39046,9 +39046,9 @@
    "prompt": "Which bacteria are the most prevalent cause of subclinical infections in heifers?",
    "options": [
     "Coagulase-negative staphylococci",
-    "E. coli",
-    "Mycoplasma bovis",
-    "Prototheca"
+    "Escherichia coli and coliforms",
+    "Mycoplasma bovis and M. californicum",
+    "Prototheca algae"
    ],
    "correctOptionIndex": 0,
    "explanation": "Coagulase-negative staphylococci predominate in heifer subclinical infections.",
@@ -39070,9 +39070,9 @@
    "prompt": "¿Qué bacterias son la causa más frecuente de infecciones subclínicas en vaquillonas?",
    "options": [
     "Estafilococos coagulasa negativos",
-    "E. coli",
-    "Mycoplasma bovis",
-    "Prototheca"
+    "Escherichia coli y coliformes",
+    "Mycoplasma bovis y M. californicum",
+    "Algas Prototheca"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los estafilococos coagulasa negativos predominan en las infecciones subclínicas de vaquillonas.",
@@ -39093,10 +39093,10 @@
    "difficulty": "researcher",
    "prompt": "When is a heifer most at risk of clinical mastitis?",
    "options": [
-    "At 3 months of age",
+    "At three months of age",
     "In mid-gestation only",
     "After her third lactation",
-    "Around calving (the periparturient period)"
+    "Around calving time"
    ],
    "correctOptionIndex": 3,
    "explanation": "Risk peaks around calving, linked to diet, udder edema, milk leaking and entering the milking herd.",
@@ -39117,10 +39117,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuándo tiene una vaquillona más riesgo de mastitis clínica?",
    "options": [
-    "A los 3 meses de edad",
+    "A los tres meses de edad",
     "Solo a mitad de gestación",
     "Después de su tercera lactancia",
-    "Alrededor del parto (periparto)"
+    "Alrededor del parto"
    ],
    "correctOptionIndex": 3,
    "explanation": "El riesgo es máximo cerca del parto, ligado a dieta, edema de ubre, goteo de leche e ingreso al rodeo en ordeño.",
@@ -39142,9 +39142,9 @@
    "prompt": "Why is treating infected heifers before calving advantageous?",
    "options": [
     "It always increases milk yield in every herd",
-    "Cure rates are higher than in lactation, with no milk discarded",
-    "It prevents pregnancy",
-    "It is required by law"
+    "Higher cure rates and no discarded milk",
+    "It prevents the next pregnancy",
+    "It is required by law in most countries"
    ],
    "correctOptionIndex": 1,
    "explanation": "Prepartum heifer treatment cures more, discards no milk and minimizes residues, though benefits vary by herd.",
@@ -39166,9 +39166,9 @@
    "prompt": "¿Por qué es ventajoso tratar vaquillonas infectadas antes del parto?",
    "options": [
     "Siempre aumenta la leche en todos los rodeos",
-    "La cura es mayor que en lactancia y no se descarta leche",
-    "Evita la preñez",
-    "Lo exige la ley"
+    "Más curas y no se descarta leche",
+    "Evita la siguiente preñez",
+    "Lo exige la ley en casi todos los países"
    ],
    "correctOptionIndex": 1,
    "explanation": "El tratamiento preparto cura más, no descarta leche y minimiza residuos, aunque el beneficio varía según el rodeo.",
@@ -39189,9 +39189,9 @@
    "difficulty": "explorer",
    "prompt": "How do many countries select dairy cattle for mastitis resistance?",
    "options": [
-    "By coat color",
-    "By horn size",
-    "Based on lower somatic cell counts",
+    "By coat color and markings",
+    "By horn size and shape",
+    "By lower somatic cell counts",
     "By milking speed only"
    ],
    "correctOptionIndex": 2,
@@ -39213,10 +39213,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo seleccionan muchos países ganado lechero resistente a la mastitis?",
    "options": [
-    "Por el color del pelaje",
-    "Por el tamaño de los cuernos",
-    "En base a menores recuentos de células somáticas",
-    "Solo por velocidad de ordeño"
+    "Por el color y las manchas del pelaje",
+    "Por el tamaño y forma de los cuernos",
+    "Por recuentos celulares más bajos",
+    "Solo por la velocidad de ordeño"
    ],
    "correctOptionIndex": 2,
    "explanation": "La selección genética por resistencia usa comúnmente un RCS más bajo como carácter indicador.",
@@ -39237,10 +39237,10 @@
    "difficulty": "researcher",
    "prompt": "Which gene complex is well documented in susceptibility or resistance to udder infection?",
    "options": [
-    "The Major Histocompatibility Complex (MHC)",
+    "The major histocompatibility complex",
     "The lactase gene",
-    "Coat color genes",
-    "Horn genes"
+    "The coat color genes",
+    "The polled (hornless) gene region"
    ],
    "correctOptionIndex": 0,
    "explanation": "MHC variation influences mastitis susceptibility; QTL mapping adds further genetic information.",
@@ -39261,10 +39261,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué complejo génico está bien documentado en la susceptibilidad o resistencia a la infección de ubre?",
    "options": [
-    "El complejo mayor de histocompatibilidad (MHC)",
+    "El MHC (histocompatibilidad)",
     "El gen de la lactasa",
-    "Genes del pelaje",
-    "Genes de los cuernos"
+    "Los genes del pelaje",
+    "El gen mocho (sin cuernos)"
    ],
    "correctOptionIndex": 0,
    "explanation": "La variación del MHC influye en la susceptibilidad; el mapeo de QTL aporta más información genética.",
@@ -39285,10 +39285,10 @@
    "difficulty": "expert",
    "prompt": "Why do geneticists study possible downsides of selecting for very low somatic cell counts?",
    "options": [
-    "Low SCC cows give no milk",
-    "Low SCC causes lameness",
-    "Low SCC is illegal",
-    "Very low SCC might reflect weaker immune responses, so consequences are investigated"
+    "Low-SCC cows give no milk at all",
+    "Low SCC causes lameness in cows",
+    "Low SCC is illegal in many countries",
+    "It might mean weaker immunity"
    ],
    "correctOptionIndex": 3,
    "explanation": "SCC partly reflects immune readiness, so extremely low counts are monitored for unfavorable effects.",
@@ -39310,9 +39310,9 @@
    "prompt": "¿Por qué los genetistas estudian posibles desventajas de seleccionar recuentos de células muy bajos?",
    "options": [
     "Las vacas con RCS bajo no dan leche",
-    "El RCS bajo causa cojera",
-    "El RCS bajo es ilegal",
-    "Un RCS muy bajo podría reflejar respuestas inmunes más débiles"
+    "El RCS bajo causa cojera en las vacas",
+    "El RCS bajo es ilegal en muchos países",
+    "Podría indicar inmunidad más débil"
    ],
    "correctOptionIndex": 3,
    "explanation": "El RCS refleja en parte la preparación inmune, así que se vigilan efectos desfavorables de recuentos extremadamente bajos.",
@@ -39333,10 +39333,10 @@
    "difficulty": "curious",
    "prompt": "Why is pasteurization important regarding resistant mastitis bacteria?",
    "options": [
-    "It adds antibiotics to milk",
-    "It kills bacteria in milk, limiting risk to people",
-    "It increases resistance",
-    "It has no effect"
+    "It adds antibiotics to the milk",
+    "It kills bacteria in milk",
+    "It increases antibiotic resistance",
+    "It has no effect on bacteria"
    ],
    "correctOptionIndex": 1,
    "explanation": "Pasteurized milk poses little risk from resistant dairy pathogens; raw milk can transmit them.",
@@ -39358,9 +39358,9 @@
    "prompt": "¿Por qué es importante la pasteurización respecto de las bacterias resistentes de mastitis?",
    "options": [
     "Agrega antibióticos a la leche",
-    "Mata las bacterias de la leche y limita el riesgo para las personas",
-    "Aumenta la resistencia",
-    "No tiene efecto"
+    "Mata las bacterias de la leche",
+    "Aumenta la resistencia a antibióticos",
+    "No tiene efecto sobre las bacterias"
    ],
    "correctOptionIndex": 1,
    "explanation": "La leche pasteurizada tiene poco riesgo por patógenos resistentes del tambo; la leche cruda puede transmitirlos.",
@@ -39381,10 +39381,10 @@
    "difficulty": "explorer",
    "prompt": "Besides resistance, what other risk comes from increased antibiotic use in dairy cows?",
    "options": [
-    "Higher milk fat",
-    "Better taste",
-    "Lower prices",
-    "Antibiotic residues in milk"
+    "Higher milk fat content",
+    "Better milk flavor",
+    "Lower milk prices",
+    "Drug residues in milk"
    ],
    "correctOptionIndex": 3,
    "explanation": "More treatment raises the potential for residues in milk, which is why withdrawal times are respected.",
@@ -39406,9 +39406,9 @@
    "prompt": "Además de la resistencia, ¿qué otro riesgo trae el mayor uso de antibióticos en vacas lecheras?",
    "options": [
     "Más grasa en la leche",
-    "Mejor sabor",
+    "Mejor sabor de la leche",
     "Precios más bajos",
-    "Residuos de antibióticos en la leche"
+    "Residuos en la leche"
    ],
    "correctOptionIndex": 3,
    "explanation": "Más tratamientos aumentan la posibilidad de residuos en la leche; por eso se respetan los tiempos de retiro.",
@@ -39429,9 +39429,9 @@
    "difficulty": "researcher",
    "prompt": "What does prudent antibiotic treatment of mastitis involve?",
    "options": [
-    "Using the newest antibiotic always",
-    "Treating for one day only",
-    "Identifying the pathogen, testing its susceptibility and treating long enough",
+    "Always using the newest antibiotic",
+    "Treating for a single day only",
+    "Culture, test, treat long enough",
     "Mixing all antibiotics together"
    ],
    "correctOptionIndex": 2,
@@ -39453,10 +39453,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué implica un tratamiento antibiótico prudente de la mastitis?",
    "options": [
-    "Usar siempre el antibiótico más nuevo",
-    "Tratar un solo día",
-    "Identificar el patógeno, evaluar su sensibilidad y tratar el tiempo suficiente",
-    "Mezclar todos los antibióticos"
+    "Usar siempre el antibiótico más nuevo del mercado",
+    "Tratar un solo día y nada más",
+    "Identificar, evaluar sensibilidad, tratar",
+    "Mezclar todos los antibióticos juntos"
    ],
    "correctOptionIndex": 2,
    "explanation": "El uso prudente implica identificar el patógeno, evaluar la sensibilidad y tratar con duración suficiente.",
@@ -39477,10 +39477,10 @@
    "difficulty": "expert",
    "prompt": "What makes mastitis vaccine design especially challenging at the mammary gland?",
    "options": [
-    "The gland naturally regulates milk antibodies for the calf, which vaccines must overcome",
-    "Cows cannot make antibodies",
-    "Milk destroys all vaccines",
-    "The udder has no immune cells"
+    "The gland regulates milk antibodies",
+    "Cows cannot make antibodies at all",
+    "Milk destroys every kind of vaccine",
+    "The udder has no immune cells at all"
    ],
    "correctOptionIndex": 0,
    "explanation": "Vaccines must overcome natural regulation of milk antibodies and boost cellular immunity and memory in the gland.",
@@ -39501,10 +39501,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué hace especialmente difícil diseñar vacunas contra mastitis en la glándula mamaria?",
    "options": [
-    "La glándula regula naturalmente los anticuerpos de la leche para el ternero, y la vacuna debe superar eso",
+    "La glándula regula los anticuerpos lácteos",
     "Las vacas no producen anticuerpos",
-    "La leche destruye toda vacuna",
-    "La ubre no tiene células inmunes"
+    "La leche destruye todo tipo de vacuna",
+    "La ubre no tiene ninguna célula inmune propia"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las vacunas deben superar la regulación natural de anticuerpos lácteos y potenciar la inmunidad celular y de memoria en la glándula.",
@@ -41445,10 +41445,10 @@
    "difficulty": "researcher",
    "prompt": "What did the randomized trial conclude comparing cloxacillin and ceftiofur dry cow products?",
    "options": [
-    "Cloxacillin was noninferior to ceftiofur for cure",
-    "Ceftiofur cured all infections and cloxacillin none",
-    "Neither cured anything",
-    "Cloxacillin caused more mastitis"
+    "Cloxacillin was noninferior for cure",
+    "Ceftiofur cured all and cloxacillin none",
+    "Neither product cured any infection",
+    "Cloxacillin caused more clinical mastitis"
    ],
    "correctOptionIndex": 0,
    "explanation": "Cure risks were ~85% for both; no differences in new infections, clinical mastitis, culling or production.",
@@ -41469,10 +41469,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué concluyó el ensayo aleatorizado que comparó productos de secado con cloxacilina y ceftiofur?",
    "options": [
-    "Que la cloxacilina fue no inferior al ceftiofur en la cura",
-    "Que el ceftiofur curó todo y la cloxacilina nada",
-    "Que ninguno curó",
-    "Que la cloxacilina causó más mastitis"
+    "La cloxacilina no fue inferior en la cura",
+    "El ceftiofur curó todo y la cloxacilina nada",
+    "Ningún producto curó ninguna infección",
+    "La cloxacilina causó más mastitis clínica"
    ],
    "correctOptionIndex": 0,
    "explanation": "La cura fue ~85% en ambos; sin diferencias en nuevas infecciones, mastitis clínica, descartes ni producción.",
@@ -41494,9 +41494,9 @@
    "prompt": "In this nonsevere clinical mastitis trial, which bacteria were most commonly isolated before treatment?",
    "options": [
     "Mycoplasma and Prototheca",
-    "Coagulase-negative staphylococci (gram-positive) and E. coli (gram-negative)",
+    "CNS and Escherichia coli",
     "Pseudomonas and Klebsiella only",
-    "Streptococcus agalactiae only"
+    "Streptococcus agalactiae alone"
    ],
    "correctOptionIndex": 1,
    "explanation": "CNS led the gram-positives and E. coli the gram-negatives among nonsevere clinical cases.",
@@ -41518,9 +41518,9 @@
    "prompt": "En este ensayo de mastitis clínica no grave, ¿qué bacterias se aislaron con más frecuencia antes del tratamiento?",
    "options": [
     "Mycoplasma y Prototheca",
-    "Estafilococos coagulasa negativos (grampositivos) y E. coli (gramnegativo)",
+    "ECN y Escherichia coli",
     "Solo Pseudomonas y Klebsiella",
-    "Solo Streptococcus agalactiae"
+    "Streptococcus agalactiae solo"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los ECN encabezaron los grampositivos y E. coli los gramnegativos en los casos clínicos no graves.",
@@ -41541,10 +41541,10 @@
    "difficulty": "curious",
    "prompt": "What is the main benefit of on-farm culture systems for mastitis?",
    "options": [
-    "They replace milking machines",
-    "They make milk taste better",
-    "They vaccinate cows",
-    "They support pathogen-based treatment and responsible antibiotic use"
+    "They replace the milking machine",
+    "They make the milk taste better",
+    "They vaccinate the cows automatically",
+    "They guide pathogen-based treatment"
    ],
    "correctOptionIndex": 3,
    "explanation": "Knowing the pathogen quickly on the farm allows targeted treatment and avoids unnecessary antibiotics.",
@@ -41565,10 +41565,10 @@
    "difficulty": "curious",
    "prompt": "¿Cuál es el principal beneficio de los sistemas de cultivo en el tambo para la mastitis?",
    "options": [
-    "Reemplazan la ordeñadora",
+    "Reemplazan a la máquina de ordeño",
     "Mejoran el sabor de la leche",
-    "Vacunan a las vacas",
-    "Permiten tratar según el patógeno y usar antibióticos responsablemente"
+    "Vacunan a las vacas en forma automática",
+    "Guían el tratamiento según el patógeno"
    ],
    "correctOptionIndex": 3,
    "explanation": "Conocer rápido el patógeno en el tambo permite tratar de forma dirigida y evitar antibióticos innecesarios.",
@@ -41589,10 +41589,10 @@
    "difficulty": "explorer",
    "prompt": "What did the study conclude is needed for on-farm culture to be useful?",
    "options": [
-    "Nothing; anyone can read them perfectly",
+    "Nothing; anyone reads plates perfectly",
     "Training beyond the instruction manual",
-    "A new milking robot",
-    "Daily antibiotics"
+    "A brand-new milking robot",
+    "Daily antibiotics for every cow"
    ],
    "correctOptionIndex": 1,
    "explanation": "Trained observers reached good agreement; untrained ones using only the manual had only fair agreement for many organisms.",
@@ -41613,10 +41613,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué concluyó el estudio que hace falta para que el cultivo en el tambo sea útil?",
    "options": [
-    "Nada; cualquiera lo lee perfecto",
-    "Capacitación más allá del manual de instrucciones",
+    "Nada; cualquiera lee las placas perfecto",
+    "Capacitación más allá del manual",
     "Un robot de ordeño nuevo",
-    "Antibióticos diarios"
+    "Antibióticos diarios a todas las vacas"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los observadores capacitados lograron buena concordancia; los no capacitados, solo con el manual, tuvieron concordancia apenas aceptable.",
@@ -41685,10 +41685,10 @@
    "difficulty": "explorer",
    "prompt": "What type of drug is meloxicam, tested as an add-on for clinical mastitis?",
    "options": [
-    "An antibiotic",
-    "A vaccine",
-    "A hormone",
-    "A nonsteroidal anti-inflammatory drug (NSAID)"
+    "A beta-lactam antibiotic",
+    "An inactivated bacterial vaccine",
+    "A reproductive hormone",
+    "An NSAID (anti-inflammatory)"
    ],
    "correctOptionIndex": 3,
    "explanation": "Meloxicam is an NSAID added to antimicrobial treatment of mild to moderate clinical mastitis.",
@@ -41709,10 +41709,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué tipo de fármaco es el meloxicam, probado como complemento en la mastitis clínica?",
    "options": [
-    "Un antibiótico",
-    "Una vacuna",
-    "Una hormona",
-    "Un antiinflamatorio no esteroide (AINE)"
+    "Un antibiótico betalactámico",
+    "Una vacuna inactivada",
+    "Una hormona reproductiva",
+    "Un AINE (antiinflamatorio)"
    ],
    "correctOptionIndex": 3,
    "explanation": "El meloxicam es un AINE agregado al tratamiento antimicrobiano de la mastitis clínica leve a moderada.",
@@ -41733,10 +41733,10 @@
    "difficulty": "researcher",
    "prompt": "What reproductive benefit was seen when meloxicam was added to mastitis treatment?",
    "options": [
-    "No effect at all",
-    "Higher conception to first insemination (31% vs. 21%)",
-    "More abortions",
-    "Longer gestation"
+    "No effect on fertility at all after mastitis",
+    "Better conception at first service",
+    "More abortions in treated cows",
+    "A longer gestation length"
    ],
    "correctOptionIndex": 1,
    "explanation": "Meloxicam also raised bacteriological cure (66% vs. 50%) and pregnancy by 120 days in milk.",
@@ -41757,10 +41757,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué beneficio reproductivo se vio al agregar meloxicam al tratamiento de la mastitis?",
    "options": [
-    "Ningún efecto",
-    "Mayor concepción a la primera inseminación (31% vs. 21%)",
-    "Más abortos",
-    "Gestación más larga"
+    "Ningún efecto sobre la fertilidad",
+    "Mejor concepción al primer servicio",
+    "Más abortos en las vacas tratadas",
+    "Una gestación más larga"
    ],
    "correctOptionIndex": 1,
    "explanation": "El meloxicam también aumentó la cura bacteriológica (66% vs. 50%) y la preñez a los 120 días de lactancia.",
@@ -41781,9 +41781,9 @@
    "difficulty": "expert",
    "prompt": "In this European trial, how did meloxicam affect bacteriological cure of mild to moderate clinical mastitis?",
    "options": [
-    "Cure was higher with meloxicam than placebo",
+    "Cure was higher than with placebo",
     "Cure was lower with meloxicam",
-    "No cows were cured",
+    "No cows were cured in either group",
     "It replaced antibiotics entirely"
    ],
    "correctOptionIndex": 0,
@@ -41805,9 +41805,9 @@
    "difficulty": "expert",
    "prompt": "En este ensayo europeo, ¿cómo afectó el meloxicam la cura bacteriológica de la mastitis clínica leve a moderada?",
    "options": [
-    "La cura fue mayor con meloxicam que con placebo",
+    "La cura fue mayor que con placebo",
     "La cura fue menor con meloxicam",
-    "No se curó ninguna vaca",
+    "No se curó ninguna vaca en ningún grupo",
     "Reemplazó por completo a los antibióticos"
    ],
    "correctOptionIndex": 0,
@@ -41879,8 +41879,8 @@
    "options": [
     "Mycoplasma bovis",
     "Staphylococcus aureus",
-    "Prototheca",
-    "Klebsiella pneumoniae and E. coli"
+    "Prototheca zopfii algae",
+    "Klebsiella and E. coli"
    ],
    "correctOptionIndex": 3,
    "explanation": "Coliforms outgrew S. uberis in sterilized bedding materials.",
@@ -41903,8 +41903,8 @@
    "options": [
     "Mycoplasma bovis",
     "Staphylococcus aureus",
-    "Prototheca",
-    "Klebsiella pneumoniae y E. coli"
+    "Algas Prototheca zopfii",
+    "Klebsiella y E. coli"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los coliformes superaron a S. uberis en las camas esterilizadas.",
@@ -41926,9 +41926,9 @@
    "prompt": "What did a Canadian cohort study find about recycled manure solids bedding and subclinical mastitis?",
    "options": [
     "It doubled subclinical mastitis",
-    "It eliminated mastitis",
-    "It was not associated with subclinical mastitis compared with straw",
-    "It caused Mycoplasma outbreaks"
+    "It eliminated mastitis completely",
+    "No association compared with straw",
+    "It caused Mycoplasma outbreaks in herds"
    ],
    "correctOptionIndex": 2,
    "explanation": "In 11,031 cows, recycled manure solids bedding showed no association with SCC-based subclinical mastitis versus straw.",
@@ -41950,9 +41950,9 @@
    "prompt": "¿Qué halló un estudio de cohorte canadiense sobre la cama de sólidos de estiércol reciclado y la mastitis subclínica?",
    "options": [
     "Duplicó la mastitis subclínica",
-    "Eliminó la mastitis",
-    "No se asoció con mastitis subclínica en comparación con la paja",
-    "Causó brotes de Mycoplasma"
+    "Eliminó por completo la mastitis",
+    "Sin asociación frente a la paja",
+    "Causó brotes de Mycoplasma en los rodeos"
    ],
    "correctOptionIndex": 2,
    "explanation": "En 11.031 vacas, la cama de sólidos reciclados no se asoció con mastitis subclínica (por RCS) frente a la paja.",
@@ -41974,8 +41974,8 @@
    "prompt": "Which S. aureus lineage dominated bovine mastitis in New Zealand over 17 years?",
    "options": [
     "ST398",
-    "CC133",
-    "CC1/ST1 (~75% of isolates)",
+    "CC151/ST151",
+    "CC1/ST1",
     "USA300"
    ],
    "correctOptionIndex": 2,
@@ -41998,8 +41998,8 @@
    "prompt": "¿Qué linaje de S. aureus dominó la mastitis bovina en Nueva Zelanda durante 17 años?",
    "options": [
     "ST398",
-    "CC133",
-    "CC1/ST1 (~75% de los aislamientos)",
+    "CC151/ST151",
+    "CC1/ST1",
     "USA300"
    ],
    "correctOptionIndex": 2,
@@ -42021,8 +42021,8 @@
    "difficulty": "researcher",
    "prompt": "Why is the clonal stability of mastitis S. aureus in New Zealand relevant?",
    "options": [
-    "It would facilitate developing a vaccine unlikely to lose efficacy by clonal drift",
-    "It means S. aureus is harmless",
+    "A vaccine would be less likely to fail",
+    "It means S. aureus is harmless to cows",
     "It proves antibiotics always work",
     "It shows the bacteria come from sheep"
    ],
@@ -42045,8 +42045,8 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué es relevante la estabilidad clonal de S. aureus de mastitis en Nueva Zelanda?",
    "options": [
-    "Facilitaría desarrollar una vacuna que no pierda eficacia por cambios clonales",
-    "Significa que S. aureus es inocuo",
+    "Una vacuna tendría menos riesgo de fallar",
+    "Significa que S. aureus es inocuo para la vaca",
     "Prueba que los antibióticos siempre funcionan",
     "Muestra que la bacteria viene de ovejas"
    ],
@@ -42117,10 +42117,10 @@
    "difficulty": "curious",
    "prompt": "What is MALDI-TOF mass spectrometry used for in mastitis diagnosis?",
    "options": [
-    "Measuring milk fat",
-    "Counting somatic cells",
+    "Measuring the fat content of milk",
+    "Counting somatic cells in milk",
     "Detecting antibiotic residues",
-    "Rapidly identifying the bacteria causing mastitis"
+    "Rapidly identifying the bacteria"
    ],
    "correctOptionIndex": 3,
    "explanation": "MALDI-TOF identifies microorganisms from colonies quickly and reliably, and its database can be expanded.",
@@ -42141,10 +42141,10 @@
    "difficulty": "curious",
    "prompt": "¿Para qué se usa la espectrometría de masas MALDI-TOF en el diagnóstico de mastitis?",
    "options": [
-    "Medir la grasa de la leche",
-    "Contar células somáticas",
+    "Medir el contenido de grasa de la leche",
+    "Contar células somáticas en la leche",
     "Detectar residuos de antibióticos",
-    "Identificar rápido las bacterias que causan mastitis"
+    "Identificar rápido las bacterias"
    ],
    "correctOptionIndex": 3,
    "explanation": "MALDI-TOF identifica microorganismos a partir de colonias de forma rápida y confiable, y su base de datos puede ampliarse.",
@@ -42213,10 +42213,10 @@
    "difficulty": "researcher",
    "prompt": "What did this Portuguese study show for the first time?",
    "options": [
-    "That Prototheca is a bacterium",
-    "That Prototheca blaschkeae can cause bovine mastitis",
+    "That Prototheca is actually a bacterium",
+    "That P. blaschkeae causes bovine mastitis",
     "That Prototheca responds to penicillin",
-    "That Prototheca infects humans only"
+    "That Prototheca infects only humans"
    ],
    "correctOptionIndex": 1,
    "explanation": "Most isolates were P. zopfii var. hydrocarbonea, but P. blaschkeae was linked to bovine mastitis for the first time.",
@@ -42237,10 +42237,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué mostró por primera vez este estudio portugués?",
    "options": [
-    "Que Prototheca es una bacteria",
-    "Que Prototheca blaschkeae puede causar mastitis bovina",
+    "Que Prototheca es en realidad una bacteria",
+    "Que P. blaschkeae causa mastitis bovina",
     "Que Prototheca responde a la penicilina",
-    "Que Prototheca solo infecta humanos"
+    "Que Prototheca solo infecta a humanos"
    ],
    "correctOptionIndex": 1,
    "explanation": "La mayoría eran P. zopfii var. hydrocarbonea, pero P. blaschkeae se vinculó por primera vez a la mastitis bovina.",
@@ -42310,9 +42310,9 @@
    "prompt": "What did milk-yield data from robotic farms reveal about the timing of mastitis?",
    "options": [
     "Milk yield rose before treatment",
-    "Losses only started after treatment",
-    "Yield never changed",
-    "Milk yield perturbations began on average ~9 days before the first treatment"
+    "Losses only began after the first treatment",
+    "Yield never changed around cases",
+    "Yield fell ~9 days before treatment"
    ],
    "correctOptionIndex": 3,
    "explanation": "Yield drops preceded treatment by about 8.7 days, suggesting earlier detection is possible.",
@@ -42333,10 +42333,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué revelaron los datos de producción de tambos robotizados sobre el momento de la mastitis?",
    "options": [
-    "La producción subía antes del tratamiento",
+    "La producción subía antes de tratar",
     "Las pérdidas empezaban recién tras tratar",
     "La producción nunca cambiaba",
-    "Las caídas de producción empezaban en promedio ~9 días antes del primer tratamiento"
+    "Caía ~9 días antes del primer tratamiento"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las caídas precedían al tratamiento en ~8,7 días, lo que sugiere que se puede detectar antes.",
@@ -42405,10 +42405,10 @@
    "difficulty": "explorer",
    "prompt": "How did clinical mastitis affect conception in this Romanian herd?",
    "options": [
-    "Higher conception",
-    "Lower conception rate at first service",
-    "No pregnancies at all",
-    "Twin pregnancies"
+    "Higher conception rates overall",
+    "Lower first-service conception",
+    "No pregnancies at all that year",
+    "More twin pregnancies"
    ],
    "correctOptionIndex": 1,
    "explanation": "Conception at first service fell from 58.2% in healthy cows to 41.7% in cows with clinical mastitis.",
@@ -42429,10 +42429,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo afectó la mastitis clínica a la concepción en este rodeo rumano?",
    "options": [
-    "Mayor concepción",
-    "Menor tasa de concepción al primer servicio",
-    "Ninguna preñez",
-    "Mellizos"
+    "Mayor tasa de concepción general",
+    "Menor concepción al primer servicio",
+    "Ninguna preñez en todo el año",
+    "Más preñeces gemelares"
    ],
    "correctOptionIndex": 1,
    "explanation": "La concepción al primer servicio bajó de 58,2% en vacas sanas a 41,7% en vacas con mastitis clínica.",
@@ -42453,10 +42453,10 @@
    "difficulty": "researcher",
    "prompt": "What did this study find about severe E. coli mastitis and the feet?",
    "options": [
-    "Severe coliform mastitis increases the risk of acute laminitis",
-    "It protects against lameness",
-    "It only affects the tail",
-    "There is no relation"
+    "It raises the risk of acute laminitis",
+    "It protects the cow against lameness",
+    "It only affects the tail and hocks",
+    "There is no relation between them"
    ],
    "correctOptionIndex": 0,
    "explanation": "Acute laminitis accompanied about 38% of severe E. coli mastitis cases, so claws should always be examined.",
@@ -42477,10 +42477,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué halló este estudio sobre la mastitis grave por E. coli y las pezuñas?",
    "options": [
-    "La mastitis grave por coliformes aumenta el riesgo de laminitis aguda",
-    "Protege contra la cojera",
-    "Solo afecta la cola",
-    "No hay relación"
+    "Aumenta el riesgo de laminitis aguda",
+    "Protege a la vaca contra la cojera",
+    "Solo afecta la cola y los corvejones",
+    "No hay relación entre ambas"
    ],
    "correctOptionIndex": 0,
    "explanation": "La laminitis aguda acompañó a ~38% de las mastitis graves por E. coli, por eso siempre hay que revisar las pezuñas.",
@@ -42501,10 +42501,10 @@
    "difficulty": "expert",
    "prompt": "According to this Danish study of 2,146 herds, what was an important determinant of mastitis incidence?",
    "options": [
-    "Coat color",
-    "Breed only",
-    "Herd altitude",
-    "Farmer attitudes and quality of labor"
+    "Coat color of the cows",
+    "The breed of the cows alone",
+    "Altitude of the farm",
+    "Farmer attitudes and labor"
    ],
    "correctOptionIndex": 3,
    "explanation": "Quality of labor and farmer attitudes toward treating mastitis and lameness were key herd-level factors.",
@@ -42526,9 +42526,9 @@
    "prompt": "Según este estudio danés de 2.146 rodeos, ¿qué fue un determinante importante de la incidencia de mastitis?",
    "options": [
     "El color del pelaje",
-    "Solo la raza",
-    "La altitud",
-    "Las actitudes del productor y la calidad del trabajo"
+    "Solo la raza de las vacas del rodeo",
+    "La altitud del campo",
+    "Actitud del productor y trabajo"
    ],
    "correctOptionIndex": 3,
    "explanation": "La calidad de la mano de obra y la actitud del productor frente al tratamiento de mastitis y cojeras fueron factores clave.",
@@ -42549,10 +42549,10 @@
    "difficulty": "researcher",
    "prompt": "What was associated with poor antibiotic response in Streptococcus agalactiae mastitis?",
    "options": [
-    "The cylE gene",
-    "Infection in the left quarters",
-    "Carrying the lmb gene, linked to higher cell invasion",
-    "Young cows"
+    "Carrying the cylE hemolysin gene",
+    "Infection in the left-side quarters",
+    "Carrying lmb, linked to cell invasion",
+    "Being a young first-lactation cow"
    ],
    "correctOptionIndex": 2,
    "explanation": "lmb-positive strains invaded cells more and were associated with needing more than one treatment cycle.",
@@ -42573,10 +42573,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué se asoció con mala respuesta antibiótica en la mastitis por Streptococcus agalactiae?",
    "options": [
-    "El gen cylE",
-    "Infección de cuartos izquierdos",
-    "Portar el gen lmb, ligado a mayor invasión celular",
-    "Vacas jóvenes"
+    "Portar el gen de hemolisina cylE",
+    "Infección de los cuartos izquierdos",
+    "Portar lmb, ligado a invasión celular",
+    "Ser una vaca joven de primera lactancia"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las cepas lmb positivas invadían más las células y se asociaron con necesitar más de un ciclo de tratamiento.",
@@ -42599,8 +42599,8 @@
    "options": [
     "Serotypes III and II",
     "Serotype Ia only",
-    "Serotype V",
-    "Serotype IX"
+    "Serotype V mainly",
+    "Serotypes IV and IX"
    ],
    "correctOptionIndex": 0,
    "explanation": "Among 56 isolates from Argentinean dairy farms, serotypes III (46%) and II (41%) predominated; multidrug resistance was common.",
@@ -42622,9 +42622,9 @@
    "prompt": "En Argentina, ¿qué serotipos de Streptococcus agalactiae fueron los más frecuentes en mastitis bovina?",
    "options": [
     "Serotipos III y II",
-    "Solo serotipo Ia",
-    "Serotipo V",
-    "Serotipo IX"
+    "Solo el serotipo Ia",
+    "Sobre todo el V",
+    "Serotipos IV y IX"
    ],
    "correctOptionIndex": 0,
    "explanation": "Entre 56 aislamientos de tambos argentinos predominaron los serotipos III (46%) y II (41%); la multirresistencia fue frecuente.",
@@ -42645,10 +42645,10 @@
    "difficulty": "curious",
    "prompt": "Why was this 2016–2019 Argentinean study of Streptococcus agalactiae important?",
    "options": [
-    "It found no bacteria",
-    "It studied sheep",
-    "It discovered a vaccine",
-    "It provided the first molecular data on S. agalactiae mastitis isolates in Argentina"
+    "It found no bacteria in any sample",
+    "It studied sheep rather than cows",
+    "It led to a new commercial vaccine",
+    "First molecular data from Argentina"
    ],
    "correctOptionIndex": 3,
    "explanation": "It characterized serotypes, virulence and resistance genes, laying a basis for diagnostics and vaccines.",
@@ -42669,10 +42669,10 @@
    "difficulty": "curious",
    "prompt": "¿Por qué fue importante este estudio argentino (2016–2019) sobre Streptococcus agalactiae?",
    "options": [
-    "No halló bacterias",
-    "Estudió ovejas",
-    "Descubrió una vacuna",
-    "Aportó los primeros datos moleculares de S. agalactiae de mastitis en Argentina"
+    "No halló bacterias en ninguna muestra",
+    "Estudió ovejas en lugar de vacas",
+    "Llevó a una nueva vacuna comercial",
+    "Primeros datos moleculares del país"
    ],
    "correctOptionIndex": 3,
    "explanation": "Caracterizó serotipos, genes de virulencia y de resistencia, base para diagnóstico y vacunas.",
@@ -42693,10 +42693,10 @@
    "difficulty": "expert",
    "prompt": "What first did this study from Entre Ríos, Argentina, report?",
    "options": [
-    "The first MRSA in humans",
-    "The mecC gene in a coagulase-negative staphylococcus from bovine mastitis in South America",
-    "The first Mycoplasma in cattle",
-    "The first mastitis vaccine"
+    "The first MRSA ever found in humans",
+    "mecC in a bovine CNS in South America",
+    "The first Mycoplasma found in cattle",
+    "The first licensed mastitis vaccine"
    ],
    "correctOptionIndex": 1,
    "explanation": "A cefoxitin-resistant Staphylococcus saprophyticus was mecA-negative but mecC-positive—a reservoir of resistance genes.",
@@ -42717,10 +42717,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué primer hallazgo informó este estudio de Entre Ríos, Argentina?",
    "options": [
-    "El primer SARM en humanos",
-    "El gen mecC en un estafilococo coagulasa negativo de mastitis bovina en Sudamérica",
+    "El primer SARM hallado en humanos",
+    "mecC en un ECN bovino en Sudamérica",
     "El primer Mycoplasma en bovinos",
-    "La primera vacuna contra mastitis"
+    "La primera vacuna aprobada contra mastitis"
    ],
    "correctOptionIndex": 1,
    "explanation": "Un Staphylococcus saprophyticus resistente a cefoxitina era mecA negativo pero mecC positivo, un reservorio de genes de resistencia.",
@@ -42789,10 +42789,10 @@
    "difficulty": "researcher",
    "prompt": "Which herds had lower subclinical mastitis prevalence in Brazil?",
    "options": [
-    "The largest herds",
-    "Herds that performed more milk recording (DHIA) tests",
+    "The largest herds in the country",
+    "Herds doing more milk recording",
     "Herds in one specific region",
-    "Herds without any testing"
+    "Herds that did no testing at all"
    ],
    "correctOptionIndex": 1,
    "explanation": "Frequent SCC monitoring was associated with lower prevalence, supporting large-scale milk quality programs.",
@@ -42813,10 +42813,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué rodeos tuvieron menor prevalencia de mastitis subclínica en Brasil?",
    "options": [
-    "Los más grandes",
-    "Los que hicieron más controles lecheros (DHIA)",
+    "Los rodeos más grandes del país",
+    "Los que hacían más control lechero",
     "Los de una región específica",
-    "Los que no hacían controles"
+    "Los que no hacían ningún control"
    ],
    "correctOptionIndex": 1,
    "explanation": "El monitoreo frecuente del RCS se asoció con menor prevalencia, lo que respalda programas de calidad de leche a gran escala.",
@@ -42837,9 +42837,9 @@
    "difficulty": "explorer",
    "prompt": "How often was Mycoplasma bovis detected by PCR in Brazilian clinical mastitis milk samples?",
    "options": [
-    "In 90% of samples",
-    "Never",
-    "In all samples",
+    "In about 90% of samples",
+    "Never, in no sample",
+    "In every single sample",
     "In about 3% of samples"
    ],
    "correctOptionIndex": 3,
@@ -42861,9 +42861,9 @@
    "difficulty": "explorer",
    "prompt": "¿Con qué frecuencia se detectó Mycoplasma bovis por PCR en leche de mastitis clínica en Brasil?",
    "options": [
-    "En 90% de las muestras",
-    "Nunca",
-    "En todas",
+    "En cerca del 90% de las muestras",
+    "Nunca, en ninguna muestra",
+    "En todas las muestras",
     "En cerca del 3% de las muestras"
    ],
    "correctOptionIndex": 3,
@@ -42885,10 +42885,10 @@
    "difficulty": "researcher",
    "prompt": "How was automatic detection of clinical mastitis improved in robotic milking?",
    "options": [
-    "Combining in-line SCC with electrical conductivity",
-    "Using electrical conductivity alone",
-    "Using cow weight",
-    "Using milk temperature only"
+    "In-line SCC plus conductivity",
+    "Electrical conductivity alone",
+    "Daily changes in cow weight",
+    "Milk temperature measured alone"
    ],
    "correctOptionIndex": 0,
    "explanation": "Combining in-line SCC and conductivity with fuzzy logic doubled to tripled success and cut false alerts.",
@@ -42909,10 +42909,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo se mejoró la detección automática de mastitis clínica en el ordeño robotizado?",
    "options": [
-    "Combinando RCS en línea con conductividad eléctrica",
-    "Usando solo conductividad",
-    "Usando el peso de la vaca",
-    "Usando solo la temperatura de la leche"
+    "RCS en línea más conductividad",
+    "Solo la conductividad eléctrica",
+    "Cambios diarios en el peso de la vaca",
+    "Solo la temperatura de la leche"
    ],
    "correctOptionIndex": 0,
    "explanation": "Combinar RCS en línea y conductividad con lógica difusa duplicó o triplicó el acierto y redujo las falsas alarmas.",
@@ -43029,9 +43029,9 @@
    "difficulty": "explorer",
    "prompt": "How did activity change in cows with experimental mastitis?",
    "options": [
-    "They walked more",
+    "They walked much more than usual",
     "They walked less and rested more",
-    "No change",
+    "There was no change at all",
     "They stopped eating entirely"
    ],
    "correctOptionIndex": 1,
@@ -43053,10 +43053,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo cambió la actividad de las vacas con mastitis experimental?",
    "options": [
-    "Caminaron más",
+    "Caminaron mucho más que lo habitual",
     "Caminaron menos y descansaron más",
-    "Sin cambios",
-    "Dejaron de comer"
+    "No hubo ningún cambio",
+    "Dejaron de comer por completo"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los podómetros detectaron menos pasos y más descanso, lo que puede ayudar a la detección automática.",
@@ -43126,9 +43126,9 @@
    "prompt": "What did a field trial show about the E. coli J5 vaccine?",
    "options": [
     "It eliminated all gram-negative infections",
-    "It increased infections",
-    "It reduced clinical mastitis without reducing infection prevalence at calving",
-    "It only worked in heifers"
+    "It increased new infections at calving",
+    "Fewer clinical cases, same infection rate",
+    "It only worked in first-calf heifers"
    ],
    "correctOptionIndex": 2,
    "explanation": "67% of gram-negative IMI became clinical in controls vs. 20% in vaccinated cows.",
@@ -43150,9 +43150,9 @@
    "prompt": "¿Qué mostró un ensayo de campo sobre la vacuna J5 de E. coli?",
    "options": [
     "Eliminó todas las infecciones gramnegativas",
-    "Aumentó las infecciones",
-    "Redujo la mastitis clínica sin reducir la prevalencia de infección al parto",
-    "Solo funcionó en vaquillonas"
+    "Aumentó las infecciones nuevas al parto",
+    "Menos casos clínicos, igual infección",
+    "Solo funcionó en vaquillonas de primer parto"
    ],
    "correctOptionIndex": 2,
    "explanation": "El 67% de las infecciones gramnegativas se volvió clínico en controles vs. 20% en vacunadas.",
@@ -43173,10 +43173,10 @@
    "difficulty": "expert",
    "prompt": "In this Australian staphylococcal vaccine field trial, where was the vaccine effective?",
    "options": [
-    "In the herd with a serious staphylococcal mastitis problem",
-    "In all seven herds equally",
-    "In no herd",
-    "Only against Streptococcus uberis"
+    "In the herd with serious staph mastitis",
+    "In all seven herds about equally",
+    "In no herd at all",
+    "Only against Streptococcus uberis infections"
    ],
    "correctOptionIndex": 0,
    "explanation": "Overall differences were not significant, but in the herd with a high staphylococcal burden, vaccination reduced clinical and subclinical mastitis.",
@@ -43197,10 +43197,10 @@
    "difficulty": "expert",
    "prompt": "En este ensayo de campo australiano de una vacuna estafilocócica, ¿dónde fue eficaz la vacuna?",
    "options": [
-    "En el rodeo con un problema serio de mastitis estafilocócica",
-    "En los siete rodeos por igual",
-    "En ninguno",
-    "Solo contra Streptococcus uberis"
+    "En el rodeo con mastitis estafilocócica seria",
+    "En los siete rodeos casi por igual",
+    "En ningún rodeo",
+    "Solo contra infecciones por Streptococcus uberis"
    ],
    "correctOptionIndex": 0,
    "explanation": "En general no hubo diferencias significativas, pero en el rodeo con alta carga estafilocócica la vacuna redujo la mastitis clínica y subclínica.",
@@ -43221,10 +43221,10 @@
    "difficulty": "researcher",
    "prompt": "In this trial of subclinical mastitis therapy, what improved bacteriological cure?",
    "options": [
-    "Fewer infusions",
-    "No treatment",
-    "Shorter duration",
-    "Longer and/or more frequent intramammary treatment"
+    "Fewer infusions per quarter overall",
+    "No treatment at all",
+    "A shorter treatment course",
+    "Longer or more frequent treatment"
    ],
    "correctOptionIndex": 3,
    "explanation": "Cure rose from 6% (untreated) to ~50% (3×48 h), ~62% (5×24 h) and ~81% (5×48 h).",
@@ -43245,10 +43245,10 @@
    "difficulty": "researcher",
    "prompt": "En este ensayo de terapia de mastitis subclínica, ¿qué mejoró la cura bacteriológica?",
    "options": [
-    "Menos infusiones",
-    "No tratar",
-    "Menor duración",
-    "Tratamiento intramamario más largo y/o frecuente"
+    "Menos infusiones por cuarto en total",
+    "No tratar en absoluto",
+    "Un tratamiento más corto",
+    "Tratamiento más largo o frecuente"
    ],
    "correctOptionIndex": 3,
    "explanation": "La cura pasó de 6% (sin tratar) a ~50% (3×48 h), ~62% (5×24 h) y ~81% (5×48 h).",
@@ -43269,10 +43269,10 @@
    "difficulty": "curious",
    "prompt": "Which quick cow-side test was used to select glands with subclinical mastitis?",
    "options": [
-    "Blood smear",
-    "California Mastitis Test (CMT)",
-    "Urine dipstick",
-    "Rectal temperature"
+    "A stained blood smear",
+    "California Mastitis Test",
+    "A urine dipstick test",
+    "Rectal temperature reading"
    ],
    "correctOptionIndex": 1,
    "explanation": "The CMT reacts with cellular DNA in milk, forming a gel when SCC is high.",
@@ -43293,10 +43293,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué prueba rápida al pie de la vaca se usó para seleccionar cuartos con mastitis subclínica?",
    "options": [
-    "Frotis de sangre",
-    "California Mastitis Test (CMT)",
-    "Tira de orina",
-    "Temperatura rectal"
+    "Un frotis de sangre teñido",
+    "California Mastitis Test",
+    "Una tira reactiva de orina",
+    "La temperatura rectal"
    ],
    "correctOptionIndex": 1,
    "explanation": "El CMT reacciona con el ADN celular de la leche y forma un gel cuando el RCS es alto.",
