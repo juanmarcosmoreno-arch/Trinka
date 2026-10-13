@@ -1,5 +1,5 @@
 {
- "version": 35,
+ "version": 36,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -6399,6 +6399,387 @@
    "abstract": "This study tested the hypothesis that increasing the duration and/or frequency of antimicrobial treatment of subclinical mastitis would result in a higher bacteriological cure rate. Glands with a positive California mastitis test (CMT) from cows with an elevated somatic cell count (>500,000 cells/mL) that had an intramammary infection were randomly assigned at cow level to no treatment (Control; n = 80 glands), intramammary infusion of 200 mg cloxacillin sodium on three occasions at 48 h intervals (3 × 48 h; n = 273 glands), five occasions at 24 h intervals (5 × 24 h; n = 279 glands), or on five occasions at 48 h intervals (5 × 48 h; n = 72 glands). Glands were resampled at 21 (±3) and 28 (±3) days after initiation of treatment. The gland-level cure rate for any pathogen was 5/80 (6.2%), 139/173 (49.8%), 172/297 (61.6%) and 58/72 (80.6%) for Control, 3 × 48 h, 5 × 24 h and 5 × 48 h, respectively. The cure rate for major pathogens (defined as Staphylococcus aureus or Streptococcus spp.) was 4/52 (7.7%), 84/197 (42.6%), 96/183 (52.5%) and 36/48 (75%) for Control, 3 × 48 h, 5 × 24 h and 5 × 48 h, respectively. We conclude that treatment was superior to no treatment, and bacteriological cure rate was higher with the 5 × 24 h protocol than for the 3 × 48 h protocol and was higher with the 5 × 48 h than the 5 × 24 h protocol.",
    "publicationTypes": [
     "Journal Article"
+   ]
+  },
+  {
+   "pmid": "26449342",
+   "title": "Bovine mastitis may be associated with the deprivation of gut Lactobacillus.",
+   "authors": [
+    "Ma C",
+    "Zhao J",
+    "Xi X",
+    "Ding J",
+    "Wang H",
+    "Zhang H",
+    "Kwok LY"
+   ],
+   "journal": "Beneficial microbes",
+   "year": 2016,
+   "doi": "10.3920/BM2015.0048",
+   "abstract": "Bovine mastitis is an economical important microbial disease in dairy industry. Some recent human clinical trials have shown that oral probiotics supplementation could effectively control clinical mastitis, suggesting that the mechanism of mastitis protection might be achieved via the host gut microbiota. We aimed to test our hypothesis that bovine mastitis was related to changes in both the mammary and gut microbial profiles. By quantitative PCR, the milk and faecal microbial profiles of cows with low (<3×105 cells/ml) and high (>1×106 cells/ml) somatic cell count (SCC) were compared. Firstly, we observed drastic differences in both the milk and faecal microbial compositions at genus and Lactobacillus-species levels between the two groups. Secondly, the pattern of faecal microbial community changes of mastitis cows was similar to that of the milk, characterised by a general increase in the mastitis pathogens (Enterococcus, Streptococcus and Staphylococcus) and deprivation of Lactobacillus and its members (L. salivarius, L. sakei, L. ruminis, L. delbrueckii, L. buchneri, and L. acidophilus). Thirdly, only the faecal lactobacilli, but not bifidobacteria correlated with the milk microbial communities and SCC. Our data together hint to a close association between bovine mastitis, the host gut and milk microbiota.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36851405",
+   "title": "Diagnostic Screening of Bovine Mastitis Using MALDI-TOF MS Direct-Spotting of Milk and Machine Learning.",
+   "authors": [
+    "Thompson J",
+    "Everhart Nunn SL",
+    "Sarkar S",
+    "Clayton B"
+   ],
+   "journal": "Veterinary sciences",
+   "year": 2023,
+   "doi": "10.3390/vetsci10020101",
+   "abstract": "Novel strategies for diagnostic screening of animal and herd health are crucial to contain disease outbreaks, maintain animal health, and maximize production efficiency. Mastitis is an inflammation of the mammary gland in dairy cows, often resulting from infection from a microorganism. Mastitis outbreaks result in loss of production, degradation of milk quality, and the need to isolate and treat affected animals. In this work, we evaluate MALDI-TOF mass spectrometry as a diagnostic for the culture-less screening of mastitis state from raw milk samples collected from regional dairies. Since sample preparation requires only minutes per sample using microvolumes of reagents and no cell culture, the technique is promising for rapid sample turnaround and low-cost diagnosis. Machine learning algorithms have been used to detect patterns embedded within MALDI-TOF spectra using a training set of 226 raw milk samples. A separate scoring set of 100 raw milk samples has been used to assess the specificity (spc) and sensitivity (sens) of the approach. Of machine learning models tested, the gradient-boosted tree model gave global optimal results, with the Youden index of J = 0.7, sens = 0.89, and spc = 0.81 achieved for the given set of conditions. Random forest models also performed well, achieving J > 0.63, with sens = 0.83 and spc = 0.81. Naïve Bayes, generalized linear, fast large-margin, and deep learning models failed to produce diagnostic results that were as favorable. We conclude that MALDI-TOF MS combined with machine learning is an alternative diagnostic tool for detection of high somatic cell count (SCC) and subclinical mastitis in dairy herds.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "31421887",
+   "title": "Associations between Streptococcus uberis strains from the animal environment and clinical bovine mastitis cases.",
+   "authors": [
+    "Wente N",
+    "Klocke D",
+    "Paduch JH",
+    "Zhang Y",
+    "Seeth MT",
+    "Zoche-Golob V",
+    "Reinecke F",
+    "Mohr E",
+    "Krömker V"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2019,
+   "doi": "10.3168/jds.2019-16669",
+   "abstract": "Bovine clinical mastitis quarter foremilk samples were collected from 15 German dairy farms for the isolation of Streptococcus uberis strains. Samples were also collected from the 8 spots where Streptococcus uberis was most expected in the dairy environment to investigate the transmission behavior of Streptococcus uberis within the farm. The selected environmental spots for sampling were the inner surface of the milking liner, drinking troughs (on pasture and in the barn), exit area of milking parlor, bedding material from the lying area in the barn, passageway to pasture, lying area of soil or vegetation on pasture, and the barn area in front of the milking parlor. We performed pulsed-field gel electrophoresis on 237 Streptococcus uberis isolates to identify environmental strains that matched those from mastitis milk. The same strains were detected on the passageway to the pasture, milking parlor waiting area, in one of the liners, and a drinking trough. Streptococcus uberis strains showed high variability within farms and because identical strains (in mastitis milk and environment) were found in different environmental localizations, its transmission appears to be farm specific. Thus, to establish a farm-specific mastitis control strategy, the main environmental sources of Streptococcus uberis must be analyzed for matching strains. A molecular method such as pulsed-field gel electrophoresis is an important tool that can be used to obtain the necessary information.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33542314",
+   "title": "Sequence characterisation and novel insights into bovine mastitis-associated Streptococcus uberis in dairy herds.",
+   "authors": [
+    "Vezina B",
+    "Al-Harbi H",
+    "Ramay HR",
+    "Soust M",
+    "Moore RJ",
+    "Olchowy TWJ",
+    "Alawneh JI"
+   ],
+   "journal": "Scientific reports",
+   "year": 2021,
+   "doi": "10.1038/s41598-021-82357-3",
+   "abstract": "Streptococcus uberis is one of the most frequent mastitis-causing pathogens isolated from dairy cows. Further understanding of S. uberis genetics may help elucidate the disease pathogenesis. We compared the genomes of S. uberis isolates cultured from dairy cows located in distinctly different geographic regions of Australia. All isolates had novel multi locus sequence types (MLST) indicating a highly diverse population of S. uberis. Global clonal complexes (GCC) were more conserved. GCC ST86 and GCC ST143 represented 30% of the total isolates (n = 27) and were clustered within different geographic regions. Core genome phylogeny revealed low phylogenetic clustering by region, isolation source, and MLST. Identification of putative sortase (srtA) substrates and generation of a custom putative virulence factor database revealed genes which may explain the affinity of S. uberis for mammary tissue, evasion of antimicrobial efforts and disease pathogenesis. Of 27 isolates, four contained antibiotic resistance genes including an antimicrobial resistance cluster containing mel/mef(A), mrsE, vatD, lnuD, and transposon-mediated lnuC was also identified. These are novel genes for S. uberis, which suggests interspecies lateral gene transfer. The presence of resistance genes across the two geographic regions tested within one country supports the need for a careful, tailored, implementation and monitoring of antimicrobial stewardship.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33246609",
+   "title": "Genetic diversity and molecular epidemiology of outbreaks of Klebsiella pneumoniae mastitis on two large Chinese dairy farms.",
+   "authors": [
+    "Cheng J",
+    "Zhou M",
+    "Nobrega DB",
+    "Barkema HW",
+    "Xu S",
+    "Li M",
+    "Kastelic JP",
+    "Shi Y",
+    "Han B",
+    "Gao J"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2021,
+   "doi": "10.3168/jds.2020-19325",
+   "abstract": "Klebsiella pneumoniae is an opportunistic and environmental mastitis-causing pathogen, with potential for contagious transmission. Repetitive element sequence-based PCR was used to determine genetic diversity and explore potential transmission and reservoirs for mastitis caused by K. pneumoniae on 2 large Chinese dairy farms. A total of 1,354 samples was collected from the 2 dairy farms, including milk samples from cows with subclinical and clinical mastitis, bedding, feces, feed, teat skin, and milking liners. Environmental samples were collected from all barns and milking parlors and extramammary samples from randomly selected dairy cows on both farms. In total, 272 and 93 K. pneumoniae isolates were obtained from Farms A and B, respectively (with ~8K and 2K lactating cows, respectively). Isolation rates from clinical mastitis (CM), subclinical mastitis (SCM), and environmental or extramammary samples were 34, 23 and 37%, respectively for Farm A and 42, 3, and 34% for Farm B. The K. pneumoniae isolated from CM milk and extramammary or environmental sources had high genetic diversity (index of diversity >90%) on the 2 farms and from SCM on Farm A. However, on Farm B, 9 SCM isolates were classified as 2 genotypes, resulting in a relatively low index of diversity (Simpson's index of diversity = 0.39; 95% CI = 0.08-0.70). Genotypes of K. pneumoniae causing mastitis were commonly detected in feces, bedding, and milking liners (Farm A), or from teat skin, sawdust bedding, and feed (Farm B). Based on its high level of genetic diversity, we inferred K. pneumoniae was an opportunistic and environmental pathogen causing outbreaks of CM on these 2 large Chinese dairy farms. Nevertheless, that only a few genotypes caused SCM implied some strains had increased udder adaptability and a contagious nature or a common extramammary source. Finally, control of intramammary infections caused by K. pneumoniae on large Chinese dairy farms must consider farm-level predictors, as the 2 outbreaks had distinct potential environmental sources of infection.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34398526",
+   "title": "Whole-genome analysis of Klebsiella pneumoniae from bovine mastitis milk in the U.S.",
+   "authors": [
+    "Zheng Z",
+    "Gorden PJ",
+    "Xia X",
+    "Zheng Y",
+    "Li G"
+   ],
+   "journal": "Environmental microbiology",
+   "year": 2022,
+   "doi": "10.1111/1462-2920.15721",
+   "abstract": "Dairy cattle mastitis has long been one of the most common and costly diseases in the dairy industry worldwide, due to its significant impact on milk production and animal welfare. Among all mastitis causing bacterial pathogens, Klebsiella pneumoniae causes the largest milk loss. To better understand the genomic features of this population, 180 K. pneumoniae strains isolated from dairy cattle mastitis milk in 11 U.S. states were sequenced. The phylogenetic analysis classified all mastitis-causing K. pneumoniae into two major phylogroups, with exclusive predominance in phylogroup KpI. Analysis of more than 61 sequence types, 51 capsular types and 12 lipopolysaccharide O-antigen types revealed great genomic diversity of this K. pneumoniae population. Approximately 100 gene units in accessory genomes were detected with significantly higher prevalence in bovine mastitis strains, compared to human-sourced or dairy environmental strains. The most notable genes were identified associated with ferric citrate uptake, lactose fermentation and resistance to heavy metals. The acquired antimicrobial resistance genes were identified in sporadic mastitis strains. This comprehensive genomic epidemiological study provides insights for a better understanding of the virulence of mastitis-causing K. pneumoniae strains and may lead to the development of novel diagnostic tools and preventive strategies.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "26626090",
+   "title": "An overview of Mycoplasma bovis mastitis in Israel (2004-2014).",
+   "authors": [
+    "Lysnyansky I",
+    "Freed M",
+    "Rosales RS",
+    "Mikula I",
+    "Khateb N",
+    "Gerchman I",
+    "van Straten M",
+    "Levisohn S"
+   ],
+   "journal": "Veterinary journal (London, England : 1997)",
+   "year": 2016,
+   "doi": "10.1016/j.tvjl.2015.10.057",
+   "abstract": "The prevalence of Mycoplasma bovis in milk samples submitted to the Israeli National Service for Udder Health and Milk Quality was determined during the period 2004-2014 and the genetic pattern of the obtained isolates was assessed by multilocus sequence typing (MLST). Mycoplasma spp. were identified in 66 herds including M. bovis (n = 60), M. cottewii (n = 3), M. bovigenitalium (n = 2), M. alkalescens (n = 2) and M. yeatsii (n = 1). The proportion of M. bovis infected herds was relatively low (0-0.68%) in 2004-2007, increased to 3.77% during the 2008 outbreak, and ranged from 0.77 to 2.77% during the 2009-2014 period. Since 2008, about eight M. bovis positive dairy herds have been identified in Israel annually, with six of which on average being newly infected. MLST of 57 M. bovis isolates revealed that sequence type 10 was the dominant genotype identified in 60% of the herds. In conclusion, these data show that M. bovis is the main mycoplasmal mastitic pathogen in Israel.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38362635",
+   "title": "Outbreaks of bovine mastitis caused by specific Mycoplasma bovis strains recurring at multi-year intervals.",
+   "authors": [
+    "Suzuki K",
+    "Kaneko F",
+    "Matsushita A",
+    "Hata E"
+   ],
+   "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+   "year": 2024,
+   "doi": "10.1177/10406387241230939",
+   "abstract": "Mycoplasma bovis is a major cause of bovine mastitis. Intermittent shedding of the organism for many months is a feature of cows with intramammary infection. A dairy farm in Japan experienced a mastitis outbreak caused by M. bovis in 2016, as well as 2 additional outbreaks and 1 case in 2020-2021. The causative strains in the 3 outbreaks shared a common and identical genetic feature, the insertion of a transposase gene at the same site within the phosphate acetyltransferase-2 gene. Additionally, all isolates were genotyped to closely related sequence types (ST21 and ST141) by multilocus sequence typing, and had similar pulsopatterns by pulsed-field gel electrophoresis. Our results indicate that infection with the same causative strain remained in this herd and environment for 4 y. Treatment with fluoroquinolones, guided by antimicrobial susceptibility test results, eliminated M. bovis from 16 of 20 M. bovis-infected cows, as confirmed by culture and somatic cell counts. However, mastitis caused by other bacteria occurred in 9 M. bovis-free cows within 2 mo of the last treatment.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "29519526",
+   "title": "Semen as a source of Mycoplasma bovis mastitis in dairy herds.",
+   "authors": [
+    "Haapala V",
+    "Pohjanvirta T",
+    "Vähänikkilä N",
+    "Halkilahti J",
+    "Simonen H",
+    "Pelkonen S",
+    "Soveri T",
+    "Simojoki H",
+    "Autio T"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 2018,
+   "doi": "10.1016/j.vetmic.2018.02.005",
+   "abstract": "Mycoplasma bovis infections are responsible for substantial economic losses in the cattle industry, have significant welfare effects and increase antibiotic use. The pathogen is often introduced into naive herds through healthy carrier animals. In countries with a low prevalence of M. bovis, transmission from less common sources can be better explored as the pathogen has limited circulation compared to high prevalence populations. In this study, we describe how M. bovis was introduced into two closed and adequately biosecure dairy herds through the use of contaminated semen during artificial insemination (AI), leading to mastitis outbreak in both herds. Epidemiological analysis did not reveal an infection source other than semen. In both farms the primary clinical cases were M. bovis mastitis in cows inseminated with the semen of the same bull four weeks before the onset of the disease. One semen straw derived from the semen tank on the farm and other semen lots of this bull were positive for M. bovis. In contrast, semen samples were negative from other bulls that had been used for insemination in previous or later oestrus to those cows with M. bovis mastitis. Furthermore, cgMLST of M. bovis isolates supported the epidemiological results. To our knowledge this is the first study describing the introduction of M. bovis infection into a naive dairy herd via processed semen. The antibiotics used in semen extenders should be re-evaluated in order to provide farms with M. bovis-free semen or tested M. bovis-free semen should be available.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39531484",
+   "title": "Mycoplasma bovis 5'-nucleotidase is a virulence factor conferring mammary fitness in bovine mastitis.",
+   "authors": [
+    "Gelgie AE",
+    "Schneider P",
+    "Citti C",
+    "Dordet-Frisoni E",
+    "Gillespie BE",
+    "Almeida RA",
+    "Agga GE",
+    "Amoah YS",
+    "Shpigel NY",
+    "Kerro Dego O",
+    "Lysnyansky I"
+   ],
+   "journal": "PLoS pathogens",
+   "year": 2024,
+   "doi": "10.1371/journal.ppat.1012628",
+   "abstract": "Nucleases and 5' nucleotidase (5'-NT) play essential roles in cell biology and are often associated with bacterial virulence. In Mycoplasma spp., which have limited metabolic capacities and rely on nutrient availability, these enzymes are of significant importance for nucleotide salvage. This study explores the potential role of 2 membrane-associated lipoproteins, the major nuclease MnuA and 5'-NT, in Mycoplasma bovis mastitis. Mutants deficient in MnuA (mnuA::Tn) and in 5'-NT (0690::Tn) were identified through genome-wide transposon mutagenesis of M. bovis PG45 type strain and their fitness and virulence were assessed both in vitro, in axenic medium, and in vivo, using murine and cow mastitis models. The mnuA::Tn mutant demonstrated reduced nuclease activity, while 0690::Tn exhibited slow log-phase growth and impaired hydrolase activity towards nucleotides as well as deoxynucleotides (dAMP and dGMP). In comparison to the parent strain, the 0690::Tn mutant displayed markedly reduced fitness, as evidenced by a significant decrease or even absence in post-challenge mycoplasma counts in murine and cow mammary tissues, respectively. Moreover, the 0690::Tn mutant failed to induce mastitis in both experimental models. Conversely, the mnuA::Tn mutant induced inflammation in murine mammary glands, characterized by neutrophil infiltration and increased expression of major inflammatory genes. In cows, the mnuA::Tn was able to cause an increase in somatic cell counts in a manner comparable to the wild type, recruit neutrophils, and induce mastitis. Collectively, these findings provide complementary insights, revealing that disruption of 5'-NT significantly attenuated M. bovis pathogenicity, whereas a MnuA-deficient mutant retained the ability to cause mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29739718",
+   "title": "Immunogenicity of a Staphylococcus aureus-cholera toxin A2/B vaccine for bovine mastitis.",
+   "authors": [
+    "Misra N",
+    "Wines TF",
+    "Knopp CL",
+    "Hermann R",
+    "Bond L",
+    "Mitchell B",
+    "McGuire MA",
+    "Tinker JK"
+   ],
+   "journal": "Vaccine",
+   "year": 2018,
+   "doi": "10.1016/j.vaccine.2018.04.067",
+   "abstract": "Staphylococcus aureus causes a chronic, contagious disease of the udder, or mastitis, in dairy cows. This infection is often refractory to antibiotic treatment, and has a significant economic impact on milk production worldwide. An effective vaccine to prevent S. aureus mastitis would improve animal health, reduce antibiotic dependence and inform human vaccine approaches. The iron-regulated surface determinant A (IsdA) and clumping factor A (ClfA) are conserved S. aureus extracellular-matrix adhesins and target vaccine antigens. Here we report the results of two bovine immunogenicity trials using purified IsdA and ClfA-cholera toxin A2/B chimeras (IsdA-CTA2/B and ClfA-CTA2/B). Cows were intranasally inoculated with IsdA-CTA2/B + ClfA-CTA2/B at dry off and followed for 70 days. Trial 1 utilized three groups with one or two booster doses at a total concentration of 600 or 900 μg. Trial 2 utilized two groups with one booster at a total concentration of 1200 μg. Humoral immune responses in serum and milk were examined by ELISA. Responses in serum were significant between groups and provide evidence of antigen-specific IgG induction after vaccination in both trials. Cellular proliferation was detected by flow cytometry using antigen-stimulated PBMCs from day 60 of Trial 2 and revealed an increase in CD4+ T cells from vaccinated cows. IsdA and ClfA stimulation induced IL-4 expression, but not IFN-γ or IL-17, in PBMCs from day 60 as determined by cytokine expression analysis. Opsonophagocytosis of S. aureus confirmed the functional in vitro activity of anti-IsdA antibodies from Trial 2 serum and milk. The vaccine was well tolerated and safe, and results support the potential of mucosally-delivered CTA2/B chimeras to protect cows from mastitis caused by S. aureus.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "17183089",
+   "title": "Subclinical and clinical mastitis in heifers following the use of a teat sealant precalving.",
+   "authors": [
+    "Parker KI",
+    "Compton C",
+    "Anniss FM",
+    "Weir A",
+    "Heuer C",
+    "McDougall S"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2007,
+   "doi": "10.3168/jds.S0022-0302(07)72622-X",
+   "abstract": "This study investigated the effect in heifers of infusion of a bismuth subnitrate teat-canal sealant and bacterial intramammary infection (IMI) precalving on prevalence of postcalving IMI and incidence of clinical mastitis in the first 2 wk postcalving. Glands (n = 1,020) from heifers (n = 255) in 5 seasonally calving, pasture-fed dairy herds were randomly assigned within heifer to 1 of 4 treatment groups (no treatment; mammary gland secretion collection; infusion of a teat sealant; or sample collection with infusion of teat sealant). Heifers within a herd were enrolled on one calendar day, 31 d on average before the planned start of the seasonal calving period. Duplicate milk samples were collected from each gland within 4 d after calving for bacterial culture. Herd owners collected duplicate milk samples, before treatment, for bacterial culture from glands they defined as having clinical mastitis. The gland prevalence of IMI precalving was 15.5% and did not differ between herds. Bacteria isolated precalving included coagulase-negative staphylococci (76.9% of all bacteriologically positive samples), Streptococcus uberis (14.1%), Staphylococcus aureus (5.1%), Corynebacterium spp. (3.8%), and others (0.1%). The presence of an IMI precalving increased the risk of an IMI postcalving 3.6-fold and the risk of clinical mastitis 4-fold, relative to no IMI precalving. Infusion of the teat sealant reduced the risk of postcalving IMI due to Strep. uberis by 84%, and of clinical mastitis by 68%. Sampling the glands precalving had no effect on postcalving IMI or on clinical mastitis incidence. Use of an internal teat canal sealant in heifers precalving may be a useful tool for reducing the risk of subclinical and clinical mastitis in heifers.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32984415",
+   "title": "A Randomized Controlled Trial of Teat-Sealant and Antibiotic Dry-Cow Treatments for Mastitis Prevention Shows Similar Effect on the Healthy Milk Microbiome.",
+   "authors": [
+    "Biscarini F",
+    "Cremonesi P",
+    "Castiglioni B",
+    "Stella A",
+    "Bronzo V",
+    "Locatelli C",
+    "Moroni P"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2020,
+   "doi": "10.3389/fvets.2020.00581",
+   "abstract": "Lactating cows are routinely treated at dry-off with antibiotic infusions in each quarter for the cure and prevention of pathogenic intramammary infection, which remains the most common disease in dairy herds. This approach is known as blanket dry-cow therapy, usually effective for the prevention and cure of infections, but has been shown to potentially contribute to the emergence and spreading of antibiotic resistant bacterial strains. Exploring the use of non-antibiotic treatments coupled with selective dry-cow therapy is necessary to reduce the risk of antibiotic resistance and potential interference with milk microbiome balance. The impact of selective dry-cow therapy on the physiological milk microbiome needs to be carefully evaluated. In this small-scale trial, five healthy (no mastits, SCC <200,000 cells mL-1) second-parity cows from dry-off to 5 days after calving were sampled. For every cow, each quarter received a different treatment: (i) bismuth salnitrate (internal teat sealant, OrbSeal®, Zoetis, Italy), front right quarter; (ii) cephalonium dihydrate (Cepravin®, MSD, Italy), rear right quarter; (iii) benzathine cloxacillin (Cloxalene dry, Ati, Italy), rear left quarter. No treatment was applied to the remaining quarter (front left) which served as experimental control. For 16S rRNA gene sequencing, bacterial DNA was extracted from 5 ml of milk samples, amplified using the primers for the V3-V4 hypervariable regions and sequenced in one MiSeq (Illumina) run with 2 × 250-base paired-end reads. Bacteriological results confirmed that the quarters were all healthy. The phyla Proteobacteria, Firmicutes, and Actinobacteria were the most abundant for all treatments and controls at all three timepoints, accounting for over 80% of the entire milk microbiota composition. No significant differences were found between treatments and controls in terms of the major alpha and beta diversity indexes, revealing that antibiotic, and non-antibiotic treatments for selective dry-cow therapy did not alter significantly the milk microbiome of dairy cows. The milk microbiota composition showed a clear evolution over the lactation cycle, and the overall changes in the milk microbiota diversity over the lactation cycle were mainly independent of treatments.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40105284",
+   "title": "Teat sealant cannula insertion length is not associated with postcalving mastitis risk in cattle.",
+   "authors": [
+    "Bedford C",
+    "Mahen PJ",
+    "Aplin K",
+    "Oikonomou G"
+   ],
+   "journal": "The Veterinary record",
+   "year": 2025,
+   "doi": "10.1002/vetr.5226",
+   "abstract": "BACKGROUND: Internal teat sealants are commonly used at drying off, with or without intramammary antibiotics, to reduce the risk of mastitis. Both full and partial cannula options are available on most teat sealant and antibiotic tubes, but little evidence exists to support the selection of one option over the other.\nMETHODS: A total of 287 Holstein cows from three UK farms were enrolled in the study. Cows were randomly allocated to receive either full or partial insertion of internal teat sealant at drying off (plus the same insertion type of intramammary antibiotic if required by farm protocols). Somatic cell count and clinical mastitis data were collected, along with lactation number and calving season, and analysed using multivariable regression modelling.\nRESULTS: Insertion type was not associated with high postcalving somatic cell counts (SCCs; >200k cells/mL), new infection rates (low to high SCC change across the dry period), cure rates (high to low SCC change across the dry period) or clinical mastitis cases.\nLIMITATIONS: Only pedigree Holsteins were included; results in other breeds could differ due to teat size.\nCONCLUSION: Insertion type was not associated with high SCC or increased postcalving mastitis cases.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36653288",
+   "title": "Selective dry-cow therapy can be implemented successfully in cows of all milk production levels.",
+   "authors": [
+    "Rowe S",
+    "Kabera F",
+    "Dufour S",
+    "Godden S",
+    "Roy JP",
+    "Nydam D"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2023,
+   "doi": "10.3168/jds.2022-22547",
+   "abstract": "Antibiotic stewardship on dairy farms can be heightened through the implementation of selective dry-cow therapy (SDCT). However, some producers are concerned that this practice may be related to poor udder health outcomes in cows with high milk production at the time of dry-off. The objective of this study was to evaluate if the effect of culture-guided SDCT (Cult-SDCT) and algorithm-guided SDCT (Alg-SDCT) on dry-period intramammary infection (IMI) dynamics and postcalving udder health and performance [when compared with blanket dry-cow therapy (BDCT)] varied according to milk production level before dry-off. Data were compiled from clinical trials conducted in the United States and Canada that compared Cult-SDCT and Alg-SDCT to a positive control, i.e., BDCT. In those trials, cows were enrolled 1-2 d before dry-off, randomized to their dry-cow therapy strategy and followed until 120 d in milk of the subsequent lactation. The number of cows and quarters in the final data set were 1,485 and 5,097, respectively. Measured outcomes included quarter-level antibiotic use at dry-off, quarter-level IMI prevalence after calving, quarter-level dry-period IMI cure risk, quarter-level dry-period new IMI risk, cow-level clinical mastitis and removal from the herd during 1-120 d in milk, and somatic cell count and milk yield during 1-120 DIM. The primary objective of analysis was to investigate if the effect of Cult-SDCT and Alg-SDCT on these outcomes, when compared with BDCT, varied according to milk production level before dry-off. To do this, each cow was classified as having low, mid or high production, based on her milk yield tertile group at the most recent herd test before enrollment (low: <23.7 kg/d, mid: 23.7 to 30.4 kg/d, and high >30.4 kg/d). Multivariable generalized estimating equations were used to estimate risk differences and differences in means, and Cox regression was used to estimate hazard ratios. For Cult-SDCT, the proportion of quarters treated with dry-cow antibiotics within each milk production level were 40.7% (low), 41.7% (mid) and 47.2% (high). For Alg-SDCT, the proportions were 60.6% (low), 38.7% (mid), and 35.1% (high). Measures of udder health were not markedly different when comparing Cult-SDCT to BDCT and Alg-SDCT to BDCT. This was consistently observed in low, mid and high producing cows. In conclusion, the findings from this study indicate that Cult-SDCT and Alg-SDCT can be successfully implemented in cows of all milk production levels.",
+   "publicationTypes": [
+    "Randomized Controlled Trial, Veterinary",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34686221",
+   "title": "Engaging with selective dry cow therapy: understanding the barriers and facilitators perceived by Irish farmers.",
+   "authors": [
+    "Huey S",
+    "Kavanagh M",
+    "Regan A",
+    "Dean M",
+    "McKernan C",
+    "McCoy F",
+    "Ryan EG",
+    "Caballero-Villalobos J",
+    "McAloon CI"
+   ],
+   "journal": "Irish veterinary journal",
+   "year": 2021,
+   "doi": "10.1186/s13620-021-00207-0",
+   "abstract": "BACKGROUND: Selective dry cow therapy (SDCT) is widely promoted in dairy farming as a method to reduce antimicrobial usage. New legislation introduced by the European Union will restrict and regulate the prophylactic and metaphylactic use of antibiotics from January 2022. Blanket dry cow therapy continues to be a practice engaged in by many farmers in Ireland and for many of these farmers, moving towards SDCT would require a significant infrastructural, behavioural and/or cultural change on their farm. Existing research has reported the important need to understand farmers' motivations to initiate any substantial behaviour change. However, it is currently unknown what farmers know, think and believe about SDCT in Ireland. The aim of this study was to use qualitative methods to explore what barriers and facilitators farmers perceived to exist with SDCT and explore if they had chosen to implement SDCT after voluntarily participating in a funded dry cow consult with a trained veterinarian, with the objective of maximising the dry period udder health performance and moving safely to SDCT.\nRESULTS: In this study, 19 farmers were contacted, and telephone interviews were conducted regarding farmers' beliefs about the consequences of SDCT. Audio recordings were professionally transcribed verbatim and analysed qualitatively using an inductive thematic analysis. The analysis identified 6 barriers and 6 facilitators to implementing SDCT. A significant fear of increasing mastitis incidence was evident that caused reluctance towards SDCT and reliance on antibiotics. Mixed perceptions on SDCT, infrastructure limitations, a perceived lack of preventive advice as well as peer influence were presented as barriers to SDCT. Farmers can build confidence when a graded approach to SDCT is implemented, which could help overcome the fear of SDCT and reliance on antibiotics. Regulatory pressure, high standards of farm hygiene and use of targeted veterinary consults were found to facilitate SDCT. Education was suggested to motivate farmers in the future uptake of SDCT. Despite cited negative influences, peer influence can be utilised to encourage the farming community.\nCONCLUSIONS: This study prioritises areas to facilitate the major behaviour change required as a dairy industry in order to move from blanket dry cow therapy to SDCT.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34955269",
+   "title": "Selective dry cow therapy effect on milk yield and somatic cell count: A retrospective cohort study.",
+   "authors": [
+    "Niemi RE",
+    "Hovinen M",
+    "Rajala-Schultz PJ"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2022,
+   "doi": "10.3168/jds.2021-20918",
+   "abstract": "Antibiotic dry cow therapy (aDCT) at the end of lactation is an effective mastitis control measure. Selective dry cow therapy means that only infected or presumed-infected cows are treated, instead of aDCT being used as a treatment for all cows. Because antibiotic resistance poses a global threat, livestock production is under increasing pressure to reduce antibiotic use. Changes in management should not, however, impair animal welfare or cause significant economic losses. Our objective was to compare milk yield and somatic cell count (SCC) between aDCT-treated and untreated cows in herds that used selective aDCT, taking into account risk factors for reduced yield and high SCC. The information source was 2015 to 2017 Dairy Herd Improvement data, with 4,720 multiparous cows from 172 Finnish dairy farms. The response variables were test-day milk yield (kg/d) and naturally log-transformed composite SCC (×1,000 cells/mL) during the first 154 d in milk (DIM). The statistical tool was a linear mixed-effects model with 2-level random intercepts, cows nested within herds, and a first-order autoregressive [AR(1)] correlation structure. The overall proportion of aDCT-treated cows was 25% (1,176/4,720). Due to the interaction effect, SCC on the last test day prior to dry-off affected postcalving milk yield differently in aDCT-treated cows than in untreated cows. A higher SCC prior to dry-off correlated with a greater daily yield difference after calving between cows treated and untreated. The majority of cows had SCC < 200,000 cells/mL before dry-off, and as SCC before dry-off decreased, difference in yield between aDCT-treated and untreated cows decreased. Postcalving SCC was lower for aDCT-treated cows compared with untreated cows. To illustrate, for cows with an SCC of 200,000 cells/mL before dry-off, compared with untreated cows, aDCT-treated cows produced 0.97 kg/d more milk and, at 45 DIM, had an SCC that was 20,000 cells/mL lower. Higher late-lactation SCC and lactational mastitis treatments were associated with higher postcalving SCC. A dry period lasting more than 30 d was associated with higher yields but not with SCC. Our findings indicate that a missed aDCT treatment for a high-SCC cow has a negative effect on subsequent lactation milk yield and SCC, which emphasizes the importance of accurate selection of cows to be treated.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39521410",
+   "title": "Selective dry cow therapy: Clinical field trial on prevention and cure of intramammary infections.",
+   "authors": [
+    "Niemi RE",
+    "Hovinen M",
+    "Rajala-Schultz PJ"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2025,
+   "doi": "10.3168/jds.2024-25287",
+   "abstract": "Intramammary antibiotic dry cow therapy (DCT) at the end of lactation is a key measure in the management and control of bovine mastitis. Currently, livestock production is under pressure to reduce antibiotic consumption, emphasizing the need to avoid medicating all cows at dry-off, and instead treat only infected cows. The study objective was to evaluate IMI cure risk, new IMI risk, and postcalving IMI risk between DCT-treated and untreated quarters over the dry period. The sample totaled 269 cows from 12 Finnish automatic milking system herds entering the dry period between 2019 and 2021. Cows eligible for the study had a final DHI test-day SCC ≥100,000 cells/mL and had no clinical signs of mastitis. Based on odd or even identification numbers, cows with an SCC between 100,000 and 250,000 cells/mL were sequentially assigned to either receive DCT at dry-off (DCT100-250) or remain untreated (NoDCT100-250). All cows with an SCC >250,000 cells/mL received DCT (DCT>250). No quarters received teat sealants. Farmers collected aseptic quarter milk samples for microbiological quantitative real-time PCR analysis 0 to 4 d before dry-off and 0 to 4 d after calving. The outcome of the statistical model was the odds of a quarter having an IMI at freshening 0 to 4 d after calving. The statistical tool was a generalized linear mixed-effects model with logit link function and 2-level random intercepts, cows nested within herds. Quarter-level IMI prevalence at dry-off was 17.6% (45/256) for NoDCT100-250, 22.2% (83/374) for DCT100-250, and 32.0% (132/413) for DCT>250. Quarter-level IMI prevalence at freshening was 36.2% (84/232) for NoDCT100-250, 13.6% (50/369) for DCT100-250, and 11.6% (46/397) for DCT>250. The untreated quarters in the NoDCT100-250 group had a 1.1 times higher risk of failing to cure over the dry period than the treated quarters in the DCT100-250 group (unadjusted risk ratio [RR] 1.10, 95% CI 0.94-1.28) and a 1.2 times higher risk than the treated quarters in the DCT>250 group (unadjusted RR 1.15, 95% CI 1.00-1.33). The untreated quarters in the NoDCT100-250 group had a 1.5 times higher risk of having a new IMI over the dry period than did the treated quarters in the DCT100-250 group (unadjusted RR 1.48, 95% CI 1.35-1.63) and a 1.4 times higher risk than the treated quarters in the DCT>250 group (unadjusted RR 1.35, 95% CI 1.23-1.49). The principal cause of new IMI was NAS, followed by Streptococcus dysgalactiae. Quarters in the NoDCT100-250 group had 6.6 times higher odds for having an IMI at freshening than did quarters in the DCT100-250 group (95% CI 3.52-12.21). According to our findings within the framework of this experiment, selectively DCT-treated cows with an SCC between 100,000 and 250,000 cells/mL at dry-off demonstrated that, although the group-specific cure risks over the dry period were high, untreated quarters had a higher risk of acquiring a new IMI over the dry period than did treated quarters, highlighting the effectiveness of DCT in reducing IMI risks. The prophylactic use of antibiotics, however, is not recommended, and in some countries is even prohibited.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38313061",
+   "title": "Treatment of clinically severe bovine mastitis - a scoping review.",
+   "authors": [
+    "Wilm J",
+    "Svennesen L",
+    "Kirkeby C",
+    "Krömker V"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2024,
+   "doi": "10.3389/fvets.2024.1286461",
+   "abstract": "Mastitis is a major health problem for bovines and can be categorized as non-severe or severe, based on clinical symptoms. A severe case of clinical mastitis is usually defined by the cow being affected systemically. It is important to consider how to handle severe cases because these cases can be fatal and cause high production losses. However, there are generally few detailed treatment guidelines. By conducting a scoping review on the topic, we aimed to synthesize the information that is available on treatment and outcomes, as reported from clinical trials and observational studies. This was facilitated by following the PRISMA-guidelines with a stepwise systematic screening of scientific literature on the subject, retrieved via Pubmed and Web of Science, using pre-defined selection criteria. The results yielded a total of 14 reports of treatment and outcomes in cases of naturally occurring severe clinical mastitis. Cross-trial comparison was difficult due to the different exclusion criteria and outcome definitions. Many studies focused on cases caused by gram-negative bacteria treated with intensive antibiotic protocols, often containing antibiotics that are categorized as critical for human health. Few focused on severe cases caused by gram-positive bacteria or on the relative use of non-antibiotic treatment. In general, only a small number of statistically significant differences were found in trials comparing different treatment protocols, with no obvious trends across trials. Our findings emphasize the need for more research into the treatment efficacy of antibiotic and non-antibiotic options for clinically severe mastitis. Furthermore, consideration of how trial conditions relate to the practical circumstances in a field setting could improve the applicability of reported results. This could help to provide practitioners with the information needed to make evidence-based treatment decisions in cases of clinically severe mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Scoping Review"
    ]
   },
   {
@@ -43306,6 +43687,1734 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Glands with a positive California mastitis test (CMT)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26449342-1-en",
+   "translationKey": "mastitis-26449342-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "In cows with high somatic cell counts, what happened to Lactobacillus in milk and feces?",
+   "options": [
+    "It increased sharply in both",
+    "It was depleted in both",
+    "It vanished only from milk",
+    "It was replaced by bifidobacteria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "High-SCC cows showed more mastitis pathogens and fewer lactobacilli, both in milk and in feces.",
+   "shortExplanation": "Lactobacilli were depleted.",
+   "pmid": "26449342",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "deprivation of Lactobacillus and its members",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26449342-1-es",
+   "translationKey": "mastitis-26449342-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "En vacas con recuentos de células somáticas altos, ¿qué pasó con Lactobacillus en leche y heces?",
+   "options": [
+    "Aumentó mucho en ambas",
+    "Disminuyó en ambas",
+    "Desapareció solo de la leche",
+    "Lo reemplazaron las bifidobacterias"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las vacas con RCS alto tenían más patógenos de mastitis y menos lactobacilos, tanto en leche como en heces.",
+   "shortExplanation": "Disminuyeron los lactobacilos.",
+   "pmid": "26449342",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "deprivation of Lactobacillus and its members",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26449342-2-en",
+   "translationKey": "mastitis-26449342-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Which fecal bacteria correlated with the milk microbial community and somatic cell count?",
+   "options": [
+    "Fecal bifidobacteria, but not lactobacilli",
+    "Fecal clostridia and coliforms together",
+    "No fecal group at all",
+    "Fecal lactobacilli only"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Only fecal lactobacilli tracked milk microbes and SCC, hinting at a gut–udder link.",
+   "shortExplanation": "Fecal lactobacilli.",
+   "pmid": "26449342",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "only the faecal lactobacilli, but not bifidobacteria correlated with the milk microbial communities and SCC",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26449342-2-es",
+   "translationKey": "mastitis-26449342-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué bacterias fecales se correlacionaron con la comunidad microbiana de la leche y el RCS?",
+   "options": [
+    "Bifidobacterias fecales, pero no lactobacilos",
+    "Los clostridios y coliformes fecales",
+    "Ningún grupo fecal",
+    "Solo los lactobacilos fecales"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Solo los lactobacilos fecales acompañaron a los microbios de la leche y al RCS, lo que sugiere un vínculo intestino–ubre.",
+   "shortExplanation": "Los lactobacilos fecales.",
+   "pmid": "26449342",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "only the faecal lactobacilli, but not bifidobacteria correlated with the milk microbial communities and SCC",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36851405-1-en",
+   "translationKey": "mastitis-36851405-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Why is direct MALDI-TOF screening of raw milk attractive for mastitis diagnosis?",
+   "options": [
+    "It needs no culture and takes minutes",
+    "It requires a week of enrichment culture",
+    "It needs a blood sample from each cow",
+    "It only works on pasteurized milk"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Milk is spotted directly, with microvolumes of reagents and no cell culture, so turnaround is fast and cheap.",
+   "shortExplanation": "No culture, minutes.",
+   "pmid": "36851405",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Since sample preparation requires only minutes per sample using microvolumes of reagents and no cell culture",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36851405-1-es",
+   "translationKey": "mastitis-36851405-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué es atractivo el cribado por MALDI-TOF directo de leche cruda para diagnosticar mastitis?",
+   "options": [
+    "No necesita cultivo y lleva minutos",
+    "Requiere una semana de cultivo de enriquecimiento",
+    "Necesita una muestra de sangre de cada vaca",
+    "Solo funciona con leche pasteurizada"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La leche se deposita directamente, con microvolúmenes de reactivos y sin cultivo celular: resultados rápidos y baratos.",
+   "shortExplanation": "Sin cultivo, en minutos.",
+   "pmid": "36851405",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Since sample preparation requires only minutes per sample using microvolumes of reagents and no cell culture",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36851405-2-en",
+   "translationKey": "mastitis-36851405-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which machine learning model gave the best results on the MALDI-TOF milk spectra?",
+   "options": [
+    "A deep neural network",
+    "Naïve Bayes classifier",
+    "Gradient-boosted trees",
+    "A generalized linear model"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Gradient-boosted trees reached sensitivity 0.89 and specificity 0.81; random forests also did well.",
+   "shortExplanation": "Gradient-boosted trees.",
+   "pmid": "36851405",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the gradient-boosted tree model gave global optimal results",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36851405-2-es",
+   "translationKey": "mastitis-36851405-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué modelo de aprendizaje automático dio los mejores resultados con los espectros MALDI-TOF de leche?",
+   "options": [
+    "Una red neuronal profunda",
+    "Un clasificador Naïve Bayes",
+    "Árboles con gradient boosting",
+    "Un modelo lineal generalizado"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los árboles con gradient boosting alcanzaron sensibilidad 0,89 y especificidad 0,81; los random forest también rindieron bien.",
+   "shortExplanation": "Gradient boosting.",
+   "pmid": "36851405",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the gradient-boosted tree model gave global optimal results",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-31421887-1-en",
+   "translationKey": "mastitis-31421887-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Where were S. uberis strains identical to those in mastitis milk found on German farms?",
+   "options": [
+    "Only inside the udders of infected cows",
+    "Pathways, waiting area, liner, trough",
+    "Only in the feed stored in tower silos",
+    "Nowhere in the farm environment"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Matching strains appeared on the pasture passageway, parlor waiting area, a milking liner and a drinking trough.",
+   "shortExplanation": "Several environmental spots.",
+   "pmid": "31421887",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The same strains were detected on the passageway to the pasture, milking parlor waiting area, in one of the liners, and a drinking trough",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-31421887-1-es",
+   "translationKey": "mastitis-31421887-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde se hallaron cepas de S. uberis idénticas a las de la leche mastítica en tambos alemanes?",
+   "options": [
+    "Solo dentro de las ubres de las vacas",
+    "Pasillos, espera, pezonera, bebedero",
+    "Solo en el alimento guardado en silos",
+    "En ningún lugar del ambiente del tambo"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Hubo cepas coincidentes en el pasillo a la pastura, la zona de espera, una pezonera y un bebedero.",
+   "shortExplanation": "Varios puntos del ambiente.",
+   "pmid": "31421887",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The same strains were detected on the passageway to the pasture, milking parlor waiting area, in one of the liners, and a drinking trough",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-31421887-2-en",
+   "translationKey": "mastitis-31421887-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did the authors conclude about S. uberis transmission?",
+   "options": [
+    "It always spreads cow to cow at milking",
+    "It is identical on every farm studied",
+    "It only comes from contaminated feed",
+    "It is farm specific, needing own control"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Strains varied a lot within farms and sources differed, so each farm needs its own control strategy.",
+   "shortExplanation": "Farm specific.",
+   "pmid": "31421887",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "its transmission appears to be farm specific",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-31421887-2-es",
+   "translationKey": "mastitis-31421887-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué concluyeron los autores sobre la transmisión de S. uberis?",
+   "options": [
+    "Siempre pasa de vaca a vaca en el ordeño",
+    "Es idéntica en todos los tambos estudiados",
+    "Solo proviene del alimento contaminado",
+    "Es propia de cada tambo y pide control propio"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las cepas variaban mucho dentro de cada tambo y las fuentes diferían: cada tambo necesita su estrategia.",
+   "shortExplanation": "Propia de cada tambo.",
+   "pmid": "31421887",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "its transmission appears to be farm specific",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33542314-1-en",
+   "translationKey": "mastitis-33542314-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did MLST reveal about Australian S. uberis mastitis isolates?",
+   "options": [
+    "All had novel types: very diverse",
+    "All belonged to a single global clone",
+    "They were identical to human strains",
+    "They could not be typed at all"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Every isolate had a new sequence type, showing high diversity, although global clonal complexes were more conserved.",
+   "shortExplanation": "Highly diverse.",
+   "pmid": "33542314",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "All isolates had novel multi locus sequence types (MLST) indicating a highly diverse population of S. uberis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33542314-1-es",
+   "translationKey": "mastitis-33542314-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostró el MLST sobre los aislamientos australianos de S. uberis de mastitis?",
+   "options": [
+    "Tipos todos nuevos: muy diversa",
+    "Todos pertenecían a un único clon global",
+    "Eran idénticos a cepas humanas",
+    "No se pudieron tipificar en absoluto"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cada aislamiento tenía un tipo de secuencia nuevo, señal de gran diversidad, aunque los complejos clonales globales eran más conservados.",
+   "shortExplanation": "Muy diversa.",
+   "pmid": "33542314",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "All isolates had novel multi locus sequence types (MLST) indicating a highly diverse population of S. uberis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33542314-2-en",
+   "translationKey": "mastitis-33542314-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Finding new resistance genes such as lnuC and vatD in S. uberis suggests…",
+   "options": [
+    "Mutation of ribosomal genes alone",
+    "Contamination of the laboratory cultures",
+    "Gene transfer between species",
+    "Selection by vaccines used on the farm"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "These genes were new for S. uberis, pointing to acquisition from other species by horizontal transfer.",
+   "shortExplanation": "Interspecies gene transfer.",
+   "pmid": "33542314",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "These are novel genes for S. uberis, which suggests interspecies lateral gene transfer",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33542314-2-es",
+   "translationKey": "mastitis-33542314-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Hallar genes de resistencia nuevos como lnuC y vatD en S. uberis sugiere…",
+   "options": [
+    "Solo mutación de genes ribosomales",
+    "Contaminación de los cultivos del laboratorio",
+    "Transferencia de genes entre especies",
+    "Selección por vacunas en el tambo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Estos genes eran nuevos para S. uberis, lo que apunta a su adquisición desde otras especies por transferencia horizontal.",
+   "shortExplanation": "Transferencia entre especies.",
+   "pmid": "33542314",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "These are novel genes for S. uberis, which suggests interspecies lateral gene transfer",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33246609-1-en",
+   "translationKey": "mastitis-33246609-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Given the high genetic diversity of K. pneumoniae from clinical mastitis, how was it classified?",
+   "options": [
+    "A strictly contagious, cow-to-cow pathogen",
+    "An opportunistic, environmental pathogen",
+    "A virus spread by insects",
+    "A commensal that never causes mastitis"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Many genotypes caused clinical cases, typical of infection from environmental sources rather than one spreading clone.",
+   "shortExplanation": "Opportunistic and environmental.",
+   "pmid": "33246609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we inferred K. pneumoniae was an opportunistic and environmental pathogen causing outbreaks of CM on these 2 large Chinese dairy farms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33246609-1-es",
+   "translationKey": "mastitis-33246609-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Dada la gran diversidad genética de K. pneumoniae en mastitis clínica, ¿cómo se la clasificó?",
+   "options": [
+    "Patógeno estrictamente contagioso",
+    "Patógeno oportunista y ambiental",
+    "Un virus transmitido por insectos",
+    "Un comensal que nunca causa mastitis"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Muchos genotipos causaban casos clínicos, típico de infecciones desde el ambiente y no de un clon que se disemina.",
+   "shortExplanation": "Oportunista y ambiental.",
+   "pmid": "33246609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we inferred K. pneumoniae was an opportunistic and environmental pathogen causing outbreaks of CM on these 2 large Chinese dairy farms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33246609-2-en",
+   "translationKey": "mastitis-33246609-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "On Farm A, where were the K. pneumoniae genotypes causing mastitis commonly found?",
+   "options": [
+    "Only in the bulk milk tank",
+    "In the drinking water only",
+    "On the hands of the farm workers",
+    "Feces, bedding and liners"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mastitis genotypes appeared in feces, bedding and liners; on Farm B, in teat skin, sawdust and feed.",
+   "shortExplanation": "Feces, bedding, liners.",
+   "pmid": "33246609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Genotypes of K. pneumoniae causing mastitis were commonly detected in feces, bedding, and milking liners",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33246609-2-es",
+   "translationKey": "mastitis-33246609-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "En el Tambo A, ¿dónde se hallaban a menudo los genotipos de K. pneumoniae que causaban mastitis?",
+   "options": [
+    "Solo en el tanque de leche",
+    "Solo en el agua de bebida",
+    "En las manos de los operarios",
+    "Heces, cama y pezoneras"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los genotipos de mastitis aparecían en heces, cama y pezoneras; en el Tambo B, en piel del pezón, aserrín y alimento.",
+   "shortExplanation": "Heces, cama, pezoneras.",
+   "pmid": "33246609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Genotypes of K. pneumoniae causing mastitis were commonly detected in feces, bedding, and milking liners",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34398526-1-en",
+   "translationKey": "mastitis-34398526-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "According to this US genomic study, which mastitis pathogen causes the largest milk loss?",
+   "options": [
+    "Klebsiella pneumoniae",
+    "Staphylococcus chromogenes",
+    "Corynebacterium bovis",
+    "Streptococcus agalactiae"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "K. pneumoniae mastitis causes the biggest milk losses, which motivated sequencing 180 isolates from 11 states.",
+   "shortExplanation": "Klebsiella pneumoniae.",
+   "pmid": "34398526",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Among all mastitis causing bacterial pathogens, Klebsiella pneumoniae causes the largest milk loss",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34398526-1-es",
+   "translationKey": "mastitis-34398526-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Según este estudio genómico de EE. UU., ¿qué patógeno de mastitis causa la mayor pérdida de leche?",
+   "options": [
+    "Klebsiella pneumoniae",
+    "Staphylococcus chromogenes",
+    "Corynebacterium bovis",
+    "Streptococcus agalactiae"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mastitis por K. pneumoniae causa las mayores pérdidas de leche, lo que motivó secuenciar 180 aislamientos de 11 estados.",
+   "shortExplanation": "Klebsiella pneumoniae.",
+   "pmid": "34398526",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Among all mastitis causing bacterial pathogens, Klebsiella pneumoniae causes the largest milk loss",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34398526-2-en",
+   "translationKey": "mastitis-34398526-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Which gene functions were enriched in mastitis K. pneumoniae compared with human strains?",
+   "options": [
+    "Spore formation and toxin release",
+    "Photosynthesis and nitrogen fixation",
+    "Ferric citrate uptake, lactose use",
+    "Capsule loss and flagellar motility"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mastitis strains more often carried genes for ferric citrate uptake, lactose fermentation and heavy-metal resistance.",
+   "shortExplanation": "Iron citrate, lactose.",
+   "pmid": "34398526",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "associated with ferric citrate uptake, lactose fermentation and resistance to heavy metals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34398526-2-es",
+   "translationKey": "mastitis-34398526-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué funciones génicas abundaban más en K. pneumoniae de mastitis que en cepas humanas?",
+   "options": [
+    "Formación de esporas y toxinas",
+    "Fotosíntesis y fijación de nitrógeno",
+    "Captación de citrato férrico, lactosa",
+    "Pérdida de cápsula y motilidad"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las cepas de mastitis portaban más genes de captación de citrato férrico, fermentación de lactosa y resistencia a metales pesados.",
+   "shortExplanation": "Citrato férrico, lactosa.",
+   "pmid": "34398526",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "associated with ferric citrate uptake, lactose fermentation and resistance to heavy metals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26626090-1-en",
+   "translationKey": "mastitis-26626090-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which M. bovis genotype dominated mastitis herds in Israel?",
+   "options": [
+    "Sequence type 1",
+    "Sequence type 21",
+    "Sequence type 141",
+    "Sequence type 10"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MLST of 57 isolates showed ST10 in 60% of affected herds; M. bovis was the main mycoplasmal mastitis agent.",
+   "shortExplanation": "ST10.",
+   "pmid": "26626090",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "sequence type 10 was the dominant genotype identified in 60% of the herds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26626090-1-es",
+   "translationKey": "mastitis-26626090-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué genotipo de M. bovis predominó en los rodeos con mastitis de Israel?",
+   "options": [
+    "Tipo de secuencia 1",
+    "Tipo de secuencia 21",
+    "Tipo de secuencia 141",
+    "Tipo de secuencia 10"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El MLST de 57 aislamientos mostró ST10 en el 60% de los rodeos; M. bovis fue el principal micoplasma de mastitis.",
+   "shortExplanation": "ST10.",
+   "pmid": "26626090",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "sequence type 10 was the dominant genotype identified in 60% of the herds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26626090-2-en",
+   "translationKey": "mastitis-26626090-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which mycoplasma was the main cause of mycoplasmal mastitis in Israel?",
+   "options": [
+    "Mycoplasma bovis",
+    "Mycoplasma cottewii",
+    "Mycoplasma alkalescens",
+    "Mycoplasma yeatsii"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Of 66 herds with mycoplasmas, 60 had M. bovis; other species were rare.",
+   "shortExplanation": "M. bovis.",
+   "pmid": "26626090",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "M. bovis is the main mycoplasmal mastitic pathogen in Israel",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26626090-2-es",
+   "translationKey": "mastitis-26626090-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué micoplasma fue la principal causa de mastitis por micoplasmas en Israel?",
+   "options": [
+    "Mycoplasma bovis",
+    "Mycoplasma cottewii",
+    "Mycoplasma alkalescens",
+    "Mycoplasma yeatsii"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "De 66 rodeos con micoplasmas, 60 tenían M. bovis; las otras especies fueron raras.",
+   "shortExplanation": "M. bovis.",
+   "pmid": "26626090",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "M. bovis is the main mycoplasmal mastitic pathogen in Israel",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38362635-1-en",
+   "translationKey": "mastitis-38362635-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did genotyping of three M. bovis outbreaks on one Japanese farm show?",
+   "options": [
+    "Each outbreak had an unrelated strain",
+    "The same strain persisted for 4 years",
+    "The strain came from imported semen",
+    "The outbreaks were caused by bacteriophages"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "All outbreak strains shared the same transposase insertion and close sequence types: one strain stayed for 4 years.",
+   "shortExplanation": "Same strain for 4 years.",
+   "pmid": "38362635",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "infection with the same causative strain remained in this herd and environment for 4 y",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38362635-1-es",
+   "translationKey": "mastitis-38362635-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostró la tipificación de tres brotes de M. bovis en un tambo japonés?",
+   "options": [
+    "Cada brote tenía una cepa distinta",
+    "La misma cepa persistió 4 años",
+    "La cepa vino de semen importado",
+    "Los brotes los causaron bacteriófagos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Todas las cepas compartían la misma inserción de transposasa y tipos cercanos: una cepa permaneció 4 años.",
+   "shortExplanation": "La misma cepa 4 años.",
+   "pmid": "38362635",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "infection with the same causative strain remained in this herd and environment for 4 y",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38362635-2-en",
+   "translationKey": "mastitis-38362635-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What did susceptibility-guided fluoroquinolone treatment achieve in this herd?",
+   "options": [
+    "It failed in every treated cow",
+    "It cured all cows of any mastitis",
+    "It cleared M. bovis in 16 of 20 cows",
+    "It turned the strain resistant at once"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "M. bovis was eliminated from 16 of 20 cows, though 9 cleared cows later had mastitis by other bacteria.",
+   "shortExplanation": "16 of 20 cleared.",
+   "pmid": "38362635",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Treatment with fluoroquinolones, guided by antimicrobial susceptibility test results, eliminated M. bovis from 16 of 20 M. bovis-infected cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38362635-2-es",
+   "translationKey": "mastitis-38362635-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué logró el tratamiento con fluoroquinolonas guiado por antibiograma en este rodeo?",
+   "options": [
+    "Fracasó en todas las vacas tratadas",
+    "Curó a todas de cualquier mastitis",
+    "Eliminó M. bovis en 16 de 20 vacas",
+    "Volvió resistente la cepa de inmediato"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Se eliminó M. bovis en 16 de 20 vacas, aunque 9 de las curadas tuvieron luego mastitis por otras bacterias.",
+   "shortExplanation": "16 de 20 curadas.",
+   "pmid": "38362635",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Treatment with fluoroquinolones, guided by antimicrobial susceptibility test results, eliminated M. bovis from 16 of 20 M. bovis-infected cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29519526-1-en",
+   "translationKey": "mastitis-29519526-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How did M. bovis enter two closed, biosecure Finnish dairy herds?",
+   "options": [
+    "Through contaminated AI semen",
+    "Through purchased infected heifers",
+    "Through wild birds in the barn",
+    "Through contaminated drinking water"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Both outbreaks began in cows inseminated with semen from the same bull, which tested positive for M. bovis.",
+   "shortExplanation": "Contaminated semen.",
+   "pmid": "29519526",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "M. bovis was introduced into two closed and adequately biosecure dairy herds through the use of contaminated semen during artificial insemination",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29519526-1-es",
+   "translationKey": "mastitis-29519526-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo entró M. bovis en dos rodeos lecheros cerrados y bioseguros de Finlandia?",
+   "options": [
+    "Por semen contaminado de inseminación",
+    "Por vaquillonas infectadas compradas",
+    "Por aves silvestres en el galpón",
+    "Por agua de bebida contaminada"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Ambos brotes empezaron en vacas inseminadas con semen del mismo toro, que resultó positivo a M. bovis.",
+   "shortExplanation": "Semen contaminado.",
+   "pmid": "29519526",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "M. bovis was introduced into two closed and adequately biosecure dairy herds through the use of contaminated semen during artificial insemination",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29519526-2-en",
+   "translationKey": "mastitis-29519526-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did the authors recommend after tracing M. bovis mastitis to processed semen?",
+   "options": [
+    "Stopping artificial insemination completely",
+    "Vaccinating every bull before collection",
+    "Culling all cows inseminated that year",
+    "Re-evaluating antibiotics in semen extenders"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Antibiotics in semen extenders should be reassessed, or tested M. bovis-free semen made available.",
+   "shortExplanation": "Review extender antibiotics.",
+   "pmid": "29519526",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The antibiotics used in semen extenders should be re-evaluated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29519526-2-es",
+   "translationKey": "mastitis-29519526-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué recomendaron los autores tras vincular la mastitis por M. bovis con semen procesado?",
+   "options": [
+    "Suspender por completo la inseminación",
+    "Vacunar a todos los toros antes de la extracción",
+    "Descartar todas las vacas inseminadas ese año",
+    "Revisar los antibióticos de los diluyentes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hay que reevaluar los antibióticos de los diluyentes de semen o disponer de semen libre de M. bovis comprobado.",
+   "shortExplanation": "Revisar los antibióticos del diluyente.",
+   "pmid": "29519526",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The antibiotics used in semen extenders should be re-evaluated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-39531484-1-en",
+   "translationKey": "mastitis-39531484-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What happened when cows and mice were challenged with an M. bovis mutant lacking 5'-nucleotidase?",
+   "options": [
+    "It caused more severe mastitis",
+    "It failed to induce mastitis",
+    "It killed the animals within days",
+    "It caused mastitis only in mice"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Without 5'-NT the mutant grew poorly in mammary tissue and caused no mastitis; the nuclease mutant still did.",
+   "shortExplanation": "No mastitis.",
+   "pmid": "39531484",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the 0690::Tn mutant failed to induce mastitis in both experimental models",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-39531484-1-es",
+   "translationKey": "mastitis-39531484-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué pasó al inocular vacas y ratones con un mutante de M. bovis sin 5'-nucleotidasa?",
+   "options": [
+    "Causó una mastitis más grave",
+    "No logró causar mastitis",
+    "Mató a los animales en días",
+    "Causó mastitis solo en ratones"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sin 5'-NT el mutante crecía mal en el tejido mamario y no causó mastitis; el mutante sin nucleasa sí la causó.",
+   "shortExplanation": "Sin mastitis.",
+   "pmid": "39531484",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the 0690::Tn mutant failed to induce mastitis in both experimental models",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-39531484-2-en",
+   "translationKey": "mastitis-39531484-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Why are nucleases and 5'-nucleotidase important for Mycoplasma species?",
+   "options": [
+    "They build a thick cell wall",
+    "They produce a potent exotoxin",
+    "They salvage nucleotides from the host",
+    "They allow the cells to form spores"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mycoplasmas have limited metabolism and depend on nutrients from the host, so nucleotide salvage is crucial.",
+   "shortExplanation": "Nucleotide salvage.",
+   "pmid": "39531484",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "these enzymes are of significant importance for nucleotide salvage",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-39531484-2-es",
+   "translationKey": "mastitis-39531484-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué las nucleasas y la 5'-nucleotidasa son importantes para los micoplasmas?",
+   "options": [
+    "Construyen una pared celular gruesa",
+    "Producen una potente exotoxina",
+    "Recuperan nucleótidos del huésped",
+    "Les permiten formar esporas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los micoplasmas tienen un metabolismo limitado y dependen de nutrientes del huésped, por eso es clave reciclar nucleótidos.",
+   "shortExplanation": "Reciclaje de nucleótidos.",
+   "pmid": "39531484",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "these enzymes are of significant importance for nucleotide salvage",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29739718-1-en",
+   "translationKey": "mastitis-29739718-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How was the IsdA/ClfA–cholera toxin chimera vaccine given to cows?",
+   "options": [
+    "Intranasally at dry off",
+    "Into the teat after calving",
+    "Orally in the feed ration",
+    "Into the muscle at birth"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cows received the mucosal vaccine intranasally at dry off and were followed for 70 days.",
+   "shortExplanation": "Intranasally at dry off.",
+   "pmid": "29739718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cows were intranasally inoculated with IsdA-CTA2/B + ClfA-CTA2/B at dry off",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29739718-1-es",
+   "translationKey": "mastitis-29739718-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se administró a las vacas la vacuna quimérica IsdA/ClfA–toxina colérica?",
+   "options": [
+    "Por vía intranasal al secado",
+    "Dentro del pezón tras el parto",
+    "Por boca, mezclada en la ración",
+    "En el músculo al nacer"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las vacas recibieron la vacuna mucosa por vía intranasal al secado y se las siguió 70 días.",
+   "shortExplanation": "Intranasal al secado.",
+   "pmid": "29739718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cows were intranasally inoculated with IsdA-CTA2/B + ClfA-CTA2/B at dry off",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29739718-2-en",
+   "translationKey": "mastitis-29739718-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Which cytokine did vaccinated cows' PBMCs express after IsdA and ClfA stimulation?",
+   "options": [
+    "IFN-γ only, not IL-4",
+    "IL-17 only, not IL-4",
+    "Both IFN-γ and IL-17",
+    "IL-4, but not IFN-γ"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Stimulation induced IL-4 but not IFN-γ or IL-17, along with more CD4+ T cells and opsonizing antibodies.",
+   "shortExplanation": "IL-4.",
+   "pmid": "29739718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "IsdA and ClfA stimulation induced IL-4 expression, but not IFN-γ or IL-17",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29739718-2-es",
+   "translationKey": "mastitis-29739718-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué citocina expresaron las PBMC de vacas vacunadas al estimularlas con IsdA y ClfA?",
+   "options": [
+    "Solo IFN-γ, no IL-4",
+    "Solo IL-17, no IL-4",
+    "IFN-γ e IL-17 juntas",
+    "IL-4, pero no IFN-γ"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La estimulación indujo IL-4 pero no IFN-γ ni IL-17, junto con más linfocitos T CD4+ y anticuerpos opsonizantes.",
+   "shortExplanation": "IL-4.",
+   "pmid": "29739718",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "IsdA and ClfA stimulation induced IL-4 expression, but not IFN-γ or IL-17",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-17183089-1-en",
+   "translationKey": "mastitis-17183089-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "By how much did a precalving teat sealant reduce clinical mastitis in heifers?",
+   "options": [
+    "About 8%",
+    "About 28%",
+    "About 68%",
+    "About 98%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The bismuth subnitrate sealant cut postcalving S. uberis IMI by 84% and clinical mastitis by 68%.",
+   "shortExplanation": "~68%.",
+   "pmid": "17183089",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Infusion of the teat sealant reduced the risk of postcalving IMI due to Strep. uberis by 84%, and of clinical mastitis by 68%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-17183089-1-es",
+   "translationKey": "mastitis-17183089-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cuánto redujo la mastitis clínica en vaquillonas un sellador de pezón aplicado antes del parto?",
+   "options": [
+    "Cerca de 8%",
+    "Cerca de 28%",
+    "Cerca de 68%",
+    "Cerca de 98%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El sellador de subnitrato de bismuto redujo 84% las IIM posparto por S. uberis y 68% la mastitis clínica.",
+   "shortExplanation": "~68%.",
+   "pmid": "17183089",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Infusion of the teat sealant reduced the risk of postcalving IMI due to Strep. uberis by 84%, and of clinical mastitis by 68%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-17183089-2-en",
+   "translationKey": "mastitis-17183089-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How did an udder infection before calving affect heifers after calving?",
+   "options": [
+    "It raised mastitis risk 4-fold",
+    "It protected them from new infections",
+    "It had no effect on any outcome",
+    "It only lowered the fat in their milk"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "A precalving IMI raised postcalving IMI risk 3.6-fold and clinical mastitis risk 4-fold.",
+   "shortExplanation": "4-fold more mastitis.",
+   "pmid": "17183089",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The presence of an IMI precalving increased the risk of an IMI postcalving 3.6-fold and the risk of clinical mastitis 4-fold",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-17183089-2-es",
+   "translationKey": "mastitis-17183089-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo afectó a las vaquillonas tener una infección de ubre antes del parto?",
+   "options": [
+    "Cuadruplicó el riesgo de mastitis",
+    "Las protegió de nuevas infecciones",
+    "No tuvo efecto sobre nada",
+    "Solo bajó la grasa de su leche"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Una IIM preparto aumentó 3,6 veces el riesgo de IIM posparto y 4 veces el de mastitis clínica.",
+   "shortExplanation": "4 veces más mastitis.",
+   "pmid": "17183089",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The presence of an IMI precalving increased the risk of an IMI postcalving 3.6-fold and the risk of clinical mastitis 4-fold",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32984415-1-en",
+   "translationKey": "mastitis-32984415-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How did teat sealant and antibiotic dry-cow treatments affect the healthy milk microbiome?",
+   "options": [
+    "Antibiotics wiped out most milk bacteria",
+    "Neither altered it significantly",
+    "The sealant caused major dysbiosis",
+    "Both doubled bacterial diversity"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "16S sequencing showed no significant diversity differences between treated and control quarters.",
+   "shortExplanation": "No significant change.",
+   "pmid": "32984415",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "antibiotic, and non-antibiotic treatments for selective dry-cow therapy did not alter significantly the milk microbiome of dairy cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32984415-1-es",
+   "translationKey": "mastitis-32984415-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo afectaron el sellador y los antibióticos de secado al microbioma de la leche sana?",
+   "options": [
+    "Los antibióticos eliminaron casi todas las bacterias",
+    "Ninguno lo alteró significativamente",
+    "El sellador causó una gran disbiosis",
+    "Ambos duplicaron la diversidad bacteriana"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La secuenciación 16S no mostró diferencias de diversidad entre cuartos tratados y controles.",
+   "shortExplanation": "Sin cambios significativos.",
+   "pmid": "32984415",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "antibiotic, and non-antibiotic treatments for selective dry-cow therapy did not alter significantly the milk microbiome of dairy cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32984415-2-en",
+   "translationKey": "mastitis-32984415-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which bacterial phyla dominated the milk microbiota of these healthy cows?",
+   "options": [
+    "Cyanobacteria, Chlamydiae, Chloroflexi",
+    "Spirochaetes, Fusobacteria, Bacteroidetes",
+    "Archaea and Thermotogae",
+    "Proteobacteria, Firmicutes, Actinobacteria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "These three phyla made up over 80% of the milk microbiota at every time point.",
+   "shortExplanation": "Proteobacteria, Firmicutes, Actinobacteria.",
+   "pmid": "32984415",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The phyla Proteobacteria, Firmicutes, and Actinobacteria were the most abundant",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32984415-2-es",
+   "translationKey": "mastitis-32984415-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué filos bacterianos dominaban la microbiota de la leche de estas vacas sanas?",
+   "options": [
+    "Cyanobacteria, Chlamydiae, Chloroflexi",
+    "Spirochaetes, Fusobacteria, Bacteroidetes",
+    "Archaea y Thermotogae",
+    "Proteobacteria, Firmicutes, Actinobacteria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Estos tres filos sumaban más del 80% de la microbiota láctea en todos los momentos.",
+   "shortExplanation": "Proteobacteria, Firmicutes, Actinobacteria.",
+   "pmid": "32984415",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The phyla Proteobacteria, Firmicutes, and Actinobacteria were the most abundant",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40105284-1-en",
+   "translationKey": "mastitis-40105284-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "In this UK trial, did full vs partial cannula insertion of teat sealant change postcalving mastitis?",
+   "options": [
+    "Full insertion doubled mastitis",
+    "Partial insertion doubled mastitis",
+    "No association was found",
+    "Only partial insertion lowered SCC"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Insertion type was not linked to high SCC, new infections, cures or clinical mastitis in 287 Holsteins.",
+   "shortExplanation": "No association.",
+   "pmid": "40105284",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Insertion type was not associated with high SCC or increased postcalving mastitis cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40105284-1-es",
+   "translationKey": "mastitis-40105284-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "En este ensayo británico, ¿la inserción total o parcial de la cánula del sellador cambió la mastitis posparto?",
+   "options": [
+    "La inserción total duplicó la mastitis",
+    "La parcial duplicó la mastitis",
+    "No se halló asociación",
+    "Solo la parcial bajó el RCS"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El tipo de inserción no se asoció con RCS alto, nuevas infecciones, curas ni mastitis clínica en 287 Holstein.",
+   "shortExplanation": "Sin asociación.",
+   "pmid": "40105284",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Insertion type was not associated with high SCC or increased postcalving mastitis cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36653288-1-en",
+   "translationKey": "mastitis-36653288-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Can culture- or algorithm-guided selective dry cow therapy be used in high-producing cows?",
+   "options": [
+    "No, only in low producers",
+    "Yes, at all production levels",
+    "Only with doubled antibiotic doses",
+    "Only in cows under 23 kg/day"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Udder health outcomes matched blanket therapy in low, mid and high producers alike.",
+   "shortExplanation": "Yes, all levels.",
+   "pmid": "36653288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cult-SDCT and Alg-SDCT can be successfully implemented in cows of all milk production levels",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36653288-1-es",
+   "translationKey": "mastitis-36653288-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Se puede usar la terapia selectiva de secado (por cultivo o algoritmo) en vacas de alta producción?",
+   "options": [
+    "No, solo en bajas productoras",
+    "Sí, en todos los niveles",
+    "Solo con dosis dobles de antibiótico",
+    "Solo en vacas de menos de 23 kg/día"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los resultados de salud de ubre igualaron a la terapia total en vacas de baja, media y alta producción.",
+   "shortExplanation": "Sí, en todos.",
+   "pmid": "36653288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cult-SDCT and Alg-SDCT can be successfully implemented in cows of all milk production levels",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36653288-2-en",
+   "translationKey": "mastitis-36653288-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What concern prompted this analysis of selective dry cow therapy?",
+   "options": [
+    "Worse udder health in high producers",
+    "Higher drug costs in small family herds",
+    "Antibiotic residues in beef",
+    "Lower fertility in heifers"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Producers feared SDCT might harm high-yielding cows; the data showed it did not.",
+   "shortExplanation": "High producers' udder health.",
+   "pmid": "36653288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "some producers are concerned that this practice may be related to poor udder health outcomes in cows with high milk production",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36653288-2-es",
+   "translationKey": "mastitis-36653288-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué preocupación motivó este análisis de la terapia selectiva de secado?",
+   "options": [
+    "Peor salud de ubre en altas productoras",
+    "Mayor costo de fármacos en rodeos chicos",
+    "Residuos de antibióticos en la carne",
+    "Menor fertilidad en vaquillonas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los productores temían que la TSS perjudicara a las vacas de alta producción; los datos mostraron que no.",
+   "shortExplanation": "Las altas productoras.",
+   "pmid": "36653288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "some producers are concerned that this practice may be related to poor udder health outcomes in cows with high milk production",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34686221-1-en",
+   "translationKey": "mastitis-34686221-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What was the main barrier Irish farmers described to selective dry cow therapy?",
+   "options": [
+    "Lack of access to any vet",
+    "The cost of teat sealants",
+    "Not knowing what SDCT means",
+    "Fear of more mastitis cases"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Fear of rising mastitis drove reluctance and reliance on antibiotics; graded adoption and vet consults helped.",
+   "shortExplanation": "Fear of mastitis.",
+   "pmid": "34686221",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A significant fear of increasing mastitis incidence was evident that caused reluctance towards SDCT and reliance on antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34686221-1-es",
+   "translationKey": "mastitis-34686221-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál fue la principal barrera que describieron los productores irlandeses ante la terapia selectiva de secado?",
+   "options": [
+    "No tener acceso a ningún veterinario",
+    "El costo de los selladores",
+    "No saber qué es la TSS",
+    "Miedo a más casos de mastitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El miedo a más mastitis generaba resistencia y dependencia de antibióticos; ayudaban la adopción gradual y las consultas.",
+   "shortExplanation": "Miedo a la mastitis.",
+   "pmid": "34686221",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A significant fear of increasing mastitis incidence was evident that caused reluctance towards SDCT and reliance on antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34955269-1-en",
+   "translationKey": "mastitis-34955269-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What happens if a high-SCC cow misses antibiotic dry cow therapy, per this Finnish study?",
+   "options": [
+    "Nothing changes in the next lactation",
+    "Lower yield and higher SCC afterward",
+    "Higher yield and lower SCC afterward",
+    "Only her fertility gets worse"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Untreated high-SCC cows produced less milk and had higher SCC after calving, so accurate selection matters.",
+   "shortExplanation": "Less milk, more SCC.",
+   "pmid": "34955269",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a missed aDCT treatment for a high-SCC cow has a negative effect on subsequent lactation milk yield and SCC",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34955269-1-es",
+   "translationKey": "mastitis-34955269-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Según este estudio finlandés, ¿qué pasa si una vaca con RCS alto no recibe antibiótico al secado?",
+   "options": [
+    "No cambia nada en la lactancia siguiente",
+    "Menos leche y más RCS después",
+    "Más leche y menos RCS después",
+    "Solo empeora su fertilidad"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las vacas con RCS alto sin tratar produjeron menos leche y tuvieron más RCS tras el parto: elegir bien es clave.",
+   "shortExplanation": "Menos leche, más RCS.",
+   "pmid": "34955269",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a missed aDCT treatment for a high-SCC cow has a negative effect on subsequent lactation milk yield and SCC",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34955269-2-en",
+   "translationKey": "mastitis-34955269-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "In Finnish herds using selective dry cow therapy, what share of cows got antibiotics at dry-off?",
+   "options": [
+    "About 5%",
+    "About 50%",
+    "About 25%",
+    "About 90%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Only about a quarter of 4,720 cows (1,176) received antibiotic dry cow therapy.",
+   "shortExplanation": "~25%.",
+   "pmid": "34955269",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The overall proportion of aDCT-treated cows was 25%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34955269-2-es",
+   "translationKey": "mastitis-34955269-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "En rodeos finlandeses con terapia selectiva, ¿qué proporción de vacas recibió antibiótico al secado?",
+   "options": [
+    "Cerca del 5%",
+    "Cerca del 50%",
+    "Cerca del 25%",
+    "Cerca del 90%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Solo cerca de un cuarto de 4.720 vacas (1.176) recibió terapia antibiótica de secado.",
+   "shortExplanation": "~25%.",
+   "pmid": "34955269",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The overall proportion of aDCT-treated cows was 25%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-39521410-1-en",
+   "translationKey": "mastitis-39521410-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Cows with SCC 100,000–250,000 left untreated at dry-off had what odds of IMI at calving?",
+   "options": [
+    "About 6.6 times higher",
+    "About half as high",
+    "Exactly the same",
+    "About 60 times higher"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Untreated quarters had 6.6-fold odds of infection at freshening versus treated ones, mainly from new IMI.",
+   "shortExplanation": "6.6× higher.",
+   "pmid": "39521410",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Quarters in the NoDCT100-250 group had 6.6 times higher odds for having an IMI at freshening",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-39521410-1-es",
+   "translationKey": "mastitis-39521410-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Las vacas con RCS de 100.000–250.000 sin tratar al secado, ¿qué chances de IIM tenían al parto?",
+   "options": [
+    "Unas 6,6 veces más",
+    "Cerca de la mitad",
+    "Exactamente las mismas",
+    "Unas 60 veces más"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los cuartos sin tratar tenían 6,6 veces más chances de infección al parto, sobre todo por nuevas IIM.",
+   "shortExplanation": "6,6 veces más.",
+   "pmid": "39521410",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Quarters in the NoDCT100-250 group had 6.6 times higher odds for having an IMI at freshening",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-39521410-2-en",
+   "translationKey": "mastitis-39521410-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What was the main cause of new dry-period infections in this trial?",
+   "options": [
+    "Escherichia coli",
+    "Mycoplasma bovis",
+    "Staphylococcus aureus (MRSA)",
+    "Non-aureus staphylococci"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "New IMI were mostly NAS, followed by Streptococcus dysgalactiae.",
+   "shortExplanation": "NAS.",
+   "pmid": "39521410",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The principal cause of new IMI was NAS, followed by Streptococcus dysgalactiae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-39521410-2-es",
+   "translationKey": "mastitis-39521410-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál fue la principal causa de nuevas infecciones en el secado en este ensayo?",
+   "options": [
+    "Escherichia coli",
+    "Mycoplasma bovis",
+    "Staphylococcus aureus (SARM)",
+    "Estafilococos no aureus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las nuevas IIM fueron sobre todo por ENA, seguidas de Streptococcus dysgalactiae.",
+   "shortExplanation": "ENA.",
+   "pmid": "39521410",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The principal cause of new IMI was NAS, followed by Streptococcus dysgalactiae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38313061-1-en",
+   "translationKey": "mastitis-38313061-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did most studies on clinically severe mastitis focus on, per this scoping review?",
+   "options": [
+    "Gram-positive cases treated without drugs",
+    "Herbal remedies for mild cases",
+    "Gram-negative cases on intensive antibiotics",
+    "Vaccines given during the dry period"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Trials mostly studied gram-negative severe cases with intensive antibiotics, often critically important ones.",
+   "shortExplanation": "Gram-negatives, intensive antibiotics.",
+   "pmid": "38313061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Many studies focused on cases caused by gram-negative bacteria treated with intensive antibiotic protocols",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38313061-1-es",
+   "translationKey": "mastitis-38313061-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Según esta revisión exploratoria, ¿en qué se centraban la mayoría de los estudios de mastitis clínica grave?",
+   "options": [
+    "Casos grampositivos tratados sin fármacos",
+    "Remedios herbales para casos leves",
+    "Gramnegativos con antibióticos intensivos",
+    "Vacunas aplicadas durante el secado"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los ensayos estudiaban sobre todo casos graves por gramnegativos con antibióticos intensivos, a menudo críticos.",
+   "shortExplanation": "Gramnegativos, antibióticos intensivos.",
+   "pmid": "38313061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Many studies focused on cases caused by gram-negative bacteria treated with intensive antibiotic protocols",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38313061-2-en",
+   "translationKey": "mastitis-38313061-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How is a severe case of clinical mastitis usually defined?",
+   "options": [
+    "Clots in the milk only",
+    "The cow is systemically ill",
+    "A swollen quarter without fever",
+    "A high bulk tank cell count"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Severe means systemic signs (fever, depression, dehydration), not just changes in milk or the udder.",
+   "shortExplanation": "Systemic illness.",
+   "pmid": "38313061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A severe case of clinical mastitis is usually defined by the cow being affected systemically",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38313061-2-es",
+   "translationKey": "mastitis-38313061-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se define habitualmente un caso grave de mastitis clínica?",
+   "options": [
+    "Solo grumos en la leche",
+    "La vaca tiene signos sistémicos",
+    "Un cuarto hinchado sin fiebre",
+    "Un RCS alto en el tanque"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Grave implica signos sistémicos (fiebre, depresión, deshidratación), no solo cambios en la leche o la ubre.",
+   "shortExplanation": "Compromiso sistémico.",
+   "pmid": "38313061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A severe case of clinical mastitis is usually defined by the cow being affected systemically",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
