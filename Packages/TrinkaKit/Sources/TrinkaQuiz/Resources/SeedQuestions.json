@@ -1,5 +1,5 @@
 {
- "version": 31,
+ "version": 32,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -29637,10 +29637,10 @@
    "difficulty": "beginner",
    "prompt": "What tissue is inflamed in meningitis?",
    "options": [
-    "The lining of the lungs",
-    "The heart valves",
-    "The meninges covering the brain and spinal cord",
-    "The kidney capsule"
+    "The lining of the lungs (pleura)",
+    "The valves of the heart",
+    "The meninges around the CNS",
+    "The fibrous capsule of the kidney"
    ],
    "correctOptionIndex": 2,
    "explanation": "Meningitis is inflammation of the meninges; bacterial meningitis is a life-threatening emergency.",
@@ -29662,9 +29662,9 @@
    "prompt": "¿Qué tejido se inflama en la meningitis?",
    "options": [
     "El revestimiento de los pulmones",
-    "Las válvulas cardíacas",
-    "Las meninges que cubren el cerebro y la médula espinal",
-    "La cápsula renal"
+    "Las válvulas del corazón",
+    "Las meninges que cubren el SNC",
+    "La cápsula fibrosa del riñón"
    ],
    "correctOptionIndex": 2,
    "explanation": "La meningitis es la inflamación de las meninges; la bacteriana es una emergencia potencialmente mortal.",
@@ -29686,9 +29686,9 @@
    "prompt": "Infective endocarditis affects…",
    "options": [
     "The outer lining of the heart (pericardium)",
-    "The inner lining of the heart, including the valves",
-    "The coronary arteries only",
-    "The heart muscle only"
+    "The inner lining, including the valves",
+    "Only the coronary arteries",
+    "Only the heart muscle itself"
    ],
    "correctOptionIndex": 1,
    "explanation": "Endocarditis involves the endocardium and valves, usually from bacterial infection forming vegetations.",
@@ -29709,10 +29709,10 @@
    "difficulty": "curious",
    "prompt": "La endocarditis infecciosa afecta…",
    "options": [
-    "El revestimiento externo del corazón (pericardio)",
-    "El revestimiento interno del corazón, incluidas las válvulas",
-    "Solo las coronarias",
-    "Solo el músculo cardíaco"
+    "El revestimiento externo (pericardio)",
+    "El revestimiento interno y las válvulas",
+    "Solo las arterias coronarias",
+    "Solo el músculo cardíaco en sí"
    ],
    "correctOptionIndex": 1,
    "explanation": "La endocarditis compromete el endocardio y las válvulas, por lo general por infección bacteriana con vegetaciones.",
@@ -29735,7 +29735,7 @@
    "options": [
     "Staphylococcus aureus",
     "Enterococcus faecalis",
-    "Viridans streptococci",
+    "Viridans group streptococci",
     "Streptococcus pneumoniae"
    ],
    "correctOptionIndex": 3,
@@ -29759,7 +29759,7 @@
    "options": [
     "Staphylococcus aureus",
     "Enterococcus faecalis",
-    "Estreptococos del grupo viridans",
+    "Estreptococos viridans",
     "Streptococcus pneumoniae"
    ],
    "correctOptionIndex": 3,
@@ -29781,10 +29781,10 @@
    "difficulty": "curious",
    "prompt": "How does acute pyelonephritis usually develop?",
    "options": [
-    "As an ascending infection from the bladder to the kidney",
-    "From a skin wound",
-    "From inhaled bacteria",
-    "From mosquito bites"
+    "Ascending from the bladder to the kidney",
+    "Spreading from an infected skin wound",
+    "Through bacteria inhaled into the lungs",
+    "Through the bites of infected mosquitoes"
    ],
    "correctOptionIndex": 0,
    "explanation": "Most pyelonephritis is an ascending UTI from bladder to kidney; hematogenous spread is less common.",
@@ -29805,10 +29805,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo se desarrolla habitualmente la pielonefritis aguda?",
    "options": [
-    "Como infección ascendente de la vejiga al riñón",
-    "Desde una herida de piel",
-    "Por bacterias inhaladas",
-    "Por picaduras de mosquito"
+    "Ascendiendo de la vejiga al riñón",
+    "Desde una herida infectada de la piel",
+    "Por bacterias inhaladas a los pulmones",
+    "Por picaduras de mosquitos infectados"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mayoría de las pielonefritis son ITU ascendentes de vejiga a riñón; la vía hematógena es menos común.",
@@ -29829,8 +29829,8 @@
    "difficulty": "explorer",
    "prompt": "Which symptoms best distinguish pyelonephritis from simple cystitis?",
    "options": [
-    "Burning only",
-    "Cough and sputum",
+    "Burning on urination alone",
+    "Cough with sputum",
     "Fever and flank pain",
     "Rash and itching"
    ],
@@ -29853,9 +29853,9 @@
    "difficulty": "explorer",
    "prompt": "¿Qué síntomas distinguen mejor la pielonefritis de la cistitis simple?",
    "options": [
-    "Solo ardor",
-    "Tos y expectoración",
-    "Fiebre y dolor en flanco (lumbar)",
+    "Solo ardor al orinar",
+    "Tos con expectoración",
+    "Fiebre y dolor lumbar",
     "Exantema y prurito"
    ],
    "correctOptionIndex": 2,
@@ -29877,10 +29877,10 @@
    "difficulty": "researcher",
    "prompt": "Which patient has a COMPLICATED pyelonephritis?",
    "options": [
-    "A healthy non-pregnant young woman",
+    "A healthy young woman",
     "A pregnant woman",
-    "A healthy man after his first UTI with normal anatomy",
-    "Anyone with fever"
+    "A healthy man, first UTI",
+    "Anyone with a fever"
    ],
    "correctOptionIndex": 1,
    "explanation": "Pregnancy, uncontrolled diabetes, transplants, anatomic abnormalities, kidney failure and immunosuppression make pyelonephritis complicated.",
@@ -29901,9 +29901,9 @@
    "difficulty": "researcher",
    "prompt": "¿Qué paciente tiene una pielonefritis COMPLICADA?",
    "options": [
-    "Una mujer joven sana no embarazada",
-    "Una embarazada",
-    "Un hombre sano con anatomía normal en su primera ITU",
+    "Una mujer joven sana",
+    "Una mujer embarazada",
+    "Un hombre sano, primera ITU",
     "Cualquiera con fiebre"
    ],
    "correctOptionIndex": 1,
@@ -29927,8 +29927,8 @@
    "options": [
     "Choosing the patient's diet",
     "Ordering genetic tests",
-    "Scheduling vaccination for next year",
-    "Deciding the appropriate level of care (outpatient, ward or ICU)"
+    "Planning the vaccinations for next year",
+    "Choosing outpatient, ward or ICU care"
    ],
    "correctOptionIndex": 3,
    "explanation": "CAP ranges from mild outpatient illness to ICU-level disease; deciding where to treat improves outcomes.",
@@ -29949,10 +29949,10 @@
    "difficulty": "explorer",
    "prompt": "Además del diagnóstico, ¿qué decisión temprana es clave en la neumonía adquirida en la comunidad?",
    "options": [
-    "Elegir la dieta",
+    "Elegir la dieta del paciente",
     "Pedir estudios genéticos",
-    "Programar vacunas para el año siguiente",
-    "Decidir el nivel de atención (ambulatorio, sala o UTI)"
+    "Planificar las vacunas del año próximo",
+    "Elegir entre ambulatorio, sala o UTI"
    ],
    "correctOptionIndex": 3,
    "explanation": "La NAC va de cuadros leves ambulatorios a casos de UTI; decidir dónde tratar mejora el pronóstico.",
@@ -30021,10 +30021,10 @@
    "difficulty": "researcher",
    "prompt": "How was osteomyelitis managed before penicillin became available in the 1940s?",
    "options": [
-    "With vaccines",
-    "With antifungals",
-    "Mainly surgically, with high mortality from sepsis",
-    "It was never treated"
+    "With vaccines made from the patient's pus",
+    "With early antifungal drugs",
+    "Mainly with surgery; sepsis killed many",
+    "It was simply never treated"
    ],
    "correctOptionIndex": 2,
    "explanation": "Before antibiotics, treatment was extensive surgical debridement, with high sepsis mortality; antibiotics greatly improved survival.",
@@ -30045,10 +30045,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo se trataba la osteomielitis antes de la penicilina (años 40)?",
    "options": [
-    "Con vacunas",
-    "Con antifúngicos",
-    "Principalmente con cirugía, con alta mortalidad por sepsis",
-    "Nunca se trataba"
+    "Con vacunas hechas con el pus del paciente",
+    "Con antifúngicos tempranos",
+    "Sobre todo con cirugía; la sepsis mataba",
+    "Simplemente nunca se trataba"
    ],
    "correctOptionIndex": 2,
    "explanation": "Antes de los antibióticos se hacía desbridamiento quirúrgico extenso con alta mortalidad por sepsis; los antibióticos mejoraron mucho la supervivencia.",
@@ -30070,9 +30070,9 @@
    "prompt": "Which joint pattern is typical of septic arthritis?",
    "options": [
     "Symmetric small joints of the hands",
-    "All joints at once",
-    "The spine only",
-    "A single large joint such as the hip or knee"
+    "All of the joints at once",
+    "Only the joints of the spine",
+    "One large joint, like hip or knee"
    ],
    "correctOptionIndex": 3,
    "explanation": "Septic arthritis is usually monoarticular in a large joint and is an orthopedic emergency.",
@@ -30095,8 +30095,8 @@
    "options": [
     "Pequeñas articulaciones simétricas de las manos",
     "Todas las articulaciones a la vez",
-    "Solo la columna",
-    "Una sola articulación grande como cadera o rodilla"
+    "Solo las articulaciones de la columna",
+    "Una gran articulación: cadera o rodilla"
    ],
    "correctOptionIndex": 3,
    "explanation": "La artritis séptica suele ser monoarticular en una articulación grande y es una urgencia ortopédica.",
@@ -30117,10 +30117,10 @@
    "difficulty": "explorer",
    "prompt": "Which organisms most commonly cause non-purulent cellulitis?",
    "options": [
-    "Pseudomonas and E. coli",
-    "Beta-hemolytic streptococci (mainly group A), then MSSA",
-    "Candida species",
-    "Anaerobes only"
+    "Pseudomonas and E. coli together",
+    "β-hemolytic streptococci, then MSSA",
+    "Candida albicans and other yeasts",
+    "Strict anaerobes such as Bacteroides"
    ],
    "correctOptionIndex": 1,
    "explanation": "Cellulitis is usually due to beta-hemolytic streptococci (group A), followed by methicillin-sensitive S. aureus.",
@@ -30141,10 +30141,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué organismos causan con más frecuencia la celulitis no purulenta?",
    "options": [
-    "Pseudomonas y E. coli",
-    "Estreptococos betahemolíticos (sobre todo grupo A), luego SAMS",
-    "Especies de Candida",
-    "Solo anaerobios"
+    "Pseudomonas y E. coli juntas",
+    "Estreptococos β-hemolíticos, luego SAMS",
+    "Candida albicans y otras levaduras",
+    "Anaerobios estrictos como Bacteroides"
    ],
    "correctOptionIndex": 1,
    "explanation": "La celulitis suele deberse a estreptococos betahemolíticos (grupo A), seguidos de S. aureus sensible a meticilina.",
@@ -30165,10 +30165,10 @@
    "difficulty": "researcher",
    "prompt": "Which tissue layers does cellulitis involve?",
    "options": [
-    "The deep dermis and subcutaneous tissue",
-    "Only the epidermis",
-    "Muscle fascia only",
-    "Bone"
+    "Deep dermis and subcutaneous fat",
+    "Only the outer epidermis",
+    "Only the deep muscle fascia",
+    "The underlying bone and marrow"
    ],
    "correctOptionIndex": 0,
    "explanation": "Cellulitis inflames the deep dermis and subcutaneous tissue, without an abscess.",
@@ -30190,9 +30190,9 @@
    "prompt": "¿Qué capas compromete la celulitis?",
    "options": [
     "Dermis profunda y tejido subcutáneo",
-    "Solo la epidermis",
-    "Solo la fascia muscular",
-    "El hueso"
+    "Solo la epidermis más externa",
+    "Solo la fascia muscular profunda",
+    "El hueso subyacente y su médula"
    ],
    "correctOptionIndex": 0,
    "explanation": "La celulitis inflama la dermis profunda y el tejido subcutáneo, sin absceso.",
@@ -30213,10 +30213,10 @@
    "difficulty": "explorer",
    "prompt": "Why is necrotizing fasciitis often diagnosed late?",
    "options": [
-    "It only affects bones",
-    "It causes no pain",
-    "It spreads along fascial planes while the overlying skin initially looks normal",
-    "It is always viral"
+    "It only affects the long bones",
+    "It causes no pain at any stage of illness",
+    "It spreads deep under normal skin",
+    "It is always caused by viruses"
    ],
    "correctOptionIndex": 2,
    "explanation": "Infection spreads along poorly vascularized fascia while overlying skin may look unaffected early, delaying surgery.",
@@ -30237,10 +30237,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué la fascitis necrotizante suele diagnosticarse tarde?",
    "options": [
-    "Solo afecta huesos",
-    "No causa dolor",
-    "Se extiende por los planos fasciales mientras la piel parece normal al principio",
-    "Siempre es viral"
+    "Solo afecta los huesos largos",
+    "No causa dolor en ninguna etapa de la enfermedad",
+    "Avanza bajo una piel que parece normal",
+    "Siempre la causan virus"
    ],
    "correctOptionIndex": 2,
    "explanation": "La infección avanza por la fascia poco vascularizada y la piel puede verse normal al inicio, retrasando la cirugía.",
@@ -30262,9 +30262,9 @@
    "prompt": "What was the classic Petersdorf–Beeson definition of fever of unknown origin?",
    "options": [
     "Any fever over 37.5 °C",
-    "Fever lasting 3 days",
-    "Fever only in children",
-    "≥38.3 °C for at least 3 weeks without diagnosis after one week of hospital study"
+    "Fever lasting more than 3 days",
+    "Any unexplained fever in children",
+    "≥38.3 °C for 3 weeks, undiagnosed"
    ],
    "correctOptionIndex": 3,
    "explanation": "Classic FUO: ≥38.3 °C for ≥3 weeks, undiagnosed after a week of hospital investigation; later revised into four subclasses.",
@@ -30285,10 +30285,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál era la definición clásica de Petersdorf y Beeson de fiebre de origen desconocido?",
    "options": [
-    "Cualquier fiebre mayor de 37,5 °C",
-    "Fiebre de 3 días",
-    "Fiebre solo en niños",
-    "≥38,3 °C durante al menos 3 semanas sin diagnóstico tras una semana de estudio hospitalario"
+    "Cualquier fiebre mayor de 37,5 °C en adultos",
+    "Fiebre de más de 3 días",
+    "Toda fiebre sin causa en niños",
+    "≥38,3 °C por 3 semanas sin diagnóstico"
    ],
    "correctOptionIndex": 3,
    "explanation": "FOD clásica: ≥38,3 °C por ≥3 semanas, sin diagnóstico tras una semana de estudio; luego se revisó en cuatro subclases.",
@@ -30310,7 +30310,7 @@
    "prompt": "What fraction of fever-of-unknown-origin cases may remain undiagnosed despite workup?",
    "options": [
     "Almost none",
-    "Up to about half",
+    "Up to half",
     "Exactly 10%",
     "All of them"
    ],
@@ -30334,9 +30334,9 @@
    "prompt": "¿Qué fracción de los casos de fiebre de origen desconocido puede quedar sin diagnóstico pese al estudio?",
    "options": [
     "Casi ninguno",
-    "Hasta aproximadamente la mitad",
+    "Hasta la mitad",
     "Exactamente 10%",
-    "Todos"
+    "Todos ellos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Hasta el 51% de las FOD quedan sin diagnóstico pese a una evaluación extensa.",
@@ -30357,10 +30357,10 @@
    "difficulty": "explorer",
    "prompt": "Which statement about central line–associated bloodstream infections is correct?",
    "options": [
-    "Most are preventable with aseptic technique and surveillance",
-    "They are unavoidable",
+    "Most are preventable with asepsis",
+    "They are entirely unavoidable",
     "They are caused only by viruses",
-    "They are cheap to treat"
+    "They are cheap and easy to treat"
    ],
    "correctOptionIndex": 0,
    "explanation": "CLABSIs are costly (~$46,000/case) but mostly preventable with asepsis, surveillance and good line management.",
@@ -30381,10 +30381,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué afirmación sobre las bacteriemias asociadas a catéter central es correcta?",
    "options": [
-    "La mayoría son prevenibles con técnica aséptica y vigilancia",
-    "Son inevitables",
+    "La mayoría se previene con asepsia",
+    "Son totalmente inevitables",
     "Solo las causan virus",
-    "Son baratas de tratar"
+    "Son baratas y fáciles de tratar"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las BAC son costosas (~USD 46.000/caso) pero mayormente prevenibles con asepsia, vigilancia y buen manejo del catéter.",
@@ -30406,9 +30406,9 @@
    "prompt": "Which findings characterize toxic shock syndrome?",
    "options": [
     "Slow weight loss and night sweats",
-    "Painless genital ulcer",
-    "Facial palsy",
-    "Fever, hypotension, sunburn-like rash and organ damage"
+    "A painless genital ulcer",
+    "Sudden one-sided facial palsy after a tick bite",
+    "Fever, hypotension, sunburn-like rash"
    ],
    "correctOptionIndex": 3,
    "explanation": "TSS presents acutely with fever, hypotension, a sunburn-like rash and end-organ dysfunction.",
@@ -30430,9 +30430,9 @@
    "prompt": "¿Qué hallazgos caracterizan al síndrome de shock tóxico?",
    "options": [
     "Pérdida de peso lenta y sudores nocturnos",
-    "Úlcera genital indolora",
-    "Parálisis facial",
-    "Fiebre, hipotensión, exantema tipo quemadura solar y daño orgánico"
+    "Una úlcera genital indolora",
+    "Parálisis facial súbita de un lado",
+    "Fiebre, hipotensión, eritema tipo quemadura"
    ],
    "correctOptionIndex": 3,
    "explanation": "El SST se presenta de forma aguda con fiebre, hipotensión, exantema tipo quemadura solar y disfunción orgánica.",
@@ -30453,10 +30453,10 @@
    "difficulty": "researcher",
    "prompt": "With what was toxic shock syndrome classically associated?",
    "options": [
-    "Raw milk",
-    "Tick bites",
-    "High-absorbency tampon use",
-    "Contact lenses"
+    "Drinking raw milk",
+    "Hard tick bites",
+    "High-absorbency tampons",
+    "Extended-wear contact lenses"
    ],
    "correctOptionIndex": 2,
    "explanation": "Classic TSS was linked to high-absorbency tampons; non-menstrual cases are now also recognized.",
@@ -30477,10 +30477,10 @@
    "difficulty": "researcher",
    "prompt": "¿Con qué se asoció clásicamente el síndrome de shock tóxico?",
    "options": [
-    "Leche cruda",
+    "Tomar leche cruda",
     "Picaduras de garrapata",
-    "Uso de tampones de alta absorción",
-    "Lentes de contacto"
+    "Tampones de alta absorción",
+    "Lentes de contacto de uso prolongado"
    ],
    "correctOptionIndex": 2,
    "explanation": "El SST clásico se vinculó a tampones de alta absorción; hoy también se reconocen casos no menstruales.",
@@ -30598,9 +30598,9 @@
    "prompt": "How is sepsis currently defined (Sepsis-3)?",
    "options": [
     "Any positive blood culture",
-    "Fever above 38 °C",
-    "Life-threatening organ dysfunction caused by a dysregulated host response to infection",
-    "Infection of the blood by fungi only"
+    "Fever above 38 °C with chills",
+    "Organ dysfunction from a dysregulated response",
+    "A bloodstream infection caused only by fungi"
    ],
    "correctOptionIndex": 2,
    "explanation": "Sepsis-3: life-threatening organ dysfunction from a dysregulated host response to infection.",
@@ -30622,9 +30622,9 @@
    "prompt": "¿Cómo se define hoy la sepsis (Sepsis-3)?",
    "options": [
     "Cualquier hemocultivo positivo",
-    "Fiebre mayor de 38 °C",
-    "Disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a la infección",
-    "Infección de la sangre solo por hongos"
+    "Fiebre mayor de 38 °C con escalofríos",
+    "Disfunción orgánica por respuesta desregulada",
+    "Infección de la sangre causada solo por hongos"
    ],
    "correctOptionIndex": 2,
    "explanation": "Sepsis-3: disfunción orgánica potencialmente mortal por una respuesta desregulada del huésped a la infección.",
@@ -30645,10 +30645,10 @@
    "difficulty": "explorer",
    "prompt": "What does the Greek root of the word \"sepsis\" mean?",
    "options": [
-    "To make rotten",
-    "Blood",
-    "Heat",
-    "Shock"
+    "To rot",
+    "To bleed",
+    "To heat",
+    "To shake"
    ],
    "correctOptionIndex": 0,
    "explanation": "Hippocrates introduced \"sepsis\", from a Greek word meaning \"to make rotten\".",
@@ -30670,9 +30670,9 @@
    "prompt": "¿Qué significa la raíz griega de la palabra \"sepsis\"?",
    "options": [
     "Pudrir",
-    "Sangre",
-    "Calor",
-    "Choque"
+    "Sangrar",
+    "Calentar",
+    "Chocar"
    ],
    "correctOptionIndex": 0,
    "explanation": "Hipócrates introdujo \"sepsis\", de una palabra griega que significa \"pudrir\".",
@@ -30693,10 +30693,10 @@
    "difficulty": "expert",
    "prompt": "In the classic consensus definitions, what defines septic shock?",
    "options": [
-    "Fever with chills",
-    "Any tachycardia",
-    "Lactate below 1",
-    "Sepsis-induced hypotension despite adequate fluid resuscitation"
+    "Fever with shaking chills",
+    "Any degree of tachycardia",
+    "A lactate level below 1",
+    "Hypotension despite fluids"
    ],
    "correctOptionIndex": 3,
    "explanation": "Septic shock is sepsis with hypotension that persists despite adequate fluid resuscitation.",
@@ -30717,10 +30717,10 @@
    "difficulty": "expert",
    "prompt": "En las definiciones de consenso clásicas, ¿qué define al shock séptico?",
    "options": [
-    "Fiebre con escalofríos",
-    "Cualquier taquicardia",
-    "Lactato menor de 1",
-    "Hipotensión inducida por sepsis pese a una reanimación con fluidos adecuada"
+    "Fiebre con escalofríos intensos",
+    "Cualquier grado de taquicardia",
+    "Un lactato menor de 1",
+    "Hipotensión pese a fluidos"
    ],
    "correctOptionIndex": 3,
    "explanation": "El shock séptico es sepsis con hipotensión que persiste pese a una reanimación adecuada con fluidos.",
@@ -30741,10 +30741,10 @@
    "difficulty": "researcher",
    "prompt": "From where do brain abscesses most often arise?",
    "options": [
-    "Urinary tract infections",
-    "Contiguous infections of the ear, teeth, sinuses or mastoid",
-    "Skin infections of the feet",
-    "Eye drops"
+    "Infections of the urinary tract",
+    "Nearby ear, tooth or sinus foci",
+    "Skin infections of the feet and toes",
+    "Contaminated eye drops"
    ],
    "correctOptionIndex": 1,
    "explanation": "Brain abscesses often spread from nearby ear, dental, sinus or mastoid infections, or hematogenously from lungs or heart.",
@@ -30765,10 +30765,10 @@
    "difficulty": "researcher",
    "prompt": "¿De dónde surgen con más frecuencia los abscesos cerebrales?",
    "options": [
-    "Infecciones urinarias",
-    "Infecciones contiguas de oído, dientes, senos paranasales o mastoides",
-    "Infecciones de piel de los pies",
-    "Colirios"
+    "Infecciones de las vías urinarias",
+    "Focos vecinos: oído, dientes, senos",
+    "Infecciones de la piel de los pies y los dedos",
+    "Colirios contaminados"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los abscesos cerebrales suelen extenderse desde infecciones cercanas de oído, dientes, senos o mastoides, o por vía hematógena desde pulmón o corazón.",
@@ -30789,10 +30789,10 @@
    "difficulty": "explorer",
    "prompt": "Which pathogens must antibiotic regimens for pelvic inflammatory disease cover?",
    "options": [
-    "Neisseria gonorrhoeae and Chlamydia trachomatis",
+    "N. gonorrhoeae and C. trachomatis",
     "Candida and Trichomonas only",
-    "Influenza and RSV",
-    "Plasmodium species"
+    "Influenza virus and RSV",
+    "Plasmodium species and Babesia"
    ],
    "correctOptionIndex": 0,
    "explanation": "PID is usually an ascending STI; treatment covers N. gonorrhoeae and C. trachomatis.",
@@ -30813,10 +30813,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué patógenos debe cubrir el tratamiento de la enfermedad pélvica inflamatoria?",
    "options": [
-    "Neisseria gonorrhoeae y Chlamydia trachomatis",
+    "N. gonorrhoeae y C. trachomatis",
     "Solo Candida y Trichomonas",
-    "Influenza y VSR",
-    "Especies de Plasmodium"
+    "Virus influenza y VSR",
+    "Especies de Plasmodium y Babesia"
    ],
    "correctOptionIndex": 0,
    "explanation": "La EPI suele ser una ITS ascendente; el tratamiento cubre N. gonorrhoeae y C. trachomatis.",
@@ -30837,10 +30837,10 @@
    "difficulty": "researcher",
    "prompt": "Which are long-term complications of pelvic inflammatory disease?",
    "options": [
-    "Cataracts",
-    "Kidney stones",
-    "Osteoporosis",
-    "Ectopic pregnancy, infertility and chronic pelvic pain"
+    "Cataracts in early adulthood",
+    "Recurrent kidney stones",
+    "Osteoporosis and hip fractures in midlife",
+    "Ectopic pregnancy and infertility"
    ],
    "correctOptionIndex": 3,
    "explanation": "Tubal damage from PID can cause ectopic pregnancy, infertility and chronic pelvic pain.",
@@ -30861,10 +30861,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuáles son complicaciones a largo plazo de la enfermedad pélvica inflamatoria?",
    "options": [
-    "Cataratas",
-    "Cálculos renales",
-    "Osteoporosis",
-    "Embarazo ectópico, infertilidad y dolor pélvico crónico"
+    "Cataratas en la adultez temprana",
+    "Cálculos renales recurrentes",
+    "Osteoporosis y fracturas",
+    "Embarazo ectópico e infertilidad"
    ],
    "correctOptionIndex": 3,
    "explanation": "El daño tubario por EPI puede causar embarazo ectópico, infertilidad y dolor pélvico crónico.",
@@ -30885,9 +30885,9 @@
    "difficulty": "explorer",
    "prompt": "Why was \"Gardnerella vaginitis\" renamed \"bacterial vaginosis\"?",
    "options": [
-    "Because it is caused by a virus",
-    "Because it is a fungal infection",
-    "Because it reflects overgrowth of various anaerobes, not Gardnerella alone",
+    "Because it turned out to be caused by a virus",
+    "Because it is actually a fungal infection",
+    "Many anaerobes overgrow, not just Gardnerella",
     "Because it only affects men"
    ],
    "correctOptionIndex": 2,
@@ -30909,9 +30909,9 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué la \"vaginitis por Gardnerella\" pasó a llamarse \"vaginosis bacteriana\"?",
    "options": [
-    "Porque la causa un virus",
-    "Porque es una micosis",
-    "Porque refleja sobrecrecimiento de varios anaerobios, no solo Gardnerella",
+    "Porque resultó ser causada por un virus",
+    "Porque en realidad es una micosis vaginal",
+    "Crecen varios anaerobios, no solo Gardnerella",
     "Porque solo afecta a hombres"
    ],
    "correctOptionIndex": 2,
@@ -30982,7 +30982,7 @@
    "prompt": "What is the most predictable travel-related illness?",
    "options": [
     "Malaria",
-    "Altitude sickness",
+    "Acute altitude sickness",
     "Jet lag",
     "Travelers' diarrhea"
    ],
@@ -31006,7 +31006,7 @@
    "prompt": "¿Cuál es la enfermedad más predecible relacionada con viajes?",
    "options": [
     "Malaria",
-    "Mal de altura",
+    "El mal agudo de altura",
     "Jet lag",
     "Diarrea del viajero"
    ],
@@ -31032,7 +31032,7 @@
     "About 80–90%",
     "About 5%",
     "About 30%",
-    "None"
+    "None at all"
    ],
    "correctOptionIndex": 0,
    "explanation": "Bacteria (e.g., enterotoxigenic E. coli) cause an estimated 80–90% of travelers' diarrhea.",
@@ -31056,7 +31056,7 @@
     "Alrededor del 80–90%",
     "Alrededor del 5%",
     "Alrededor del 30%",
-    "Ninguna"
+    "Ninguna en absoluto"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las bacterias (p. ej., E. coli enterotoxigénica) causan aproximadamente el 80–90% de la diarrea del viajero.",
@@ -31077,10 +31077,10 @@
    "difficulty": "beginner",
    "prompt": "What is a nosocomial (healthcare-associated) infection?",
    "options": [
-    "An infection present before admission",
-    "An infection acquired during healthcare that was not present at admission",
-    "Any viral infection",
-    "An inherited disease"
+    "An infection already present on admission",
+    "One acquired during care, absent at admission",
+    "Any viral infection in any setting",
+    "A disease inherited from the parents"
    ],
    "correctOptionIndex": 1,
    "explanation": "HAIs are acquired during healthcare and absent at admission; they are the most common adverse events in healthcare.",
@@ -31101,10 +31101,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué es una infección nosocomial (asociada a la atención de salud)?",
    "options": [
-    "Una infección presente antes de la internación",
-    "Una infección adquirida durante la atención que no estaba al ingreso",
-    "Cualquier infección viral",
-    "Una enfermedad hereditaria"
+    "Una infección ya presente al ingresar",
+    "Adquirida durante la atención, no al ingreso",
+    "Cualquier infección viral en cualquier lugar",
+    "Una enfermedad heredada de los padres"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las IAAS se adquieren durante la atención y no estaban al ingreso; son los eventos adversos más comunes en salud.",
@@ -31125,10 +31125,10 @@
    "difficulty": "curious",
    "prompt": "Which is a major risk factor for healthcare-associated infections?",
    "options": [
-    "Eating fruit",
+    "Eating raw fruit",
     "Wearing glasses",
-    "Indwelling medical devices such as catheters",
-    "Being vaccinated"
+    "Catheters and similar devices",
+    "Being fully vaccinated as an adult"
    ],
    "correctOptionIndex": 2,
    "explanation": "Invasive procedures, surgery, indwelling devices and implants increase HAI risk.",
@@ -31149,10 +31149,10 @@
    "difficulty": "curious",
    "prompt": "¿Cuál es un factor de riesgo importante de infecciones asociadas a la atención?",
    "options": [
-    "Comer fruta",
-    "Usar anteojos",
-    "Dispositivos permanentes como catéteres",
-    "Estar vacunado"
+    "Comer fruta cruda",
+    "Usar anteojos de lectura",
+    "Catéteres y otros dispositivos",
+    "Tener todas las vacunas al día"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los procedimientos invasivos, la cirugía, los dispositivos permanentes y los implantes aumentan el riesgo de IAAS.",
@@ -31173,9 +31173,9 @@
    "difficulty": "beginner",
    "prompt": "What is the single most important intervention to prevent healthcare-associated infections?",
    "options": [
-    "Wearing a mask always",
-    "Giving antibiotics to all patients",
-    "Keeping windows closed",
+    "Masks at all times",
+    "Antibiotics for all",
+    "Closed windows",
     "Hand hygiene"
    ],
    "correctOptionIndex": 3,
@@ -31197,10 +31197,10 @@
    "difficulty": "beginner",
    "prompt": "¿Cuál es la intervención más importante para prevenir infecciones asociadas a la atención?",
    "options": [
-    "Usar siempre barbijo",
-    "Dar antibióticos a todos",
-    "Mantener ventanas cerradas",
-    "La higiene de manos"
+    "Usar barbijo todo el tiempo",
+    "Antibióticos a todos",
+    "Ventanas cerradas",
+    "Higiene de manos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las manos contaminadas son la principal fuente de IAAS; la higiene de manos es la piedra angular de la prevención.",
@@ -31318,9 +31318,9 @@
    "prompt": "What is an opportunistic infection?",
    "options": [
     "An infection acquired while traveling",
-    "An infection that rarely causes disease in immunocompetent hosts but does in immunocompromised ones",
-    "Any infection treated with antibiotics",
-    "An infection from pets only"
+    "One that sickens mainly immunocompromised hosts",
+    "Any infection that is treated with antibiotics",
+    "An infection acquired only from household pets"
    ],
    "correctOptionIndex": 1,
    "explanation": "Opportunistic pathogens exploit immune compromise (e.g., low CD4+) to cause disease rarely seen in healthy hosts.",
@@ -31342,9 +31342,9 @@
    "prompt": "¿Qué es una infección oportunista?",
    "options": [
     "Una infección adquirida al viajar",
-    "Una infección que rara vez enferma a inmunocompetentes pero sí a inmunocomprometidos",
+    "Una que enferma sobre todo a inmunodeprimidos",
     "Cualquier infección tratada con antibióticos",
-    "Una infección solo por mascotas"
+    "Una infección adquirida solo de mascotas"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los patógenos oportunistas aprovechan la inmunodepresión (p. ej., CD4+ bajos) para causar enfermedad rara en personas sanas.",
@@ -31365,10 +31365,10 @@
    "difficulty": "beginner",
    "prompt": "Influenza viruses are…",
    "options": [
-    "Bacteria",
-    "RNA viruses (Orthomyxoviridae)",
-    "DNA viruses (herpesviruses)",
-    "Fungi"
+    "Gram-negative bacteria",
+    "RNA viruses (orthomyxoviruses)",
+    "DNA viruses related to herpesviruses",
+    "Dimorphic fungi"
    ],
    "correctOptionIndex": 1,
    "explanation": "Influenza viruses are RNA viruses of the Orthomyxoviridae, with types A, B and C.",
@@ -31389,10 +31389,10 @@
    "difficulty": "beginner",
    "prompt": "Los virus de la influenza son…",
    "options": [
-    "Bacterias",
-    "Virus ARN (Orthomyxoviridae)",
-    "Virus ADN (herpesvirus)",
-    "Hongos"
+    "Bacterias gramnegativas",
+    "Virus ARN (ortomixovirus)",
+    "Virus ADN emparentados con herpesvirus",
+    "Hongos dimorfos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los virus influenza son virus ARN de la familia Orthomyxoviridae, con tipos A, B y C.",
@@ -31413,10 +31413,10 @@
    "difficulty": "explorer",
    "prompt": "Why does influenza A, but not B, cause pandemics?",
    "options": [
-    "B is a bacterium",
-    "B has no vaccine",
-    "B only infects birds",
-    "A circulates in birds, pigs and horses; B spreads only among humans"
+    "Influenza B is in fact a bacterium",
+    "There is no vaccine at all for B",
+    "B infects only wild birds",
+    "A has animal hosts; B is mostly human"
    ],
    "correctOptionIndex": 3,
    "explanation": "Influenza A has animal reservoirs (birds, pigs, horses) that allow new subtypes; influenza B is limited to humans.",
@@ -31437,10 +31437,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué la influenza A, y no la B, causa pandemias?",
    "options": [
-    "La B es una bacteria",
-    "La B no tiene vacuna",
-    "La B solo infecta aves",
-    "La A circula en aves, cerdos y caballos; la B solo entre humanos"
+    "La influenza B es en realidad una bacteria",
+    "No existe ninguna vacuna para la B",
+    "La B solo infecta aves silvestres",
+    "La A tiene huéspedes animales; la B no"
    ],
    "correctOptionIndex": 3,
    "explanation": "La influenza A tiene reservorios animales (aves, cerdos, caballos) que permiten nuevos subtipos; la B se limita a humanos.",
@@ -31509,10 +31509,10 @@
    "difficulty": "curious",
    "prompt": "Which are the most common acute infectious diseases in the world?",
    "options": [
-    "Upper respiratory tract infections",
-    "Urinary tract infections",
-    "Malaria",
-    "Tuberculosis"
+    "Upper respiratory infections",
+    "Urinary tract infections in women",
+    "Malaria in the tropics",
+    "Pulmonary tuberculosis"
    ],
    "correctOptionIndex": 0,
    "explanation": "URTIs are the most common acute infections and drive many unnecessary antibiotic prescriptions.",
@@ -31534,9 +31534,9 @@
    "prompt": "¿Cuáles son las enfermedades infecciosas agudas más comunes del mundo?",
    "options": [
     "Infecciones respiratorias altas",
-    "Infecciones urinarias",
-    "Malaria",
-    "Tuberculosis"
+    "Infecciones urinarias en mujeres",
+    "Malaria en los trópicos",
+    "Tuberculosis pulmonar"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las infecciones respiratorias altas son las infecciones agudas más comunes y motivan muchas recetas innecesarias de antibióticos.",
@@ -31606,9 +31606,9 @@
    "prompt": "What problem is highlighted for adults with sore throat?",
    "options": [
     "Antibiotics are under-prescribed",
-    "Strep causes most adult sore throats",
-    "Vaccines are overused",
-    "Only 10–15% have strep, yet ≥60% receive antibiotics"
+    "Strep causes most sore throats in adults",
+    "Throat vaccines are overused",
+    "Few have strep; most get antibiotics"
    ],
    "correctOptionIndex": 3,
    "explanation": "Most adult sore throats are not streptococcal, but most adults get antibiotics — a major stewardship target.",
@@ -31629,10 +31629,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué problema se destaca en adultos con dolor de garganta?",
    "options": [
-    "Se recetan pocos antibióticos",
-    "El estreptococo causa la mayoría",
+    "Se recetan muy pocos antibióticos para la angina",
+    "El estreptococo causa casi todas las anginas del adulto",
     "Se abusa de las vacunas",
-    "Solo 10–15% tiene estreptococo, pero ≥60% recibe antibióticos"
+    "Pocos tienen estreptococo y casi todos reciben antibióticos"
    ],
    "correctOptionIndex": 3,
    "explanation": "La mayoría de las faringitis del adulto no son estreptocócicas, pero la mayoría recibe antibióticos: un blanco clave del uso racional.",
@@ -31653,7 +31653,7 @@
    "difficulty": "explorer",
    "prompt": "Which bacteria most commonly cause acute otitis media?",
    "options": [
-    "S. pneumoniae, non-typeable H. influenzae and Moraxella catarrhalis",
+    "S. pneumoniae, H. influenzae, Moraxella",
     "E. coli, Klebsiella and Proteus",
     "S. aureus, S. epidermidis and Enterococcus",
     "Pseudomonas, Acinetobacter and Serratia"
@@ -31677,7 +31677,7 @@
    "difficulty": "explorer",
    "prompt": "¿Qué bacterias causan con más frecuencia la otitis media aguda?",
    "options": [
-    "S. pneumoniae, H. influenzae no tipificable y Moraxella catarrhalis",
+    "S. pneumoniae, H. influenzae, Moraxella",
     "E. coli, Klebsiella y Proteus",
     "S. aureus, S. epidermidis y Enterococcus",
     "Pseudomonas, Acinetobacter y Serratia"
@@ -31749,10 +31749,10 @@
    "difficulty": "researcher",
    "prompt": "What is the most reliable method to assess the tympanic membrane for otitis media?",
    "options": [
-    "Plain X-ray",
+    "Plain skull X-ray",
     "Pneumatic otoscopy",
     "Blood culture",
-    "Throat swab"
+    "Throat swab culture"
    ],
    "correctOptionIndex": 1,
    "explanation": "Pneumatic otoscopy has higher sensitivity and specificity than plain otoscopy; tympanometry can help when it's unavailable.",
@@ -31845,10 +31845,10 @@
    "difficulty": "expert",
    "prompt": "What does the evidence say about antibiotics for acute sinusitis?",
    "options": [
-    "Trials have not conclusively shown significant benefit",
-    "They always cure it in 24 hours",
-    "They are required in every case",
-    "They prevent all complications"
+    "Trials show no clear, significant benefit",
+    "They always cure it within 24 hours",
+    "They are required in every single case",
+    "They prevent all possible complications"
    ],
    "correctOptionIndex": 0,
    "explanation": "Most acute rhinosinusitis is viral and self-limited; antibiotic benefit is not conclusively shown, so symptomatic care is the norm.",
@@ -31869,10 +31869,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué dice la evidencia sobre los antibióticos en la sinusitis aguda?",
    "options": [
-    "Los ensayos no demostraron de forma concluyente un beneficio significativo",
-    "Siempre curan en 24 horas",
+    "Los ensayos no muestran un beneficio claro",
+    "Siempre la curan en 24 horas",
     "Son obligatorios en todos los casos",
-    "Previenen todas las complicaciones"
+    "Previenen todas las complicaciones posibles"
    ],
    "correctOptionIndex": 0,
    "explanation": "La mayoría de las rinosinusitis agudas son virales y autolimitadas; el beneficio antibiótico no está claro y se prioriza el tratamiento sintomático.",
@@ -31942,8 +31942,8 @@
    "prompt": "Which organisms classically cause hyperacute (onset within 24 h, severe) conjunctivitis?",
    "options": [
     "Adenovirus and enterovirus",
-    "Allergens",
-    "Neisseria gonorrhoeae and N. meningitidis",
+    "Pollen and other airborne allergens",
+    "N. gonorrhoeae and N. meningitidis",
     "Staphylococcus epidermidis"
    ],
    "correctOptionIndex": 2,
@@ -31966,8 +31966,8 @@
    "prompt": "¿Qué organismos causan clásicamente conjuntivitis hiperaguda (grave, en menos de 24 h)?",
    "options": [
     "Adenovirus y enterovirus",
-    "Alérgenos",
-    "Neisseria gonorrhoeae y N. meningitidis",
+    "Polen y otros alérgenos del aire",
+    "N. gonorrhoeae y N. meningitidis",
     "Staphylococcus epidermidis"
    ],
    "correctOptionIndex": 2,
@@ -31989,10 +31989,10 @@
    "difficulty": "beginner",
    "prompt": "What is the typical appearance of impetigo?",
    "options": [
-    "Painless black eschar",
-    "Target-shaped lesions",
-    "Silvery scales on elbows",
-    "Red plaques with a yellow (honey-colored) crust"
+    "A painless black eschar",
+    "Target-shaped lesions on the palms and soles",
+    "Silvery scales on the elbows",
+    "Red plaques with honey-colored crusts"
    ],
    "correctOptionIndex": 3,
    "explanation": "Impetigo is a highly contagious superficial skin infection with yellow-crusted plaques, mostly in children.",
@@ -32013,10 +32013,10 @@
    "difficulty": "beginner",
    "prompt": "¿Cuál es el aspecto típico del impétigo?",
    "options": [
-    "Escara negra indolora",
-    "Lesiones en diana",
-    "Escamas plateadas en codos",
-    "Placas rojas con costra amarilla (melicérica)"
+    "Una escara negra indolora",
+    "Lesiones en diana en las palmas",
+    "Escamas plateadas en los codos",
+    "Placas rojas con costra melicérica"
    ],
    "correctOptionIndex": 3,
    "explanation": "El impétigo es una infección cutánea superficial muy contagiosa con placas de costra amarillenta, sobre todo en niños.",
@@ -32037,10 +32037,10 @@
    "difficulty": "curious",
    "prompt": "Which findings are characteristic of scarlet fever?",
    "options": [
-    "Sandpaper-like rash, strawberry tongue and exudative pharyngitis",
-    "Vesicles in crops",
-    "Koplik spots",
-    "Slapped-cheek rash"
+    "Sandpaper rash and strawberry tongue",
+    "Itchy vesicles appearing in crops",
+    "Koplik spots inside the cheeks",
+    "A bright red slapped-cheek rash on the face"
    ],
    "correctOptionIndex": 0,
    "explanation": "Scarlet fever, from group A strep, features a sandpaper rash, strawberry tongue and exudative pharyngitis.",
@@ -32061,10 +32061,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué hallazgos son característicos de la escarlatina?",
    "options": [
-    "Exantema áspero como lija, lengua aframbuesada y faringitis exudativa",
-    "Vesículas en brotes",
-    "Manchas de Koplik",
-    "Mejillas abofeteadas"
+    "Exantema áspero y lengua aframbuesada",
+    "Vesículas que pican y salen en brotes",
+    "Manchas de Koplik en las mejillas",
+    "Mejillas abofeteadas de color rojo intenso"
    ],
    "correctOptionIndex": 0,
    "explanation": "La escarlatina, por estreptococo del grupo A, tiene exantema áspero, lengua aframbuesada y faringitis exudativa.",
@@ -32085,10 +32085,10 @@
    "difficulty": "expert",
    "prompt": "What causes the rash of scarlet fever?",
    "options": [
-    "Direct bacterial invasion of skin",
-    "Immune complexes in vessels",
-    "Streptococcal pyrogenic exotoxins acting as superantigens",
-    "IgE-mediated allergy"
+    "Direct bacterial invasion of the skin",
+    "Immune complexes deposited in vessels",
+    "Pyrogenic exotoxins (superantigens)",
+    "An IgE-mediated allergy to penicillin"
    ],
    "correctOptionIndex": 2,
    "explanation": "Pyrogenic exotoxins (erythrogenic toxins) act as superantigens — potent T-cell activators — causing the rash.",
@@ -32110,9 +32110,9 @@
    "prompt": "¿Qué causa el exantema de la escarlatina?",
    "options": [
     "Invasión bacteriana directa de la piel",
-    "Inmunocomplejos en los vasos",
-    "Exotoxinas pirógenas estreptocócicas que actúan como superantígenos",
-    "Alergia mediada por IgE"
+    "Inmunocomplejos depositados en los vasos",
+    "Exotoxinas pirógenas (superantígenos)",
+    "Una alergia a la penicilina mediada por IgE"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las exotoxinas pirógenas (eritrogénicas) actúan como superantígenos, potentes activadores de linfocitos T, y causan el exantema.",
@@ -32133,10 +32133,10 @@
    "difficulty": "beginner",
    "prompt": "What is the main treatment for viral gastroenteritis?",
    "options": [
-    "Antibiotics",
+    "Broad-spectrum antibiotics",
     "Rehydration and supportive care",
-    "Antifungals",
-    "Surgery"
+    "Oral antifungal drugs",
+    "Emergency abdominal surgery to drain it"
    ],
    "correctOptionIndex": 1,
    "explanation": "Whatever the virus, care focuses on hydration and symptom relief.",
@@ -32157,10 +32157,10 @@
    "difficulty": "beginner",
    "prompt": "¿Cuál es el tratamiento principal de la gastroenteritis viral?",
    "options": [
-    "Antibióticos",
+    "Antibióticos de amplio espectro",
     "Rehidratación y medidas de sostén",
-    "Antifúngicos",
-    "Cirugía"
+    "Antifúngicos por vía oral",
+    "Cirugía abdominal de urgencia"
    ],
    "correctOptionIndex": 1,
    "explanation": "Sea cual sea el virus, el tratamiento se centra en la hidratación y el alivio de los síntomas.",
@@ -32181,10 +32181,10 @@
    "difficulty": "explorer",
    "prompt": "Where does viral gastroenteritis typically cause outbreaks?",
    "options": [
-    "Deserts",
-    "Operating rooms only",
-    "Isolated farms",
-    "Close communities: daycares, nursing homes, cruise ships"
+    "In hot, dry desert regions",
+    "Only in hospital operating rooms",
+    "On isolated farms with few people",
+    "Daycares, nursing homes, cruises"
    ],
    "correctOptionIndex": 3,
    "explanation": "Outbreaks thrive in close communities such as daycares, nursing facilities and cruise ships.",
@@ -32205,10 +32205,10 @@
    "difficulty": "explorer",
    "prompt": "¿Dónde suele causar brotes la gastroenteritis viral?",
    "options": [
-    "Desiertos",
-    "Solo quirófanos",
-    "Granjas aisladas",
-    "Comunidades cerradas: guarderías, geriátricos, cruceros"
+    "En regiones de desierto cálidas",
+    "Solo en los quirófanos de hospitales",
+    "En granjas aisladas con poca gente",
+    "Guarderías, geriátricos y cruceros"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los brotes ocurren en comunidades cerradas como guarderías, geriátricos y cruceros.",
@@ -32277,10 +32277,10 @@
    "difficulty": "researcher",
    "prompt": "How is the absolute neutrophil count (ANC) calculated?",
    "options": [
-    "WBC × (% segmented neutrophils + % bands) / 100",
-    "WBC − lymphocytes",
-    "Platelets × 2",
-    "Hemoglobin × 3"
+    "WBC × (% segs + % bands) / 100",
+    "Total WBC minus the lymphocytes",
+    "Platelet count multiplied by 2",
+    "Hemoglobin multiplied by 3, in g/L"
    ],
    "correctOptionIndex": 0,
    "explanation": "ANC = WBC × (%PMNs + %bands) / 100; <500 is severe and <100 profound neutropenia.",
@@ -32301,10 +32301,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo se calcula el recuento absoluto de neutrófilos (RAN)?",
    "options": [
-    "Leucocitos × (% segmentados + % cayados) / 100",
-    "Leucocitos − linfocitos",
-    "Plaquetas × 2",
-    "Hemoglobina × 3"
+    "Leucocitos × (% segm. + % cayados) / 100",
+    "Leucocitos totales menos los linfocitos",
+    "Recuento de plaquetas multiplicado por 2",
+    "Hemoglobina multiplicada por 3, en g/L"
    ],
    "correctOptionIndex": 0,
    "explanation": "RAN = leucocitos × (%segmentados + %cayados) / 100; <500 es grave y <100, profunda.",
@@ -32374,9 +32374,9 @@
    "prompt": "Why are diabetic foot infections hard to treat?",
    "options": [
     "Bacteria in the foot are always viruses",
-    "Poor blood flow keeps antibiotics from reaching the area",
-    "Feet have no immune cells",
-    "Diabetics cannot take antibiotics"
+    "Poor blood flow limits antibiotic delivery",
+    "Feet have no immune cells at all",
+    "People with diabetes cannot take antibiotics"
    ],
    "correctOptionIndex": 1,
    "explanation": "Neuropathy and vascular disease favor ulcers; poor perfusion limits antibiotic delivery, so infections progress and may need amputation.",
@@ -32397,10 +32397,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué las infecciones del pie diabético son difíciles de tratar?",
    "options": [
-    "Las bacterias del pie son virus",
-    "El flujo sanguíneo deficiente impide que los antibióticos lleguen a la zona",
-    "El pie no tiene células inmunes",
-    "Los diabéticos no pueden recibir antibióticos"
+    "Las bacterias del pie siempre son virus",
+    "La mala irrigación frena a los antibióticos",
+    "El pie no tiene ninguna célula inmune",
+    "Los diabéticos no pueden tomar antibióticos"
    ],
    "correctOptionIndex": 1,
    "explanation": "La neuropatía y la enfermedad vascular favorecen las úlceras; la mala perfusión limita la llegada de antibióticos.",
@@ -32421,9 +32421,9 @@
    "difficulty": "explorer",
    "prompt": "How does erysipelas differ clinically from cellulitis?",
    "options": [
-    "Erysipelas is painless",
-    "Erysipelas only affects the trunk",
-    "Erysipelas has sharply defined, raised borders and develops faster",
+    "Erysipelas is typically painless",
+    "Erysipelas affects only the trunk",
+    "It has sharp, raised borders",
     "Erysipelas is caused by fungi"
    ],
    "correctOptionIndex": 2,
@@ -32445,10 +32445,10 @@
    "difficulty": "explorer",
    "prompt": "¿En qué se diferencia clínicamente la erisipela de la celulitis?",
    "options": [
-    "La erisipela es indolora",
-    "Solo afecta el tronco",
-    "Tiene bordes netos y sobreelevados y evoluciona más rápido",
-    "La causan hongos"
+    "La erisipela suele ser indolora",
+    "Solo afecta la piel del tronco",
+    "Tiene bordes netos y elevados",
+    "La causan hongos dermatofitos"
    ],
    "correctOptionIndex": 2,
    "explanation": "La erisipela compromete la dermis superficial y los linfáticos con bordes bien delimitados; la causa habitual es el estreptococo del grupo A.",
@@ -32517,10 +32517,10 @@
    "difficulty": "expert",
    "prompt": "In a child with suspected epiglottitis, what should be avoided in the emergency department?",
    "options": [
-    "Instrumenting the airway or forcing an oral exam",
-    "Keeping the child calm",
-    "Calling anesthesia and ENT",
-    "Allowing the child to sit upright"
+    "Instrumenting the airway or the mouth",
+    "Keeping the child calm and quiet",
+    "Calling anesthesia and ENT early",
+    "Letting the child sit upright on a parent's lap"
    ],
    "correctOptionIndex": 0,
    "explanation": "Agitation or instrumentation can precipitate complete airway obstruction; the airway is secured in a controlled setting.",
@@ -32541,10 +32541,10 @@
    "difficulty": "expert",
    "prompt": "En un niño con sospecha de epiglotitis, ¿qué debe evitarse en la guardia?",
    "options": [
-    "Instrumentar la vía aérea o forzar el examen de la boca",
-    "Mantener al niño tranquilo",
-    "Llamar a anestesia y ORL",
-    "Dejarlo sentado"
+    "Instrumentar la vía aérea o la boca",
+    "Mantener al niño calmo y tranquilo",
+    "Llamar temprano a anestesia y ORL",
+    "Dejarlo sentado en el regazo de un padre"
    ],
    "correctOptionIndex": 0,
    "explanation": "La agitación o la instrumentación pueden precipitar la obstrucción completa; la vía aérea se asegura en un ámbito controlado.",
@@ -32662,7 +32662,7 @@
    "prompt": "Tetanus is popularly called…",
    "options": [
     "Whooping cough",
-    "Lockjaw",
+    "Lockjaw (trismus)",
     "Sleeping sickness",
     "Black death"
    ],
@@ -32686,7 +32686,7 @@
    "prompt": "Al tétanos se lo llama popularmente…",
    "options": [
     "Tos convulsa",
-    "Mandíbula trabada (trismo)",
+    "Mal de la mandíbula",
     "Enfermedad del sueño",
     "Muerte negra"
    ],
@@ -32758,9 +32758,9 @@
    "prompt": "In vaccine names like DTaP and Tdap, what do the lowercase letters mean?",
    "options": [
     "Live attenuated components",
-    "Doses for adults only",
-    "Reduced amounts of diphtheria toxoid or pertussis antigen",
-    "Components given orally"
+    "Doses meant for adults only",
+    "Reduced toxoid or antigen amounts",
+    "Components that are given by mouth"
    ],
    "correctOptionIndex": 2,
    "explanation": "Uppercase = full dose; lowercase d/p = reduced antigen; 'a' = acellular pertussis.",
@@ -32782,9 +32782,9 @@
    "prompt": "En nombres de vacunas como DTaP y Tdap, ¿qué significan las minúsculas?",
    "options": [
     "Componentes vivos atenuados",
-    "Dosis solo para adultos",
-    "Cantidades reducidas de toxoide diftérico o antígeno pertussis",
-    "Componentes por vía oral"
+    "Dosis pensadas solo para adultos",
+    "Menos toxoide o antígeno",
+    "Componentes que se dan por boca"
    ],
    "correctOptionIndex": 2,
    "explanation": "Mayúscula = dosis completa; d/p minúsculas = antígeno reducido; 'a' = pertussis acelular.",
@@ -32807,8 +32807,8 @@
    "options": [
     "Parvovirus B19",
     "Human herpesvirus 6",
-    "Measles virus",
-    "Enterovirus 71"
+    "Measles (rubeola) virus",
+    "Enterovirus A71"
    ],
    "correctOptionIndex": 1,
    "explanation": "Roseola is caused by HHV-6 (less often HHV-7): high fever for 3–5 days, then a rash as the fever falls.",
@@ -32832,7 +32832,7 @@
     "Parvovirus B19",
     "Herpesvirus humano 6",
     "Virus del sarampión",
-    "Enterovirus 71"
+    "Enterovirus A71"
    ],
    "correctOptionIndex": 1,
    "explanation": "La roséola la causa el VHH-6 (menos el VHH-7): fiebre alta 3–5 días y luego exantema al bajar la fiebre.",
@@ -32853,10 +32853,10 @@
    "difficulty": "researcher",
    "prompt": "What is the classic sequence of roseola infantum?",
    "options": [
-    "High fever for days, then a rash appears as the fever subsides",
-    "Rash first, then fever",
-    "Rash and fever start together on the face",
-    "Cough and Koplik spots, then rash"
+    "Days of high fever, then rash as it falls",
+    "Rash first, followed later by fever",
+    "Rash and fever begin together on the face",
+    "Cough and Koplik spots, then a rash"
    ],
    "correctOptionIndex": 0,
    "explanation": "Exanthem subitum: 3–5 days of high fever followed by a sudden non-itchy rash at defervescence.",
@@ -32877,10 +32877,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál es la secuencia clásica de la roséola infantil?",
    "options": [
-    "Fiebre alta varios días y luego exantema al bajar la fiebre",
-    "Primero exantema, luego fiebre",
+    "Días de fiebre alta y exantema al bajar",
+    "Primero exantema y después fiebre",
     "Exantema y fiebre juntos en la cara",
-    "Tos y Koplik, luego exantema"
+    "Tos y manchas de Koplik, luego exantema"
    ],
    "correctOptionIndex": 0,
    "explanation": "Exantema súbito: 3–5 días de fiebre alta seguidos de un exantema no pruriginoso al ceder la fiebre.",
@@ -32904,7 +32904,7 @@
     "In the liver",
     "In red blood cells",
     "In skin keratinocytes",
-    "In sensory ganglia (cranial nerves or dorsal root)"
+    "In sensory ganglia"
    ],
    "correctOptionIndex": 3,
    "explanation": "VZV stays latent in sensory ganglia; reactivation travels along the nerve, causing a dermatomal rash (shingles).",
@@ -32928,7 +32928,7 @@
     "En el hígado",
     "En los glóbulos rojos",
     "En los queratinocitos",
-    "En ganglios sensitivos (pares craneales o raíces dorsales)"
+    "En ganglios sensitivos"
    ],
    "correctOptionIndex": 3,
    "explanation": "El VVZ queda latente en ganglios sensitivos; al reactivarse viaja por el nervio y causa un exantema dermatómico (zóster).",
@@ -32949,10 +32949,10 @@
    "difficulty": "researcher",
    "prompt": "Why is shingles more common in older and immunosuppressed people?",
    "options": [
-    "They have more antibodies",
-    "Waning cell-mediated immunity allows VZV reactivation",
-    "They are reinfected by children",
-    "They lack sensory nerves"
+    "They have more antibodies than children",
+    "Waning cellular immunity lets VZV reactivate",
+    "They are reinfected by their grandchildren",
+    "They have lost their sensory nerves"
    ],
    "correctOptionIndex": 1,
    "explanation": "Cell-mediated immunity keeps VZV latent; its decline with age or immunosuppression allows reactivation.",
@@ -32973,10 +32973,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué el herpes zóster es más común en personas mayores e inmunodeprimidas?",
    "options": [
-    "Tienen más anticuerpos",
-    "La declinación de la inmunidad celular permite que el VVZ se reactive",
-    "Los niños los reinfectan",
-    "No tienen nervios sensitivos"
+    "Tienen más anticuerpos que los niños",
+    "Al caer la inmunidad celular, el VVZ se reactiva",
+    "Sus nietos los reinfectan una y otra vez con varicela",
+    "Perdieron sus nervios sensitivos"
    ],
    "correctOptionIndex": 1,
    "explanation": "La inmunidad celular mantiene latente al VVZ; su declinación con la edad o la inmunosupresión permite la reactivación.",

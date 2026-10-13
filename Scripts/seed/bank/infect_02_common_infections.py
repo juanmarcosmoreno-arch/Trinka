@@ -5,14 +5,14 @@ CATEGORY = "infectiousDiseases"
 Q = [
 # --- Influenza (30725882)
 ("30725882", "beginner", 1, "Influenza viruses belong to the Orthomyxoviridae RNA virus family",
- ("Influenza viruses are…", ["Bacteria", "RNA viruses (Orthomyxoviridae)", "DNA viruses (herpesviruses)", "Fungi"],
+ ("Influenza viruses are…", ["Gram-negative bacteria", "RNA viruses (orthomyxoviruses)", "DNA viruses related to herpesviruses", "Dimorphic fungi"],
   "Influenza viruses are RNA viruses of the Orthomyxoviridae, with types A, B and C.", "RNA viruses."),
- ("Los virus de la influenza son…", ["Bacterias", "Virus ARN (Orthomyxoviridae)", "Virus ADN (herpesvirus)", "Hongos"],
+ ("Los virus de la influenza son…", ["Bacterias gramnegativas", "Virus ARN (ortomixovirus)", "Virus ADN emparentados con herpesvirus", "Hongos dimorfos"],
   "Los virus influenza son virus ARN de la familia Orthomyxoviridae, con tipos A, B y C.", "Virus ARN.")),
 ("30725882", "explorer", 3, "Influenza B exclusively spreads among humans",
- ("Why does influenza A, but not B, cause pandemics?", ["B is a bacterium", "B has no vaccine", "B only infects birds", "A circulates in birds, pigs and horses; B spreads only among humans"],
+ ("Why does influenza A, but not B, cause pandemics?", ["Influenza B is in fact a bacterium", "There is no vaccine at all for B", "B infects only wild birds", "A has animal hosts; B is mostly human"],
   "Influenza A has animal reservoirs (birds, pigs, horses) that allow new subtypes; influenza B is limited to humans.", "Animal reservoirs for A."),
- ("¿Por qué la influenza A, y no la B, causa pandemias?", ["La B es una bacteria", "La B no tiene vacuna", "La B solo infecta aves", "La A circula en aves, cerdos y caballos; la B solo entre humanos"],
+ ("¿Por qué la influenza A, y no la B, causa pandemias?", ["La influenza B es en realidad una bacteria", "No existe ninguna vacuna para la B", "La B solo infecta aves silvestres", "La A tiene huéspedes animales; la B no"],
   "La influenza A tiene reservorios animales (aves, cerdos, caballos) que permiten nuevos subtipos; la B se limita a humanos.", "Reservorios animales de la A.")),
 
 # --- Common cold (30422556)
@@ -22,9 +22,9 @@ Q = [
  ("¿Cuál es la causa más frecuente del resfrío común?", ["Streptococcus pyogenes", "Influenza B", "Rinovirus", "Haemophilus influenzae"],
   "El rinovirus es la causa más frecuente del resfrío, una infección respiratoria alta leve y autolimitada.", "Rinovirus.")),
 ("30422556", "curious", 0, "URTIs are the most common acute infectious diseases in the world",
- ("Which are the most common acute infectious diseases in the world?", ["Upper respiratory tract infections", "Urinary tract infections", "Malaria", "Tuberculosis"],
+ ("Which are the most common acute infectious diseases in the world?", ["Upper respiratory infections", "Urinary tract infections in women", "Malaria in the tropics", "Pulmonary tuberculosis"],
   "URTIs are the most common acute infections and drive many unnecessary antibiotic prescriptions.", "URTIs."),
- ("¿Cuáles son las enfermedades infecciosas agudas más comunes del mundo?", ["Infecciones respiratorias altas", "Infecciones urinarias", "Malaria", "Tuberculosis"],
+ ("¿Cuáles son las enfermedades infecciosas agudas más comunes del mundo?", ["Infecciones respiratorias altas", "Infecciones urinarias en mujeres", "Malaria en los trópicos", "Tuberculosis pulmonar"],
   "Las infecciones respiratorias altas son las infecciones agudas más comunes y motivan muchas recetas innecesarias de antibióticos.", "IRA altas.")),
 
 # --- Strep pharyngitis (30252253)
@@ -34,16 +34,16 @@ Q = [
  ("¿Qué grupo de edad tiene la mayor incidencia de faringitis estreptocócica?", ["Menores de 1 año", "Niños de 3 a 9 años", "Mayores de 65", "Adultos de 30 a 50"],
   "La faringitis estreptocócica predomina en niños de 3 a 9 años, luego adolescentes; es mucho menos común en adultos.", "Niños de 3 a 9.")),
 ("30252253", "researcher", 3, "only 10% to 15% will have streptococcal pharyngitis, yet 60% or more of those adult patients will receive prescriptions for antibiotics",
- ("What problem is highlighted for adults with sore throat?", ["Antibiotics are under-prescribed", "Strep causes most adult sore throats", "Vaccines are overused", "Only 10–15% have strep, yet ≥60% receive antibiotics"],
+ ("What problem is highlighted for adults with sore throat?", ["Antibiotics are under-prescribed", "Strep causes most sore throats in adults", "Throat vaccines are overused", "Few have strep; most get antibiotics"],
   "Most adult sore throats are not streptococcal, but most adults get antibiotics — a major stewardship target.", "Antibiotic overuse."),
- ("¿Qué problema se destaca en adultos con dolor de garganta?", ["Se recetan pocos antibióticos", "El estreptococo causa la mayoría", "Se abusa de las vacunas", "Solo 10–15% tiene estreptococo, pero ≥60% recibe antibióticos"],
+ ("¿Qué problema se destaca en adultos con dolor de garganta?", ["Se recetan muy pocos antibióticos para la angina", "El estreptococo causa casi todas las anginas del adulto", "Se abusa de las vacunas", "Pocos tienen estreptococo y casi todos reciben antibióticos"],
   "La mayoría de las faringitis del adulto no son estreptocócicas, pero la mayoría recibe antibióticos: un blanco clave del uso racional.", "Abuso de antibióticos.")),
 
 # --- AOM (29262176)
 ("29262176", "explorer", 0, "The most common bacterial pathogens that cause AOM include Streptococcus pneumoniae, nontypeable Haemophilus influenzae, and Moraxella catarrhalis",
- ("Which bacteria most commonly cause acute otitis media?", ["S. pneumoniae, non-typeable H. influenzae and Moraxella catarrhalis", "E. coli, Klebsiella and Proteus", "S. aureus, S. epidermidis and Enterococcus", "Pseudomonas, Acinetobacter and Serratia"],
+ ("Which bacteria most commonly cause acute otitis media?", ["S. pneumoniae, H. influenzae, Moraxella", "E. coli, Klebsiella and Proteus", "S. aureus, S. epidermidis and Enterococcus", "Pseudomonas, Acinetobacter and Serratia"],
   "AOM's classic bacterial trio: S. pneumoniae, non-typeable H. influenzae and M. catarrhalis.", "Pneumococcus, NTHi, Moraxella."),
- ("¿Qué bacterias causan con más frecuencia la otitis media aguda?", ["S. pneumoniae, H. influenzae no tipificable y Moraxella catarrhalis", "E. coli, Klebsiella y Proteus", "S. aureus, S. epidermidis y Enterococcus", "Pseudomonas, Acinetobacter y Serratia"],
+ ("¿Qué bacterias causan con más frecuencia la otitis media aguda?", ["S. pneumoniae, H. influenzae, Moraxella", "E. coli, Klebsiella y Proteus", "S. aureus, S. epidermidis y Enterococcus", "Pseudomonas, Acinetobacter y Serratia"],
   "Trío bacteriano clásico de la OMA: S. pneumoniae, H. influenzae no tipificable y M. catarrhalis.", "Neumococo, Hi no tipificable, Moraxella.")),
 ("29262176", "curious", 2, "the condition is most commonly observed between 6 and 24 months",
  ("At what age is acute otitis media most common?", ["Newborns in the first week", "Teenagers", "Between 6 and 24 months", "Adults over 60"],
@@ -51,7 +51,7 @@ Q = [
  ("¿A qué edad es más frecuente la otitis media aguda?", ["Recién nacidos en la primera semana", "Adolescentes", "Entre los 6 y 24 meses", "Mayores de 60"],
   "La OMA predomina entre los 6 y 24 meses y es la causa más común de uso de antibióticos en la infancia.", "6–24 meses.")),
 ("29262176", "researcher", 1, "Pneumatic otoscopy is the most reliable method for assessing the tympanic membrane",
- ("What is the most reliable method to assess the tympanic membrane for otitis media?", ["Plain X-ray", "Pneumatic otoscopy", "Blood culture", "Throat swab"],
+ ("What is the most reliable method to assess the tympanic membrane for otitis media?", ["Plain skull X-ray", "Pneumatic otoscopy", "Blood culture", "Throat swab culture"],
   "Pneumatic otoscopy has higher sensitivity and specificity than plain otoscopy; tympanometry can help when it's unavailable.", "Pneumatic otoscopy."),
  ("¿Cuál es el método más confiable para evaluar la membrana timpánica en la otitis media?", ["Radiografía simple", "Otoscopia neumática", "Hemocultivo", "Hisopado de fauces"],
   "La otoscopia neumática tiene mayor sensibilidad y especificidad que la otoscopia simple; la timpanometría ayuda si no está disponible.", "Otoscopia neumática.")),
@@ -63,9 +63,9 @@ Q = [
  ("¿Cómo se define por duración la rinosinusitis aguda?", ["Síntomas por más de 12 semanas", "Síntomas entre 4 y 12 semanas", "Cuatro episodios por año", "Síntomas de menos de 4 semanas"],
   "Aguda <4 semanas, subaguda 4–12 semanas, crónica >12 semanas.", "<4 semanas.")),
 ("31613481", "expert", 0, "randomized controlled trials have not conclusively demonstrated significant advantages in employing antibiotics for the management of acute sinusitis",
- ("What does the evidence say about antibiotics for acute sinusitis?", ["Trials have not conclusively shown significant benefit", "They always cure it in 24 hours", "They are required in every case", "They prevent all complications"],
+ ("What does the evidence say about antibiotics for acute sinusitis?", ["Trials show no clear, significant benefit", "They always cure it within 24 hours", "They are required in every single case", "They prevent all possible complications"],
   "Most acute rhinosinusitis is viral and self-limited; antibiotic benefit is not conclusively shown, so symptomatic care is the norm.", "No clear benefit."),
- ("¿Qué dice la evidencia sobre los antibióticos en la sinusitis aguda?", ["Los ensayos no demostraron de forma concluyente un beneficio significativo", "Siempre curan en 24 horas", "Son obligatorios en todos los casos", "Previenen todas las complicaciones"],
+ ("¿Qué dice la evidencia sobre los antibióticos en la sinusitis aguda?", ["Los ensayos no muestran un beneficio claro", "Siempre la curan en 24 horas", "Son obligatorios en todos los casos", "Previenen todas las complicaciones posibles"],
   "La mayoría de las rinosinusitis agudas son virales y autolimitadas; el beneficio antibiótico no está claro y se prioriza el tratamiento sintomático.", "Sin beneficio claro.")),
 
 # --- Conjunctivitis (31536289)
@@ -75,40 +75,40 @@ Q = [
  ("En niños con conjuntivitis infecciosa aguda, ¿qué causa predomina?", ["Alérgica", "Bacteriana", "Fúngica", "Parasitaria"],
   "Cerca del 78% de las conjuntivitis infecciosas agudas pediátricas son bacterianas; en adultos predominan las virales y alérgicas.", "Bacteriana.")),
 ("31536289", "researcher", 2, "Examples of hyperacute conjunctivitis include gonococcal conjunctivitis and primary meningococcal conjunctivitis",
- ("Which organisms classically cause hyperacute (onset within 24 h, severe) conjunctivitis?", ["Adenovirus and enterovirus", "Allergens", "Neisseria gonorrhoeae and N. meningitidis", "Staphylococcus epidermidis"],
+ ("Which organisms classically cause hyperacute (onset within 24 h, severe) conjunctivitis?", ["Adenovirus and enterovirus", "Pollen and other airborne allergens", "N. gonorrhoeae and N. meningitidis", "Staphylococcus epidermidis"],
   "Gonococcal and meningococcal conjunctivitis are hyperacute and can threaten vision and cause systemic disease.", "Neisseria species."),
- ("¿Qué organismos causan clásicamente conjuntivitis hiperaguda (grave, en menos de 24 h)?", ["Adenovirus y enterovirus", "Alérgenos", "Neisseria gonorrhoeae y N. meningitidis", "Staphylococcus epidermidis"],
+ ("¿Qué organismos causan clásicamente conjuntivitis hiperaguda (grave, en menos de 24 h)?", ["Adenovirus y enterovirus", "Polen y otros alérgenos del aire", "N. gonorrhoeae y N. meningitidis", "Staphylococcus epidermidis"],
   "Las conjuntivitis gonocócica y meningocócica son hiperagudas y pueden amenazar la visión y causar enfermedad sistémica.", "Neisseria.")),
 
 # --- Impetigo (28613693)
 ("28613693", "beginner", 3, "It most commonly presents as erythematous plaques with a yellow crust",
- ("What is the typical appearance of impetigo?", ["Painless black eschar", "Target-shaped lesions", "Silvery scales on elbows", "Red plaques with a yellow (honey-colored) crust"],
+ ("What is the typical appearance of impetigo?", ["A painless black eschar", "Target-shaped lesions on the palms and soles", "Silvery scales on the elbows", "Red plaques with honey-colored crusts"],
   "Impetigo is a highly contagious superficial skin infection with yellow-crusted plaques, mostly in children.", "Yellow crusts."),
- ("¿Cuál es el aspecto típico del impétigo?", ["Escara negra indolora", "Lesiones en diana", "Escamas plateadas en codos", "Placas rojas con costra amarilla (melicérica)"],
+ ("¿Cuál es el aspecto típico del impétigo?", ["Una escara negra indolora", "Lesiones en diana en las palmas", "Escamas plateadas en los codos", "Placas rojas con costra melicérica"],
   "El impétigo es una infección cutánea superficial muy contagiosa con placas de costra amarillenta, sobre todo en niños.", "Costras amarillas.")),
 
 # --- Scarlet fever (29939666)
 ("29939666", "curious", 0, "sandpaper-like, strawberry tongue, and exudative pharyngitis",
- ("Which findings are characteristic of scarlet fever?", ["Sandpaper-like rash, strawberry tongue and exudative pharyngitis", "Vesicles in crops", "Koplik spots", "Slapped-cheek rash"],
+ ("Which findings are characteristic of scarlet fever?", ["Sandpaper rash and strawberry tongue", "Itchy vesicles appearing in crops", "Koplik spots inside the cheeks", "A bright red slapped-cheek rash on the face"],
   "Scarlet fever, from group A strep, features a sandpaper rash, strawberry tongue and exudative pharyngitis.", "Sandpaper rash, strawberry tongue."),
- ("¿Qué hallazgos son característicos de la escarlatina?", ["Exantema áspero como lija, lengua aframbuesada y faringitis exudativa", "Vesículas en brotes", "Manchas de Koplik", "Mejillas abofeteadas"],
+ ("¿Qué hallazgos son característicos de la escarlatina?", ["Exantema áspero y lengua aframbuesada", "Vesículas que pican y salen en brotes", "Manchas de Koplik en las mejillas", "Mejillas abofeteadas de color rojo intenso"],
   "La escarlatina, por estreptococo del grupo A, tiene exantema áspero, lengua aframbuesada y faringitis exudativa.", "Lija y lengua aframbuesada.")),
 ("29939666", "expert", 2, "Strep A produces streptococcal pyrogenic exotoxins (SPEs), which act as superantigens released during infection",
- ("What causes the rash of scarlet fever?", ["Direct bacterial invasion of skin", "Immune complexes in vessels", "Streptococcal pyrogenic exotoxins acting as superantigens", "IgE-mediated allergy"],
+ ("What causes the rash of scarlet fever?", ["Direct bacterial invasion of the skin", "Immune complexes deposited in vessels", "Pyrogenic exotoxins (superantigens)", "An IgE-mediated allergy to penicillin"],
   "Pyrogenic exotoxins (erythrogenic toxins) act as superantigens — potent T-cell activators — causing the rash.", "Superantigen exotoxins."),
- ("¿Qué causa el exantema de la escarlatina?", ["Invasión bacteriana directa de la piel", "Inmunocomplejos en los vasos", "Exotoxinas pirógenas estreptocócicas que actúan como superantígenos", "Alergia mediada por IgE"],
+ ("¿Qué causa el exantema de la escarlatina?", ["Invasión bacteriana directa de la piel", "Inmunocomplejos depositados en los vasos", "Exotoxinas pirógenas (superantígenos)", "Una alergia a la penicilina mediada por IgE"],
   "Las exotoxinas pirógenas (eritrogénicas) actúan como superantígenos, potentes activadores de linfocitos T, y causan el exantema.", "Superantígenos.")),
 
 # --- Viral gastroenteritis (30085537)
 ("30085537", "beginner", 1, "Regardless of the viral cause, treatment is generally uniform and directed toward symptomatic improvement with a focus on hydration status",
- ("What is the main treatment for viral gastroenteritis?", ["Antibiotics", "Rehydration and supportive care", "Antifungals", "Surgery"],
+ ("What is the main treatment for viral gastroenteritis?", ["Broad-spectrum antibiotics", "Rehydration and supportive care", "Oral antifungal drugs", "Emergency abdominal surgery to drain it"],
   "Whatever the virus, care focuses on hydration and symptom relief.", "Hydration."),
- ("¿Cuál es el tratamiento principal de la gastroenteritis viral?", ["Antibióticos", "Rehidratación y medidas de sostén", "Antifúngicos", "Cirugía"],
+ ("¿Cuál es el tratamiento principal de la gastroenteritis viral?", ["Antibióticos de amplio espectro", "Rehidratación y medidas de sostén", "Antifúngicos por vía oral", "Cirugía abdominal de urgencia"],
   "Sea cual sea el virus, el tratamiento se centra en la hidratación y el alivio de los síntomas.", "Hidratación.")),
 ("30085537", "explorer", 3, "more commonly occurs in outbreaks within close communities, eg, daycare centers, nursing facilities, and cruise ships",
- ("Where does viral gastroenteritis typically cause outbreaks?", ["Deserts", "Operating rooms only", "Isolated farms", "Close communities: daycares, nursing homes, cruise ships"],
+ ("Where does viral gastroenteritis typically cause outbreaks?", ["In hot, dry desert regions", "Only in hospital operating rooms", "On isolated farms with few people", "Daycares, nursing homes, cruises"],
   "Outbreaks thrive in close communities such as daycares, nursing facilities and cruise ships.", "Close communities."),
- ("¿Dónde suele causar brotes la gastroenteritis viral?", ["Desiertos", "Solo quirófanos", "Granjas aisladas", "Comunidades cerradas: guarderías, geriátricos, cruceros"],
+ ("¿Dónde suele causar brotes la gastroenteritis viral?", ["En regiones de desierto cálidas", "Solo en los quirófanos de hospitales", "En granjas aisladas con poca gente", "Guarderías, geriátricos y cruceros"],
   "Los brotes ocurren en comunidades cerradas como guarderías, geriátricos y cruceros.", "Comunidades cerradas.")),
 
 # --- Viral hepatitis (32119436)
@@ -120,9 +120,9 @@ Q = [
 
 # --- Febrile neutropenia (31082146)
 ("31082146", "researcher", 0, "To calculate ANC, multiply the total white blood cell (WBC) count by the percentage of polymorphonuclear cells (PMNs) and band neutrophils",
- ("How is the absolute neutrophil count (ANC) calculated?", ["WBC × (% segmented neutrophils + % bands) / 100", "WBC − lymphocytes", "Platelets × 2", "Hemoglobin × 3"],
+ ("How is the absolute neutrophil count (ANC) calculated?", ["WBC × (% segs + % bands) / 100", "Total WBC minus the lymphocytes", "Platelet count multiplied by 2", "Hemoglobin multiplied by 3, in g/L"],
   "ANC = WBC × (%PMNs + %bands) / 100; <500 is severe and <100 profound neutropenia.", "WBC × %(PMN+bands)."),
- ("¿Cómo se calcula el recuento absoluto de neutrófilos (RAN)?", ["Leucocitos × (% segmentados + % cayados) / 100", "Leucocitos − linfocitos", "Plaquetas × 2", "Hemoglobina × 3"],
+ ("¿Cómo se calcula el recuento absoluto de neutrófilos (RAN)?", ["Leucocitos × (% segm. + % cayados) / 100", "Leucocitos totales menos los linfocitos", "Recuento de plaquetas multiplicado por 2", "Hemoglobina multiplicada por 3, en g/L"],
   "RAN = leucocitos × (%segmentados + %cayados) / 100; <500 es grave y <100, profunda.", "Leucocitos × %(seg+cayados).")),
 ("31082146", "expert", 2, "In severe neutropenia, the ANC is less than 500 per microliter",
  ("Which absolute neutrophil count defines severe neutropenia?", ["Less than 1500/µL", "Less than 4000/µL", "Less than 500/µL", "Less than 10,000/µL"],
@@ -132,16 +132,16 @@ Q = [
 
 # --- Diabetic foot (28722943)
 ("28722943", "explorer", 1, "Treating diabetic foot infections is difficult as the blood flow is compromised and the antibiotics usually cannot reach the diseased area",
- ("Why are diabetic foot infections hard to treat?", ["Bacteria in the foot are always viruses", "Poor blood flow keeps antibiotics from reaching the area", "Feet have no immune cells", "Diabetics cannot take antibiotics"],
+ ("Why are diabetic foot infections hard to treat?", ["Bacteria in the foot are always viruses", "Poor blood flow limits antibiotic delivery", "Feet have no immune cells at all", "People with diabetes cannot take antibiotics"],
   "Neuropathy and vascular disease favor ulcers; poor perfusion limits antibiotic delivery, so infections progress and may need amputation.", "Poor perfusion."),
- ("¿Por qué las infecciones del pie diabético son difíciles de tratar?", ["Las bacterias del pie son virus", "El flujo sanguíneo deficiente impide que los antibióticos lleguen a la zona", "El pie no tiene células inmunes", "Los diabéticos no pueden recibir antibióticos"],
+ ("¿Por qué las infecciones del pie diabético son difíciles de tratar?", ["Las bacterias del pie siempre son virus", "La mala irrigación frena a los antibióticos", "El pie no tiene ninguna célula inmune", "Los diabéticos no pueden tomar antibióticos"],
   "La neuropatía y la enfermedad vascular favorecen las úlceras; la mala perfusión limita la llegada de antibióticos.", "Mala perfusión.")),
 
 # --- Erysipelas (30335280)
 ("30335280", "explorer", 2, "Cellulitis has ill-defined borders and is slower to develop, while erysipelas has better-defined borders and faster development",
- ("How does erysipelas differ clinically from cellulitis?", ["Erysipelas is painless", "Erysipelas only affects the trunk", "Erysipelas has sharply defined, raised borders and develops faster", "Erysipelas is caused by fungi"],
+ ("How does erysipelas differ clinically from cellulitis?", ["Erysipelas is typically painless", "Erysipelas affects only the trunk", "It has sharp, raised borders", "Erysipelas is caused by fungi"],
   "Erysipelas involves the upper dermis and superficial lymphatics with well-demarcated raised borders; group A strep is the usual cause.", "Sharp borders, faster."),
- ("¿En qué se diferencia clínicamente la erisipela de la celulitis?", ["La erisipela es indolora", "Solo afecta el tronco", "Tiene bordes netos y sobreelevados y evoluciona más rápido", "La causan hongos"],
+ ("¿En qué se diferencia clínicamente la erisipela de la celulitis?", ["La erisipela suele ser indolora", "Solo afecta la piel del tronco", "Tiene bordes netos y elevados", "La causan hongos dermatofitos"],
   "La erisipela compromete la dermis superficial y los linfáticos con bordes bien delimitados; la causa habitual es el estreptococo del grupo A.", "Bordes netos, más rápida.")),
 
 # --- Epiglottitis (28613691)
@@ -151,9 +151,9 @@ Q = [
  ("¿Qué cambió la epidemiología de la epiglotitis pediátrica?", ["Antibióticos en el agua", "La vacuna antigripal", "La amigdalectomía", "La vacuna contra Hib"],
   "Hib causaba la mayoría de las epiglotitis pediátricas antes de la vacuna; hoy la supraglotitis es relativamente más frecuente en adultos.", "Vacuna Hib.")),
 ("28613691", "expert", 0, "In pediatric patients, the airway should not be instrumented during oral exams or endoscopy in the clinic or emergency department",
- ("In a child with suspected epiglottitis, what should be avoided in the emergency department?", ["Instrumenting the airway or forcing an oral exam", "Keeping the child calm", "Calling anesthesia and ENT", "Allowing the child to sit upright"],
+ ("In a child with suspected epiglottitis, what should be avoided in the emergency department?", ["Instrumenting the airway or the mouth", "Keeping the child calm and quiet", "Calling anesthesia and ENT early", "Letting the child sit upright on a parent's lap"],
   "Agitation or instrumentation can precipitate complete airway obstruction; the airway is secured in a controlled setting.", "Don't instrument the airway."),
- ("En un niño con sospecha de epiglotitis, ¿qué debe evitarse en la guardia?", ["Instrumentar la vía aérea o forzar el examen de la boca", "Mantener al niño tranquilo", "Llamar a anestesia y ORL", "Dejarlo sentado"],
+ ("En un niño con sospecha de epiglotitis, ¿qué debe evitarse en la guardia?", ["Instrumentar la vía aérea o la boca", "Mantener al niño calmo y tranquilo", "Llamar temprano a anestesia y ORL", "Dejarlo sentado en el regazo de un padre"],
   "La agitación o la instrumentación pueden precipitar la obstrucción completa; la vía aérea se asegura en un ámbito controlado.", "No instrumentar la vía aérea.")),
 
 # --- Croup (28613724)
@@ -170,9 +170,9 @@ Q = [
 
 # --- Tetanus prophylaxis (32644434)
 ("32644434", "beginner", 1, "Tetanus is synonymous with the term \"lockjaw,\"",
- ("Tetanus is popularly called…", ["Whooping cough", "Lockjaw", "Sleeping sickness", "Black death"],
+ ("Tetanus is popularly called…", ["Whooping cough", "Lockjaw (trismus)", "Sleeping sickness", "Black death"],
   "Tetanus is called lockjaw because of painful masseter spasms (trismus).", "Lockjaw."),
- ("Al tétanos se lo llama popularmente…", ["Tos convulsa", "Mandíbula trabada (trismo)", "Enfermedad del sueño", "Muerte negra"],
+ ("Al tétanos se lo llama popularmente…", ["Tos convulsa", "Mal de la mandíbula", "Enfermedad del sueño", "Muerte negra"],
   "Al tétanos se lo asocia al trismo (mandíbula trabada) por los espasmos dolorosos de los maseteros.", "Trismo.")),
 ("32644434", "explorer", 3, "followed by a booster every 10 years thereafter",
  ("How often is a tetanus booster recommended for adults after the primary series?", ["Every year", "Every 2 years", "Never", "Every 10 years"],
@@ -180,32 +180,32 @@ Q = [
  ("¿Cada cuánto se recomienda un refuerzo antitetánico en adultos tras el esquema primario?", ["Cada año", "Cada 2 años", "Nunca", "Cada 10 años"],
   "La inmunidad antitetánica decae; los adultos reciben un refuerzo dT o dTpa cada 10 años.", "Cada 10 años.")),
 ("32644434", "researcher", 2, "D is for diphtheria, T is for tetanus, P is for pertussis, and a is for acellular. The lowercase p and d just mean reduced toxoid",
- ("In vaccine names like DTaP and Tdap, what do the lowercase letters mean?", ["Live attenuated components", "Doses for adults only", "Reduced amounts of diphtheria toxoid or pertussis antigen", "Components given orally"],
+ ("In vaccine names like DTaP and Tdap, what do the lowercase letters mean?", ["Live attenuated components", "Doses meant for adults only", "Reduced toxoid or antigen amounts", "Components that are given by mouth"],
   "Uppercase = full dose; lowercase d/p = reduced antigen; 'a' = acellular pertussis.", "Reduced antigen."),
- ("En nombres de vacunas como DTaP y Tdap, ¿qué significan las minúsculas?", ["Componentes vivos atenuados", "Dosis solo para adultos", "Cantidades reducidas de toxoide diftérico o antígeno pertussis", "Componentes por vía oral"],
+ ("En nombres de vacunas como DTaP y Tdap, ¿qué significan las minúsculas?", ["Componentes vivos atenuados", "Dosis pensadas solo para adultos", "Menos toxoide o antígeno", "Componentes que se dan por boca"],
   "Mayúscula = dosis completa; d/p minúsculas = antígeno reducido; 'a' = pertussis acelular.", "Antígeno reducido.")),
 
 # --- Roseola (28846307)
 ("28846307", "explorer", 1, "caused by infection with human herpesvirus 6 (HHV-6) or, less often, human herpesvirus 7",
- ("Which virus most often causes roseola infantum (sixth disease)?", ["Parvovirus B19", "Human herpesvirus 6", "Measles virus", "Enterovirus 71"],
+ ("Which virus most often causes roseola infantum (sixth disease)?", ["Parvovirus B19", "Human herpesvirus 6", "Measles (rubeola) virus", "Enterovirus A71"],
   "Roseola is caused by HHV-6 (less often HHV-7): high fever for 3–5 days, then a rash as the fever falls.", "HHV-6."),
- ("¿Qué virus causa con más frecuencia la roséola infantil (sexta enfermedad)?", ["Parvovirus B19", "Herpesvirus humano 6", "Virus del sarampión", "Enterovirus 71"],
+ ("¿Qué virus causa con más frecuencia la roséola infantil (sexta enfermedad)?", ["Parvovirus B19", "Herpesvirus humano 6", "Virus del sarampión", "Enterovirus A71"],
   "La roséola la causa el VHH-6 (menos el VHH-7): fiebre alta 3–5 días y luego exantema al bajar la fiebre.", "VHH-6.")),
 ("28846307", "researcher", 0, "followed by the sudden appearance of a non-pruritic exanthem as the fever subsides",
- ("What is the classic sequence of roseola infantum?", ["High fever for days, then a rash appears as the fever subsides", "Rash first, then fever", "Rash and fever start together on the face", "Cough and Koplik spots, then rash"],
+ ("What is the classic sequence of roseola infantum?", ["Days of high fever, then rash as it falls", "Rash first, followed later by fever", "Rash and fever begin together on the face", "Cough and Koplik spots, then a rash"],
   "Exanthem subitum: 3–5 days of high fever followed by a sudden non-itchy rash at defervescence.", "Rash after fever falls."),
- ("¿Cuál es la secuencia clásica de la roséola infantil?", ["Fiebre alta varios días y luego exantema al bajar la fiebre", "Primero exantema, luego fiebre", "Exantema y fiebre juntos en la cara", "Tos y Koplik, luego exantema"],
+ ("¿Cuál es la secuencia clásica de la roséola infantil?", ["Días de fiebre alta y exantema al bajar", "Primero exantema y después fiebre", "Exantema y fiebre juntos en la cara", "Tos y manchas de Koplik, luego exantema"],
   "Exantema súbito: 3–5 días de fiebre alta seguidos de un exantema no pruriginoso al ceder la fiebre.", "Exantema al ceder la fiebre.")),
 
 # --- Herpes zoster (28722854)
 ("28722854", "explorer", 3, "which remains dormant in the sensory ganglia of the cranial nerves or the dorsal root ganglia after a previous varicella infection",
- ("Where does varicella-zoster virus remain dormant after chickenpox?", ["In the liver", "In red blood cells", "In skin keratinocytes", "In sensory ganglia (cranial nerves or dorsal root)"],
+ ("Where does varicella-zoster virus remain dormant after chickenpox?", ["In the liver", "In red blood cells", "In skin keratinocytes", "In sensory ganglia"],
   "VZV stays latent in sensory ganglia; reactivation travels along the nerve, causing a dermatomal rash (shingles).", "Sensory ganglia."),
- ("¿Dónde permanece latente el virus varicela-zóster tras la varicela?", ["En el hígado", "En los glóbulos rojos", "En los queratinocitos", "En ganglios sensitivos (pares craneales o raíces dorsales)"],
+ ("¿Dónde permanece latente el virus varicela-zóster tras la varicela?", ["En el hígado", "En los glóbulos rojos", "En los queratinocitos", "En ganglios sensitivos"],
   "El VVZ queda latente en ganglios sensitivos; al reactivarse viaja por el nervio y causa un exantema dermatómico (zóster).", "Ganglios sensitivos.")),
 ("28722854", "researcher", 1, "VZV latency is largely controlled by cell-mediated immunity, and reactivation is thought to result from the loss of this immune surveillance",
- ("Why is shingles more common in older and immunosuppressed people?", ["They have more antibodies", "Waning cell-mediated immunity allows VZV reactivation", "They are reinfected by children", "They lack sensory nerves"],
+ ("Why is shingles more common in older and immunosuppressed people?", ["They have more antibodies than children", "Waning cellular immunity lets VZV reactivate", "They are reinfected by their grandchildren", "They have lost their sensory nerves"],
   "Cell-mediated immunity keeps VZV latent; its decline with age or immunosuppression allows reactivation.", "Waning cellular immunity."),
- ("¿Por qué el herpes zóster es más común en personas mayores e inmunodeprimidas?", ["Tienen más anticuerpos", "La declinación de la inmunidad celular permite que el VVZ se reactive", "Los niños los reinfectan", "No tienen nervios sensitivos"],
+ ("¿Por qué el herpes zóster es más común en personas mayores e inmunodeprimidas?", ["Tienen más anticuerpos que los niños", "Al caer la inmunidad celular, el VVZ se reactiva", "Sus nietos los reinfectan una y otra vez con varicela", "Perdieron sus nervios sensitivos"],
   "La inmunidad celular mantiene latente al VVZ; su declinación con la edad o la inmunosupresión permite la reactivación.", "Inmunidad celular en declive.")),
 ]
