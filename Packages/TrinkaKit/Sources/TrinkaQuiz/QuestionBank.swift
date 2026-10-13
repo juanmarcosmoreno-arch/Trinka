@@ -77,7 +77,7 @@ public enum SeedQuestionBank {
     /// Version of the bank bundled with the app. Must match the "version" in `SeedQuestions.json`;
     /// `Scripts/seed/build_seed.py` bumps both whenever the questions change. Newer banks can be
     /// downloaded later (see `QuestionBankStore`), so use `StaticQuestionBank.version` at runtime.
-    public static let version = 20
+    public static let version = 21
 
     public enum LoadError: Error {
         case resourceMissing

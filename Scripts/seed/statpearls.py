@@ -53,10 +53,14 @@ def list_titles(keywords, retmax=40):
 
 
 def list_reviews(topics, retmax=8):
-    """Prints PMID | year | journal | title of PubMed reviews whose titles contain every word of each topic."""
+    """Prints PMID | year | journal | title of PubMed reviews whose titles contain every word of each topic.
+    A topic containing "[" is used as a raw PubMed query (any publication type, with an abstract)."""
     for topic in topics:
-        words = [w for w in re.findall(r"[A-Za-z0-9-]+", topic) if w.lower() not in STOP]
-        term = " AND ".join(f"{w}[ti]" for w in words) + " AND review[pt] AND hasabstract AND english[la]"
+        if "[" in topic:
+            term = f"({topic}) AND hasabstract AND english[la]"
+        else:
+            words = [w for w in re.findall(r"[A-Za-z0-9-]+", topic) if w.lower() not in STOP]
+            term = " AND ".join(f"{w}[ti]" for w in words) + " AND review[pt] AND hasabstract AND english[la]"
         ids = json.loads(fa.get("esearch.fcgi", db="pubmed", retmode="json", retmax=retmax, sort="relevance", term=term))["esearchresult"]["idlist"]
         time.sleep(0.35)
         if not ids:

@@ -1,5 +1,5 @@
 {
- "version": 20,
+ "version": 21,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -918,6 +918,508 @@
    "publicationTypes": [
     "Journal Article",
     "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37630554",
+   "title": "Antonie van Leeuwenhoek (1632-1723): Master of Fleas and Father of Microbiology.",
+   "authors": [
+    "Kutschera U"
+   ],
+   "journal": "Microorganisms",
+   "year": 2023,
+   "doi": "10.3390/microorganisms11081994",
+   "abstract": "The Dutch scientist and entrepreneur Antonie van Leeuwenhoek (1632-1723) was the first to discover and describe microorganisms (protists, bacteria), living beings he characterized as \"animalcules\" (little animals) [...].",
+   "publicationTypes": [
+    "Editorial"
+   ]
+  },
+  {
+   "pmid": "35454184",
+   "title": "Louis Pasteur: Between Myth and Reality.",
+   "authors": [
+    "Cavaillon JM",
+    "Legout S"
+   ],
+   "journal": "Biomolecules",
+   "year": 2022,
+   "doi": "10.3390/biom12040596",
+   "abstract": "Louis Pasteur is the most internationally known French scientist. He discovered molecular chirality, and he contributed to the understanding of the process of fermentation, helping brewers and winemakers to improve their beverages. He proposed a process, known as pasteurization, for the sterilization of wines. He established the germ theory of infectious diseases that allowed Joseph Lister to develop his antiseptic practice in surgery. He solved the problem of silkworm disease, although he had refuted the idea of Antoine Béchamp, who first considered it was a microbial infection. He created four vaccines (fowl cholera, anthrax, pig erysipelas, and rabies) in the paths of his precursors, Henri Toussaint (anthrax vaccine) and Pierre Victor Galtier (rabies vaccine). He generalized the word \"vaccination\" coined by Richard Dunning, Edward Jenner's friend. Robert Koch, his most famous opponent, pointed out the great ambiguity of Pasteur's approach to preparing his vaccines. Analysis of his laboratory notebooks has allowed historians to discern the differences between the legend built by his hagiographers and reality. In this review, we revisit his career, his undeniable achievements, and tell the truth about a hero who made every effort to build his own fame.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "12593975",
+   "title": "Robert Koch.",
+   "authors": [
+    "Münch R"
+   ],
+   "journal": "Microbes and infection",
+   "year": 2003,
+   "doi": "10.1016/s1286-4579(02)00053-9",
+   "abstract": "This article traces the origins of bacteriological research, with particular attention to the role of Robert Koch, and his postulates, on infectious agents. By chronologically following Koch's work on anthrax, germ photography and tuberculosis, it shows how the visual representation of germs transformed laboratory research in medical science.",
+   "publicationTypes": [
+    "Biography",
+    "Historical Article",
+    "Journal Article",
+    "Portrait"
+   ]
+  },
+  {
+   "pmid": "30848026",
+   "title": "From germ theory to germ therapy.",
+   "authors": [
+    "Chen CC",
+    "Chen YN",
+    "Liou JM",
+    "Wu MS",
+    "Taiwan Gastrointestinal Disease and Helicobacter Consortium"
+   ],
+   "journal": "The Kaohsiung journal of medical sciences",
+   "year": 2019,
+   "doi": "10.1002/kjm2.12011",
+   "abstract": "Germ theory of disease and Koch's postulates has been governing our understanding of the role of microbes in human health since 19th century. The discovery of Helicobacter pylori (H. pylori) and H. pylori associated diseases has typically represented the concept and framework of Koch's postulates. Eradication of H. pylori to prevent peptic ulcers recurrence and gastric cancer is the triumph of this microbiology paradigm. Advances of next generation sequencing provide great insight into the unculturable microbes and show trillions of microbes have evolved with human beings. Research into the microbiome-the microbial communities (microbiota) and the host environment that they inhabit-has changed our understanding about microbes in human health and disease. The gut microbiota, the largest reservoir of the microbiome in human, plays a critical role in our catabolic-metabolism and immunity. This review will show the changes of the view of microbes on human health. We will briefly discuss dysbiosis, the disruption of symbiotic relationship between the host and microbiota, and the associated diseases. This leads to an idea to manipulate the microbiota, either by restoring missing functions or by eliminating harmful functions, to prevent or treat a variety of diseases. Current evidences of two common germ therapies, fecal microbiota transplantation and probiotics, in treating diseases will be reviewed.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30444981",
+   "title": "Rediscovering Ignaz Philipp Semmelweis (1818-1865).",
+   "authors": [
+    "Kadar N"
+   ],
+   "journal": "American journal of obstetrics and gynecology",
+   "year": 2019,
+   "doi": "10.1016/j.ajog.2018.11.1084",
+   "abstract": "Ignaz Philipp Semmelweis was a Hungarian obstetrician who discovered the cause of puerperal or childbed fever (CBF) in 1847 when he was a 29-year-old Chief Resident (\"first assistant\") in the first clinic of the lying-in division of the Vienna General Hospital. Childbed fever was then the leading cause of maternal mortality, and so ravaged lying-in hospitals that they often had to be closed. The maternal mortality rate (MMR) from CBF at the first clinic where Semmelweis worked, and where only medical students were taught, was 3 times greater than at the second clinic, where only midwives were taught, and Semmelweis was determined to find out why. Semmelweis concluded that none of the purported causes of CBF could explain the difference in MMR between the 2 clinics, as they all affected both clinics equally. The clue to the real cause came after Semmelweis' beloved professor, Jacob Kolletschka, died after a student accidentally pricked Kolletscka's finger during an autopsy. Semmelweis reviewed Kolletschka's autopsy report, and noted that the findings were identical to those in mothers dying of CBF. He then made 2 groundbreaking inferences: that Kolletschka must have died of the same disease as mothers dying of CBF, and that the cause of CBF must be the same as the cause of Kolletschka's death, because if the 2 diseases were the same, they must have the same cause. Semmelweis quickly realized why the MMR from CBF was higher on the first clinic: medical students, who assisted at autopsies, were transferring the causative agent from cadavers to the birth canal of mothers in labor with their hands, and he soon discovered that it could also be transferred from living persons with purulent infections. Bacteria had not yet been discovered to cause infections, and Semmelweis called the agent \"decaying animal organic matter.\" He implemented chlorine hand disinfection to remove this organic matter from the hands of the attendants, as soap and water alone had been ineffective. Hand disinfection reduced the MMR from CBF 3- to 10-fold, yet most leading obstetricians rejected Semmelweis' doctrine because it conflicted with all extant theories of the cause of CBF. His work was also used in the fight raging over academic freedom in the University of Vienna Medical School, which turned Semmelweis chief against him, and forced Semmelweis to return to Budapest, where he was equally successful in reducing MMR from CBF. But Semmelweis never received the recognition that his groundbreaking work deserved, and died an ignominious death in 1865 at the age of 47 in an asylum, where he was beaten by his attendants and died of his injuries. Fifteen years later, his work was validated by the adoption of the germ theory, and honors were belatedly showered on Semmelweis from all over the world; but over the last 40 years, a myth has been created that has tarnished Semmelweis' reputation by blaming the rejection of his work on Semmelweis' character flaws. This myth is shown to be a genre of reality fiction that is inconsistent with historical facts.",
+   "publicationTypes": [
+    "Biography",
+    "Historical Article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36686094",
+   "title": "Joseph Lister (1827-1912): A Pioneer of Antiseptic Surgery.",
+   "authors": [
+    "Michaleas SN",
+    "Laios K",
+    "Charalabopoulos A",
+    "Samonis G",
+    "Karamanou M"
+   ],
+   "journal": "Cureus",
+   "year": 2022,
+   "doi": "10.7759/cureus.32777",
+   "abstract": "Joseph Lister was a prominent British surgeon and medical scientist who established the study of antisepsis. Applying Louis Pasteur's germ theory of fermentation on wound putrefaction, he promoted the idea of sterilization in surgery using carbolic acid (phenol) as an antiseptic. His method reduced the incidence of wound sepsis and gangrene, which, in turn, reduced the need for amputation. By showing how germs could be prevented from entering the wound, Lister increased the safety of surgical operations and laid the foundations for all subsequent advances in the field.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39176366",
+   "title": "The Penicillin Pioneer: Alexander Fleming's Journey to a Medical Breakthrough.",
+   "authors": [
+    "Chhabra S",
+    "Taksande AB",
+    "Munjewar P"
+   ],
+   "journal": "Cureus",
+   "year": 2024,
+   "doi": "10.7759/cureus.65179",
+   "abstract": "Alexander Fleming's discovery of penicillin is one of the most significant breakthroughs in medical history, revolutionizing the treatment of bacterial infections and saving countless lives. This report chronicles Fleming's journey from his early life in rural Scotland to his pioneering work in bacteriology. It delves into his medical education and career, including his formative experiences during World War I that shaped his future research. The serendipitous discovery of penicillin in 1928, followed by the challenges of isolating and producing the antibiotic, is explored in detail. The report also highlights the crucial contributions of Howard Florey, Ernst Boris Chain, and Norman Heatley in developing penicillin into a widely usable therapeutic agent, particularly during World War II. Fleming's achievements were recognized with the Nobel Prize in 1945 and numerous other honors in Physiology/Medicine. His personal life, continued research, and lasting impact on medicine are also discussed, emphasizing the enduring legacy of his work in the ongoing development of antibiotics and the transformation of medical practices. This comprehensive overview underscores the importance of curiosity, perseverance, and collaboration in scientific discovery, inspiring future researchers.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39385921",
+   "title": "Edward Jenner's Discovery of Vaccination: Impact and Legacy.",
+   "authors": [
+    "Raja N",
+    "Ashwinth Jothy A"
+   ],
+   "journal": "Cureus",
+   "year": 2024,
+   "doi": "10.7759/cureus.68993",
+   "abstract": "Edward Jenner's pioneering work in the late 18th century, particularly his development of the smallpox vaccine, marked a transformative moment in medical history. This review meticulously examines Jenner's groundbreaking discovery and its profound impact on modern immunology and public health. By analyzing a comprehensive range of peer-reviewed studies and historical accounts, this review provides an in-depth exploration of Jenner's experimental methodology, the scientific and ethical controversies that surrounded his work, and the subsequent adoption of vaccination practices. Jenner's rigorous approach to scientific inquiry, the broader implications of his work on public health strategies, and its enduring relevance in addressing contemporary health challenges are also highlighted. This comprehensive analysis underscores Jenner's legacy as a cornerstone of modern medicine and public health.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25136134",
+   "title": "History of vaccination.",
+   "authors": [
+    "Plotkin S"
+   ],
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2014,
+   "doi": "10.1073/pnas.1400472111",
+   "abstract": "Vaccines have a history that started late in the 18th century. From the late 19th century, vaccines could be developed in the laboratory. However, in the 20th century, it became possible to develop vaccines based on immunologic markers. In the 21st century, molecular biology permits vaccine development that was not possible before.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18469827",
+   "title": "Paul Ehrlich's magic bullet concept: 100 years of progress.",
+   "authors": [
+    "Strebhardt K",
+    "Ullrich A"
+   ],
+   "journal": "Nature reviews. Cancer",
+   "year": 2008,
+   "doi": "10.1038/nrc2394",
+   "abstract": "Exceptional advances in molecular biology and genetic research have expedited cancer drug development tremendously. The declared paradigm is the development of 'personalized and tailored drugs' that precisely target the specific molecular defects of a cancer patient. It is therefore appropriate to revisit the intellectual foundations of the development of such agents, as many have shown great clinical success. One hundred years ago, Paul Ehrlich, the founder of chemotherapy, received the Nobel Prize for Physiology or Medicine. His postulate of creating 'magic bullets' for use in the fight against human diseases inspired generations of scientists to devise powerful molecular cancer therapeutics.",
+   "publicationTypes": [
+    "Biography",
+    "Historical Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "22439833",
+   "title": "History of antibiotics. From salvarsan to cephalosporins.",
+   "authors": [
+    "Zaffiri L",
+    "Gardner J",
+    "Toledo-Pereyra LH"
+   ],
+   "journal": "Journal of investigative surgery : the official journal of the Academy of Surgical Research",
+   "year": 2012,
+   "doi": "10.3109/08941939.2012.664099",
+   "abstract": "Infections have represented for a long time the leading cause of death in humans. During the 19th century, pneumonia, tuberculosis, diarrhea and diphtheria were considered the main causes of death in children and adults. Only in the late 19th century did it become possible to correlate the existence of microscopic pathogens with the development of various diseases. Within a few years the introduction of antiseptic procedures had begun to reduce mortality due to postsurgical infections. Sanitation and hygiene played a significant role in the reduction of the mortality due to several infectious diseases. The introduction of the first compounds with antimicrobial activity succeeded in conquering many diseases. In this review we analyzed, from a historical perspective, the development of antibiotics and the circumstances that led to their discovery. The first compound with antimicrobial activity was introduced in 1911 by Erlich. He focused his research activity on the discovery of a \"magic bullet\" to treat syphilis. Afterwards, Foley and colleagues brought penicillin to the forefront. Streptomycin represents the first drug discovered for the treatment of tuberculosis, and its development included the first use of clinical trials. Finally, with the development of cephalosporins, the introduction of new antimicrobial compounds with broad activity against gram-positive and also some gram-negative bacteria began.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28246359",
+   "title": "Remembering Emil von Behring: from Tetanus Treatment to Antibody Cooperation with Phagocytes.",
+   "authors": [
+    "Kaufmann SH"
+   ],
+   "journal": "mBio",
+   "year": 2017,
+   "doi": "10.1128/mBio.00117-17",
+   "abstract": "A century ago, Emil von Behring passed away. He was the first to be honored by the Nobel Prize for Medicine in 1901 for the successful therapy of diphtheria and tetanus, which he had developed from the bench to the bed. He also contributed to the foundation of immunology, since his therapy was based on passive immunization with specific antisera. Being an ambitious character, he did not shy away from friction with his colleagues Paul Ehrlich and Elias Metchnikoff and his mentor, Robert Koch. Behring was not only an excellent translational researcher but also a successful entrepreneur and early proponent of public-private partnerships.",
+   "publicationTypes": [
+    "Biography",
+    "Editorial",
+    "Historical Article"
+   ]
+  },
+  {
+   "pmid": "27227301",
+   "title": "The Phagocyte, Metchnikoff, and the Foundation of Immunology.",
+   "authors": [
+    "Teti G",
+    "Biondo C",
+    "Beninati C"
+   ],
+   "journal": "Microbiology spectrum",
+   "year": 2016,
+   "doi": "10.1128/microbiolspec.MCHD-0009-2015",
+   "abstract": "Since the ability of some cells to engulf particulate material was observed before Metchnikoff, he did not \"discover\" phagocytosis, as is sometimes mentioned in textbooks. Rather, he assigned to particle internalization the role of defending the host against noxious stimuli, which represented a new function relative to the previously recognized task of intracellular digestion. With this proposal, Metchnikoff built the conceptual framework within which immunity could finally be seen as an active host function triggered by noxious stimuli. In this sense, Metchnikoff can be rightly regarded as the father of all immunological sciences and not only of innate immunity or myeloid cell biology. Moreover, the recognition properties of his phagocyte fit surprisingly well with recent discoveries and modern models of immune sensing. For example, rather than assigning to immune recognition exclusively the function of eliminating nonself components (as others did after him), Metchnikoff viewed phagocytes as homeostatic agents capable of monitoring the internal environment and promoting tissue remodeling, thereby continuously defining the identity of the organism. No doubt, Metchnikoff's life and creativity can provide, still today, a rich source of inspiration.",
+   "publicationTypes": [
+    "Biography",
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19408101",
+   "title": "Sir Frank Macfarlane Burnet and the clonal selection theory of antibody formation.",
+   "authors": [
+    "Ribatti D"
+   ],
+   "journal": "Clinical and experimental medicine",
+   "year": 2009,
+   "doi": "10.1007/s10238-009-0048-y",
+   "abstract": "Sir Macfarlane Burnet has been one of the twentieth century's outstanding biologists. In the years 1941-1956, Burnet focused his effort on the elaboration of a theory of antibody synthesis, the clonal selection theory, capable of bridging the gap between physiological findings, such as the kinetics of antibody production, self-tolerance and immunological memory on the one hand, and the newest ideas on synthesis of proteins, on the other. At the time of writing the clonal selection theory, Burnet was 57 years old and the Director of the Water and Eliza Hall Institute in Melbourne, Australia.",
+   "publicationTypes": [
+    "Biography",
+    "Historical Article",
+    "Journal Article",
+    "Portrait",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39381489",
+   "title": "Karl Landsteiner (1868-1943): A Versatile Blood Scientist.",
+   "authors": [
+    "Mohd Noor NH",
+    "Siti Asmaa MJ"
+   ],
+   "journal": "Cureus",
+   "year": 2024,
+   "doi": "10.7759/cureus.68903",
+   "abstract": "Karl Landsteiner (1868-1943) was an Austrian-American biologist, physician, and immunologist whose groundbreaking discoveries revolutionized the fields of transfusion medicine, immunology, and virology. His most famous work was the identification of the ABO blood group system in 1901, which explained the causes of transfusion reactions and laid the foundation for safe blood transfusions. This discovery earned him the Nobel Prize in Physiology or Medicine in 1930. Landsteiner continued his research, identifying the MN and P blood group system in 1927 and the Rh blood group system in 1940, which addressed the complexities of the Hemolytic Disease of the Fetus and Newborn (HDFN). His work on the poliovirus in 1908, in collaboration with Erwin Popper, established the infectious nature of the disease and laid the groundwork for future vaccine development. Landsteiner's versatility as a scientist is evident in the breadth of his work, spanning hematology, immunology, and virology. His ability to navigate diverse fields and see connections between them allowed him to make pioneering discoveries that have had a lasting impact on medical practice, particularly in blood transfusion, organ transplantation, and immunotherapy. Landsteiner's legacy as the \"Father of Transfusion Medicine\" is reinforced by the standardization of blood typing procedures, which have saved millions of lives worldwide.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27738915",
+   "title": "History of Antibiotics Research.",
+   "authors": [
+    "Mohr KI"
+   ],
+   "journal": "Current topics in microbiology and immunology",
+   "year": 2016,
+   "doi": "10.1007/82_2016_499",
+   "abstract": "For thousands of years people were delivered helplessly to various kinds of infections, which often reached epidemic proportions and have cost the lives of millions of people. This is precisely the age since mankind has been thinking of infectious diseases and the question of their causes. However, due to a lack of knowledge, the search for strategies to fight, heal, and prevent the spread of communicable diseases was unsuccessful for a long time. It was not until the discovery of the healing effects of (antibiotic producing) molds, the first microscopic observations of microorganisms in the seventeenth century, the refutation of the abiogenesis theory, and the dissolution of the question \"What is the nature of infectious diseases?\" that the first milestones within the history of antibiotics research were set. Then new discoveries accelerated rapidly: Bacteria could be isolated and cultured and were identified as possible agents of diseases as well as producers of bioactive metabolites. At the same time the first synthetic antibiotics were developed and shortly thereafter, thousands of synthetic substances as well as millions of soil borne bacteria and fungi were screened for bioactivity within numerous microbial laboratories of pharmaceutical companies. New antibiotic classes with different targets were discovered as on assembly line production. With the beginning of the twentieth century, many of the diseases which reached epidemic proportions at the time-e.g., cholera, syphilis, plague, tuberculosis, or typhoid fever, just to name a few, could be combatted with new discovered antibiotics. It should be considered that hundred years ago the market launch of new antibiotics was significantly faster and less complicated than today (where it takes 10-12 years in average between the discovery of a new antibiotic until the launch). After the first euphoria it was quickly realized that bacteria are able to develop, acquire, and spread numerous resistance mechanisms. Whenever a new antibiotic reached the market it did not take long until scientists observed the first resistant germs. Since the marketing of the first antibiotic there is a neck-on-neck race between scientists who discover natural or develop semisynthetic and synthetic bioactive molecules and bacteria, which have developed resistance mechanisms. The emphasis of this chapter is to give an overview of the history of antibiotics research. The situation within the pre-antibiotic era as well as in the early antibiotic era will be described until the Golden Age of Antibiotics will conclude this time travel. The most important antibiotic classes, information about their discovery, activity spectrum, mode of action, resistance mechanisms, and current application will be presented.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "24162573",
+   "title": "Selman A. Waksman, winner of the 1952 Nobel Prize for physiology or medicine.",
+   "authors": [
+    "Woodruff HB"
+   ],
+   "journal": "Applied and environmental microbiology",
+   "year": 2014,
+   "doi": "10.1128/AEM.01143-13",
+   "abstract": "The history of the discovery and development of streptomycin is reviewed here from the personal standpoint of a member of Dr. Selman Waksman's antibiotic screening research team. The team approach of eight individuals illustrates how the gradual enhancement of the screening methodology was developed. I illustrate three study periods with key aspects in the development of streptomycin which led to a Nobel Prize being granted to Professor Waksman. One item not previously emphasized is the employment of a submerged culture technique for large-scale production of streptomycin, thus enabling rapid animal testing and human clinical trials with Mycobacterium tuberculosis. Another is that purified streptomycin was shown by Dr. Waksman to be distinctly different from the substances called natural products, which are no longer patentable in the United States; therefore, streptomycin was found to be patentable. A third item not previously emphasized is his emphasis on the screening of actinomycetes, including the newly named Streptomyces genus. All of these factors contributed to the success of streptomycin in the treatment of tuberculosis. In combination, their successes led to Dr. Waksman's department becoming a new pharmacological research area, specializing in drug discovery. These unique accomplishments all burnish the prior rationales used by the Karolinska Institute in granting Dr. Waksman alone the 1952 Nobel Prize for Physiology or Medicine.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "15270337",
+   "title": "Streptomycin, Schatz v. Waksman, and the balance of credit for discovery.",
+   "authors": [
+    "Kingston W"
+   ],
+   "journal": "Journal of the history of medicine and allied sciences",
+   "year": 2004,
+   "doi": "10.1093/jhmas/jrh091",
+   "abstract": "A recent article in Nature, arguing that \"the misallocation of credit is endemic in science,\" used Selman Waksman as an illustration, claiming that the true discoverer of streptomycin was one of his graduate students. The article received wide publicity and seriously damaged Waksman's great reputation. What actually happened was that the success of penicillin stimulated Merck to fund research by Waksman, a soil scientist, into the collection of actinomycetes that he had assembled over thirty years. He applied the systematic, uncreative testing techniques that had made the German pharmaceutical industry so successful to these, and streptomycin was discovered within a matter of months. Work in the Mayo Institute then showed that it was marvelously effective against tuberculosis, and Waksman received the Nobel Prize for it in 1952. The test that turned out to be the crucial one could have been carried out by any of several students, but the lucky one was Albert Schatz. He then sued the university for a share of the royalties payable by Merck and also petitioned the Nobel committee to include him in the award. Although he obtained a very substantial out-of-court settlement, this probably damaged his subsequent academic career, and he has never ceased to argue his case for recognition, of which the Nature article is a reflection. To claim that Waksman took credit properly due to Schatz is to fail to understand that once pharmaceutical research had become primarily a matter of large-scale, routine testing, little individual creativity was left in this work. Credit for any successful results must therefore be given to whoever is the originator or director of a particular program. Nature refused to publish evidence that this case could not be used as an example of misallocation of credit for discovery. This in itself illustrates that editors of scientific journals should be every bit as mindful of scientists' reputations as they are of scientific facts.",
+   "publicationTypes": [
+    "Biography",
+    "Historical Article",
+    "Journal Article",
+    "Legal Case"
+   ]
+  },
+  {
+   "pmid": "19283418",
+   "title": "Different roads to discovery; Prontosil (hence sulfa drugs) and penicillin (hence beta-lactams).",
+   "authors": [
+    "Bentley R"
+   ],
+   "journal": "Journal of industrial microbiology & biotechnology",
+   "year": 2009,
+   "doi": "10.1007/s10295-009-0553-8",
+   "abstract": "The important chemotherapeutic agents, Prontosil and pentenylpenicillin (penicillin F), were investigated initially by two men, Domagk and Fleming, who had been influenced by the horrendous wound infections of World War I. The very different pathways leading to their development and to that of the successor antibacterials (sulfa drugs, further penicillins, semi-synthetic penicillins), including the role played by patents, are discussed.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "8724440",
+   "title": "The Gram stain after more than a century.",
+   "authors": [
+    "Popescu A",
+    "Doyle RJ"
+   ],
+   "journal": "Biotechnic & histochemistry : official publication of the Biological Stain Commission",
+   "year": 1996,
+   "doi": "10.3109/10520299609117151",
+   "abstract": "The Gram stain, the most important stain in microbiology, was described more than a century ago. Only within the past decade, however, has an understanding of its mechanism emerged. It now seems clear that the cell wall of Gram-positive microorganisms is responsible for retention of a crystal violet:iodine complex. In Gram-negative cells, the staining procedures damage the cell surface resulting in loss of dye complexes. Gram-positive microorganisms require a relatively thick cell wall, irrespective of composition, to retain the dye. Therefore, Gram-stainability is a function of the cell wall and is not related to chemistry of cell constituents. This review provides a chronology of the Gram stain and discusses its recently discovered mechanism.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39310587",
+   "title": "John Snow: The Pioneer of Modern Epidemiology and Anesthesia.",
+   "authors": [
+    "Avdulla CS",
+    "Tachirai N"
+   ],
+   "journal": "Cureus",
+   "year": 2024,
+   "doi": "10.7759/cureus.67602",
+   "abstract": "John Snow (15 March 1813-16 June 1858) stands as a seminal figure in the fields of epidemiology and anesthesia. His groundbreaking work in tracing the source of cholera outbreaks and advancing the practice of anesthesia has left an indelible mark on modern medicine. Born in York, England, Snow's early passion for science and dedication to medical practice led him to become a pioneering force in his field. His meticulous methods, including the innovative use of spatial analysis and statistical mapping, challenged prevailing theories and laid the groundwork for modern public health initiatives. Snow's contributions to anesthesia, particularly his work with ether and chloroform, revolutionized surgical practices, significantly improving patient care and safety. This article delves into Snow's life, achievements, and the innovative processes he employed, underscoring his enduring impact on human health. By examining his legacy, we aim to enhance our understanding of medical history and inspire both present and future healthcare professionals, honoring the legacy of this medical hero.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39429327",
+   "title": "Jonas Salk (1914-1995): Pioneering the Fight Against Polio and Beyond.",
+   "authors": [
+    "Sahu H",
+    "Choudhari SG",
+    "Gaidhane A",
+    "Chakole S"
+   ],
+   "journal": "Cureus",
+   "year": 2024,
+   "doi": "10.7759/cureus.69681",
+   "abstract": "Jonas Salk (October 28, 1914 - June 23, 1995) was an American medical researcher celebrated for his pioneering work in virology, particularly the development of the first successful polio vaccine. This review highlights Salk's multifaceted talent and contributions. His research on the poliovirus led to the creation of the inactivated polio vaccine, proving that it could prevent the disease. In 1955, the discovery of the polio vaccine was a pivotal moment in the fight against poliomyelitis. Salk's contributions are celebrated in the record of medical history, highlighting his impact on modern medicine and public health. As a professor of bacteriology, preventive medicine, and experimental medicine, Salk's scientific journey, from his innovative methods to the creation and widespread use of the inactivated polio vaccine, helped eradicate polio from various parts of the world. His contributions beyond polio, such as his work on the influenza vaccine and the founding of the Salk Institute for Biological Studies, are also well known. By exploring Salk's legacy, this review examines how his work and dedication continue to influence modern medicine, public health, and science, impacting humanity.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31991671",
+   "title": "Smallpox in the Post-Eradication Era.",
+   "authors": [
+    "Meyer H",
+    "Ehmann R",
+    "Smith GL"
+   ],
+   "journal": "Viruses",
+   "year": 2020,
+   "doi": "10.3390/v12020138",
+   "abstract": "Widespread vaccination programmes led to the global eradication of smallpox, which was certified by the World Health Organisation (WHO), and, since 1978, there has been no case of smallpox anywhere in the world. However, the viable variola virus (VARV), the causative agent of smallpox, is still kept in two maximum security laboratories in Russia and the USA. Despite the eradication of the disease smallpox, clandestine stocks of VARV may exist. In a rapidly changing world, the impact of an intentional VARV release in the human population would nowadays result in a public health emergency of global concern: vaccination programmes were abolished, the percentage of immunosuppressed individuals in the human population is higher, and an increased intercontinental air travel allows for the rapid viral spread of diseases around the world. The WHO has authorised the temporary retention of VARV to enable essential research for public health benefit to take place. This work aims to develop diagnostic tests, antiviral drugs, and safer vaccines. Advances in synthetic biology have made it possible to produce infectious poxvirus particles from chemicals in vitro so that it is now possible to reconstruct VARV. The status of smallpox in the post-eradication era is reviewed.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "22984063",
+   "title": "Rinderpest eradication: appropriate technology and social innovations.",
+   "authors": [
+    "Mariner JC",
+    "House JA",
+    "Mebus CA",
+    "Sollod AE",
+    "Chibeu D",
+    "Jones BA",
+    "Roeder PL",
+    "Admassu B",
+    "van 't Klooster GG"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2012,
+   "doi": "10.1126/science.1223805",
+   "abstract": "Rinderpest is only the second infectious disease to have been globally eradicated. In the final stages of eradication, the virus was entrenched in pastoral areas of the Greater Horn of Africa, a region with weak governance, poor security, and little infrastructure that presented profound challenges to conventional control methods. Although the eradication process was a development activity rather than scientific research, its success owed much to several seminal research efforts in vaccine development and epidemiology and showed what scientific decision-making and management could accomplish with limited resources. The keys to success were the development of a thermostable vaccine and the application of participatory epidemiological techniques that allowed veterinary personnel to interact at a grassroots level with cattle herders to more effectively target control measures.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "23607167",
+   "title": "Why do parasites harm their host? On the origin and legacy of Theobald Smith's \"law of declining virulence\"--1900-1980.",
+   "authors": [
+    "Méthot PO"
+   ],
+   "journal": "History and philosophy of the life sciences",
+   "year": 2012,
+   "doi": null,
+   "abstract": "Why do parasites harm their host? The persistence of this question in the history of the life sciences rests partly on a seeming biological paradox. In effect, although the annihilation of the host by a parasite could be depicted as a crude example of \"the survival of the fittest,\" situations where the host dies rapidly often amount to a pyrrhic victory because parasitic colonies harboured within it may die as well before the transmission stage. So why would natural selection favour high virulence if this results in both the host's and the pathogen's deaths? From the last quarter of the nineteenth century to the late 1970s, it was often considered that, all else being equal, pathogen's evolution towards harmlessness was the expected outcome of long-term biological associations, as it would ensure the survival of both species. Frequently dismissed today as naively adaptationist, this perspective was however widely defended by some of those who pioneered an ecological, even evolutionary view of disease in the early-twentieth century, and was often ascribed to American bacteriologist and comparative pathologist Theobald Smith (1859-1934). Since the early 1980s, the mathematical model of the trade-off--based on the idea that pathogens face several compromises between their mode of transmission, the level of virulence, and the cost of resistance--has challenged the assumed tendency towards harmlessness and has gained currency. This paper first analyzes Theobald Smith's conception of disease, his experimental work on Texas cattle fever, and his formulation of the \"law of declining virulence.\" The following sections then trace the legacy of this model of disease evolution from circa 1900 to its widespread acceptance in the mid-twentieth century and until its downfall in the 1980s. Particular attention is given to the case of the myxoma virus and how it acted as an empirical confirmation of Smith's model in the 1950s. Finally, the paper examines both significant empirical and theoretical challenges to the avirulence model. The present study not only fills a gap in the history of disease transmission and ecology but also sheds light on the intermingled relationship between bacteriology, evolutionary biology, and public health in the past century.",
+   "publicationTypes": [
+    "Biography",
+    "Historical Article",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37112668",
+   "title": "Developments in Rabies Vaccines: The Path Traversed from Pasteur to the Modern Era of Immunization.",
+   "authors": [
+    "Natesan K",
+    "Isloor S",
+    "Vinayagamurthy B",
+    "Ramakrishnaiah S",
+    "Doddamane R",
+    "Fooks AR"
+   ],
+   "journal": "Vaccines",
+   "year": 2023,
+   "doi": "10.3390/vaccines11040756",
+   "abstract": "Rabies is a disease of antiquity and has a history spanning millennia ever since the first interactions between humans and dogs. The alarming fatalities caused by this disease have triggered rabies prevention strategies since the first century BC. There have been numerous attempts over the past 100 years to develop rabies vaccineswith the goal of preventing rabies in both humans and animals. Thepre-Pasteurian vaccinologists, paved the way for the actual history of rabies vaccines with the development of first generation vaccines. Further improvements for less reactive and more immunogenic vaccines have led to the expansion of embryo vaccines, tissue culture vaccines, cell culture vaccines, modified live vaccines, inactivated vaccines, and adjuvanted vaccines. The adventof recombinant technology and reverse genetics have given insight into the rabies viral genome and facilitated genome manipulations, which in turn led to the emergence of next-generation rabies vaccines, such as recombinant vaccines, viral vector vaccines, genetically modified vaccines, and nucleic acid vaccines. These vaccines were very helpful in overcoming the drawbacks of conventional rabies vaccines with increased immunogenicity and clinical efficacies. The path traversed in the development of rabies vaccines from Pasteur to the modern era vaccines, though, faced numerous challenges;these pioneering works have formed the cornerstone for the generation of thecurrent successful vaccines to prevent rabies. In the future, advancements in the scientific technologies and research focus will definitely lay the path for much more sophisticated vaccine candidates for rabies elimination.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32979306",
+   "title": "History of the Plague: An Ancient Pandemic for the Age of COVID-19.",
+   "authors": [
+    "Glatter KA",
+    "Finkelman P"
+   ],
+   "journal": "The American journal of medicine",
+   "year": 2021,
+   "doi": "10.1016/j.amjmed.2020.08.019",
+   "abstract": "During the fourteenth century, the bubonic plague or Black Death killed more than one third of Europe or 25 million people. Those afflicted died quickly and horribly from an unseen menace, spiking high fevers with suppurative buboes (swellings). Its causative agent is Yersinia pestis, creating recurrent plague cycles from the Bronze Age into modern-day California and Mongolia. Plague remains endemic in Madagascar, Congo, and Peru. This history of medicine review highlights plague events across the centuries. Transmission is by fleas carried on rats, although new theories include via human body lice and infected grain. We discuss symptomatology and treatment options. Pneumonic plague can be weaponized for bioterrorism, highlighting the importance of understanding its clinical syndromes. Carriers of recessive familial Mediterranean fever (FMF) mutations have natural immunity against Y. pestis. During the Black Death, Jews were blamed for the bubonic plague, perhaps because Jews carried FMF mutations and died at lower plague rates than Christians. Blaming minorities for epidemics echoes across history into our current coronavirus pandemic and provides insightful lessons for managing and improving its outcomes.",
+   "publicationTypes": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33298527",
+   "title": "Yersinia pestis: the Natural History of Plague.",
+   "authors": [
+    "Barbieri R",
+    "Signoli M",
+    "Chevé D",
+    "Costedoat C",
+    "Tzortzis S",
+    "Aboudharam G",
+    "Raoult D",
+    "Drancourt M"
+   ],
+   "journal": "Clinical microbiology reviews",
+   "year": 2020,
+   "doi": "10.1128/CMR.00044-19",
+   "abstract": "The Gram-negative bacterium Yersinia pestis is responsible for deadly plague, a zoonotic disease established in stable foci in the Americas, Africa, and Eurasia. Its persistence in the environment relies on the subtle balance between Y. pestis-contaminated soils, burrowing and nonburrowing mammals exhibiting variable degrees of plague susceptibility, and their associated fleas. Transmission from one host to another relies mainly on infected flea bites, inducing typical painful, enlarged lymph nodes referred to as buboes, followed by septicemic dissemination of the pathogen. In contrast, droplet inhalation after close contact with infected mammals induces primary pneumonic plague. Finally, the rarely reported consumption of contaminated raw meat causes pharyngeal and gastrointestinal plague. Point-of-care diagnosis, early antibiotic treatment, and confinement measures contribute to outbreak control despite residual mortality. Mandatory primary prevention relies on the active surveillance of established plague foci and ectoparasite control. Plague is acknowledged to have infected human populations for at least 5,000 years in Eurasia. Y. pestis genomes recovered from affected archaeological sites have suggested clonal evolution from a common ancestor shared with the closely related enteric pathogen Yersinia pseudotuberculosis and have indicated that ymt gene acquisition during the Bronze Age conferred Y. pestis with ectoparasite transmissibility while maintaining its enteric transmissibility. Three historic pandemics, starting in 541 AD and continuing until today, have been described. At present, the third pandemic has become largely quiescent, with hundreds of human cases being reported mainly in a few impoverished African countries, where zoonotic plague is mostly transmitted to people by rodent-associated flea bites.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33974804",
+   "title": "The History of Microbiology-A Personal Interpretation.",
+   "authors": [
+    "Kolter R"
+   ],
+   "journal": "Annual review of microbiology",
+   "year": 2021,
+   "doi": "10.1146/annurev-micro-033020-020648",
+   "abstract": "Microbiology began as a unified science using the principles of chemistry to understand living systems. The unified view quickly split into the subdisciplines of medical microbiology, molecular biology, and environmental microbiology. The advent of a universal phylogeny and culture-independent approaches has helped tear down the boundaries separating the subdisciplines. The vision for the future is that the study of the fundamental roles of microbes in ecology and evolution will lead to an integrated biology with no boundary between microbiology and macrobiology.",
+   "publicationTypes": [
+    "Journal Article"
    ]
   },
   {
@@ -13926,6 +14428,2838 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "combining original and replication results left 68% with statistically significant effects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-37630554-1-en",
+   "translationKey": "history-37630554-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Who was the first to see and describe microorganisms?",
+   "options": [
+    "Louis Pasteur",
+    "Antonie van Leeuwenhoek",
+    "Robert Koch",
+    "Alexander Fleming"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The Dutch scientist Antonie van Leeuwenhoek (1632–1723) first described microorganisms with his own microscopes.",
+   "shortExplanation": "Leeuwenhoek.",
+   "pmid": "37630554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "was the first to discover and describe microorganisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-37630554-1-es",
+   "translationKey": "history-37630554-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "¿Quién fue el primero en ver y describir microorganismos?",
+   "options": [
+    "Louis Pasteur",
+    "Antonie van Leeuwenhoek",
+    "Robert Koch",
+    "Alexander Fleming"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El holandés Antonie van Leeuwenhoek (1632–1723) fue el primero en describir microorganismos con sus propios microscopios.",
+   "shortExplanation": "Leeuwenhoek.",
+   "pmid": "37630554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "was the first to discover and describe microorganisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-37630554-2-en",
+   "translationKey": "history-37630554-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "What did Leeuwenhoek call the microorganisms he observed?",
+   "options": [
+    "Germs",
+    "Microbes",
+    "Viruses",
+    "Animalcules (little animals)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Leeuwenhoek called the protists and bacteria he saw 'animalcules', meaning little animals.",
+   "shortExplanation": "Animalcules.",
+   "pmid": "37630554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "living beings he characterized as \"animalcules\" (little animals)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-37630554-2-es",
+   "translationKey": "history-37630554-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Cómo llamó Leeuwenhoek a los microorganismos que observó?",
+   "options": [
+    "Gérmenes",
+    "Microbios",
+    "Virus",
+    "Animálculos (animalitos)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Leeuwenhoek llamó 'animálculos', es decir animalitos, a los protistas y bacterias que vio.",
+   "shortExplanation": "Animálculos.",
+   "pmid": "37630554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "living beings he characterized as \"animalcules\" (little animals)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-37630554-3-en",
+   "translationKey": "history-37630554-3",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Which title is often given to Antonie van Leeuwenhoek?",
+   "options": [
+    "Father of Microbiology",
+    "Father of Surgery",
+    "Father of Genetics",
+    "Father of Vaccination"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "For being the first to describe microbes, Leeuwenhoek is called the Father of Microbiology.",
+   "shortExplanation": "Father of Microbiology.",
+   "pmid": "37630554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Father of Microbiology",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-37630554-3-es",
+   "translationKey": "history-37630554-3",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué título se le da a menudo a Antonie van Leeuwenhoek?",
+   "options": [
+    "Padre de la Microbiología",
+    "Padre de la Cirugía",
+    "Padre de la Genética",
+    "Padre de la Vacunación"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Por ser el primero en describir microbios, a Leeuwenhoek se lo llama Padre de la Microbiología.",
+   "shortExplanation": "Padre de la Microbiología.",
+   "pmid": "37630554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Father of Microbiology",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-1-en",
+   "translationKey": "history-35454184-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Pasteurization, named after Louis Pasteur, was originally proposed for which product?",
+   "options": [
+    "Milk",
+    "Water",
+    "Wine",
+    "Bread"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Pasteur proposed heating wines to prevent spoilage; the process, pasteurization, is now best known for milk.",
+   "shortExplanation": "Wine.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He proposed a process, known as pasteurization, for the sterilization of wines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-1-es",
+   "translationKey": "history-35454184-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "La pasteurización, llamada así por Louis Pasteur, se propuso originalmente para ¿qué producto?",
+   "options": [
+    "Leche",
+    "Agua",
+    "Vino",
+    "Pan"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Pasteur propuso calentar los vinos para evitar que se echen a perder; hoy la pasteurización se asocia sobre todo a la leche.",
+   "shortExplanation": "Vino.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He proposed a process, known as pasteurization, for the sterilization of wines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-2-en",
+   "translationKey": "history-35454184-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Which theory established by Pasteur allowed Joseph Lister to develop antiseptic surgery?",
+   "options": [
+    "The germ theory of infectious diseases",
+    "The theory of evolution",
+    "The four humors theory",
+    "The theory of relativity"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Pasteur's germ theory showed microbes cause infection, which Lister applied to prevent wound infection.",
+   "shortExplanation": "Germ theory.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He established the germ theory of infectious diseases that allowed Joseph Lister to develop his antiseptic practice in surgery",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-2-es",
+   "translationKey": "history-35454184-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué teoría establecida por Pasteur permitió a Joseph Lister desarrollar la cirugía antiséptica?",
+   "options": [
+    "La teoría microbiana de las enfermedades infecciosas",
+    "La teoría de la evolución",
+    "La teoría de los cuatro humores",
+    "La teoría de la relatividad"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La teoría microbiana de Pasteur mostró que los microbios causan infección, y Lister la aplicó para prevenir la infección de heridas.",
+   "shortExplanation": "Teoría microbiana.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He established the germ theory of infectious diseases that allowed Joseph Lister to develop his antiseptic practice in surgery",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-3-en",
+   "translationKey": "history-35454184-3",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Which of these was one of Pasteur's four vaccines?",
+   "options": [
+    "Smallpox",
+    "Polio",
+    "Measles",
+    "Rabies"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Pasteur developed vaccines for fowl cholera, anthrax, swine erysipelas and rabies—three of them for animal diseases.",
+   "shortExplanation": "Rabies.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He created four vaccines (fowl cholera, anthrax, pig erysipelas, and rabies)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-3-es",
+   "translationKey": "history-35454184-3",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál de estas fue una de las cuatro vacunas de Pasteur?",
+   "options": [
+    "Viruela",
+    "Polio",
+    "Sarampión",
+    "Rabia"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Pasteur desarrolló vacunas contra el cólera aviar, el carbunco, la erisipela porcina y la rabia; tres eran para enfermedades animales.",
+   "shortExplanation": "Rabia.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He created four vaccines (fowl cholera, anthrax, pig erysipelas, and rabies)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-4-en",
+   "translationKey": "history-35454184-4",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Who coined the word 'vaccination', later generalized by Pasteur?",
+   "options": [
+    "Louis Pasteur himself",
+    "Richard Dunning, a friend of Edward Jenner",
+    "Robert Koch",
+    "Hippocrates"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Richard Dunning coined 'vaccination' (from vacca, cow); Pasteur extended it to all such immunizations.",
+   "shortExplanation": "Richard Dunning.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He generalized the word \"vaccination\" coined by Richard Dunning, Edward Jenner's friend",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-4-es",
+   "translationKey": "history-35454184-4",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Quién acuñó la palabra 'vacunación', luego generalizada por Pasteur?",
+   "options": [
+    "El propio Louis Pasteur",
+    "Richard Dunning, amigo de Edward Jenner",
+    "Robert Koch",
+    "Hipócrates"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Richard Dunning acuñó 'vacunación' (de vacca, vaca); Pasteur la extendió a todas esas inmunizaciones.",
+   "shortExplanation": "Richard Dunning.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He generalized the word \"vaccination\" coined by Richard Dunning, Edward Jenner's friend",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-5-en",
+   "translationKey": "history-35454184-5",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "Before his microbiology work, which chemical phenomenon did Pasteur discover?",
+   "options": [
+    "Radioactivity",
+    "The periodic table",
+    "Molecular chirality",
+    "Covalent bonding"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Pasteur discovered molecular chirality (handedness of molecules) while studying tartrate crystals.",
+   "shortExplanation": "Chirality.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He discovered molecular chirality",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-5-es",
+   "translationKey": "history-35454184-5",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "Antes de su trabajo en microbiología, ¿qué fenómeno químico descubrió Pasteur?",
+   "options": [
+    "La radiactividad",
+    "La tabla periódica",
+    "La quiralidad molecular",
+    "El enlace covalente"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Pasteur descubrió la quiralidad molecular estudiando cristales de tartrato.",
+   "shortExplanation": "Quiralidad.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He discovered molecular chirality",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-6-en",
+   "translationKey": "history-35454184-6",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Who was Louis Pasteur's most famous scientific opponent?",
+   "options": [
+    "Robert Koch",
+    "Edward Jenner",
+    "Joseph Lister",
+    "Alexander Fleming"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Pasteur and Koch were rivals; Koch criticized the ambiguity of Pasteur's vaccine preparation methods.",
+   "shortExplanation": "Koch.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Robert Koch, his most famous opponent",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-35454184-6-es",
+   "translationKey": "history-35454184-6",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Quién fue el oponente científico más famoso de Louis Pasteur?",
+   "options": [
+    "Robert Koch",
+    "Edward Jenner",
+    "Joseph Lister",
+    "Alexander Fleming"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Pasteur y Koch fueron rivales; Koch criticó la ambigüedad de los métodos de Pasteur para preparar vacunas.",
+   "shortExplanation": "Koch.",
+   "pmid": "35454184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Robert Koch, his most famous opponent",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-12593975-1-en",
+   "translationKey": "history-12593975-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Which diseases did Robert Koch famously study?",
+   "options": [
+    "Malaria and dengue",
+    "Polio and measles",
+    "Anthrax and tuberculosis",
+    "Scurvy and rickets"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Koch's work on anthrax and tuberculosis, and his photography of germs, transformed bacteriology.",
+   "shortExplanation": "Anthrax and TB.",
+   "pmid": "12593975",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "By chronologically following Koch's work on anthrax, germ photography and tuberculosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-12593975-1-es",
+   "translationKey": "history-12593975-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué enfermedades estudió Robert Koch de manera famosa?",
+   "options": [
+    "Malaria y dengue",
+    "Polio y sarampión",
+    "Carbunco y tuberculosis",
+    "Escorbuto y raquitismo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los trabajos de Koch sobre el carbunco y la tuberculosis, y sus fotografías de gérmenes, transformaron la bacteriología.",
+   "shortExplanation": "Carbunco y TB.",
+   "pmid": "12593975",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "By chronologically following Koch's work on anthrax, germ photography and tuberculosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-12593975-2-en",
+   "translationKey": "history-12593975-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Which innovation associated with Koch transformed laboratory research?",
+   "options": [
+    "Vaccines against smallpox",
+    "Antibiotics",
+    "Anesthesia",
+    "Visual representation of germs (microphotography)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Koch's photographs of bacteria made germs visible evidence, transforming medical laboratory research.",
+   "shortExplanation": "Germ photography.",
+   "pmid": "12593975",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it shows how the visual representation of germs transformed laboratory research in medical science",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-12593975-2-es",
+   "translationKey": "history-12593975-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué innovación asociada a Koch transformó la investigación de laboratorio?",
+   "options": [
+    "Vacunas contra la viruela",
+    "Los antibióticos",
+    "La anestesia",
+    "La representación visual de los gérmenes (microfotografía)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las fotografías de bacterias de Koch hicieron visibles los gérmenes como evidencia y transformaron la investigación médica.",
+   "shortExplanation": "Fotografía de gérmenes.",
+   "pmid": "12593975",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it shows how the visual representation of germs transformed laboratory research in medical science",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30848026-1-en",
+   "translationKey": "history-30848026-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Which modern discovery is a classic example of applying Koch's postulates?",
+   "options": [
+    "Penicillin",
+    "Helicobacter pylori as a cause of peptic ulcers",
+    "DNA structure",
+    "Insulin"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "H. pylori's link to ulcers and gastric cancer exemplifies Koch's postulates; eradication prevents recurrence.",
+   "shortExplanation": "H. pylori.",
+   "pmid": "30848026",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The discovery of Helicobacter pylori (H. pylori) and H. pylori associated diseases has typically represented the concept and framework of Koch's postulates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30848026-1-es",
+   "translationKey": "history-30848026-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué descubrimiento moderno es un ejemplo clásico de aplicar los postulados de Koch?",
+   "options": [
+    "La penicilina",
+    "Helicobacter pylori como causa de úlcera péptica",
+    "La estructura del ADN",
+    "La insulina"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El vínculo de H. pylori con úlceras y cáncer gástrico ejemplifica los postulados de Koch; erradicarlo evita recurrencias.",
+   "shortExplanation": "H. pylori.",
+   "pmid": "30848026",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The discovery of Helicobacter pylori (H. pylori) and H. pylori associated diseases has typically represented the concept and framework of Koch's postulates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30848026-2-en",
+   "translationKey": "history-30848026-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What technology has expanded our view beyond Koch's culture-based microbiology?",
+   "options": [
+    "The light microscope",
+    "Gram staining",
+    "Petri dishes",
+    "Next-generation sequencing of unculturable microbes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Sequencing reveals trillions of unculturable microbes and the microbiome, changing how we see microbes in health.",
+   "shortExplanation": "Next-generation sequencing.",
+   "pmid": "30848026",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Advances of next generation sequencing provide great insight into the unculturable microbes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30848026-2-es",
+   "translationKey": "history-30848026-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tecnología amplió nuestra visión más allá de la microbiología basada en cultivos de Koch?",
+   "options": [
+    "El microscopio óptico",
+    "La tinción de Gram",
+    "Las placas de Petri",
+    "La secuenciación de nueva generación de microbios no cultivables"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La secuenciación revela billones de microbios no cultivables y el microbioma, cambiando cómo vemos a los microbios.",
+   "shortExplanation": "Secuenciación.",
+   "pmid": "30848026",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Advances of next generation sequencing provide great insight into the unculturable microbes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30444981-1-en",
+   "translationKey": "history-30444981-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "What simple measure did Ignaz Semmelweis introduce to reduce deaths of new mothers?",
+   "options": [
+    "Hand disinfection with chlorine",
+    "Antibiotics",
+    "Vaccines",
+    "Blood transfusions"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Semmelweis introduced chlorine hand disinfection, cutting childbed fever deaths 3- to 10-fold.",
+   "shortExplanation": "Hand washing.",
+   "pmid": "30444981",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He implemented chlorine hand disinfection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30444981-1-es",
+   "translationKey": "history-30444981-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "¿Qué medida simple introdujo Ignaz Semmelweis para reducir las muertes de madres recién paridas?",
+   "options": [
+    "La desinfección de manos con cloro",
+    "Antibióticos",
+    "Vacunas",
+    "Transfusiones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Semmelweis introdujo la desinfección de manos con cloro y redujo de 3 a 10 veces las muertes por fiebre puerperal.",
+   "shortExplanation": "Lavado de manos.",
+   "pmid": "30444981",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He implemented chlorine hand disinfection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30444981-2-en",
+   "translationKey": "history-30444981-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Which disease did Semmelweis study in Vienna in 1847?",
+   "options": [
+    "Tuberculosis",
+    "Smallpox",
+    "Puerperal (childbed) fever",
+    "Cholera"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Childbed fever was then the leading cause of maternal death in lying-in hospitals.",
+   "shortExplanation": "Childbed fever.",
+   "pmid": "30444981",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "discovered the cause of puerperal or childbed fever (CBF) in 1847",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30444981-2-es",
+   "translationKey": "history-30444981-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué enfermedad estudió Semmelweis en Viena en 1847?",
+   "options": [
+    "Tuberculosis",
+    "Viruela",
+    "Fiebre puerperal",
+    "Cólera"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La fiebre puerperal era entonces la principal causa de muerte materna en las maternidades.",
+   "shortExplanation": "Fiebre puerperal.",
+   "pmid": "30444981",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "discovered the cause of puerperal or childbed fever (CBF) in 1847",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30444981-3-en",
+   "translationKey": "history-30444981-3",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Why was maternal mortality higher in the clinic taught by medical students?",
+   "options": [
+    "Students used older beds",
+    "Students carried the causative agent from autopsies to mothers on their hands",
+    "Midwives used antibiotics",
+    "The ward was colder"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Students went from autopsies to deliveries without disinfecting their hands, carrying 'decaying organic matter'.",
+   "shortExplanation": "Hands from autopsies.",
+   "pmid": "30444981",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "medical students, who assisted at autopsies, were transferring the causative agent from cadavers to the birth canal of mothers in labor with their hands",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30444981-3-es",
+   "translationKey": "history-30444981-3",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué era mayor la mortalidad materna en la clínica donde enseñaban a estudiantes de medicina?",
+   "options": [
+    "Usaban camas más viejas",
+    "Los estudiantes llevaban el agente de las autopsias a las madres en sus manos",
+    "Las parteras usaban antibióticos",
+    "La sala era más fría"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los estudiantes pasaban de las autopsias a los partos sin desinfectarse, llevando 'materia orgánica en descomposición'.",
+   "shortExplanation": "Manos desde la autopsia.",
+   "pmid": "30444981",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "medical students, who assisted at autopsies, were transferring the causative agent from cadavers to the birth canal of mothers in labor with their hands",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30444981-4-en",
+   "translationKey": "history-30444981-4",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Why was Semmelweis's doctrine rejected by most leading obstetricians?",
+   "options": [
+    "It was proven wrong by experiments",
+    "He refused to publish anything",
+    "It required expensive drugs",
+    "It conflicted with all existing theories of the disease's cause"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "His ideas contradicted prevailing theories; validation came only after germ theory was adopted, after his death.",
+   "shortExplanation": "Conflicted with theories.",
+   "pmid": "30444981",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "most leading obstetricians rejected Semmelweis' doctrine because it conflicted with all extant theories",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-30444981-4-es",
+   "translationKey": "history-30444981-4",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué la mayoría de los obstetras rechazó la doctrina de Semmelweis?",
+   "options": [
+    "Los experimentos la refutaron",
+    "Se negó a publicar",
+    "Requería fármacos caros",
+    "Contradecía todas las teorías vigentes sobre la causa"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Sus ideas contradecían las teorías de la época; recién se validaron con la teoría microbiana, tras su muerte.",
+   "shortExplanation": "Contradecía teorías.",
+   "pmid": "30444981",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "most leading obstetricians rejected Semmelweis' doctrine because it conflicted with all extant theories",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36686094-1-en",
+   "translationKey": "history-36686094-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Which antiseptic did Joseph Lister use in surgery?",
+   "options": [
+    "Alcohol",
+    "Iodine",
+    "Chlorine",
+    "Carbolic acid (phenol)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Lister used carbolic acid to prevent germs from entering wounds, reducing sepsis, gangrene and amputations.",
+   "shortExplanation": "Carbolic acid.",
+   "pmid": "36686094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "using carbolic acid (phenol) as an antiseptic",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36686094-1-es",
+   "translationKey": "history-36686094-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué antiséptico usó Joseph Lister en cirugía?",
+   "options": [
+    "Alcohol",
+    "Yodo",
+    "Cloro",
+    "Ácido carbólico (fenol)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Lister usó ácido carbólico para impedir que los gérmenes entraran en las heridas, reduciendo sepsis, gangrena y amputaciones.",
+   "shortExplanation": "Ácido carbólico.",
+   "pmid": "36686094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "using carbolic acid (phenol) as an antiseptic",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36686094-2-en",
+   "translationKey": "history-36686094-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Joseph Lister is known as a pioneer of what?",
+   "options": [
+    "Vaccination",
+    "Antiseptic surgery",
+    "Anesthesia",
+    "Blood groups"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Lister founded antiseptic surgery by applying Pasteur's germ theory to wound infection.",
+   "shortExplanation": "Antisepsis.",
+   "pmid": "36686094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "established the study of antisepsis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-36686094-2-es",
+   "translationKey": "history-36686094-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "¿De qué se considera pionero a Joseph Lister?",
+   "options": [
+    "De la vacunación",
+    "De la cirugía antiséptica",
+    "De la anestesia",
+    "De los grupos sanguíneos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Lister fundó la cirugía antiséptica aplicando la teoría microbiana de Pasteur a la infección de heridas.",
+   "shortExplanation": "Antisepsia.",
+   "pmid": "36686094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "established the study of antisepsis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39176366-1-en",
+   "translationKey": "history-39176366-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "In which year did Alexander Fleming discover penicillin?",
+   "options": [
+    "1798",
+    "1882",
+    "1928",
+    "1975"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Fleming discovered penicillin by chance in 1928.",
+   "shortExplanation": "1928.",
+   "pmid": "39176366",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The serendipitous discovery of penicillin in 1928",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39176366-1-es",
+   "translationKey": "history-39176366-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "¿En qué año descubrió Alexander Fleming la penicilina?",
+   "options": [
+    "1798",
+    "1882",
+    "1928",
+    "1975"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Fleming descubrió la penicilina por casualidad en 1928.",
+   "shortExplanation": "1928.",
+   "pmid": "39176366",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The serendipitous discovery of penicillin in 1928",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39176366-2-en",
+   "translationKey": "history-39176366-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Who turned penicillin into a widely usable drug after Fleming's discovery?",
+   "options": [
+    "Howard Florey, Ernst Chain and Norman Heatley",
+    "Louis Pasteur and Robert Koch",
+    "Jonas Salk and Albert Sabin",
+    "Watson and Crick"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Florey, Chain and Heatley purified and produced penicillin, especially during World War II.",
+   "shortExplanation": "Florey, Chain, Heatley.",
+   "pmid": "39176366",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the crucial contributions of Howard Florey, Ernst Boris Chain, and Norman Heatley in developing penicillin into a widely usable therapeutic agent",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39176366-2-es",
+   "translationKey": "history-39176366-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Quiénes convirtieron la penicilina en un fármaco utilizable tras el descubrimiento de Fleming?",
+   "options": [
+    "Howard Florey, Ernst Chain y Norman Heatley",
+    "Louis Pasteur y Robert Koch",
+    "Jonas Salk y Albert Sabin",
+    "Watson y Crick"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Florey, Chain y Heatley purificaron y produjeron la penicilina, sobre todo durante la Segunda Guerra Mundial.",
+   "shortExplanation": "Florey, Chain, Heatley.",
+   "pmid": "39176366",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the crucial contributions of Howard Florey, Ernst Boris Chain, and Norman Heatley in developing penicillin into a widely usable therapeutic agent",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39176366-3-en",
+   "translationKey": "history-39176366-3",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "When did Fleming receive the Nobel Prize for penicillin?",
+   "options": [
+    "1901",
+    "1945",
+    "1928",
+    "2000"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Fleming shared the 1945 Nobel Prize in Physiology or Medicine with Florey and Chain.",
+   "shortExplanation": "1945.",
+   "pmid": "39176366",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fleming's achievements were recognized with the Nobel Prize in 1945",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39176366-3-es",
+   "translationKey": "history-39176366-3",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Cuándo recibió Fleming el Premio Nobel por la penicilina?",
+   "options": [
+    "1901",
+    "1945",
+    "1928",
+    "2000"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Fleming compartió el Nobel de Fisiología o Medicina de 1945 con Florey y Chain.",
+   "shortExplanation": "1945.",
+   "pmid": "39176366",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fleming's achievements were recognized with the Nobel Prize in 1945",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39385921-1-en",
+   "translationKey": "history-39385921-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Edward Jenner developed the first vaccine against which disease?",
+   "options": [
+    "Rabies",
+    "Polio",
+    "Tuberculosis",
+    "Smallpox"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "In the late 18th century Jenner developed the smallpox vaccine, a cornerstone of immunology and public health.",
+   "shortExplanation": "Smallpox.",
+   "pmid": "39385921",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "particularly his development of the smallpox vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39385921-1-es",
+   "translationKey": "history-39385921-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Edward Jenner desarrolló la primera vacuna contra ¿qué enfermedad?",
+   "options": [
+    "Rabia",
+    "Polio",
+    "Tuberculosis",
+    "Viruela"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "A fines del siglo XVIII Jenner desarrolló la vacuna contra la viruela, base de la inmunología y la salud pública.",
+   "shortExplanation": "Viruela.",
+   "pmid": "39385921",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "particularly his development of the smallpox vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25136134-1-en",
+   "translationKey": "history-25136134-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "When did the history of vaccines begin?",
+   "options": [
+    "In ancient Egypt",
+    "In the 20th century",
+    "Late in the 18th century",
+    "In the 21st century"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Vaccination began late in the 18th century; laboratory vaccines came in the late 19th, molecular ones in the 21st.",
+   "shortExplanation": "Late 1700s.",
+   "pmid": "25136134",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccines have a history that started late in the 18th century",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25136134-1-es",
+   "translationKey": "history-25136134-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Cuándo comenzó la historia de las vacunas?",
+   "options": [
+    "En el antiguo Egipto",
+    "En el siglo XX",
+    "A fines del siglo XVIII",
+    "En el siglo XXI"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La vacunación empezó a fines del siglo XVIII; las vacunas de laboratorio llegaron a fines del XIX y las moleculares en el XXI.",
+   "shortExplanation": "Fines del 1700.",
+   "pmid": "25136134",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccines have a history that started late in the 18th century",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25136134-2-en",
+   "translationKey": "history-25136134-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Since when could vaccines be developed in the laboratory?",
+   "options": [
+    "From the late 19th century",
+    "From the 15th century",
+    "Only since 2000",
+    "Since ancient Rome"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Pasteur's era (late 1800s) allowed laboratory vaccine development; molecular biology later enabled new types.",
+   "shortExplanation": "Late 19th century.",
+   "pmid": "25136134",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "From the late 19th century, vaccines could be developed in the laboratory",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-25136134-2-es",
+   "translationKey": "history-25136134-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Desde cuándo se pudieron desarrollar vacunas en el laboratorio?",
+   "options": [
+    "Desde fines del siglo XIX",
+    "Desde el siglo XV",
+    "Solo desde el 2000",
+    "Desde la antigua Roma"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La época de Pasteur (fines del 1800) permitió desarrollar vacunas en laboratorio; la biología molecular luego habilitó nuevos tipos.",
+   "shortExplanation": "Fines del siglo XIX.",
+   "pmid": "25136134",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "From the late 19th century, vaccines could be developed in the laboratory",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-18469827-1-en",
+   "translationKey": "history-18469827-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Paul Ehrlich is considered the founder of what?",
+   "options": [
+    "Surgery",
+    "Chemotherapy",
+    "Vaccination",
+    "Epidemiology"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Ehrlich founded chemotherapy and proposed 'magic bullets' that selectively target disease-causing agents.",
+   "shortExplanation": "Chemotherapy.",
+   "pmid": "18469827",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Paul Ehrlich, the founder of chemotherapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-18469827-1-es",
+   "translationKey": "history-18469827-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿De qué se considera fundador a Paul Ehrlich?",
+   "options": [
+    "De la cirugía",
+    "De la quimioterapia",
+    "De la vacunación",
+    "De la epidemiología"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Ehrlich fundó la quimioterapia y propuso las 'balas mágicas' que atacan selectivamente al agente de la enfermedad.",
+   "shortExplanation": "Quimioterapia.",
+   "pmid": "18469827",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Paul Ehrlich, the founder of chemotherapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-18469827-2-en",
+   "translationKey": "history-18469827-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "What was Paul Ehrlich's famous 'magic bullet' idea?",
+   "options": [
+    "A bullet used in war surgery",
+    "A vaccine for all diseases",
+    "A herbal remedy",
+    "A drug that selectively targets a disease agent without harming the body"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The magic bullet concept inspired targeted therapies, from antimicrobials to modern cancer drugs.",
+   "shortExplanation": "Selective drug.",
+   "pmid": "18469827",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "His postulate of creating 'magic bullets'",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-18469827-2-es",
+   "translationKey": "history-18469827-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál era la famosa idea de la 'bala mágica' de Paul Ehrlich?",
+   "options": [
+    "Una bala usada en cirugía de guerra",
+    "Una vacuna para todo",
+    "Un remedio herbal",
+    "Un fármaco que ataca selectivamente al agente de la enfermedad sin dañar al cuerpo"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La idea de la bala mágica inspiró las terapias dirigidas, de los antimicrobianos a los fármacos oncológicos modernos.",
+   "shortExplanation": "Fármaco selectivo.",
+   "pmid": "18469827",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "His postulate of creating 'magic bullets'",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-22439833-1-en",
+   "translationKey": "history-22439833-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Ehrlich's first antimicrobial compound (1911, Salvarsan) was aimed at which disease?",
+   "options": [
+    "Tuberculosis",
+    "Malaria",
+    "Syphilis",
+    "Cholera"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Ehrlich searched for a magic bullet against syphilis; Salvarsan was the first modern antimicrobial.",
+   "shortExplanation": "Syphilis.",
+   "pmid": "22439833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The first compound with antimicrobial activity was introduced in 1911 by Erlich",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-22439833-1-es",
+   "translationKey": "history-22439833-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "El primer compuesto antimicrobiano de Ehrlich (1911, Salvarsán) estaba dirigido a ¿qué enfermedad?",
+   "options": [
+    "Tuberculosis",
+    "Malaria",
+    "Sífilis",
+    "Cólera"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Ehrlich buscaba una bala mágica contra la sífilis; el Salvarsán fue el primer antimicrobiano moderno.",
+   "shortExplanation": "Sífilis.",
+   "pmid": "22439833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The first compound with antimicrobial activity was introduced in 1911 by Erlich",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28246359-1-en",
+   "translationKey": "history-28246359-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Who received the first Nobel Prize in Medicine (1901), for diphtheria and tetanus therapy?",
+   "options": [
+    "Robert Koch",
+    "Emil von Behring",
+    "Paul Ehrlich",
+    "Karl Landsteiner"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Behring's serum therapy used passive immunization with specific antisera.",
+   "shortExplanation": "Behring.",
+   "pmid": "28246359",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He was the first to be honored by the Nobel Prize for Medicine in 1901 for the successful therapy of diphtheria and tetanus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28246359-1-es",
+   "translationKey": "history-28246359-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Quién recibió el primer Premio Nobel de Medicina (1901), por la terapia de la difteria y el tétanos?",
+   "options": [
+    "Robert Koch",
+    "Emil von Behring",
+    "Paul Ehrlich",
+    "Karl Landsteiner"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La seroterapia de Behring usaba inmunización pasiva con antisueros específicos.",
+   "shortExplanation": "Behring.",
+   "pmid": "28246359",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "He was the first to be honored by the Nobel Prize for Medicine in 1901 for the successful therapy of diphtheria and tetanus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28246359-2-en",
+   "translationKey": "history-28246359-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "On what principle was Behring's diphtheria therapy based?",
+   "options": [
+    "Active vaccination with live bacteria",
+    "Antibiotics",
+    "Surgery",
+    "Passive immunization with specific antisera"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Transferring antibodies (antisera) gave immediate protection—passive immunity.",
+   "shortExplanation": "Passive immunization.",
+   "pmid": "28246359",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "his therapy was based on passive immunization with specific antisera",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-28246359-2-es",
+   "translationKey": "history-28246359-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿En qué principio se basaba la terapia de Behring contra la difteria?",
+   "options": [
+    "Vacunación activa con bacterias vivas",
+    "Antibióticos",
+    "Cirugía",
+    "Inmunización pasiva con antisueros específicos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Transferir anticuerpos (antisueros) daba protección inmediata: inmunidad pasiva.",
+   "shortExplanation": "Inmunización pasiva.",
+   "pmid": "28246359",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "his therapy was based on passive immunization with specific antisera",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27227301-1-en",
+   "translationKey": "history-27227301-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Which scientist, known for phagocytes, is regarded as a father of immunology?",
+   "options": [
+    "Élie Metchnikoff",
+    "Gregor Mendel",
+    "Charles Darwin",
+    "Joseph Lister"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Metchnikoff gave phagocytosis a defensive role, framing immunity as an active host function.",
+   "shortExplanation": "Metchnikoff.",
+   "pmid": "27227301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Metchnikoff can be rightly regarded as the father of all immunological sciences",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27227301-1-es",
+   "translationKey": "history-27227301-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué científico, conocido por los fagocitos, se considera un padre de la inmunología?",
+   "options": [
+    "Élie Metchnikoff",
+    "Gregor Mendel",
+    "Charles Darwin",
+    "Joseph Lister"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Metchnikoff dio a la fagocitosis un papel defensivo y presentó la inmunidad como una función activa del huésped.",
+   "shortExplanation": "Metchnikoff.",
+   "pmid": "27227301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Metchnikoff can be rightly regarded as the father of all immunological sciences",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27227301-2-en",
+   "translationKey": "history-27227301-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "What was Metchnikoff's real contribution regarding phagocytosis?",
+   "options": [
+    "He discovered that cells can engulf particles",
+    "He invented the microscope",
+    "He assigned phagocytosis the role of defending the host",
+    "He proved phagocytes are useless"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Engulfment had been seen before; Metchnikoff's insight was its defensive function.",
+   "shortExplanation": "Defensive role.",
+   "pmid": "27227301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "he did not \"discover\" phagocytosis, as is sometimes mentioned in textbooks",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27227301-2-es",
+   "translationKey": "history-27227301-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "¿Cuál fue la verdadera contribución de Metchnikoff sobre la fagocitosis?",
+   "options": [
+    "Descubrió que las células engloban partículas",
+    "Inventó el microscopio",
+    "Le asignó a la fagocitosis el papel de defender al huésped",
+    "Probó que los fagocitos son inútiles"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El englobamiento ya se conocía; su aporte fue reconocer su función defensiva.",
+   "shortExplanation": "Rol defensivo.",
+   "pmid": "27227301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "he did not \"discover\" phagocytosis, as is sometimes mentioned in textbooks",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-19408101-1-en",
+   "translationKey": "history-19408101-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Which theory of antibody formation did Frank Macfarlane Burnet develop?",
+   "options": [
+    "Germ theory",
+    "Clonal selection theory",
+    "Miasma theory",
+    "Spontaneous generation"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Clonal selection explains antibody kinetics, self-tolerance and immunological memory.",
+   "shortExplanation": "Clonal selection.",
+   "pmid": "19408101",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the clonal selection theory",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-19408101-1-es",
+   "translationKey": "history-19408101-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué teoría de la formación de anticuerpos desarrolló Frank Macfarlane Burnet?",
+   "options": [
+    "Teoría microbiana",
+    "Teoría de la selección clonal",
+    "Teoría miasmática",
+    "Generación espontánea"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La selección clonal explica la cinética de anticuerpos, la autotolerancia y la memoria inmunológica.",
+   "shortExplanation": "Selección clonal.",
+   "pmid": "19408101",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the clonal selection theory",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39381489-1-en",
+   "translationKey": "history-39381489-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Who discovered the ABO blood groups in 1901?",
+   "options": [
+    "Karl Landsteiner",
+    "William Harvey",
+    "Louis Pasteur",
+    "Paul Ehrlich"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Landsteiner's ABO discovery explained transfusion reactions and made safe transfusions possible.",
+   "shortExplanation": "Landsteiner.",
+   "pmid": "39381489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "His most famous work was the identification of the ABO blood group system in 1901",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39381489-1-es",
+   "translationKey": "history-39381489-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "¿Quién descubrió los grupos sanguíneos ABO en 1901?",
+   "options": [
+    "Karl Landsteiner",
+    "William Harvey",
+    "Louis Pasteur",
+    "Paul Ehrlich"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El descubrimiento ABO de Landsteiner explicó las reacciones transfusionales e hizo posibles transfusiones seguras.",
+   "shortExplanation": "Landsteiner.",
+   "pmid": "39381489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "His most famous work was the identification of the ABO blood group system in 1901",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39381489-2-en",
+   "translationKey": "history-39381489-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Besides blood groups, what did Landsteiner show in 1908 with Erwin Popper?",
+   "options": [
+    "The structure of DNA",
+    "That penicillin kills bacteria",
+    "That malaria is spread by mosquitoes",
+    "The infectious nature of polio"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Landsteiner and Popper showed poliomyelitis is infectious, laying groundwork for vaccines.",
+   "shortExplanation": "Polio is infectious.",
+   "pmid": "39381489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "His work on the poliovirus in 1908, in collaboration with Erwin Popper, established the infectious nature of the disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39381489-2-es",
+   "translationKey": "history-39381489-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Además de los grupos sanguíneos, ¿qué mostró Landsteiner en 1908 con Erwin Popper?",
+   "options": [
+    "La estructura del ADN",
+    "Que la penicilina mata bacterias",
+    "Que la malaria la transmiten mosquitos",
+    "La naturaleza infecciosa de la polio"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Landsteiner y Popper mostraron que la poliomielitis es infecciosa, base para las vacunas.",
+   "shortExplanation": "Polio infecciosa.",
+   "pmid": "39381489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "His work on the poliovirus in 1908, in collaboration with Erwin Popper, established the infectious nature of the disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39381489-3-en",
+   "translationKey": "history-39381489-3",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Which blood group system did Landsteiner identify in 1940, key to hemolytic disease of the newborn?",
+   "options": [
+    "ABO",
+    "MN",
+    "Rh",
+    "Kell"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The Rh system explained hemolytic disease of the fetus and newborn.",
+   "shortExplanation": "Rh.",
+   "pmid": "39381489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the Rh blood group system in 1940",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39381489-3-es",
+   "translationKey": "history-39381489-3",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué sistema de grupo sanguíneo identificó Landsteiner en 1940, clave en la enfermedad hemolítica del recién nacido?",
+   "options": [
+    "ABO",
+    "MN",
+    "Rh",
+    "Kell"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El sistema Rh explicó la enfermedad hemolítica del feto y del recién nacido.",
+   "shortExplanation": "Rh.",
+   "pmid": "39381489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the Rh blood group system in 1940",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27738915-1-en",
+   "translationKey": "history-27738915-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "What has happened historically after each new antibiotic reached the market?",
+   "options": [
+    "Bacteria disappeared forever",
+    "Resistant germs appeared before long",
+    "No resistance ever appeared",
+    "The antibiotic became a vaccine"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "History shows a constant race between new antibiotics and bacterial resistance.",
+   "shortExplanation": "Resistance followed.",
+   "pmid": "27738915",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Whenever a new antibiotic reached the market it did not take long until scientists observed the first resistant germs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27738915-1-es",
+   "translationKey": "history-27738915-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué ocurrió históricamente después de que cada nuevo antibiótico llegó al mercado?",
+   "options": [
+    "Las bacterias desaparecieron",
+    "Pronto aparecieron gérmenes resistentes",
+    "Nunca hubo resistencia",
+    "El antibiótico se volvió vacuna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La historia muestra una carrera constante entre nuevos antibióticos y resistencia bacteriana.",
+   "shortExplanation": "Siguió la resistencia.",
+   "pmid": "27738915",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Whenever a new antibiotic reached the market it did not take long until scientists observed the first resistant germs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27738915-2-en",
+   "translationKey": "history-27738915-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "How long does it take on average today from discovering a new antibiotic to its launch?",
+   "options": [
+    "A few weeks",
+    "About 1 year",
+    "About 50 years",
+    "About 10–12 years"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "A century ago launches were faster; today development averages 10–12 years.",
+   "shortExplanation": "10–12 years.",
+   "pmid": "27738915",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "where it takes 10-12 years in average between the discovery of a new antibiotic until the launch",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-27738915-2-es",
+   "translationKey": "history-27738915-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuánto tarda hoy en promedio un antibiótico nuevo desde su descubrimiento hasta su lanzamiento?",
+   "options": [
+    "Unas semanas",
+    "Alrededor de 1 año",
+    "Unos 50 años",
+    "Unos 10–12 años"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hace un siglo los lanzamientos eran más rápidos; hoy el desarrollo promedia 10–12 años.",
+   "shortExplanation": "10–12 años.",
+   "pmid": "27738915",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "where it takes 10-12 years in average between the discovery of a new antibiotic until the launch",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-24162573-1-en",
+   "translationKey": "history-24162573-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Selman Waksman won the 1952 Nobel Prize for the discovery of which antibiotic, effective against tuberculosis?",
+   "options": [
+    "Penicillin",
+    "Tetracycline",
+    "Streptomycin",
+    "Vancomycin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Streptomycin, from soil Streptomyces, was the first effective drug against tuberculosis.",
+   "shortExplanation": "Streptomycin.",
+   "pmid": "24162573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "winner of the 1952 Nobel Prize for physiology or medicine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-24162573-1-es",
+   "translationKey": "history-24162573-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Selman Waksman ganó el Nobel de 1952 por descubrir ¿qué antibiótico eficaz contra la tuberculosis?",
+   "options": [
+    "Penicilina",
+    "Tetraciclina",
+    "Estreptomicina",
+    "Vancomicina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La estreptomicina, de Streptomyces del suelo, fue el primer fármaco eficaz contra la tuberculosis.",
+   "shortExplanation": "Estreptomicina.",
+   "pmid": "24162573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "winner of the 1952 Nobel Prize for physiology or medicine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-24162573-2-en",
+   "translationKey": "history-24162573-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Which group of soil microorganisms did Waksman's team systematically screen for antibiotics?",
+   "options": [
+    "Actinomycetes, including Streptomyces",
+    "Yeasts",
+    "Algae",
+    "Protozoa"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Screening actinomycetes—especially Streptomyces—yielded streptomycin and many later antibiotics.",
+   "shortExplanation": "Actinomycetes.",
+   "pmid": "24162573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "his emphasis on the screening of actinomycetes, including the newly named Streptomyces genus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-24162573-2-es",
+   "translationKey": "history-24162573-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué grupo de microorganismos del suelo analizó sistemáticamente el equipo de Waksman en busca de antibióticos?",
+   "options": [
+    "Actinomicetos, incluido Streptomyces",
+    "Levaduras",
+    "Algas",
+    "Protozoos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El cribado de actinomicetos —sobre todo Streptomyces— dio la estreptomicina y muchos antibióticos posteriores.",
+   "shortExplanation": "Actinomicetos.",
+   "pmid": "24162573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "his emphasis on the screening of actinomycetes, including the newly named Streptomyces genus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-15270337-1-en",
+   "translationKey": "history-15270337-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "Which graduate student carried out the crucial test leading to streptomycin and later disputed credit?",
+   "options": [
+    "Howard Florey",
+    "Albert Schatz",
+    "Ernst Chain",
+    "Norman Heatley"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Albert Schatz sued for a share of royalties and recognition; the case remains a debate on scientific credit.",
+   "shortExplanation": "Albert Schatz.",
+   "pmid": "15270337",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "but the lucky one was Albert Schatz",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-15270337-1-es",
+   "translationKey": "history-15270337-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué estudiante de posgrado hizo la prueba clave que llevó a la estreptomicina y luego disputó el crédito?",
+   "options": [
+    "Howard Florey",
+    "Albert Schatz",
+    "Ernst Chain",
+    "Norman Heatley"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Albert Schatz reclamó parte de las regalías y el reconocimiento; el caso sigue siendo un debate sobre el crédito científico.",
+   "shortExplanation": "Albert Schatz.",
+   "pmid": "15270337",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "but the lucky one was Albert Schatz",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-22439833-2-en",
+   "translationKey": "history-22439833-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Besides treating tuberculosis, why is streptomycin's development historically notable?",
+   "options": [
+    "It was the first vaccine",
+    "It was discovered on the Moon",
+    "It cured syphilis",
+    "It included the first use of clinical trials"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Streptomycin's evaluation pioneered the randomized clinical trial.",
+   "shortExplanation": "First clinical trials.",
+   "pmid": "22439833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Streptomycin represents the first drug discovered for the treatment of tuberculosis, and its development included the first use of clinical trials",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-22439833-2-es",
+   "translationKey": "history-22439833-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Además de tratar la tuberculosis, ¿por qué es históricamente notable el desarrollo de la estreptomicina?",
+   "options": [
+    "Fue la primera vacuna",
+    "Se descubrió en la Luna",
+    "Curó la sífilis",
+    "Incluyó el primer uso de ensayos clínicos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La evaluación de la estreptomicina fue pionera del ensayo clínico aleatorizado.",
+   "shortExplanation": "Primeros ensayos clínicos.",
+   "pmid": "22439833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Streptomycin represents the first drug discovered for the treatment of tuberculosis, and its development included the first use of clinical trials",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-19283418-1-en",
+   "translationKey": "history-19283418-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "Which shared experience influenced both Domagk (sulfa drugs) and Fleming (penicillin)?",
+   "options": [
+    "The 1918 flu",
+    "Working in the same lab",
+    "The horrendous wound infections of World War I",
+    "The Black Death"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Both had seen terrible war-wound infections, motivating their search for antibacterials.",
+   "shortExplanation": "WWI wound infections.",
+   "pmid": "19283418",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "were investigated initially by two men, Domagk and Fleming, who had been influenced by the horrendous wound infections of World War I",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-19283418-1-es",
+   "translationKey": "history-19283418-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué experiencia compartida influyó tanto a Domagk (sulfas) como a Fleming (penicilina)?",
+   "options": [
+    "La gripe de 1918",
+    "Trabajar en el mismo laboratorio",
+    "Las terribles infecciones de heridas de la Primera Guerra Mundial",
+    "La peste negra"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Ambos vieron terribles infecciones de heridas de guerra, lo que motivó su búsqueda de antibacterianos.",
+   "shortExplanation": "Heridas de la 1.ª Guerra.",
+   "pmid": "19283418",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "were investigated initially by two men, Domagk and Fleming, who had been influenced by the horrendous wound infections of World War I",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-8724440-1-en",
+   "translationKey": "history-8724440-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Which stain is considered the most important in microbiology, described over a century ago?",
+   "options": [
+    "The Gram stain",
+    "Ziehl-Neelsen",
+    "Giemsa",
+    "India ink"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The Gram stain, described in 1884, separates bacteria by cell wall structure.",
+   "shortExplanation": "Gram stain.",
+   "pmid": "8724440",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Gram stain, the most important stain in microbiology, was described more than a century ago",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-8724440-1-es",
+   "translationKey": "history-8724440-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué tinción se considera la más importante de la microbiología, descrita hace más de un siglo?",
+   "options": [
+    "La tinción de Gram",
+    "Ziehl-Neelsen",
+    "Giemsa",
+    "Tinta china"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La tinción de Gram, descrita en 1884, separa bacterias según la estructura de su pared.",
+   "shortExplanation": "Gram.",
+   "pmid": "8724440",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Gram stain, the most important stain in microbiology, was described more than a century ago",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-8724440-2-en",
+   "translationKey": "history-8724440-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What determines whether a bacterium stains Gram-positive?",
+   "options": [
+    "Its DNA content",
+    "Its shape",
+    "A relatively thick cell wall that retains the crystal violet–iodine complex",
+    "Its flagella"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "A thick wall retains the crystal violet–iodine complex; in gram-negatives the procedure damages the surface and dye is lost.",
+   "shortExplanation": "Thick wall.",
+   "pmid": "8724440",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Gram-stainability is a function of the cell wall and is not related to chemistry of cell constituents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-8724440-2-es",
+   "translationKey": "history-8724440-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué determina que una bacteria se tiña como grampositiva?",
+   "options": [
+    "Su contenido de ADN",
+    "Su forma",
+    "Una pared relativamente gruesa que retiene el complejo cristal violeta–yodo",
+    "Sus flagelos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Una pared gruesa retiene el complejo cristal violeta–yodo; en las gramnegativas el procedimiento daña la superficie y se pierde el colorante.",
+   "shortExplanation": "Pared gruesa.",
+   "pmid": "8724440",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Gram-stainability is a function of the cell wall and is not related to chemistry of cell constituents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39310587-1-en",
+   "translationKey": "history-39310587-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "John Snow is famous for tracing the source of outbreaks of which disease?",
+   "options": [
+    "Plague",
+    "Cholera",
+    "Malaria",
+    "Smallpox"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Snow's mapping of cholera cases helped found modern epidemiology.",
+   "shortExplanation": "Cholera.",
+   "pmid": "39310587",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "His groundbreaking work in tracing the source of cholera outbreaks",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39310587-1-es",
+   "translationKey": "history-39310587-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Por rastrear la fuente de brotes de qué enfermedad es famoso John Snow?",
+   "options": [
+    "Peste",
+    "Cólera",
+    "Malaria",
+    "Viruela"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El mapeo de casos de cólera de Snow ayudó a fundar la epidemiología moderna.",
+   "shortExplanation": "Cólera.",
+   "pmid": "39310587",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "His groundbreaking work in tracing the source of cholera outbreaks",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39310587-2-en",
+   "translationKey": "history-39310587-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Besides epidemiology, in which medical field was John Snow a pioneer?",
+   "options": [
+    "Radiology",
+    "Dentistry",
+    "Anesthesia (ether and chloroform)",
+    "Genetics"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Snow advanced anesthesia with ether and chloroform, improving surgical safety.",
+   "shortExplanation": "Anesthesia.",
+   "pmid": "39310587",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "particularly his work with ether and chloroform",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39310587-2-es",
+   "translationKey": "history-39310587-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Además de la epidemiología, ¿en qué campo médico fue pionero John Snow?",
+   "options": [
+    "Radiología",
+    "Odontología",
+    "Anestesia (éter y cloroformo)",
+    "Genética"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Snow hizo avanzar la anestesia con éter y cloroformo, mejorando la seguridad quirúrgica.",
+   "shortExplanation": "Anestesia.",
+   "pmid": "39310587",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "particularly his work with ether and chloroform",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39429327-1-en",
+   "translationKey": "history-39429327-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Jonas Salk developed the first successful vaccine against which disease?",
+   "options": [
+    "Measles",
+    "Rabies",
+    "Tetanus",
+    "Polio"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Salk's inactivated polio vaccine was announced in 1955.",
+   "shortExplanation": "Polio.",
+   "pmid": "39429327",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the development of the first successful polio vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39429327-1-es",
+   "translationKey": "history-39429327-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Jonas Salk desarrolló la primera vacuna exitosa contra ¿qué enfermedad?",
+   "options": [
+    "Sarampión",
+    "Rabia",
+    "Tétanos",
+    "Polio"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La vacuna inactivada contra la polio de Salk se anunció en 1955.",
+   "shortExplanation": "Polio.",
+   "pmid": "39429327",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the development of the first successful polio vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39429327-2-en",
+   "translationKey": "history-39429327-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "What type of polio vaccine did Salk create?",
+   "options": [
+    "Live oral vaccine",
+    "Inactivated vaccine",
+    "mRNA vaccine",
+    "Toxoid"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Salk's vaccine used inactivated (killed) virus; Sabin later developed a live oral vaccine.",
+   "shortExplanation": "Inactivated.",
+   "pmid": "39429327",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the inactivated polio vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-39429327-2-es",
+   "translationKey": "history-39429327-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipo de vacuna contra la polio creó Salk?",
+   "options": [
+    "Vacuna oral a virus vivo",
+    "Vacuna inactivada",
+    "Vacuna de ARNm",
+    "Toxoide"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La vacuna de Salk usaba virus inactivado (muerto); Sabin luego desarrolló una vacuna oral a virus vivo.",
+   "shortExplanation": "Inactivada.",
+   "pmid": "39429327",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the inactivated polio vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-31991671-1-en",
+   "translationKey": "history-31991671-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "Since when has there been no case of smallpox anywhere in the world?",
+   "options": [
+    "Since 1978",
+    "Since 1800",
+    "Since 2020",
+    "There are still cases every year"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Global vaccination eradicated smallpox, certified by WHO; virus stocks remain in two high-security labs.",
+   "shortExplanation": "1978.",
+   "pmid": "31991671",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "since 1978, there has been no case of smallpox anywhere in the world",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-31991671-1-es",
+   "translationKey": "history-31991671-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "curious",
+   "prompt": "¿Desde cuándo no hay casos de viruela en ningún lugar del mundo?",
+   "options": [
+    "Desde 1978",
+    "Desde 1800",
+    "Desde 2020",
+    "Todavía hay casos cada año"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La vacunación mundial erradicó la viruela, certificada por la OMS; quedan reservas del virus en dos laboratorios de máxima seguridad.",
+   "shortExplanation": "1978.",
+   "pmid": "31991671",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "since 1978, there has been no case of smallpox anywhere in the world",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-22984063-1-en",
+   "translationKey": "history-22984063-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "Which animal disease was the second infectious disease ever eradicated globally, after smallpox?",
+   "options": [
+    "Foot-and-mouth disease",
+    "Rabies",
+    "Anthrax",
+    "Rinderpest"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Rinderpest, a cattle plague, was eradicated thanks to thermostable vaccines and participatory epidemiology.",
+   "shortExplanation": "Rinderpest.",
+   "pmid": "22984063",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rinderpest is only the second infectious disease to have been globally eradicated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-22984063-1-es",
+   "translationKey": "history-22984063-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué enfermedad animal fue la segunda enfermedad infecciosa erradicada del mundo, después de la viruela?",
+   "options": [
+    "Fiebre aftosa",
+    "Rabia",
+    "Carbunco",
+    "Peste bovina"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La peste bovina se erradicó gracias a vacunas termoestables y a la epidemiología participativa.",
+   "shortExplanation": "Peste bovina.",
+   "pmid": "22984063",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rinderpest is only the second infectious disease to have been globally eradicated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-22984063-2-en",
+   "translationKey": "history-22984063-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What were the keys to eradicating rinderpest in remote pastoral areas?",
+   "options": [
+    "Antibiotics and culling all cattle",
+    "A thermostable vaccine and participatory epidemiology with herders",
+    "Fencing all of Africa",
+    "Air-dropped insecticides"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "A vaccine that tolerated heat and working directly with cattle herders allowed targeted control.",
+   "shortExplanation": "Thermostable vaccine + herders.",
+   "pmid": "22984063",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The keys to success were the development of a thermostable vaccine and the application of participatory epidemiological techniques",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-22984063-2-es",
+   "translationKey": "history-22984063-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuáles fueron las claves para erradicar la peste bovina en zonas pastoriles remotas?",
+   "options": [
+    "Antibióticos y sacrificio de todo el ganado",
+    "Una vacuna termoestable y epidemiología participativa con pastores",
+    "Alambrar toda África",
+    "Insecticidas desde aviones"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Una vacuna resistente al calor y el trabajo directo con los pastores permitieron un control dirigido.",
+   "shortExplanation": "Vacuna termoestable + pastores.",
+   "pmid": "22984063",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The keys to success were the development of a thermostable vaccine and the application of participatory epidemiological techniques",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-23607167-1-en",
+   "translationKey": "history-23607167-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "Which veterinary disease did Theobald Smith study experimentally?",
+   "options": [
+    "Mad cow disease",
+    "Bovine mastitis",
+    "Texas cattle fever",
+    "Rinderpest"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Smith's work on Texas cattle fever (babesiosis) was a landmark in understanding vector-borne disease.",
+   "shortExplanation": "Texas cattle fever.",
+   "pmid": "23607167",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "his experimental work on Texas cattle fever",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-23607167-1-es",
+   "translationKey": "history-23607167-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué enfermedad veterinaria estudió experimentalmente Theobald Smith?",
+   "options": [
+    "La vaca loca",
+    "La mastitis bovina",
+    "La fiebre de Texas del ganado",
+    "La peste bovina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El trabajo de Smith sobre la fiebre de Texas (babesiosis) fue un hito en la comprensión de las enfermedades transmitidas por vectores.",
+   "shortExplanation": "Fiebre de Texas.",
+   "pmid": "23607167",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "his experimental work on Texas cattle fever",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-23607167-2-en",
+   "translationKey": "history-23607167-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "What idea is associated with Theobald Smith's 'law of declining virulence'?",
+   "options": [
+    "Pathogens tend to evolve toward harmlessness over long associations",
+    "All pathogens become more lethal",
+    "Virulence never changes",
+    "Only viruses evolve"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "This avirulence model dominated until the 1980s, when trade-off models challenged it.",
+   "shortExplanation": "Toward harmlessness.",
+   "pmid": "23607167",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "law of declining virulence",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-23607167-2-es",
+   "translationKey": "history-23607167-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué idea se asocia a la 'ley de la virulencia decreciente' de Theobald Smith?",
+   "options": [
+    "Los patógenos tienden a volverse inofensivos en asociaciones largas",
+    "Todos se vuelven más letales",
+    "La virulencia nunca cambia",
+    "Solo los virus evolucionan"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Este modelo de avirulencia dominó hasta los años 80, cuando lo desafiaron los modelos de compromiso (trade-off).",
+   "shortExplanation": "Hacia la inocuidad.",
+   "pmid": "23607167",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "law of declining virulence",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-37112668-1-en",
+   "translationKey": "history-37112668-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "How old is rabies as a known disease?",
+   "options": [
+    "It appeared in the 20th century",
+    "It has a history spanning millennia",
+    "It was discovered by Pasteur",
+    "It appeared after vaccines"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Rabies is ancient, linked to the first human–dog interactions; prevention attempts date to the 1st century BC.",
+   "shortExplanation": "Millennia.",
+   "pmid": "37112668",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rabies is a disease of antiquity and has a history spanning millennia ever since the first interactions between humans and dogs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-37112668-1-es",
+   "translationKey": "history-37112668-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué antigüedad tiene la rabia como enfermedad conocida?",
+   "options": [
+    "Apareció en el siglo XX",
+    "Tiene una historia de milenios",
+    "La descubrió Pasteur",
+    "Apareció después de las vacunas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La rabia es antigua, ligada a las primeras interacciones entre humanos y perros; los intentos de prevenirla datan del siglo I a. C.",
+   "shortExplanation": "Milenios.",
+   "pmid": "37112668",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rabies is a disease of antiquity and has a history spanning millennia ever since the first interactions between humans and dogs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-32979306-1-en",
+   "translationKey": "history-32979306-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "Roughly what share of Europe's population did the Black Death kill in the 14th century?",
+   "options": [
+    "About 1%",
+    "About 5%",
+    "More than one third",
+    "Everyone"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The Black Death, caused by Yersinia pestis, killed more than a third of Europe (about 25 million people).",
+   "shortExplanation": "> one third.",
+   "pmid": "32979306",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the bubonic plague or Black Death killed more than one third of Europe",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-32979306-1-es",
+   "translationKey": "history-32979306-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "beginner",
+   "prompt": "¿Aproximadamente qué proporción de la población europea murió por la peste negra en el siglo XIV?",
+   "options": [
+    "Alrededor de 1%",
+    "Alrededor de 5%",
+    "Más de un tercio",
+    "Todos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La peste negra, causada por Yersinia pestis, mató a más de un tercio de Europa (unos 25 millones de personas).",
+   "shortExplanation": "> un tercio.",
+   "pmid": "32979306",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the bubonic plague or Black Death killed more than one third of Europe",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-33298527-1-en",
+   "translationKey": "history-33298527-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "How is plague mainly transmitted between hosts?",
+   "options": [
+    "By infected flea bites",
+    "By mosquito bites",
+    "By drinking water",
+    "By touching coins"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Fleas from rodents transmit Yersinia pestis, causing buboes; inhaled droplets cause pneumonic plague.",
+   "shortExplanation": "Flea bites.",
+   "pmid": "33298527",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transmission from one host to another relies mainly on infected flea bites",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-33298527-1-es",
+   "translationKey": "history-33298527-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se transmite principalmente la peste entre huéspedes?",
+   "options": [
+    "Por picaduras de pulgas infectadas",
+    "Por picaduras de mosquitos",
+    "Por el agua",
+    "Por tocar monedas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las pulgas de roedores transmiten Yersinia pestis y causan bubones; las gotitas inhaladas causan la peste neumónica.",
+   "shortExplanation": "Picadura de pulga.",
+   "pmid": "33298527",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transmission from one host to another relies mainly on infected flea bites",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-33298527-2-en",
+   "translationKey": "history-33298527-2",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "How many historic plague pandemics have been described, the first starting in 541 AD?",
+   "options": [
+    "One",
+    "Ten",
+    "None",
+    "Three"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Three pandemics are recognized: Justinian (541 AD), the Black Death era, and the third, now largely quiescent.",
+   "shortExplanation": "Three.",
+   "pmid": "33298527",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Three historic pandemics, starting in 541 AD and continuing until today, have been described",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-33298527-2-es",
+   "translationKey": "history-33298527-2",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuántas pandemias históricas de peste se describieron, la primera iniciada en el 541 d. C.?",
+   "options": [
+    "Una",
+    "Diez",
+    "Ninguna",
+    "Tres"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Se reconocen tres pandemias: la de Justiniano (541 d. C.), la era de la peste negra y la tercera, hoy en gran parte inactiva.",
+   "shortExplanation": "Tres.",
+   "pmid": "33298527",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Three historic pandemics, starting in 541 AD and continuing until today, have been described",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-33974804-1-en",
+   "translationKey": "history-33974804-1",
+   "language": "en",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "How did microbiology begin, according to this personal history?",
+   "options": [
+    "As a branch of astronomy",
+    "As purely medical practice",
+    "As botany",
+    "As a unified science using chemistry to understand living systems"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "It later split into medical, molecular and environmental subdisciplines, now reconnected by phylogeny and culture-independent methods.",
+   "shortExplanation": "Unified, chemistry-based.",
+   "pmid": "33974804",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Microbiology began as a unified science using the principles of chemistry to understand living systems",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "history-33974804-1-es",
+   "translationKey": "history-33974804-1",
+   "language": "es",
+   "category": "historyOfScience",
+   "difficulty": "expert",
+   "prompt": "¿Cómo comenzó la microbiología según esta historia personal?",
+   "options": [
+    "Como rama de la astronomía",
+    "Como práctica puramente médica",
+    "Como botánica",
+    "Como ciencia unificada que usaba la química para entender los seres vivos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Luego se dividió en medicina, biología molecular y ambiental, hoy reconectadas por la filogenia y los métodos sin cultivo.",
+   "shortExplanation": "Unificada, química.",
+   "pmid": "33974804",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Microbiology began as a unified science using the principles of chemistry to understand living systems",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
