@@ -310,6 +310,7 @@
 "ai.error.guardrail" = "el filtro de seguridad de Apple bloqueó este contenido (puede pasar con temas médicos). Prueba otro artículo o tema.";
 "ai.error.context" = "el texto era demasiado largo para el modelo del iPhone.";
 "ai.error.language" = "el idioma no es compatible. Revisa que Siri y Apple Intelligence usen el mismo idioma que TRINKA.";
+"ai.error.assets" = "el modelo de Apple no está disponible en este dispositivo todavía (sus archivos no se descargaron, o este simulador/Mac no tiene Apple Intelligence). Prueba en un iPhone con Apple Intelligence activado.";
 "ai.error.busy" = "el modelo está ocupado. Espera unos segundos e inténtalo de nuevo.";
 
 "autogen.badge" = "Generada automáticamente";

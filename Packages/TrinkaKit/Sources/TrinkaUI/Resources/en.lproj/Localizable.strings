@@ -310,6 +310,7 @@
 "ai.error.guardrail" = "Apple's safety filter blocked this content (it can happen with medical topics). Try another article or topic.";
 "ai.error.context" = "the text was too long for the on-device model.";
 "ai.error.language" = "the language isn't supported. Check that Siri and Apple Intelligence use the same language as TRINKA.";
+"ai.error.assets" = "Apple's on-device model isn't available on this device yet (its files aren't downloaded, or this simulator/Mac doesn't have Apple Intelligence). Try on an iPhone with Apple Intelligence turned on.";
 "ai.error.busy" = "the model is busy. Wait a few seconds and try again.";
 
 "autogen.badge" = "Generated automatically";

@@ -306,6 +306,7 @@ S = {
 "ai.error.guardrail": ("Apple's safety filter blocked this content (it can happen with medical topics). Try another article or topic.", "el filtro de seguridad de Apple bloqueó este contenido (puede pasar con temas médicos). Prueba otro artículo o tema."),
 "ai.error.context": ("the text was too long for the on-device model.", "el texto era demasiado largo para el modelo del iPhone."),
 "ai.error.language": ("the language isn't supported. Check that Siri and Apple Intelligence use the same language as TRINKA.", "el idioma no es compatible. Revisa que Siri y Apple Intelligence usen el mismo idioma que TRINKA."),
+"ai.error.assets": ("Apple's on-device model isn't available on this device yet (its files aren't downloaded, or this simulator/Mac doesn't have Apple Intelligence). Try on an iPhone with Apple Intelligence turned on.", "el modelo de Apple no está disponible en este dispositivo todavía (sus archivos no se descargaron, o este simulador/Mac no tiene Apple Intelligence). Prueba en un iPhone con Apple Intelligence activado."),
 "ai.error.busy": ("the model is busy. Wait a few seconds and try again.", "el modelo está ocupado. Espera unos segundos e inténtalo de nuevo."),
 "autogen.badge": ("Generated automatically", "Generada automáticamente"),
 "autogen.note": ("Generated automatically: the answer was checked against the abstract, without expert review.", "Generada automáticamente: la respuesta se comprobó con el resumen, sin revisión de expertos."),

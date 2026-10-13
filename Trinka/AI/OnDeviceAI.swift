@@ -81,12 +81,19 @@ enum OnDeviceAI {
             case .exceededContextWindowSize: reason = L10n.tr("ai.error.context")
             case .unsupportedLanguageOrLocale: reason = L10n.tr("ai.error.language")
             case .rateLimited: reason = L10n.tr("ai.error.busy")
-            case .assetsUnavailable: reason = L10n.tr("ai.status.modelNotReady")
+            case .assetsUnavailable: reason = L10n.tr("ai.error.assets")
             default: reason = generationError.localizedDescription
             }
             return "\(reason) (\(detail))"
         }
         #endif
+        // Bridged form: "FoundationModels.LanguageModelSession.GenerationError", code = case index.
+        let nsError = error as NSError
+        if nsError.domain.contains("GenerationError") {
+            let reasons = [0: "ai.error.context", 1: "ai.error.assets", 2: "ai.error.guardrail",
+                           4: "ai.error.language", 6: "ai.error.busy", 7: "ai.error.busy"]
+            if let key = reasons[nsError.code] { return "\(L10n.tr(key)) (code \(nsError.code))" }
+        }
         return detail
     }
 
