@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -7362,6 +7362,386 @@
    "year": 2018,
    "doi": "10.1007/s11356-018-1852-2",
    "abstract": "Antimicrobials have been widely used in food animals for growth promotion since the 1950s. Antimicrobial resistance emerges in animal production settings and frequently spreads to humans through the food chain and direct contact. There have been international efforts to restrict or ban antimicrobials used for both humans and animals. Denmark has taken positive strides in the development of a comprehensive database DANMAP to track antimicrobial usage and resistance. Although food animals are sources of antimicrobial resistance, there is little evidence that antimicrobial resistance originates from food animals. This review comprehensively introduces the history and trends of antimicrobial use, the emergence and spread of antimicrobial resistance in food animals provides suggestions to tackle the problems of the spread of antimicrobial resistance.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32275234",
+   "title": "A review on bovine tuberculosis in India.",
+   "authors": [
+    "Refaya AK",
+    "Bhargavi G",
+    "Mathew NC",
+    "Rajendran A",
+    "Krishnamoorthy R",
+    "Swaminathan S",
+    "Palaniyandi K"
+   ],
+   "journal": "Tuberculosis (Edinburgh, Scotland)",
+   "year": 2020,
+   "doi": "10.1016/j.tube.2020.101923",
+   "abstract": "Bovine tuberculosis (bTB) is a chronic illness in animals, especially in cattle, leading to loss in the productivity and signifies a crucial public health risk. Regardless of the zoonotic threat and significant economic costs associated with the disease, precise estimates of bTB prevalence are deficient in many countries, including India, where national control programs are yet to be instigated. The true burden of the disease remains unknown due to lack of routine surveillance data from most of the developing countries. India is progressing well towards attaining the End TB goal, yet bTB continues to remain largely hidden. Moreover, the paucity of literature on bTB in India might lead to undue complacency and hence has to be scrupulously guarded and prevented from gaining any misconceptions in the minds of the common people. Preventing and controlling bTB at the animal interface is pivotal to evade transmission to human, increase food safety and guard the livelihood of the people. To attain this goal, implementation of strategies based on international norms and a multi-sectoral approach will empower enhanced surveillance and diagnosis of disease in animals and subsequently reduce the risk for humans. As an initiative, we step forward to address this review which briefly summarizes the available data in the literature from early 20th century to date to assess the status of bTB in India. We have discussed in detail, the epidemiology, transmission and diagnosis pertaining to bTB. The review also focuses on the interconnection between the health of people and animal, discuss the preventions and control strategies and recommend the use of vaccination in cattle to reduce the spread of infection among other animals and humans. Implementing One Health approach in India, which recognizes the interdependence of the health of people and animals will help the nation in the fight against TB.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36006301",
+   "title": "Canine Leishmaniasis: Update on Epidemiology, Diagnosis, Treatment, and Prevention.",
+   "authors": [
+    "Morales-Yuste M",
+    "Martín-Sánchez J",
+    "Corpas-Lopez V"
+   ],
+   "journal": "Veterinary sciences",
+   "year": 2022,
+   "doi": "10.3390/vetsci9080387",
+   "abstract": "Dog are the main reservoir of Leishmania infantum, causing canine leishmaniasis, an incurable multisystemic disease that leads to death in symptomatic dogs, when not treated. This parasite causes visceral, cutaneous, and mucosal leishmaniasis in people in the Mediterranean Basin, North Africa, South America, and West Asia. This disease is mostly unknown by veterinarians outside the endemic areas, but the disease is expanding in the Northern Hemisphere due to travel and climate change. New methodologies to study the epidemiology of the disease have found new hosts of leishmaniasis and drawn a completely new picture of the parasite biological cycle. Canine leishmaniasis diagnosis has evolved over the years through the analysis of new samples using novel molecular techniques. Given the neglected nature of leishmaniasis, progress in drug discovery is slow, and the few drugs that reach clinical stages in humans are unlikely to be commercialised for dogs, but several approaches have been developed to support chemotherapy. New-generation vaccines developed during the last decade are now widely used, along with novel prevention strategies. The implications of the epidemiology, diagnosis, treatment, and prevention of canine leishmaniasis are fundamental to public health.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25282321",
+   "title": "Equine influenza virus.",
+   "authors": [
+    "Landolt GA"
+   ],
+   "journal": "The Veterinary clinics of North America. Equine practice",
+   "year": 2014,
+   "doi": "10.1016/j.cveq.2014.08.003",
+   "abstract": "For decades the horse has been viewed as an isolated or \"dead-end\" host for influenza A viruses, with equine influenza virus being considered as relatively stable genetically. Although equine influenza viruses are genetically more stable than those of human lineage, they are by no means in evolutionary stasis. Moreover, recent transmission of equine-lineage influenza viruses to dogs also challenges the horse's status as a dead-end host. This article reviews recent developments in the epidemiology and evolution of equine influenza virus. In addition, the clinical presentation of equine influenza infection, diagnostic techniques, and vaccine recommendations are briefly summarized.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29518049",
+   "title": "Control of Bovine Viral Diarrhea.",
+   "authors": [
+    "Moennig V",
+    "Becher P"
+   ],
+   "journal": "Pathogens (Basel, Switzerland)",
+   "year": 2018,
+   "doi": "10.3390/pathogens7010029",
+   "abstract": "Bovine viral diarrhea (BVD) is one of the most important infectious diseases of cattle with respect to animal health and economic impact. Its stealthy nature, prolonged transient infections, and the presence of persistently infected (PI) animals as efficient reservoirs were responsible for its ubiquitous presence in cattle populations worldwide. Whereas it was initially thought that the infection was impossible to control, effective systematic control strategies have emerged over the last 25 years. The common denominators of all successful control programs were systematic control, removal of PI animals, movement controls for infected herds, strict biosecurity, and surveillance. Scandinavian countries, Austria, and Switzerland successfully implemented these control programs without using vaccination. Vaccination as an optional and additional control tool was used by e.g., Germany, Belgium, Ireland, and Scotland. The economic benefits of BVD control programs had been assessed in different studies.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "21254832",
+   "title": "Current perspectives on Mycobacterium avium subsp. paratuberculosis, Johne's disease, and Crohn's disease: a review.",
+   "authors": [
+    "Over K",
+    "Crandall PG",
+    "O'Bryan CA",
+    "Ricke SC"
+   ],
+   "journal": "Critical reviews in microbiology",
+   "year": 2011,
+   "doi": "10.3109/1040841X.2010.532480",
+   "abstract": "Mycobacterium avium subsp. paratuberculosis (MAP) causes the disease of cattle, Johne's. The economic impact of this disease includes early culling of infected cattle, reduced milk yield, and weight loss of cattle sold for slaughter. There is a possible link between MAP and Crohn's disease, a human inflammatory bowel disease. MAP is also a potential human food borne pathogen because it survives current pasteurization treatments. We review the current knowledge of MAP, Johne's disease and Crohn's disease and note directions for future work with this organism including rapid and economical detection, effective management plans and preventative measures.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36002137",
+   "title": "2022 AAFP/EveryCat Feline Infectious Peritonitis Diagnosis Guidelines.",
+   "authors": [
+    "Thayer V",
+    "Gogolski S",
+    "Felten S",
+    "Hartmann K",
+    "Kennedy M",
+    "Olah GA"
+   ],
+   "journal": "Journal of feline medicine and surgery",
+   "year": 2022,
+   "doi": "10.1177/1098612X221118761",
+   "abstract": "CLINICAL IMPORTANCE: Feline infectious peritonitis (FIP) is one of the most important infectious diseases and causes of death in cats; young cats less than 2 years of age are especially vulnerable. FIP is caused by a feline coronavirus (FCoV). It has been estimated that around 0.3% to 1.4% of feline deaths at veterinary institutions are caused by FIP.\nSCOPE: This document has been developed by a Task Force of experts in feline clinical medicine as the 2022 AAFP/EveryCat Feline Infectious Peritonitis Diagnosis Guidelines to provide veterinarians with essential information to aid their ability to recognize cats presenting with FIP.\nTESTING AND INTERPRETATION: Nearly every small animal veterinary practitioner will see cases. FIP can be challenging to diagnose owing to the lack of pathognomonic clinical signs or laboratory changes, especially when no effusion is present. A good understanding of each diagnostic test's sensitivity, specificity, predictive value, likelihood ratio and diagnostic accuracy is important when building a case for FIP. Before proceeding with any diagnostic test or commercial laboratory profile, the clinician should be able to answer the questions of 'why this test?' and 'what do the results mean?' Ultimately, the approach to diagnosing FIP must be tailored to the specific presentation of the individual cat.\nRELEVANCE: Given that the disease is fatal when untreated, the ability to obtain a correct diagnosis is critical. The clinician must consider the individual patient's history, signalment and comprehensive physical examination findings when selecting diagnostic tests and sample types in order to build the index of suspicion 'brick by brick'. Research has demonstrated efficacy of new antivirals in FIP treatment, but these products are not legally available in many countries at this time. The Task Force encourages veterinarians to review the literature and stay informed on clinical trials and new drug approvals.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "1767471",
+   "title": "Newcastle disease.",
+   "authors": [
+    "Cross GM"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 1991,
+   "doi": "10.1016/s0195-5616(91)50134-0",
+   "abstract": "Since 1926, there have been three epizootics of ND. The latter two have been directly linked with psittacine species and Racing Pigeons. The modern poultry industry is extremely vulnerable to the effects of NDV, once it gains entry to any facet of the industry. Consequently considerable expense and effort are expended to keep the virus at bay. The main threat continues to come from psittacine species and racing pigeons. The considerable international trade in these birds, together with rapid air transport, can allow virulent NDV to gain entry to a country while exotic birds are incubating the disease. It is hoped that quarantine barriers and requirements will prevent the virus from entering a country, but smuggling continues and constitutes the biggest risk. Domestic avian pets are also vulnerable to the virus. It is hoped that new in vitro testing procedures, such as monoclonal antibody and oligonucleotide fingerprinting techniques, may be used to identify rapidly and characterize emergent virulent strains, so that appropriate measures may be taken to prevent infection of commercial poultry and domestic pets.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19837295",
+   "title": "Bluetongue vaccines.",
+   "authors": [
+    "Noad R",
+    "Roy P"
+   ],
+   "journal": "Vaccine",
+   "year": 2009,
+   "doi": "10.1016/j.vaccine.2009.08.037",
+   "abstract": "Once thought largely restricted to India and Africa, the insect-borne livestock pathogen Bluetongue virus is now present on every continent with the exception of Antarctica. Outbreaks of the disease caused by the virus in Europe over the last decade, and the resulting impact on trade and agriculture, have focussed attention on the production of safe and effective vaccines. The determinants of protection for bluetongue are well defined but the variability of the virus, which exists as 24 immunologically distinct serotypes, means that even regions where large numbers of animals have been vaccinated remain at risk from new outbreaks of the virus.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26040450",
+   "title": "The emergence of macrocyclic lactone resistance in the canine heartworm, Dirofilaria immitis.",
+   "authors": [
+    "Wolstenholme AJ",
+    "Evans CC",
+    "Jimenez PD",
+    "Moorhead AR"
+   ],
+   "journal": "Parasitology",
+   "year": 2015,
+   "doi": "10.1017/S003118201500061X",
+   "abstract": "Prevention of heartworm disease caused by Dirofilaria immitis in domestic dogs and cats relies on a single drug class, the macrocyclic lactones (MLs). Recently, it has been demonstrated that ML-resistant D. immitis are circulating in the Mississippi Delta region of the USA, but the prevalence and impact of these resistant parasites remains unknown. We review published studies that demonstrated resistance in D.immitis, along with our current understanding of its mechanisms. Efforts to develop in vitro tests for resistance have not yet yielded a suitable assay, so testing infected animals for microfilariae that persist in the face of ML treatment may be the best current option. Since the vast majority of D. immitis populations continue to be drug-sensitive, protected dogs are likely to be infected with only a few parasites and experience relatively mild disease. In cats, infection with small numbers of worms can cause severe disease and so the clinical consequences of drug resistance may be more severe. Since melarsomine dihydrochloride, the drug used to remove adult worms, is not an ML, the ML-resistance should have no impact on our ability to treat diseased animals. A large refugium of heartworms that are not exposed to drugs exists in unprotected dogs and in wild canids, which may limit the development and spread of resistance alleles.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28749325",
+   "title": "Central and peripheral reservoirs of feline immunodeficiency virus in cats: a review.",
+   "authors": [
+    "Eckstrand CD",
+    "Sparger EE",
+    "Murphy BG"
+   ],
+   "journal": "The Journal of general virology",
+   "year": 2017,
+   "doi": "10.1099/jgv.0.000866",
+   "abstract": "Infection with feline immunodeficiency virus (FIV), a lentivirus similar to human immunodeficiency virus (HIV), results in lifelong viral persistence and progressive immunopathology in the cat. FIV has the ability to infect and produce infectious virus in a number of different cell types. FIV provirus can also be maintained in a replication-competent but transcriptionally quiescent state, facilitating viral persistence over time. Immediately after the initial infection, FIV infection quickly disseminates to many anatomical compartments within the host including lymphoid organs, gastrointestinal tract and brain. Collectively, the anatomic and cellular compartments that harbour FIV provirus constitute the viral reservoir and contain foci of both ongoing viral replication and transcriptionally restricted virus that may persist over time. The relative importance of the different phenotypes observed for infected cells, anatomic compartment, replication status and size of the reservoir represent crucial areas of investigation for developing effective viral suppression and eradication therapies. In this review, we discuss what is currently known about FIV reservoirs, and emphasize the utility of the FIV-infected cat as a model for the HIV-infected human.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30809813",
+   "title": "Diagnosing feline immunodeficiency virus (FIV) and feline leukaemia virus (FeLV) infection: an update for clinicians.",
+   "authors": [
+    "Westman ME",
+    "Malik R",
+    "Norris JM"
+   ],
+   "journal": "Australian veterinary journal",
+   "year": 2019,
+   "doi": "10.1111/avj.12781",
+   "abstract": "With the commercial release in Australia in 2004 of a vaccine against feline immunodeficiency virus (FIV; Fel-O-Vax FIV®), the landscape for FIV diagnostics shifted substantially. Point-of-care (PoC) antibody detection kits, which had been the mainstay for diagnosing FIV infection since the early 1990s, were no longer considered accurate to use in FIV-vaccinated cats, because of the production of vaccine-induced antibodies that were considered indistinguishable from those produced in natural FIV infections. Consequently, attention shifted to alternative diagnostic methods such as nucleic acid detection. However, over the past 5 years we have published a series of studies emphasising that FIV PoC test kits vary in their methodology, resulting in differing accuracy in FIV-vaccinated cats. Importantly, we demonstrated that two commercially available FIV antibody test kits (Witness™ and Anigen Rapid™) were able to accurately distinguish between FIV-vaccinated and FIV-infected cats, concluding that testing with either kit offers an alternative to PCR testing. This review summarises pertinent findings from our work published in a variety of peer-reviewed research journals to inform veterinarians (particularly veterinarians in Australia, New Zealand and Japan, where the FIV vaccine is currently commercially available) about how the approach to the diagnosis of FIV infection has shifted. Included in this review is our work investigating the performance of three commercially available FIV PoC test kits in FIV-vaccinated cats and our recommendations for the diagnosis of FIV infection; the effect of primary FIV vaccination (three FIV vaccines, 4 weeks apart) on PoC test kit performance; our recommendations regarding annual testing of FIV-vaccinated cats to detect 'vaccine breakthroughs'; and the potential off-label use of saliva for the diagnosis of FIV infection using some FIV PoC test kits. We also investigated the accuracy of the same three brands of test kits for feline leukaemia virus (FeLV) diagnosis, using both blood and saliva as diagnostic specimens. Based on these results, we discuss our recommendations for confirmatory testing when veterinarians are presented with a positive FeLV PoC test kit result. Finally, we conclude with our results from the largest and most recent FIV and FeLV seroprevalence study conducted in Australia to date.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33741167",
+   "title": "Scoping review on clinical definition of bovine respiratory disease complex and related clinical signs in dairy cows.",
+   "authors": [
+    "Ferraro S",
+    "Fecteau G",
+    "Dubuc J",
+    "Francoz D",
+    "Rousseau M",
+    "Roy JP",
+    "Buczinski S"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2021,
+   "doi": "10.3168/jds.2020-19471",
+   "abstract": "Bovine respiratory disease complex (BRD) is a worldwide multifactorial infectious disease. Antimicrobials are commonly used for treating BRD because bacteria are often involved. The clinical diagnosis of BRD is a challenge, especially in adult dairy cows, where information on this syndrome is scant. Having a definition based on consistent and reliable clinical signs would improve the accuracy of BRD diagnosis and could help to develop an optimal treatment approach by an early detection. The aim of this scoping review was to review clinical signs that could be recognized by producers in dairy cattle suffering from naturally occurring infectious respiratory disease, as reported in the literature. A review of the literature was performed for articles published between January 1, 1990 and January 1, 2020. The search of literature in English, French, and Italian languages included 2 different databases (Pubmed, https://pubmed.ncbi.nlm.nih.gov/; CAB abstract, https://www.cabi.org/publishing-products/cab-abstracts/). Clinical signs were categorized as follows: (1) \"general manifestations of disease,\" which included behavioral changes or fever; (2) \"alterations in respiratory function,\" which included clinical signs specifically associated with the respiratory tract examination; and (3) \"clinical signs of other body systems,\" which included clinical signs related to other systems such as diarrhea or subcutaneous emphysema. The focus of the review was on clinical signs that could be monitored by animal handlers and producers. A total of 1,067 titles were screened, and 23 studies were finally included. The most common general clinical signs were increased body temperature (reported in 83% of studies, n = 19), change in feed intake (26%, n = 6), altered mentation (22%, n = 5), and decreased milk production (17%, n = 4). The alterations in respiratory function noted were nasal discharge (74%, n = 17), cough (65%, n = 15), altered respiratory dynamic or dyspnea (61%, n = 14), increased respiratory rate (43%, n = 10), and ocular discharge or lacrimation (30%, n = 7). The clinical signs associated with infectious respiratory disease reported in the 23 studies generally lacked a clear description of what constitutes a deviation from normality (0-50% of studies clearly reported what was considered normal versus abnormal depending on the clinical signs). This limitation prevented any comparison between studies that apparently reported the same \"clinical sign,\" but possibly referred to a different assessment and definition of what was considered normal versus abnormal. Therefore, the definition of clinical signs in a repeatable way with validated interobserver agreement to determine the optimal combination for the diagnosis of BRD in dairy cows is needed. This could lead to a more judicious use of antimicrobials for respiratory disease in adult dairy cows.",
+   "publicationTypes": [
+    "Journal Article",
+    "Scoping Review"
+   ]
+  },
+  {
+   "pmid": "36146809",
+   "title": "Porcine Circovirus Type 2 Vaccines: Commercial Application and Research Advances.",
+   "authors": [
+    "Guo J",
+    "Hou L",
+    "Zhou J",
+    "Wang D",
+    "Cui Y",
+    "Feng X",
+    "Liu J"
+   ],
+   "journal": "Viruses",
+   "year": 2022,
+   "doi": "10.3390/v14092005",
+   "abstract": "Porcine circovirus type 2 (PCV2) infection can lead to porcine circovirus-associated disease (PCVAD), causing great economic losses to the global swine industry. Conventional vaccination programs are a major measure in the prevention and control of this disease. Currently, there are 5 commercially available PCV2 vaccines in the international market and 10 kinds commercially available PCV2 vaccines in the Chinese market that confer good efficacy against this virus by alleviating clinicopathological manifestations and enhancing growth performance in pigs. In addition, diverse experimental PCV2 vaccines with protective efficiency have been developed, including attenuated chimeric, nucleic acid, subunit, multivalent, and viral-vectored vaccines. These experimental vaccines have been shown to be relatively effective in improving the efficiency of pig production and simplifying prevention procedures. Adjuvants can be used to promote vaccines with higher protective immunity. Herein, we review the application of multiple commercial vaccines over the years and research advances in experimental vaccines, which provide the possibility for the development of superior vaccines to successfully prevent and control PCV2 infection in the future.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12064254",
+   "title": "Influence of the prion protein gene, Prnp, on scrapie susceptibility in sheep.",
+   "authors": [
+    "Tranulis MA"
+   ],
+   "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+   "year": 2002,
+   "doi": "10.1034/j.1600-0463.2002.100105.x",
+   "abstract": "Natural scrapie in sheep occurs through a complex interplay between host genetic elements and various strains of the infectious scrapie agent. Scrapie-related polymorphisms in the coding region of the prion protein (PrP) gene, Prnp, have been studied in a number of breeds. The disease-promoting V136 allele, and the susceptibility-reducing R171 allele, have proved to be most important. However, variation in the coding region of Prnp cannot alone explain the diverse patterns of scrapie susceptibility in various breeds. For instance, in many breeds plagued with scrapie, the V136 allele appears to be a rarity. The R171 allele greatly reduces scrapie susceptibility This lays the molecular foundation for marker-assisted breeding for reduced scrapie susceptibility now underway in many countries. Although potentially important, and still under investigation, variable expression level and pattern of the ovine Prnp appears to be of little importance for the occurrence of natural scrapie. Studies of scrapie in mice also indicate that genetic elements other than Prnp may have a strong influence on scrapie incubation time, and hence susceptibility. Narrowing down the search to focus on these elements and identification of candidate genes are important tasks for future research in sheep scrapie.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "24694064",
+   "title": "Marek's disease virus and skin interactions.",
+   "authors": [
+    "Couteaudier M",
+    "Denesvre C"
+   ],
+   "journal": "Veterinary research",
+   "year": 2014,
+   "doi": "10.1186/1297-9716-45-36",
+   "abstract": "Marek's disease virus (MDV) is a highly contagious herpesvirus which induces T-cell lymphoma in the chicken. This virus is still spreading in flocks despite forty years of vaccination, with important economical losses worldwide. The feather follicles, which anchor feathers into the skin and allow their morphogenesis, are considered as the unique source of MDV excretion, causing environmental contamination and disease transmission. Epithelial cells from the feather follicles are the only known cells in which high levels of infectious mature virions have been observed by transmission electron microscopy and from which cell-free infectious virions have been purified. Finally, feathers harvested on animals and dust are today considered excellent materials to monitor vaccination, spread of pathogenic viruses, and environmental contamination. This article reviews the current knowledge on MDV-skin interactions and discusses new approaches that could solve important issues in the future.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41472004",
+   "title": "Advances in Infectious Bursal Disease Virus Vaccines-A Review.",
+   "authors": [
+    "Wang W",
+    "Wu J",
+    "Jiang N",
+    "Liang Q",
+    "Liu R",
+    "Fu Q",
+    "Fu G",
+    "Wei T",
+    "Wan C",
+    "Cheng L",
+    "Huang Y",
+    "He X",
+    "Wei P",
+    "Chen H"
+   ],
+   "journal": "Microorganisms",
+   "year": 2025,
+   "doi": "10.3390/microorganisms13122801",
+   "abstract": "Infectious Bursal Disease (IBD) is an immunosuppressive viral disease caused by the Infectious Bursal Disease Virus (IBDV). It primarily affects young chickens, targeting the bursa of Fabricius, and poses significant economic threats to the poultry industry. To date, in addition to strict biosecurity measures, large-scale immunization is the optimal strategy and effective method to prevent and control IBDV infection. The emergence of new variant strains has made it more urgent to develop new vaccination strategies against IBD. Over the past few decades, many high-quality vaccines have been available on the market for the control of IBD, which can provide solid protection against the infections and diseases caused by classic IBDV to very virulent IBDV that had been continuously evolving and were endemic worldwide. However, viruses are not static. As they continue to circulate and evolve in the fields, novel antigenic variant viruses have been emerged in the last few years, and vaccines need to keep up with their pace. Collectively, this review summarizes the strategic evolution of IBDV vaccines from traditional methods to cutting-edge molecular platforms, providing promising strategies for developing the next-generation vaccines with higher safety, efficacy, and the ability to keep pace with the antigenic drift in IBDV.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "9706087",
+   "title": "Infectious bursal disease and hemorrhagic enteritis.",
+   "authors": [
+    "Saif YM"
+   ],
+   "journal": "Poultry science",
+   "year": 1998,
+   "doi": "10.1093/ps/77.8.1186",
+   "abstract": "Infectious bursal disease (IBD) of chickens and hemorrhagic enteritis (HE) of turkeys are caused by infectious bursal disease virus (IBDV) and hemorrhagic enteritis virus (HEV), respectively. Both diseases have common features, including an acute stage followed by immunosuppression, resulting in lowered resistance to a variety of infectious agents and poor response to commonly used vaccines. The IBDV and HEV infections are widespread in commercial chicken and turkey flocks, respectively. The acute stage of the disease, the immunosuppression that follows, and the widespread distribution of both diseases, are major factors contributing to the economic significance of both diseases. The mechanism of immunosuppression for both infections has similarities, both affect lymphocytes and macrophages, and both are lymphocidal. In this report, an overview of both diseases with emphasis on some of the recent findings will be presented. There has been greater research activity on IBD than on HE, reflecting the relative economic importance of the species affected and the recent changes in the antigenic make up and pathogenicity of the IBDV.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29657012",
+   "title": "Antiprotozoal treatment of canine babesiosis.",
+   "authors": [
+    "Baneth G"
+   ],
+   "journal": "Veterinary parasitology",
+   "year": 2018,
+   "doi": "10.1016/j.vetpar.2018.03.001",
+   "abstract": "Canine babesiosis is a tick-borne disease caused by several Babesia spp. which have different susceptebility to anti-protozoal drugs. A few drugs and drug combinations are used in the treatment of canine babesiosis often without complete parasite elimination leaving treated dogs as carriers which could relapse with clinical disease and also transmit infection further. Although the large form canine babesial species Babesia canis, Babesia vogeli and Babesia rossi are sensitive to the aromatic diamidines imidocarb dipropionate and diminazene aceturate, small form species such as Babesia gibsoni, Babesia conradae and Babesia vulpes (Theileria annae) are relatively resistant to these drugs and are treated with the combination of the hydroxynaphthoquinone atovaquone and the antibiotic azithromycin. Azithromycin and other antibiotics that have anti-protozoal properties target the apicoplast, a relict plastid found in protozoa, and exert a delayed death effect. The triple combination of clindamycin, diminazene aceturate and imidocarb dipropionate is also effective against B. gibsoni and used to treat atovaquone-resistant strains of this species. Novel drugs and the synergistic effects of drug combinations against Babesia infection should be explored further to find new treatments for canine babesiosis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "38811129",
+   "title": "Lumpy Skin Disease.",
+   "authors": [
+    "Di Giuseppe A",
+    "Zenobio V",
+    "Dall'Acqua F",
+    "Di Sabatino D",
+    "Calistri P"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2024,
+   "doi": "10.1016/j.cvfa.2024.01.002",
+   "abstract": "Lumpy skin disease (LSD) is a contagious non-zoonotic viral disease of cattle. The disease raises great concern due to the recent rapid spread toward free countries and reoccurrence in countries where control and preventive measures had achieved eradication. Deep nodules involving skin, subcutaneous tissue, and occasionally muscles are localized mostly in the head, neck, perineum, genitalia, udder, and limbs. LSD can cause large economic losses mainly because of the decline in milk production and the decrease in hide value, in addition to the ban of movement of animals and animal products.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32653984",
+   "title": "Peste des petits ruminants in Africa: a review of currently available molecular epidemiological data, 2020.",
+   "authors": [
+    "Dundon WG",
+    "Diallo A",
+    "Cattoli G"
+   ],
+   "journal": "Archives of virology",
+   "year": 2020,
+   "doi": "10.1007/s00705-020-04732-1",
+   "abstract": "Small ruminants (e.g., sheep and goats) contribute considerably to the cash income and nutrition of small farmers in most countries in Africa and Asia. Their husbandry is threatened by the highly infectious transboundary viral disease peste des petits ruminants (PPR) caused by peste-des-petits-ruminants virus (PPRV). Given its social and economic impact, PPR is presently being targeted by international organizations for global eradication by 2030. Since its first description in Côte d'Ivoire in 1942, and particularly over the last 10 years, a large amount of molecular epidemiological data on the virus have been generated in Africa. This review aims to consolidate these data in order to have a clearer picture of the current PPR situation in Africa, which will, in turn, assist authorities in global eradication attempts.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33946292",
+   "title": "A Review on the Methods Used for the Detection and Diagnosis of Rabbit Hemorrhagic Disease Virus (RHDV).",
+   "authors": [
+    "Abrantes J",
+    "Lopes AM"
+   ],
+   "journal": "Microorganisms",
+   "year": 2021,
+   "doi": "10.3390/microorganisms9050972",
+   "abstract": "Since the early 1980s, the European rabbit (Oryctolagus cuniculus) has been threatened by the rabbit hemorrhagic disease (RHD). The disease is caused by a lagovirus of the family Caliciviridae, the rabbit hemorrhagic disease virus (RHDV). The need for detection, identification and further characterization of RHDV led to the development of several diagnostic tests. Owing to the lack of an appropriate cell culture system for in vitro propagation of the virus, much of the methods involved in these tests contributed to our current knowledge on RHD and RHDV and to the development of vaccines to contain the disease. Here, we provide a comprehensive review of the RHDV diagnostic tests used since the first RHD outbreak and that include molecular, histological and serological techniques, ranging from simpler tests initially used, such as the hemagglutination test, to the more recent and sophisticated high-throughput sequencing, along with an overview of their potential and their limitations.",
    "publicationTypes": [
     "Journal Article",
     "Review"
@@ -48982,6 +49362,1974 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Antimicrobial resistance emerges in animal production settings and frequently spreads to humans through the food chain and direct contact",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32275234-1-en",
+   "translationKey": "vet-32275234-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Which animals are mainly affected by bovine tuberculosis?",
+   "options": [
+    "Poultry",
+    "Fish",
+    "Cattle",
+    "Bees"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Bovine tuberculosis is a chronic disease mainly of cattle that reduces productivity and is a zoonotic risk.",
+   "shortExplanation": "Cattle.",
+   "pmid": "32275234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine tuberculosis (bTB) is a chronic illness in animals, especially in cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32275234-1-es",
+   "translationKey": "vet-32275234-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Qué animales se ven afectados principalmente por la tuberculosis bovina?",
+   "options": [
+    "Aves de corral",
+    "Peces",
+    "Bovinos",
+    "Abejas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La tuberculosis bovina es una enfermedad crónica sobre todo del ganado bovino que reduce la productividad y es un riesgo zoonótico.",
+   "shortExplanation": "Bovinos.",
+   "pmid": "32275234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine tuberculosis (bTB) is a chronic illness in animals, especially in cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32275234-2-en",
+   "translationKey": "vet-32275234-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What does the 'One Health' approach recognize?",
+   "options": [
+    "That human and animal health are interdependent",
+    "That animals never transmit disease to humans",
+    "That only doctors should control TB",
+    "That vaccines are unnecessary"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "One Health links human, animal and environmental health; controlling bTB in cattle protects people too.",
+   "shortExplanation": "Shared health.",
+   "pmid": "32275234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Implementing One Health approach in India, which recognizes the interdependence of the health of people and animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32275234-2-es",
+   "translationKey": "vet-32275234-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué reconoce el enfoque 'Una Salud'?",
+   "options": [
+    "Que la salud humana y la animal son interdependientes",
+    "Que los animales nunca transmiten enfermedades a las personas",
+    "Que solo los médicos deben controlar la TB",
+    "Que las vacunas no hacen falta"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Una Salud vincula la salud humana, animal y ambiental; controlar la TB bovina en el ganado también protege a las personas.",
+   "shortExplanation": "Salud compartida.",
+   "pmid": "32275234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Implementing One Health approach in India, which recognizes the interdependence of the health of people and animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32275234-3-en",
+   "translationKey": "vet-32275234-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why does controlling tuberculosis in cattle matter for people?",
+   "options": [
+    "It lowers the price of meat",
+    "It prevents zoonotic transmission and improves food safety",
+    "It cures human tuberculosis",
+    "It has no effect on humans"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Control at the animal interface prevents transmission to humans and improves food safety and livelihoods.",
+   "shortExplanation": "Zoonosis and food safety.",
+   "pmid": "32275234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Preventing and controlling bTB at the animal interface is pivotal to evade transmission to human, increase food safety",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32275234-3-es",
+   "translationKey": "vet-32275234-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué controlar la tuberculosis en el ganado importa para las personas?",
+   "options": [
+    "Baja el precio de la carne",
+    "Previene la transmisión zoonótica y mejora la inocuidad alimentaria",
+    "Cura la tuberculosis humana",
+    "No tiene efecto en humanos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El control en la interfaz animal evita la transmisión a humanos y mejora la inocuidad de los alimentos y los medios de vida.",
+   "shortExplanation": "Zoonosis e inocuidad.",
+   "pmid": "32275234",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Preventing and controlling bTB at the animal interface is pivotal to evade transmission to human, increase food safety",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36006301-1-en",
+   "translationKey": "vet-36006301-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which animal is the main reservoir of Leishmania infantum?",
+   "options": [
+    "The cat",
+    "The cow",
+    "The horse",
+    "The dog"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Dogs are the main reservoir of L. infantum, which causes visceral, cutaneous and mucosal leishmaniasis in people.",
+   "shortExplanation": "Dog.",
+   "pmid": "36006301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Dog are the main reservoir of Leishmania infantum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36006301-1-es",
+   "translationKey": "vet-36006301-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué animal es el principal reservorio de Leishmania infantum?",
+   "options": [
+    "El gato",
+    "La vaca",
+    "El caballo",
+    "El perro"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El perro es el principal reservorio de L. infantum, que causa leishmaniasis visceral, cutánea y mucosa en personas.",
+   "shortExplanation": "Perro.",
+   "pmid": "36006301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Dog are the main reservoir of Leishmania infantum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36006301-2-en",
+   "translationKey": "vet-36006301-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why is canine leishmaniasis expanding to new northern areas?",
+   "options": [
+    "Travel and climate change",
+    "Fewer dogs worldwide",
+    "New antibiotics",
+    "Better sanitation"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Travel of dogs and climate change favoring sand-fly vectors are expanding the disease.",
+   "shortExplanation": "Travel and climate.",
+   "pmid": "36006301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the disease is expanding in the Northern Hemisphere due to travel and climate change",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36006301-2-es",
+   "translationKey": "vet-36006301-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la leishmaniasis canina se expande a nuevas zonas del norte?",
+   "options": [
+    "Por los viajes y el cambio climático",
+    "Porque hay menos perros",
+    "Por nuevos antibióticos",
+    "Por mejor saneamiento"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los viajes con perros y el cambio climático que favorece a los flebótomos vectores expanden la enfermedad.",
+   "shortExplanation": "Viajes y clima.",
+   "pmid": "36006301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the disease is expanding in the Northern Hemisphere due to travel and climate change",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36006301-3-en",
+   "translationKey": "vet-36006301-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which statement about canine leishmaniasis is correct?",
+   "options": [
+    "It only affects the skin",
+    "It is always cured with one dose",
+    "It is a multisystemic, incurable disease that is fatal in symptomatic untreated dogs",
+    "It is not zoonotic"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Canine leishmaniasis is multisystemic and incurable; treatment controls it and vaccines plus vector prevention reduce risk.",
+   "shortExplanation": "Multisystemic, incurable.",
+   "pmid": "36006301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "an incurable multisystemic disease that leads to death in symptomatic dogs, when not treated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36006301-3-es",
+   "translationKey": "vet-36006301-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué afirmación sobre la leishmaniasis canina es correcta?",
+   "options": [
+    "Solo afecta la piel",
+    "Siempre se cura con una dosis",
+    "Es multisistémica e incurable, y mortal en perros sintomáticos sin tratamiento",
+    "No es zoonótica"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La leishmaniasis canina es multisistémica e incurable; el tratamiento la controla y las vacunas y la prevención del vector reducen el riesgo.",
+   "shortExplanation": "Multisistémica, incurable.",
+   "pmid": "36006301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "an incurable multisystemic disease that leads to death in symptomatic dogs, when not treated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25282321-1-en",
+   "translationKey": "vet-25282321-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why is the horse no longer considered a 'dead-end' host for influenza?",
+   "options": [
+    "Horses are immune to influenza",
+    "Equine influenza viruses have been transmitted to dogs",
+    "Horses cannot be vaccinated",
+    "Equine influenza is a bacterium"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Equine-lineage influenza A jumped to dogs (canine influenza H3N8), showing horses can be a source for other species.",
+   "shortExplanation": "Spread to dogs.",
+   "pmid": "25282321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "recent transmission of equine-lineage influenza viruses to dogs also challenges the horse's status as a dead-end host",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25282321-1-es",
+   "translationKey": "vet-25282321-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué el caballo ya no se considera un huésped 'sin salida' para la influenza?",
+   "options": [
+    "Los caballos son inmunes a la influenza",
+    "Virus de influenza equina se transmitieron a perros",
+    "No se puede vacunar a los caballos",
+    "La influenza equina es una bacteria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La influenza A de linaje equino pasó a los perros (influenza canina H3N8), lo que muestra que el caballo puede ser fuente para otras especies.",
+   "shortExplanation": "Pasó a perros.",
+   "pmid": "25282321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "recent transmission of equine-lineage influenza viruses to dogs also challenges the horse's status as a dead-end host",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25282321-2-en",
+   "translationKey": "vet-25282321-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How does the genetic evolution of equine influenza compare with human influenza?",
+   "options": [
+    "It evolves faster",
+    "It never changes",
+    "It is a DNA virus",
+    "It is more stable but still evolves"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Equine influenza is genetically more stable than human lineages but still evolves, which matters for vaccine strain updates.",
+   "shortExplanation": "Slower but evolving.",
+   "pmid": "25282321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Although equine influenza viruses are genetically more stable than those of human lineage, they are by no means in evolutionary stasis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25282321-2-es",
+   "translationKey": "vet-25282321-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se compara la evolución genética de la influenza equina con la humana?",
+   "options": [
+    "Evoluciona más rápido",
+    "Nunca cambia",
+    "Es un virus ADN",
+    "Es más estable pero igual evoluciona"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La influenza equina es genéticamente más estable que los linajes humanos pero sigue evolucionando, lo que importa para actualizar las cepas vacunales.",
+   "shortExplanation": "Más lenta pero evoluciona.",
+   "pmid": "25282321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Although equine influenza viruses are genetically more stable than those of human lineage, they are by no means in evolutionary stasis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29518049-1-en",
+   "translationKey": "vet-29518049-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "In bovine viral diarrhea, which animals act as efficient reservoirs of the virus?",
+   "options": [
+    "Vaccinated adult bulls",
+    "Recovered calves",
+    "Persistently infected (PI) animals",
+    "Wild birds"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Persistently infected cattle shed BVD virus throughout life and keep it circulating in herds.",
+   "shortExplanation": "PI animals.",
+   "pmid": "29518049",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the presence of persistently infected (PI) animals as efficient reservoirs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29518049-1-es",
+   "translationKey": "vet-29518049-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "En la diarrea viral bovina, ¿qué animales actúan como reservorios eficientes del virus?",
+   "options": [
+    "Toros adultos vacunados",
+    "Terneros recuperados",
+    "Animales persistentemente infectados (PI)",
+    "Aves silvestres"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los bovinos persistentemente infectados eliminan el virus de la DVB toda la vida y lo mantienen circulando en los rodeos.",
+   "shortExplanation": "Animales PI.",
+   "pmid": "29518049",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the presence of persistently infected (PI) animals as efficient reservoirs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29518049-2-en",
+   "translationKey": "vet-29518049-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which measures were common to all successful BVD control programs?",
+   "options": [
+    "Removal of PI animals, movement controls, biosecurity and surveillance",
+    "Antibiotic treatment of all cattle",
+    "Only vaccination",
+    "Killing all wild deer"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Successful programs removed PI animals, controlled movements, enforced biosecurity and did surveillance; vaccination was optional.",
+   "shortExplanation": "Remove PI animals.",
+   "pmid": "29518049",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "removal of PI animals, movement controls for infected herds, strict biosecurity, and surveillance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29518049-2-es",
+   "translationKey": "vet-29518049-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué medidas compartieron todos los programas exitosos de control de la DVB?",
+   "options": [
+    "Eliminar animales PI, controlar movimientos, bioseguridad y vigilancia",
+    "Tratar con antibióticos a todo el ganado",
+    "Solo vacunar",
+    "Sacrificar todos los ciervos silvestres"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los programas exitosos eliminaron animales PI, controlaron movimientos, aplicaron bioseguridad y vigilancia; la vacunación fue opcional.",
+   "shortExplanation": "Eliminar animales PI.",
+   "pmid": "29518049",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "removal of PI animals, movement controls for infected herds, strict biosecurity, and surveillance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29518049-3-en",
+   "translationKey": "vet-29518049-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What did Scandinavian countries show about BVD control?",
+   "options": [
+    "It is impossible without vaccines",
+    "It can succeed without vaccination",
+    "It requires antibiotics",
+    "It only works in sheep"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Scandinavia, Austria and Switzerland controlled BVD without vaccination, using PI removal, movement control and surveillance.",
+   "shortExplanation": "No vaccine needed.",
+   "pmid": "29518049",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Scandinavian countries, Austria, and Switzerland successfully implemented these control programs without using vaccination",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29518049-3-es",
+   "translationKey": "vet-29518049-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué demostraron los países escandinavos sobre el control de la DVB?",
+   "options": [
+    "Que es imposible sin vacunas",
+    "Que puede lograrse sin vacunar",
+    "Que requiere antibióticos",
+    "Que solo funciona en ovinos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Escandinavia, Austria y Suiza controlaron la DVB sin vacunar, eliminando animales PI, controlando movimientos y con vigilancia.",
+   "shortExplanation": "Sin vacuna.",
+   "pmid": "29518049",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Scandinavian countries, Austria, and Switzerland successfully implemented these control programs without using vaccination",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21254832-1-en",
+   "translationKey": "vet-21254832-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What causes Johne's disease in cattle?",
+   "options": [
+    "Brucella abortus",
+    "Mycobacterium bovis",
+    "Clostridium perfringens",
+    "Mycobacterium avium subsp. paratuberculosis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MAP causes Johne's disease (paratuberculosis), with reduced milk yield, weight loss and early culling.",
+   "shortExplanation": "MAP.",
+   "pmid": "21254832",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mycobacterium avium subsp. paratuberculosis (MAP) causes the disease of cattle, Johne's",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21254832-1-es",
+   "translationKey": "vet-21254832-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué causa la enfermedad de Johne en bovinos?",
+   "options": [
+    "Brucella abortus",
+    "Mycobacterium bovis",
+    "Clostridium perfringens",
+    "Mycobacterium avium subsp. paratuberculosis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MAP causa la enfermedad de Johne (paratuberculosis), con menor producción de leche, pérdida de peso y descarte temprano.",
+   "shortExplanation": "MAP.",
+   "pmid": "21254832",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mycobacterium avium subsp. paratuberculosis (MAP) causes the disease of cattle, Johne's",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21254832-2-en",
+   "translationKey": "vet-21254832-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which human disease has been possibly linked to the agent of Johne's disease?",
+   "options": [
+    "Crohn's disease",
+    "Malaria",
+    "Diabetes type 2",
+    "Asthma"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "A possible link between MAP and Crohn's disease is under study; MAP may also survive pasteurization.",
+   "shortExplanation": "Crohn's.",
+   "pmid": "21254832",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "There is a possible link between MAP and Crohn's disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21254832-2-es",
+   "translationKey": "vet-21254832-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué enfermedad humana se ha vinculado posiblemente con el agente de la enfermedad de Johne?",
+   "options": [
+    "La enfermedad de Crohn",
+    "La malaria",
+    "La diabetes tipo 2",
+    "El asma"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Se estudia un posible vínculo entre MAP y la enfermedad de Crohn; además MAP podría sobrevivir a la pasteurización.",
+   "shortExplanation": "Crohn.",
+   "pmid": "21254832",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "There is a possible link between MAP and Crohn's disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21254832-3-en",
+   "translationKey": "vet-21254832-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why is MAP considered a potential foodborne pathogen?",
+   "options": [
+    "It produces a heat-stable toxin in meat",
+    "It grows in frozen foods",
+    "It can survive current pasteurization treatments of milk",
+    "It is found in honey"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "MAP's resistance allows it to survive pasteurization, making it a potential milk-borne human pathogen.",
+   "shortExplanation": "Survives pasteurization.",
+   "pmid": "21254832",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it survives current pasteurization treatments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21254832-3-es",
+   "translationKey": "vet-21254832-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué MAP se considera un posible patógeno transmitido por alimentos?",
+   "options": [
+    "Produce una toxina termoestable en la carne",
+    "Crece en alimentos congelados",
+    "Puede sobrevivir a la pasteurización de la leche",
+    "Se encuentra en la miel"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La resistencia de MAP le permite sobrevivir a la pasteurización, por lo que es un posible patógeno humano transmitido por la leche.",
+   "shortExplanation": "Sobrevive a la pasteurización.",
+   "pmid": "21254832",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it survives current pasteurization treatments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36002137-1-en",
+   "translationKey": "vet-36002137-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What causes feline infectious peritonitis (FIP)?",
+   "options": [
+    "A bacterium",
+    "A feline coronavirus",
+    "A fungus",
+    "A tapeworm"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "FIP is caused by feline coronavirus and is one of the most important infectious causes of death in cats.",
+   "shortExplanation": "Feline coronavirus.",
+   "pmid": "36002137",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "FIP is caused by a feline coronavirus (FCoV)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36002137-1-es",
+   "translationKey": "vet-36002137-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué causa la peritonitis infecciosa felina (PIF)?",
+   "options": [
+    "Una bacteria",
+    "Un coronavirus felino",
+    "Un hongo",
+    "Una tenia"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La PIF es causada por el coronavirus felino y es una de las causas infecciosas de muerte más importantes en gatos.",
+   "shortExplanation": "Coronavirus felino.",
+   "pmid": "36002137",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "FIP is caused by a feline coronavirus (FCoV)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36002137-2-en",
+   "translationKey": "vet-36002137-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which cats are especially vulnerable to FIP?",
+   "options": [
+    "Young cats under 2 years old",
+    "Cats over 15 years old only",
+    "Only outdoor male cats",
+    "Only vaccinated cats"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cats younger than 2 years are particularly at risk of FIP.",
+   "shortExplanation": "Young cats.",
+   "pmid": "36002137",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "young cats less than 2 years of age are especially vulnerable",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36002137-2-es",
+   "translationKey": "vet-36002137-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué gatos son especialmente vulnerables a la PIF?",
+   "options": [
+    "Gatos jóvenes de menos de 2 años",
+    "Solo gatos de más de 15 años",
+    "Solo machos que salen",
+    "Solo gatos vacunados"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los gatos menores de 2 años tienen un riesgo particular de PIF.",
+   "shortExplanation": "Gatos jóvenes.",
+   "pmid": "36002137",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "young cats less than 2 years of age are especially vulnerable",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36002137-3-en",
+   "translationKey": "vet-36002137-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why is FIP difficult to diagnose?",
+   "options": [
+    "It always causes jaundice",
+    "A single blood test confirms it",
+    "It only affects dogs",
+    "There are no pathognomonic signs or lab changes, especially without effusion"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Diagnosis is built 'brick by brick' from history, signalment, exam and test interpretation, particularly in the non-effusive form.",
+   "shortExplanation": "No pathognomonic signs.",
+   "pmid": "36002137",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "FIP can be challenging to diagnose owing to the lack of pathognomonic clinical signs or laboratory changes, especially when no effusion is present",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36002137-3-es",
+   "translationKey": "vet-36002137-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué es difícil diagnosticar la PIF?",
+   "options": [
+    "Siempre causa ictericia",
+    "Un solo análisis la confirma",
+    "Solo afecta a perros",
+    "No hay signos ni cambios de laboratorio patognomónicos, sobre todo sin derrame"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El diagnóstico se construye 'ladrillo a ladrillo' con historia, reseña, examen e interpretación de pruebas, sobre todo en la forma no efusiva.",
+   "shortExplanation": "Sin signos patognomónicos.",
+   "pmid": "36002137",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "FIP can be challenging to diagnose owing to the lack of pathognomonic clinical signs or laboratory changes, especially when no effusion is present",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1767471-1-en",
+   "translationKey": "vet-1767471-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "According to this review, what is the main source of virulent Newcastle disease virus entering a country?",
+   "options": [
+    "Imported beef",
+    "Wild deer",
+    "Psittacine birds and racing pigeons",
+    "Farmed fish"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "International trade (and smuggling) of psittacines and racing pigeons can introduce virulent NDV while birds incubate the disease.",
+   "shortExplanation": "Parrots and pigeons.",
+   "pmid": "1767471",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The main threat continues to come from psittacine species and racing pigeons",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1767471-1-es",
+   "translationKey": "vet-1767471-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Según esta revisión, ¿cuál es la principal fuente de ingreso del virus virulento de Newcastle a un país?",
+   "options": [
+    "Carne vacuna importada",
+    "Ciervos silvestres",
+    "Psitácidas y palomas mensajeras",
+    "Peces de criadero"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El comercio internacional (y el contrabando) de psitácidas y palomas mensajeras puede introducir el VEN mientras las aves incuban la enfermedad.",
+   "shortExplanation": "Loros y palomas.",
+   "pmid": "1767471",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The main threat continues to come from psittacine species and racing pigeons",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1767471-2-en",
+   "translationKey": "vet-1767471-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What is the biggest risk for introducing Newcastle disease despite quarantine?",
+   "options": [
+    "Smuggling of birds",
+    "Vaccinating chickens",
+    "Eating cooked eggs",
+    "Cold weather"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Quarantine barriers help, but smuggled birds remain the biggest risk for introducing NDV.",
+   "shortExplanation": "Smuggling.",
+   "pmid": "1767471",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "smuggling continues and constitutes the biggest risk",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1767471-2-es",
+   "translationKey": "vet-1767471-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es el mayor riesgo de introducir la enfermedad de Newcastle pese a la cuarentena?",
+   "options": [
+    "El contrabando de aves",
+    "Vacunar pollos",
+    "Comer huevos cocidos",
+    "El frío"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las barreras de cuarentena ayudan, pero las aves de contrabando siguen siendo el mayor riesgo de introducir el VEN.",
+   "shortExplanation": "Contrabando.",
+   "pmid": "1767471",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "smuggling continues and constitutes the biggest risk",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19837295-1-en",
+   "translationKey": "vet-19837295-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "How is bluetongue virus transmitted?",
+   "options": [
+    "By drinking water",
+    "By insects",
+    "By eating meat",
+    "By air across long distances only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Bluetongue is an insect-borne (Culicoides midge) virus of ruminants now present on every continent except Antarctica.",
+   "shortExplanation": "Insects.",
+   "pmid": "19837295",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the insect-borne livestock pathogen Bluetongue virus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19837295-1-es",
+   "translationKey": "vet-19837295-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se transmite el virus de la lengua azul?",
+   "options": [
+    "Por el agua de bebida",
+    "Por insectos",
+    "Por comer carne",
+    "Solo por aire a grandes distancias"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La lengua azul es un virus de rumiantes transmitido por insectos (jejenes Culicoides), presente hoy en todos los continentes salvo la Antártida.",
+   "shortExplanation": "Insectos.",
+   "pmid": "19837295",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the insect-borne livestock pathogen Bluetongue virus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19837295-2-en",
+   "translationKey": "vet-19837295-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why can vaccinated regions still suffer new bluetongue outbreaks?",
+   "options": [
+    "The vaccine contains live bacteria",
+    "Animals cannot make antibodies",
+    "The virus is only in Antarctica",
+    "The virus exists as many immunologically distinct serotypes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "With 24 distinct serotypes, protection against one serotype may not cover a newly introduced one.",
+   "shortExplanation": "Many serotypes.",
+   "pmid": "19837295",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which exists as 24 immunologically distinct serotypes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19837295-2-es",
+   "translationKey": "vet-19837295-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué regiones vacunadas pueden sufrir nuevos brotes de lengua azul?",
+   "options": [
+    "La vacuna contiene bacterias vivas",
+    "Los animales no generan anticuerpos",
+    "El virus solo está en la Antártida",
+    "El virus tiene muchos serotipos inmunológicamente distintos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Con 24 serotipos distintos, la protección contra uno puede no cubrir a otro recién introducido.",
+   "shortExplanation": "Muchos serotipos.",
+   "pmid": "19837295",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which exists as 24 immunologically distinct serotypes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26040450-1-en",
+   "translationKey": "vet-26040450-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which parasite causes heartworm disease in dogs and cats?",
+   "options": [
+    "Toxocara canis",
+    "Giardia",
+    "Dirofilaria immitis",
+    "Toxoplasma gondii"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Heartworm disease is caused by Dirofilaria immitis; prevention relies on macrocyclic lactones.",
+   "shortExplanation": "Dirofilaria immitis.",
+   "pmid": "26040450",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prevention of heartworm disease caused by Dirofilaria immitis in domestic dogs and cats relies on a single drug class, the macrocyclic lactones",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26040450-1-es",
+   "translationKey": "vet-26040450-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué parásito causa la dirofilariosis cardiopulmonar (gusano del corazón) en perros y gatos?",
+   "options": [
+    "Toxocara canis",
+    "Giardia",
+    "Dirofilaria immitis",
+    "Toxoplasma gondii"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El gusano del corazón es Dirofilaria immitis; su prevención se basa en las lactonas macrocíclicas.",
+   "shortExplanation": "Dirofilaria immitis.",
+   "pmid": "26040450",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prevention of heartworm disease caused by Dirofilaria immitis in domestic dogs and cats relies on a single drug class, the macrocyclic lactones",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26040450-2-en",
+   "translationKey": "vet-26040450-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How does heartworm infection in cats differ from dogs?",
+   "options": [
+    "A few worms can cause severe disease in cats",
+    "Cats are never infected",
+    "Cats need many worms to get sick",
+    "Cats only carry it in the gut"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cats can develop severe disease with very few worms, so resistance to preventives may matter more for them.",
+   "shortExplanation": "Few worms, severe.",
+   "pmid": "26040450",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In cats, infection with small numbers of worms can cause severe disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26040450-2-es",
+   "translationKey": "vet-26040450-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿En qué difiere la dirofilariosis en gatos respecto de perros?",
+   "options": [
+    "Pocos gusanos pueden causar enfermedad grave en gatos",
+    "Los gatos nunca se infectan",
+    "Los gatos necesitan muchos gusanos para enfermar",
+    "En gatos solo está en el intestino"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los gatos pueden enfermar gravemente con muy pocos gusanos, por lo que la resistencia a los preventivos les afecta más.",
+   "shortExplanation": "Pocos gusanos, grave.",
+   "pmid": "26040450",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In cats, infection with small numbers of worms can cause severe disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26040450-3-en",
+   "translationKey": "vet-26040450-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why does macrocyclic lactone resistance not affect treatment of adult heartworms?",
+   "options": [
+    "Adult worms die on their own",
+    "The adulticide melarsomine is not a macrocyclic lactone",
+    "Surgery is the only treatment",
+    "Ivermectin kills adults instantly"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Melarsomine, the adulticide, belongs to a different drug class, so ML resistance affects prevention, not adulticide therapy.",
+   "shortExplanation": "Melarsomine.",
+   "pmid": "26040450",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Since melarsomine dihydrochloride, the drug used to remove adult worms, is not an ML",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26040450-3-es",
+   "translationKey": "vet-26040450-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué la resistencia a lactonas macrocíclicas no afecta el tratamiento de los gusanos adultos?",
+   "options": [
+    "Los adultos mueren solos",
+    "El adulticida melarsomina no es una lactona macrocíclica",
+    "La cirugía es el único tratamiento",
+    "La ivermectina mata adultos al instante"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La melarsomina, adulticida, pertenece a otra clase de fármaco, así que la resistencia afecta la prevención, no la terapia adulticida.",
+   "shortExplanation": "Melarsomina.",
+   "pmid": "26040450",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Since melarsomine dihydrochloride, the drug used to remove adult worms, is not an ML",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28749325-1-en",
+   "translationKey": "vet-28749325-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Feline immunodeficiency virus (FIV) is similar to which human virus?",
+   "options": [
+    "Influenza",
+    "Measles virus",
+    "Hepatitis A virus",
+    "HIV"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "FIV is a lentivirus like HIV, causing lifelong persistence and progressive immune damage in cats; it is a model for HIV.",
+   "shortExplanation": "HIV.",
+   "pmid": "28749325",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a lentivirus similar to human immunodeficiency virus (HIV)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28749325-1-es",
+   "translationKey": "vet-28749325-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "El virus de la inmunodeficiencia felina (VIF) es similar a ¿qué virus humano?",
+   "options": [
+    "Influenza",
+    "Sarampión",
+    "Hepatitis A",
+    "VIH"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El VIF es un lentivirus como el VIH, que persiste de por vida y daña progresivamente la inmunidad del gato; es modelo del VIH.",
+   "shortExplanation": "VIH.",
+   "pmid": "28749325",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a lentivirus similar to human immunodeficiency virus (HIV)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30809813-1-en",
+   "translationKey": "vet-30809813-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why did FIV vaccination complicate point-of-care antibody tests?",
+   "options": [
+    "The vaccine destroys the test kits",
+    "Vaccine-induced antibodies were thought indistinguishable from infection antibodies",
+    "Vaccinated cats lose all antibodies",
+    "The vaccine causes FeLV"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Vaccine-induced antibodies could give false positives, shifting attention to PCR, though some kits do distinguish vaccinated from infected cats.",
+   "shortExplanation": "Vaccine antibodies.",
+   "pmid": "30809813",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "because of the production of vaccine-induced antibodies that were considered indistinguishable from those produced in natural FIV infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30809813-1-es",
+   "translationKey": "vet-30809813-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué la vacunación contra el VIF complicó los tests rápidos de anticuerpos?",
+   "options": [
+    "La vacuna destruye los kits",
+    "Se creía que los anticuerpos vacunales eran indistinguibles de los de la infección",
+    "Los gatos vacunados pierden todos los anticuerpos",
+    "La vacuna causa FeLV"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los anticuerpos vacunales podían dar falsos positivos, lo que llevó a usar PCR, aunque algunos kits sí distinguen vacunados de infectados.",
+   "shortExplanation": "Anticuerpos vacunales.",
+   "pmid": "30809813",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "because of the production of vaccine-induced antibodies that were considered indistinguishable from those produced in natural FIV infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33741167-1-en",
+   "translationKey": "vet-33741167-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What was the most commonly reported general clinical sign of bovine respiratory disease in dairy cows?",
+   "options": [
+    "Lameness",
+    "Hair loss",
+    "Increased body temperature (fever)",
+    "Blindness"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Fever was the most common general sign (83% of studies), followed by changes in feed intake and altered mentation.",
+   "shortExplanation": "Fever.",
+   "pmid": "33741167",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most common general clinical signs were increased body temperature",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33741167-1-es",
+   "translationKey": "vet-33741167-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál fue el signo clínico general más informado de la enfermedad respiratoria bovina en vacas lecheras?",
+   "options": [
+    "Cojera",
+    "Caída de pelo",
+    "Aumento de la temperatura corporal (fiebre)",
+    "Ceguera"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La fiebre fue el signo general más frecuente (83% de los estudios), seguida de cambios en el consumo y alteración del estado mental.",
+   "shortExplanation": "Fiebre.",
+   "pmid": "33741167",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most common general clinical signs were increased body temperature",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33741167-2-en",
+   "translationKey": "vet-33741167-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Why are antimicrobials commonly used for bovine respiratory disease?",
+   "options": [
+    "Because bacteria are often involved",
+    "Because it is caused by worms",
+    "Because they prevent lameness",
+    "Because they increase milk fat"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "BRD is multifactorial, but bacteria are often involved, so antimicrobials are common; better diagnosis limits overuse.",
+   "shortExplanation": "Bacteria involved.",
+   "pmid": "33741167",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antimicrobials are commonly used for treating BRD because bacteria are often involved",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33741167-2-es",
+   "translationKey": "vet-33741167-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Por qué se usan antimicrobianos con frecuencia en la enfermedad respiratoria bovina?",
+   "options": [
+    "Porque a menudo intervienen bacterias",
+    "Porque la causan gusanos",
+    "Porque previenen cojeras",
+    "Porque aumentan la grasa de la leche"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La ERB es multifactorial, pero suelen intervenir bacterias, por lo que se usan antimicrobianos; un mejor diagnóstico limita el uso excesivo.",
+   "shortExplanation": "Intervienen bacterias.",
+   "pmid": "33741167",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antimicrobials are commonly used for treating BRD because bacteria are often involved",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36146809-1-en",
+   "translationKey": "vet-36146809-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What is a major measure to control porcine circovirus type 2 (PCV2) disease?",
+   "options": [
+    "Antibiotics in feed",
+    "Vaccination programs",
+    "Culling all sows",
+    "Heat treatment of pens only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "PCV2 vaccines reduce clinicopathological signs and improve growth performance in pigs.",
+   "shortExplanation": "Vaccination.",
+   "pmid": "36146809",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Conventional vaccination programs are a major measure in the prevention and control of this disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36146809-1-es",
+   "translationKey": "vet-36146809-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es una medida principal para controlar el circovirus porcino tipo 2 (PCV2)?",
+   "options": [
+    "Antibióticos en el alimento",
+    "Programas de vacunación",
+    "Sacrificar todas las cerdas",
+    "Solo calor en los corrales"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las vacunas contra PCV2 reducen los signos clínico-patológicos y mejoran el crecimiento de los cerdos.",
+   "shortExplanation": "Vacunación.",
+   "pmid": "36146809",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Conventional vaccination programs are a major measure in the prevention and control of this disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-12064254-1-en",
+   "translationKey": "vet-12064254-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which prion protein gene allele greatly reduces scrapie susceptibility in sheep?",
+   "options": [
+    "V136",
+    "Q171",
+    "R171",
+    "A136"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "R171 reduces susceptibility while V136 promotes disease; this underpins breeding for scrapie resistance.",
+   "shortExplanation": "R171.",
+   "pmid": "12064254",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The R171 allele greatly reduces scrapie susceptibility",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-12064254-1-es",
+   "translationKey": "vet-12064254-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué alelo del gen de la proteína priónica reduce mucho la susceptibilidad al scrapie en ovinos?",
+   "options": [
+    "V136",
+    "Q171",
+    "R171",
+    "A136"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "R171 reduce la susceptibilidad y V136 la favorece; esto sustenta la selección genética para resistencia al scrapie.",
+   "shortExplanation": "R171.",
+   "pmid": "12064254",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The R171 allele greatly reduces scrapie susceptibility",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-12064254-2-en",
+   "translationKey": "vet-12064254-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "How is knowledge of Prnp alleles used to control scrapie?",
+   "options": [
+    "Marker-assisted breeding for reduced susceptibility",
+    "Antibiotic therapy",
+    "Vaccination of lambs",
+    "Tick control"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Selecting sheep with resistant Prnp genotypes reduces scrapie susceptibility in flocks.",
+   "shortExplanation": "Genetic selection.",
+   "pmid": "12064254",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This lays the molecular foundation for marker-assisted breeding for reduced scrapie susceptibility",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-12064254-2-es",
+   "translationKey": "vet-12064254-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Cómo se usa el conocimiento de los alelos de Prnp para controlar el scrapie?",
+   "options": [
+    "Selección asistida por marcadores para menor susceptibilidad",
+    "Terapia antibiótica",
+    "Vacunación de corderos",
+    "Control de garrapatas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Seleccionar ovinos con genotipos Prnp resistentes reduce la susceptibilidad al scrapie en las majadas.",
+   "shortExplanation": "Selección genética.",
+   "pmid": "12064254",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This lays the molecular foundation for marker-assisted breeding for reduced scrapie susceptibility",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-24694064-1-en",
+   "translationKey": "vet-24694064-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What disease does Marek's disease virus cause in chickens?",
+   "options": [
+    "Diarrhea",
+    "Respiratory infection only",
+    "Egg drop syndrome",
+    "T-cell lymphoma"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MDV is a herpesvirus that causes T-cell lymphoma in chickens and keeps spreading despite vaccination.",
+   "shortExplanation": "T-cell lymphoma.",
+   "pmid": "24694064",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a highly contagious herpesvirus which induces T-cell lymphoma in the chicken",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-24694064-1-es",
+   "translationKey": "vet-24694064-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué enfermedad causa el virus de Marek en gallinas?",
+   "options": [
+    "Diarrea",
+    "Solo infección respiratoria",
+    "Síndrome de caída de postura",
+    "Linfoma de células T"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El virus de Marek es un herpesvirus que causa linfoma T en gallinas y sigue difundiéndose pese a la vacunación.",
+   "shortExplanation": "Linfoma T.",
+   "pmid": "24694064",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a highly contagious herpesvirus which induces T-cell lymphoma in the chicken",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-24694064-2-en",
+   "translationKey": "vet-24694064-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How is Marek's disease virus shed into the environment?",
+   "options": [
+    "In eggs",
+    "From feather follicle epithelium, via feathers and dust",
+    "In drinking water only",
+    "Through mosquito bites"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Feather follicle epithelium is the source of infectious virions; feathers and dust are used to monitor spread and vaccination.",
+   "shortExplanation": "Feather follicles.",
+   "pmid": "24694064",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The feather follicles, which anchor feathers into the skin and allow their morphogenesis, are considered as the unique source of MDV excretion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-24694064-2-es",
+   "translationKey": "vet-24694064-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se elimina el virus de Marek al ambiente?",
+   "options": [
+    "En los huevos",
+    "Desde el epitelio del folículo plumoso, vía plumas y polvo",
+    "Solo por el agua de bebida",
+    "Por picaduras de mosquitos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El epitelio del folículo plumoso es la fuente de viriones infecciosos; plumas y polvo se usan para vigilar la difusión y la vacunación.",
+   "shortExplanation": "Folículos plumosos.",
+   "pmid": "24694064",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The feather follicles, which anchor feathers into the skin and allow their morphogenesis, are considered as the unique source of MDV excretion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-41472004-1-en",
+   "translationKey": "vet-41472004-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which organ does infectious bursal disease virus target in young chickens?",
+   "options": [
+    "The bursa of Fabricius",
+    "The liver",
+    "The comb",
+    "The oviduct"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "IBDV targets the bursa of Fabricius (the avian B-cell organ), causing immunosuppression.",
+   "shortExplanation": "Bursa of Fabricius.",
+   "pmid": "41472004",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "targeting the bursa of Fabricius",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-41472004-1-es",
+   "translationKey": "vet-41472004-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué órgano ataca el virus de la enfermedad infecciosa de la bolsa en pollos jóvenes?",
+   "options": [
+    "La bolsa de Fabricio",
+    "El hígado",
+    "La cresta",
+    "El oviducto"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El IBDV ataca la bolsa de Fabricio (órgano de los linfocitos B en aves) y causa inmunosupresión.",
+   "shortExplanation": "Bolsa de Fabricio.",
+   "pmid": "41472004",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "targeting the bursa of Fabricius",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-9706087-1-en",
+   "translationKey": "vet-9706087-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why is the immunosuppression caused by infectious bursal disease economically important?",
+   "options": [
+    "It increases egg size",
+    "It improves feed conversion",
+    "It lowers resistance to other infections and reduces response to vaccines",
+    "It only affects turkeys"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "After the acute stage, IBD leaves birds immunosuppressed, more susceptible to other pathogens and poorly responsive to vaccines.",
+   "shortExplanation": "Secondary infections, vaccine failure.",
+   "pmid": "9706087",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resulting in lowered resistance to a variety of infectious agents and poor response to commonly used vaccines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-9706087-1-es",
+   "translationKey": "vet-9706087-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué la inmunosupresión de la enfermedad infecciosa de la bolsa es económicamente importante?",
+   "options": [
+    "Aumenta el tamaño del huevo",
+    "Mejora la conversión alimenticia",
+    "Baja la resistencia a otras infecciones y la respuesta a las vacunas",
+    "Solo afecta pavos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Tras la fase aguda, la IBD deja aves inmunosuprimidas, más susceptibles a otros patógenos y con mala respuesta vacunal.",
+   "shortExplanation": "Infecciones secundarias, fallas vacunales.",
+   "pmid": "9706087",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resulting in lowered resistance to a variety of infectious agents and poor response to commonly used vaccines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29657012-1-en",
+   "translationKey": "vet-29657012-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "How is canine babesiosis transmitted?",
+   "options": [
+    "By mosquitoes",
+    "By ticks",
+    "By contaminated food",
+    "By bites from other dogs only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Canine babesiosis is a tick-borne protozoal disease caused by several Babesia species.",
+   "shortExplanation": "Ticks.",
+   "pmid": "29657012",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Canine babesiosis is a tick-borne disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29657012-1-es",
+   "translationKey": "vet-29657012-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se transmite la babesiosis canina?",
+   "options": [
+    "Por mosquitos",
+    "Por garrapatas",
+    "Por alimentos contaminados",
+    "Solo por mordeduras de otros perros"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La babesiosis canina es una enfermedad protozoaria transmitida por garrapatas y causada por varias especies de Babesia.",
+   "shortExplanation": "Garrapatas.",
+   "pmid": "29657012",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Canine babesiosis is a tick-borne disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29657012-2-en",
+   "translationKey": "vet-29657012-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Small Babesia species such as B. gibsoni are typically treated with:",
+   "options": [
+    "Imidocarb alone",
+    "Ivermectin",
+    "Doxycycline alone",
+    "Atovaquone plus azithromycin"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Large Babesia respond to imidocarb or diminazene; small forms like B. gibsoni are relatively resistant and treated with atovaquone plus azithromycin.",
+   "shortExplanation": "Atovaquone + azithromycin.",
+   "pmid": "29657012",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "are treated with the combination of the hydroxynaphthoquinone atovaquone and the antibiotic azithromycin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29657012-2-es",
+   "translationKey": "vet-29657012-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Las Babesia pequeñas como B. gibsoni se tratan típicamente con:",
+   "options": [
+    "Imidocarb solo",
+    "Ivermectina",
+    "Doxiciclina sola",
+    "Atovacuona más azitromicina"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las Babesia grandes responden a imidocarb o diminazeno; las pequeñas como B. gibsoni son relativamente resistentes y se tratan con atovacuona más azitromicina.",
+   "shortExplanation": "Atovacuona + azitromicina.",
+   "pmid": "29657012",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "are treated with the combination of the hydroxynaphthoquinone atovaquone and the antibiotic azithromycin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38811129-1-en",
+   "translationKey": "vet-38811129-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What is lumpy skin disease?",
+   "options": [
+    "A contagious viral disease of cattle that does not infect humans",
+    "A fungal disease of horses",
+    "A bacterial disease of chickens",
+    "A human allergy"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "LSD is a contagious, non-zoonotic viral disease of cattle with deep skin nodules and major economic losses.",
+   "shortExplanation": "Viral cattle disease.",
+   "pmid": "38811129",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lumpy skin disease (LSD) is a contagious non-zoonotic viral disease of cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38811129-1-es",
+   "translationKey": "vet-38811129-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué es la dermatosis nodular contagiosa (lumpy skin disease)?",
+   "options": [
+    "Una enfermedad viral contagiosa de bovinos que no infecta a humanos",
+    "Una micosis de caballos",
+    "Una enfermedad bacteriana de pollos",
+    "Una alergia humana"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Es una enfermedad viral contagiosa y no zoonótica de bovinos, con nódulos profundos en la piel y grandes pérdidas económicas.",
+   "shortExplanation": "Viral bovina.",
+   "pmid": "38811129",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lumpy skin disease (LSD) is a contagious non-zoonotic viral disease of cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38811129-2-en",
+   "translationKey": "vet-38811129-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why does lumpy skin disease cause large economic losses?",
+   "options": [
+    "It makes meat toxic",
+    "It kills all calves at birth",
+    "Lower milk production, damaged hides and movement bans",
+    "It contaminates water"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Losses come from reduced milk, lower hide value and bans on moving animals and their products.",
+   "shortExplanation": "Milk, hides, trade.",
+   "pmid": "38811129",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "mainly because of the decline in milk production and the decrease in hide value",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38811129-2-es",
+   "translationKey": "vet-38811129-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la dermatosis nodular contagiosa causa grandes pérdidas económicas?",
+   "options": [
+    "Vuelve tóxica la carne",
+    "Mata a todos los terneros al nacer",
+    "Menor producción de leche, cueros dañados y prohibición de movimientos",
+    "Contamina el agua"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las pérdidas vienen de menos leche, cueros de menor valor y prohibición de mover animales y productos.",
+   "shortExplanation": "Leche, cueros, comercio.",
+   "pmid": "38811129",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "mainly because of the decline in milk production and the decrease in hide value",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32653984-1-en",
+   "translationKey": "vet-32653984-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which animal disease is targeted for global eradication by 2030?",
+   "options": [
+    "Rabies",
+    "Foot-and-mouth disease",
+    "Avian influenza",
+    "Peste des petits ruminants"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "PPR, a viral disease of sheep and goats first described in Côte d'Ivoire in 1942, is targeted for eradication by 2030.",
+   "shortExplanation": "PPR.",
+   "pmid": "32653984",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PPR is presently being targeted by international organizations for global eradication by 2030",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32653984-1-es",
+   "translationKey": "vet-32653984-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué enfermedad animal tiene como meta su erradicación mundial para 2030?",
+   "options": [
+    "La rabia",
+    "La fiebre aftosa",
+    "La influenza aviar",
+    "La peste de los pequeños rumiantes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La PPR, enfermedad viral de ovejas y cabras descrita en Costa de Marfil en 1942, tiene meta de erradicación para 2030.",
+   "shortExplanation": "PPR.",
+   "pmid": "32653984",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PPR is presently being targeted by international organizations for global eradication by 2030",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33946292-1-en",
+   "translationKey": "vet-33946292-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What limitation shaped the diagnostic methods for rabbit hemorrhagic disease virus?",
+   "options": [
+    "It is too large to see",
+    "There is no appropriate cell culture system to grow it",
+    "It only infects hares",
+    "It is a bacterium"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Without a cell culture system for RHDV, diagnosis relied on hemagglutination, serology, histology and molecular methods.",
+   "shortExplanation": "No cell culture.",
+   "pmid": "33946292",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Owing to the lack of an appropriate cell culture system for in vitro propagation of the virus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33946292-1-es",
+   "translationKey": "vet-33946292-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué limitación condicionó los métodos diagnósticos del virus de la enfermedad hemorrágica del conejo?",
+   "options": [
+    "Es demasiado grande para verlo",
+    "No existe un cultivo celular adecuado para propagarlo",
+    "Solo infecta liebres",
+    "Es una bacteria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sin un sistema de cultivo celular para el RHDV, el diagnóstico se basó en hemaglutinación, serología, histología y métodos moleculares.",
+   "shortExplanation": "Sin cultivo celular.",
+   "pmid": "33946292",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Owing to the lack of an appropriate cell culture system for in vitro propagation of the virus",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   }
