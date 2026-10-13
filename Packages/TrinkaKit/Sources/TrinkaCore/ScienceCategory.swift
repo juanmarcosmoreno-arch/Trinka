@@ -19,6 +19,7 @@ public enum ScienceCategory: String, CaseIterable, Codable, Hashable, Identifiab
     case diagnosticMethods
     case foodAnalysis
     case historyOfScience
+    case bovineMastitis
 
     public var id: String { rawValue }
 
@@ -42,6 +43,7 @@ public enum ScienceCategory: String, CaseIterable, Codable, Hashable, Identifiab
         case .diagnosticMethods: "stethoscope"
         case .foodAnalysis: "fork.knife"
         case .historyOfScience: "building.columns"
+        case .bovineMastitis: "drop.fill"
         }
     }
 
@@ -62,6 +64,7 @@ public enum ScienceCategory: String, CaseIterable, Codable, Hashable, Identifiab
         case .diagnosticMethods: "\"Diagnostic Techniques and Procedures\"[MeSH] OR \"Clinical Laboratory Techniques\"[MeSH]"
         case .foodAnalysis: "\"Food Analysis\"[MeSH] OR \"Food Microbiology\"[MeSH] OR \"Food Safety\"[MeSH]"
         case .historyOfScience: "\"History of Medicine\"[MeSH] OR \"Science/history\"[MeSH]"
+        case .bovineMastitis: "\"Mastitis, Bovine\"[MeSH]"
         }
     }
 }

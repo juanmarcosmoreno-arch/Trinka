@@ -121,7 +121,7 @@ public enum Achievement: String, CaseIterable, Codable, Hashable, Identifiable, 
         switch self {
         case .firstDiscovery: 1
         case .curiousMind: 50
-        case .scienceExplorer: ScienceCategory.allCases.count
+        case .scienceExplorer: 10
         case .sevenDayStreak: 7
         case .microbiologyMaster: 15
         case .researchEnthusiast: 10

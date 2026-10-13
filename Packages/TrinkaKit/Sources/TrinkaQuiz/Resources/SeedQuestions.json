@@ -1,5 +1,5 @@
 {
- "version": 16,
+ "version": 17,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -3447,6 +3447,556 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK441946"
+  },
+  {
+   "pmid": "33509059",
+   "title": "Advances in therapeutic and managemental approaches of bovine mastitis: a comprehensive review.",
+   "authors": [
+    "Sharun K",
+    "Dhama K",
+    "Tiwari R",
+    "Gugjoo MB",
+    "Iqbal Yatoo M",
+    "Patel SK",
+    "Pathak M",
+    "Karthik K",
+    "Khurana SK",
+    "Singh R",
+    "Puvvala B",
+    "Amarpal",
+    "Singh R",
+    "Singh KP",
+    "Chaicumpa W"
+   ],
+   "journal": "The veterinary quarterly",
+   "year": 2021,
+   "doi": "10.1080/01652176.2021.1882713",
+   "abstract": "Mastitis (intramammary inflammation) caused by infectious pathogens is still considered a devastating condition of dairy animals affecting animal welfare as well as economically incurring huge losses to the dairy industry by means of decreased production performance and increased culling rates. Bovine mastitis is the inflammation of the mammary glands/udder of bovines, caused by bacterial pathogens, in most cases. Routine diagnosis is based on clinical and subclinical forms of the disease. This underlines the significance of early and rapid identification/detection of etiological agents at the farm level, for which several diagnostic techniques have been developed. Therapeutic regimens such as antibiotics, immunotherapy, bacteriocins, bacteriophages, antimicrobial peptides, probiotics, stem cell therapy, native secretory factors, nutritional, dry cow and lactation therapy, genetic selection, herbs, and nanoparticle technology-based therapy have been evaluated for their efficacy in the treatment of mastitis. Even though several strategies have been developed over the years for the purpose of managing both clinical and subclinical forms of mastitis, all of them lacked the efficacy to eliminate the associated etiological agent when used as a monotherapy. Further, research has to be directed towards the development of new therapeutic agents/techniques that can both replace conventional techniques and also solve the problem of emerging antibiotic resistance. The objective of the present review is to describe the etiological agents, pathogenesis, and diagnosis in brief along with an extensive discussion on the advances in the treatment and management of mastitis, which would help safeguard the health of dairy animals.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32051050",
+   "title": "Causes, types, etiological agents, prevalence, diagnosis, treatment, prevention, effects on human health and future aspects of bovine mastitis.",
+   "authors": [
+    "Ashraf A",
+    "Imran M"
+   ],
+   "journal": "Animal health research reviews",
+   "year": 2020,
+   "doi": "10.1017/S1466252319000094",
+   "abstract": "Mastitis is among the most common and challenging diseases of dairy animals. It is an inflammation of udder tissues due to physical damage, chemical irritation, or infection caused by certain pathogens. Bovine mastitis has been known for ages, but its complex etiology and multi-factorial nature make it difficult to control. Mastitis may have a negative impact on human health by inducing antibiotic-resistant pathogens that may spread, which is threatening. Researchers are continuously struggling to devise suitable methods for mastitis control. Management strategies are mainly focused on disease prevention by farm management which includes proper hygiene, trained staff to monitor minor changes in the udder or milk, and better diagnostic and treatment methods. New technologies which have the potential to unravel this complicated disease include improved diagnostic tools, based on advanced genomics or proteomics, prevention, based on vaccines and immune modulators, and metabolic products of probiotics such as bacteriocins and gene therapy.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37547227",
+   "title": "Bovine mastitis, a worldwide impact disease: Prevalence, antimicrobial resistance, and viable alternative approaches.",
+   "authors": [
+    "Morales-Ubaldo AL",
+    "Rivero-Perez N",
+    "Valladares-Carranza B",
+    "Velázquez-Ordoñez V",
+    "Delgadillo-Ruiz L",
+    "Zaragoza-Bastida A"
+   ],
+   "journal": "Veterinary and animal science",
+   "year": 2023,
+   "doi": "10.1016/j.vas.2023.100306",
+   "abstract": "Bovine mastitis is globally considered one of the most important diseases within dairy herds, mainly due to the associated economic losses. The most prevalent etiology are bacteria, classified into contagious and environmental, with Staphylococcus aureus, Streptococcus agalactiae, Streptococcus uberis, Escherichia coli and Klebsiella pneumoniae being the most common pathogens associated with mastitis cases. To date these pathogens are resistant to the most common active ingredients used for mastitis treatment. According to recent studies resistance to new antimicrobials has increased, which is why developing of alternative treatments is imperative. Therefore the present review aims to summarize the reports about bovine mastitis along 10 years, emphasizing bacterial etiology, its epidemiology, and the current situation of antimicrobial resistance, as well as the development of alternative treatments for this pathology. Analyzed data showed that the prevalence of major pathogens associated with bovine mastitis varied according to geographical region. Moreover, these pathogens are classified as multidrug-resistant, since the effectiveness of antimicrobials on them has decreased. To date, several studies have focused on the research of alternative treatments, among them vegetal extracts, essential oils, or peptides. Some other works have reported the application of nanotechnology and polymers against bacteria associated with bovine mastitis. Results demonstrated that these alternatives may be effective on bacteria associated with bovine mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "8242453",
+   "title": "Contagious mastitis.",
+   "authors": [
+    "Fox LK",
+    "Gay JM"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 1993,
+   "doi": "10.1016/s0749-0720(15)30615-0",
+   "abstract": "Contagious mastitis is defined. The major mastitis pathogens are Streptococcus agalactiae, Staphylococcus aureus, Corynebacterium bovis, Mycoplasma sp, and Streptococcus dysgalactiae. These pathogens are discussed relative to prevalence, virulence factors, pathology, and control. These control measures include milking time hygiene, segregation, culling, vaccination, and treatment.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29083115",
+   "title": "An update on environmental mastitis: Challenging perceptions.",
+   "authors": [
+    "Klaas IC",
+    "Zadoks RN"
+   ],
+   "journal": "Transboundary and emerging diseases",
+   "year": 2018,
+   "doi": "10.1111/tbed.12704",
+   "abstract": "Environmental mastitis is the most common and costly form of mastitis in modern dairy herds where contagious transmission of intramammary pathogens is controlled through implementation of standard mastitis prevention programmes. Environmental mastitis can be caused by a wide range of bacterial species, and binary classification of species as contagious or environmental is misleading, particularly for Staphylococcus aureus, Streptococcus uberis and other streptococcal species, including Streptococcus agalactiae. Bovine faeces, the indoor environment and used pasture are major sources of mastitis pathogens, including Escherichia coli and S. uberis. A faeco-oral transmission cycle may perpetuate and amplify the presence of such pathogens, including Klebsiella pneumoniae and S. agalactiae. Because of societal pressure to reduce reliance on antimicrobials as tools for mastitis control, management of environmental mastitis will increasingly need to be based on prevention. This requires a reduction in environmental exposure through bedding, pasture and pre-milking management and enhancement of the host response to bacterial challenge. Efficacious vaccines are available to reduce the impact of coliform mastitis, but vaccine development for gram-positive mastitis has not progressed beyond the \"promising\" stage for decades. Improved diagnostic tools to identify causative agents and transmission patterns may contribute to targeted use of antimicrobials and intervention measures. The most important tool for improved uptake of known mastitis prevention measures is communication. Development of better technical or biological tools for management of environmental mastitis must be accompanied by development of appropriate incentives and communication strategies for farmers and veterinarians, who may be confronted with government-mandated antimicrobial use targets if voluntary reduction is not implemented.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "22664204",
+   "title": "Managing environmental mastitis.",
+   "authors": [
+    "Hogan J",
+    "Smith KL"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2012,
+   "doi": "10.1016/j.cvfa.2012.03.009",
+   "abstract": "Many of the practices and principals of management for reducing the exposure of dairy cows to environmental mastitis pathogens were introduced a quarter of a century ago22–25 and have been the subject of numerous reviews.1,3,21 The common theme for reducing mastitis pathogens in the cows’ environment is reducing moisture and organic contamination.1 Frequent manure removal, avoiding overstocking of cows, taking precautions to eliminate stagnant water around cows, and providing clean, dry inorganic bedding for cows to lay on are important management considerations. These factors of environmental hygiene transcend stall barns, manure pack barns, open corrals, and pasture systems. The emphasis of control should center on protecting periparturient animals during wet, hot periods of the year when mastitis pathogen growth in the environment is greatest. As the dairy industry in North America changes and progresses to adapt to economic, social, and environmental demands, the old adage of keeping cows cool, dry, and comfortable remains paramount in managing environmental mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "14556693",
+   "title": "Coliform mastitis.",
+   "authors": [
+    "Hogan J",
+    "Larry Smith K"
+   ],
+   "journal": "Veterinary research",
+   "year": 2003,
+   "doi": "10.1051/vetres:2003022",
+   "abstract": "Gram-negative bacteria that commonly cause bovine mastitis are classified as environmental pathogens. The point sources of coliform bacteria that cause infections include bedding materials, soil, manure and other organic matter in the environment of cows. Rates of coliform mastitis increase during climatic periods that maximize populations in the environment. The portal of entry into the mammary gland for Gram-negative bacteria is the teat canal. Once in the gland, bacteria must utilize available substrates in the mammary secretion to replicate and evade host defenses. Rates of coliform mastitis are greater during the transitional phases of the non- lactating period than during lactation. The ability to infect the non-lactating gland is directly related to the ability of bacteria to acquire iron from the mammary secretion. The primary host defense against coliform mastitis during lactation is the elimination of bacteria by neutrophils migrating into the gland in response to inflammation. Damage to the host is mediated by the release of endotoxin. The severity and duration of clinical signs associated with coliform mastitis are reduced by the use of core-antigen bacterins.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33508662",
+   "title": "Antimicrobial resistance of Staphylococcus aureus isolated from bovine mastitis: Systematic review and meta-analysis.",
+   "authors": [
+    "Molineri AI",
+    "Camussone C",
+    "Zbrun MV",
+    "Suárez Archilla G",
+    "Cristiani M",
+    "Neder V",
+    "Calvinho L",
+    "Signorini M"
+   ],
+   "journal": "Preventive veterinary medicine",
+   "year": 2021,
+   "doi": "10.1016/j.prevetmed.2021.105261",
+   "abstract": "Staphylococcus aureus, one of the main contagious mastitis pathogens worldwide, is characterized for causing chronic intramammary infections that respond poorly to antimicrobial therapy, disseminating within the herd leading to high economic losses. The aim of this study was to determine the prevalence of phenotypic resistance to antimicrobial agents among S. aureus collected worldwide in the context of bovine intramammary infections between the years 1969-2020. A systematic review was performed according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA). One hundred and fifty-five articles were eligible for quantitative review. Most of studies included in this meta-analysis were from Europe (88), followed by Asia (56), Latin America (39), Africa (32), North America (26), and Oceania (8). The highest overall prevalence of resistant S. aureus was against penicillin (pestimate 0.451, CI95 % 0.415-0.487), followed by clindamycin, erythromycin, and gentamycin (p-estimate = 0.149, 0.085, and 0.069, respectively). Ceftiofur and cephalotin presented the lowest overall prevalence of antimicrobial resistance (AMR, p-estimate = 0.020 and 0.015, respectively). The AMR to almost all the antimicrobials evaluated presented an increasing pattern over time, more apparent from 2009 onwards. The antimicrobials with a higher increase in their AMR prevalence over time were clindamycin, gentamycin, and oxacillin. Africa, Asia and Latin America were the continents with higher AMR to most compounds included in this study. No differences in AMR were detected regarding the clinical origin of the isolates (subclinical vs clinical mastitis) for almost all antibiotics evaluated. Differences in the method for testing AMR (disc diffusion method vs minimum inhibitory concentration) and type of study design for monitoring AMR were detected underscoring the importance of these variables as critical factors to enable comparisons for evaluating emergence of AMR.",
+   "publicationTypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "40868004",
+   "title": "Staphylococcus aureus in Bovine Mastitis: A Narrative Review of Prevalence, Antimicrobial Resistance, and Advances in Detection Strategies.",
+   "authors": [
+    "Touaitia R",
+    "Ibrahim NA",
+    "Touati A",
+    "Idres T"
+   ],
+   "journal": "Antibiotics (Basel, Switzerland)",
+   "year": 2025,
+   "doi": "10.3390/antibiotics14080810",
+   "abstract": "Bovine mastitis, particularly that caused by Staphylococcus aureus, presents a major challenge to dairy production worldwide due to its economic impact, animal welfare concerns, and zoonotic potential. This narrative review synthesizes current literature on the epidemiology, pathogenesis, resistance patterns, and control strategies related to S. aureus-associated mastitis in dairy cattle. It highlights the pathogen's virulence mechanisms, such as biofilm formation, immune evasion, and toxin production, that facilitate persistent infections. The review compiles global prevalence data, revealing significant geographic variation and disparities between clinical and subclinical cases. Antimicrobial resistance, especially the emergence of methicillin-resistant S. aureus (MRSA), is extensively examined alongside resistance gene profiles. Diagnostic approaches, including culture, PCR, MALDI-TOF MS, and AI-based systems, are evaluated for their sensitivity and field applicability. Additionally, the review addresses public health implications, zoonotic risks, and One Health perspectives, culminating in an exploration of prevention strategies, including improved hygiene, vaccination, dry cow therapy, and AI-driven herd management. The findings emphasize the urgent need for integrated surveillance, precision diagnostics, and targeted interventions to mitigate the burden of S. aureus mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32416020",
+   "title": "Staphylococcus aureus persistence properties associated with bovine mastitis and alternative therapeutic modalities.",
+   "authors": [
+    "Zaatout N",
+    "Ayachi A",
+    "Kecha M"
+   ],
+   "journal": "Journal of applied microbiology",
+   "year": 2020,
+   "doi": "10.1111/jam.14706",
+   "abstract": "Staphylococcus aureus is an important agent of contagious bovine intramammary infections in dairy cattle. Its ability to persist inside the udder is based on the presence of important mechanisms such as its ability to form biofilms, polysaccharide capsules small colony variants, and their ability to invade professional and nonprofessional cells, which will protect S. aureus from the innate and adaptive immune response of the cow, and from antibiotics that are no longer considered to be sufficient against S. aureus bovine mastitis. In this review, we present the recent research outlining S. aureus persistence properties inside the mammary gland, including its regulation mechanisms, and we highlight alternative therapeutic strategies that were tested against S. aureus isolated from bovine mastitis such as the use of probiotic bacteria, bacteriocins and bacteriophages. Overall, the persistence of S. aureus inside the mammary gland remains a pressing veterinary problem. A thorough understanding of staphylococcal persistence mechanisms will elucidate novel ways that can help in the identification of novel treatments.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35331225",
+   "title": "Diversity and pathogenesis of Staphylococcus aureus from bovine mastitis: current understanding and future perspectives.",
+   "authors": [
+    "Campos B",
+    "Pickering AC",
+    "Rocha LS",
+    "Aguilar AP",
+    "Fabres-Klein MH",
+    "de Oliveira Mendes TA",
+    "Fitzgerald JR",
+    "de Oliveira Barros Ribon A"
+   ],
+   "journal": "BMC veterinary research",
+   "year": 2022,
+   "doi": "10.1186/s12917-022-03197-5",
+   "abstract": "Staphylococcus aureus is a leading cause of bovine mastitis worldwide. Despite some improved understanding of disease pathogenesis, progress towards new methods for the control of intramammary infections (IMI) has been limited, particularly in the field of vaccination. Although herd management programs have helped to reduce the number of clinical cases, S. aureus mastitis remains a major disease burden. This review summarizes the past 16 years of research on bovine S. aureus population genetics, and molecular pathogenesis that have been conducted worldwide. We describe the diversity of S. aureus associated with bovine mastitis and the geographical distribution of S. aureus clones in different continents. We also describe studies investigating the evolution of bovine S. aureus and the importance of host-adaptation in its emergence as a mastitis pathogen. The available information on the prevalence of virulence determinants and their functional relevance during the pathogenesis of bovine mastitis are also discussed. Although traits such as biofilm formation and innate immune evasion are critical for the persistence of bacteria, the current understanding of the key host-pathogen interactions that determine the outcome of S. aureus IMI is very limited. We suggest that greater investment in research into the genetic and molecular basis of bovine S. aureus pathogenesis is essential for the identification of novel therapeutic and vaccine targets.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25975626",
+   "title": "Which are important targets in development of S. aureus mastitis vaccine?",
+   "authors": [
+    "Scali F",
+    "Camussone C",
+    "Calvinho LF",
+    "Cipolla M",
+    "Zecconi A"
+   ],
+   "journal": "Research in veterinary science",
+   "year": 2015,
+   "doi": "10.1016/j.rvsc.2015.03.019",
+   "abstract": "Staphylococcus aureus represents one of the leading causes of mastitis in dairy cows worldwide. S. aureus IMI have variable outcomes due to virulence of the strain involved, immune defenses of the host, and by antibiotic resistance. The difficulty in eradication and the increasing concerns on antibiotics usages underscore the interest in developing new tools to control S. aureus mastitis. Vaccination represents one of the most studied of these tools but, so far, no vaccine seems to provide reliable protection. This review summarizes current knowledge on the major vaccine targets, including surface proteins, capsular polysaccharides, biofilm, and toxins. Finally, the present status of vaccination against S. aureus and the future of vaccine design were discussed, including how differences among in vivo models may influence vaccines development.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "10328836",
+   "title": "Streptococcus uberis: a permanent barrier to the control of bovine mastitis?",
+   "authors": [
+    "Leigh JA"
+   ],
+   "journal": "Veterinary journal (London, England : 1997)",
+   "year": 1999,
+   "doi": "10.1053/tvjl.1998.0298",
+   "abstract": "The prevalence of bovine mastitis has been reduced over the past 25 years due to the implementation of a five-point control plan aimed at reducing exposure, duration and transmission of intramammary infections by bacteria. This has markedly reduced the incidence of bovine mastitis caused by bacteria which show a contagious route of transmission, but has had little effect on the incidence of mastitis due to bacteria which infect the gland from an environmental reservoir. Streptococcus uberis is one such bacterium which is responsible for a significant proportion of clinical mastitis worldwide. The inadequacies of the current methods of mastitis control have led to the search for additional measures, particularly vaccines to prevent intramammary infection by this bacterium. Such an approach requires detailed knowledge of the pathogenesis of intramammary infection. Our understanding of this area has grown in recent years but a lack of information still hampers disease control. Both live vaccines and, recently, crude sub-unit vaccines have shown promise against bovine mastitis due to S. uberis. Vaccines against mastitis must, however, be able to control infection without the participation of a marked inflammatory response. This review provides an overview of the recent advances which have been made in our understanding of host-pathogen interactions which promote infection and disease and highlights areas for strategic research aimed at controlling this bacterial infection.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34085166",
+   "title": "Potential factors involved in the early pathogenesis of Streptococcus uberis mastitis: a review.",
+   "authors": [
+    "Fessia AS",
+    "Odierno LM"
+   ],
+   "journal": "Folia microbiologica",
+   "year": 2021,
+   "doi": "10.1007/s12223-021-00879-9",
+   "abstract": "Bovine mastitis is an inflammation of the mammary gland, which could be the result of allergy, physical trauma, or invasion by pathogens as Streptococcus uberis. This pathogen is an environmental pathogen associated with subclinical and clinical intramammary infection (IMI) in both lactating and non-lactating cows, which can persist in the udder and cause a chronic infection in the mammary gland. In spite of the important economic losses and increased prevalence caused by S. uberis mastitis, virulence factors involved in bacterial colonization of mammary glands and the pathogenic mechanisms are not yet clear. In the last 30 years, several studies have defined adherence and internalization of S. uberis as the early stages in IMI. S. uberis adheres to and invades into mammary gland cells, and this ability has been observed in in vitro assays. Until now, these abilities have not been determined in vivo challenges since they have been difficult to study. Bacterial surface proteins are able to bind to extracellular matrix protein components such as fibronectin, collagen and laminin, as well as proteins in milk. These proteins play a role in adhesion to host cells and have been denominated microbial surface components recognizing adhesive matrix molecules (MSCRAMMs). This article aims to summarize our current knowledge on the most relevant properties of the potential factors involved in the early pathogenesis of S. uberis mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37844492",
+   "title": "Antimicrobial resistance of Streptococcus uberis isolated from bovine mastitis: Systematic review and meta-analysis.",
+   "authors": [
+    "Miotti C",
+    "Cicotello J",
+    "Suarez Archilla G",
+    "Neder V",
+    "Alvarado Lucero W",
+    "Calvinho L",
+    "Signorini M",
+    "Camussone C",
+    "Zbrun MV",
+    "Molineri AI"
+   ],
+   "journal": "Research in veterinary science",
+   "year": 2023,
+   "doi": "10.1016/j.rvsc.2023.105032",
+   "abstract": "Streptococcus uberis is one of the most common pathogens associated with bovine mastitis, commonly treated with antimicrobials (AM), favoring the appearance of antimicrobial resistance (AMR). The objective of this work was to determine the proportion of phenotypic AMR among S. uberis isolated worldwide from bovine intramammary infections between the years 1983-2022, and to assess the variables associated by means of a systematic review and metanalysis. Sixty articles were eligible for quantitative review. Ninety-four independent studies were obtained. The antimicrobials evaluated in more S. uberis strains were penicillin (21,987 strains), oxacillin (21,727 strains), erythromycin (20,013 strains), and ampicillin (19,354 strains). Most of the studies included in this meta-analysis were from Europe (44), followed by America (25), Africa (10), Asia (10), and Oceania (5). Among the included articles, 22 were published from 1983 to 2006, 23 from 2007 to 2012, 25 from 2013 to 2015, and the remaining 24 after 2016. Penicillin, erythromycin, and tetracycline were the antimicrobials with >25 studies. Therefore, the following analyses were performed only for these antimicrobials, presenting a high heterogeneity index (I2). The variability observed for penicillin and tetracycline was only explained, partially, by continent of origin. The variability observed for erythromycin was not explained by any of the potential explanatory variables included in this study. The S. uberis proportion of resistance to antimicrobials is highly variable and probably influenced by many factors other than those studied in this meta-analysis, where it was not possible to inform a unique average proportion of resistance.",
+   "publicationTypes": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "9646469",
+   "title": "Potential virulence factors of Streptococcus dysgalactiae associated with bovine mastitis.",
+   "authors": [
+    "Calvinho LF",
+    "Almeida RA",
+    "Oliver SP"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 1998,
+   "doi": "10.1016/s0378-1135(98)00172-2",
+   "abstract": "Mastitis caused by environmental pathogens is a major problem that affects many well-managed dairy herds. Among the environmental pathogens, Streptococcus dysgalactiae is isolated frequently from intramammary infections during lactation and during the nonlactating period. In spite of its high prevalence, little is known about factors that contribute to the virulence of S. dysgalactiae. During the last decade, several cell-associated and extracellular factors of S. dysgalactiae have been identified; yet, the relative importance of these factors in the transmission and pathogenesis of mastitis caused by S. dysgalactiae has not been defined. Streptococcus dysgalactiae can interact with several plasma and extracellular host-derived proteins such as immunoglobulin G, albumin, fibronectin, fibrinogen, collagen, vitronectin, plasminogen, and alpha 2-macroglobulin. These interactions are mediated by bacterial surface proteins. This organism also produces hyaluronidase and fibrinolysin which may be involved in promoting dissemination of the organism into host tissue. Streptococcus dysgalactiae adheres to and is internalized by bovine mammary epithelial cells in vitro. Involvement of host cell kinases, intact microfilaments and de novo eukaryotic protein synthesis are required for internalization of S. dysgalactiae into bovine mammary epithelial cells; a process that appeared to occur by a receptor-mediated endocytosis mechanism. However, de novo bacterial protein synthesis was not required for epithelial cell internalization. Furthermore, S. dysgalactiae survived within mammary epithelial cells for extended periods of time without losing viability or damaging the eukaryotic cell. Further research on characterization of host-pathogen interactions that take place during the early stages of mammary gland infection will enhance our understanding of pathogenesis of intramammary infection which may contribute to development of methods to minimize production losses due to mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35875575",
+   "title": "Escherichia coli Mastitis in Dairy Cattle: Etiology, Diagnosis, and Treatment Challenges.",
+   "authors": [
+    "Goulart DB",
+    "Mellata M"
+   ],
+   "journal": "Frontiers in microbiology",
+   "year": 2022,
+   "doi": "10.3389/fmicb.2022.928346",
+   "abstract": "Bovine mastitis is an inflammation of the udder tissue parenchyma that causes pathological changes in the glandular tissue and abnormalities in milk leading to significant economic losses to the dairy industry across the world. Mammary pathogenic Escherichia (E.) coli (MPEC) is one of the main etiologic agents of acute clinical mastitis in dairy cattle. MPEC strains have virulence attributes to resist the host innate defenses and thrive in the mammary gland environment. The association between specific virulence factors of MPEC with the severity of mastitis in cattle is not fully understood. Furthermore, the indiscriminate use of antibiotics to treat mastitis has resulted in antimicrobial resistance to all major antibiotic classes in MPEC. A thorough understanding of MPEC's pathogenesis and antimicrobial susceptibility pattern is required to develop better interventions to reduce mastitis incidence and prevalence in cattle and the environment. This review compiles important information on mastitis caused by MPEC (e.g., types of mastitis, host immune response, diagnosis, treatment, and control of the disease) as well as the current knowledge on MPEC virulence factors, antimicrobial resistance, and the dilemma of MPEC as a new pathotype. The information provided in this review is critical to identifying gaps in knowledge that will guide future studies to better design diagnostic, prevent, and develop therapeutic interventions for this significant dairy disease.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35021119",
+   "title": "An overview on mastitis-associated Escherichia coli: Pathogenicity, host immunity and the use of alternative therapies.",
+   "authors": [
+    "Zaatout N"
+   ],
+   "journal": "Microbiological research",
+   "year": 2022,
+   "doi": "10.1016/j.micres.2021.126960",
+   "abstract": "Escherichia coli is one of the leading causes of bovine mastitis; it can cause sub-clinical, and clinical mastitis characterized by systemic changes, abnormal appearance of milk, and udder inflammation. E. coli pathogenicity in the bovine udder is due to the interaction between its virulence factors and the host factors; it was also linked to the presence of a new pathotype termed mammary pathogenic E. coli (MPEC). However, the presence of this pathotype is commonly debated. Its main virulence factor is the lipopolysaccharide (LPS) that is responsible for causing an endotoxic shock, and inducing a strong immune response by binding to the toll-like receptor 4 (TLR4), and stimulating the expression of chemokines (such as IL-8, and RANTES) and pro-inflammatory cytokines (such as IL-6, and IL-1β). This strong immune response could be used to develop alternative and safe approaches to control E. coli causing bovine mastitis by targeting pro-inflammatory cytokines that can damage the host tissue. The need for alternative treatments against E. coli is due to its ability to resist many conventional antibiotics, which is a huge challenge for curing ill animals. Therefore, the aim of this review was to highlight the pathogenicity of E. coli in the mammary gland, discuss the presence of the new putative pathotype, the mammary pathogenic E. coli (MPEC) pathotype, study the host's immune response, and the alternative treatments that are used against mastitis-associated E. coli.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30624967",
+   "title": "Shiga Toxin-Producing Escherichia coli in Mastitis: An International Perspective.",
+   "authors": [
+    "Murinda SE",
+    "Ibekwe AM",
+    "Rodriguez NG",
+    "Quiroz KL",
+    "Mujica AP",
+    "Osmon K"
+   ],
+   "journal": "Foodborne pathogens and disease",
+   "year": 2019,
+   "doi": "10.1089/fpd.2018.2491",
+   "abstract": "The pathogen profile of Escherichia coli mastitis reveals a complex etiology involving commensal, environmental, and other distinct E. coli pathotypes such as enteropathogenic E. coli and of recent, Shiga toxin-producing E. coli (STEC) have been associated with bovine intramammary infections (IMI). Many researchers have not been testing for STEC and focused on E. coli detection without further subtyping, and as such, the prevalence of STEC in mastitis remains underdiagnosed and underreported. Owing to the dearth of information on STEC involvement in IMI, this review provides an international perspective on the prevalence of STEC in mastitis. In addition, predominant serotypes, ancillary virulence factors, and antimicrobial resistance profiles of STEC isolated from mastitis cases were summarized. This information is important for public health policy since STEC impact both animal health and human welfare. Importantly, the low infectious doses of STEC are a major concern to public health. The review highlights the need for further surveillance to ascertain the potential for environmental contamination and food chain security by STEC from bovine mastitis, and emphasizes appropriate, science-based mitigation approaches for prevention or control.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "38786120",
+   "title": "Extended-Spectrum Beta-Lactamase-Producing Escherichia coli and Other Antimicrobial-Resistant Gram-Negative Pathogens Isolated from Bovine Mastitis: A One Health Perspective.",
+   "authors": [
+    "Nery Garcia BL",
+    "Dantas STA",
+    "da Silva Barbosa K",
+    "Mendes Mitsunaga T",
+    "Butters A",
+    "Camargo CH",
+    "Nobrega DB"
+   ],
+   "journal": "Antibiotics (Basel, Switzerland)",
+   "year": 2024,
+   "doi": "10.3390/antibiotics13050391",
+   "abstract": "Antimicrobial resistance (AMR) poses an imminent threat to global public health, driven in part by the widespread use of antimicrobials in both humans and animals. Within the dairy cattle industry, Gram-negative coliforms such as Escherichia coli and Klebsiella pneumoniae stand out as major causative agents of clinical mastitis. These same bacterial species are frequently associated with severe infections in humans, including bloodstream and urinary tract infections, and contribute significantly to the alarming surge in antimicrobial-resistant bacterial infections worldwide. Additionally, mastitis-causing coliforms often carry AMR genes akin to those found in hospital-acquired strains, notably the extended-spectrum beta-lactamase genes. This raises concerns regarding the potential transmission of resistant bacteria and AMR from mastitis cases in dairy cattle to humans. In this narrative review, we explore the distinctive characteristics of antimicrobial-resistant E. coli and Klebsiella spp. strains implicated in clinical mastitis and human infections. We focus on the molecular mechanisms underlying AMR in these bacterial populations and critically evaluate the potential for interspecies transmission. Despite some degree of similarity observed in sequence types and mobile genetic elements between strains found in humans and cows, the existing literature does not provide conclusive evidence to assert that coliforms responsible for mastitis in cows pose a direct threat to human health. Finally, we also scrutinize the existing literature, identifying gaps and limitations, and propose avenues for future research to address these pressing challenges comprehensively.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "22664206",
+   "title": "The \"other\" gram-negative bacteria in mastitis: Klebsiella, serratia, and more.",
+   "authors": [
+    "Schukken Y",
+    "Chuff M",
+    "Moroni P",
+    "Gurjar A",
+    "Santisteban C",
+    "Welcome F",
+    "Zadoks R"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2012,
+   "doi": "10.1016/j.cvfa.2012.04.001",
+   "abstract": "Mastitis caused by gram-negative infections is of increasing importance on modern and well-managed dairy farms. Without a doubt, E coli tends to be the most important cause of these gram-negative infections when the data are tallied across farms.1 However, more precise investigation of individual farms often reveals a farm-specific infection pattern where a single gram-negative bacterial species predominates. Several farms with a predominance of “other” gram-negative IMIs may be observed. We have shown the presence of outbreaks on individual dairy farms with K pneumoniae, S marcescens, and Enterobacter cloacae. On farms with a predominance of these “other” gram-negative infections, a detailed epidemiologic investigation may reveal the source of these infections. It is quite surprising to identify the difference in host immune response pattern and the associated clinical and subclinical presentations of IMIs due to the different gram-negative organisms. Experimental and field observations would suggest that among the gram-negative bacterial causes of mastitis, Klebsiella spp are causing the most severe cases, closely followed by E coli and then much less clinical severity is observed in Serratia spp and Enterobacter spp cases. The precise mechanisms that would explain the difference in clinical severity are not known, but the most likely explanation appears to be the structure of the lipid A fraction of the LPS of the bacterial species. Important differences in the lipid A fraction of LPS between and within bacterial species are observed. The prevention of IMIs with gram-negative bacteria has components that are generic across species and components that are species specific. Generic prevention may be obtained by improving hygiene and reducing exposure of teat ends to environmental contamination. Also the use of a J5 bacterin is expected to provide some reduction in severity of gram-negative IMIs across bacterial species. Specific prevention programs will depend on the actual transmission behavior of the dominant species causing IMIs in the herd. Several clonal outbreaks of gram-negative bacterial species have been described. In such situations, optimal milking procedures, segregation and culling of infected animals, and targeted treatment would be advisable. Even more specific are the prevention procedures associated with S marcescens outbreaks, where resistance against specific biocides will lead to transmission of infection through teat disinfectants. Removal of these biocides from the cow environment is than essential. Antimicrobial treatment of gram-negative bacteria has often considered to be of limited value and treatment should be more targeted toward cow survival and reduction of clinical symptoms. More recently, extended treatment with a third-generation cephalosporin was reported to be efficacious in the treatment of E coli and Klebsiella spp but not of E cloacae. Further investigations in effective treatment protocols for gram-negative IMIs are warranted.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "11873813",
+   "title": "Potential mechanism of action of J5 vaccine in protection against severe bovine coliform mastitis.",
+   "authors": [
+    "Dosogne H",
+    "Vangroenweghe F",
+    "Burvenich C"
+   ],
+   "journal": "Veterinary research",
+   "year": 2002,
+   "doi": "10.1051/vetres:2001001",
+   "abstract": "Coliform mastitis is one of the most difficult diseases to treat in the modern dairy industry. Curative therapy with antibiotics remains only moderately effective and depends on the stage at which the disease is treated. The most successful strategies for combating coliform mastitis appear to be prevention by hygienic management or prophylactic immunization. The severity of clinical symptoms of coliform mastitis has been shown to be reduced by immunization with the Escherichia coli J5 vaccine. However, although the J5 vaccine has been licensed in the United States for about 10 years, the immunological basis of its mechanism of action is still unknown. Until now, protection by J5 vaccination has often been explained by a straightforward mechanism of enhanced antibody production resulting in increased opsonization of coliform bacteria and lipopolysaccharides (LPS). The possibility that J5 vaccination could decrease risk factors for coliform mastitis such as impaired blood polymorphonuclear neutrophil leukocyte (PMN) diapedesis has never been investigated. This review provides arguments to support the hypothesis that J5 vaccination may reduce the severity of coliform mastitis by inducing a condition of mammary gland hyper-responsiveness, characterized by a T helper 1 (Th1) response and mediated by memory cells inside the mammary gland, finally resulting in enhanced PMN diapedesis upon an intramammary infection.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "12682942",
+   "title": "Vaccination strategies for reducing clinical severity of coliform mastitis.",
+   "authors": [
+    "Wilson DJ",
+    "González RN"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2003,
+   "doi": "10.1016/s0749-0720(02)00070-1",
+   "abstract": "Brief history and extensive published field efficacy data of the two rough (\"R\") bacterial mutants utilized in commercial preparations of the core antigen bacterins Escherichia coli O111:B4 (strain J5) and Salmonella typhimurium Re-17 are summarized. Particular dosage schedules and routes of administration of coliform mastitis bacterins are compared for their associated ecacy. Practical concerns in employing a coliform mastitis vaccination program are discussed. Characteristics of farms using coliform mastitis vaccination and suggested guidelines for whether individual dairy herds should adopt this practice are presented for consideration.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35909617",
+   "title": "Mycoplasma bovis Mastitis.",
+   "authors": [
+    "Gelgie AE",
+    "Korsa MG",
+    "Kerro Dego O"
+   ],
+   "journal": "Current research in microbial sciences",
+   "year": 2022,
+   "doi": "10.1016/j.crmicr.2022.100123",
+   "abstract": "Bovine mycoplasmoses, which is mostly caused by Mycoplasma bovis, is a significant problem in the dairy and beef industry. Mycoplasmal mastitis has a global occurrence with notable effects in the United States and Europe. The pathogen was first detected in a mastitis case in California, United States, and regarded as major contagious mastitis. It is highly contagious and resistant to antibiotics and lack cell wall rendering certain group of antibiotics ineffective. Outbreaks mostly originate from introduction of diseased dairy cows to a farm and poor hygienic practices that help to maintain cow to cow transmission. Rapid detection scheme is needed to be in place in dairy farms to devise preventive measures and stop future outbreaks. However; early detection is hampered by the fastidious growth of M. bovis and the need for specialized equipment and reagents in laboratory settings. Intramammary Mycoplasma bovis infections cause elevation in milk somatic cell count which is one of the important factors to determine milk quality for grading and hence dictates milk price. There are multiple attributes of M. bovis regarded as virulence factors such as adhesion to and invasion into host cells, avoidance of phagocytosis, resistance to killing by the alternative complement system, biofilm formation, and hydrogen peroxide production. Nevertheless, there are still undetermined virulence factors that hamper the development of sustainable control tools such as effective vaccine. To date, most vaccine trials have failed, and there is no commercial M. bovis mastitis vaccine. Mycoplasma bovis has been shown to modulate both humoral and cellular immune response during bovine mastitis. In the future, research seeking new immunogenic and protective vaccine targets are highly recommended to control this important dairy cattle disease worldwide.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "38515536",
+   "title": "Mycoplasma bovis mastitis in dairy cattle.",
+   "authors": [
+    "Gelgie AE",
+    "Desai SE",
+    "Gelalcha BD",
+    "Kerro Dego O"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2024,
+   "doi": "10.3389/fvets.2024.1322267",
+   "abstract": "Mycoplasma bovis has recently been identified increasingly in dairy cows causing huge economic losses to the dairy industry. M. bovis is a causative agent for mastitis, pneumonia, endometritis, endocarditis, arthritis, otitis media, and many other clinical symptoms in cattle. However, some infected cows are asymptomatic or may not shed the pathogen for weeks to years. This characteristic of M. bovis, along with the lack of adequate testing and identification methods in many parts of the world until recently, has allowed the M. bovis to be largely undetected despite its increased prevalence in dairy farms. Due to growing levels of antimicrobial resistance among wild-type M. bovis isolates and lack of cell walls in mycoplasmas that enable them to be intrinsically resistant to beta-lactam antibiotics that are widely used in dairy farms, there is no effective treatment for M. bovis mastitis. Similarly, there is no commercially available effective vaccine for M. bovis mastitis. The major constraint to developing effective intervention tools is limited knowledge of the virulence factors and mechanisms of the pathogenesis of M. bovis mastitis. There is lack of quick and reliable diagnostic methods with high specificity and sensitivity for M. bovis. This review is a summary of the current state of knowledge of the virulence factors, pathogenesis, clinical manifestations, diagnosis, and control of M. bovis mastitis in dairy cows.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "11361099",
+   "title": "Review of the microbiological, pathological, and clinical aspects of bovine mastitis caused by the alga Prototheca zopfii.",
+   "authors": [
+    "Jánosi S",
+    "Rátz F",
+    "Szigeti G",
+    "Kulcsár M",
+    "Kerényi J",
+    "Laukó T",
+    "Katona F",
+    "Huszenicza G"
+   ],
+   "journal": "The veterinary quarterly",
+   "year": 2001,
+   "doi": "10.1080/01652176.2001.9695082",
+   "abstract": "The mastitis caused by P. zopfii alga is a disease of high-producing, machine-milked dairy cows. It occurs worldwide in tropical and temperate climatic areas, and mostly appears sporadically in a therapy-resistant form. However, in poorly managed dairy herds it may be endemic, causing serious economic losses as a result of decreased milk quality and quantity and culling of infected animals. The biological properties of this pathogenic alga, the laboratory methods available for its isolation and identification, the pathological and clinical features of this form of mastitis, and the principles of its control are reviewed in this paper.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "38584301",
+   "title": "Non-aureus staphylococci and mammaliicocci (NASM): their role in bovine mastitis and One Health.",
+   "authors": [
+    "Crippa BL",
+    "de Matos LG",
+    "Souza FN",
+    "Silva NCC"
+   ],
+   "journal": "The Journal of dairy research",
+   "year": 2024,
+   "doi": "10.1017/S0022029924000165",
+   "abstract": "Non-aureus staphylococci (NAS) are gaining importance in mastitis and public health, and some NAS have been reclassified as mammaliicocci (NASM). Bovine milk production has a major influence on the world economy, being an essential source of income for small, medium and large producers, and bovine mastitis caused by NASM can cause an economic impact. Mastitis generates financial losses due to reduced revenue, increased veterinary costs and expenses associated with animal slaughter. However, it is also a public health issue involving animal health and welfare, human health and the ecosystem. Furthermore, it is an increasingly common infection caused by NASM, including antimicrobial-resistant strains. Despite all these adverse effects that NASM can cause, some studies also point to its protective role against mastitis. Therefore, this review article addresses the negative and positive aspects that NASM can cause in bovine mastitis, the virulence of the disease and resistance factors that make it difficult to treat and, through the One Health approach, presents a holistic view of how mastitis caused by NASM can affect both animal and human health at one and the same time.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "16882453",
+   "title": "Innate immune response of bovine mammary gland to pathogenic bacteria responsible for mastitis.",
+   "authors": [
+    "Oviedo-Boyso J",
+    "Valdez-Alarcón JJ",
+    "Cajero-Juárez M",
+    "Ochoa-Zarzosa A",
+    "López-Meza JE",
+    "Bravo-Patiño A",
+    "Baizabal-Aguirre VM"
+   ],
+   "journal": "The Journal of infection",
+   "year": 2007,
+   "doi": "10.1016/j.jinf.2006.06.010",
+   "abstract": "Mastitis (mammary gland inflammation) is one of the most important bovine diseases causing economic losses to dairy producers. Mammary gland inflammation is a consequence of the activity of a number of cell and soluble factors that function together to eliminate invading microorganisms. The factors involved in this inflammatory response differ depending on the infectious agent. This review analyzes the factors involved in the immunologic mechanisms against the main pathogenic bacteria causing mastitis, and emphasizes the innate immune response of the mammary gland. Knowledge, at the molecular level, of the mammary gland immune response during infection by pathogenic bacteria is fundamental to the design of effective therapies to control and eradicate bovine mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34026893",
+   "title": "Biofilm Research in Bovine Mastitis.",
+   "authors": [
+    "Pedersen RR",
+    "Krömker V",
+    "Bjarnsholt T",
+    "Dahl-Pedersen K",
+    "Buhl R",
+    "Jørgensen E"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2021,
+   "doi": "10.3389/fvets.2021.656810",
+   "abstract": "Bovine mastitis is one of the most important diseases in the dairy industry and has detrimental impact on the economy and welfare of the animals. Further, treatment failure results in increased antibiotic use in the dairy industry, as some of these mastitis cases for unknown reasons are not resolved despite standard antibiotic treatment. Chronic biofilm infections are notoriously known to be difficult to eradicate with antibiotics and biofilm formation could be a possible explanation for mastitis cases that are not resolved by standard treatment. This paper reviews the current literature on biofilm in bovine mastitis research to evaluate the status and methods used in the literature. Focus of the current research has been on isolates from milk samples and investigation of their biofilm forming properties in vitro. However, in vitro observations of biofilm formation are not easily comparable with the in vivo situation inside the udder. Only two papers investigate the location and distribution of bacterial biofilms inside udders of dairy cows with mastitis. Based on the current knowledge, the role of biofilm in bovine mastitis is still unclear and more in vivo investigations are needed to uncover the actual role of biofilm formation in the pathogenesis of bovine mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
   },
   {
    "pmid": "32965827",
@@ -7300,51 +7850,6 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK430852"
-  },
-  {
-   "pmid": "33509059",
-   "title": "Advances in therapeutic and managemental approaches of bovine mastitis: a comprehensive review.",
-   "authors": [
-    "Sharun K",
-    "Dhama K",
-    "Tiwari R",
-    "Gugjoo MB",
-    "Iqbal Yatoo M",
-    "Patel SK",
-    "Pathak M",
-    "Karthik K",
-    "Khurana SK",
-    "Singh R",
-    "Puvvala B",
-    "Amarpal",
-    "Singh R",
-    "Singh KP",
-    "Chaicumpa W"
-   ],
-   "journal": "The veterinary quarterly",
-   "year": 2021,
-   "doi": "10.1080/01652176.2021.1882713",
-   "abstract": "Mastitis (intramammary inflammation) caused by infectious pathogens is still considered a devastating condition of dairy animals affecting animal welfare as well as economically incurring huge losses to the dairy industry by means of decreased production performance and increased culling rates. Bovine mastitis is the inflammation of the mammary glands/udder of bovines, caused by bacterial pathogens, in most cases. Routine diagnosis is based on clinical and subclinical forms of the disease. This underlines the significance of early and rapid identification/detection of etiological agents at the farm level, for which several diagnostic techniques have been developed. Therapeutic regimens such as antibiotics, immunotherapy, bacteriocins, bacteriophages, antimicrobial peptides, probiotics, stem cell therapy, native secretory factors, nutritional, dry cow and lactation therapy, genetic selection, herbs, and nanoparticle technology-based therapy have been evaluated for their efficacy in the treatment of mastitis. Even though several strategies have been developed over the years for the purpose of managing both clinical and subclinical forms of mastitis, all of them lacked the efficacy to eliminate the associated etiological agent when used as a monotherapy. Further, research has to be directed towards the development of new therapeutic agents/techniques that can both replace conventional techniques and also solve the problem of emerging antibiotic resistance. The objective of the present review is to describe the etiological agents, pathogenesis, and diagnosis in brief along with an extensive discussion on the advances in the treatment and management of mastitis, which would help safeguard the health of dairy animals.",
-   "publicationTypes": [
-    "Journal Article",
-    "Review"
-   ]
-  },
-  {
-   "pmid": "32051050",
-   "title": "Causes, types, etiological agents, prevalence, diagnosis, treatment, prevention, effects on human health and future aspects of bovine mastitis.",
-   "authors": [
-    "Ashraf A",
-    "Imran M"
-   ],
-   "journal": "Animal health research reviews",
-   "year": 2020,
-   "doi": "10.1017/S1466252319000094",
-   "abstract": "Mastitis is among the most common and challenging diseases of dairy animals. It is an inflammation of udder tissues due to physical damage, chemical irritation, or infection caused by certain pathogens. Bovine mastitis has been known for ages, but its complex etiology and multi-factorial nature make it difficult to control. Mastitis may have a negative impact on human health by inducing antibiotic-resistant pathogens that may spread, which is threatening. Researchers are continuously struggling to devise suitable methods for mastitis control. Management strategies are mainly focused on disease prevention by farm management which includes proper hygiene, trained staff to monitor minor changes in the udder or milk, and better diagnostic and treatment methods. New technologies which have the potential to unravel this complicated disease include improved diagnostic tools, based on advanced genomics or proteomics, prevention, based on vaccines and immune modulators, and metabolic products of probiotics such as bacteriocins and gene therapy.",
-   "publicationTypes": [
-    "Journal Article",
-    "Review"
-   ]
   },
   {
    "pmid": "39055751",
@@ -26895,6 +27400,2646 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "the varicella-zoster virus is a vaccine-preventable disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33509059-1-en",
+   "translationKey": "mastitis-33509059-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "In simple terms, what is mastitis in a dairy cow?",
+   "options": [
+    "An infection of the hoof",
+    "A disease of the rumen",
+    "Inflammation of the udder (mammary gland) of cattle",
+    "A lung infection in calves"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mastitis is inflammation of the mammary gland/udder, caused in most cases by bacteria.",
+   "shortExplanation": "Udder inflammation.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine mastitis is the inflammation of the mammary glands/udder of bovines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33509059-1-es",
+   "translationKey": "mastitis-33509059-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "En pocas palabras, ¿qué es la mastitis en una vaca lechera?",
+   "options": [
+    "Una infección del casco",
+    "Una enfermedad del rumen",
+    "La inflamación de la ubre (glándula mamaria) del bovino",
+    "Una infección pulmonar en terneros"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mastitis es la inflamación de la glándula mamaria/ubre, causada en la mayoría de los casos por bacterias.",
+   "shortExplanation": "Inflamación de la ubre.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine mastitis is the inflammation of the mammary glands/udder of bovines",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33509059-2-en",
+   "translationKey": "mastitis-33509059-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "What is the most common cause of bovine mastitis?",
+   "options": [
+    "Bacteria",
+    "Viruses",
+    "Parasitic worms",
+    "Vitamin deficiency"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Most cases of bovine mastitis are caused by bacterial pathogens.",
+   "shortExplanation": "Bacteria.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by bacterial pathogens, in most cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33509059-2-es",
+   "translationKey": "mastitis-33509059-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la causa más frecuente de mastitis bovina?",
+   "options": [
+    "Bacterias",
+    "Virus",
+    "Gusanos parásitos",
+    "Falta de vitaminas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mayoría de los casos de mastitis bovina son causados por bacterias.",
+   "shortExplanation": "Bacterias.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by bacterial pathogens, in most cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33509059-3-en",
+   "translationKey": "mastitis-33509059-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which two forms of mastitis are distinguished in routine diagnosis?",
+   "options": [
+    "Acute and genetic",
+    "Viral and fungal",
+    "Left and right",
+    "Clinical and subclinical"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Clinical mastitis shows visible changes in milk or udder; subclinical mastitis has no visible signs but raises somatic cell count.",
+   "shortExplanation": "Clinical vs. subclinical.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Routine diagnosis is based on clinical and subclinical forms of the disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33509059-3-es",
+   "translationKey": "mastitis-33509059-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué dos formas de mastitis se distinguen en el diagnóstico de rutina?",
+   "options": [
+    "Aguda y genética",
+    "Viral y fúngica",
+    "Izquierda y derecha",
+    "Clínica y subclínica"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La clínica muestra cambios visibles en leche o ubre; la subclínica no tiene signos visibles pero eleva el recuento de células somáticas.",
+   "shortExplanation": "Clínica vs. subclínica.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Routine diagnosis is based on clinical and subclinical forms of the disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33509059-4-en",
+   "translationKey": "mastitis-33509059-4",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did this review conclude about mastitis therapies used as monotherapy?",
+   "options": [
+    "Antibiotics alone always cure it",
+    "None reliably eliminated the causative agent on its own",
+    "Herbs are fully effective",
+    "Vaccines alone eradicate it"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Antibiotics, phages, bacteriocins, probiotics and others all lacked efficacy as monotherapy, so combined strategies are needed.",
+   "shortExplanation": "No single therapy suffices.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all of them lacked the efficacy to eliminate the associated etiological agent when used as a monotherapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33509059-4-es",
+   "translationKey": "mastitis-33509059-4",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué concluyó esta revisión sobre las terapias de mastitis usadas como monoterapia?",
+   "options": [
+    "Los antibióticos solos siempre la curan",
+    "Ninguna eliminó de forma confiable al agente por sí sola",
+    "Las hierbas son totalmente eficaces",
+    "Las vacunas solas la erradican"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Antibióticos, fagos, bacteriocinas, probióticos y otros fallaron como monoterapia, por eso se necesitan estrategias combinadas.",
+   "shortExplanation": "Ninguna basta sola.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all of them lacked the efficacy to eliminate the associated etiological agent when used as a monotherapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32051050-1-en",
+   "translationKey": "mastitis-32051050-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Besides infection, what else can cause udder inflammation (mastitis)?",
+   "options": [
+    "Physical damage or chemical irritation",
+    "Too much sunlight",
+    "Eating grass",
+    "Drinking cold water"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Mastitis can result from physical damage, chemical irritation or infection, though infection is most common.",
+   "shortExplanation": "Trauma or chemicals.",
+   "pmid": "32051050",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is an inflammation of udder tissues due to physical damage, chemical irritation, or infection caused by certain pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32051050-1-es",
+   "translationKey": "mastitis-32051050-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Además de la infección, ¿qué otra cosa puede causar inflamación de la ubre (mastitis)?",
+   "options": [
+    "Daño físico o irritación química",
+    "Exceso de sol",
+    "Comer pasto",
+    "Tomar agua fría"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mastitis puede deberse a daño físico, irritación química o infección, aunque la infección es lo más común.",
+   "shortExplanation": "Trauma o químicos.",
+   "pmid": "32051050",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is an inflammation of udder tissues due to physical damage, chemical irritation, or infection caused by certain pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32051050-2-en",
+   "translationKey": "mastitis-32051050-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How can bovine mastitis affect human health?",
+   "options": [
+    "It causes human mastitis directly",
+    "It has no relation to humans",
+    "It can promote antibiotic-resistant pathogens that may spread",
+    "It makes milk radioactive"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Antibiotic use for mastitis can select resistant pathogens with One Health implications.",
+   "shortExplanation": "Resistance spread.",
+   "pmid": "32051050",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mastitis may have a negative impact on human health by inducing antibiotic-resistant pathogens that may spread",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32051050-2-es",
+   "translationKey": "mastitis-32051050-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo puede afectar la mastitis bovina a la salud humana?",
+   "options": [
+    "Causa mastitis humana directamente",
+    "No tiene relación con las personas",
+    "Puede favorecer patógenos resistentes a antibióticos que se diseminen",
+    "Vuelve radiactiva la leche"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El uso de antibióticos para mastitis puede seleccionar patógenos resistentes, con implicancias de Una Salud.",
+   "shortExplanation": "Diseminación de resistencia.",
+   "pmid": "32051050",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mastitis may have a negative impact on human health by inducing antibiotic-resistant pathogens that may spread",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37547227-1-en",
+   "translationKey": "mastitis-37547227-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "How are mastitis-causing bacteria commonly classified?",
+   "options": [
+    "Aerobic and anaerobic only",
+    "Contagious and environmental",
+    "Human and animal",
+    "Fast and slow"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Mastitis bacteria are classified as contagious (spread cow to cow) or environmental (from the surroundings).",
+   "shortExplanation": "Contagious vs. environmental.",
+   "pmid": "37547227",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most prevalent etiology are bacteria, classified into contagious and environmental",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37547227-1-es",
+   "translationKey": "mastitis-37547227-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se clasifican habitualmente las bacterias causantes de mastitis?",
+   "options": [
+    "Solo aerobias y anaerobias",
+    "Contagiosas y ambientales",
+    "Humanas y animales",
+    "Rápidas y lentas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las bacterias de mastitis se clasifican en contagiosas (de vaca a vaca) o ambientales (del entorno).",
+   "shortExplanation": "Contagiosas vs. ambientales.",
+   "pmid": "37547227",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most prevalent etiology are bacteria, classified into contagious and environmental",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37547227-2-en",
+   "translationKey": "mastitis-37547227-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Which group lists the most common bovine mastitis pathogens?",
+   "options": [
+    "Salmonella, Listeria, Brucella",
+    "Clostridium, Bacillus, Mycobacterium",
+    "Candida, Aspergillus, Mucor",
+    "S. aureus, S. agalactiae, S. uberis, E. coli, K. pneumoniae"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "These five bacteria are the most commonly associated with mastitis; their prevalence varies by region.",
+   "shortExplanation": "Staph, strep, coliforms.",
+   "pmid": "37547227",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with Staphylococcus aureus, Streptococcus agalactiae, Streptococcus uberis, Escherichia coli and Klebsiella pneumoniae being the most common pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37547227-2-es",
+   "translationKey": "mastitis-37547227-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué grupo enumera los patógenos más comunes de mastitis bovina?",
+   "options": [
+    "Salmonella, Listeria, Brucella",
+    "Clostridium, Bacillus, Mycobacterium",
+    "Candida, Aspergillus, Mucor",
+    "S. aureus, S. agalactiae, S. uberis, E. coli, K. pneumoniae"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Estas cinco bacterias son las más asociadas a mastitis; su prevalencia varía según la región.",
+   "shortExplanation": "Estafilo, estrepto, coliformes.",
+   "pmid": "37547227",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with Staphylococcus aureus, Streptococcus agalactiae, Streptococcus uberis, Escherichia coli and Klebsiella pneumoniae being the most common pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-8242453-1-en",
+   "translationKey": "mastitis-8242453-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Which of these is a classic contagious mastitis pathogen?",
+   "options": [
+    "Streptococcus agalactiae",
+    "Escherichia coli",
+    "Klebsiella pneumoniae",
+    "Serratia marcescens"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Contagious pathogens include S. agalactiae, S. aureus, Corynebacterium bovis, Mycoplasma and S. dysgalactiae.",
+   "shortExplanation": "S. agalactiae.",
+   "pmid": "8242453",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The major mastitis pathogens are Streptococcus agalactiae, Staphylococcus aureus, Corynebacterium bovis, Mycoplasma sp, and Streptococcus dysgalactiae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-8242453-1-es",
+   "translationKey": "mastitis-8242453-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál de estos es un patógeno contagioso clásico de mastitis?",
+   "options": [
+    "Streptococcus agalactiae",
+    "Escherichia coli",
+    "Klebsiella pneumoniae",
+    "Serratia marcescens"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los contagiosos incluyen S. agalactiae, S. aureus, Corynebacterium bovis, Mycoplasma y S. dysgalactiae.",
+   "shortExplanation": "S. agalactiae.",
+   "pmid": "8242453",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The major mastitis pathogens are Streptococcus agalactiae, Staphylococcus aureus, Corynebacterium bovis, Mycoplasma sp, and Streptococcus dysgalactiae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-8242453-2-en",
+   "translationKey": "mastitis-8242453-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which measures help control contagious mastitis?",
+   "options": [
+    "Feeding more grain",
+    "Changing the cows' color",
+    "Milking-time hygiene, segregation, culling, vaccination and treatment",
+    "Removing water troughs"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Contagious mastitis spreads at milking, so hygiene, segregating or culling infected cows and treatment are key.",
+   "shortExplanation": "Milking hygiene.",
+   "pmid": "8242453",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "These control measures include milking time hygiene, segregation, culling, vaccination, and treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-8242453-2-es",
+   "translationKey": "mastitis-8242453-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué medidas ayudan a controlar la mastitis contagiosa?",
+   "options": [
+    "Dar más grano",
+    "Cambiar el color de las vacas",
+    "Higiene en el ordeño, segregación, descarte, vacunación y tratamiento",
+    "Quitar los bebederos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mastitis contagiosa se transmite en el ordeño, por eso son clave la higiene, separar o descartar infectadas y tratar.",
+   "shortExplanation": "Higiene de ordeño.",
+   "pmid": "8242453",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "These control measures include milking time hygiene, segregation, culling, vaccination, and treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29083115-1-en",
+   "translationKey": "mastitis-29083115-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "In modern dairy herds that control contagious spread, which form of mastitis is most common and costly?",
+   "options": [
+    "Viral mastitis",
+    "Genetic mastitis",
+    "Traumatic mastitis",
+    "Environmental mastitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Once contagious transmission is controlled, environmental mastitis becomes the most common and costly form.",
+   "shortExplanation": "Environmental.",
+   "pmid": "29083115",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Environmental mastitis is the most common and costly form of mastitis in modern dairy herds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29083115-1-es",
+   "translationKey": "mastitis-29083115-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "En rodeos modernos que controlan el contagio, ¿qué forma de mastitis es la más común y costosa?",
+   "options": [
+    "Mastitis viral",
+    "Mastitis genética",
+    "Mastitis traumática",
+    "Mastitis ambiental"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Una vez controlada la transmisión contagiosa, la mastitis ambiental pasa a ser la más común y costosa.",
+   "shortExplanation": "Ambiental.",
+   "pmid": "29083115",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Environmental mastitis is the most common and costly form of mastitis in modern dairy herds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29083115-2-en",
+   "translationKey": "mastitis-29083115-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What does this review argue about classifying mastitis pathogens as 'contagious' or 'environmental'?",
+   "options": [
+    "It is always exact",
+    "The binary classification is misleading for several species",
+    "Only viruses are contagious",
+    "Environmental pathogens never spread between cows"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Species such as S. aureus, S. uberis and S. agalactiae can behave both ways, so the strict binary label misleads.",
+   "shortExplanation": "Misleading binary.",
+   "pmid": "29083115",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "binary classification of species as contagious or environmental is misleading",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29083115-2-es",
+   "translationKey": "mastitis-29083115-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué plantea esta revisión sobre clasificar los patógenos de mastitis como 'contagiosos' o 'ambientales'?",
+   "options": [
+    "Que siempre es exacto",
+    "Que la clasificación binaria es engañosa para varias especies",
+    "Que solo los virus son contagiosos",
+    "Que los ambientales nunca pasan entre vacas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Especies como S. aureus, S. uberis y S. agalactiae pueden comportarse de ambos modos, así que la etiqueta binaria engaña.",
+   "shortExplanation": "Binario engañoso.",
+   "pmid": "29083115",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "binary classification of species as contagious or environmental is misleading",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29083115-3-en",
+   "translationKey": "mastitis-29083115-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Which are major sources of environmental mastitis pathogens such as E. coli and S. uberis?",
+   "options": [
+    "Clean drinking water",
+    "Fresh air",
+    "Cow feces, the indoor environment and used pasture",
+    "Milk tanks only"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Feces, housing and used pasture harbor environmental pathogens; a fecal-oral cycle may amplify them.",
+   "shortExplanation": "Feces and bedding.",
+   "pmid": "29083115",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine faeces, the indoor environment and used pasture are major sources of mastitis pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29083115-3-es",
+   "translationKey": "mastitis-29083115-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuáles son fuentes importantes de patógenos ambientales como E. coli y S. uberis?",
+   "options": [
+    "El agua limpia",
+    "El aire fresco",
+    "La bosta, el ambiente de los galpones y la pastura usada",
+    "Solo los tanques de leche"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La bosta, el alojamiento y la pastura usada albergan patógenos ambientales; un ciclo fecal-oral puede amplificarlos.",
+   "shortExplanation": "Bosta y cama.",
+   "pmid": "29083115",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine faeces, the indoor environment and used pasture are major sources of mastitis pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29083115-4-en",
+   "translationKey": "mastitis-29083115-4",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What is the status of mastitis vaccines according to this review?",
+   "options": [
+    "Vaccines reduce coliform mastitis impact, but gram-positive vaccines remain only 'promising'",
+    "Excellent vaccines exist for all pathogens",
+    "No mastitis vaccine has ever been made",
+    "Only viral mastitis vaccines work"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Coliform (core-antigen) vaccines are effective; gram-positive mastitis vaccines have stalled for decades.",
+   "shortExplanation": "Coliform yes, gram-positive no.",
+   "pmid": "29083115",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Efficacious vaccines are available to reduce the impact of coliform mastitis, but vaccine development for gram-positive mastitis has not progressed beyond the \"promising\" stage for decades",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29083115-4-es",
+   "translationKey": "mastitis-29083115-4",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Cuál es el estado de las vacunas contra mastitis según esta revisión?",
+   "options": [
+    "Las vacunas reducen el impacto de la mastitis por coliformes, pero las de grampositivos siguen 'prometedoras'",
+    "Hay vacunas excelentes para todo",
+    "Nunca se hizo una vacuna",
+    "Solo funcionan las de mastitis viral"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las vacunas para coliformes (antígeno core) son eficaces; las de grampositivos están estancadas hace décadas.",
+   "shortExplanation": "Coliformes sí, grampositivos no.",
+   "pmid": "29083115",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Efficacious vaccines are available to reduce the impact of coliform mastitis, but vaccine development for gram-positive mastitis has not progressed beyond the \"promising\" stage for decades",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664204-1-en",
+   "translationKey": "mastitis-22664204-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "What is the classic rule for preventing environmental mastitis?",
+   "options": [
+    "Keep cows hot and humid",
+    "Keep cows cool, dry and comfortable",
+    "Milk them only once a week",
+    "Keep them in muddy pens"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Reducing moisture and organic contamination—clean, dry bedding, no overcrowding—is the core of control.",
+   "shortExplanation": "Cool, dry, comfortable.",
+   "pmid": "22664204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "keeping cows cool, dry, and comfortable remains paramount in managing environmental mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664204-1-es",
+   "translationKey": "mastitis-22664204-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la regla clásica para prevenir la mastitis ambiental?",
+   "options": [
+    "Mantener a las vacas con calor y humedad",
+    "Mantenerlas frescas, secas y cómodas",
+    "Ordeñarlas una vez por semana",
+    "Tenerlas en corrales con barro"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Reducir la humedad y la contaminación orgánica —cama limpia y seca, sin hacinamiento— es la base del control.",
+   "shortExplanation": "Frescas, secas, cómodas.",
+   "pmid": "22664204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "keeping cows cool, dry, and comfortable remains paramount in managing environmental mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664204-2-en",
+   "translationKey": "mastitis-22664204-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which bedding helps reduce environmental mastitis?",
+   "options": [
+    "Wet straw",
+    "Used sawdust full of manure",
+    "No bedding at all",
+    "Clean, dry inorganic bedding (e.g., sand)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Clean, dry inorganic bedding supports fewer bacteria than organic bedding.",
+   "shortExplanation": "Clean dry inorganic bedding.",
+   "pmid": "22664204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "providing clean, dry inorganic bedding for cows to lay on",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664204-2-es",
+   "translationKey": "mastitis-22664204-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué tipo de cama ayuda a reducir la mastitis ambiental?",
+   "options": [
+    "Paja húmeda",
+    "Aserrín usado con bosta",
+    "Sin cama",
+    "Cama inorgánica limpia y seca (como arena)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La cama inorgánica limpia y seca sostiene menos bacterias que la orgánica.",
+   "shortExplanation": "Cama inorgánica seca.",
+   "pmid": "22664204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "providing clean, dry inorganic bedding for cows to lay on",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-14556693-1-en",
+   "translationKey": "mastitis-14556693-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How do coliform bacteria enter the udder?",
+   "options": [
+    "Through the bloodstream from the gut",
+    "Through the skin of the udder",
+    "Through the teat canal",
+    "Through the air"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The teat canal is the portal of entry; bedding, soil and manure are the sources.",
+   "shortExplanation": "Teat canal.",
+   "pmid": "14556693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The portal of entry into the mammary gland for Gram-negative bacteria is the teat canal",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-14556693-1-es",
+   "translationKey": "mastitis-14556693-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Por dónde entran las bacterias coliformes a la ubre?",
+   "options": [
+    "Por la sangre desde el intestino",
+    "Por la piel de la ubre",
+    "Por el canal del pezón",
+    "Por el aire"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El canal del pezón es la puerta de entrada; la cama, el suelo y la bosta son las fuentes.",
+   "shortExplanation": "Canal del pezón.",
+   "pmid": "14556693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The portal of entry into the mammary gland for Gram-negative bacteria is the teat canal",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-14556693-2-en",
+   "translationKey": "mastitis-14556693-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What is the main host defense against coliform mastitis during lactation?",
+   "options": [
+    "Neutrophils migrating into the gland",
+    "Antibodies from vaccines only",
+    "Eosinophils",
+    "Stomach acid"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Rapid neutrophil recruitment eliminates coliforms; damage is mediated by endotoxin release.",
+   "shortExplanation": "Neutrophils.",
+   "pmid": "14556693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary host defense against coliform mastitis during lactation is the elimination of bacteria by neutrophils",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-14556693-2-es",
+   "translationKey": "mastitis-14556693-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es la principal defensa del huésped contra la mastitis por coliformes en lactancia?",
+   "options": [
+    "Los neutrófilos que migran a la glándula",
+    "Solo anticuerpos vacunales",
+    "Los eosinófilos",
+    "El ácido gástrico"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El reclutamiento rápido de neutrófilos elimina a los coliformes; el daño lo causa la liberación de endotoxina.",
+   "shortExplanation": "Neutrófilos.",
+   "pmid": "14556693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary host defense against coliform mastitis during lactation is the elimination of bacteria by neutrophils",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-14556693-3-en",
+   "translationKey": "mastitis-14556693-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What bacterial ability is directly related to coliform infection of the dry (non-lactating) gland?",
+   "options": [
+    "Producing spores",
+    "Fermenting lactose",
+    "Forming capsules only",
+    "Acquiring iron from mammary secretion"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Dry secretion is rich in lactoferrin, which limits iron; coliforms that acquire iron can infect the dry gland.",
+   "shortExplanation": "Iron acquisition.",
+   "pmid": "14556693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The ability to infect the non-lactating gland is directly related to the ability of bacteria to acquire iron from the mammary secretion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-14556693-3-es",
+   "translationKey": "mastitis-14556693-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué capacidad bacteriana se relaciona directamente con la infección por coliformes de la glándula seca?",
+   "options": [
+    "Formar esporas",
+    "Fermentar lactosa",
+    "Solo formar cápsula",
+    "Obtener hierro de la secreción mamaria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La secreción seca tiene mucha lactoferrina que limita el hierro; los coliformes que logran captarlo infectan la glándula seca.",
+   "shortExplanation": "Captar hierro.",
+   "pmid": "14556693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The ability to infect the non-lactating gland is directly related to the ability of bacteria to acquire iron from the mammary secretion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-14556693-4-en",
+   "translationKey": "mastitis-14556693-4",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "When is the risk of coliform infection highest?",
+   "options": [
+    "Mid-lactation",
+    "During the transitional phases of the dry period",
+    "Only in winter",
+    "Only in calves"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Early dry-off and the period just before calving are high-risk windows for new coliform infections.",
+   "shortExplanation": "Dry-period transitions.",
+   "pmid": "14556693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rates of coliform mastitis are greater during the transitional phases of the non- lactating period than during lactation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-14556693-4-es",
+   "translationKey": "mastitis-14556693-4",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Cuándo es mayor el riesgo de infección por coliformes?",
+   "options": [
+    "A mitad de la lactancia",
+    "En las fases de transición del período seco",
+    "Solo en invierno",
+    "Solo en terneras"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El inicio del secado y el período previo al parto son ventanas de alto riesgo para nuevas infecciones por coliformes.",
+   "shortExplanation": "Transiciones del secado.",
+   "pmid": "14556693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rates of coliform mastitis are greater during the transitional phases of the non- lactating period than during lactation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33508662-1-en",
+   "translationKey": "mastitis-33508662-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Why is Staphylococcus aureus mastitis hard to control?",
+   "options": [
+    "It only lasts one day",
+    "It is a virus",
+    "It causes chronic infections that respond poorly to antibiotics",
+    "It never spreads"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "S. aureus causes chronic intramammary infections with poor treatment response and spreads within the herd.",
+   "shortExplanation": "Chronic, poor cure.",
+   "pmid": "33508662",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "characterized for causing chronic intramammary infections that respond poorly to antimicrobial therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33508662-1-es",
+   "translationKey": "mastitis-33508662-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Por qué es difícil controlar la mastitis por Staphylococcus aureus?",
+   "options": [
+    "Dura solo un día",
+    "Es un virus",
+    "Causa infecciones crónicas que responden mal a los antibióticos",
+    "Nunca se contagia"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "S. aureus causa infecciones intramamarias crónicas con mala respuesta al tratamiento y se disemina en el rodeo.",
+   "shortExplanation": "Crónica, mala cura.",
+   "pmid": "33508662",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "characterized for causing chronic intramammary infections that respond poorly to antimicrobial therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33508662-2-en",
+   "translationKey": "mastitis-33508662-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Against which antibiotic did mastitis S. aureus show the highest resistance worldwide?",
+   "options": [
+    "Penicillin",
+    "Ceftiofur",
+    "Cephalothin",
+    "Gentamicin"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "About 45% of isolates were penicillin-resistant; ceftiofur and cephalothin had the lowest resistance.",
+   "shortExplanation": "Penicillin.",
+   "pmid": "33508662",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The highest overall prevalence of resistant S. aureus was against penicillin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33508662-2-es",
+   "translationKey": "mastitis-33508662-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Frente a qué antibiótico mostró S. aureus de mastitis la mayor resistencia mundial?",
+   "options": [
+    "Penicilina",
+    "Ceftiofur",
+    "Cefalotina",
+    "Gentamicina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Alrededor del 45% de los aislamientos fue resistente a penicilina; ceftiofur y cefalotina tuvieron la menor resistencia.",
+   "shortExplanation": "Penicilina.",
+   "pmid": "33508662",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The highest overall prevalence of resistant S. aureus was against penicillin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33508662-3-en",
+   "translationKey": "mastitis-33508662-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What trend did this meta-analysis find in S. aureus resistance from mastitis?",
+   "options": [
+    "Resistance disappeared",
+    "It stayed constant since 1969",
+    "It only decreased",
+    "Resistance increased over time, especially from 2009"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Resistance increased for almost all antimicrobials, mostly clindamycin, gentamicin and oxacillin.",
+   "shortExplanation": "Increasing.",
+   "pmid": "33508662",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The AMR to almost all the antimicrobials evaluated presented an increasing pattern over time, more apparent from 2009 onwards",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33508662-3-es",
+   "translationKey": "mastitis-33508662-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tendencia halló este metaanálisis en la resistencia de S. aureus de mastitis?",
+   "options": [
+    "La resistencia desapareció",
+    "Se mantuvo igual desde 1969",
+    "Solo disminuyó",
+    "Aumentó con el tiempo, sobre todo desde 2009"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La resistencia aumentó para casi todos los antimicrobianos, más para clindamicina, gentamicina y oxacilina.",
+   "shortExplanation": "En aumento.",
+   "pmid": "33508662",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The AMR to almost all the antimicrobials evaluated presented an increasing pattern over time, more apparent from 2009 onwards",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40868004-1-en",
+   "translationKey": "mastitis-40868004-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Which resistant form of S. aureus is a major concern in bovine mastitis?",
+   "options": [
+    "VRE",
+    "MRSA (methicillin-resistant S. aureus)",
+    "ESBL S. aureus",
+    "MDR-TB"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "MRSA emergence in dairy herds raises animal health and zoonotic concerns.",
+   "shortExplanation": "MRSA.",
+   "pmid": "40868004",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "especially the emergence of methicillin-resistant S. aureus (MRSA)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40868004-1-es",
+   "translationKey": "mastitis-40868004-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué forma resistente de S. aureus preocupa en la mastitis bovina?",
+   "options": [
+    "VRE",
+    "SARM (S. aureus resistente a meticilina)",
+    "S. aureus BLEE",
+    "TB-MDR"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La aparición de SARM en rodeos lecheros preocupa por la salud animal y el riesgo zoonótico.",
+   "shortExplanation": "SARM.",
+   "pmid": "40868004",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "especially the emergence of methicillin-resistant S. aureus (MRSA)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40868004-2-en",
+   "translationKey": "mastitis-40868004-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which diagnostic tools are evaluated for detecting S. aureus mastitis?",
+   "options": [
+    "Only visual inspection",
+    "Blood pressure",
+    "Culture, PCR, MALDI-TOF MS and AI-based systems",
+    "X-rays only"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Detection ranges from culture and PCR to MALDI-TOF mass spectrometry and AI-based systems.",
+   "shortExplanation": "Culture to AI.",
+   "pmid": "40868004",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Diagnostic approaches, including culture, PCR, MALDI-TOF MS, and AI-based systems",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40868004-2-es",
+   "translationKey": "mastitis-40868004-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué herramientas diagnósticas se evalúan para detectar mastitis por S. aureus?",
+   "options": [
+    "Solo inspección visual",
+    "La presión arterial",
+    "Cultivo, PCR, MALDI-TOF MS y sistemas basados en IA",
+    "Solo radiografías"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La detección va del cultivo y la PCR a la espectrometría MALDI-TOF y sistemas con IA.",
+   "shortExplanation": "Del cultivo a la IA.",
+   "pmid": "40868004",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Diagnostic approaches, including culture, PCR, MALDI-TOF MS, and AI-based systems",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32416020-1-en",
+   "translationKey": "mastitis-32416020-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which mechanisms help S. aureus persist inside the udder?",
+   "options": [
+    "Biofilms, capsules, small colony variants and invasion of host cells",
+    "Producing spores",
+    "Photosynthesis",
+    "Flagellar motility only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "These traits protect S. aureus from the cow's immune response and from antibiotics.",
+   "shortExplanation": "Persistence traits.",
+   "pmid": "32416020",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "its ability to form biofilms, polysaccharide capsules small colony variants, and their ability to invade professional and nonprofessional cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32416020-1-es",
+   "translationKey": "mastitis-32416020-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mecanismos ayudan a S. aureus a persistir dentro de la ubre?",
+   "options": [
+    "Biofilms, cápsulas, variantes de colonia pequeña e invasión de células",
+    "Producir esporas",
+    "Fotosíntesis",
+    "Solo motilidad flagelar"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Estos rasgos protegen a S. aureus de la respuesta inmune de la vaca y de los antibióticos.",
+   "shortExplanation": "Rasgos de persistencia.",
+   "pmid": "32416020",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "its ability to form biofilms, polysaccharide capsules small colony variants, and their ability to invade professional and nonprofessional cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32416020-2-en",
+   "translationKey": "mastitis-32416020-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Which alternative therapies have been tested against mastitis S. aureus?",
+   "options": [
+    "Antifungals",
+    "Antivirals",
+    "Insulin",
+    "Probiotic bacteria, bacteriocins and bacteriophages"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Because antibiotics are often insufficient, probiotics, bacteriocins and phages are being explored.",
+   "shortExplanation": "Probiotics, bacteriocins, phages.",
+   "pmid": "32416020",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "alternative therapeutic strategies that were tested against S. aureus isolated from bovine mastitis such as the use of probiotic bacteria, bacteriocins and bacteriophages",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32416020-2-es",
+   "translationKey": "mastitis-32416020-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué terapias alternativas se probaron contra S. aureus de mastitis?",
+   "options": [
+    "Antifúngicos",
+    "Antivirales",
+    "Insulina",
+    "Bacterias probióticas, bacteriocinas y bacteriófagos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Como los antibióticos suelen ser insuficientes, se exploran probióticos, bacteriocinas y fagos.",
+   "shortExplanation": "Probióticos, bacteriocinas, fagos.",
+   "pmid": "32416020",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "alternative therapeutic strategies that were tested against S. aureus isolated from bovine mastitis such as the use of probiotic bacteria, bacteriocins and bacteriophages",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35331225-1-en",
+   "translationKey": "mastitis-35331225-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What has been important in the emergence of S. aureus as a bovine mastitis pathogen?",
+   "options": [
+    "Loss of its cell wall",
+    "Host-adaptation of specific clones to cattle",
+    "Becoming a virus",
+    "Transmission by mosquitoes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Bovine-adapted S. aureus clones evolved and differ geographically; host adaptation underlies their success.",
+   "shortExplanation": "Host adaptation.",
+   "pmid": "35331225",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the importance of host-adaptation in its emergence as a mastitis pathogen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35331225-1-es",
+   "translationKey": "mastitis-35331225-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué fue importante en la emergencia de S. aureus como patógeno de mastitis bovina?",
+   "options": [
+    "Perder la pared celular",
+    "La adaptación al huésped de clones específicos del bovino",
+    "Convertirse en virus",
+    "Transmitirse por mosquitos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Clones de S. aureus adaptados al bovino evolucionaron y varían geográficamente; la adaptación al huésped explica su éxito.",
+   "shortExplanation": "Adaptación al huésped.",
+   "pmid": "35331225",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the importance of host-adaptation in its emergence as a mastitis pathogen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25975626-1-en",
+   "translationKey": "mastitis-25975626-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What is the current situation of S. aureus mastitis vaccines?",
+   "options": [
+    "They give 100% protection",
+    "They are mandatory worldwide",
+    "No vaccine seems to provide reliable protection so far",
+    "They cure chronic cases"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Targets include surface proteins, capsules, biofilm and toxins, but reliable protection has not been achieved.",
+   "shortExplanation": "Not reliable yet.",
+   "pmid": "25975626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "so far, no vaccine seems to provide reliable protection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25975626-1-es",
+   "translationKey": "mastitis-25975626-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es la situación actual de las vacunas contra mastitis por S. aureus?",
+   "options": [
+    "Dan 100% de protección",
+    "Son obligatorias en todo el mundo",
+    "Hasta ahora ninguna parece dar protección confiable",
+    "Curan los casos crónicos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los blancos incluyen proteínas de superficie, cápsula, biofilm y toxinas, pero no se logró protección confiable.",
+   "shortExplanation": "Aún no confiable.",
+   "pmid": "25975626",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "so far, no vaccine seems to provide reliable protection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-10328836-1-en",
+   "translationKey": "mastitis-10328836-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "The classic five-point mastitis control plan was very effective against which type of mastitis?",
+   "options": [
+    "Environmental mastitis",
+    "Viral mastitis",
+    "Fungal mastitis",
+    "Contagious mastitis, with little effect on environmental mastitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The five-point plan cut contagious mastitis but did little against environmental pathogens like S. uberis.",
+   "shortExplanation": "Contagious.",
+   "pmid": "10328836",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "has had little effect on the incidence of mastitis due to bacteria which infect the gland from an environmental reservoir",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-10328836-1-es",
+   "translationKey": "mastitis-10328836-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Contra qué tipo de mastitis fue muy eficaz el plan clásico de cinco puntos?",
+   "options": [
+    "Mastitis ambiental",
+    "Mastitis viral",
+    "Mastitis fúngica",
+    "Mastitis contagiosa, con poco efecto sobre la ambiental"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El plan de cinco puntos redujo la mastitis contagiosa pero poco hizo contra patógenos ambientales como S. uberis.",
+   "shortExplanation": "Contagiosa.",
+   "pmid": "10328836",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "has had little effect on the incidence of mastitis due to bacteria which infect the gland from an environmental reservoir",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-10328836-2-en",
+   "translationKey": "mastitis-10328836-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What special requirement must a mastitis vaccine meet, according to this review?",
+   "options": [
+    "It must cause strong fever",
+    "It must control infection without a marked inflammatory response",
+    "It must be given in feed",
+    "It must kill all udder cells"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Inflammation itself damages milk quality, so effective vaccines should control infection without marked inflammation.",
+   "shortExplanation": "Without inflammation.",
+   "pmid": "10328836",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccines against mastitis must, however, be able to control infection without the participation of a marked inflammatory response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-10328836-2-es",
+   "translationKey": "mastitis-10328836-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué requisito especial debe cumplir una vacuna contra mastitis según esta revisión?",
+   "options": [
+    "Debe causar fiebre fuerte",
+    "Debe controlar la infección sin una respuesta inflamatoria marcada",
+    "Debe darse en el alimento",
+    "Debe matar las células de la ubre"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La inflamación en sí daña la calidad de la leche, por eso la vacuna debe controlar la infección sin inflamación marcada.",
+   "shortExplanation": "Sin inflamación.",
+   "pmid": "10328836",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccines against mastitis must, however, be able to control infection without the participation of a marked inflammatory response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34085166-1-en",
+   "translationKey": "mastitis-34085166-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Streptococcus uberis is mainly classified as which type of mastitis pathogen?",
+   "options": [
+    "Environmental",
+    "Viral",
+    "Strictly contagious",
+    "Parasitic"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "S. uberis is an environmental pathogen causing clinical and subclinical infections in lactating and dry cows.",
+   "shortExplanation": "Environmental.",
+   "pmid": "34085166",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This pathogen is an environmental pathogen associated with subclinical and clinical intramammary infection (IMI) in both lactating and non-lactating cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34085166-1-es",
+   "translationKey": "mastitis-34085166-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Streptococcus uberis se clasifica sobre todo como ¿qué tipo de patógeno de mastitis?",
+   "options": [
+    "Ambiental",
+    "Viral",
+    "Estrictamente contagioso",
+    "Parasitario"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "S. uberis es un patógeno ambiental que causa infecciones clínicas y subclínicas en vacas en lactancia y secas.",
+   "shortExplanation": "Ambiental.",
+   "pmid": "34085166",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This pathogen is an environmental pathogen associated with subclinical and clinical intramammary infection (IMI) in both lactating and non-lactating cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34085166-2-en",
+   "translationKey": "mastitis-34085166-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What are MSCRAMMs in the pathogenesis of S. uberis mastitis?",
+   "options": [
+    "Antibiotics produced by the cow",
+    "Milk sugars",
+    "Bacterial surface proteins that bind host matrix molecules such as fibronectin and collagen",
+    "Viral capsids"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "MSCRAMMs mediate adhesion to host cells, an early step before internalization into mammary cells.",
+   "shortExplanation": "Adhesins.",
+   "pmid": "34085166",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "microbial surface components recognizing adhesive matrix molecules (MSCRAMMs)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34085166-2-es",
+   "translationKey": "mastitis-34085166-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué son las MSCRAMM en la patogenia de la mastitis por S. uberis?",
+   "options": [
+    "Antibióticos de la vaca",
+    "Azúcares de la leche",
+    "Proteínas bacterianas de superficie que se unen a moléculas de la matriz como fibronectina y colágeno",
+    "Cápsides virales"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las MSCRAMM median la adhesión a células del huésped, paso temprano antes de la internalización en células mamarias.",
+   "shortExplanation": "Adhesinas.",
+   "pmid": "34085166",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "microbial surface components recognizing adhesive matrix molecules (MSCRAMMs)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37844492-1-en",
+   "translationKey": "mastitis-37844492-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did the meta-analysis conclude about antimicrobial resistance in S. uberis?",
+   "options": [
+    "It is always 0%",
+    "It is always 100%",
+    "It is identical in all continents",
+    "It is highly variable, so no single average could be reported"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Resistance proportions varied widely and were influenced by many unmeasured factors.",
+   "shortExplanation": "Highly variable.",
+   "pmid": "37844492",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "where it was not possible to inform a unique average proportion of resistance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37844492-1-es",
+   "translationKey": "mastitis-37844492-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué concluyó el metaanálisis sobre la resistencia antimicrobiana en S. uberis?",
+   "options": [
+    "Siempre es 0%",
+    "Siempre es 100%",
+    "Es idéntica en todos los continentes",
+    "Es muy variable, por lo que no se pudo dar un promedio único"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las proporciones de resistencia variaron mucho y dependieron de muchos factores no medidos.",
+   "shortExplanation": "Muy variable.",
+   "pmid": "37844492",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "where it was not possible to inform a unique average proportion of resistance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-9646469-1-en",
+   "translationKey": "mastitis-9646469-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did in vitro studies show about Streptococcus dysgalactiae and mammary epithelial cells?",
+   "options": [
+    "It cannot attach to them",
+    "It survives inside them for long periods without losing viability",
+    "It kills them instantly",
+    "It turns them into neutrophils"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "S. dysgalactiae adheres to and is internalized by mammary cells, surviving inside them—a possible way to evade defenses.",
+   "shortExplanation": "Survives intracellularly.",
+   "pmid": "9646469",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "S. dysgalactiae survived within mammary epithelial cells for extended periods of time without losing viability",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-9646469-1-es",
+   "translationKey": "mastitis-9646469-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostraron estudios in vitro sobre Streptococcus dysgalactiae y las células epiteliales mamarias?",
+   "options": [
+    "No puede adherirse",
+    "Sobrevive dentro de ellas por largos períodos sin perder viabilidad",
+    "Las mata al instante",
+    "Las convierte en neutrófilos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "S. dysgalactiae se adhiere y es internalizado por células mamarias y sobrevive dentro, una posible forma de evadir defensas.",
+   "shortExplanation": "Sobrevive intracelular.",
+   "pmid": "9646469",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "S. dysgalactiae survived within mammary epithelial cells for extended periods of time without losing viability",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35875575-1-en",
+   "translationKey": "mastitis-35875575-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Escherichia coli is one of the main causes of which type of mastitis?",
+   "options": [
+    "Chronic subclinical mastitis only",
+    "Acute clinical mastitis",
+    "Viral mastitis",
+    "Mastitis in sheep only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Mammary pathogenic E. coli (MPEC) is a main agent of acute clinical mastitis in dairy cattle.",
+   "shortExplanation": "Acute clinical.",
+   "pmid": "35875575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mammary pathogenic Escherichia (E.) coli (MPEC) is one of the main etiologic agents of acute clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35875575-1-es",
+   "translationKey": "mastitis-35875575-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Escherichia coli es una de las principales causas de ¿qué tipo de mastitis?",
+   "options": [
+    "Solo subclínica crónica",
+    "Mastitis clínica aguda",
+    "Mastitis viral",
+    "Solo mastitis ovina"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "E. coli mamario patógeno (MPEC) es un agente principal de mastitis clínica aguda en vacas lecheras.",
+   "shortExplanation": "Clínica aguda.",
+   "pmid": "35875575",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mammary pathogenic Escherichia (E.) coli (MPEC) is one of the main etiologic agents of acute clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35021119-1-en",
+   "translationKey": "mastitis-35021119-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What is the main virulence factor of E. coli in mastitis?",
+   "options": [
+    "A capsule of hyaluronic acid",
+    "Spores",
+    "A cytotoxin from fungi",
+    "Lipopolysaccharide (LPS), causing endotoxic shock"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "LPS binds TLR4 and triggers a strong inflammatory response that can cause endotoxic shock.",
+   "shortExplanation": "LPS.",
+   "pmid": "35021119",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Its main virulence factor is the lipopolysaccharide (LPS) that is responsible for causing an endotoxic shock",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35021119-1-es",
+   "translationKey": "mastitis-35021119-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es el principal factor de virulencia de E. coli en la mastitis?",
+   "options": [
+    "Una cápsula de ácido hialurónico",
+    "Esporas",
+    "Una citotoxina fúngica",
+    "El lipopolisacárido (LPS), que causa shock endotóxico"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El LPS se une a TLR4 y desencadena una fuerte respuesta inflamatoria que puede causar shock endotóxico.",
+   "shortExplanation": "LPS.",
+   "pmid": "35021119",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Its main virulence factor is the lipopolysaccharide (LPS) that is responsible for causing an endotoxic shock",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35021119-2-en",
+   "translationKey": "mastitis-35021119-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which receptor recognizes E. coli LPS in the udder?",
+   "options": [
+    "Toll-like receptor 4 (TLR4)",
+    "Insulin receptor",
+    "TLR3",
+    "Fc epsilon receptor"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "LPS-TLR4 binding induces chemokines (IL-8) and pro-inflammatory cytokines (IL-6, IL-1β).",
+   "shortExplanation": "TLR4.",
+   "pmid": "35021119",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "by binding to the toll-like receptor 4 (TLR4)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35021119-2-es",
+   "translationKey": "mastitis-35021119-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué receptor reconoce el LPS de E. coli en la ubre?",
+   "options": [
+    "El receptor tipo Toll 4 (TLR4)",
+    "El receptor de insulina",
+    "TLR3",
+    "El receptor Fc épsilon"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La unión LPS-TLR4 induce quimiocinas (IL-8) y citocinas proinflamatorias (IL-6, IL-1β).",
+   "shortExplanation": "TLR4.",
+   "pmid": "35021119",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "by binding to the toll-like receptor 4 (TLR4)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30624967-1-en",
+   "translationKey": "mastitis-30624967-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Why is Shiga toxin-producing E. coli (STEC) in mastitis likely underestimated?",
+   "options": [
+    "It cannot grow in milk",
+    "It is always detected",
+    "Many labs detect E. coli without subtyping, so STEC is underdiagnosed",
+    "It only infects humans"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "STEC in mastitis is underdiagnosed; its low infectious dose makes it a public health concern.",
+   "shortExplanation": "No subtyping.",
+   "pmid": "30624967",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the prevalence of STEC in mastitis remains underdiagnosed and underreported",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30624967-1-es",
+   "translationKey": "mastitis-30624967-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Por qué la E. coli productora de toxina Shiga (STEC) en mastitis probablemente está subestimada?",
+   "options": [
+    "No crece en la leche",
+    "Siempre se detecta",
+    "Muchos laboratorios detectan E. coli sin subtipificar, y la STEC queda subdiagnosticada",
+    "Solo infecta humanos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La STEC en mastitis está subdiagnosticada; su baja dosis infectiva la vuelve un problema de salud pública.",
+   "shortExplanation": "Sin subtipificar.",
+   "pmid": "30624967",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the prevalence of STEC in mastitis remains underdiagnosed and underreported",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38786120-1-en",
+   "translationKey": "mastitis-38786120-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What does the evidence say about resistant mastitis coliforms threatening human health directly?",
+   "options": [
+    "They are proven to cause most human infections",
+    "There is no conclusive evidence of a direct threat, though similarities exist",
+    "They cannot carry resistance genes",
+    "They are harmless and never resistant"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Mastitis coliforms can carry ESBL genes like hospital strains, but direct transmission to humans is not conclusively shown.",
+   "shortExplanation": "Not conclusive.",
+   "pmid": "38786120",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the existing literature does not provide conclusive evidence to assert that coliforms responsible for mastitis in cows pose a direct threat to human health",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38786120-1-es",
+   "translationKey": "mastitis-38786120-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué dice la evidencia sobre si los coliformes resistentes de mastitis amenazan directamente la salud humana?",
+   "options": [
+    "Está probado que causan la mayoría de las infecciones humanas",
+    "No hay evidencia concluyente de amenaza directa, aunque hay similitudes",
+    "No pueden portar genes de resistencia",
+    "Son inocuos y nunca resistentes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los coliformes de mastitis pueden portar genes BLEE como cepas hospitalarias, pero la transmisión directa a humanos no está demostrada.",
+   "shortExplanation": "No concluyente.",
+   "pmid": "38786120",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the existing literature does not provide conclusive evidence to assert that coliforms responsible for mastitis in cows pose a direct threat to human health",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664206-1-en",
+   "translationKey": "mastitis-22664206-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Among gram-negative mastitis bacteria, which tends to cause the most severe cases?",
+   "options": [
+    "Klebsiella spp.",
+    "Serratia spp.",
+    "Enterobacter spp.",
+    "Corynebacterium bovis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Klebsiella causes the most severe cases, followed by E. coli; Serratia and Enterobacter are milder.",
+   "shortExplanation": "Klebsiella.",
+   "pmid": "22664206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Klebsiella spp are causing the most severe cases, closely followed by E coli",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664206-1-es",
+   "translationKey": "mastitis-22664206-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Entre las bacterias gramnegativas de mastitis, ¿cuál tiende a causar los casos más graves?",
+   "options": [
+    "Klebsiella spp.",
+    "Serratia spp.",
+    "Enterobacter spp.",
+    "Corynebacterium bovis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Klebsiella causa los casos más graves, seguida de E. coli; Serratia y Enterobacter son más leves.",
+   "shortExplanation": "Klebsiella.",
+   "pmid": "22664206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Klebsiella spp are causing the most severe cases, closely followed by E coli",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664206-2-en",
+   "translationKey": "mastitis-22664206-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Why can Serratia marcescens mastitis outbreaks be linked to teat disinfectants?",
+   "options": [
+    "The disinfectant feeds the cow",
+    "Serratia only grows in milk",
+    "Disinfectants have no effect on bacteria",
+    "Serratia can resist specific biocides and spread through the disinfectant"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Biocide-resistant Serratia can contaminate teat disinfectants, which must then be removed from the environment.",
+   "shortExplanation": "Biocide resistance.",
+   "pmid": "22664206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resistance against specific biocides will lead to transmission of infection through teat disinfectants",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664206-2-es",
+   "translationKey": "mastitis-22664206-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Por qué los brotes de mastitis por Serratia marcescens pueden vincularse a los desinfectantes de pezón?",
+   "options": [
+    "El desinfectante alimenta a la vaca",
+    "Serratia solo crece en la leche",
+    "Los desinfectantes no afectan bacterias",
+    "Serratia puede resistir ciertos biocidas y diseminarse por el desinfectante"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Serratia resistente a biocidas puede contaminar desinfectantes de pezón, que deben retirarse del ambiente.",
+   "shortExplanation": "Resistencia a biocidas.",
+   "pmid": "22664206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resistance against specific biocides will lead to transmission of infection through teat disinfectants",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664206-3-en",
+   "translationKey": "mastitis-22664206-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What most likely explains differences in clinical severity among gram-negative mastitis pathogens?",
+   "options": [
+    "Their color on agar",
+    "Their size",
+    "The structure of the lipid A fraction of their LPS",
+    "The cow's coat color"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Differences in lipid A of LPS between and within species likely explain severity differences.",
+   "shortExplanation": "Lipid A.",
+   "pmid": "22664206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the most likely explanation appears to be the structure of the lipid A fraction of the LPS",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22664206-3-es",
+   "translationKey": "mastitis-22664206-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué explica probablemente las diferencias de gravedad clínica entre los gramnegativos de mastitis?",
+   "options": [
+    "Su color en agar",
+    "Su tamaño",
+    "La estructura del lípido A de su LPS",
+    "El color del pelaje de la vaca"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las diferencias en el lípido A del LPS entre y dentro de especies explicarían las diferencias de gravedad.",
+   "shortExplanation": "Lípido A.",
+   "pmid": "22664206",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the most likely explanation appears to be the structure of the lipid A fraction of the LPS",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-11873813-1-en",
+   "translationKey": "mastitis-11873813-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What does the E. coli J5 vaccine do in dairy cows?",
+   "options": [
+    "Prevents all mastitis",
+    "Reduces the severity of clinical coliform mastitis",
+    "Increases milk fat",
+    "Treats S. aureus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The J5 core-antigen bacterin reduces the severity of coliform mastitis, though it does not prevent all infections.",
+   "shortExplanation": "Reduces severity.",
+   "pmid": "11873813",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The severity of clinical symptoms of coliform mastitis has been shown to be reduced by immunization with the Escherichia coli J5 vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-11873813-1-es",
+   "translationKey": "mastitis-11873813-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué hace la vacuna J5 de E. coli en vacas lecheras?",
+   "options": [
+    "Previene toda mastitis",
+    "Reduce la gravedad de la mastitis clínica por coliformes",
+    "Aumenta la grasa de la leche",
+    "Trata S. aureus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La bacterina J5 de antígeno core reduce la gravedad de la mastitis por coliformes, aunque no evita todas las infecciones.",
+   "shortExplanation": "Reduce la gravedad.",
+   "pmid": "11873813",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The severity of clinical symptoms of coliform mastitis has been shown to be reduced by immunization with the Escherichia coli J5 vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-12682942-1-en",
+   "translationKey": "mastitis-12682942-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which bacterial mutants are used in commercial core-antigen coliform mastitis vaccines?",
+   "options": [
+    "S. aureus Newman and USA300",
+    "Mycoplasma bovis PG45",
+    "Listeria EGD",
+    "E. coli O111:B4 (J5) and Salmonella Typhimurium Re-17"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "These rough mutants expose the conserved LPS core, giving cross-protection against different gram-negatives.",
+   "shortExplanation": "J5 and Re-17.",
+   "pmid": "12682942",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the core antigen bacterins Escherichia coli O111:B4 (strain J5) and Salmonella typhimurium Re-17",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-12682942-1-es",
+   "translationKey": "mastitis-12682942-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mutantes bacterianos se usan en vacunas comerciales de antígeno core contra mastitis por coliformes?",
+   "options": [
+    "S. aureus Newman y USA300",
+    "Mycoplasma bovis PG45",
+    "Listeria EGD",
+    "E. coli O111:B4 (J5) y Salmonella Typhimurium Re-17"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Estos mutantes rugosos exponen el core conservado del LPS y dan protección cruzada contra distintos gramnegativos.",
+   "shortExplanation": "J5 y Re-17.",
+   "pmid": "12682942",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the core antigen bacterins Escherichia coli O111:B4 (strain J5) and Salmonella typhimurium Re-17",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35909617-1-en",
+   "translationKey": "mastitis-35909617-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which feature of Mycoplasma bovis makes certain antibiotics ineffective?",
+   "options": [
+    "It has a very thick wall",
+    "It forms spores",
+    "It lacks a cell wall",
+    "It lives only in soil"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mycoplasmas lack a cell wall, so wall-targeting antibiotics like beta-lactams do not work.",
+   "shortExplanation": "No cell wall.",
+   "pmid": "35909617",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is highly contagious and resistant to antibiotics and lack cell wall",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35909617-1-es",
+   "translationKey": "mastitis-35909617-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué característica de Mycoplasma bovis vuelve ineficaces a ciertos antibióticos?",
+   "options": [
+    "Tiene una pared muy gruesa",
+    "Forma esporas",
+    "Carece de pared celular",
+    "Solo vive en el suelo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los micoplasmas no tienen pared celular, así que los antibióticos que actúan sobre la pared, como los betalactámicos, no sirven.",
+   "shortExplanation": "Sin pared.",
+   "pmid": "35909617",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is highly contagious and resistant to antibiotics and lack cell wall",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35909617-2-en",
+   "translationKey": "mastitis-35909617-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How do Mycoplasma bovis mastitis outbreaks usually start?",
+   "options": [
+    "By introducing infected cows into a farm",
+    "From rainwater",
+    "From feed grain",
+    "From wild birds only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Most outbreaks start with purchased infected cows, maintained by poor hygiene and cow-to-cow spread.",
+   "shortExplanation": "Introduced cows.",
+   "pmid": "35909617",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Outbreaks mostly originate from introduction of diseased dairy cows to a farm",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35909617-2-es",
+   "translationKey": "mastitis-35909617-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo suelen comenzar los brotes de mastitis por Mycoplasma bovis?",
+   "options": [
+    "Al introducir vacas infectadas al establecimiento",
+    "Por agua de lluvia",
+    "Por el grano del alimento",
+    "Solo por aves silvestres"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mayoría de los brotes empieza con vacas compradas infectadas y se mantiene por mala higiene y contagio entre vacas.",
+   "shortExplanation": "Vacas introducidas.",
+   "pmid": "35909617",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Outbreaks mostly originate from introduction of diseased dairy cows to a farm",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38515536-1-en",
+   "translationKey": "mastitis-38515536-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What is the current status of treatment and vaccines for Mycoplasma bovis mastitis?",
+   "options": [
+    "Penicillin cures it",
+    "A highly effective vaccine is widely sold",
+    "It resolves by itself in days",
+    "There is no effective treatment and no effective commercial vaccine"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Intrinsic beta-lactam resistance, growing AMR and unknown virulence mechanisms leave no effective treatment or vaccine.",
+   "shortExplanation": "None effective.",
+   "pmid": "38515536",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "there is no effective treatment for M. bovis mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38515536-1-es",
+   "translationKey": "mastitis-38515536-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es el estado actual del tratamiento y las vacunas para la mastitis por Mycoplasma bovis?",
+   "options": [
+    "La penicilina la cura",
+    "Se vende una vacuna muy eficaz",
+    "Se resuelve sola en días",
+    "No hay tratamiento eficaz ni vacuna comercial eficaz"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La resistencia intrínseca a betalactámicos, la resistencia creciente y la virulencia poco conocida dejan sin tratamiento ni vacuna eficaces.",
+   "shortExplanation": "Ninguno eficaz.",
+   "pmid": "38515536",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "there is no effective treatment for M. bovis mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38515536-2-en",
+   "translationKey": "mastitis-38515536-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Why has Mycoplasma bovis often gone undetected in dairy farms?",
+   "options": [
+    "It is always symptomatic",
+    "Some cows are asymptomatic or shed it intermittently, and testing was lacking",
+    "It turns milk blue",
+    "It is easy to culture in a day"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Silent carriers, intermittent shedding and limited testing allowed M. bovis to spread undetected.",
+   "shortExplanation": "Silent carriers.",
+   "pmid": "38515536",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "some infected cows are asymptomatic or may not shed the pathogen for weeks to years",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38515536-2-es",
+   "translationKey": "mastitis-38515536-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Por qué Mycoplasma bovis pasó a menudo inadvertido en los tambos?",
+   "options": [
+    "Siempre da síntomas",
+    "Algunas vacas son asintomáticas o lo eliminan en forma intermitente, y faltaban pruebas",
+    "Vuelve azul la leche",
+    "Se cultiva fácil en un día"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Portadoras silenciosas, eliminación intermitente y pocas pruebas permitieron que se difundiera sin detectarse.",
+   "shortExplanation": "Portadoras silenciosas.",
+   "pmid": "38515536",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "some infected cows are asymptomatic or may not shed the pathogen for weeks to years",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-11361099-1-en",
+   "translationKey": "mastitis-11361099-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What type of organism is Prototheca zopfii, a cause of bovine mastitis?",
+   "options": [
+    "A bacterium",
+    "A virus",
+    "An alga",
+    "A prion"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Prototheca is an achlorophyllous alga causing therapy-resistant mastitis in machine-milked cows.",
+   "shortExplanation": "Alga.",
+   "pmid": "11361099",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The mastitis caused by P. zopfii alga",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-11361099-1-es",
+   "translationKey": "mastitis-11361099-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipo de organismo es Prototheca zopfii, causante de mastitis bovina?",
+   "options": [
+    "Una bacteria",
+    "Un virus",
+    "Un alga",
+    "Un prion"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Prototheca es un alga sin clorofila que causa mastitis resistente a la terapia en vacas de ordeño mecánico.",
+   "shortExplanation": "Alga.",
+   "pmid": "11361099",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The mastitis caused by P. zopfii alga",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-11361099-2-en",
+   "translationKey": "mastitis-11361099-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which statement about Prototheca mastitis is correct?",
+   "options": [
+    "It is usually therapy-resistant",
+    "It responds well to penicillin",
+    "It only affects beef calves",
+    "It is caused by a virus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Prototheca mastitis is therapy-resistant; infected cows are often culled, and poor management favors endemic herds.",
+   "shortExplanation": "Therapy-resistant.",
+   "pmid": "11361099",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "mostly appears sporadically in a therapy-resistant form",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-11361099-2-es",
+   "translationKey": "mastitis-11361099-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué afirmación sobre la mastitis por Prototheca es correcta?",
+   "options": [
+    "Suele ser resistente a la terapia",
+    "Responde bien a la penicilina",
+    "Solo afecta terneros de carne",
+    "La causa un virus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mastitis por Prototheca es resistente al tratamiento; las vacas infectadas suelen descartarse, y el mal manejo favorece rodeos endémicos.",
+   "shortExplanation": "Resistente a la terapia.",
+   "pmid": "11361099",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "mostly appears sporadically in a therapy-resistant form",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38584301-1-en",
+   "translationKey": "mastitis-38584301-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What is surprising about non-aureus staphylococci and mammaliicocci (NASM) in mastitis?",
+   "options": [
+    "They are viruses",
+    "They never cause disease",
+    "They only live in soil",
+    "Besides causing mastitis, some studies suggest a protective role"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "NASM cause increasing mastitis, including resistant strains, but some may protect the udder against major pathogens.",
+   "shortExplanation": "Possibly protective.",
+   "pmid": "38584301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "some studies also point to its protective role against mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38584301-1-es",
+   "translationKey": "mastitis-38584301-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué es sorprendente de los estafilococos no aureus y mammaliicocos (NASM) en la mastitis?",
+   "options": [
+    "Son virus",
+    "Nunca causan enfermedad",
+    "Solo viven en el suelo",
+    "Además de causar mastitis, algunos estudios sugieren un rol protector"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los NASM causan cada vez más mastitis, incluso cepas resistentes, pero algunos podrían proteger la ubre frente a patógenos mayores.",
+   "shortExplanation": "Posible protección.",
+   "pmid": "38584301",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "some studies also point to its protective role against mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-16882453-1-en",
+   "translationKey": "mastitis-16882453-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Why does the udder become inflamed during mastitis?",
+   "options": [
+    "Because milk is too cold",
+    "Because immune cells and soluble factors act together to eliminate invading microbes",
+    "Because of excess fat",
+    "Because the cow is pregnant"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Inflammation is the immune response; its factors differ depending on the infecting pathogen.",
+   "shortExplanation": "Immune response.",
+   "pmid": "16882453",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mammary gland inflammation is a consequence of the activity of a number of cell and soluble factors that function together to eliminate invading microorganisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-16882453-1-es",
+   "translationKey": "mastitis-16882453-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué se inflama la ubre en la mastitis?",
+   "options": [
+    "Porque la leche está fría",
+    "Porque células inmunes y factores solubles actúan juntos para eliminar microbios invasores",
+    "Por exceso de grasa",
+    "Porque la vaca está preñada"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La inflamación es la respuesta inmune; sus factores varían según el patógeno que infecta.",
+   "shortExplanation": "Respuesta inmune.",
+   "pmid": "16882453",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mammary gland inflammation is a consequence of the activity of a number of cell and soluble factors that function together to eliminate invading microorganisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34026893-1-en",
+   "translationKey": "mastitis-34026893-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Why is biofilm formation studied in bovine mastitis?",
+   "options": [
+    "It makes milk sweeter",
+    "It speeds healing",
+    "It could explain cases not resolved by standard antibiotic treatment",
+    "It prevents infection"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Chronic biofilm infections resist antibiotics, but the in vivo role of biofilm in the udder is still unclear.",
+   "shortExplanation": "Treatment failure.",
+   "pmid": "34026893",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "biofilm formation could be a possible explanation for mastitis cases that are not resolved by standard treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34026893-1-es",
+   "translationKey": "mastitis-34026893-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué se estudia la formación de biofilm en la mastitis bovina?",
+   "options": [
+    "Endulza la leche",
+    "Acelera la curación",
+    "Podría explicar casos que no se resuelven con el tratamiento antibiótico estándar",
+    "Previene la infección"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las infecciones crónicas por biofilm resisten antibióticos, aunque su papel real dentro de la ubre aún no está claro.",
+   "shortExplanation": "Falla terapéutica.",
+   "pmid": "34026893",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "biofilm formation could be a possible explanation for mastitis cases that are not resolved by standard treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34026893-2-en",
+   "translationKey": "mastitis-34026893-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What is the main gap in biofilm research in bovine mastitis?",
+   "options": [
+    "Very few studies examine biofilms inside the udder in vivo",
+    "There are too many in vivo studies",
+    "Biofilms cannot be grown in vitro",
+    "No milk isolates have been tested"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Most work tests milk isolates in vitro; only two papers located biofilms inside infected udders.",
+   "shortExplanation": "Few in vivo studies.",
+   "pmid": "34026893",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Only two papers investigate the location and distribution of bacterial biofilms inside udders of dairy cows with mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34026893-2-es",
+   "translationKey": "mastitis-34026893-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Cuál es el principal vacío en la investigación de biofilm en mastitis bovina?",
+   "options": [
+    "Muy pocos estudios examinan biofilms dentro de la ubre in vivo",
+    "Hay demasiados estudios in vivo",
+    "No se pueden cultivar biofilms in vitro",
+    "No se probaron aislamientos de leche"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mayoría prueba aislamientos de leche in vitro; solo dos trabajos ubicaron biofilms dentro de ubres infectadas.",
+   "shortExplanation": "Pocos estudios in vivo.",
+   "pmid": "34026893",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Only two papers investigate the location and distribution of bacterial biofilms inside udders of dairy cows with mastitis",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },

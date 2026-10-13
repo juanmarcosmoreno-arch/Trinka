@@ -80,6 +80,7 @@ public enum Theme {
         case .diagnosticMethods: Color(light: 0x3F7F8C, dark: 0x92CFDA)
         case .foodAnalysis: Color(light: 0x9A7A2E, dark: 0xE6CB7E)
         case .historyOfScience: Color(light: 0x7A6A58, dark: 0xCDBBA6)
+        case .bovineMastitis: Color(light: 0x8A5A7A, dark: 0xD9A8C8)
         }
     }
 }

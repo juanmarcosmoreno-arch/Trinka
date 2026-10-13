@@ -28,6 +28,7 @@ S = {
 "category.diagnosticMethods": ("Diagnostic Methods", "Métodos diagnósticos"),
 "category.foodAnalysis": ("Food Analysis", "Análisis de alimentos"),
 "category.historyOfScience": ("History of Science", "Historia de la ciencia"),
+"category.bovineMastitis": ("Bovine Mastitis", "Mastitis bovina"),
 
 "difficulty.beginner": ("Basic", "Básico"),
 "difficulty.curious": ("Curious", "Curioso"),

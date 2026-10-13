@@ -70,7 +70,8 @@ CACHE = os.path.join(HERE, ".cache", "articles.json")
 ABBR = {"microbiology": "micro", "immunology": "immuno", "genetics": "genetics", "neuroscience": "neuro",
         "humanPhysiology": "physio", "medicine": "medicine", "biotechnology": "biotech", "nutrition": "nutrition",
         "veterinaryScience": "vet", "generalScience": "general", "infectiousDiseases": "infect",
-        "diagnosticMethods": "dx", "foodAnalysis": "food", "historyOfScience": "history"}
+        "diagnosticMethods": "dx", "foodAnalysis": "food", "historyOfScience": "history",
+        "bovineMastitis": "mastitis"}
 
 
 def load_bank():
