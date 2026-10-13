@@ -1,5 +1,5 @@
 {
- "version": 37,
+ "version": 38,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -7140,6 +7140,399 @@
    "publicationTypes": [
     "Journal Article",
     "Scoping Review"
+   ]
+  },
+  {
+   "pmid": "29868620",
+   "title": "Herd-Level Mastitis-Associated Costs on Canadian Dairy Farms.",
+   "authors": [
+    "Aghamohammadi M",
+    "Haine D",
+    "Kelton DF",
+    "Barkema HW",
+    "Hogeveen H",
+    "Keefe GP",
+    "Dufour S"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2018,
+   "doi": "10.3389/fvets.2018.00100",
+   "abstract": "Mastitis imposes considerable and recurring economic losses on the dairy industry worldwide. The main objective of this study was to estimate herd-level costs incurred by expenditures and production losses associated with mastitis on Canadian dairy farms in 2015, based on producer reports. Previously, published mastitis economic frameworks were used to develop an economic model with the most important cost components. Components investigated were divided between clinical mastitis (CM), subclinical mastitis (SCM), and other costs components (i.e., preventive measures and product quality). A questionnaire was mailed to 374 dairy producers randomly selected from the (Canadian National Dairy Study 2015) to collect data on these costs components, and 145 dairy producers returned a completed questionnaire. For each herd, costs due to the different mastitis-related components were computed by applying the values reported by the dairy producer to the developed economic model. Then, for each herd, a proportion of the costs attributable to a specific component was computed by dividing absolute costs for this component by total herd mastitis-related costs. Median self-reported CM incidence was 19 cases/100 cow-year and mean self-reported bulk milk somatic cell count was 184,000 cells/mL. Most producers reported using post-milking teat disinfection (97%) and dry cow therapy (93%), and a substantial proportion of producers reported using pre-milking teat disinfection (79%) and wearing gloves during milking (77%). Mastitis costs were substantial (662 CAD per milking cow per year for a typical Canadian dairy farm), with a large portion of the costs (48%) being attributed to SCM, and 34 and 15% due to CM and implementation of preventive measures, respectively. For SCM, the two most important cost components were the subsequent milk yield reduction and culling (72 and 25% of SCM costs, respectively). For CM, first, second, and third most important cost components were culling (48% of CM costs), milk yield reduction following the CM events (34%), and discarded milk (11%), respectively. This study is the first since 1990 to investigate costs of mastitis in Canada. The model developed in the current study can be used to compute mastitis costs at the herd and national level in Canada.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "26302854",
+   "title": "Cow-specific risk factors for clinical mastitis in Brazilian dairy cattle.",
+   "authors": [
+    "Oliveira CS",
+    "Hogeveen H",
+    "Botelho AM",
+    "Maia PV",
+    "Coelho SG",
+    "Haddad JP"
+   ],
+   "journal": "Preventive veterinary medicine",
+   "year": 2015,
+   "doi": "10.1016/j.prevetmed.2015.08.001",
+   "abstract": "Information related to mastitis risk factors is useful for the design and implementation of clinical mastitis (CM) control programs. The first objective of our study was to model the risk of CM under Brazilian conditions, using cow-specific risk factors. Our second objective was to explore which risk factors were associated with the occurrence of the most common pathogens involved in Brazilian CM infections. The analyses were based on 65 months of data from 9,789 dairy cows and 12,464 CM cases. Cow-specific risk factors that could easily be measured in standard Brazilian dairy farms were used in the statistical analyses, which included logistic regression and multinomial logistic regression. The first month of lactation, high somatic cell count, rainy season and history of clinical mastitis cases were factors associated with CM for both primiparous and multiparous cows. In addition, parity and breed were also associated risk factors for multiparous cows. Of all CM cases, 54% showed positive bacteriological culturing results from which 57% were classified as environmental pathogens, with a large percentage of coliforms (35%). Coagulase-negative Staphylococcus (16%), Streptococcus uberis (9%), Streptococcus agalactiae (7%) and other Streptococci (9%) were also common pathogens. Among the pathogens analyzed, the association of cow-specific risk factors, such as Zebu breed (OR=5.84, 95%CI 3.77-10.77) and accumulated history of SCC (1.76, 95%CI 1.37-2.27), was different for CM caused by Coagulase-negative Staphylococcus and S. agalactiae in comparison to CM caused by coliforms. Our results suggest that CM control programs in Brazil should specially consider the recent history of clinical mastitis cases and the beginning of the lactations, mainly during the rainy season as important risk factor for mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28869109",
+   "title": "The association between subclinical mastitis around calving and reproductive performance in grazing dairy cows.",
+   "authors": [
+    "Villa-Arcila NA",
+    "Sanchez J",
+    "Ratto MH",
+    "Rodriguez-Lecompte JC",
+    "Duque-Madrid PC",
+    "Sanchez-Arias S",
+    "Ceballos-Marquez A"
+   ],
+   "journal": "Animal reproduction science",
+   "year": 2017,
+   "doi": "10.1016/j.anireprosci.2017.08.010",
+   "abstract": "The objective of this study was to evaluate the effect of subclinical mastitis (SCM) on calving-to-first-service interval (CFS), calving-to-conception interval (CC), and on the number of services per conception (S/C) in grazing Holstein and Normande cows. Primiparous (n=43) and multiparous (n=165) cows were selected from five dairy herds. Two composite milk samples were aseptically collected from each cow at drying-off, and then every week during the first postpartum month. One sample was used for somatic cell count (SCC), and the other one for bacteriological analysis. Cows were followed up to 300 d after calving. Non-parametric and parametric survival models, and negative binomial regression were used to assess the association between SCM, evaluated by SCC and milk culture, and reproductive indices. Staphylococcus aureus, CNS, and Streptococcus uberis were the most frequent isolated pathogens. Subclinical mastitis in the first month of lactation was not associated with CFS; however, the CC interval was longer in cows with SCM compared to healthy cows, the former also had a higher number of S/C.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "30542654",
+   "title": "Assessing Financial Impacts of Subclinical Mastitis on Colombian Dairy Farms.",
+   "authors": [
+    "Romero J",
+    "Benavides E",
+    "Meza C"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2018,
+   "doi": "10.3389/fvets.2018.00273",
+   "abstract": "Bovine mastitis is a dairy cattle disease with high economic impact. Subclinical mastitis (SCM) contributes to most of the financial losses. Colombia dairy sector accounts for 2.3% of the gross domestic product (GDP) and 24.3% of the livestock GDP. Milk production reaches 6,500 million liters/year from nearly 500,000 cattle farms and is mainly based on small-scale production systems. This study evaluates the financial impact of SCM and the potential for its control in three dairy farm strata in a region in Colombia. The objectives of the study were 1) to determine the perception of farmers about the SCM problem on their farms, 2) to assess prevalence and financial impact of SCM on farms and in the \"Area five\" sanitary region of the Bogota plateau, and 3) to assess costs and effectiveness of control methods of SCM. Information about disease management and decision-making process was obtained through a participatory epidemiology workshop and applying a semi-structured survey. A two-stage stratified cross sectional epidemiological study was conducted on dairy cattle from a region with approximately 400 farms and 12,000 cows, with a sample size of 55 farms. Prevalence of SCM was calculated by defining a cow as positive for the disease when any quarter had a somatic cell count (SCC) higher than 250 × 103 cells/ml. The prevalence of SCM in cows was 55.2%; significant differences were found between strata. Assessment of the financial impact of SCM in terms of milk losses was conducted using spreadsheet models. Milk production losses per farm ranged from 1.3% to 13.5%, and the economic impact in the region was estimated over USD $800.000 per year. The financial impact was greater in small- and medium-sized farms than large farms, and it was associated with the severity of SCC per quarter. Principal component analysis showed interactions, irrespective of the individual effect, and suggested three main groups of control interventions: application of basic milking hygiene practices, increase in the level of hygiene practices and veterinary advice, and SCM diagnosis and dry-cow treatment. Lack of information on management and production at farms promotes intuitive decision-making. Further research for the deeper understanding of intervention costs and effectiveness is suggested.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38340554",
+   "title": "Antimicrobial susceptibility of mastitis pathogens isolated from North American dairy cattle, 2011-2022.",
+   "authors": [
+    "Sweeney MT",
+    "Gunnett L",
+    "Kumar DM",
+    "Lunt BL",
+    "Moulin V",
+    "Barrett M",
+    "Gurjar A",
+    "Doré E",
+    "Pedraza JR",
+    "Bade D",
+    "Machin C"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 2024,
+   "doi": "10.1016/j.vetmic.2024.110015",
+   "abstract": "A total of 10,890 bacterial isolates of Streptococcus dysgalactiae, Streptococcus uberis, Staphylococcus aureus and Escherichia coli isolated as etiological agents from dairy cows with mastitis by 29 veterinary laboratories across North America between 2011 and 2022 were tested for in vitro antimicrobial susceptibility by broth microdilution to ampicillin, cefoperazone, ceftiofur, cephalothin, erythromycin, oxacillin, penicillin-novobiocin and pirlimycin according to CLSI standards. Using available clinical breakpoints, antimicrobial resistance among S. dysgalactiae (n = 2406) was low for penicillin-novobiocin (0% resistance), ceftiofur (0.1%), erythromycin (3.2%) and pirlimycin (4.6%). Among S. uberis (n = 2398), resistance was low for ampicillin (0%) and ceftiofur (0.2%) and moderate for erythromycin (11.9%) and pirlimycin (18.4%). For S. aureus (n = 3194), resistance was low for penicillin-novobiocin (0%), ceftiofur (0.1%), oxacillin (0.2%), erythromycin (0.7%), cefoperazone (1.2%) and pirlimycin (2.8%). For E. coli (n = 2892), resistance was low for ceftiofur (2.8%) and cefoperazone (3.4%) and moderate for ampicillin (9.2%). Overall, the results indicate that mastitis pathogens in the United States and Canada have not shown any substantial changes in the in vitro susceptibility to antimicrobial drugs over the 12 years of the study, or among that of the proceeding survey from 2002-2010. The data support the conclusion that resistance to common antimicrobial drugs among mastitis pathogens, even to drugs that have been used in dairies for mastitis management for many years, continues to remain low.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36562745",
+   "title": "Mastitis pathogens and antibiotic resistance in beef cows in Switzerland.",
+   "authors": [
+    "Vollenweider A",
+    "Corti S",
+    "Hochreutener M",
+    "Biner B",
+    "Stephan R",
+    "Bleul U"
+   ],
+   "journal": "Schweizer Archiv fur Tierheilkunde",
+   "year": 2023,
+   "doi": "10.17236/sat00381",
+   "abstract": "Mastitis in beef cows has not been studied as extensively as mastitis in dairy cows, and data from Switzerland are lacking. Various studies have shown a similar pathogen spectrum as in dairy cows, which could not be confirmed in this study. To gather initial data from Switzerland, milk samples from 297 lactating beef cows from 31 herds from the Engadin Valley in the Canton of Grisons were examined bacteriologically. At least one major or minor mastitis pathogen was recovered from at least one individual-quarter or composite sample from 33 % of all cows. The most common major mastitis pathogens were Staphylococcus aureus (8,4 % of cows), Pasteurella multocida (4,1 %), Streptococcus uberis (2 %) and Streptococcus dysgalactiae (1,7 %). Sixteen percent of the cows had at least one blind quarter, but only 32 % of these had been previously detected by the owners. In the second part of the study, milk samples from beef cows with mastitis were examined bacteriologically; the cows originated from various parts of Switzerland and had been presented for veterinary treatment. Pasteurella multocida (22 %) and Staphylococcus aureus (21 %) were the most common pathogens isolated. Antibiograms using microtitration and disk diffusion testing were generated for the Staphylococcus aureus, Pasteurella multocida and Streptococcus uberis strains from both parts of the study. Fifty-six percent of the Staphylococcus aureus strains were resistant to penicillin G. Our results showed that bacteriological examination of a milk sample aids in the diagnosis and allows specific treatment of mastitis in beef cows; this may be further improved with antibacterial susceptibility testing. Our preliminary data for the resistance patterns of mastitis pathogens in beef cows will facilitate evidence-based treatment strategies.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "30122416",
+   "title": "Pathogen-specific production losses in bovine mastitis.",
+   "authors": [
+    "Heikkilä AM",
+    "Liski E",
+    "Pyörälä S",
+    "Taponen S"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2018,
+   "doi": "10.3168/jds.2018-14824",
+   "abstract": "Reduction in long-term milk yields represents a notable share of the economic losses caused by bovine mastitis. Efficient, economic, and safe measures to prevent these losses require knowledge of the causal agent of the disease. The aim of this study was to investigate pathogen-specific impacts of mastitis on milk production of dairy cows. The materials consisted of milk and health recording data and microbiological diagnoses of mastitic quarter milk samples of 20,234 Finnish dairy cows during 2010, 2011, and 2012. The 6 most common udder pathogens were included in the study: Staphylococcus aureus, non-aureus staphylococci (NAS), Escherichia coli, Corynebacterium bovis, Streptococcus uberis, and Streptococcus dysgalactiae. We used a 2-level multilevel model to estimate curves for lactations with and without mastitis. The data on lactation periods to be compared were collected from the same cow. To enable comparison among lactations representing diverse parities, the estimated lactation curves were adjusted to describe the cow's third lactation. Mastitis caused by each pathogen resulted in milk production loss. The extent of the reduction depended on the pathogen, the timing of mastitis during lactation, and the type of mastitis (clinical vs. subclinical). The 2 most commonly detected pathogens were NAS and Staph. aureus. Escherichia coli clinical mastitis diagnosed before peak lactation caused the largest loss, 10.6% of the 305-d milk yield (3.5 kg/d). The corresponding loss for Staph. aureus mastitis was 7.1% (2.3 kg/d). In Staph. aureus mastitis diagnosed between 54 and 120 d in milk, the loss was 4.3% (1.4 kg/d). The loss was almost equal in both clinical and subclinical mastitis caused by Staph. aureus. Mastitis caused by Strep. uberis and Strep. dysgalactiae resulted in losses ranging from 3.7% (1.2 kg/d) to 6.6% (2.1 kg/d) depending on type and timing of mastitis. Clinical mastitis caused by the minor pathogens C. bovis and NAS also had a negative effect on milk production: 7.4% (2.4 kg/d) in C. bovis and 5.7% (1.8 kg/d) in NAS when both were diagnosed before peak lactation. In conclusion, minor pathogens should not be underestimated as a cause of milk yield reduction. On single dairy farms, control of E. coli mastitis would bring about a significant increase in milk production. Reducing Staph. aureus mastitis is the greatest challenge for the Finnish dairy sector.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34955276",
+   "title": "A survey of mastitis pathogens including antimicrobial susceptibility in southeastern Australian dairy herds.",
+   "authors": [
+    "Dyson R",
+    "Charman N",
+    "Hodge A",
+    "Rowe SM",
+    "Taylor LF"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2022,
+   "doi": "10.3168/jds.2021-20955",
+   "abstract": "The objectives for this study were to (1) describe the pathogen profile in quarters from cows with clinical mastitis and in cows with subclinical mastitis in southeastern Australia; and (2) describe antimicrobial susceptibility among isolated pathogens. As a secondary objective, we aimed to compare antimicrobial resistance prevalence in pathogens isolated from clinical and subclinical mastitis samples. A convenience sample of dairy herds (n = 65) from 4 regions in southeastern Australia (Gippsland, Northern Victoria, Tasmania, Western Victoria) were invited to submit milk samples from cows with clinical and subclinical mastitis over a 14-mo period (January 2011 to March 2012). Farmers were instructed to collect aseptic quarter milk samples from the first 10 cases of clinical mastitis for each month of the study. In addition, farmers submitted composite milk samples from cows with subclinical mastitis at 1 or 2 sampling occasions during the study period. Aerobic culture and biochemical tests were used to identify isolates. Isolates were classified as susceptible, intermediate, or resistant to a panel of antimicrobial agents based on the zone of growth inhibition around antimicrobial-impregnated disks, with antimicrobial resistance (AMR) classified as nonsusceptibility by combining intermediate and resistant groups into a single category. Generalized linear mixed models were used to compare the prevalence of AMR between clinical and subclinical mastitis isolates. For clinical mastitis samples (n = 3,044), 472 samples (15.5%) were excluded for contamination. Of the remaining samples (n = 2,572), the most common results were Streptococcus uberis (39.2%), no growth (27.5%), Staphylococcus aureus (10.6%), Escherichia coli (8.4%), and Streptococcus dysgalactiae (6.4%). For subclinical mastitis samples (n = 1,072), 425 (39.6%) were excluded due to contamination. Of the remaining samples (n = 647), the most common results were no growth (29.1%), Staph. aureus (29.1%), and Strep. uberis (21.6%). The prevalence of AMR among common isolates was low for the majority of antimicrobial agents. Exploratory analysis found that the probability of Staph. aureus demonstrating resistance to penicillin was 5.16 times higher (95% confidence interval: 1.68, 15.88) in subclinical isolates relative to clinical Staph. aureus isolates. A similar association was observed for amoxicillin with subclinical Staph. aureus isolates being 4.70 times (95% confidence interval: 1.49, 14.75) more likely to be resistant than clinical Staph. aureus isolates. We concluded that the most common bacteria causing clinical mastitis in dairy herds in Australia is likely to be Strep. uberis, whereas Staph. aureus is likely to be the most common cause of subclinical mastitis. Despite decades of antimicrobial use to control these organisms, AMR appears to be uncommon.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37641317",
+   "title": "Genotypic characterization of Staphylococcus chromogenes and Staphylococcus simulans from Swedish cases of bovine subclinical mastitis.",
+   "authors": [
+    "Persson Waller K",
+    "Myrenås M",
+    "Börjesson S",
+    "Kim H",
+    "Widerström M",
+    "Monsen T",
+    "Sigurðarson Sandholt AK",
+    "Östlund E",
+    "Cha W"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2023,
+   "doi": "10.3168/jds.2023-23523",
+   "abstract": "Staphylococcus chromogenes and Staphylococcus simulans are commonly found in intramammary infections (IMI) associated with bovine subclinical mastitis, but little is known about genotypic variation and relatedness within species. This includes knowledge about genes encoding antimicrobial resistance (AMR) and potential virulence factors (pVF). The aim of this study was therefore to investigate these aspects by whole-genome sequencing of milk isolates from Swedish dairy cows with subclinical mastitis in an observational study. We also wanted to study if specific genotypes were associated with persistent IMI and the inflammatory response at udder quarter level. In total, 105 and 118 isolates of S. chromogenes and S. simulans, respectively, were included. Isolates were characterized using a 7-locus multilocus sequence typing (7-MLST), core genome analysis and in-silico analysis of AMR and pVF genes. Forty-seven sequence types (ST) and 7 core genome clusters of S. chromogenes were identified, and the most common ST were ST-6 and ST-109, both belonging to cluster VII. A 7-locus MLST scheme for S. simulans was not available, but 3 core genome clusters and 5 subclusters were described. Overall, substantial variation in ST and clusters among cows and herds were found in both species. Some ST of S. chromogenes were found in several herds, indicating spread between herds. Moreover, within-herd spread of the same genotype was observed for both species. Only a few AMR genes [blaZ, strpS194, vga(A)] were detected in a limited number of isolates, with the exception of blaZ coding for β-lactamase, which was identified in 22% of the isolates of S. chromogenes with ST-19, ST-102, and ST-103 more commonly carrying this gene compared with other ST. However, the blaZ gene was not identified in S. simulans. The average total number of pVF detected per isolate was similar in S. chromogenes (n = 30) and S. simulans (n = 33), but some variation in total numbers and presence of specific pVF or functional groups of pVF, was shown between ST/clusters within species. Differences in inflammatory response and potentially in persistent IMI at udder quarter level were found between S. chromogenes subtypes but not between S. simulans subtypes. In conclusion, the results from the present study generates new insight into the epidemiology of bovine S. chromogenes and S. simulans IMI, which can have implications for future prevention and antimicrobial treatment of infections related to these species.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37764906",
+   "title": "Severity of Clinical Mastitis and Bacterial Shedding.",
+   "authors": [
+    "Krebs I",
+    "Zhang Y",
+    "Wente N",
+    "Leimbach S",
+    "Krömker V"
+   ],
+   "journal": "Pathogens (Basel, Switzerland)",
+   "year": 2023,
+   "doi": "10.3390/pathogens12091098",
+   "abstract": "The aim of this cross-sectional study was to investigate associated factors of the severity of clinical mastitis (CM). Milk samples of 249 cases of CM were microbiologically examined, of which 27.2% were mild, 38.5% moderate, and 34.3% severe mastitis. The samples were incubated aerobically and anaerobically to investigate the role of aerobic and anaerobic microorganisms. In addition, the pathogen shedding was quantitatively examined, and animal individual data, outside temperature and relative humidity, were collected to determine associated factors for the severity of CM. The pathogen isolated the most was Escherichia coli (35.2%), followed by Streptococcus spp. (16.4%). Non-aureus staphylococci (NaS) (15.4%) and other pathogens (e.g., Staphylococcus aureus, coryneforms) (15.4%) were the pathogens that were isolated the most for mild mastitis. Moderate mastitis was mostly caused by E. coli (38%). E. coli was also the most common pathogen in severe mastitis (50.6%), followed by Streptococcus spp. (16.4%), and Klebsiella spp. (10.3%). Obligate anaerobes (Clostridium spp.) were isolated in one case (0.4%) of moderate mastitis. The mortality rate (deceased or culled due to the mastitis in the following two weeks) was 34.5% for severe mastitis, 21.7% for moderate mastitis, and 4.4% for mild mastitis. The overall mortality rate of CM was 21.1%. The pathogen shedding (back logarithmized) was highest for severe mastitis (55,000 cfu/mL) and E. coli (91,200 cfu/mL). High pathogen shedding, low previous somatic cell count (SCC) before mastitis, high outside temperature, and high humidity were associated with severe courses of mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37512812",
+   "title": "Bacteremia in Severe Mastitis of Dairy Cows.",
+   "authors": [
+    "Krebs I",
+    "Zhang Y",
+    "Wente N",
+    "Leimbach S",
+    "Krömker V"
+   ],
+   "journal": "Microorganisms",
+   "year": 2023,
+   "doi": "10.3390/microorganisms11071639",
+   "abstract": "The aim of this cross-sectional study was to investigate the occurrence of bacteremia in severe mastitis cases of dairy cows. Milk and corresponding blood samples of 77 cases of severe mastitis were bacteriologically examined. All samples (milk and blood) were incubated aerobically and anaerobically to also investigate the role of obligate anaerobic microorganisms in addition to aerobic microorganisms in severe mastitis. Bacteremia occurred if identical bacterial strains were isolated from milk and blood samples of the same case. In addition, pathogen shedding was examined, and the data of animals and weather were collected to determine associated factors for the occurrence of bacteremia in severe mastitis. If Gram-negative bacteria were detected in milk samples, a Limulus test (detection of endotoxins) was also performed for corresponding blood samples without the growth of Gram-negative bacteria. In 74 cases (96.1%), microbial growth was detected in aerobically incubated milk samples. The most-frequently isolated bacteria in milk samples were Escherichia (E.) coli (48.9%), Streptococcus (S.) spp. (18.1%), and Klebsiella (K.) spp. (16%). Obligatory anaerobic microorganisms were not isolated. In 72 cases (93.5%) of the aerobically examined blood samples, microbial growth was detected. The most-frequently isolated pathogens in blood samples were non-aureus Staphylococci (NaS) (40.6%) and Bacillus spp. (12.3%). The Limulus test was positive for 60.5% of cases, which means a detection of endotoxins in most blood samples without the growth of Gram-negative bacteria. Bacteremia was confirmed in 12 cases (15.5%) for K. pneumoniae (5/12), E. coli (4/12), S. dysgalactiae (2/12), and S. uberis (1/12). The mortality rate (deceased or culled) was 66.6% for cases with bacteremia and 34.1% for cases without bacteremia. High pathogen shedding and high humidity were associated with the occurrence of bacteremia in severe mastitis.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40268330",
+   "title": "Clinical and subclinical mastitis incidence in pasture-based dairy cows.",
+   "authors": [
+    "McDougall S",
+    "Williamson J",
+    "Lacy-Hulbert J",
+    "Steele N",
+    "Eastwood C"
+   ],
+   "journal": "New Zealand veterinary journal",
+   "year": 2025,
+   "doi": "10.1080/00480169.2025.2487672",
+   "abstract": "AIMS: To estimate prevalence and incidence of intramammary infections (IMI) using herd test somatic cell counts (SCC) or quarter-level microbiology in a single pasture-based, seasonal calving dairy herd.\nMETHODS: Over four seasons (2010/11-2013/14) milk samples were collected for microbiology from quarters of all cows at four times; calving, MID1 (mean 116 (SD 21) days in milk (DIM)), MID2 (mean 204 (SD 21) DIM), and at drying off (DO; mean 266 (SD 30) DIM). SCC was determined every 1-4 (median = 2) weeks. Quarters were defined as having a new IMI if a bacterium was isolated that was not present at the preceding milk sampling and a cow was defined as having a new IMI where one or more quarters had a new IMI. Cows were defined as having a new high SCC where SCC increased to ≥ 200,000 cells/mL. Binary logistic regression and Poisson models were used to estimate prevalence and incidence rate (IR) of new infections. Cow-level IR estimates from bacteriology and SCC were compared using χ2 analyses, and the sensitivity and specificity were estimated for SCC to estimate IR, assuming bacteriology was the gold standard.\nRESULTS: The prevalence of cows with a high SCC was 12.7 (95% CI = 12.3-13.1)% and quarter-level prevalence of IMI was 10.7 (95% CI = 10.2-11.1)%. The unadjusted IR for a new cow-level high SCC was 2.2 (95% CI = 2.0-2.4)/1,000 cow-days and for a new quarter-level IMI was 0.82 (95% CI = 0.71-0.95)/1,000 quarter-days at risk. Prevalence and IR were associated with DIM (p < 0.001), age (p < 0.001), and season (p < 0.001). The agreement between the IR based on herd test SCC and microbiology at cow-level was 77.1% (p < 0.001), with the level of agreement highest in mid-lactation. The sensitivity and specificity of an increase in SCC were 29.8% and 88.9%, respectively.\nCONCLUSIONS: Prevalence and IR varied by season, age and DIM. While the IR estimates differed between estimates based on a high SCC at the cow-level, and quarter-level microbiology, the level of agreement was 77% suggesting utility of cow-composite SCC data as a mastitis monitoring tool. However, the sensitivity of incidence based on elevated SCC was only approximately 30% relative to quarter-level microbiology as the gold standard.\nCLINICAL RELEVANCE: This study provides the first estimates of prevalence and incidence of IMI in pasture-based dairy cows.Abbreviations: DIM: Days in milk; DO: Dry Off; EMM: Estimated marginal mean; IMI: Intramammary infection; IR: Incidence rate; NAS: Non-aureus staphylococci; SCC: Somatic cell count; TAR: Time at risk.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "25457268",
+   "title": "Mastitis in dairy heifers: prevalence and risk factors.",
+   "authors": [
+    "Bludau MJ",
+    "Maeschli A",
+    "Leiber F",
+    "Steiner A",
+    "Klocke P"
+   ],
+   "journal": "Veterinary journal (London, England : 1997)",
+   "year": 2014,
+   "doi": "10.1016/j.tvjl.2014.09.021",
+   "abstract": "Poor udder health represents a serious problem in dairy production and has been investigated intensively, but heifers generally have not been the main focus of mastitis control. The aim of this study was to evaluate the prevalence, risk factors and consequences of heifer mastitis in Switzerland. The study included 166,518 heifers of different breeds (Swiss Red Pied, Swiss Brown Cattle and Holstein). Monthly somatic cell counts (SCCs) provided by the main dairy breeding organisations in Switzerland were monitored for 3 years; the prevalence of subclinical mastitis (SCM) was determined on the basis of SCCs ≥100,000 cells/mL at the first test date. The probability of having SCM at the first test date during lactation was modelled using logistic regression. Analysed factors included data for the genetic background, morphological traits, geographical region, season of parturition and milk composition. The overall prevalence of SCM in heifers during the period from 2006 to 2010 was 20.6%. Higher frequencies of SCM were present in heifers of the Holstein breed (odds ratio, OR, 1.62), heifers with high fat:protein ratios (OR 1.97) and heifers with low milk urea concentrations combined with high milk protein concentrations (OR 3.97). Traits associated with a low risk of SCM were high set udders, high overall breeding values and low milk breeding values. Heifers with SCM on the first test day had a higher risk of either developing chronic mastitis or leaving the herd prematurely.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22720924",
+   "title": "Estimating the effect of mastitis on the profitability of Irish dairy farms.",
+   "authors": [
+    "Geary U",
+    "Lopez-Villalobos N",
+    "Begley N",
+    "McCoy F",
+    "O'Brien B",
+    "O'Grady L",
+    "Shalloo L"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2012,
+   "doi": "10.3168/jds.2011-4863",
+   "abstract": "The objective of this paper was to estimate the effect of the costs of mastitis on the profitability of Irish dairy farms as indicated by various ranges of bulk milk somatic cell count (BMSCC). Data were collected from 4 sources and included milk production losses, cases treated, and on-farm practices around mastitis management. The Moorepark Dairy Systems Model, which simulates dairying systems inside the farm gate, was used to carry out the analysis. The cost components of mastitis that affect farm profitability and that were included in the model were milk losses, culling, diagnostic testing, treatment, veterinary attention, discarded milk, and penalties. Farms were grouped by 5 BMSCC thresholds of ≤ 100,000, 100,001-200,000, 200,001-300,000, 300,001-400,000, and > 400,000 cells/mL. The ≤ 100,000 cells/mL threshold was taken as the baseline and the other 4 thresholds were compared relative to this baseline. For a 40-ha farm, the analysis found that as BMSCC increased, milk receipts decreased from €148,843 at a BMSCC <100,000 cells/mL to €138,573 at a BMSCC > 400,000 cells/mL. In addition, as BMSCC increased, livestock receipts increased by 17%, from €43,304 at a BMSCC <100,000 cells/mL to €50,519 at a BMSCC > 400,000 cells/mL. This reflected the higher replacement rates as BMSCC increased and the associated cull cow value. Total farm receipts decreased from €192,147 at the baseline (< 100,000 cells/mL) to €189,091 at a BMSCC > 400,000 cells/mL. Total farm costs increased as BMSCC increased, reflecting treatment, veterinary, diagnostic testing, and replacement heifer costs. At the baseline, total farm costs were €161,085, increasing to €177,343 at a BMSCC > 400,000 cells/mL. Net farm profit decreased as BMSCC increased, from €31,252/yr at the baseline to €11,748/yr at a BMSCC > 400,000 cells/mL. This analysis highlights the impact that mastitis has on the profitability of Irish dairy farms. The analysis presented here can be used to develop a \"cost of mastitis\" tool for use on Irish dairy farms to motivate farmers to acknowledge the scale of the problem, realize the value of improving mastitis control, and implement effective mastitis control practices.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22192193",
+   "title": "Costs of clinical mastitis with special reference to premature culling.",
+   "authors": [
+    "Heikkilä AM",
+    "Nousiainen JI",
+    "Pyörälä S"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2012,
+   "doi": "10.3168/jds.2011-4321",
+   "abstract": "Bovine mastitis is an economic and a welfare problem on dairy farms. The objective of this study was to estimate the costs of clinical mastitis (CM), having a special focus on the cost variation related to culling decisions. A dynamic optimization model was developed to determine an optimal replacement time of a mastitic cow and to estimate the costs of CM, taking into account the risk of premature culling and the uncertainty in CM prevalence. Six lactations were analyzed at monthly periods for Ayrshire and Holstein-Friesian breeds. The estimates reflect Finnish production conditions where mastitis is treated only by veterinarians. Biological parameters of the model were adapted from the literature and the Finnish dairy herd health recording system. Field data were used to produce the risk parameters of culling due to mastitis on commercial dairy farms. The model recommended treating the cows with CM and keeping them in most cases until their fifth lactation. A cheaper (-20%) heifer transferred the optimum to the previous lactation and a more expensive (+20%) heifer to the following lactation. Conditional on optimal replacements, the average cost of CM of an Ayrshire (Holstein-Friesian costs in parentheses) cow was €485 (€458), varying from €209 (€112) to €1,006 (€946). The costs were at the highest when the occurrence of CM was at a top yield phase. In the scenario where the risk of culling due to mastitis was included in the model, the average cost of CM was €596 (€623). Disposing of a young cow at the end of her first lactation month caused the highest costs. The costs converted to figures per cow-year were €121 (€147) with optimal cullings and €155 (€191) in the current Finnish conditions. Thus, the increase in the costs of CM due to premature cullings was 28% (30%.) The main cost sources were long-term production losses regardless of the culling decisions. Premature culling formed 20% (23%) of the total costs. To decrease the costs of CM, more emphasis should be given to hidden costs, especially the high cost of premature culling should be underlined.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36851389",
+   "title": "Management-Associated Risk Factors for Heifer Mastitis before and after Parturition in German Dairy Herds.",
+   "authors": [
+    "Rueben P",
+    "Seeth MT",
+    "Tellen A",
+    "Krömker V"
+   ],
+   "journal": "Veterinary sciences",
+   "year": 2023,
+   "doi": "10.3390/vetsci10020085",
+   "abstract": "Subclinical mastitis in heifers during early lactation affects udder health, future milk production and, therefore, the risk of premature culling. The aim of this cross-sectional study was to identify pre- and post-partum risk factors associated with a high heifer mastitis rate (HMR), and to find out which period (either pre- or post-partum) contains more risk factors and consequently should be the focus of mastitis control in heifers. A total of 77 herds were included in this study and the potential animal- and farm-related risk factors were recorded during a one-time farm visit. The HMR was provided by the dairy herd improvement test (DHI) as the annual average of the past 11 DHIs. For this study, data were analyzed in two models using generalized linear models. Each model examined the association between possible risk factors and HMR, one including only prepartum risk factors and the other one only post-partum risk factors. One identified pre-partum risk factor was the proportion of udder-healthy cows in the herd. Post-partum risk factors were the type of teat cleaning procedure before milking, teat disinfection, treatment of mastitis in heifers, a body condition score (BCS) of >3.0 in fresh heifers, and the combination of a teat cleaning procedure with a teat disinfectant. The results show the importance of the period shortly after calving for udder health in heifers, as four of the five significant risk factors were identified in this period and three of them were related to the milking process. However, further research with a higher number of herds is needed to minimize individual herd effects.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "22916896",
+   "title": "Molecular epidemiology of Staphylococcus aureus mastitis in dairy heifers.",
+   "authors": [
+    "Anderson KL",
+    "Lyman R",
+    "Moury K",
+    "Ray D",
+    "Watson DW",
+    "Correa MT"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2012,
+   "doi": "10.3168/jds.2011-4913",
+   "abstract": "The specific purpose was to investigate the possible interrelationships of genotypes of Staphylococcus aureus found in mammary glands, horn flies, and extramammary sites on 3 southeastern US dairies. A total of 1,228 samples were obtained from various sources on the 3 dairy herds, each of which had a history of Staph. aureus mastitis. Dairy herds studied had access to pasture, and samples were collected during the summer when horn flies (Haematobia irritans) were active. Samples collected included milk samples from all lactating herd cows, colostrum samples from heifers calving during the study period, heifer body sites (mouth, nostrils, and teats), the heifer environment (water, feed, and soil/vegetation/pasture), horn flies, and humans (hands and nostrils). Isolation of Staph. aureus was attempted from all samples, with isolates subjected to genotypic analysis using pulsed-field gel electrophoresis. A total of 244/1228 (or 19.9%) of all samples were positive for Staph. aureus. For milk samples, 52/383 (or 13.6%) of samples were Staph. aureus positive, and 70/411 (or 17.0%) of heifer quarter colostrum samples were positive. Horn fly samples were frequently positive, with over one-half (29/52, or 55.8%) of samples positive for Staph. aureus. Staphylococcus aureus obtained during the study comprised isolates from 12 different genotype groups as defined in this study. Identical genotypes were obtained from horn flies, heifer colostrum samples, and cow milk samples. Group B genotypes were shared among flies, heifer colostrum samples, body sites, and cow milk samples, whereas group A genotypes were common to the same sample locations and body sites but rarely (once) found in horn flies. We conclude, based upon the finding of identical pulsed-field gel electrophoresis genotypes in flies, heifer body sites, and heifer colostrum samples, that flies and heifer body sites could be important sources of Staph. aureus for heifer intramammary infections.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "38278296",
+   "title": "Economic impact of subclinical mastitis treatment in early lactation using intramammary nisin.",
+   "authors": [
+    "Rodriguez Z",
+    "Cabrera VE",
+    "Hogeveen H",
+    "Ruegg PL"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2024,
+   "doi": "10.3168/jds.2023-24311",
+   "abstract": "Treatment of subclinical mastitis (SCM) during lactation is rarely recommended due to concerns related to both antimicrobial usage and the costs associated with milk discard. Nisin is a naturally produced antimicrobial peptide with a gram-positive spectrum that, when given to dairy cows, does not require milk discard. We evaluated the economic impact of the treatment of SCM during early lactation using a nisin-based intramammary treatment under different scenarios that included various treatment costs, milk prices, and cure rates. We stochastically simulated the dynamics of SCM detected during the first week of lactation. The net economic impact was expressed in US dollars per case. The probabilities of an event and their related costs were estimated using a model that was based on pathogen-specific assumptions selected from peer-reviewed articles. Nisin cure rates were based on results of pivotal studies included in the US Food and Drug Administration (FDA) approval submission. Based on our model, the average cost of a case of intramammary infection (i.e., only true-positive cases) in early lactation was $170 (90% = $148-$187), whereas the cost of a clinical mastitis case was $521 (90% range = $435-$581). Both estimates varied with etiology, parity, and stage of lactation. When comparing the net cost of SCM cases (i.e., CMT-positive tests) detected during the first week of lactation, nisin treatment generated an average positive economic impact of $19 per CMT-positive case. The use of nisin to treat SCM was beneficial 93% of the time. Based on the sensitivity analysis, treatment would result in an economically beneficial outcome for 95% and 73% of multiparous and primiparous cows, respectively. At the herd level, use of intramammary nisin to treat SCM in cows in early lactation was economically beneficial in most tested scenarios. However, the economic impact was highly influenced by factors such as rate of bacteriological cure, cost of treatment, and parity of the affected animal. These factors should be considered when deciding to use nisin as a treatment for SCM.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "30316503",
+   "title": "Genetic Selection for Mastitis Resistance.",
+   "authors": [
+    "Weigel KA",
+    "Shook GE"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2018,
+   "doi": "10.1016/j.cvfa.2018.07.001",
+   "abstract": "Mastitis is a prevalent and costly disease on dairy farms. Improved management and hygiene can reduce the risk of infection by contagious or environmental pathogens, and genetic selection can confer permanent improvement in mastitis resistance. National veterinary recording systems in the Nordic countries have allowed direct selection for sire families with low incidence of clinical mastitis for 3 decades, whereas other countries have practiced indirect selection for lower somatic cell count. Recently, pooling of producer-recorded data from on-farm herd management software programs has enabled selection for reduced incidence of clinical mastitis in the United States and other leading dairy countries.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "40447093",
+   "title": "Cost-efficiency of mastitis control strategies on smallholder dairy farms.",
+   "authors": [
+    "Fadillah A",
+    "van den Borne BHP",
+    "Schukken YH",
+    "Poetri ON",
+    "Hogeveen H"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2025,
+   "doi": "10.3168/jds.2024-25816",
+   "abstract": "Mastitis poses significant challenges to the global dairy industry, including smallholder farms, which contribute substantially to global milk production. In Indonesia, where smallholder farming is vital to the dairy sector, mastitis represents a substantial obstacle to sustainable milk production and farm profitability. The objectives of this study were to estimate the costs associated with mastitis on Indonesian smallholder dairy farms and evaluate the cost-efficiency of various mastitis control strategies. A stochastic Monte Carlo bio-economic simulation model was employed to mimic mastitis dynamics and to estimate the economic effect on a typical Indonesian dairy farm of 4 cows. Input parameter values were gathered from various sources including literature, fieldwork data collection, local research reports, and expert insights obtained from staff of a local cooperative, veterinarians, local university experts, and authors' expertise. Somatic cell count values were added to the model to monitor udder health and milk quality per time period of 2 wk. Blanket dry cow therapy was also included to refine mastitis dynamics. All simulation outcomes were aggregated per year and per farm. Results indicated that clinical and subclinical mastitis incurred costs of €101.98 and €73.22/farm per year, respectively. Clinical mastitis costs were primarily driven by culling (45%) and discarded milk (27%), whereas subclinical mastitis costs were shared between production loss (52%) and blanket dry cow therapy (48%). Five mastitis control strategies were evaluated, including postmilking teat disinfection, a higher manure removal frequency, washing udders with soap, udder health monitoring using the California Mastitis Test (CMT), and antibiotic treatment for subclinical mastitis. Among these, postmilking teat disinfection emerged as the only strategy with a positive net economic benefit, significantly reducing mastitis incidence and associated economic losses. This study further suggests that the cost-efficiency of udder health monitoring using the CMT and antibiotic treatment for subclinical mastitis depends on substantially reducing mastitis incidence. This finding highlights the need for farmers to combine with other cost-efficient control strategies, rather than relying solely on CMT and treatment strategy. Farmers, therefore, need to adopt strategies to lower the incidence rates of clinical and subclinical mastitis, thereby offsetting the costs when applying these strategies. In conclusion, the study emphasizes the economic burden of mastitis on smallholder dairy farms and the critical need for efficient control strategies to support improving the profitability and sustainability of smallholder dairy farms.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18848410",
+   "title": "Coagulase-negative staphylococci-emerging mastitis pathogens.",
+   "authors": [
+    "Pyörälä S",
+    "Taponen S"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 2009,
+   "doi": "10.1016/j.vetmic.2008.09.015",
+   "abstract": "Coagulase-negative staphylococci (CNS) have become the most common bovine mastitis isolate in many countries and could therefore be described as emerging mastitis pathogens. The prevalence of CNS mastitis is higher in primiparous cows than in older cows. CNS are not as pathogenic as the other principal mastitis pathogens and infection mostly remains subclinical. However, CNS can cause persistent infections, which result in increased milk somatic cell count (SCC) and decreased milk quality. CNS infection can damage udder tissue and lead to decreased milk production. Staphylococcus simulans and Staphylococcus chromogenes are currently the predominant CNS species in bovine mastitis. S. chromogenes is the major CNS species affecting nulliparous and primiparous cows whereas S. simulans has been isolated more frequently from older cows. Multiparous cows generally become infected with CNS during later lactation whereas primiparous cows develop infection before or shortly after calving. CNS mastitis is not a therapeutic problem as cure rates after antimicrobial treatment are usually high. Based on current knowledge, it is difficult to determine whether CNS species behave as contagious or environmental pathogens. Control measures against contagious mastitis pathogens, such as post-milking teat disinfection, reduce CNS infections in the herd. Phenotypic methods for identification of CNS are not sufficiently reliable, and molecular methods may soon replace them. Knowledge of the CNS species involved in bovine mastitis is limited. The dairy industry would benefit from more research on the epidemiology of CNS mastitis and more reliable methods for species identification.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
    ]
   },
   {
@@ -47647,6 +48040,1926 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "A severe case of clinical mastitis is usually defined by the cow being affected systemically",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29868620-1-en",
+   "translationKey": "mastitis-29868620-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What did mastitis cost per milking cow per year on a typical Canadian dairy farm in 2015?",
+   "options": [
+    "About 66 Canadian dollars",
+    "About 6,620 Canadian dollars",
+    "About 662 Canadian dollars",
+    "Practically nothing at all"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Producer reports gave 662 CAD per cow per year, nearly half from subclinical mastitis.",
+   "shortExplanation": "~662 CAD.",
+   "pmid": "29868620",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mastitis costs were substantial (662 CAD per milking cow per year for a typical Canadian dairy farm)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29868620-1-es",
+   "translationKey": "mastitis-29868620-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuánto costaba la mastitis por vaca en ordeño y por año en un tambo canadiense típico en 2015?",
+   "options": [
+    "Unos 66 dólares canadienses",
+    "Unos 6.620 dólares canadienses",
+    "Unos 662 dólares canadienses",
+    "Prácticamente nada"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Según los productores, 662 dólares canadienses por vaca y año, casi la mitad por mastitis subclínica.",
+   "shortExplanation": "~662 CAD.",
+   "pmid": "29868620",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mastitis costs were substantial (662 CAD per milking cow per year for a typical Canadian dairy farm)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29868620-2-en",
+   "translationKey": "mastitis-29868620-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which component accounted for the largest share of mastitis costs in Canada?",
+   "options": [
+    "Subclinical mastitis losses",
+    "Vet visits for clinical cases",
+    "Gloves and teat disinfectants",
+    "Penalties from milk buyers"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "SCM made up 48% of costs, clinical mastitis 34% and prevention 15%.",
+   "shortExplanation": "Subclinical mastitis.",
+   "pmid": "29868620",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a large portion of the costs (48%) being attributed to SCM",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29868620-2-es",
+   "translationKey": "mastitis-29868620-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué componente explicaba la mayor parte de los costos de la mastitis en Canadá?",
+   "options": [
+    "Las pérdidas por mastitis subclínica",
+    "Las visitas veterinarias por casos clínicos",
+    "Los guantes y los desinfectantes",
+    "Las multas de los compradores"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mastitis subclínica representó el 48% de los costos; la clínica, 34%, y la prevención, 15%.",
+   "shortExplanation": "La subclínica.",
+   "pmid": "29868620",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a large portion of the costs (48%) being attributed to SCM",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29868620-3-en",
+   "translationKey": "mastitis-29868620-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What was the biggest cost component of clinical mastitis on Canadian farms?",
+   "options": [
+    "Discarded milk",
+    "Drugs and treatment",
+    "Veterinary fees",
+    "Culling of cows"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Culling was 48% of clinical mastitis costs, then milk loss (34%) and discarded milk (11%).",
+   "shortExplanation": "Culling.",
+   "pmid": "29868620",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "first, second, and third most important cost components were culling (48% of CM costs), milk yield reduction following the CM events (34%), and discarded milk (11%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29868620-3-es",
+   "translationKey": "mastitis-29868620-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Cuál fue el mayor componente del costo de la mastitis clínica en los tambos canadienses?",
+   "options": [
+    "La leche descartada",
+    "Los fármacos",
+    "Los honorarios del vet",
+    "El descarte de vacas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El descarte fue el 48% del costo de la mastitis clínica; luego la pérdida de leche (34%) y la leche descartada (11%).",
+   "shortExplanation": "El descarte.",
+   "pmid": "29868620",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "first, second, and third most important cost components were culling (48% of CM costs), milk yield reduction following the CM events (34%), and discarded milk (11%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26302854-1-en",
+   "translationKey": "mastitis-26302854-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which factors were associated with clinical mastitis in Brazilian cows?",
+   "options": [
+    "Dry season, low SCC, late lactation",
+    "First month of lactation, rainy season",
+    "Only the age of the farm buildings",
+    "Only the color of the cows' coats"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Early lactation, high SCC, rainy season and previous clinical cases raised the risk in both parity groups.",
+   "shortExplanation": "Early lactation, rains.",
+   "pmid": "26302854",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The first month of lactation, high somatic cell count, rainy season and history of clinical mastitis cases were factors associated with CM",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26302854-1-es",
+   "translationKey": "mastitis-26302854-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué factores se asociaron con la mastitis clínica en vacas brasileñas?",
+   "options": [
+    "Época seca, RCS bajo, final de lactancia",
+    "Primer mes de lactancia, época de lluvias",
+    "Solo la antigüedad de las instalaciones",
+    "Solo el color del pelaje de las vacas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El inicio de la lactancia, el RCS alto, la época de lluvias y los casos clínicos previos aumentaban el riesgo.",
+   "shortExplanation": "Inicio de lactancia, lluvias.",
+   "pmid": "26302854",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The first month of lactation, high somatic cell count, rainy season and history of clinical mastitis cases were factors associated with CM",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26302854-2-en",
+   "translationKey": "mastitis-26302854-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Among culture-positive clinical cases in Brazil, which group was most common?",
+   "options": [
+    "Streptococcus agalactiae",
+    "Coagulase-negative staphylococci",
+    "Streptococcus uberis",
+    "Coliform bacteria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Most positive cases were environmental, with coliforms at 35%, then CNS (16%) and S. uberis (9%).",
+   "shortExplanation": "Coliforms.",
+   "pmid": "26302854",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with a large percentage of coliforms (35%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26302854-2-es",
+   "translationKey": "mastitis-26302854-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Entre los casos clínicos con cultivo positivo en Brasil, ¿qué grupo fue el más común?",
+   "options": [
+    "Streptococcus agalactiae",
+    "Estafilococos coagulasa negativos",
+    "Streptococcus uberis",
+    "Las bacterias coliformes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La mayoría eran ambientales, con coliformes en 35%, luego ECN (16%) y S. uberis (9%).",
+   "shortExplanation": "Coliformes.",
+   "pmid": "26302854",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with a large percentage of coliforms (35%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28869109-1-en",
+   "translationKey": "mastitis-28869109-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How did subclinical mastitis around calving affect reproduction in grazing dairy cows?",
+   "options": [
+    "It shortened the time to conception",
+    "It had no effect on any reproductive index",
+    "Longer calving-to-conception, more services",
+    "It only delayed the first heat"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Calving-to-first-service was unaffected, but conception took longer and needed more services.",
+   "shortExplanation": "Longer to conceive.",
+   "pmid": "28869109",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the CC interval was longer in cows with SCM compared to healthy cows, the former also had a higher number of S/C",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28869109-1-es",
+   "translationKey": "mastitis-28869109-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo afectó la mastitis subclínica en el periparto a la reproducción de vacas en pastoreo?",
+   "options": [
+    "Acortó el tiempo hasta la concepción",
+    "No afectó ningún índice reproductivo",
+    "Más días a concepción y más servicios",
+    "Solo retrasó el primer celo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El intervalo parto–primer servicio no cambió, pero la concepción tardó más y requirió más servicios.",
+   "shortExplanation": "Más días a concepción.",
+   "pmid": "28869109",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the CC interval was longer in cows with SCM compared to healthy cows, the former also had a higher number of S/C",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30542654-1-en",
+   "translationKey": "mastitis-30542654-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What was the prevalence of subclinical mastitis in cows on the Bogotá plateau study farms?",
+   "options": [
+    "About 5%",
+    "About 55%",
+    "About 15%",
+    "About 95%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "A cow was positive if any quarter exceeded 250,000 cells/mL; prevalence was 55.2%.",
+   "shortExplanation": "~55%.",
+   "pmid": "30542654",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The prevalence of SCM in cows was 55.2%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30542654-1-es",
+   "translationKey": "mastitis-30542654-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál fue la prevalencia de mastitis subclínica en vacas de los tambos estudiados en la sabana de Bogotá?",
+   "options": [
+    "Cerca del 5%",
+    "Cerca del 55%",
+    "Cerca del 15%",
+    "Cerca del 95%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Una vaca era positiva si algún cuarto superaba 250.000 células/mL; la prevalencia fue 55,2%.",
+   "shortExplanation": "~55%.",
+   "pmid": "30542654",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The prevalence of SCM in cows was 55.2%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30542654-2-en",
+   "translationKey": "mastitis-30542654-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "In Colombia, which farms suffered the greatest financial impact from subclinical mastitis?",
+   "options": [
+    "Small and medium farms",
+    "Only the largest farms",
+    "All farms equally, by law",
+    "Only farms with robots"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Losses were larger on small and medium farms and grew with the severity of SCC per quarter.",
+   "shortExplanation": "Small and medium farms.",
+   "pmid": "30542654",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The financial impact was greater in small- and medium-sized farms than large farms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30542654-2-es",
+   "translationKey": "mastitis-30542654-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "En Colombia, ¿qué tambos sufrían el mayor impacto financiero de la mastitis subclínica?",
+   "options": [
+    "Los pequeños y medianos",
+    "Solo los tambos más grandes",
+    "Todos por igual, por ley",
+    "Solo los que tenían robots"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las pérdidas eran mayores en tambos pequeños y medianos y crecían con la gravedad del RCS por cuarto.",
+   "shortExplanation": "Pequeños y medianos.",
+   "pmid": "30542654",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The financial impact was greater in small- and medium-sized farms than large farms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38340554-1-en",
+   "translationKey": "mastitis-38340554-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did 12 years of susceptibility testing of North American mastitis pathogens show?",
+   "options": [
+    "Resistance rose sharply every year",
+    "Most isolates became pan-resistant",
+    "Penicillin stopped working entirely",
+    "Resistance stayed low and stable"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Over 10,000 isolates showed stable, low resistance, even to drugs used for decades.",
+   "shortExplanation": "Stable and low.",
+   "pmid": "38340554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "have not shown any substantial changes in the in vitro susceptibility to antimicrobial drugs over the 12 years of the study",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38340554-1-es",
+   "translationKey": "mastitis-38340554-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostraron 12 años de antibiogramas de patógenos de mastitis de Norteamérica?",
+   "options": [
+    "La resistencia subió mucho cada año",
+    "Casi todos se volvieron panresistentes",
+    "La penicilina dejó de funcionar",
+    "La resistencia siguió baja y estable"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Más de 10.000 aislamientos mostraron una resistencia baja y estable, aun a fármacos usados por décadas.",
+   "shortExplanation": "Estable y baja.",
+   "pmid": "38340554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "have not shown any substantial changes in the in vitro susceptibility to antimicrobial drugs over the 12 years of the study",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38340554-2-en",
+   "translationKey": "mastitis-38340554-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "For S. uberis in North America, resistance was moderate to which drugs?",
+   "options": [
+    "Ampicillin and ceftiofur",
+    "Erythromycin and pirlimycin",
+    "Penicillin-novobiocin and oxacillin",
+    "Cefoperazone and cephalothin"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "S. uberis resistance was ~12% to erythromycin and ~18% to pirlimycin, but near 0% to ampicillin and ceftiofur.",
+   "shortExplanation": "Erythromycin, pirlimycin.",
+   "pmid": "38340554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "moderate for erythromycin (11.9%) and pirlimycin (18.4%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38340554-2-es",
+   "translationKey": "mastitis-38340554-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Para S. uberis en Norteamérica, ¿a qué fármacos la resistencia fue moderada?",
+   "options": [
+    "Ampicilina y ceftiofur",
+    "Eritromicina y pirlimicina",
+    "Penicilina-novobiocina y oxacilina",
+    "Cefoperazona y cefalotina"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La resistencia de S. uberis fue ~12% a eritromicina y ~18% a pirlimicina, pero casi 0% a ampicilina y ceftiofur.",
+   "shortExplanation": "Eritromicina, pirlimicina.",
+   "pmid": "38340554",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "moderate for erythromycin (11.9%) and pirlimycin (18.4%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36562745-1-en",
+   "translationKey": "mastitis-36562745-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "In Swiss beef cows treated for mastitis, which pathogens were most common?",
+   "options": [
+    "E. coli and Klebsiella pneumoniae",
+    "S. agalactiae and Mycoplasma bovis",
+    "P. multocida and S. aureus",
+    "Prototheca algae and yeasts"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Unlike dairy cows, beef cows often had P. multocida (22%) alongside S. aureus (21%).",
+   "shortExplanation": "P. multocida and S. aureus.",
+   "pmid": "36562745",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Pasteurella multocida (22 %) and Staphylococcus aureus (21 %) were the most common pathogens isolated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36562745-1-es",
+   "translationKey": "mastitis-36562745-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "En vacas de carne suizas tratadas por mastitis, ¿qué patógenos fueron más comunes?",
+   "options": [
+    "E. coli y Klebsiella pneumoniae",
+    "S. agalactiae y Mycoplasma bovis",
+    "P. multocida y S. aureus",
+    "Algas Prototheca y levaduras"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "A diferencia de las lecheras, las vacas de carne tenían a menudo P. multocida (22%) junto con S. aureus (21%).",
+   "shortExplanation": "P. multocida y S. aureus.",
+   "pmid": "36562745",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Pasteurella multocida (22 %) and Staphylococcus aureus (21 %) were the most common pathogens isolated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36562745-2-en",
+   "translationKey": "mastitis-36562745-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did the study reveal about blind quarters in Swiss beef cows?",
+   "options": [
+    "16% had one; owners missed most",
+    "None of the cows had a blind quarter",
+    "All blind quarters were already known",
+    "Blind quarters only occurred in bulls"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "16% of cows had a blind quarter, but owners had noticed only about a third of them.",
+   "shortExplanation": "16%, mostly unnoticed.",
+   "pmid": "36562745",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Sixteen percent of the cows had at least one blind quarter, but only 32 % of these had been previously detected by the owners",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36562745-2-es",
+   "translationKey": "mastitis-36562745-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué reveló el estudio sobre los cuartos ciegos en vacas de carne suizas?",
+   "options": [
+    "16% tenía uno; casi nadie lo notó",
+    "Ninguna vaca tenía un cuarto ciego",
+    "Todos los cuartos ciegos ya se conocían",
+    "Solo había cuartos ciegos en toros"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El 16% de las vacas tenía un cuarto ciego, pero los dueños solo habían notado cerca de un tercio.",
+   "shortExplanation": "16%, casi sin detectar.",
+   "pmid": "36562745",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Sixteen percent of the cows had at least one blind quarter, but only 32 % of these had been previously detected by the owners",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30122416-1-en",
+   "translationKey": "mastitis-30122416-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which type of mastitis caused the largest 305-day milk loss in Finnish cows?",
+   "options": [
+    "S. aureus mastitis in late lactation",
+    "Subclinical NAS mastitis at dry-off",
+    "C. bovis infection in heifers",
+    "E. coli clinical mastitis before peak"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Clinical E. coli mastitis before peak cost 10.6% of 305-day yield (3.5 kg/d).",
+   "shortExplanation": "Early E. coli.",
+   "pmid": "30122416",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Escherichia coli clinical mastitis diagnosed before peak lactation caused the largest loss, 10.6% of the 305-d milk yield",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30122416-1-es",
+   "translationKey": "mastitis-30122416-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tipo de mastitis causó la mayor pérdida de leche en 305 días en vacas finlandesas?",
+   "options": [
+    "S. aureus al final de la lactancia",
+    "Mastitis subclínica por ENA al secado",
+    "Infección por C. bovis en vaquillonas",
+    "E. coli clínica antes del pico"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La mastitis clínica por E. coli antes del pico costó el 10,6% de la producción en 305 días (3,5 kg/d).",
+   "shortExplanation": "E. coli temprana.",
+   "pmid": "30122416",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Escherichia coli clinical mastitis diagnosed before peak lactation caused the largest loss, 10.6% of the 305-d milk yield",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30122416-2-en",
+   "translationKey": "mastitis-30122416-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What did the Finnish study conclude about minor pathogens such as NAS and C. bovis?",
+   "options": [
+    "They never affect milk yield at all",
+    "They can also cut milk yield",
+    "They only matter in beef cattle",
+    "They raise yield by stimulating the udder"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Clinical C. bovis and NAS mastitis before peak cut yield by 7.4% and 5.7%.",
+   "shortExplanation": "They also cut yield.",
+   "pmid": "30122416",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "minor pathogens should not be underestimated as a cause of milk yield reduction",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30122416-2-es",
+   "translationKey": "mastitis-30122416-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué concluyó el estudio finlandés sobre patógenos menores como ENA y C. bovis?",
+   "options": [
+    "Nunca afectan la producción de leche",
+    "También pueden bajar la producción",
+    "Solo importan en ganado de carne",
+    "Aumentan la producción al estimular la ubre"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La mastitis clínica por C. bovis y ENA antes del pico redujo la producción 7,4% y 5,7%.",
+   "shortExplanation": "También bajan la producción.",
+   "pmid": "30122416",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "minor pathogens should not be underestimated as a cause of milk yield reduction",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34955276-1-en",
+   "translationKey": "mastitis-34955276-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "In southeastern Australia, which pathogens dominated clinical and subclinical mastitis?",
+   "options": [
+    "Clinical: S. uberis; subclinical: S. aureus",
+    "Clinical: S. aureus; subclinical: E. coli",
+    "Both dominated by Mycoplasma bovis",
+    "Both dominated by Klebsiella species"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "S. uberis led clinical cases (39%) and S. aureus subclinical ones; resistance was uncommon.",
+   "shortExplanation": "S. uberis / S. aureus.",
+   "pmid": "34955276",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the most common bacteria causing clinical mastitis in dairy herds in Australia is likely to be Strep. uberis, whereas Staph. aureus is likely to be the most common cause of subclinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34955276-1-es",
+   "translationKey": "mastitis-34955276-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "En el sudeste de Australia, ¿qué patógenos dominaban la mastitis clínica y la subclínica?",
+   "options": [
+    "Clínica: S. uberis; subclínica: S. aureus",
+    "Clínica: S. aureus; subclínica: E. coli",
+    "Ambas dominadas por Mycoplasma bovis",
+    "Ambas dominadas por especies de Klebsiella"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "S. uberis encabezaba los casos clínicos (39%) y S. aureus los subclínicos; la resistencia fue poco común.",
+   "shortExplanation": "S. uberis / S. aureus.",
+   "pmid": "34955276",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the most common bacteria causing clinical mastitis in dairy herds in Australia is likely to be Strep. uberis, whereas Staph. aureus is likely to be the most common cause of subclinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34955276-2-en",
+   "translationKey": "mastitis-34955276-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How did penicillin resistance of S. aureus compare between subclinical and clinical isolates?",
+   "options": [
+    "It was identical in both groups",
+    "It was higher in clinical isolates",
+    "~5 times higher in subclinical",
+    "No isolate was ever resistant"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Subclinical S. aureus was 5.16 times more likely to resist penicillin than clinical isolates.",
+   "shortExplanation": "~5× in subclinical.",
+   "pmid": "34955276",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the probability of Staph. aureus demonstrating resistance to penicillin was 5.16 times higher (95% confidence interval: 1.68, 15.88) in subclinical isolates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34955276-2-es",
+   "translationKey": "mastitis-34955276-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se comparó la resistencia de S. aureus a la penicilina entre aislamientos subclínicos y clínicos?",
+   "options": [
+    "Fue idéntica en ambos grupos",
+    "Fue mayor en los aislamientos clínicos",
+    "~5 veces mayor en subclínicos",
+    "Ningún aislamiento fue resistente"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los S. aureus subclínicos tenían 5,16 veces más probabilidad de resistir la penicilina que los clínicos.",
+   "shortExplanation": "~5 veces en subclínicos.",
+   "pmid": "34955276",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the probability of Staph. aureus demonstrating resistance to penicillin was 5.16 times higher (95% confidence interval: 1.68, 15.88) in subclinical isolates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37641317-1-en",
+   "translationKey": "mastitis-37641317-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did genome sequencing show about the β-lactamase gene blaZ in these NAS?",
+   "options": [
+    "It was in every isolate of both species",
+    "It was only found in S. simulans",
+    "It was absent from both species",
+    "Found in S. chromogenes, not S. simulans"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "blaZ appeared in 22% of S. chromogenes isolates but in no S. simulans isolate.",
+   "shortExplanation": "Only S. chromogenes.",
+   "pmid": "37641317",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the blaZ gene was not identified in S. simulans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37641317-1-es",
+   "translationKey": "mastitis-37641317-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostró la secuenciación sobre el gen de betalactamasa blaZ en estos ENA?",
+   "options": [
+    "Estaba en todos los aislamientos de ambas",
+    "Solo se halló en S. simulans",
+    "Faltaba en ambas especies",
+    "En S. chromogenes, no en S. simulans"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "blaZ apareció en el 22% de los S. chromogenes y en ningún S. simulans.",
+   "shortExplanation": "Solo S. chromogenes.",
+   "pmid": "37641317",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the blaZ gene was not identified in S. simulans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37641317-2-en",
+   "translationKey": "mastitis-37641317-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Finding the same S. chromogenes sequence types in several herds suggests…",
+   "options": [
+    "Spread between herds",
+    "Laboratory contamination",
+    "That NAS never spread",
+    "A single human source"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Some STs occurred in several herds, and identical genotypes also spread within herds.",
+   "shortExplanation": "Between-herd spread.",
+   "pmid": "37641317",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Some ST of S. chromogenes were found in several herds, indicating spread between herds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37641317-2-es",
+   "translationKey": "mastitis-37641317-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Hallar los mismos tipos de secuencia de S. chromogenes en varios rodeos sugiere…",
+   "options": [
+    "Diseminación entre rodeos",
+    "Contaminación del laboratorio",
+    "Que los ENA nunca se diseminan",
+    "Una única fuente humana"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Algunos ST aparecían en varios rodeos, y genotipos idénticos también se diseminaban dentro de cada rodeo.",
+   "shortExplanation": "Diseminación entre rodeos.",
+   "pmid": "37641317",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Some ST of S. chromogenes were found in several herds, indicating spread between herds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37764906-1-en",
+   "translationKey": "mastitis-37764906-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What share of cows with severe clinical mastitis died or were culled within two weeks?",
+   "options": [
+    "About 4%",
+    "About 14%",
+    "About 35%",
+    "About 75%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mortality was 34.5% for severe, 21.7% for moderate and 4.4% for mild cases.",
+   "shortExplanation": "~35%.",
+   "pmid": "37764906",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The mortality rate (deceased or culled due to the mastitis in the following two weeks) was 34.5% for severe mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37764906-1-es",
+   "translationKey": "mastitis-37764906-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué proporción de vacas con mastitis clínica grave murió o se descartó en dos semanas?",
+   "options": [
+    "Cerca del 4%",
+    "Cerca del 14%",
+    "Cerca del 35%",
+    "Cerca del 75%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mortalidad fue 34,5% en los casos graves, 21,7% en los moderados y 4,4% en los leves.",
+   "shortExplanation": "~35%.",
+   "pmid": "37764906",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The mortality rate (deceased or culled due to the mastitis in the following two weeks) was 34.5% for severe mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37764906-2-en",
+   "translationKey": "mastitis-37764906-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which factors were associated with severe courses of clinical mastitis?",
+   "options": [
+    "Cold weather and a high previous SCC",
+    "High shedding, low prior SCC, heat",
+    "Only the number of lactations",
+    "Only the breed of the cow"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Severe cases had high pathogen shedding, low prior SCC, and occurred with high temperature and humidity.",
+   "shortExplanation": "High shedding, low SCC, heat.",
+   "pmid": "37764906",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "High pathogen shedding, low previous somatic cell count (SCC) before mastitis, high outside temperature, and high humidity were associated with severe courses of mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37764906-2-es",
+   "translationKey": "mastitis-37764906-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué factores se asociaron con cursos graves de mastitis clínica?",
+   "options": [
+    "Frío y un RCS previo alto",
+    "Alta excreción, RCS bajo, calor",
+    "Solo el número de lactancias",
+    "Solo la raza de la vaca afectada"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los casos graves tenían alta excreción del patógeno, RCS previo bajo y ocurrían con calor y humedad altos.",
+   "shortExplanation": "Alta excreción, RCS bajo, calor.",
+   "pmid": "37764906",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "High pathogen shedding, low previous somatic cell count (SCC) before mastitis, high outside temperature, and high humidity were associated with severe courses of mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37512812-1-en",
+   "translationKey": "mastitis-37512812-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How often was bacteremia confirmed in cows with severe mastitis?",
+   "options": [
+    "In about 15% of cases",
+    "In nearly every case",
+    "In none of the cases",
+    "In about 85% of cases"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Identical strains in milk and blood were found in 12 of 77 cases, mostly K. pneumoniae and E. coli.",
+   "shortExplanation": "~15%.",
+   "pmid": "37512812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteremia was confirmed in 12 cases (15.5%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37512812-1-es",
+   "translationKey": "mastitis-37512812-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Con qué frecuencia se confirmó bacteriemia en vacas con mastitis grave?",
+   "options": [
+    "En cerca del 15% de los casos",
+    "En casi todos los casos",
+    "En ninguno de los casos",
+    "En cerca del 85% de los casos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Se hallaron cepas idénticas en leche y sangre en 12 de 77 casos, sobre todo K. pneumoniae y E. coli.",
+   "shortExplanation": "~15%.",
+   "pmid": "37512812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteremia was confirmed in 12 cases (15.5%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37512812-2-en",
+   "translationKey": "mastitis-37512812-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What did the Limulus test detect in many blood samples without gram-negative growth?",
+   "options": [
+    "Live bacteria hidden in clots",
+    "Antibodies against E. coli",
+    "Fungal spores from the feed",
+    "Bacterial endotoxins"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The Limulus test detected endotoxin in 60.5% of cases, even when no gram-negatives grew from blood.",
+   "shortExplanation": "Endotoxins.",
+   "pmid": "37512812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Limulus test was positive for 60.5% of cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37512812-2-es",
+   "translationKey": "mastitis-37512812-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué detectó la prueba de Limulus en muchas muestras de sangre sin crecimiento de gramnegativos?",
+   "options": [
+    "Bacterias vivas ocultas en coágulos",
+    "Anticuerpos contra E. coli",
+    "Esporas fúngicas del alimento",
+    "Endotoxinas bacterianas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La prueba de Limulus detectó endotoxinas en el 60,5% de los casos, aun sin gramnegativos en la sangre.",
+   "shortExplanation": "Endotoxinas.",
+   "pmid": "37512812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Limulus test was positive for 60.5% of cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37512812-3-en",
+   "translationKey": "mastitis-37512812-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How did bacteremia change the outcome of severe mastitis?",
+   "options": [
+    "It had no effect on mortality",
+    "It halved the mortality rate",
+    "Mortality roughly doubled",
+    "All cows with it recovered fully"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mortality was 66.6% with bacteremia versus 34.1% without it.",
+   "shortExplanation": "~Doubled.",
+   "pmid": "37512812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The mortality rate (deceased or culled) was 66.6% for cases with bacteremia and 34.1% for cases without bacteremia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37512812-3-es",
+   "translationKey": "mastitis-37512812-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo cambió la bacteriemia el desenlace de la mastitis grave?",
+   "options": [
+    "No afectó la mortalidad",
+    "Redujo a la mitad la mortalidad",
+    "La mortalidad casi se duplicó",
+    "Todas las vacas se recuperaron del todo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mortalidad fue 66,6% con bacteriemia frente a 34,1% sin ella.",
+   "shortExplanation": "Casi se duplicó.",
+   "pmid": "37512812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The mortality rate (deceased or culled) was 66.6% for cases with bacteremia and 34.1% for cases without bacteremia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40268330-1-en",
+   "translationKey": "mastitis-40268330-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How sensitive was a rise in cow-level SCC for detecting new quarter infections?",
+   "options": [
+    "About 90%",
+    "About 30%",
+    "About 60%",
+    "About 99%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Compared with quarter bacteriology, an SCC increase had ~30% sensitivity and ~89% specificity.",
+   "shortExplanation": "~30%.",
+   "pmid": "40268330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The sensitivity and specificity of an increase in SCC were 29.8% and 88.9%, respectively",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40268330-1-es",
+   "translationKey": "mastitis-40268330-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tan sensible era un aumento del RCS de la vaca para detectar nuevas infecciones de cuartos?",
+   "options": [
+    "Cerca del 90%",
+    "Cerca del 30%",
+    "Cerca del 60%",
+    "Cerca del 99%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Frente a la bacteriología por cuarto, el aumento del RCS tuvo ~30% de sensibilidad y ~89% de especificidad.",
+   "shortExplanation": "~30%.",
+   "pmid": "40268330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The sensitivity and specificity of an increase in SCC were 29.8% and 88.9%, respectively",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25457268-1-en",
+   "translationKey": "mastitis-25457268-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What was the prevalence of subclinical mastitis at the first test in Swiss heifers?",
+   "options": [
+    "About 2%",
+    "About 50%",
+    "About 80%",
+    "About 21%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Using SCC ≥100,000 cells/mL at the first test, 20.6% of 166,518 heifers had SCM.",
+   "shortExplanation": "~21%.",
+   "pmid": "25457268",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The overall prevalence of SCM in heifers during the period from 2006 to 2010 was 20.6%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25457268-1-es",
+   "translationKey": "mastitis-25457268-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál fue la prevalencia de mastitis subclínica en el primer control de vaquillonas suizas?",
+   "options": [
+    "Cerca del 2%",
+    "Cerca del 50%",
+    "Cerca del 80%",
+    "Cerca del 21%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Con RCS ≥100.000 células/mL en el primer control, el 20,6% de 166.518 vaquillonas tenía mastitis subclínica.",
+   "shortExplanation": "~21%.",
+   "pmid": "25457268",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The overall prevalence of SCM in heifers during the period from 2006 to 2010 was 20.6%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25457268-2-en",
+   "translationKey": "mastitis-25457268-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which udder trait was associated with a LOW risk of subclinical mastitis in heifers?",
+   "options": [
+    "High-set udders",
+    "Very deep udders",
+    "Long teats",
+    "Wide rear udders"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "High-set udders, high overall breeding values and low milk breeding values meant lower risk.",
+   "shortExplanation": "High-set udders.",
+   "pmid": "25457268",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Traits associated with a low risk of SCM were high set udders",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25457268-2-es",
+   "translationKey": "mastitis-25457268-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué rasgo de ubre se asoció con un riesgo BAJO de mastitis subclínica en vaquillonas?",
+   "options": [
+    "Ubres altas",
+    "Ubres muy profundas",
+    "Pezones largos",
+    "Ubres traseras anchas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las ubres altas, el mérito genético total alto y el mérito lechero bajo se asociaron con menor riesgo.",
+   "shortExplanation": "Ubres altas.",
+   "pmid": "25457268",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Traits associated with a low risk of SCM were high set udders",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22720924-1-en",
+   "translationKey": "mastitis-22720924-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How did net farm profit change when bulk milk SCC rose above 400,000 cells/mL on a 40-ha Irish farm?",
+   "options": [
+    "It stayed about the same",
+    "It roughly doubled",
+    "It fell by about two thirds",
+    "It turned slightly positive"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Profit fell from €31,252 to €11,748 per year, about 62% less.",
+   "shortExplanation": "Fell ~2/3.",
+   "pmid": "22720924",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Net farm profit decreased as BMSCC increased, from €31,252/yr at the baseline to €11,748/yr at a BMSCC > 400,000 cells/mL",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22720924-1-es",
+   "translationKey": "mastitis-22720924-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo cambió la ganancia neta de un tambo irlandés de 40 ha cuando el RCS del tanque superó 400.000?",
+   "options": [
+    "Se mantuvo casi igual",
+    "Se duplicó aproximadamente",
+    "Cayó cerca de dos tercios",
+    "Pasó a ser apenas positiva"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La ganancia bajó de 31.252 € a 11.748 € por año, cerca de 62% menos.",
+   "shortExplanation": "Cayó ~2/3.",
+   "pmid": "22720924",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Net farm profit decreased as BMSCC increased, from €31,252/yr at the baseline to €11,748/yr at a BMSCC > 400,000 cells/mL",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22720924-2-en",
+   "translationKey": "mastitis-22720924-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Why did livestock receipts rise as bulk milk SCC increased on Irish farms?",
+   "options": [
+    "Cows got heavier and fetched more",
+    "More cows were culled and sold",
+    "Calf prices went up with SCC",
+    "Farmers bought fewer heifers"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Higher replacement rates meant more cull cows sold, raising livestock receipts 17%.",
+   "shortExplanation": "More culling.",
+   "pmid": "22720924",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "livestock receipts increased by 17%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22720924-2-es",
+   "translationKey": "mastitis-22720924-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Por qué aumentaban los ingresos por venta de animales al subir el RCS del tanque en Irlanda?",
+   "options": [
+    "Las vacas pesaban más y valían más",
+    "Se descartaban y vendían más vacas",
+    "El precio del ternero subía con el RCS",
+    "Se compraban menos vaquillonas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Una mayor reposición implicaba vender más vacas de descarte, lo que subía esos ingresos 17%.",
+   "shortExplanation": "Más descartes.",
+   "pmid": "22720924",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "livestock receipts increased by 17%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22192193-1-en",
+   "translationKey": "mastitis-22192193-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "By how much did premature culling increase the cost of clinical mastitis in Finland?",
+   "options": [
+    "About 3%",
+    "About 80%",
+    "About 300%",
+    "About 30%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Current culling practices raised clinical mastitis costs by 28% (Ayrshire) and 30% (Holstein).",
+   "shortExplanation": "~30%.",
+   "pmid": "22192193",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the increase in the costs of CM due to premature cullings was 28% (30%.)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22192193-1-es",
+   "translationKey": "mastitis-22192193-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cuánto aumentaba el descarte prematuro el costo de la mastitis clínica en Finlandia?",
+   "options": [
+    "Cerca del 3%",
+    "Cerca del 80%",
+    "Cerca del 300%",
+    "Cerca del 30%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las prácticas de descarte actuales aumentaban el costo de la mastitis clínica 28% (Ayrshire) y 30% (Holstein).",
+   "shortExplanation": "~30%.",
+   "pmid": "22192193",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the increase in the costs of CM due to premature cullings was 28% (30%.)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22192193-2-en",
+   "translationKey": "mastitis-22192193-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "When was a case of clinical mastitis most costly, according to this model?",
+   "options": [
+    "At peak milk yield",
+    "During the dry period",
+    "In the last week before dry-off",
+    "Before the first calving"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Costs peaked when mastitis struck during top yield; long-term production losses were the main cost.",
+   "shortExplanation": "At peak yield.",
+   "pmid": "22192193",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The costs were at the highest when the occurrence of CM was at a top yield phase",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22192193-2-es",
+   "translationKey": "mastitis-22192193-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Según este modelo, ¿cuándo resultaba más costoso un caso de mastitis clínica?",
+   "options": [
+    "En el pico de producción",
+    "Durante el período seco",
+    "En la última semana antes del secado",
+    "Antes del primer parto"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los costos eran máximos si la mastitis aparecía en el pico; las pérdidas de producción a largo plazo eran el costo principal.",
+   "shortExplanation": "En el pico.",
+   "pmid": "22192193",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The costs were at the highest when the occurrence of CM was at a top yield phase",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36851389-1-en",
+   "translationKey": "mastitis-36851389-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which period held most risk factors for heifer mastitis in German herds?",
+   "options": [
+    "Rearing as young calves",
+    "Mid-gestation on pasture",
+    "Shortly after calving",
+    "The dry period before calving"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Four of five risk factors were post-partum, three of them about milking (teat cleaning, disinfection).",
+   "shortExplanation": "Just after calving.",
+   "pmid": "36851389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "four of the five significant risk factors were identified in this period and three of them were related to the milking process",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-36851389-1-es",
+   "translationKey": "mastitis-36851389-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué período concentraba la mayoría de los factores de riesgo de mastitis en vaquillonas alemanas?",
+   "options": [
+    "La crianza como terneras",
+    "La mitad de la gestación en pastoreo",
+    "Poco después del parto",
+    "El período previo al parto"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Cuatro de cinco factores eran posparto, tres de ellos ligados al ordeño (limpieza y desinfección de pezones).",
+   "shortExplanation": "Justo después del parto.",
+   "pmid": "36851389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "four of the five significant risk factors were identified in this period and three of them were related to the milking process",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22916896-1-en",
+   "translationKey": "mastitis-22916896-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What share of horn fly samples carried S. aureus on these US dairies?",
+   "options": [
+    "About 5%",
+    "Over half",
+    "About 20%",
+    "None at all"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "29 of 52 horn fly samples were positive, with genotypes shared with heifer colostrum and cow milk.",
+   "shortExplanation": "Over half.",
+   "pmid": "22916896",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Horn fly samples were frequently positive, with over one-half (29/52, or 55.8%) of samples positive for Staph. aureus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22916896-1-es",
+   "translationKey": "mastitis-22916896-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué proporción de muestras de mosca de los cuernos portaba S. aureus en estos tambos de EE. UU.?",
+   "options": [
+    "Cerca del 5%",
+    "Más de la mitad",
+    "Alrededor del 20%",
+    "Ninguna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "29 de 52 muestras de moscas fueron positivas, con genotipos compartidos con calostro de vaquillonas y leche.",
+   "shortExplanation": "Más de la mitad.",
+   "pmid": "22916896",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Horn fly samples were frequently positive, with over one-half (29/52, or 55.8%) of samples positive for Staph. aureus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22916896-2-en",
+   "translationKey": "mastitis-22916896-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Besides other cows, what may be important sources of S. aureus for heifer udder infections?",
+   "options": [
+    "Only the water in drinking troughs",
+    "Only the milkers' hands and gloves",
+    "Only the bulk tank milk",
+    "Flies and heifer body sites"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Identical genotypes in flies, heifer body sites and colostrum point to these as infection sources.",
+   "shortExplanation": "Flies and body sites.",
+   "pmid": "22916896",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "flies and heifer body sites could be important sources of Staph. aureus for heifer intramammary infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-22916896-2-es",
+   "translationKey": "mastitis-22916896-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Además de otras vacas, ¿qué puede ser una fuente importante de S. aureus para las vaquillonas?",
+   "options": [
+    "Solo el agua de los bebederos",
+    "Solo las manos y guantes de los ordeñadores",
+    "Solo la leche del tanque",
+    "Moscas y el cuerpo de la vaquillona"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Genotipos idénticos en moscas, sitios corporales y calostro señalan a estos como fuentes de infección.",
+   "shortExplanation": "Moscas y cuerpo.",
+   "pmid": "22916896",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "flies and heifer body sites could be important sources of Staph. aureus for heifer intramammary infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38278296-1-en",
+   "translationKey": "mastitis-38278296-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What makes intramammary nisin attractive for treating subclinical mastitis?",
+   "options": [
+    "No milk discard is required",
+    "It kills all gram-negative bacteria",
+    "It is a synthetic fluoroquinolone",
+    "It also works as a vaccine"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Nisin is a natural gram-positive antimicrobial peptide that does not require discarding milk.",
+   "shortExplanation": "No milk discard.",
+   "pmid": "38278296",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Nisin is a naturally produced antimicrobial peptide with a gram-positive spectrum that, when given to dairy cows, does not require milk discard",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38278296-1-es",
+   "translationKey": "mastitis-38278296-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué hace atractiva a la nisina intramamaria para tratar la mastitis subclínica?",
+   "options": [
+    "No exige descartar la leche",
+    "Mata a todas las bacterias gramnegativas",
+    "Es una fluoroquinolona sintética",
+    "También funciona como vacuna"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La nisina es un péptido antimicrobiano natural contra grampositivos que no obliga a descartar leche.",
+   "shortExplanation": "Sin descarte de leche.",
+   "pmid": "38278296",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Nisin is a naturally produced antimicrobial peptide with a gram-positive spectrum that, when given to dairy cows, does not require milk discard",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38278296-2-en",
+   "translationKey": "mastitis-38278296-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "In the simulation, how often was nisin treatment of early-lactation SCM economically beneficial?",
+   "options": [
+    "About 13% of the time",
+    "About 43% of the time",
+    "About 93% of the time",
+    "Never"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Nisin gave an average gain of $19 per CMT-positive case and was beneficial in 93% of iterations.",
+   "shortExplanation": "~93%.",
+   "pmid": "38278296",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The use of nisin to treat SCM was beneficial 93% of the time",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38278296-2-es",
+   "translationKey": "mastitis-38278296-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "En la simulación, ¿con qué frecuencia fue rentable tratar con nisina la mastitis subclínica temprana?",
+   "options": [
+    "Cerca del 13% de las veces",
+    "Cerca del 43% de las veces",
+    "Cerca del 93% de las veces",
+    "Nunca"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La nisina dio una ganancia media de 19 dólares por caso CMT positivo y fue rentable en el 93% de las iteraciones.",
+   "shortExplanation": "~93%.",
+   "pmid": "38278296",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The use of nisin to treat SCM was beneficial 93% of the time",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316503-1-en",
+   "translationKey": "mastitis-30316503-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which countries have directly selected bulls for low clinical mastitis incidence for 30 years?",
+   "options": [
+    "The United States",
+    "Australia and New Zealand",
+    "Argentina and Brazil",
+    "The Nordic countries"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "National veterinary recording let Nordic countries select directly; others used SCC as an indirect trait.",
+   "shortExplanation": "Nordic countries.",
+   "pmid": "30316503",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "National veterinary recording systems in the Nordic countries have allowed direct selection for sire families with low incidence of clinical mastitis for 3 decades",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316503-1-es",
+   "translationKey": "mastitis-30316503-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué países seleccionan directamente toros por baja incidencia de mastitis clínica desde hace 30 años?",
+   "options": [
+    "Estados Unidos",
+    "Australia y Nueva Zelanda",
+    "Argentina y Brasil",
+    "Los países nórdicos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los registros veterinarios nacionales permitieron a los nórdicos seleccionar en forma directa; otros usaron el RCS.",
+   "shortExplanation": "Los nórdicos.",
+   "pmid": "30316503",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "National veterinary recording systems in the Nordic countries have allowed direct selection for sire families with low incidence of clinical mastitis for 3 decades",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316503-2-en",
+   "translationKey": "mastitis-30316503-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What advantage does genetic selection offer for mastitis control?",
+   "options": [
+    "Immediate cure of infected cows",
+    "Permanent gains in resistance",
+    "It replaces all hygiene measures",
+    "It removes the need for any vet"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Unlike management, genetic progress is cumulative and permanent.",
+   "shortExplanation": "Permanent improvement.",
+   "pmid": "30316503",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "genetic selection can confer permanent improvement in mastitis resistance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30316503-2-es",
+   "translationKey": "mastitis-30316503-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué ventaja ofrece la selección genética para controlar la mastitis?",
+   "options": [
+    "Cura inmediata de las vacas infectadas",
+    "Mejoras permanentes de resistencia",
+    "Reemplaza todas las medidas de higiene",
+    "Elimina la necesidad de un veterinario"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "A diferencia del manejo, el progreso genético es acumulativo y permanente.",
+   "shortExplanation": "Mejora permanente.",
+   "pmid": "30316503",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "genetic selection can confer permanent improvement in mastitis resistance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40447093-1-en",
+   "translationKey": "mastitis-40447093-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "On Indonesian smallholder farms, which control strategy had a positive net economic benefit?",
+   "options": [
+    "Post-milking teat disinfection",
+    "Washing udders with soap",
+    "CMT testing plus treatment",
+    "More frequent manure removal"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Of five strategies, only post-milking teat disinfection paid off by cutting mastitis incidence.",
+   "shortExplanation": "Post-milking teat dip.",
+   "pmid": "40447093",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "postmilking teat disinfection emerged as the only strategy with a positive net economic benefit",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40447093-1-es",
+   "translationKey": "mastitis-40447093-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "En pequeños tambos de Indonesia, ¿qué estrategia de control tuvo beneficio económico neto positivo?",
+   "options": [
+    "Desinfección de pezones posordeño",
+    "Lavar las ubres con jabón",
+    "CMT con tratamiento antibiótico",
+    "Retirar el estiércol más seguido"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "De cinco estrategias, solo el sellado de pezones posordeño resultó rentable al bajar la incidencia.",
+   "shortExplanation": "Sellado posordeño.",
+   "pmid": "40447093",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "postmilking teat disinfection emerged as the only strategy with a positive net economic benefit",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18848410-1-en",
+   "translationKey": "mastitis-18848410-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which CNS species mainly affects heifers and first-calf cows?",
+   "options": [
+    "Staphylococcus epidermidis",
+    "Staphylococcus simulans",
+    "Staphylococcus chromogenes",
+    "Staphylococcus haemolyticus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "S. chromogenes predominates in young cows; S. simulans is more common in older cows.",
+   "shortExplanation": "S. chromogenes.",
+   "pmid": "18848410",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "S. chromogenes is the major CNS species affecting nulliparous and primiparous cows whereas S. simulans has been isolated more frequently from older cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18848410-1-es",
+   "translationKey": "mastitis-18848410-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué especie de ECN afecta sobre todo a vaquillonas y vacas de primer parto?",
+   "options": [
+    "Staphylococcus epidermidis",
+    "Staphylococcus simulans",
+    "Staphylococcus chromogenes",
+    "Staphylococcus haemolyticus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "S. chromogenes predomina en vacas jóvenes; S. simulans es más común en vacas mayores.",
+   "shortExplanation": "S. chromogenes.",
+   "pmid": "18848410",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "S. chromogenes is the major CNS species affecting nulliparous and primiparous cows whereas S. simulans has been isolated more frequently from older cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18848410-2-en",
+   "translationKey": "mastitis-18848410-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How well does CNS mastitis respond to antimicrobial treatment?",
+   "options": [
+    "It almost never responds to any drug",
+    "Cure rates are usually high",
+    "Only surgery can cure it",
+    "It always relapses within days"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "CNS infections are mostly subclinical and cure well with treatment, though they can persist untreated.",
+   "shortExplanation": "Usually cured.",
+   "pmid": "18848410",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CNS mastitis is not a therapeutic problem as cure rates after antimicrobial treatment are usually high",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18848410-2-es",
+   "translationKey": "mastitis-18848410-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo responde la mastitis por ECN al tratamiento antimicrobiano?",
+   "options": [
+    "Casi nunca responde a ningún fármaco",
+    "La tasa de cura suele ser alta",
+    "Solo la cirugía la cura",
+    "Siempre recae en pocos días"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las infecciones por ECN son sobre todo subclínicas y se curan bien con tratamiento, aunque sin tratar pueden persistir.",
+   "shortExplanation": "Suele curarse.",
+   "pmid": "18848410",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CNS mastitis is not a therapeutic problem as cure rates after antimicrobial treatment are usually high",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
