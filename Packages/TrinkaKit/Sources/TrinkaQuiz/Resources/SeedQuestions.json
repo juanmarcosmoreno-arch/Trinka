@@ -1,5 +1,5 @@
 {
- "version": 26,
+ "version": 27,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -32997,10 +32997,10 @@
    "difficulty": "beginner",
    "prompt": "What is an airborne disease?",
    "options": [
-    "A disease caused by a microorganism transmitted through the air",
-    "Any disease caused by air pollution",
-    "A disease spread only by touch",
-    "A disease spread by food"
+    "A microbial disease spread through the air",
+    "Any illness caused by air pollution",
+    "A disease spread mainly by skin contact",
+    "An infection spread through shared food"
    ],
    "correctOptionIndex": 0,
    "explanation": "Airborne diseases are caused by microbes transmitted through the air — not by pollution, smog or dust.",
@@ -33021,10 +33021,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué es una enfermedad de transmisión aérea?",
    "options": [
-    "Una enfermedad causada por un microorganismo que se transmite por el aire",
-    "Cualquier enfermedad por contaminación ambiental",
-    "Una enfermedad que solo se contagia por contacto",
-    "Una enfermedad transmitida por alimentos"
+    "Enfermedad microbiana que se transmite por el aire",
+    "Cualquier enfermedad por contaminación del aire",
+    "Enfermedad que se contagia sobre todo por contacto",
+    "Infección que se transmite por compartir comida"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las enfermedades aéreas las causan microbios transmitidos por el aire, no la contaminación, el smog o el polvo.",
@@ -33045,10 +33045,10 @@
    "difficulty": "curious",
    "prompt": "What distinguishes true airborne transmission?",
    "options": [
-    "Large droplets that fall within 1 meter",
-    "Direct skin contact",
-    "Droplet nuclei that stay infectious suspended in air over long distances and time",
-    "Contaminated water"
+    "Large droplets that fall within about 1 meter",
+    "Direct contact between skin and mucosa",
+    "Droplet nuclei that stay suspended and infectious",
+    "Fomites contaminated by respiratory secretions"
    ],
    "correctOptionIndex": 2,
    "explanation": "Airborne transmission involves droplet nuclei that remain infectious in air over distance and time (e.g., tuberculosis, measles).",
@@ -33070,9 +33070,9 @@
    "prompt": "¿Qué distingue a la transmisión aérea verdadera?",
    "options": [
     "Gotas grandes que caen a menos de 1 metro",
-    "Contacto directo con la piel",
-    "Núcleos de gotitas que siguen siendo infecciosos suspendidos en el aire a distancia y en el tiempo",
-    "Agua contaminada"
+    "Contacto directo entre piel y mucosas",
+    "Núcleos de gotitas que quedan suspendidos e infecciosos",
+    "Fómites contaminados con secreciones respiratorias"
    ],
    "correctOptionIndex": 2,
    "explanation": "La transmisión aérea implica núcleos de gotitas que se mantienen infecciosos en el aire a distancia y en el tiempo (p. ej., tuberculosis, sarampión).",
@@ -33093,10 +33093,10 @@
    "difficulty": "explorer",
    "prompt": "Besides PPE and hand hygiene, what is key to controlling airborne infections in hospitals?",
    "options": [
-    "Antibiotics for everyone",
-    "Closing all windows only",
-    "Using paper towels",
-    "Airflow control with specially designed ventilation systems"
+    "Prophylactic antibiotics for all inpatients",
+    "Keeping patient room windows open",
+    "Daily surface cleaning with quaternary ammonium",
+    "Airflow control with special ventilation"
    ],
    "correctOptionIndex": 3,
    "explanation": "Airborne control needs engineered ventilation (e.g., negative-pressure rooms), respirators and basic infection prevention.",
@@ -33117,10 +33117,10 @@
    "difficulty": "explorer",
    "prompt": "Además del EPP y la higiene de manos, ¿qué es clave para controlar infecciones aéreas en hospitales?",
    "options": [
-    "Antibióticos para todos",
-    "Solo cerrar ventanas",
-    "Usar toallas de papel",
-    "Controlar el flujo de aire con sistemas de ventilación especiales"
+    "Antibióticos profilácticos a todos los internados",
+    "Mantener abiertas las ventanas de las salas",
+    "Limpiar superficies con amonio cuaternario",
+    "Controlar el flujo de aire con ventilación especial"
    ],
    "correctOptionIndex": 3,
    "explanation": "El control de la transmisión aérea requiere ventilación diseñada (p. ej., habitaciones con presión negativa), respiradores y medidas básicas.",
@@ -33141,10 +33141,10 @@
    "difficulty": "researcher",
    "prompt": "Which medical procedures generate infectious aerosols?",
    "options": [
-    "Taking blood pressure",
-    "Intubation, bronchoscopy, suctioning and nebulization",
-    "Measuring temperature",
-    "Giving oral pills"
+    "Blood pressure and pulse oximetry readings",
+    "Intubation, bronchoscopy and nebulization",
+    "Venipuncture and peripheral IV insertion",
+    "Wound dressing changes and suture removal"
    ],
    "correctOptionIndex": 1,
    "explanation": "Aerosol-generating procedures involve airway manipulation: intubation, bag-mask ventilation, suctioning, bronchoscopy, CPR, nebulizers, CPAP.",
@@ -33165,10 +33165,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué procedimientos médicos generan aerosoles infecciosos?",
    "options": [
-    "Tomar la presión",
-    "Intubación, broncoscopia, aspiración y nebulización",
-    "Medir la temperatura",
-    "Dar pastillas"
+    "Medir la presión y la oximetría de pulso",
+    "Intubación, broncoscopia y nebulización",
+    "Venopunción y colocación de vías periféricas",
+    "Curaciones de heridas y retiro de suturas"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los procedimientos generadores de aerosoles manipulan la vía aérea: intubación, ventilación con bolsa, aspiración, broncoscopia, RCP, nebulizaciones, CPAP.",
@@ -33189,10 +33189,10 @@
    "difficulty": "beginner",
    "prompt": "What should you do with a used needle?",
    "options": [
-    "Recap it with both hands",
-    "Leave it on the tray",
-    "Discard it immediately in a sharps container without recapping",
-    "Throw it in the regular trash"
+    "Recap it carefully using both hands",
+    "Leave it on the tray to discard later",
+    "Put it in a sharps container, uncapped",
+    "Bend it first and then throw it away"
    ],
    "correctOptionIndex": 2,
    "explanation": "Recapping causes injuries; used needles go straight into a nearby sharps container.",
@@ -33213,10 +33213,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué hay que hacer con una aguja usada?",
    "options": [
-    "Volver a taparla con las dos manos",
-    "Dejarla en la bandeja",
-    "Descartarla de inmediato en un descartador de cortopunzantes, sin taparla",
-    "Tirarla a la basura común"
+    "Volver a taparla con cuidado con ambas manos",
+    "Dejarla en la bandeja para descartarla luego",
+    "Tirarla al descartador sin volver a taparla",
+    "Doblarla primero y luego tirarla a la basura"
    ],
    "correctOptionIndex": 2,
    "explanation": "Reencapuchar causa accidentes; las agujas usadas van directo a un descartador cercano.",
@@ -33237,10 +33237,10 @@
    "difficulty": "curious",
    "prompt": "Which bloodborne pathogens are of most concern after a needlestick injury?",
    "options": [
-    "Influenza and RSV",
+    "Influenza and respiratory syncytial virus",
     "HIV, hepatitis B and hepatitis C",
     "Rhinovirus and adenovirus",
-    "Malaria and dengue"
+    "Plasmodium and dengue virus"
    ],
    "correctOptionIndex": 1,
    "explanation": "The key bloodborne pathogens are HIV, HBV and HCV; tetanus status should also be checked.",
@@ -33261,10 +33261,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué patógenos de transmisión sanguínea preocupan más tras un pinchazo con aguja?",
    "options": [
-    "Influenza y VSR",
+    "Influenza y virus sincicial respiratorio",
     "VIH, hepatitis B y hepatitis C",
     "Rinovirus y adenovirus",
-    "Malaria y dengue"
+    "Plasmodium y virus del dengue"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los principales patógenos sanguíneos son VIH, VHB y VHC; también hay que revisar la vacunación antitetánica.",
@@ -33285,10 +33285,10 @@
    "difficulty": "explorer",
    "prompt": "What is HIV PrEP?",
    "options": [
-    "Antiretrovirals taken by high-risk HIV-negative people to prevent infection",
-    "Treatment for people already living with HIV",
-    "An HIV vaccine",
-    "A test to detect HIV"
+    "Antiretrovirals taken to prevent HIV infection",
+    "Lifelong treatment for people living with HIV",
+    "A therapeutic vaccine that clears HIV",
+    "A rapid home test to detect HIV infection"
    ],
    "correctOptionIndex": 0,
    "explanation": "PrEP = pre-exposure prophylaxis for HIV-negative people at high risk; PEP = after a possible exposure.",
@@ -33309,10 +33309,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué es la PrEP para el VIH?",
    "options": [
-    "Antirretrovirales que toman personas VIH negativas de alto riesgo para prevenir la infección",
-    "El tratamiento de personas con VIH",
-    "Una vacuna contra el VIH",
-    "Un test para detectar VIH"
+    "Antirretrovirales que se toman para prevenir el VIH",
+    "El tratamiento de por vida de quienes viven con VIH",
+    "Una vacuna terapéutica que elimina el VIH",
+    "Un test rápido casero para detectar el VIH"
    ],
    "correctOptionIndex": 0,
    "explanation": "PrEP = profilaxis preexposición para personas VIH negativas de alto riesgo; PEP = después de una posible exposición.",
@@ -33333,10 +33333,10 @@
    "difficulty": "researcher",
    "prompt": "Which exposures are covered by non-occupational post-exposure prophylaxis (nPEP)?",
    "options": [
-    "Needlesticks in hospitals",
-    "Mosquito bites",
+    "Needlestick injuries among hospital staff",
+    "Bites from mosquitoes or other insects",
     "Sexual or injection-drug exposures",
-    "Sharing utensils"
+    "Sharing cutlery or drinking glasses"
    ],
    "correctOptionIndex": 2,
    "explanation": "PEP may be occupational (e.g., healthcare needlestick) or non-occupational (sexual or IV drug exposures).",
@@ -33357,10 +33357,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué exposiciones cubre la profilaxis postexposición no ocupacional (nPEP)?",
    "options": [
-    "Pinchazos en hospitales",
-    "Picaduras de mosquito",
+    "Pinchazos accidentales del personal de salud",
+    "Picaduras de mosquitos u otros insectos",
     "Exposiciones sexuales o por drogas inyectables",
-    "Compartir cubiertos"
+    "Compartir cubiertos o vasos con otra persona"
    ],
    "correctOptionIndex": 2,
    "explanation": "La PEP puede ser ocupacional (p. ej., pinchazo en salud) o no ocupacional (exposiciones sexuales o por drogas IV).",
@@ -33381,10 +33381,10 @@
    "difficulty": "curious",
    "prompt": "What is infection control?",
    "options": [
-    "Treating infections with antibiotics",
-    "Developing vaccines",
-    "Testing food safety",
-    "Policies and procedures to prevent the spread of infections in healthcare settings"
+    "Treating hospital infections with antibiotics",
+    "Developing vaccines for healthcare workers",
+    "Surveillance of food safety in hospital kitchens",
+    "Policies to prevent spread of infection in care"
    ],
    "correctOptionIndex": 3,
    "explanation": "Infection control programs include surveillance, isolation, outbreak management, environmental hygiene, staff health and education.",
@@ -33405,10 +33405,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué es el control de infecciones?",
    "options": [
-    "Tratar infecciones con antibióticos",
-    "Desarrollar vacunas",
-    "Controlar la seguridad de alimentos",
-    "Políticas y procedimientos para prevenir la diseminación de infecciones en centros de salud"
+    "Tratar con antibióticos las infecciones hospitalarias",
+    "Desarrollar vacunas para el personal de salud",
+    "Vigilar la inocuidad en las cocinas hospitalarias",
+    "Normas para evitar que las infecciones se diseminen"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los programas de control de infecciones incluyen vigilancia, aislamiento, manejo de brotes, higiene ambiental, salud del personal y educación.",
@@ -33429,10 +33429,10 @@
    "difficulty": "beginner",
    "prompt": "What is the purpose of personal protective equipment (PPE)?",
    "options": [
-    "To treat infections",
-    "To act as a barrier that minimizes exposure to hazards",
-    "To identify bacteria",
-    "To replace hand washing"
+    "To treat infections already acquired",
+    "To act as a barrier against exposure",
+    "To help identify bacteria on the skin",
+    "To replace the need for hand washing"
    ],
    "correctOptionIndex": 1,
    "explanation": "PPE (gloves, gowns, masks, eye protection) is part of standard precautions and acts as a barrier against exposures.",
@@ -33453,10 +33453,10 @@
    "difficulty": "beginner",
    "prompt": "¿Para qué sirve el equipo de protección personal (EPP)?",
    "options": [
-    "Para tratar infecciones",
-    "Para actuar como barrera que minimiza la exposición a riesgos",
-    "Para identificar bacterias",
-    "Para reemplazar el lavado de manos"
+    "Tratar infecciones ya adquiridas",
+    "Actuar como barrera contra la exposición",
+    "Ayudar a identificar bacterias en la piel",
+    "Reemplazar la necesidad del lavado de manos"
    ],
    "correctOptionIndex": 1,
    "explanation": "El EPP (guantes, camisolín, barbijo, protección ocular) forma parte de las precauciones estándar y actúa como barrera.",
@@ -33477,10 +33477,10 @@
    "difficulty": "explorer",
    "prompt": "How is ventilator-associated pneumonia defined?",
    "options": [
-    "Pneumonia present at hospital admission",
-    "Pneumonia in outpatients",
-    "Pneumonia developing more than 48 hours after starting mechanical ventilation",
-    "Any pneumonia in children"
+    "Pneumonia already present at hospital admission",
+    "Pneumonia acquired by outpatients at home",
+    "Pneumonia >48 h after starting ventilation",
+    "Any pneumonia in a child under five years"
    ],
    "correctOptionIndex": 2,
    "explanation": "VAP develops >48 h after intubation (or within 48 h of extubation); it raises mortality, ventilation time and costs.",
@@ -33501,10 +33501,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se define la neumonía asociada a ventilación mecánica?",
    "options": [
-    "Neumonía presente al ingreso",
-    "Neumonía en pacientes ambulatorios",
-    "Neumonía que aparece más de 48 horas después de iniciar la ventilación mecánica",
-    "Cualquier neumonía en niños"
+    "Neumonía ya presente al momento del ingreso",
+    "Neumonía adquirida por pacientes ambulatorios",
+    "Neumonía >48 h tras iniciar la ventilación",
+    "Cualquier neumonía en menores de cinco años"
    ],
    "correctOptionIndex": 2,
    "explanation": "La NAV aparece >48 h tras la intubación (o dentro de las 48 h de la extubación); aumenta mortalidad, días de ventilación y costos.",
@@ -33525,10 +33525,10 @@
    "difficulty": "beginner",
    "prompt": "Why are sexually transmitted infections a major public health burden?",
    "options": [
-    "They are always symptomatic",
-    "They only affect animals",
-    "They are cured without treatment",
-    "Many go untreated and can lead to serious complications"
+    "They nearly always cause obvious symptoms",
+    "They are mostly transmitted by casual contact",
+    "They usually clear without any treatment",
+    "Many go untreated and cause complications"
    ],
    "correctOptionIndex": 3,
    "explanation": "Many STIs are silent and untreated, leading to complications such as infertility, so screening and partner treatment matter.",
@@ -33549,10 +33549,10 @@
    "difficulty": "beginner",
    "prompt": "¿Por qué las infecciones de transmisión sexual son una gran carga para la salud pública?",
    "options": [
-    "Siempre dan síntomas",
-    "Solo afectan animales",
-    "Se curan sin tratamiento",
-    "Muchas no se tratan y pueden causar complicaciones graves"
+    "Casi siempre causan síntomas evidentes",
+    "Se transmiten sobre todo por contacto casual",
+    "Suelen curarse sin ningún tratamiento",
+    "Muchas no se tratan y causan complicaciones"
    ],
    "correctOptionIndex": 3,
    "explanation": "Muchas ITS son silenciosas y no se tratan, causando complicaciones como infertilidad; por eso importan el tamizaje y tratar a la pareja.",
@@ -33573,10 +33573,10 @@
    "difficulty": "curious",
    "prompt": "Which cancer does hepatitis B vaccination help prevent?",
    "options": [
-    "Hepatocellular carcinoma (liver cancer)",
-    "Lung cancer",
-    "Skin melanoma",
-    "Leukemia"
+    "Hepatocellular carcinoma",
+    "Small-cell lung cancer",
+    "Cutaneous melanoma",
+    "Acute lymphoblastic leukemia"
    ],
    "correctOptionIndex": 0,
    "explanation": "By preventing chronic HBV infection, the vaccine prevents liver failure and hepatocellular carcinoma — one of the first 'anti-cancer' vaccines.",
@@ -33597,10 +33597,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué cáncer ayuda a prevenir la vacuna contra la hepatitis B?",
    "options": [
-    "Carcinoma hepatocelular (cáncer de hígado)",
-    "Cáncer de pulmón",
-    "Melanoma",
-    "Leucemia"
+    "Carcinoma hepatocelular",
+    "Cáncer de pulmón de células pequeñas",
+    "Melanoma cutáneo",
+    "Leucemia linfoblástica aguda"
    ],
    "correctOptionIndex": 0,
    "explanation": "Al prevenir la infección crónica por VHB, la vacuna previene la insuficiencia hepática y el carcinoma hepatocelular.",
@@ -33622,9 +33622,9 @@
    "prompt": "What is the BCG vaccine?",
    "options": [
     "An inactivated influenza vaccine",
-    "A recombinant hepatitis vaccine",
-    "A live attenuated Mycobacterium bovis vaccine against tuberculosis",
-    "An mRNA vaccine"
+    "A recombinant hepatitis B vaccine",
+    "A live attenuated M. bovis vaccine",
+    "An mRNA vaccine against measles"
    ],
    "correctOptionIndex": 2,
    "explanation": "BCG is a live attenuated M. bovis vaccine, the only TB vaccine, given to newborns in many countries.",
@@ -33646,9 +33646,9 @@
    "prompt": "¿Qué es la vacuna BCG?",
    "options": [
     "Una vacuna antigripal inactivada",
-    "Una vacuna recombinante contra hepatitis",
-    "Una vacuna con Mycobacterium bovis vivo atenuado contra la tuberculosis",
-    "Una vacuna de ARNm"
+    "Una vacuna recombinante de hepatitis B",
+    "Una vacuna de M. bovis vivo atenuado",
+    "Una vacuna de ARNm contra el sarampión"
    ],
    "correctOptionIndex": 2,
    "explanation": "La BCG es una vacuna de M. bovis vivo atenuado, la única contra la TB, aplicada al nacer en muchos países.",
@@ -33669,10 +33669,10 @@
    "difficulty": "researcher",
    "prompt": "Besides preventing tuberculosis, what is BCG used for?",
    "options": [
-    "Treating diabetes",
-    "Preventing malaria",
-    "Treating hypertension",
-    "Treating superficial bladder cancer"
+    "Treating type 2 diabetes",
+    "Preventing severe malaria",
+    "Treating chronic hypertension",
+    "Treating bladder cancer"
    ],
    "correctOptionIndex": 3,
    "explanation": "Intravesical BCG is an immunotherapy for superficial bladder carcinoma; BCG may also reduce non-TB childhood mortality.",
@@ -33693,10 +33693,10 @@
    "difficulty": "researcher",
    "prompt": "Además de prevenir la tuberculosis, ¿para qué se usa la BCG?",
    "options": [
-    "Tratar la diabetes",
-    "Prevenir la malaria",
-    "Tratar la hipertensión",
-    "Tratar el cáncer de vejiga superficial"
+    "Tratar la diabetes tipo 2",
+    "Prevenir la malaria grave",
+    "Tratar la hipertensión crónica",
+    "Tratar el cáncer de vejiga"
    ],
    "correctOptionIndex": 3,
    "explanation": "La BCG intravesical es una inmunoterapia para el carcinoma vesical superficial; también podría reducir la mortalidad infantil no tuberculosa.",
@@ -33717,10 +33717,10 @@
    "difficulty": "expert",
    "prompt": "What mechanism may explain BCG's reduction of childhood mortality beyond tuberculosis?",
    "options": [
-    "Trained immunity via epigenetic reprogramming (NOD2)",
-    "Killing all bacteria in the gut",
-    "Producing antibodies against every pathogen",
-    "Raising body temperature"
+    "Trained immunity by epigenetic reprogramming",
+    "Direct killing of gut bacteria by the vaccine",
+    "Antibodies that cross-react with all pathogens",
+    "A sustained fever that inhibits pathogens"
    ],
    "correctOptionIndex": 0,
    "explanation": "BCG's non-specific benefits are linked to trained immunity — epigenetic reprogramming of innate cells via NOD2.",
@@ -33741,10 +33741,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué mecanismo podría explicar que la BCG reduzca la mortalidad infantil más allá de la tuberculosis?",
    "options": [
-    "Inmunidad entrenada por reprogramación epigenética (NOD2)",
-    "Matar todas las bacterias intestinales",
-    "Producir anticuerpos contra todo patógeno",
-    "Elevar la temperatura corporal"
+    "Inmunidad entrenada por reprogramación epigenética",
+    "Destrucción directa de bacterias intestinales",
+    "Anticuerpos con reacción cruzada a todo patógeno",
+    "Una fiebre sostenida que inhibe a los patógenos"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los beneficios inespecíficos de la BCG se vinculan a la inmunidad entrenada: reprogramación epigenética de células innatas vía NOD2.",
@@ -33814,9 +33814,9 @@
    "prompt": "Where do Plasmodium sporozoites go first after a mosquito bite?",
    "options": [
     "Red blood cells",
-    "Brain",
-    "Liver cells (hepatocytes)",
-    "Spleen"
+    "Brain capillaries",
+    "Liver hepatocytes",
+    "Spleen macrophages"
    ],
    "correctOptionIndex": 2,
    "explanation": "Sporozoites first infect hepatocytes, multiply, then release merozoites that invade red cells and cause disease.",
@@ -33838,9 +33838,9 @@
    "prompt": "¿Adónde van primero los esporozoítos de Plasmodium tras la picadura?",
    "options": [
     "A los glóbulos rojos",
-    "Al cerebro",
-    "A las células del hígado (hepatocitos)",
-    "Al bazo"
+    "A los capilares cerebrales",
+    "A los hepatocitos",
+    "A los macrófagos del bazo"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los esporozoítos infectan primero hepatocitos, se multiplican y luego liberan merozoítos que invaden glóbulos rojos.",
@@ -33910,9 +33910,9 @@
    "prompt": "What is a rare risk of the oral (live) polio vaccine?",
    "options": [
     "Vaccine-associated paralysis",
-    "Liver cancer",
-    "Blindness",
-    "Allergic rhinitis"
+    "Vaccine-induced liver failure",
+    "Acute optic neuritis",
+    "Severe allergic rhinitis"
    ],
    "correctOptionIndex": 0,
    "explanation": "OPV is cheap and easy but carries a rare risk of paralysis; countries with good sanitation use inactivated vaccine (IPV).",
@@ -33934,9 +33934,9 @@
    "prompt": "¿Cuál es un riesgo raro de la vacuna antipoliomielítica oral (viva)?",
    "options": [
     "Parálisis asociada a la vacuna",
-    "Cáncer de hígado",
-    "Ceguera",
-    "Rinitis alérgica"
+    "Insuficiencia hepática por vacuna",
+    "Neuritis óptica aguda",
+    "Rinitis alérgica grave"
    ],
    "correctOptionIndex": 0,
    "explanation": "La vacuna oral es barata y fácil pero tiene un riesgo raro de parálisis; los países con buen saneamiento usan la inactivada (IPV).",
@@ -33957,10 +33957,10 @@
    "difficulty": "researcher",
    "prompt": "Compared with polysaccharide vaccines, what do pneumococcal conjugate vaccines add?",
    "options": [
-    "Nothing",
-    "Additional benefits such as T-cell–dependent memory",
-    "Protection against influenza",
-    "Lifelong immunity after one dose in all cases"
+    "Protection against nontypeable strains",
+    "T-cell–dependent immune memory",
+    "Cross-protection against influenza",
+    "Lifelong immunity after a single dose"
    ],
    "correctOptionIndex": 1,
    "explanation": "Conjugate vaccines engage T-cell help, giving better memory, efficacy in infants and herd effects.",
@@ -33981,10 +33981,10 @@
    "difficulty": "researcher",
    "prompt": "Frente a las vacunas polisacáridas, ¿qué agregan las vacunas neumocócicas conjugadas?",
    "options": [
-    "Nada",
-    "Beneficios adicionales como memoria dependiente de linfocitos T",
-    "Protección contra influenza",
-    "Inmunidad de por vida con una dosis siempre"
+    "Protección contra cepas no tipificables",
+    "Memoria inmune dependiente de linfocitos T",
+    "Protección cruzada contra la influenza",
+    "Inmunidad de por vida con una sola dosis"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las conjugadas reclutan ayuda T y dan mejor memoria, eficacia en lactantes y efecto rebaño.",
@@ -34005,10 +34005,10 @@
    "difficulty": "beginner",
    "prompt": "What kind of vaccine is MMR (measles-mumps-rubella)?",
    "options": [
-    "Inactivated toxin",
-    "Polysaccharide",
+    "Inactivated toxoid",
+    "Polysaccharide conjugate",
     "Live attenuated virus",
-    "Antibiotic"
+    "Recombinant subunit"
    ],
    "correctOptionIndex": 2,
    "explanation": "MMR contains live attenuated viruses that stimulate protective antibodies.",
@@ -34029,10 +34029,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué tipo de vacuna es la triple viral (sarampión, paperas, rubéola)?",
    "options": [
-    "Toxina inactivada",
-    "Polisacárida",
+    "Toxoide inactivado",
+    "Polisacárido conjugado",
     "Virus vivos atenuados",
-    "Antibiótico"
+    "Subunidad recombinante"
    ],
    "correctOptionIndex": 2,
    "explanation": "La triple viral contiene virus vivos atenuados que estimulan anticuerpos protectores.",
@@ -34053,10 +34053,10 @@
    "difficulty": "explorer",
    "prompt": "In high-income countries, who typically receives typhoid vaccine?",
    "options": [
-    "All newborns",
-    "Elderly people only",
-    "Pregnant women",
-    "Travelers, laboratory workers and close contacts of typhoid patients"
+    "All infants at their 2-month visit",
+    "Adults over 65 with chronic disease",
+    "Pregnant women in the third trimester",
+    "Travelers and laboratory workers"
    ],
    "correctOptionIndex": 3,
    "explanation": "Typhoid vaccines are given to travelers, lab workers and contacts in high-income countries; WHO recommends routine use in endemic areas.",
@@ -34077,10 +34077,10 @@
    "difficulty": "explorer",
    "prompt": "En países de altos ingresos, ¿quiénes reciben habitualmente la vacuna antitifoidea?",
    "options": [
-    "Todos los recién nacidos",
-    "Solo ancianos",
-    "Embarazadas",
-    "Viajeros, personal de laboratorio y contactos de pacientes con fiebre tifoidea"
+    "Todos los lactantes a los 2 meses",
+    "Mayores de 65 con enfermedad crónica",
+    "Embarazadas en el tercer trimestre",
+    "Viajeros y personal de laboratorio"
    ],
    "correctOptionIndex": 3,
    "explanation": "La vacuna antitifoidea se da a viajeros, laboratoristas y contactos; la OMS recomienda su uso rutinario en zonas endémicas.",
@@ -34101,10 +34101,10 @@
    "difficulty": "researcher",
    "prompt": "How does meningococcal vaccination produce herd immunity?",
    "options": [
-    "By reducing nasopharyngeal carriage, the main source of infection",
-    "By killing mosquitoes",
-    "By treating the sick only",
-    "By disinfecting water"
+    "By reducing nasopharyngeal carriage",
+    "By killing the mosquito vectors",
+    "By curing people who are already sick",
+    "By preventing spread through water"
    ],
    "correctOptionIndex": 0,
    "explanation": "Vaccination reduces nasopharyngeal carriers, the main source of meningococcal spread, protecting unvaccinated people too.",
@@ -34125,10 +34125,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo genera inmunidad de rebaño la vacuna antimeningocócica?",
    "options": [
-    "Reduciendo la portación nasofaríngea, principal fuente de infección",
-    "Matando mosquitos",
-    "Tratando solo a enfermos",
-    "Desinfectando el agua"
+    "Reduciendo la portación nasofaríngea",
+    "Eliminando a los mosquitos vectores",
+    "Curando a quienes ya están enfermos",
+    "Evitando la transmisión por el agua"
    ],
    "correctOptionIndex": 0,
    "explanation": "La vacunación reduce los portadores nasofaríngeos, principal fuente de transmisión, y protege también a los no vacunados.",
@@ -34150,9 +34150,9 @@
    "prompt": "Can chickenpox be prevented by a vaccine?",
    "options": [
     "Yes, it is vaccine-preventable",
-    "No, there is no vaccine",
-    "Only with antibiotics",
-    "Only in adults over 60"
+    "No, no vaccine has been developed",
+    "Only with antiviral prophylaxis",
+    "Only in adults older than 60"
    ],
    "correctOptionIndex": 0,
    "explanation": "Varicella is vaccine-preventable with a live vaccine from 12 months of age; universal vaccination cut cases dramatically.",
@@ -34174,9 +34174,9 @@
    "prompt": "¿Se puede prevenir la varicela con una vacuna?",
    "options": [
     "Sí, es prevenible por vacuna",
-    "No, no hay vacuna",
-    "Solo con antibióticos",
-    "Solo en mayores de 60"
+    "No, no se desarrolló ninguna vacuna",
+    "Solo con profilaxis antiviral",
+    "Solo en adultos mayores de 60"
    ],
    "correctOptionIndex": 0,
    "explanation": "La varicela es prevenible con una vacuna viva desde los 12 meses; la vacunación universal redujo mucho los casos.",
@@ -59253,10 +59253,10 @@
    "difficulty": "beginner",
    "prompt": "What surrounds the thin peptidoglycan wall of gram-negative bacteria?",
    "options": [
-    "An outer membrane containing lipopolysaccharide",
-    "A thick layer of teichoic acids",
-    "A mycolic acid layer",
-    "Nothing"
+    "An outer membrane with lipopolysaccharide",
+    "A thick layer of wall teichoic acids",
+    "A waxy layer rich in mycolic acids",
+    "A polysaccharide capsule in all species"
    ],
    "correctOptionIndex": 0,
    "explanation": "Gram-negatives have a thin peptidoglycan layer plus an outer membrane with LPS.",
@@ -59279,8 +59279,8 @@
    "options": [
     "Una membrana externa con lipopolisacárido",
     "Una capa gruesa de ácidos teicoicos",
-    "Una capa de ácidos micólicos",
-    "Nada"
+    "Una capa cerosa rica en ácidos micólicos",
+    "Una cápsula de polisacárido en todas"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las gramnegativas tienen una capa delgada de peptidoglucano más una membrana externa con LPS.",
@@ -59301,10 +59301,10 @@
    "difficulty": "beginner",
    "prompt": "What characterizes the cell wall of gram-positive bacteria?",
    "options": [
-    "An outer membrane with LPS",
-    "No cell wall at all",
-    "A thick peptidoglycan layer and no outer membrane",
-    "A wall made of chitin"
+    "An outer membrane rich in lipopolysaccharide",
+    "No cell wall, only a cytoplasmic membrane",
+    "Thick peptidoglycan and no outer membrane",
+    "A wall made mainly of chitin and glucans"
    ],
    "correctOptionIndex": 2,
    "explanation": "Gram-positives lack an outer membrane but have a much thicker peptidoglycan layer — why they retain crystal violet.",
@@ -59325,10 +59325,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué caracteriza la pared de las bacterias grampositivas?",
    "options": [
-    "Una membrana externa con LPS",
-    "No tienen pared",
-    "Una capa gruesa de peptidoglucano y sin membrana externa",
-    "Una pared de quitina"
+    "Una membrana externa rica en lipopolisacárido",
+    "Sin pared, solo membrana citoplasmática",
+    "Peptidoglucano grueso y sin membrana externa",
+    "Una pared hecha sobre todo de quitina"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las grampositivas no tienen membrana externa pero sí una capa de peptidoglucano mucho más gruesa; por eso retienen el cristal violeta.",
@@ -59397,10 +59397,10 @@
    "difficulty": "beginner",
    "prompt": "What is the main function of bacterial flagella?",
    "options": [
-    "Attachment to DNA",
+    "Attachment to host cells",
     "Motility (movement)",
-    "Photosynthesis",
-    "Storing food"
+    "Exchange of DNA",
+    "Storage of nutrients"
    ],
    "correctOptionIndex": 1,
    "explanation": "Flagella are the motility organelles of bacteria and archaea.",
@@ -59421,10 +59421,10 @@
    "difficulty": "beginner",
    "prompt": "¿Cuál es la función principal de los flagelos bacterianos?",
    "options": [
-    "Unirse al ADN",
+    "Adherirse a las células",
     "La movilidad",
-    "La fotosíntesis",
-    "Almacenar alimento"
+    "Intercambiar ADN",
+    "Almacenar nutrientes"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los flagelos son los organelos de movilidad de bacterias y arqueas.",
@@ -59445,10 +59445,10 @@
    "difficulty": "explorer",
    "prompt": "How do pore-forming toxins damage host cells?",
    "options": [
-    "By cutting DNA",
-    "By blocking protein synthesis",
+    "By cleaving host chromosomal DNA",
+    "By blocking ribosomal protein synthesis",
     "By creating pores in the cell membrane",
-    "By binding antibodies"
+    "By inactivating antibodies in serum"
    ],
    "correctOptionIndex": 2,
    "explanation": "Pore-forming toxins insert into host membranes and create pores, disrupting cells.",
@@ -59469,10 +59469,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo dañan las toxinas formadoras de poros a las células del huésped?",
    "options": [
-    "Cortando el ADN",
-    "Bloqueando la síntesis de proteínas",
+    "Cortando el ADN cromosómico de la célula",
+    "Bloqueando la síntesis proteica ribosomal",
     "Creando poros en la membrana celular",
-    "Uniéndose a anticuerpos"
+    "Inactivando anticuerpos del suero"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las toxinas formadoras de poros se insertan en la membrana y abren poros que alteran la célula.",
@@ -59493,10 +59493,10 @@
    "difficulty": "researcher",
    "prompt": "How do superantigens activate so many T cells?",
    "options": [
-    "They cross-link the TCR Vβ region with MHC class II outside the peptide groove",
-    "They are presented as normal peptides",
-    "They activate B cells only",
-    "They kill antigen-presenting cells"
+    "They bridge TCR Vβ and MHC II outside the groove",
+    "They are processed and presented as normal peptides",
+    "They activate B cells through the BCR directly",
+    "They bind CD8 and MHC I on every infected cell"
    ],
    "correctOptionIndex": 0,
    "explanation": "Superantigens bridge MHC II and the TCR Vβ chain outside the peptide-binding site, activating huge numbers of T cells.",
@@ -59517,10 +59517,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo activan los superantígenos a tantos linfocitos T?",
    "options": [
-    "Unen la región Vβ del TCR con el MHC II por fuera del surco peptídico",
-    "Se presentan como péptidos normales",
-    "Solo activan linfocitos B",
-    "Matan a las células presentadoras"
+    "Unen Vβ del TCR y MHC II fuera del surco",
+    "Se procesan y presentan como péptidos normales",
+    "Activan linfocitos B a través del BCR directamente",
+    "Se unen a CD8 y MHC I en cada célula infectada"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los superantígenos conectan el MHC II con la cadena Vβ del TCR fuera del sitio de unión del péptido y activan enormes cantidades de linfocitos T.",
@@ -59541,9 +59541,9 @@
    "difficulty": "expert",
    "prompt": "Which molecule is the prototype superantigen?",
    "options": [
-    "Cholera toxin",
-    "Tetanospasmin",
-    "Lipid A",
+    "Cholera toxin from Vibrio cholerae",
+    "Tetanospasmin from C. tetani",
+    "Botulinum neurotoxin type A",
     "Staphylococcal enterotoxin B"
    ],
    "correctOptionIndex": 3,
@@ -59565,9 +59565,9 @@
    "difficulty": "expert",
    "prompt": "¿Qué molécula es el prototipo de superantígeno?",
    "options": [
-    "Toxina colérica",
-    "Tetanospasmina",
-    "Lípido A",
+    "Toxina colérica de Vibrio cholerae",
+    "Tetanospasmina de C. tetani",
+    "Neurotoxina botulínica tipo A",
     "Enterotoxina B estafilocócica"
    ],
    "correctOptionIndex": 3,
@@ -59589,10 +59589,10 @@
    "difficulty": "curious",
    "prompt": "What are Koch's postulates for?",
    "options": [
-    "Classifying antibiotics",
-    "Establishing that a microbe causes a specific disease",
-    "Measuring immunity",
-    "Naming bacteria"
+    "Classifying antibiotics by their mechanism",
+    "Establishing that a microbe causes a disease",
+    "Measuring the strength of an immune response",
+    "Naming new bacterial species formally"
    ],
    "correctOptionIndex": 1,
    "explanation": "Koch's postulates are criteria to link a specific microbe to a specific disease; prions and viruses challenged them.",
@@ -59613,10 +59613,10 @@
    "difficulty": "curious",
    "prompt": "¿Para qué sirven los postulados de Koch?",
    "options": [
-    "Clasificar antibióticos",
-    "Establecer que un microbio causa una enfermedad específica",
-    "Medir la inmunidad",
-    "Nombrar bacterias"
+    "Clasificar antibióticos según su mecanismo",
+    "Establecer que un microbio causa una enfermedad",
+    "Medir la intensidad de una respuesta inmune",
+    "Nombrar formalmente nuevas especies bacterianas"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los postulados de Koch son criterios para vincular un microbio con una enfermedad; los priones y virus los pusieron a prueba.",
@@ -59637,10 +59637,10 @@
    "difficulty": "researcher",
    "prompt": "Why are Koch's original postulates hard to apply to viruses and prions?",
    "options": [
-    "They are too large to see",
-    "They only infect plants",
-    "The postulates were designed for living, culturable agents like bacteria",
-    "They cannot cause disease"
+    "They are too small to stain with dyes",
+    "They infect only plant and insect cells",
+    "They were designed for culturable bacteria",
+    "They never produce consistent disease"
    ],
    "correctOptionIndex": 2,
    "explanation": "The postulates assume culturable living agents; viruses and infectious proteins don't fit easily.",
@@ -59661,10 +59661,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué los postulados originales de Koch son difíciles de aplicar a virus y priones?",
    "options": [
-    "Son demasiado grandes para verlos",
-    "Solo infectan plantas",
-    "Los postulados se diseñaron para agentes vivos cultivables como bacterias",
-    "No causan enfermedad"
+    "Son demasiado pequeños para teñirlos",
+    "Solo infectan células de plantas e insectos",
+    "Se diseñaron para bacterias cultivables",
+    "Nunca producen una enfermedad constante"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los postulados suponen agentes vivos cultivables; los virus y las proteínas infecciosas no encajan fácilmente.",
@@ -59686,9 +59686,9 @@
    "prompt": "Why do anaerobic bacteria require special culture methods?",
    "options": [
     "They must be grown without oxygen",
-    "They only grow at 4 °C",
-    "They need light",
-    "They grow only in humans"
+    "They only grow at refrigerator temperature",
+    "They require light to make energy",
+    "They only grow inside human cells"
    ],
    "correctOptionIndex": 0,
    "explanation": "Anaerobes are inhibited or killed by oxygen, so they need specialized oxygen-free culture techniques.",
@@ -59710,9 +59710,9 @@
    "prompt": "¿Por qué las bacterias anaerobias requieren métodos de cultivo especiales?",
    "options": [
     "Deben cultivarse sin oxígeno",
-    "Solo crecen a 4 °C",
-    "Necesitan luz",
-    "Solo crecen en humanos"
+    "Solo crecen a temperatura de heladera",
+    "Necesitan luz para obtener energía",
+    "Solo crecen dentro de células humanas"
    ],
    "correctOptionIndex": 0,
    "explanation": "El oxígeno inhibe o mata a los anaerobios, por eso necesitan técnicas de cultivo sin oxígeno.",
@@ -59733,10 +59733,10 @@
    "difficulty": "explorer",
    "prompt": "How can rickettsiae be grown in the laboratory?",
    "options": [
-    "On blood agar",
-    "In nutrient broth",
-    "On MacConkey agar",
-    "Only in living eukaryotic cells (cell culture, eggs, animals)"
+    "On blood agar at 37 °C",
+    "In enriched nutrient broth",
+    "On MacConkey agar plates",
+    "Only inside living cells"
    ],
    "correctOptionIndex": 3,
    "explanation": "Rickettsiae are obligate intracellular bacteria that only grow in living host cells.",
@@ -59757,10 +59757,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se cultivan las rickettsias en el laboratorio?",
    "options": [
-    "En agar sangre",
-    "En caldo nutritivo",
-    "En agar MacConkey",
-    "Solo en células eucariotas vivas (cultivos celulares, huevos, animales)"
+    "En agar sangre a 37 °C",
+    "En caldo nutritivo enriquecido",
+    "En placas de agar MacConkey",
+    "Solo dentro de células vivas"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las rickettsias son bacterias intracelulares obligadas que solo crecen en células vivas.",
@@ -59781,10 +59781,10 @@
    "difficulty": "researcher",
    "prompt": "How are most rickettsioses transmitted to humans?",
    "options": [
-    "By contaminated water",
-    "By arthropods such as ticks, mites, fleas and lice",
-    "Through blood transfusion",
-    "Through the air only"
+    "By drinking contaminated water",
+    "By ticks, mites, fleas and lice",
+    "Through blood transfusions",
+    "By respiratory droplets only"
    ],
    "correctOptionIndex": 1,
    "explanation": "Most rickettsioses are arthropod-borne zoonoses; Q fever (Coxiella) is the exception, mostly airborne.",
@@ -59805,10 +59805,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo se transmiten al ser humano la mayoría de las rickettsiosis?",
    "options": [
-    "Por agua contaminada",
-    "Por artrópodos como garrapatas, ácaros, pulgas y piojos",
-    "Por transfusión",
-    "Solo por el aire"
+    "Por beber agua contaminada",
+    "Por garrapatas, ácaros, pulgas o piojos",
+    "Por transfusiones de sangre recibidas",
+    "Solo por gotitas respiratorias al toser"
    ],
    "correctOptionIndex": 1,
    "explanation": "La mayoría de las rickettsiosis son zoonosis transmitidas por artrópodos; la fiebre Q (Coxiella) es la excepción, sobre todo aérea.",
@@ -59829,10 +59829,10 @@
    "difficulty": "expert",
    "prompt": "Which metabolic difference separates rickettsiae from chlamydiae?",
    "options": [
-    "Rickettsiae can synthesize ATP; chlamydiae depend on host ATP",
-    "Chlamydiae have flagella",
-    "Rickettsiae are fungi",
-    "Chlamydiae are free-living"
+    "Rickettsiae make ATP; chlamydiae use host ATP",
+    "Chlamydiae have flagella; rickettsiae do not",
+    "Rickettsiae ferment glucose; chlamydiae respire",
+    "Chlamydiae fix nitrogen; rickettsiae do not"
    ],
    "correctOptionIndex": 0,
    "explanation": "Both are obligate intracellular, but rickettsiae make their own ATP, unlike chlamydiae ('energy parasites').",
@@ -59853,10 +59853,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué diferencia metabólica separa a las rickettsias de las clamidias?",
    "options": [
-    "Las rickettsias sintetizan ATP; las clamidias dependen del ATP del huésped",
-    "Las clamidias tienen flagelos",
-    "Las rickettsias son hongos",
-    "Las clamidias son de vida libre"
+    "Las rickettsias hacen ATP; las clamidias lo toman",
+    "Las clamidias tienen flagelos; las rickettsias no",
+    "Las rickettsias fermentan; las clamidias respiran",
+    "Las clamidias fijan nitrógeno; las rickettsias no"
    ],
    "correctOptionIndex": 0,
    "explanation": "Ambas son intracelulares obligadas, pero las rickettsias producen su ATP, a diferencia de las clamidias ('parásitos energéticos').",
@@ -59877,10 +59877,10 @@
    "difficulty": "beginner",
    "prompt": "What are prions?",
    "options": [
-    "Very small bacteria",
-    "Viruses without a capsid",
-    "Fungal spores",
-    "Infectious protein particles causing fatal neurodegenerative diseases"
+    "Very small bacteria lacking a cell wall",
+    "Viruses that have lost their protein capsid",
+    "Fungal spores that infect the brain tissue",
+    "Infectious proteins causing neurodegeneration"
    ],
    "correctOptionIndex": 3,
    "explanation": "Prions are proteinaceous infectious particles behind fatal neurodegenerative diseases such as CJD and BSE.",
@@ -59901,10 +59901,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué son los priones?",
    "options": [
-    "Bacterias muy pequeñas",
-    "Virus sin cápside",
-    "Esporas fúngicas",
-    "Partículas proteicas infecciosas que causan enfermedades neurodegenerativas mortales"
+    "Bacterias muy pequeñas que carecen de pared",
+    "Virus que perdieron su cápside proteica",
+    "Esporas fúngicas que infectan el tejido cerebral",
+    "Proteínas infecciosas que causan neurodegeneración"
    ],
    "correctOptionIndex": 3,
    "explanation": "Los priones son partículas proteicas infecciosas responsables de enfermedades neurodegenerativas mortales como la ECJ y la EEB.",
@@ -59925,10 +59925,10 @@
    "difficulty": "researcher",
    "prompt": "What makes prions unique among infectious agents?",
    "options": [
-    "They have a double DNA genome",
-    "They are the largest pathogens",
-    "They lack nucleic acid and consist of a modified protein (PrPSc)",
-    "They are always treatable"
+    "They carry a double-stranded DNA genome",
+    "They are the largest known pathogens",
+    "They lack nucleic acid; they are protein",
+    "They replicate only in insect vectors"
    ],
    "correctOptionIndex": 2,
    "explanation": "Prions contain no nucleic acid; they are misfolded PrPSc that converts normal PrPC.",
@@ -59949,10 +59949,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué hace únicos a los priones entre los agentes infecciosos?",
    "options": [
-    "Tienen un genoma doble de ADN",
-    "Son los patógenos más grandes",
-    "No tienen ácido nucleico y son una proteína modificada (PrPSc)",
-    "Siempre tienen tratamiento"
+    "Tienen un genoma de ADN de doble cadena",
+    "Son los patógenos más grandes conocidos",
+    "No tienen ácido nucleico; son proteína",
+    "Solo se replican en insectos vectores"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los priones no contienen ácido nucleico; son PrPSc mal plegada que convierte a la PrPC normal.",
@@ -59973,10 +59973,10 @@
    "difficulty": "expert",
    "prompt": "What structural change occurs when normal prion protein becomes the disease form?",
    "options": [
-    "It loses all amino acids",
+    "It is cleaved into short peptides",
     "It acquires a high beta-sheet content",
-    "It gains a DNA tail",
-    "It becomes a lipid"
+    "It becomes covalently bound to DNA",
+    "It is converted into a glycolipid"
    ],
    "correctOptionIndex": 1,
    "explanation": "PrPC is refolded post-translationally into PrPSc, rich in beta-sheets, which templates further conversion.",
@@ -59997,10 +59997,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué cambio estructural ocurre cuando la proteína priónica normal pasa a la forma patológica?",
    "options": [
-    "Pierde todos sus aminoácidos",
-    "Adquiere un alto contenido de láminas beta",
-    "Gana una cola de ADN",
-    "Se convierte en lípido"
+    "Se corta en péptidos cortos",
+    "Adquiere muchas láminas beta",
+    "Se une covalentemente al ADN",
+    "Se convierte en un glucolípido"
    ],
    "correctOptionIndex": 1,
    "explanation": "La PrPC se repliega postraduccionalmente en PrPSc, rica en láminas beta, que sirve de molde para más conversión.",
@@ -60021,10 +60021,10 @@
    "difficulty": "explorer",
    "prompt": "Why has MALDI-TOF mass spectrometry become routine in clinical microbiology?",
    "options": [
-    "It identifies microorganisms quickly and reliably",
-    "It replaces all cultures",
-    "It measures antibiotic levels in blood",
-    "It sequences whole genomes"
+    "It identifies microbes fast and reliably",
+    "It replaces culture for every specimen",
+    "It measures antibiotic levels in the blood",
+    "It sequences complete bacterial genomes"
    ],
    "correctOptionIndex": 0,
    "explanation": "MALDI-TOF identifies bacteria and yeasts quickly and reliably from colonies (and directly from positive blood cultures).",
@@ -60045,10 +60045,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué la espectrometría de masas MALDI-TOF se volvió rutina en microbiología clínica?",
    "options": [
-    "Identifica microorganismos de forma rápida y confiable",
-    "Reemplaza todos los cultivos",
-    "Mide niveles de antibióticos",
-    "Secuencia genomas completos"
+    "Identifica microbios de forma rápida y fiable",
+    "Reemplaza al cultivo en todas las muestras",
+    "Mide niveles de antibióticos en la sangre",
+    "Secuencia genomas bacterianos completos"
    ],
    "correctOptionIndex": 0,
    "explanation": "MALDI-TOF identifica bacterias y levaduras rápido y con fiabilidad a partir de colonias (y directo de hemocultivos positivos).",
@@ -60069,9 +60069,9 @@
    "difficulty": "researcher",
    "prompt": "For which organisms is MALDI-TOF identification more complex?",
    "options": [
-    "Gram-negative rods",
-    "Staphylococci",
-    "Common yeasts",
+    "Enteric gram-negative rods",
+    "Coagulase-negative staphylococci",
+    "Common Candida yeasts",
     "Mycobacteria and molds"
    ],
    "correctOptionIndex": 3,
@@ -60093,10 +60093,10 @@
    "difficulty": "researcher",
    "prompt": "¿Para qué organismos es más compleja la identificación por MALDI-TOF?",
    "options": [
-    "Bacilos gramnegativos",
-    "Estafilococos",
-    "Levaduras comunes",
-    "Micobacterias y hongos filamentosos"
+    "Bacilos gramnegativos entéricos",
+    "Estafilococos coagulasa negativos",
+    "Levaduras comunes de Candida",
+    "Micobacterias y mohos"
    ],
    "correctOptionIndex": 3,
    "explanation": "Las micobacterias y los mohos tienen espectros heterogéneos dentro de cada especie y requieren bibliotecas más amplias.",
@@ -60117,10 +60117,10 @@
    "difficulty": "curious",
    "prompt": "What advantage do chromogenic culture media offer?",
    "options": [
-    "They kill all bacteria",
-    "They replace microscopy",
-    "Colonies show colors that speed identification and reveal mixed cultures",
-    "They are only for viruses"
+    "They inhibit all contaminating bacteria",
+    "They replace microscopy and Gram stain",
+    "Colored colonies speed identification",
+    "They are designed only to grow viruses"
    ],
    "correctOptionIndex": 2,
    "explanation": "Chromogenic media color colonies by species-specific enzymes, accelerating diagnosis and detecting mixed or resistant cultures.",
@@ -60141,10 +60141,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué ventaja ofrecen los medios de cultivo cromogénicos?",
    "options": [
-    "Matan todas las bacterias",
-    "Reemplazan la microscopía",
-    "Las colonias toman colores que aceleran la identificación y muestran cultivos mixtos",
-    "Solo sirven para virus"
+    "Inhiben a todas las bacterias contaminantes",
+    "Reemplazan la microscopía y la tinción de Gram",
+    "Las colonias de color aceleran la identificación",
+    "Están diseñados solo para cultivar virus"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los medios cromogénicos colorean las colonias según enzimas específicas, acelerando el diagnóstico y detectando cultivos mixtos o resistentes.",
@@ -60165,10 +60165,10 @@
    "difficulty": "explorer",
    "prompt": "Why do physicians often prescribe empirical broad-spectrum antibiotics before results arrive?",
    "options": [
-    "Lab tests are always wrong",
-    "Classic susceptibility testing is time-consuming",
-    "Antibiotics have no side effects",
-    "Patients prefer them"
+    "Laboratory results are usually unreliable",
+    "Classic susceptibility testing takes days",
+    "Broad-spectrum drugs have no side effects",
+    "Patients refuse narrow-spectrum drugs"
    ],
    "correctOptionIndex": 1,
    "explanation": "Conventional AST takes time, so empirical therapy is started; faster AST supports stewardship.",
@@ -60189,10 +60189,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué se indican con frecuencia antibióticos empíricos de amplio espectro antes de los resultados?",
    "options": [
-    "Los análisis siempre fallan",
-    "Las pruebas clásicas de sensibilidad tardan",
-    "Los antibióticos no tienen efectos adversos",
-    "Los pacientes los prefieren"
+    "Los resultados del laboratorio no son fiables",
+    "Las pruebas clásicas de sensibilidad tardan días",
+    "Los de amplio espectro no tienen efectos adversos",
+    "Los pacientes rechazan los de espectro reducido"
    ],
    "correctOptionIndex": 1,
    "explanation": "El antibiograma convencional tarda, por eso se inicia tratamiento empírico; pruebas más rápidas ayudan al uso racional.",
@@ -60213,10 +60213,10 @@
    "difficulty": "beginner",
    "prompt": "What is the difference between disinfectants and antiseptics?",
    "options": [
-    "There is none",
-    "Antiseptics are antibiotics",
-    "Disinfectants act on surfaces; antiseptics on skin and living tissue",
-    "Disinfectants are only for food"
+    "They are two names for the same products",
+    "Antiseptics are antibiotics for the skin",
+    "Disinfectants: surfaces; antiseptics: tissue",
+    "Disinfectants are used only on foods"
    ],
    "correctOptionIndex": 2,
    "explanation": "Both are biocides; disinfectants are used on nonliving surfaces and antiseptics on skin.",
@@ -60237,10 +60237,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué diferencia hay entre desinfectantes y antisépticos?",
    "options": [
-    "Ninguna",
-    "Los antisépticos son antibióticos",
-    "Los desinfectantes actúan sobre superficies; los antisépticos sobre piel y tejido vivo",
-    "Los desinfectantes son solo para alimentos"
+    "Son dos nombres para los mismos productos",
+    "Los antisépticos son antibióticos para la piel",
+    "Desinfectantes: superficies; antisépticos: tejido",
+    "Los desinfectantes se usan solo en alimentos"
    ],
    "correctOptionIndex": 2,
    "explanation": "Ambos son biocidas; los desinfectantes se usan en superficies inertes y los antisépticos sobre la piel.",
@@ -60261,9 +60261,9 @@
    "difficulty": "curious",
    "prompt": "Which agents are common skin antiseptics before surgery?",
    "options": [
-    "Penicillin and amoxicillin",
-    "Fluconazole and nystatin",
-    "Ibuprofen and paracetamol",
+    "Penicillin and amoxicillin solutions",
+    "Fluconazole and nystatin creams",
+    "Mupirocin and bacitracin ointments",
     "Chlorhexidine and povidone-iodine"
    ],
    "correctOptionIndex": 3,
@@ -60285,9 +60285,9 @@
    "difficulty": "curious",
    "prompt": "¿Qué agentes son antisépticos de piel comunes antes de una cirugía?",
    "options": [
-    "Penicilina y amoxicilina",
-    "Fluconazol y nistatina",
-    "Ibuprofeno y paracetamol",
+    "Soluciones de penicilina y amoxicilina",
+    "Cremas de fluconazol y nistatina",
+    "Pomadas de mupirocina y bacitracina",
     "Clorhexidina y povidona yodada"
    ],
    "correctOptionIndex": 3,
@@ -60309,10 +60309,10 @@
    "difficulty": "explorer",
    "prompt": "How is a surgical site infection defined in time?",
    "options": [
-    "Infection at the surgical site within 30 days of the procedure",
-    "Any infection during life after surgery",
-    "Infection within 1 hour",
-    "Only infections of the blood"
+    "Infection at the site within 30 days",
+    "Any infection in the year after surgery",
+    "Infection appearing within the first hour",
+    "Bloodstream infection during the operation"
    ],
    "correctOptionIndex": 0,
    "explanation": "SSIs are infections at the surgical site within 30 days of the procedure.",
@@ -60333,10 +60333,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se define temporalmente una infección del sitio quirúrgico?",
    "options": [
-    "Infección en el sitio quirúrgico dentro de los 30 días del procedimiento",
-    "Cualquier infección de por vida tras una cirugía",
-    "Infección dentro de 1 hora",
-    "Solo infecciones de la sangre"
+    "Infección en el sitio dentro de 30 días",
+    "Cualquier infección en el año posterior",
+    "Infección que aparece en la primera hora",
+    "Bacteriemia durante la propia operación"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las ISQ son infecciones en el sitio quirúrgico dentro de los 30 días del procedimiento.",
@@ -60358,9 +60358,9 @@
    "prompt": "What are biosafety guidelines?",
    "options": [
     "Rules for prescribing antibiotics",
-    "Policies and procedures for safely handling microbiological agents",
-    "Instructions for cooking",
-    "Guidelines for vaccine prices"
+    "Procedures to handle microbes safely",
+    "Standards for sterilizing food",
+    "Guidelines for setting vaccine prices"
    ],
    "correctOptionIndex": 1,
    "explanation": "Biosafety guidelines govern safe handling of microbes in labs and healthcare: risk assessment, practices, equipment, training.",
@@ -60381,10 +60381,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué son las normas de bioseguridad?",
    "options": [
-    "Reglas para recetar antibióticos",
-    "Políticas y procedimientos para manipular agentes microbiológicos de forma segura",
-    "Instrucciones de cocina",
-    "Pautas de precios de vacunas"
+    "Reglas para recetar antibióticos en clínica",
+    "Normas para manipular microbios sin riesgo",
+    "Normas para esterilizar alimentos envasados",
+    "Pautas para fijar los precios de las vacunas"
    ],
    "correctOptionIndex": 1,
    "explanation": "La bioseguridad regula la manipulación segura de microbios en laboratorios y centros de salud: evaluación de riesgo, prácticas, equipos, capacitación.",
@@ -60405,10 +60405,10 @@
    "difficulty": "beginner",
    "prompt": "What are probiotics?",
    "options": [
-    "Live microorganisms that can benefit gut health",
-    "Antibiotics made by fungi",
-    "Dead viruses",
-    "Vitamins"
+    "Live microbes that can benefit the gut",
+    "Antibiotics produced by soil fungi",
+    "Inactivated viruses used as vaccines",
+    "Plant fibers that feed gut bacteria"
    ],
    "correctOptionIndex": 0,
    "explanation": "Probiotics are live microorganisms used to improve gut health in several conditions.",
@@ -60429,10 +60429,10 @@
    "difficulty": "beginner",
    "prompt": "¿Qué son los probióticos?",
    "options": [
-    "Microorganismos vivos que pueden beneficiar la salud intestinal",
-    "Antibióticos producidos por hongos",
-    "Virus muertos",
-    "Vitaminas"
+    "Microbios vivos que benefician al intestino",
+    "Antibióticos producidos por hongos del suelo",
+    "Virus inactivados usados como vacunas",
+    "Fibras vegetales que nutren a las bacterias"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los probióticos son microorganismos vivos usados para mejorar la salud intestinal en diversas situaciones.",
@@ -60453,10 +60453,10 @@
    "difficulty": "explorer",
    "prompt": "Which staining property helps identify Nocardia?",
    "options": [
-    "Strongly acid-fast like M. tuberculosis",
-    "Gram-negative diplococci",
+    "Strongly acid-fast, like M. tuberculosis",
+    "Gram-negative diplococci in pairs",
     "Weakly acid-fast branching gram-positive rods",
-    "Not stainable at all"
+    "Gram-variable spore-forming rods in chains"
    ],
    "correctOptionIndex": 2,
    "explanation": "Nocardia are branching gram-positive bacilli that are weakly acid-fast — unlike Actinomyces, which are not acid-fast.",
@@ -60477,10 +60477,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué propiedad tintorial ayuda a identificar a Nocardia?",
    "options": [
-    "Fuertemente ácido-alcohol resistente como M. tuberculosis",
-    "Diplococos gramnegativos",
-    "Bacilos grampositivos ramificados débilmente ácido-alcohol resistentes",
-    "No se tiñe"
+    "Fuertemente ácido-alcohol resistente, como M. tuberculosis",
+    "Diplococos gramnegativos agrupados de a pares",
+    "Bacilos grampositivos ramificados, débilmente ácido-resistentes",
+    "Bacilos esporulados de Gram variable en cadenas"
    ],
    "correctOptionIndex": 2,
    "explanation": "Nocardia son bacilos grampositivos ramificados débilmente ácido-alcohol resistentes, a diferencia de Actinomyces.",
@@ -60502,9 +60502,9 @@
    "prompt": "In whom does nocardiosis classically occur?",
    "options": [
     "Immunocompromised hosts",
-    "Healthy athletes",
-    "Newborns only",
-    "Pregnant women only"
+    "Healthy young athletes",
+    "Newborns in their first week",
+    "Women during pregnancy"
    ],
    "correctOptionIndex": 0,
    "explanation": "Nocardia, an environmental organism, typically causes opportunistic pulmonary, skin or disseminated disease in immunocompromised hosts.",
@@ -60526,9 +60526,9 @@
    "prompt": "¿En quiénes ocurre clásicamente la nocardiosis?",
    "options": [
     "En inmunocomprometidos",
-    "En atletas sanos",
-    "Solo en recién nacidos",
-    "Solo en embarazadas"
+    "En atletas jóvenes sanos",
+    "En recién nacidos de una semana",
+    "En mujeres embarazadas"
    ],
    "correctOptionIndex": 0,
    "explanation": "Nocardia, un organismo ambiental, causa típicamente enfermedad pulmonar, cutánea o diseminada oportunista en inmunocomprometidos.",
@@ -60549,10 +60549,10 @@
    "difficulty": "curious",
    "prompt": "How is Vibrio vulnificus usually acquired?",
    "options": [
-    "Mosquito bites",
-    "Inhaling dust",
-    "Blood transfusion",
-    "Eating contaminated seafood or exposing wounds to seawater"
+    "Through bites from infected mosquitoes",
+    "By inhaling contaminated household dust",
+    "Through transfusion of stored blood",
+    "Via raw seafood or seawater on wounds"
    ],
    "correctOptionIndex": 3,
    "explanation": "V. vulnificus lives in warm seawater; infection follows raw seafood (e.g., oysters) or wound exposure.",
@@ -60573,10 +60573,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo se adquiere habitualmente Vibrio vulnificus?",
    "options": [
-    "Picaduras de mosquito",
-    "Inhalando polvo",
-    "Transfusión",
-    "Comiendo mariscos contaminados o exponiendo heridas al agua de mar"
+    "Por picaduras de mosquitos infectados",
+    "Inhalando polvo doméstico contaminado",
+    "Por transfusiones de sangre almacenada",
+    "Por mariscos crudos o mar en heridas"
    ],
    "correctOptionIndex": 3,
    "explanation": "V. vulnificus vive en agua de mar templada; la infección sigue a mariscos crudos (p. ej., ostras) o a la exposición de heridas.",
@@ -60599,8 +60599,8 @@
    "options": [
     "Norovirus",
     "Vibrio vulnificus",
-    "Hepatitis A",
-    "Salmonella"
+    "Hepatitis A virus",
+    "Salmonella Enteritidis"
    ],
    "correctOptionIndex": 1,
    "explanation": "V. vulnificus can cause necrotizing skin infection and sepsis with death within 24–48 h; mortality 18–50%.",
@@ -60623,8 +60623,8 @@
    "options": [
     "Norovirus",
     "Vibrio vulnificus",
-    "Hepatitis A",
-    "Salmonella"
+    "Virus de la hepatitis A",
+    "Salmonella Enteritidis"
    ],
    "correctOptionIndex": 1,
    "explanation": "V. vulnificus puede causar infección cutánea necrotizante y sepsis con muerte en 24–48 h; mortalidad 18–50%.",
@@ -60645,10 +60645,10 @@
    "difficulty": "expert",
    "prompt": "Why is the geographic range of Vibrio vulnificus expanding?",
    "options": [
-    "New antibiotics",
-    "Vaccination of fish",
-    "Rising ocean temperatures from climate change",
-    "Fewer people eating seafood"
+    "New antibiotics used in aquaculture",
+    "Widespread vaccination of farmed fish",
+    "Rising sea surface temperatures",
+    "Lower seafood consumption worldwide"
    ],
    "correctOptionIndex": 2,
    "explanation": "Warming seas let V. vulnificus spread to more northern waters, increasing infections.",
@@ -60669,10 +60669,10 @@
    "difficulty": "expert",
    "prompt": "¿Por qué se está expandiendo el área geográfica de Vibrio vulnificus?",
    "options": [
-    "Nuevos antibióticos",
-    "Vacunación de peces",
-    "El aumento de la temperatura del océano por el cambio climático",
-    "Menor consumo de mariscos"
+    "Nuevos antibióticos en acuicultura",
+    "Vacunación masiva de peces de criadero",
+    "El aumento de la temperatura del mar",
+    "Menor consumo mundial de mariscos"
    ],
    "correctOptionIndex": 2,
    "explanation": "El calentamiento del mar permite que V. vulnificus llegue a aguas más al norte, aumentando las infecciones.",
@@ -60741,10 +60741,10 @@
    "difficulty": "researcher",
    "prompt": "Which statement about Stenotrophomonas maltophilia is correct?",
    "options": [
-    "It causes common colds in children",
-    "It is a gram-positive coccus",
-    "It is a mosquito-borne virus",
-    "It is a multidrug-resistant opportunistic gram-negative bacillus in hospitals"
+    "It mainly causes common colds in children",
+    "It is a gram-positive coccus in clusters",
+    "It is a mosquito-borne arbovirus of birds",
+    "It is a multiresistant hospital bacillus"
    ],
    "correctOptionIndex": 3,
    "explanation": "S. maltophilia is an emerging multidrug-resistant gram-negative bacillus causing serious infections in immunocompromised patients.",
@@ -60765,10 +60765,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué afirmación sobre Stenotrophomonas maltophilia es correcta?",
    "options": [
-    "Causa resfríos en niños",
-    "Es un coco grampositivo",
-    "Es un virus transmitido por mosquitos",
-    "Es un bacilo gramnegativo oportunista y multirresistente en hospitales"
+    "Causa sobre todo resfríos comunes en niños",
+    "Es un coco grampositivo agrupado en racimos",
+    "Es un arbovirus de aves que transmiten mosquitos",
+    "Es un bacilo hospitalario multirresistente"
    ],
    "correctOptionIndex": 3,
    "explanation": "S. maltophilia es un bacilo gramnegativo multirresistente emergente que causa infecciones graves en inmunocomprometidos.",
@@ -60789,10 +60789,10 @@
    "difficulty": "researcher",
    "prompt": "What characterizes Lemierre syndrome?",
    "options": [
-    "Bacterial meningitis in newborns",
-    "Septic thrombophlebitis of the internal jugular vein after pharyngitis",
-    "Hepatitis after travel",
-    "Pneumonia from Legionella"
+    "Bacterial meningitis in premature newborns",
+    "Septic jugular thrombophlebitis",
+    "Acute viral hepatitis after travel abroad",
+    "Severe pneumonia caused by Legionella"
    ],
    "correctOptionIndex": 1,
    "explanation": "Lemierre syndrome: oropharyngeal infection spreading to septic thrombophlebitis of the internal jugular vein with anaerobic septicemia (classically Fusobacterium).",
@@ -60813,10 +60813,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué caracteriza al síndrome de Lemierre?",
    "options": [
-    "Meningitis bacteriana neonatal",
-    "Tromboflebitis séptica de la vena yugular interna tras una faringitis",
-    "Hepatitis tras un viaje",
-    "Neumonía por Legionella"
+    "Meningitis bacteriana en prematuros",
+    "Tromboflebitis séptica yugular",
+    "Hepatitis viral aguda tras viajar al exterior",
+    "Neumonía grave causada por Legionella"
    ],
    "correctOptionIndex": 1,
    "explanation": "Síndrome de Lemierre: infección orofaríngea que se extiende a tromboflebitis séptica de la yugular interna con septicemia anaerobia (clásicamente Fusobacterium).",
@@ -60888,7 +60888,7 @@
     "Scrub typhus",
     "Q fever",
     "Rocky Mountain spotted fever",
-    "Epidemic typhus"
+    "Epidemic louse-borne typhus"
    ],
    "correctOptionIndex": 2,
    "explanation": "Rocky Mountain spotted fever (Rickettsia rickettsii, tick-borne) is the most severe and common rickettsiosis in the Americas.",
@@ -60912,7 +60912,7 @@
     "Tifus de los matorrales",
     "Fiebre Q",
     "Fiebre manchada de las Montañas Rocosas",
-    "Tifus epidémico"
+    "Tifus epidémico transmitido por piojos"
    ],
    "correctOptionIndex": 2,
    "explanation": "La fiebre manchada (Rickettsia rickettsii, por garrapatas) es la rickettsiosis más grave y frecuente de América.",
@@ -60933,10 +60933,10 @@
    "difficulty": "expert",
    "prompt": "Why should treatment start empirically when Rocky Mountain spotted fever is suspected?",
    "options": [
-    "Delayed treatment is strongly linked to severe disease and death, and lab confirmation is often unavailable early",
-    "The disease always resolves alone",
-    "Antibiotics don't work after confirmation",
-    "Tests are always positive on day 1"
+    "Delay is linked to death and tests lag early",
+    "The disease nearly always resolves alone",
+    "Antibiotics stop working after confirmation",
+    "Serology is reliably positive on day one"
    ],
    "correctOptionIndex": 0,
    "explanation": "Lab confirmation is rarely available in the first week; delays in doxycycline increase severity and death.",
@@ -60957,10 +60957,10 @@
    "difficulty": "expert",
    "prompt": "¿Por qué el tratamiento debe iniciarse empíricamente ante sospecha de fiebre manchada?",
    "options": [
-    "El retraso se asocia fuertemente a enfermedad grave y muerte, y la confirmación suele no estar disponible al inicio",
-    "Siempre se resuelve sola",
-    "Los antibióticos no sirven tras confirmar",
-    "Las pruebas siempre son positivas el día 1"
+    "El retraso se asocia a muerte y las pruebas tardan",
+    "La enfermedad casi siempre se resuelve sola",
+    "Los antibióticos dejan de servir tras confirmar",
+    "La serología es positiva ya el primer día"
    ],
    "correctOptionIndex": 0,
    "explanation": "La confirmación rara vez está disponible en la primera semana; demorar la doxiciclina aumenta la gravedad y la muerte.",
@@ -60981,10 +60981,10 @@
    "difficulty": "explorer",
    "prompt": "What is the treatment of choice for ehrlichiosis?",
    "options": [
-    "Penicillin",
-    "Doxycycline, started without waiting for confirmation",
-    "Fluconazole",
-    "Vancomycin"
+    "High-dose penicillin G",
+    "Doxycycline, given early",
+    "Oral fluconazole for a week",
+    "Intravenous vancomycin"
    ],
    "correctOptionIndex": 1,
    "explanation": "Doxycycline improves outcomes in ehrlichiosis and other rickettsial diseases; don't delay for lab results.",
@@ -61005,10 +61005,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál es el tratamiento de elección de la ehrlichiosis?",
    "options": [
-    "Penicilina",
-    "Doxiciclina, sin esperar la confirmación",
-    "Fluconazol",
-    "Vancomicina"
+    "Penicilina G en dosis altas",
+    "Doxiciclina, dada temprano",
+    "Fluconazol oral por una semana",
+    "Vancomicina intravenosa"
    ],
    "correctOptionIndex": 1,
    "explanation": "La doxiciclina mejora el pronóstico de la ehrlichiosis y otras rickettsiosis; no hay que demorarla por los resultados.",
@@ -61032,7 +61032,7 @@
     "Rickettsia species",
     "Plasmodium species",
     "Borrelia spirochetes",
-    "Leptospira species"
+    "Leptospira spirochetes"
    ],
    "correctOptionIndex": 2,
    "explanation": "Relapsing fever is caused by Borrelia spirochetes transmitted by ticks (TBRF) or lice (LBRF).",
@@ -61055,8 +61055,8 @@
    "options": [
     "Especies de Rickettsia",
     "Especies de Plasmodium",
-    "Espiroquetas del género Borrelia",
-    "Especies de Leptospira"
+    "Espiroquetas de Borrelia",
+    "Espiroquetas de Leptospira"
    ],
    "correctOptionIndex": 2,
    "explanation": "La fiebre recurrente la causan espiroquetas Borrelia transmitidas por garrapatas (FRTG) o piojos (FRTP).",
@@ -61078,9 +61078,9 @@
    "prompt": "Kingella kingae is an important cause of what in young children?",
    "options": [
     "Urinary tract infection in teenagers",
-    "Pneumonia in the elderly",
-    "Meningitis in newborns",
-    "Bacteremia and bone/joint infections in children 6–48 months"
+    "Pneumonia in elderly nursing-home residents",
+    "Meningitis in newborns under 1 month",
+    "Bone and joint infections in toddlers"
    ],
    "correctOptionIndex": 3,
    "explanation": "Improved diagnostics show K. kingae is a major cause of bacteremia and osteoarticular infection at 6–48 months.",
@@ -61102,9 +61102,9 @@
    "prompt": "¿De qué es causa importante Kingella kingae en niños pequeños?",
    "options": [
     "Infección urinaria en adolescentes",
-    "Neumonía en ancianos",
-    "Meningitis en neonatos",
-    "Bacteriemia e infecciones osteoarticulares de 6 a 48 meses"
+    "Neumonía en ancianos de residencias",
+    "Meningitis en neonatos de menos de un mes",
+    "Osteoartritis infecciosa en niños pequeños"
    ],
    "correctOptionIndex": 3,
    "explanation": "Con mejores técnicas diagnósticas, K. kingae resultó causa importante de bacteriemia e infección osteoarticular de 6 a 48 meses.",
@@ -61125,10 +61125,10 @@
    "difficulty": "researcher",
    "prompt": "Which presentation is characteristic of Yersinia enterocolitica infection?",
    "options": [
-    "Pseudoappendicitis from mesenteric adenitis and terminal ileitis",
-    "Painless genital ulcer",
-    "Facial palsy",
-    "Bloody urine"
+    "Pseudoappendicitis from mesenteric adenitis",
+    "A painless genital ulcer with adenopathy",
+    "Unilateral facial palsy after a tick bite",
+    "Painful bloody urine with flank pain"
    ],
    "correctOptionIndex": 0,
    "explanation": "Y. enterocolitica causes diarrhea, mesenteric adenitis and terminal ileitis that can mimic appendicitis.",
@@ -61149,10 +61149,10 @@
    "difficulty": "researcher",
    "prompt": "¿Qué presentación es característica de la infección por Yersinia enterocolitica?",
    "options": [
-    "Seudoapendicitis por adenitis mesentérica e ileítis terminal",
-    "Úlcera genital indolora",
-    "Parálisis facial",
-    "Orina con sangre"
+    "Seudoapendicitis por adenitis mesentérica",
+    "Úlcera genital indolora con adenopatía",
+    "Parálisis facial unilateral tras picadura",
+    "Orina con sangre y dolor en el flanco"
    ],
    "correctOptionIndex": 0,
    "explanation": "Y. enterocolitica causa diarrea, adenitis mesentérica e ileítis terminal que pueden simular una apendicitis.",
@@ -61176,7 +61176,7 @@
     "Mosquito bites",
     "Sexual contact",
     "Blood transfusion",
-    "Inhaled spores"
+    "Inhaling fungal spores"
    ],
    "correctOptionIndex": 2,
    "explanation": "Yersinia can grow at refrigeration temperatures, so contaminated stored blood can transmit it.",
@@ -61200,7 +61200,7 @@
     "Picaduras de mosquito",
     "Contacto sexual",
     "Transfusión de sangre",
-    "Esporas inhaladas"
+    "Inhalación de esporas"
    ],
    "correctOptionIndex": 2,
    "explanation": "Yersinia puede crecer a temperatura de heladera, por eso la sangre almacenada contaminada puede transmitirla.",
@@ -61317,9 +61317,9 @@
    "difficulty": "explorer",
    "prompt": "Which substance is considered the most potent poison known?",
    "options": [
-    "Cyanide",
-    "Snake venom",
-    "Arsenic",
+    "Potassium cyanide",
+    "Inland taipan venom",
+    "Arsenic trioxide",
     "Botulinum neurotoxin"
    ],
    "correctOptionIndex": 3,
@@ -61341,9 +61341,9 @@
    "difficulty": "explorer",
    "prompt": "¿Qué sustancia se considera el veneno más potente conocido?",
    "options": [
-    "Cianuro",
-    "Veneno de serpiente",
-    "Arsénico",
+    "Cianuro de potasio",
+    "Veneno de taipán",
+    "Trióxido de arsénico",
     "Toxina botulínica"
    ],
    "correctOptionIndex": 3,
@@ -61365,10 +61365,10 @@
    "difficulty": "researcher",
    "prompt": "What is the main specific treatment of botulism?",
    "options": [
-    "Antibiotics alone cure it",
-    "A vaccine after symptoms",
-    "Polyvalent antitoxin plus supportive care (often ventilation)",
-    "Insulin"
+    "A course of antibiotics alone",
+    "A toxoid vaccine after symptoms begin",
+    "Antitoxin plus supportive care",
+    "High-dose corticosteroids for a week"
    ],
    "correctOptionIndex": 2,
    "explanation": "Antitoxin limits progression but doesn't reverse paralysis; patients may need weeks of mechanical ventilation.",
@@ -61389,10 +61389,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál es el tratamiento específico principal del botulismo?",
    "options": [
-    "Solo antibióticos",
-    "Una vacuna tras los síntomas",
-    "Antitoxina polivalente más medidas de sostén (a menudo ventilación)",
-    "Insulina"
+    "Un tratamiento solo con antibióticos",
+    "Una vacuna toxoide tras los síntomas",
+    "Antitoxina más medidas de sostén",
+    "Corticoides en dosis altas una semana"
    ],
    "correctOptionIndex": 2,
    "explanation": "La antitoxina limita la progresión pero no revierte la parálisis; puede requerirse ventilación mecánica por semanas.",
@@ -61413,10 +61413,10 @@
    "difficulty": "researcher",
    "prompt": "How is scrub typhus (Orientia tsutsugamushi) transmitted?",
    "options": [
-    "Body lice",
-    "Larval trombiculid mites (chiggers)",
-    "Fleas from rats",
-    "Mosquitoes"
+    "Human body lice",
+    "Larval trombiculid mites",
+    "Fleas carried by urban rats",
+    "Aedes aegypti mosquitoes"
    ],
    "correctOptionIndex": 1,
    "explanation": "Scrub typhus is transmitted by larval trombiculid mites, often leaving a black eschar at the bite site.",
@@ -61437,10 +61437,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cómo se transmite el tifus de los matorrales (Orientia tsutsugamushi)?",
    "options": [
-    "Piojos corporales",
+    "Piojos corporales humanos",
     "Larvas de ácaros trombicúlidos",
-    "Pulgas de rata",
-    "Mosquitos"
+    "Pulgas de ratas de ciudad",
+    "Mosquitos Aedes aegypti en zonas urbanas"
    ],
    "correctOptionIndex": 1,
    "explanation": "El tifus de los matorrales lo transmiten larvas de ácaros trombicúlidos y suele dejar una escara negra en la picadura.",
@@ -61461,8 +61461,8 @@
    "difficulty": "explorer",
    "prompt": "How is epidemic typhus (Rickettsia prowazekii) transmitted?",
    "options": [
-    "By ticks",
-    "By mosquitoes",
+    "By hard ticks",
+    "By Anopheles mosquitoes",
     "By the human body louse",
     "By contaminated water"
    ],
@@ -61485,9 +61485,9 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se transmite el tifus epidémico (Rickettsia prowazekii)?",
    "options": [
-    "Por garrapatas",
-    "Por mosquitos",
-    "Por el piojo corporal humano",
+    "Por garrapatas duras",
+    "Por mosquitos Anopheles",
+    "Por el piojo corporal",
     "Por agua contaminada"
    ],
    "correctOptionIndex": 2,
@@ -61509,10 +61509,10 @@
    "difficulty": "curious",
    "prompt": "Murine typhus is transmitted mainly by…",
    "options": [
-    "Fleas, with rodents as reservoirs",
-    "Body lice",
-    "Ticks only",
-    "Sandflies"
+    "Fleas, with rodent reservoirs",
+    "Human body lice in crowded places",
+    "Hard ticks carried by dogs",
+    "Phlebotomine sandflies at dusk"
    ],
    "correctOptionIndex": 0,
    "explanation": "Murine typhus (Rickettsia typhi) is flea-borne and maintained in rodents.",
@@ -61533,10 +61533,10 @@
    "difficulty": "curious",
    "prompt": "El tifus murino se transmite principalmente por…",
    "options": [
-    "Pulgas, con roedores como reservorio",
-    "Piojos corporales",
-    "Solo garrapatas",
-    "Flebótomos"
+    "Pulgas, con roedores de reservorio",
+    "Piojos corporales en lugares hacinados",
+    "Garrapatas duras de los perros",
+    "Flebótomos que pican al atardecer"
    ],
    "correctOptionIndex": 0,
    "explanation": "El tifus murino (Rickettsia typhi) se transmite por pulgas y se mantiene en roedores.",
