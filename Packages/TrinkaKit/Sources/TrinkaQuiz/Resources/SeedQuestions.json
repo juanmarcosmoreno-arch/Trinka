@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -5222,6 +5222,255 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK553134"
+  },
+  {
+   "pmid": "30252331",
+   "title": "Nocardiosis",
+   "authors": [
+    "Rawat D",
+    "Rajasurya V",
+    "Chakraborty RK",
+    "Sharma S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Nocardiosis is a disease affecting different organs of the body. It is an infectious disease caused by Nocardia, which is a gram-positive bacillus with a branching hyphae morphology found throughout the environment in soil, decomposing vegetation, and other organic matter. It is also found in both fresh and salt water. Nocardia is typically weak acid-fast positive on microscopy with staining. Classically, Nocardia manifests as an opportunistic infection in immunocompromised hosts and can impact nearly every part of the human body including skin and skin structures, the pleural or pulmonary system, or it can be a disseminated disease impacting other organ systems.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK526075"
+  },
+  {
+   "pmid": "32119291",
+   "title": "Vibrio vulnificus Infection",
+   "authors": [
+    "Haftel A",
+    "Marietta M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Vibrio vulnificus, a gram-negative bacterium and pathogenic member of the Vibrio genus that includes V cholerae and V parahaemolyticus, thrives in warm marine environments. Rising ocean temperatures have allowed the organism to extend its range into more northern waters. Global climate change and associated weather events continue to drive increases in the pathogen’s prevalence, transmission, and virulence. By 2081, projections indicate that Vibrio vulnificus may inhabit every eastern coastal region of the United States. Transmission of V vulnificus commonly occurs through consumption of contaminated seafood or exposure of open wounds to infected water. The infection manifests across a broad clinical spectrum, from mild gastrointestinal illness to severe necrotizing skin infections. Vibrio vulnificus accounts for the highest number of seafood-related fatalities in the United States, with death often occurring within 24 to 48 hours after symptom onset. Mortality ranges from 18% to 50%, and annual treatment costs approach 28 million dollars. As the prevalence and infection rate of Vibrio vulnificus expand geographically, multidrug resistance is emerging, exerting a significant global impact.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK554404"
+  },
+  {
+   "pmid": "29083695",
+   "title": "Vibrio parahaemolyticus Infection",
+   "authors": [
+    "Rezny BR",
+    "Evans DS"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Vibrio parahaemolyticus infection can cause a varying degree of illness, including gastroenteritis, wound infections, and, in more severe cases, sepsis. Although less common in the United States, it is a common cause of bacterial gastroenteritis in Asia, specifically in Japan. Despite being relatively uncommon, outbreaks of V parahaemolyticus are on the rise in the United States.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK459164"
+  },
+  {
+   "pmid": "34283489",
+   "title": "Stenotrophomonas maltophilia Infection",
+   "authors": [
+    "Said MS",
+    "Lesho E"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Stenotrophomonas maltophilia is a gram-negative bacillus, initially called Bacterium bookeri, when it was first identified in 1943 from a specimen of human pleural fluid. It was later classified as Pseudomonas maltophilia in 1961, then reassigned to the gammaproteobacteria class as Xanthomonas maltophilia in 1983, and eventually classified as a Stenotrophomonas in 199. The name has Greek roots meaning “The narrow feeder - that loves malt.” The whole-genome sequence of representative isolate K279a genome sequence was published in 2008. S. maltophilia can be considered a “newly emerging pathogen of concern” that is being isolated more frequently. It is also recognized as one of the underestimated important multi-drug resistant organisms in hospitals by the World Health Organization (WHO). It was ranked as the ninth most important one per British microbiologists and one of the challenging pathogens in the infectious disease community and studies. It is widely known as an opportunistic organism associated with high morbidity and mortality rates among immunocompromised patients.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK572123"
+  },
+  {
+   "pmid": "29763021",
+   "title": "Lemierre Syndrome",
+   "authors": [
+    "Allen BW",
+    "Anjum F",
+    "Bentley TP"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Lemierre syndrome (LS) is named after the French physician Andre Lemierre, who, in 1936, reported 20 cases of anaerobic septicemia originating from oropharyngeal infections. It is a rare complication of bacterial pharyngitis/tonsillitis and involves an extension of the infection into the lateral pharyngeal spaces of the neck with subsequent septic thrombophlebitis of the internal jugular vein(s). It is associated with anaerobic septicemia and death in young, healthy patients. Due to the high frequency of benign oropharyngeal infections in this population, the diagnosis of LS is often elusive on initial presentation. This can result in treatment delays.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK499846"
+  },
+  {
+   "pmid": "28722966",
+   "title": "Whipple Disease",
+   "authors": [
+    "Antunes C",
+    "Singhal M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Whipple disease is caused by a gram-positive bacteria, Tropheryma whippelii. This is a systemic disorder that not only involves malabsorption from the gastrointestinal tract but also affects other systems like the cardiovascular, central nervous system, joints, and vascular system. Dr. George Hoyt Whipple initially described this condition in 1907. He was the first American Nobel Prize laureate in Physiology. Dr. Whipple described a case of a 36-year-old male who presented with malabsorption associated with mesenteric lymphadenopathy, arthralgias, and skin pigmentation. The condition named by him \"Intestinal Lipodystrophy,\" and his article was published in the Bulletin of Johns Hopkins Hospital. He hypothesized that an infectious agent was responsible, but the bacteria was only fully identified in 1992. Whipple disease is rare, and only case reports exist in the literature.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441937"
+  },
+  {
+   "pmid": "28613631",
+   "title": "Rocky Mountain Spotted Fever and Related Spotted Fever Rickettsioses",
+   "authors": [
+    "Magiorakos AP",
+    "Tobin EH",
+    "Snowden J",
+    "Simonsen KA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Rickettsial diseases are a group of vector-borne, zoonotic infections caused by obligate, gram-negative, intracellular coccobacilli within the order Rickettsiales and the genera Rickettsia, Orientia, Ehrlichia, and Anaplasma. Hematophagous arthropod vectors, including ticks, mites, fleas, and lice, transmit these infections worldwide to humans, who are accidental, dead-end hosts. Rocky Mountain spotted fever (RMSF) and other spotted fever group rickettsioses (SFGR) are acute tick-borne infections caused by Rickettsia rickettsii and other members of the spotted fever group, a diverse group of gram-negative, obligate intracellular bacteria. RMSF is the most severe and most common rickettsial infection in the Americas. In contrast, other SFGRs occur worldwide and vary in their geographic distribution according to the ranges of their tick vectors and vertebrate hosts. Clinical manifestations range from a mild febrile illness to rapidly progressive multisystem disease with substantial morbidity and, if untreated, death. Although fever, headache, myalgias, and rash are common features, the frequency of rash, inoculation eschars, lymphadenopathy, and organ involvement differs among species. Symptoms are nonspecific, and laboratory confirmation is frequently unavailable during the first week of illness; diagnosis depends on clinical suspicion and recognition of epidemiologic risk factors, including recent tick exposure, travel to endemic areas, International travel, population displacement, military deployment, and expanding tick habitats have increased recognition of SFGR in both endemic regions and returning travelers. Consider rickettsial diseases in patients with acute undifferentiated fever, especially those with an appropriate travel history, geographic exposure, vector contact, and characteristic findings such as rash, an inoculation eschar, or lymphadenopathy. A careful travel, geographic, occupational, and recreational exposure history is essential in any patient presenting with acute undifferentiated fever after possible tick exposure. Because laboratory confirmation is often unavailable early in the course of illness, maintain a high index of suspicion and administer empiric therapy when RMSF or another SFGR is suspected. Delayed treatment, particularly in RMSF, is strongly associated with severe disease and death.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK430881"
+  },
+  {
+   "pmid": "28722995",
+   "title": "Ehrlichiosis",
+   "authors": [
+    "Snowden J",
+    "Simonsen KA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Ehrlichiosis is an emerging tick-borne, zoonotic infection caused by bacteria from the family Anaplasmataceae in the order Rickettsiales. This disease is caused by several species of obligate, intracellular gram-negative coccobacilli transmitted to humans by infected tick bites, including Ehrlichia chaffeensis, E ewingii, E muris–like agent, and Anaplasma phagocytophilum. Although all these intracellular coccobacilli cause ehrlichiosis with similar clinical symptoms, their geographic distribution and severity may differ. E chaffeensis and A phagocytophilum can cause more severe disease. Patients typically complain of nonspecific symptoms such as headaches and flu-like symptoms. Laboratory findings may include thrombocytopenia, leukopenia, anemia, liver function test abnormalities, and even acute kidney failure, depending on the type of species they are infected with. Ehrlichiosis is a potentially life-threatening and fatal disease in humans and should be recognized and treated promptly. Clinically, ehrichiosis presents many common symptoms and signs with rickettsial infections and may share overlapping geographic distribution. Clinicians should consider Ehrlichia infections when evaluating patients with flu-like illnesses in endemic areas. Due to the expanding geographic range of the ticks and the reservoirs of the species that cause ehrlichiosis, it is essential to be up-to-date regarding the changing epidemiology of Ehrlichia infections. Prompt administration of doxycycline significantly improves outcomes, and treatment should not be delayed pending diagnostic confirmation. Increased awareness, prompt diagnosis, and timely treatment are necessary for good patient outcomes.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441966"
+  },
+  {
+   "pmid": "28722942",
+   "title": "Relapsing Fever",
+   "authors": [
+    "Snowden J",
+    "Yarrarapu SNS",
+    "Nguyen AD",
+    "Oliver TI"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Relapsing fever typically refers to malaria-like illnesses characterized by recurrent fevers, chills, and malaise caused by various spirochetes belonging to Borrelia species. The syndrome is commonly referred to as either tick-borne relapsing fever (TBRF) or louse-borne relapsing fever (LBRF), which denotes their transmission vector. The causative organism and associated vector vary based on the geographic area of exposure. Transmission is through the bite or crushing against the skin of an endemic arthropod, typically a tick or louse, that can transmit the pathogen. In areas outside endemic transmission, imported cases may occur in returned travelers. The antigens on the spirochetes may interact with the host immune response to cause a constitutional and febrile response in the patient. The term \"relapsing fever\" was first coined in Edinburgh in the 1840s to describe the clinical manifestations of an outbreak affecting the city. The syndrome's etiology was not identified for another 30 years, and the vectors driving transmission were not identified until the first half of the twentieth century. However, relapsing fever (particularly LBRF) was typically implicated in outbreaks associated with warfare and poverty and was often found comorbid with trench fever, caused by Rickettsia quintana during World War I.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441913"
+  },
+  {
+   "pmid": "31613470",
+   "title": "Kingella Kingae",
+   "authors": [
+    "Adebiyi EO",
+    "Ayoade F"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Until the recent advancement in diagnostic techniques, Kingella kingae was thought to be a rare bacteria. Kingella kingae is now considered a significant cause of pediatric bacteremia and bone infections in children aged 6 to 48 months. It is one of the etiologies of daycare disease outbreaks in the United States and other countries. Though Kingella kingae is the natural flora of oropharyngeal lining of children between 6 to 48 months, it can get access to the bloodstream through a damaged mucosa to cause system infections. Except in the case of endocarditis and osteoarticular infections, K. kingae infections usually present with mild symptoms.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK547690"
+  },
+  {
+   "pmid": "29763012",
+   "title": "Yersinia enterocolitica Infection",
+   "authors": [
+    "Aziz M",
+    "Rausch-Phung EA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Yersinia enterocolitica is a gram-negative bacillus-shaped bacterium that causes a zoonotic disease called yersiniosis (see Image. Gram-Stained Appearance of Yersinia enterocolitica. The infection is manifested as acute diarrhea, mesenteric adenitis, terminal ileitis, and pseudoappendicitis. In rare cases, it can even cause sepsis. In some countries, Yersinia infections have overtaken Shigella and Salmonella species as the most common cause of bacterial gastroenteritis. While most cases are sporadic, large outbreaks are not uncommon. Humans acquire Yersinia after consumption of contaminated food, as well as a blood transfusion. The key feature of Yersinia is that the individual continues to shed the organism in feces for nearly 3 months after symptoms have subsided; thus, detecting Yersinia in stool samples is critical.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK499837"
+  },
+  {
+   "pmid": "30020713",
+   "title": "Anaplasmosis",
+   "authors": [
+    "Guzman N",
+    "Yarrarapu SNS",
+    "Beidas SO"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Anaplasma phagocytophilum is an obligate gram-negative, intracellular bacterium that causes an acute febrile illness known as anaplasmosis or human granulocytic anaplasmosis (HGA). The organism is genetically related to rickettsia and is transmitted by Ixodes scapularis in the northeast United States and by Ixodes pacificus in California. The vector also transmits other organisms responsible for diseases such as Lyme, babesiosis, ehrlichioses and Powassan encephalitis. Anaplasmosis was formerly named human granulocytic ehrlichiosis (HGE). In 2001, the organism was reassigned to the genus Anaplasma. Cases of anaplasmosis have been identified worldwide; in the United States, it is mostly reported in the upper Midwest and the Northeast. Disease activity has also been reported in Northern Europe and Southeast Asia. Anaplasmosis generally presents with nonspecific symptoms such as fever, chills, malaise, headache, and myalgias. On rare occasions, a rash may be present. The patient may also report nonspecific gastrointestinal (GI) or respiratory symptoms. A low number of patients manifest with life-threatening complications. Immunosuppressed patients are more likely to get hospitalized and have a higher risk of suffering from severe complications. Occasionally, co-infection with other tick-borne organisms (Anaplasma, Lyme, and Babesia) occurs given that Ixodes ticks are the common vector. Anaplasmosis is diagnosed by culture, histopathology, PCR, or serology. The presence of intracytoplasmic aggregates of Anaplasma in peripheral blood neutrophils can be diagnostic in 20% to 80% of symptomatic patients. First-line treatment is doxycycline 100 mg orally, twice daily administered for 14 to 21 days or at least 3 days after defervescence.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK513341"
+  },
+  {
+   "pmid": "29083673",
+   "title": "Botulism",
+   "authors": [
+    "Jeffery IA",
+    "Nguyen AD",
+    "Karim S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Botulism is a rare but potentially fatal syndrome of diffuse, flaccid paralysis caused by botulinum neurotoxin (BoNT), a neurotoxin elaborated by the bacterium Clostridium botulinum and 6 other clostridial genospecies. Several other etiologies of botulism have been described since its recognition as a foodborne entity in Germany and Belgium in the 1800s, including wound botulism, iatrogenic botulism, and inhalational botulism. The administration of polyvalent antitoxin to BoNT mitigates the clinical course of botulism. However, no true antidote exists, and disease management relies on potentially weeks of mechanical ventilation and other resource-heavy therapies while the body's neuromuscular signaling mechanisms recover. BoNT, the most potent poison known to man, is relatively simple to produce, store, and disperse. Thus, this toxin is a subject of intense interest for defense organizations worldwide. Due to its toxicity, BoNT has been previously implicated in biological warfare and bioterrorism plans with state-based actors and terror groups such as the Red Army Faction and Aum Shinrikyo in the 1980s and 1990s. Despite this, BoNT can be managed in accredited biosafety level 2 containment facilities as it is not transmissible following initial exposure.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK459273"
+  },
+  {
+   "pmid": "32644327",
+   "title": "Scrub Typhus",
+   "authors": [
+    "Singh OB",
+    "Panda PK"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Scrub typhus is a severe infectious disease caused by the rickettsial bacterium Orientia tsutsugamushi, which displays high levels of antigenic variation. The disease is a serious public health concern in the Asia-Pacific region, including, but not limited to, the region known as the \"tsutsugamushi triangle.\" Spanning over 8 million square kilometers and affecting more than 1 billion people across countries such as Pakistan in the west, Australia in the south, and Japan in the east, this triangular area poses a significant public health threat with a high risk of fatality. A systemic review on the burden of scrub typhus in India, located within the \"tsutsugamushi triangle,\" revealed that scrub typhus accounts for at least 25.3% of individuals with acute undifferentiated febrile illness. Despite being one of the common pathogens of the cause of such encountered illness, scrub typhus remains a neglected disease in terms of research and healthcare policy formulation. The infection is transmitted to humans through the bite of larval trombiculid mites, leading to disseminated vasculitis, perivascular inflammation, vascular leakage, and end-organ injury. Travelers to endemic regions and individuals of all ages are susceptible to this disease. Clinical features usually arise after an incubation period of 6 to 21 days and manifest as fever, headache, myalgia, and gastrointestinal symptoms. An \"eschar\" is a distinct characteristic of scrub typhus, which generally begins as a primary papular lesion at the site of the bite. However, it may later crust to form a black ulcer with central necrosis. However, the presence of the eschar may vary by region. The decision to initiate treatment should be based on clinical suspicion and later confirmed by serological tests.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK558901"
+  },
+  {
+   "pmid": "28846313",
+   "title": "Typhus Group Rickettsial Diseases",
+   "authors": [
+    "Magiorakos AP",
+    "Tobin EH"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Rickettsial diseases are a group of vector-borne, zoonotic infections caused by obligate, gram-negative, intracellular coccobacilli within the order Rickettsiales and the genera Rickettsia, Orientia, Ehrlichia, and Anaplasma. These infections are transmitted by hematophagous arthropod vectors, including ticks, mites, fleas, and lice, and occur worldwide among humans who are accidental hosts. Clinical manifestations range from mild febrile illness to severe, life-threatening multisystem disease. Although these infections commonly present with acute fever, headache, myalgias, and rash, the clinical features, severity, and pattern of organ involvement vary according to the infecting species. Murine typhus and epidemic typhus are acute febrile illnesses caused by Rickettsia typhi and R prowazekii, respectively. Together, these organisms comprise the typhus group of the rickettsioses. Both are obligate intracellular, gram-negative coccobacilli transmitted to humans by arthropod vectors. Murine typhus is a flea-borne zoonosis maintained primarily in rodents, although other mammals such as opossums and cats may also contribute to transmission in some regions. Murine typhus has a global distribution and is endemic in warm coastal, tropical, and subtropical areas. Epidemic typhus is spread by the human body louse and occurs mainly in settings where louse infestations are common, including areas affected by war, natural disasters, homelessness, refugee camps, overcrowding, and poor sanitation. Early manifestations of epidemic and murine typhus are nonspecific, with sudden onset of fever, severe headache, and myalgias. A rash, when present, usually begins on the trunk and spreads to the extremities, although it is less common and often less prominent in murine typhus. Murine typhus is usually a mild to moderate illness, but severe disease can occur, particularly in older adults and patients with underlying medical conditions. Epidemic typhus is more severe and may be accompanied by confusion, delirium, hypotension, and multiorgan involvement. Untreated epidemic typhus carries a high mortality rate. As a result, diagnosis is based largely on the clinical presentation together with a history of compatible exposures. With international travel, migration, and population displacement due to war and humanitarian crises, rickettsial diseases are being encountered more frequently outside their traditional endemic regions. Murine and epidemic typhus should be considered in patients presenting with an acute undifferentiated febrile illness, particularly when there is a history of travel to or residence in endemic areas, exposure to fleas or body lice, homelessness, overcrowding, refugee camps, or other conditions associated with poor sanitation. Early recognition and prompt initiation of treatment, usually doxycycline, are critical, as delays in treatment are associated with substantially increased morbidity and mortality. Treatment with doxycycline should be started as soon as typhus is suspected and should not be delayed while awaiting laboratory confirmation.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK448173"
   },
   {
    "pmid": "28722861",
@@ -36846,6 +37095,1110 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "They are live microorganisms that are known to help improve gut health",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30252331-1-en",
+   "translationKey": "micro-30252331-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which staining property helps identify Nocardia?",
+   "options": [
+    "Strongly acid-fast like M. tuberculosis",
+    "Gram-negative diplococci",
+    "Weakly acid-fast branching gram-positive rods",
+    "Not stainable at all"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Nocardia are branching gram-positive bacilli that are weakly acid-fast — unlike Actinomyces, which are not acid-fast.",
+   "shortExplanation": "Weakly acid-fast.",
+   "pmid": "30252331",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Nocardia is typically weak acid-fast positive on microscopy with staining",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30252331-1-es",
+   "translationKey": "micro-30252331-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué propiedad tintorial ayuda a identificar a Nocardia?",
+   "options": [
+    "Fuertemente ácido-alcohol resistente como M. tuberculosis",
+    "Diplococos gramnegativos",
+    "Bacilos grampositivos ramificados débilmente ácido-alcohol resistentes",
+    "No se tiñe"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Nocardia son bacilos grampositivos ramificados débilmente ácido-alcohol resistentes, a diferencia de Actinomyces.",
+   "shortExplanation": "Débilmente AAR.",
+   "pmid": "30252331",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Nocardia is typically weak acid-fast positive on microscopy with staining",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30252331-2-en",
+   "translationKey": "micro-30252331-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "In whom does nocardiosis classically occur?",
+   "options": [
+    "Immunocompromised hosts",
+    "Healthy athletes",
+    "Newborns only",
+    "Pregnant women only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Nocardia, an environmental organism, typically causes opportunistic pulmonary, skin or disseminated disease in immunocompromised hosts.",
+   "shortExplanation": "Immunocompromised.",
+   "pmid": "30252331",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Classically, Nocardia manifests as an opportunistic infection in immunocompromised hosts",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30252331-2-es",
+   "translationKey": "micro-30252331-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿En quiénes ocurre clásicamente la nocardiosis?",
+   "options": [
+    "En inmunocomprometidos",
+    "En atletas sanos",
+    "Solo en recién nacidos",
+    "Solo en embarazadas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Nocardia, un organismo ambiental, causa típicamente enfermedad pulmonar, cutánea o diseminada oportunista en inmunocomprometidos.",
+   "shortExplanation": "Inmunocomprometidos.",
+   "pmid": "30252331",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Classically, Nocardia manifests as an opportunistic infection in immunocompromised hosts",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119291-1-en",
+   "translationKey": "micro-32119291-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How is Vibrio vulnificus usually acquired?",
+   "options": [
+    "Mosquito bites",
+    "Inhaling dust",
+    "Blood transfusion",
+    "Eating contaminated seafood or exposing wounds to seawater"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "V. vulnificus lives in warm seawater; infection follows raw seafood (e.g., oysters) or wound exposure.",
+   "shortExplanation": "Seafood or seawater wounds.",
+   "pmid": "32119291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transmission of V vulnificus commonly occurs through consumption of contaminated seafood or exposure of open wounds to infected water",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119291-1-es",
+   "translationKey": "micro-32119291-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se adquiere habitualmente Vibrio vulnificus?",
+   "options": [
+    "Picaduras de mosquito",
+    "Inhalando polvo",
+    "Transfusión",
+    "Comiendo mariscos contaminados o exponiendo heridas al agua de mar"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "V. vulnificus vive en agua de mar templada; la infección sigue a mariscos crudos (p. ej., ostras) o a la exposición de heridas.",
+   "shortExplanation": "Mariscos o heridas en agua de mar.",
+   "pmid": "32119291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transmission of V vulnificus commonly occurs through consumption of contaminated seafood or exposure of open wounds to infected water",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119291-2-en",
+   "translationKey": "micro-32119291-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which pathogen causes the most seafood-related deaths in the United States?",
+   "options": [
+    "Norovirus",
+    "Vibrio vulnificus",
+    "Hepatitis A",
+    "Salmonella"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "V. vulnificus can cause necrotizing skin infection and sepsis with death within 24–48 h; mortality 18–50%.",
+   "shortExplanation": "Vibrio vulnificus.",
+   "pmid": "32119291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vibrio vulnificus accounts for the highest number of seafood-related fatalities in the United States",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119291-2-es",
+   "translationKey": "micro-32119291-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué patógeno causa más muertes relacionadas con mariscos en Estados Unidos?",
+   "options": [
+    "Norovirus",
+    "Vibrio vulnificus",
+    "Hepatitis A",
+    "Salmonella"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "V. vulnificus puede causar infección cutánea necrotizante y sepsis con muerte en 24–48 h; mortalidad 18–50%.",
+   "shortExplanation": "Vibrio vulnificus.",
+   "pmid": "32119291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vibrio vulnificus accounts for the highest number of seafood-related fatalities in the United States",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119291-3-en",
+   "translationKey": "micro-32119291-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Why is the geographic range of Vibrio vulnificus expanding?",
+   "options": [
+    "New antibiotics",
+    "Vaccination of fish",
+    "Rising ocean temperatures from climate change",
+    "Fewer people eating seafood"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Warming seas let V. vulnificus spread to more northern waters, increasing infections.",
+   "shortExplanation": "Warmer oceans.",
+   "pmid": "32119291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rising ocean temperatures have allowed the organism to extend its range into more northern waters",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119291-3-es",
+   "translationKey": "micro-32119291-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Por qué se está expandiendo el área geográfica de Vibrio vulnificus?",
+   "options": [
+    "Nuevos antibióticos",
+    "Vacunación de peces",
+    "El aumento de la temperatura del océano por el cambio climático",
+    "Menor consumo de mariscos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El calentamiento del mar permite que V. vulnificus llegue a aguas más al norte, aumentando las infecciones.",
+   "shortExplanation": "Mares más cálidos.",
+   "pmid": "32119291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rising ocean temperatures have allowed the organism to extend its range into more northern waters",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083695-1-en",
+   "translationKey": "micro-29083695-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Where is Vibrio parahaemolyticus a common cause of bacterial gastroenteritis?",
+   "options": [
+    "Asia, especially Japan",
+    "Antarctica",
+    "The Sahara",
+    "Northern Canada only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "V. parahaemolyticus, linked to raw seafood, is a common cause of gastroenteritis in Asia, especially Japan.",
+   "shortExplanation": "Asia (Japan).",
+   "pmid": "29083695",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it is a common cause of bacterial gastroenteritis in Asia, specifically in Japan",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083695-1-es",
+   "translationKey": "micro-29083695-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde es Vibrio parahaemolyticus una causa frecuente de gastroenteritis bacteriana?",
+   "options": [
+    "Asia, sobre todo Japón",
+    "Antártida",
+    "El Sahara",
+    "Solo el norte de Canadá"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "V. parahaemolyticus, ligado a mariscos crudos, es causa frecuente de gastroenteritis en Asia, sobre todo en Japón.",
+   "shortExplanation": "Asia (Japón).",
+   "pmid": "29083695",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it is a common cause of bacterial gastroenteritis in Asia, specifically in Japan",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34283489-1-en",
+   "translationKey": "micro-34283489-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which statement about Stenotrophomonas maltophilia is correct?",
+   "options": [
+    "It causes common colds in children",
+    "It is a gram-positive coccus",
+    "It is a mosquito-borne virus",
+    "It is a multidrug-resistant opportunistic gram-negative bacillus in hospitals"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "S. maltophilia is an emerging multidrug-resistant gram-negative bacillus causing serious infections in immunocompromised patients.",
+   "shortExplanation": "MDR opportunistic GNB.",
+   "pmid": "34283489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is widely known as an opportunistic organism associated with high morbidity and mortality rates among immunocompromised patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34283489-1-es",
+   "translationKey": "micro-34283489-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué afirmación sobre Stenotrophomonas maltophilia es correcta?",
+   "options": [
+    "Causa resfríos en niños",
+    "Es un coco grampositivo",
+    "Es un virus transmitido por mosquitos",
+    "Es un bacilo gramnegativo oportunista y multirresistente en hospitales"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "S. maltophilia es un bacilo gramnegativo multirresistente emergente que causa infecciones graves en inmunocomprometidos.",
+   "shortExplanation": "BGN oportunista multirresistente.",
+   "pmid": "34283489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is widely known as an opportunistic organism associated with high morbidity and mortality rates among immunocompromised patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29763021-1-en",
+   "translationKey": "micro-29763021-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What characterizes Lemierre syndrome?",
+   "options": [
+    "Bacterial meningitis in newborns",
+    "Septic thrombophlebitis of the internal jugular vein after pharyngitis",
+    "Hepatitis after travel",
+    "Pneumonia from Legionella"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Lemierre syndrome: oropharyngeal infection spreading to septic thrombophlebitis of the internal jugular vein with anaerobic septicemia (classically Fusobacterium).",
+   "shortExplanation": "Jugular septic thrombophlebitis.",
+   "pmid": "29763021",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "septic thrombophlebitis of the internal jugular vein(s)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29763021-1-es",
+   "translationKey": "micro-29763021-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué caracteriza al síndrome de Lemierre?",
+   "options": [
+    "Meningitis bacteriana neonatal",
+    "Tromboflebitis séptica de la vena yugular interna tras una faringitis",
+    "Hepatitis tras un viaje",
+    "Neumonía por Legionella"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Síndrome de Lemierre: infección orofaríngea que se extiende a tromboflebitis séptica de la yugular interna con septicemia anaerobia (clásicamente Fusobacterium).",
+   "shortExplanation": "Tromboflebitis yugular.",
+   "pmid": "29763021",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "septic thrombophlebitis of the internal jugular vein(s)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28722966-1-en",
+   "translationKey": "micro-28722966-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which organism causes Whipple disease?",
+   "options": [
+    "Helicobacter pylori",
+    "Giardia duodenalis",
+    "Mycobacterium avium",
+    "Tropheryma whipplei"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Whipple disease is a systemic infection by the gram-positive Tropheryma whipplei, causing malabsorption, arthralgia and more.",
+   "shortExplanation": "Tropheryma whipplei.",
+   "pmid": "28722966",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Whipple disease is caused by a gram-positive bacteria, Tropheryma whippelii",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28722966-1-es",
+   "translationKey": "micro-28722966-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué organismo causa la enfermedad de Whipple?",
+   "options": [
+    "Helicobacter pylori",
+    "Giardia duodenalis",
+    "Mycobacterium avium",
+    "Tropheryma whipplei"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La enfermedad de Whipple es una infección sistémica por el grampositivo Tropheryma whipplei, con malabsorción, artralgias y más.",
+   "shortExplanation": "Tropheryma whipplei.",
+   "pmid": "28722966",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Whipple disease is caused by a gram-positive bacteria, Tropheryma whippelii",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613631-1-en",
+   "translationKey": "micro-28613631-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What is the most severe and common rickettsial infection in the Americas?",
+   "options": [
+    "Scrub typhus",
+    "Q fever",
+    "Rocky Mountain spotted fever",
+    "Epidemic typhus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Rocky Mountain spotted fever (Rickettsia rickettsii, tick-borne) is the most severe and common rickettsiosis in the Americas.",
+   "shortExplanation": "RMSF.",
+   "pmid": "28613631",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "RMSF is the most severe and most common rickettsial infection in the Americas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613631-1-es",
+   "translationKey": "micro-28613631-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es la rickettsiosis más grave y frecuente de América?",
+   "options": [
+    "Tifus de los matorrales",
+    "Fiebre Q",
+    "Fiebre manchada de las Montañas Rocosas",
+    "Tifus epidémico"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La fiebre manchada (Rickettsia rickettsii, por garrapatas) es la rickettsiosis más grave y frecuente de América.",
+   "shortExplanation": "Fiebre manchada.",
+   "pmid": "28613631",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "RMSF is the most severe and most common rickettsial infection in the Americas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613631-2-en",
+   "translationKey": "micro-28613631-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Why should treatment start empirically when Rocky Mountain spotted fever is suspected?",
+   "options": [
+    "Delayed treatment is strongly linked to severe disease and death, and lab confirmation is often unavailable early",
+    "The disease always resolves alone",
+    "Antibiotics don't work after confirmation",
+    "Tests are always positive on day 1"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Lab confirmation is rarely available in the first week; delays in doxycycline increase severity and death.",
+   "shortExplanation": "Delay kills.",
+   "pmid": "28613631",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Delayed treatment, particularly in RMSF, is strongly associated with severe disease and death",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613631-2-es",
+   "translationKey": "micro-28613631-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Por qué el tratamiento debe iniciarse empíricamente ante sospecha de fiebre manchada?",
+   "options": [
+    "El retraso se asocia fuertemente a enfermedad grave y muerte, y la confirmación suele no estar disponible al inicio",
+    "Siempre se resuelve sola",
+    "Los antibióticos no sirven tras confirmar",
+    "Las pruebas siempre son positivas el día 1"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La confirmación rara vez está disponible en la primera semana; demorar la doxiciclina aumenta la gravedad y la muerte.",
+   "shortExplanation": "La demora mata.",
+   "pmid": "28613631",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Delayed treatment, particularly in RMSF, is strongly associated with severe disease and death",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28722995-1-en",
+   "translationKey": "micro-28722995-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is the treatment of choice for ehrlichiosis?",
+   "options": [
+    "Penicillin",
+    "Doxycycline, started without waiting for confirmation",
+    "Fluconazole",
+    "Vancomycin"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Doxycycline improves outcomes in ehrlichiosis and other rickettsial diseases; don't delay for lab results.",
+   "shortExplanation": "Doxycycline.",
+   "pmid": "28722995",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prompt administration of doxycycline significantly improves outcomes, and treatment should not be delayed pending diagnostic confirmation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28722995-1-es",
+   "translationKey": "micro-28722995-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es el tratamiento de elección de la ehrlichiosis?",
+   "options": [
+    "Penicilina",
+    "Doxiciclina, sin esperar la confirmación",
+    "Fluconazol",
+    "Vancomicina"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La doxiciclina mejora el pronóstico de la ehrlichiosis y otras rickettsiosis; no hay que demorarla por los resultados.",
+   "shortExplanation": "Doxiciclina.",
+   "pmid": "28722995",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prompt administration of doxycycline significantly improves outcomes, and treatment should not be delayed pending diagnostic confirmation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28722942-1-en",
+   "translationKey": "micro-28722942-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which organisms cause relapsing fever?",
+   "options": [
+    "Rickettsia species",
+    "Plasmodium species",
+    "Borrelia spirochetes",
+    "Leptospira species"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Relapsing fever is caused by Borrelia spirochetes transmitted by ticks (TBRF) or lice (LBRF).",
+   "shortExplanation": "Borrelia.",
+   "pmid": "28722942",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by various spirochetes belonging to Borrelia species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28722942-1-es",
+   "translationKey": "micro-28722942-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué organismos causan la fiebre recurrente?",
+   "options": [
+    "Especies de Rickettsia",
+    "Especies de Plasmodium",
+    "Espiroquetas del género Borrelia",
+    "Especies de Leptospira"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La fiebre recurrente la causan espiroquetas Borrelia transmitidas por garrapatas (FRTG) o piojos (FRTP).",
+   "shortExplanation": "Borrelia.",
+   "pmid": "28722942",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by various spirochetes belonging to Borrelia species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31613470-1-en",
+   "translationKey": "micro-31613470-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Kingella kingae is an important cause of what in young children?",
+   "options": [
+    "Urinary tract infection in teenagers",
+    "Pneumonia in the elderly",
+    "Meningitis in newborns",
+    "Bacteremia and bone/joint infections in children 6–48 months"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Improved diagnostics show K. kingae is a major cause of bacteremia and osteoarticular infection at 6–48 months.",
+   "shortExplanation": "Bone and joint infections in toddlers.",
+   "pmid": "31613470",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Kingella kingae is now considered a significant cause of pediatric bacteremia and bone infections in children aged 6 to 48 months",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31613470-1-es",
+   "translationKey": "micro-31613470-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿De qué es causa importante Kingella kingae en niños pequeños?",
+   "options": [
+    "Infección urinaria en adolescentes",
+    "Neumonía en ancianos",
+    "Meningitis en neonatos",
+    "Bacteriemia e infecciones osteoarticulares de 6 a 48 meses"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Con mejores técnicas diagnósticas, K. kingae resultó causa importante de bacteriemia e infección osteoarticular de 6 a 48 meses.",
+   "shortExplanation": "Infecciones osteoarticulares infantiles.",
+   "pmid": "31613470",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Kingella kingae is now considered a significant cause of pediatric bacteremia and bone infections in children aged 6 to 48 months",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29763012-1-en",
+   "translationKey": "micro-29763012-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which presentation is characteristic of Yersinia enterocolitica infection?",
+   "options": [
+    "Pseudoappendicitis from mesenteric adenitis and terminal ileitis",
+    "Painless genital ulcer",
+    "Facial palsy",
+    "Bloody urine"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Y. enterocolitica causes diarrhea, mesenteric adenitis and terminal ileitis that can mimic appendicitis.",
+   "shortExplanation": "Pseudoappendicitis.",
+   "pmid": "29763012",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The infection is manifested as acute diarrhea, mesenteric adenitis, terminal ileitis, and pseudoappendicitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29763012-1-es",
+   "translationKey": "micro-29763012-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué presentación es característica de la infección por Yersinia enterocolitica?",
+   "options": [
+    "Seudoapendicitis por adenitis mesentérica e ileítis terminal",
+    "Úlcera genital indolora",
+    "Parálisis facial",
+    "Orina con sangre"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Y. enterocolitica causa diarrea, adenitis mesentérica e ileítis terminal que pueden simular una apendicitis.",
+   "shortExplanation": "Seudoapendicitis.",
+   "pmid": "29763012",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The infection is manifested as acute diarrhea, mesenteric adenitis, terminal ileitis, and pseudoappendicitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29763012-2-en",
+   "translationKey": "micro-29763012-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Besides contaminated food, how can Yersinia enterocolitica be transmitted?",
+   "options": [
+    "Mosquito bites",
+    "Sexual contact",
+    "Blood transfusion",
+    "Inhaled spores"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Yersinia can grow at refrigeration temperatures, so contaminated stored blood can transmit it.",
+   "shortExplanation": "Blood transfusion.",
+   "pmid": "29763012",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Humans acquire Yersinia after consumption of contaminated food, as well as a blood transfusion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29763012-2-es",
+   "translationKey": "micro-29763012-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Además de alimentos contaminados, ¿cómo puede transmitirse Yersinia enterocolitica?",
+   "options": [
+    "Picaduras de mosquito",
+    "Contacto sexual",
+    "Transfusión de sangre",
+    "Esporas inhaladas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Yersinia puede crecer a temperatura de heladera, por eso la sangre almacenada contaminada puede transmitirla.",
+   "shortExplanation": "Transfusión.",
+   "pmid": "29763012",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Humans acquire Yersinia after consumption of contaminated food, as well as a blood transfusion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020713-1-en",
+   "translationKey": "micro-30020713-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which ticks transmit Anaplasma phagocytophilum (and Lyme disease)?",
+   "options": [
+    "Aedes",
+    "Ixodes",
+    "Anopheles",
+    "Culex"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Ixodes ticks transmit anaplasmosis, Lyme disease, babesiosis and more, so co-infections occur.",
+   "shortExplanation": "Ixodes.",
+   "pmid": "30020713",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is transmitted by Ixodes scapularis in the northeast United States",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020713-1-es",
+   "translationKey": "micro-30020713-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué garrapatas transmiten Anaplasma phagocytophilum (y la enfermedad de Lyme)?",
+   "options": [
+    "Aedes",
+    "Ixodes",
+    "Anopheles",
+    "Culex"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las garrapatas Ixodes transmiten anaplasmosis, Lyme, babesiosis y más, por eso hay coinfecciones.",
+   "shortExplanation": "Ixodes.",
+   "pmid": "30020713",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is transmitted by Ixodes scapularis in the northeast United States",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083673-1-en",
+   "translationKey": "micro-29083673-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What does botulism cause?",
+   "options": [
+    "Flaccid (limp) paralysis",
+    "Spastic muscle rigidity",
+    "Skin rash only",
+    "Kidney stones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Botulinum neurotoxin blocks acetylcholine release, causing descending flaccid paralysis — unlike tetanus, which causes rigidity.",
+   "shortExplanation": "Flaccid paralysis.",
+   "pmid": "29083673",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Botulism is a rare but potentially fatal syndrome of diffuse, flaccid paralysis caused by botulinum neurotoxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083673-1-es",
+   "translationKey": "micro-29083673-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué causa el botulismo?",
+   "options": [
+    "Parálisis flácida",
+    "Rigidez muscular espástica",
+    "Solo exantema",
+    "Cálculos renales"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La neurotoxina botulínica bloquea la liberación de acetilcolina y causa parálisis flácida descendente, a diferencia del tétanos, que causa rigidez.",
+   "shortExplanation": "Parálisis flácida.",
+   "pmid": "29083673",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Botulism is a rare but potentially fatal syndrome of diffuse, flaccid paralysis caused by botulinum neurotoxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083673-2-en",
+   "translationKey": "micro-29083673-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which substance is considered the most potent poison known?",
+   "options": [
+    "Cyanide",
+    "Snake venom",
+    "Arsenic",
+    "Botulinum neurotoxin"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Botulinum neurotoxin is the most potent known poison and a bioterrorism concern.",
+   "shortExplanation": "Botulinum toxin.",
+   "pmid": "29083673",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "BoNT, the most potent poison known to man",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083673-2-es",
+   "translationKey": "micro-29083673-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué sustancia se considera el veneno más potente conocido?",
+   "options": [
+    "Cianuro",
+    "Veneno de serpiente",
+    "Arsénico",
+    "Toxina botulínica"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La neurotoxina botulínica es el veneno más potente conocido y una preocupación de bioterrorismo.",
+   "shortExplanation": "Toxina botulínica.",
+   "pmid": "29083673",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "BoNT, the most potent poison known to man",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083673-3-en",
+   "translationKey": "micro-29083673-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What is the main specific treatment of botulism?",
+   "options": [
+    "Antibiotics alone cure it",
+    "A vaccine after symptoms",
+    "Polyvalent antitoxin plus supportive care (often ventilation)",
+    "Insulin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Antitoxin limits progression but doesn't reverse paralysis; patients may need weeks of mechanical ventilation.",
+   "shortExplanation": "Antitoxin + support.",
+   "pmid": "29083673",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The administration of polyvalent antitoxin to BoNT mitigates the clinical course of botulism. However, no true antidote exists",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083673-3-es",
+   "translationKey": "micro-29083673-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es el tratamiento específico principal del botulismo?",
+   "options": [
+    "Solo antibióticos",
+    "Una vacuna tras los síntomas",
+    "Antitoxina polivalente más medidas de sostén (a menudo ventilación)",
+    "Insulina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La antitoxina limita la progresión pero no revierte la parálisis; puede requerirse ventilación mecánica por semanas.",
+   "shortExplanation": "Antitoxina + sostén.",
+   "pmid": "29083673",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The administration of polyvalent antitoxin to BoNT mitigates the clinical course of botulism. However, no true antidote exists",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644327-1-en",
+   "translationKey": "micro-32644327-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How is scrub typhus (Orientia tsutsugamushi) transmitted?",
+   "options": [
+    "Body lice",
+    "Larval trombiculid mites (chiggers)",
+    "Fleas from rats",
+    "Mosquitoes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Scrub typhus is transmitted by larval trombiculid mites, often leaving a black eschar at the bite site.",
+   "shortExplanation": "Chiggers.",
+   "pmid": "32644327",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The infection is transmitted to humans through the bite of larval trombiculid mites",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644327-1-es",
+   "translationKey": "micro-32644327-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se transmite el tifus de los matorrales (Orientia tsutsugamushi)?",
+   "options": [
+    "Piojos corporales",
+    "Larvas de ácaros trombicúlidos",
+    "Pulgas de rata",
+    "Mosquitos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El tifus de los matorrales lo transmiten larvas de ácaros trombicúlidos y suele dejar una escara negra en la picadura.",
+   "shortExplanation": "Larvas de ácaros.",
+   "pmid": "32644327",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The infection is transmitted to humans through the bite of larval trombiculid mites",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846313-1-en",
+   "translationKey": "micro-28846313-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How is epidemic typhus (Rickettsia prowazekii) transmitted?",
+   "options": [
+    "By ticks",
+    "By mosquitoes",
+    "By the human body louse",
+    "By contaminated water"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Epidemic typhus spreads by body lice, typically in war, disasters, refugee camps and overcrowding; murine typhus is flea-borne.",
+   "shortExplanation": "Body louse.",
+   "pmid": "28846313",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Epidemic typhus is spread by the human body louse",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846313-1-es",
+   "translationKey": "micro-28846313-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se transmite el tifus epidémico (Rickettsia prowazekii)?",
+   "options": [
+    "Por garrapatas",
+    "Por mosquitos",
+    "Por el piojo corporal humano",
+    "Por agua contaminada"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El tifus epidémico lo transmite el piojo corporal, típicamente en guerras, desastres, campos de refugiados y hacinamiento; el murino, las pulgas.",
+   "shortExplanation": "Piojo corporal.",
+   "pmid": "28846313",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Epidemic typhus is spread by the human body louse",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846313-2-en",
+   "translationKey": "micro-28846313-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Murine typhus is transmitted mainly by…",
+   "options": [
+    "Fleas, with rodents as reservoirs",
+    "Body lice",
+    "Ticks only",
+    "Sandflies"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Murine typhus (Rickettsia typhi) is flea-borne and maintained in rodents.",
+   "shortExplanation": "Fleas.",
+   "pmid": "28846313",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Murine typhus is a flea-borne zoonosis maintained primarily in rodents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846313-2-es",
+   "translationKey": "micro-28846313-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "El tifus murino se transmite principalmente por…",
+   "options": [
+    "Pulgas, con roedores como reservorio",
+    "Piojos corporales",
+    "Solo garrapatas",
+    "Flebótomos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El tifus murino (Rickettsia typhi) se transmite por pulgas y se mantiene en roedores.",
+   "shortExplanation": "Pulgas.",
+   "pmid": "28846313",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Murine typhus is a flea-borne zoonosis maintained primarily in rodents",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
