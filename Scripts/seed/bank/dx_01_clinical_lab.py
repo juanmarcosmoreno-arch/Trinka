@@ -127,7 +127,7 @@ Q = [
   "La mediana bajó solo 6 minutos, por debajo de los 15 minutos considerados clínicamente relevantes.", "Unos 6 minutos.")),
 
 # --- Errors in a stat laboratory (17525103)
-("17525103", "curious", 0, "61.9% were preanalytical errors, 15% were analytical, and 23.1% were postanalytical",
+("17525103", "beginner", 0, "61.9% were preanalytical errors, 15% were analytical, and 23.1% were postanalytical",
  ("In the Padua stat laboratory study, in which phase of testing did most confirmed laboratory errors occur?", ["Preanalytical", "Analytical", "Postanalytical", "Equally in all phases"],
   "About 62% of errors were preanalytical, 23% postanalytical and only 15% analytical.", "Preanalytical."),
  ("En el estudio del laboratorio de urgencias de Padua, ¿en qué fase del proceso ocurrieron la mayoría de los errores confirmados?", ["Preanalítica", "Analítica", "Posanalítica", "Igual en todas las fases"],
@@ -177,7 +177,7 @@ Q = [
   "La esterasa leucocitaria, incluyendo trazas, tuvo una sensibilidad de 0,87 y fue el mejor marcador para descartar.", "Leucocitos.")),
 
 # --- MALDI-TOF routine identification (19583519)
-("19583519", "curious", 0, "The mean time required for MALDI-TOF mass spectrometry identification of 1 isolate was 6 minutes",
+("19583519", "beginner", 0, "The mean time required for MALDI-TOF mass spectrometry identification of 1 isolate was 6 minutes",
  ("In the Marseille study of routine MALDI-TOF identification, how long did identifying one bacterial isolate take on average?", ["About 6 minutes", "About 12 hours", "About 2 days", "About 2 weeks"],
   "MALDI-TOF identified an isolate in about 6 minutes at 22–32% of the cost of conventional methods.", "6 minutes."),
  ("En el estudio de Marsella sobre identificación rutinaria por MALDI-TOF, ¿cuánto tardó en promedio identificar un aislamiento bacteriano?", ["Unos 6 minutos", "Unas 6 horas", "Unos 2 días", "Unas 2 semanas"],
