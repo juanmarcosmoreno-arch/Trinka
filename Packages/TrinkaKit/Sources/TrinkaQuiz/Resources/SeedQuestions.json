@@ -1,5 +1,5 @@
 {
- "version": 23,
+ "version": 24,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -3044,6 +3044,424 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK554372"
+  },
+  {
+   "pmid": "9237759",
+   "title": "A human homologue of the Drosophila Toll protein signals activation of adaptive immunity.",
+   "authors": [
+    "Medzhitov R",
+    "Preston-Hurlburt P",
+    "Janeway CA"
+   ],
+   "journal": "Nature",
+   "year": 1997,
+   "doi": "10.1038/41131",
+   "abstract": "Induction of the adaptive immune response depends on the expression of co-stimulatory molecules and cytokines by antigen-presenting cells. The mechanisms that control the initial induction of these signals upon infection are poorly understood. It has been proposed that their expression is controlled by the non-clonal, or innate, component of immunity that preceded in evolution the development of an adaptive immune system in vertebrates. We report here the cloning and characterization of a human homologue of the Drosophila toll protein (Toll) which has been shown to induce the innate immune response in adult Drosophila. Like Drosophila Toll, human Toll is a type I transmembrane protein with an extracellular domain consisting of a leucine-rich repeat (LRR) domain, and a cytoplasmic domain homologous to the cytoplasmic domain of the human interleukin (IL)-1 receptor. Both Drosophila Toll and the IL-1 receptor are known to signal through the NF-kappaB pathway. We show that a constitutively active mutant of human Toll transfected into human cell lines can induce the activation of NF-kappaB and the expression of NF-kappaB-controlled genes for the inflammatory cytokines IL-1, IL-6 and IL-8, as well as the expression of the co-stimulatory molecule B7.1, which is required for the activation of naive T cells.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9851930",
+   "title": "Defective LPS signaling in C3H/HeJ and C57BL/10ScCr mice: mutations in Tlr4 gene.",
+   "authors": [
+    "Poltorak A",
+    "He X",
+    "Smirnova I",
+    "Liu MY",
+    "Van Huffel C",
+    "Du X",
+    "Birdwell D",
+    "Alejos E",
+    "Silva M",
+    "Galanos C",
+    "Freudenberg M",
+    "Ricciardi-Castagnoli P",
+    "Layton B",
+    "Beutler B"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 1998,
+   "doi": "10.1126/science.282.5396.2085",
+   "abstract": "Mutations of the gene Lps selectively impede lipopolysaccharide (LPS) signal transduction in C3H/HeJ and C57BL/10ScCr mice, rendering them resistant to endotoxin yet highly susceptible to Gram-negative infection. The codominant Lpsd allele of C3H/HeJ mice was shown to correspond to a missense mutation in the third exon of the Toll-like receptor-4 gene (Tlr4), predicted to replace proline with histidine at position 712 of the polypeptide chain. C57BL/10ScCr mice are homozygous for a null mutation of Tlr4. Thus, the mammalian Tlr4 protein has been adapted primarily to subserve the recognition of LPS and presumably transduces the LPS signal across the plasma membrane. Destructive mutations of Tlr4 predispose to the development of Gram-negative sepsis, leaving most aspects of immune function intact.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12612578",
+   "title": "Foxp3 programs the development and function of CD4+CD25+ regulatory T cells.",
+   "authors": [
+    "Fontenot JD",
+    "Gavin MA",
+    "Rudensky AY"
+   ],
+   "journal": "Nature immunology",
+   "year": 2003,
+   "doi": "10.1038/ni904",
+   "abstract": "CD4+CD25+ regulatory T cells are essential for the active suppression of autoimmunity. Here we report that the forkhead transcription factor Foxp3 is specifically expressed in CD4+CD25+ regulatory T cells and is required for their development. The lethal autoimmune syndrome observed in Foxp3-mutant scurfy mice and Foxp3-null mice results from a CD4+CD25+ regulatory T cell deficiency and not from a cell-intrinsic defect of CD4+CD25- T cells. CD4+CD25+ regulatory T cells rescue disease development and preferentially expand when transferred into neonatal Foxp3-deficient mice. Furthermore, ectopic expression of Foxp3 confers suppressor function on peripheral CD4+CD25- T cells. Thus, Foxp3 is a critical regulator of CD4+CD25+ regulatory T cell development and function.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "12522256",
+   "title": "Control of regulatory T cell development by the transcription factor Foxp3.",
+   "authors": [
+    "Hori S",
+    "Nomura T",
+    "Sakaguchi S"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2003,
+   "doi": "10.1126/science.1079490",
+   "abstract": "Regulatory T cells engage in the maintenance of immunological self-tolerance by actively suppressing self-reactive lymphocytes. Little is known, however, about the molecular mechanism of their development. Here we show that Foxp3, which encodes a transcription factor that is genetically defective in an autoimmune and inflammatory syndrome in humans and mice, is specifically expressed in naturally arising CD4+ regulatory T cells. Furthermore, retroviral gene transfer of Foxp3 converts naïve T cells toward a regulatory T cell phenotype similar to that of naturally occurring CD4+ regulatory T cells. Thus, Foxp3 is a key regulatory gene for the development of regulatory T cells.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "2419430",
+   "title": "Two types of murine helper T cell clone. I. Definition according to profiles of lymphokine activities and secreted proteins.",
+   "authors": [
+    "Mosmann TR",
+    "Cherwinski H",
+    "Bond MW",
+    "Giedlin MA",
+    "Coffman RL"
+   ],
+   "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+   "year": 1986,
+   "doi": null,
+   "abstract": "A panel of antigen-specific mouse helper T cell clones was characterized according to patterns of lymphokine activity production, and two types of T cell were distinguished. Type 1 T helper cells (TH1) produced IL 2, interferon-gamma, GM-CSF, and IL 3 in response to antigen + presenting cells or to Con A, whereas type 2 helper T cells (TH2) produced IL 3, BSF1, and two other activities unique to the TH2 subset, a mast cell growth factor distinct from IL 3 and a T cell growth factor distinct from IL 2. Clones representing each type of T cell were characterized, and the pattern of lymphokine activities was consistent within each set. The secreted proteins induced by Con A were analyzed by biosynthetic labeling and SDS gel electrophoresis, and significant differences were seen between the two groups of T cell line. Both types of T cell grew in response to alternating cycles of antigen stimulation, followed by growth in IL 2-containing medium. Examples of both types of T cell were also specific for or restricted by the I region of the MHC, and the surface marker phenotype of the majority of both types was Ly-1+, Lyt-2-, L3T4+, Both types of helper T cell could provide help for B cells, but the nature of the help differed. TH1 cells were found among examples of T cell clones specific for chicken RBC and mouse alloantigens. TH2 cells were found among clones specific for mouse alloantigens, fowl gamma-globulin, and KLH. The relationship between these two types of T cells and previously described subsets of T helper cells is discussed.",
+   "publicationTypes": [
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "20525992",
+   "title": "Improved survival with ipilimumab in patients with metastatic melanoma.",
+   "authors": [
+    "Hodi FS",
+    "O'Day SJ",
+    "McDermott DF",
+    "Weber RW",
+    "Sosman JA",
+    "Haanen JB",
+    "Gonzalez R",
+    "Robert C",
+    "Schadendorf D",
+    "Hassel JC",
+    "Akerley W",
+    "van den Eertwegh AJ",
+    "Lutzky J",
+    "Lorigan P",
+    "Vaubel JM",
+    "Linette GP",
+    "Hogg D",
+    "Ottensmeier CH",
+    "Lebbé C",
+    "Peschel C",
+    "Quirt I",
+    "Clark JI",
+    "Wolchok JD",
+    "Weber JS",
+    "Tian J",
+    "Yellin MJ",
+    "Nichol GM",
+    "Hoos A",
+    "Urba WJ"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2010,
+   "doi": "10.1056/NEJMoa1003466",
+   "abstract": "BACKGROUND: An improvement in overall survival among patients with metastatic melanoma has been an elusive goal. In this phase 3 study, ipilimumab--which blocks cytotoxic T-lymphocyte-associated antigen 4 to potentiate an antitumor T-cell response--administered with or without a glycoprotein 100 (gp100) peptide vaccine was compared with gp100 alone in patients with previously treated metastatic melanoma.\nMETHODS: A total of 676 HLA-A*0201-positive patients with unresectable stage III or IV melanoma, whose disease had progressed while they were receiving therapy for metastatic disease, were randomly assigned, in a 3:1:1 ratio, to receive ipilimumab plus gp100 (403 patients), ipilimumab alone (137), or gp100 alone (136). Ipilimumab, at a dose of 3 mg per kilogram of body weight, was administered with or without gp100 every 3 weeks for up to four treatments (induction). Eligible patients could receive reinduction therapy. The primary end point was overall survival.\nRESULTS: The median overall survival was 10.0 months among patients receiving ipilimumab plus gp100, as compared with 6.4 months among patients receiving gp100 alone (hazard ratio for death, 0.68; P<0.001). The median overall survival with ipilimumab alone was 10.1 months (hazard ratio for death in the comparison with gp100 alone, 0.66; P=0.003). No difference in overall survival was detected between the ipilimumab groups (hazard ratio with ipilimumab plus gp100, 1.04; P=0.76). Grade 3 or 4 immune-related adverse events occurred in 10 to 15% of patients treated with ipilimumab and in 3% treated with gp100 alone. There were 14 deaths related to the study drugs (2.1%), and 7 were associated with immune-related adverse events.\nCONCLUSIONS: Ipilimumab, with or without a gp100 peptide vaccine, as compared with gp100 alone, improved overall survival in patients with previously treated metastatic melanoma. Adverse events can be severe, long-lasting, or both, but most are reversible with appropriate treatment. (Funded by Medarex and Bristol-Myers Squibb; ClinicalTrials.gov number, NCT00094653.)",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "22658127",
+   "title": "Safety, activity, and immune correlates of anti-PD-1 antibody in cancer.",
+   "authors": [
+    "Topalian SL",
+    "Hodi FS",
+    "Brahmer JR",
+    "Gettinger SN",
+    "Smith DC",
+    "McDermott DF",
+    "Powderly JD",
+    "Carvajal RD",
+    "Sosman JA",
+    "Atkins MB",
+    "Leming PD",
+    "Spigel DR",
+    "Antonia SJ",
+    "Horn L",
+    "Drake CG",
+    "Pardoll DM",
+    "Chen L",
+    "Sharfman WH",
+    "Anders RA",
+    "Taube JM",
+    "McMiller TL",
+    "Xu H",
+    "Korman AJ",
+    "Jure-Kunkel M",
+    "Agrawal S",
+    "McDonald D",
+    "Kollia GD",
+    "Gupta A",
+    "Wigginton JM",
+    "Sznol M"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2012,
+   "doi": "10.1056/NEJMoa1200690",
+   "abstract": "BACKGROUND: Blockade of programmed death 1 (PD-1), an inhibitory receptor expressed by T cells, can overcome immune resistance. We assessed the antitumor activity and safety of BMS-936558, an antibody that specifically blocks PD-1.\nMETHODS: We enrolled patients with advanced melanoma, non-small-cell lung cancer, castration-resistant prostate cancer, or renal-cell or colorectal cancer to receive anti-PD-1 antibody at a dose of 0.1 to 10.0 mg per kilogram of body weight every 2 weeks. Response was assessed after each 8-week treatment cycle. Patients received up to 12 cycles until disease progression or a complete response occurred.\nRESULTS: A total of 296 patients received treatment through February 24, 2012. Grade 3 or 4 drug-related adverse events occurred in 14% of patients; there were three deaths from pulmonary toxicity. No maximum tolerated dose was defined. Adverse events consistent with immune-related causes were observed. Among 236 patients in whom response could be evaluated, objective responses (complete or partial responses) were observed in those with non-small-cell lung cancer, melanoma, or renal-cell cancer. Cumulative response rates (all doses) were 18% among patients with non-small-cell lung cancer (14 of 76 patients), 28% among patients with melanoma (26 of 94 patients), and 27% among patients with renal-cell cancer (9 of 33 patients). Responses were durable; 20 of 31 responses lasted 1 year or more in patients with 1 year or more of follow-up. To assess the role of intratumoral PD-1 ligand (PD-L1) expression in the modulation of the PD-1-PD-L1 pathway, immunohistochemical analysis was performed on pretreatment tumor specimens obtained from 42 patients. Of 17 patients with PD-L1-negative tumors, none had an objective response; 9 of 25 patients (36%) with PD-L1-positive tumors had an objective response (P=0.006).\nCONCLUSIONS: Anti-PD-1 antibody produced objective responses in approximately one in four to one in five patients with non-small-cell lung cancer, melanoma, or renal-cell cancer; the adverse-event profile does not appear to preclude its use. Preliminary data suggest a relationship between PD-L1 expression on tumor cells and objective response. (Funded by Bristol-Myers Squibb and others; ClinicalTrials.gov number, NCT00730639.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23515080",
+   "title": "CD19-targeted T cells rapidly induce molecular remissions in adults with chemotherapy-refractory acute lymphoblastic leukemia.",
+   "authors": [
+    "Brentjens RJ",
+    "Davila ML",
+    "Riviere I",
+    "Park J",
+    "Wang X",
+    "Cowell LG",
+    "Bartido S",
+    "Stefanski J",
+    "Taylor C",
+    "Olszewska M",
+    "Borquez-Ojeda O",
+    "Qu J",
+    "Wasielewska T",
+    "He Q",
+    "Bernal Y",
+    "Rijo IV",
+    "Hedvat C",
+    "Kobos R",
+    "Curran K",
+    "Steinherz P",
+    "Jurcic J",
+    "Rosenblat T",
+    "Maslak P",
+    "Frattini M",
+    "Sadelain M"
+   ],
+   "journal": "Science translational medicine",
+   "year": 2013,
+   "doi": "10.1126/scitranslmed.3005930",
+   "abstract": "Adults with relapsed B cell acute lymphoblastic leukemia (B-ALL) have a dismal prognosis. Only those patients able to achieve a second remission with no minimal residual disease (MRD) have a hope for long-term survival in the context of a subsequent allogeneic hematopoietic stem cell transplantation (allo-HSCT). We have treated five relapsed B-ALL subjects with autologous T cells expressing a CD19-specific CD28/CD3ζ second-generation dual-signaling chimeric antigen receptor (CAR) termed 19-28z. All patients with persistent morphological disease or MRD(+) disease upon T cell infusion demonstrated rapid tumor eradication and achieved MRD(-) complete remissions as assessed by deep sequencing polymerase chain reaction. Therapy was well tolerated, although significant cytokine elevations, specifically observed in those patients with morphologic evidence of disease at the time of treatment, required lymphotoxic steroid therapy to ameliorate cytokine-mediated toxicities. Indeed, cytokine elevations directly correlated to tumor burden at the time of CAR-modified T cell infusions. Tumor cells from one patient with relapsed disease after CAR-modified T cell therapy, who was ineligible for additional allo-HSCT or T cell therapy, exhibited persistent expression of CD19 and sensitivity to autologous 19-28z T cell-mediated cytotoxicity, which suggests potential clinical benefit of additional CAR-modified T cell infusions. These results demonstrate the marked antitumor efficacy of 19-28z CAR-modified T cells in patients with relapsed/refractory B-ALL and the reliability of this therapy to induce profound molecular remissions, forming a highly effective bridge to potentially curative therapy with subsequent allo-HSCT.",
+   "publicationTypes": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35110735",
+   "title": "Decade-long leukaemia remissions with persistence of CD4+ CAR T cells.",
+   "authors": [
+    "Melenhorst JJ",
+    "Chen GM",
+    "Wang M",
+    "Porter DL",
+    "Chen C",
+    "Collins MA",
+    "Gao P",
+    "Bandyopadhyay S",
+    "Sun H",
+    "Zhao Z",
+    "Lundh S",
+    "Pruteanu-Malinici I",
+    "Nobles CL",
+    "Maji S",
+    "Frey NV",
+    "Gill SI",
+    "Loren AW",
+    "Tian L",
+    "Kulikovskaya I",
+    "Gupta M",
+    "Ambrose DE",
+    "Davis MM",
+    "Fraietta JA",
+    "Brogdon JL",
+    "Young RM",
+    "Chew A",
+    "Levine BL",
+    "Siegel DL",
+    "Alanio C",
+    "Wherry EJ",
+    "Bushman FD",
+    "Lacey SF",
+    "Tan K",
+    "June CH"
+   ],
+   "journal": "Nature",
+   "year": 2022,
+   "doi": "10.1038/s41586-021-04390-6",
+   "abstract": "The adoptive transfer of T lymphocytes reprogrammed to target tumour cells has demonstrated potential for treatment of various cancers1-7. However, little is known about the long-term potential and clonal stability of the infused cells. Here we studied long-lasting CD19-redirected chimeric antigen receptor (CAR) T cells in two patients with chronic lymphocytic leukaemia1-4 who achieved a complete remission in 2010. CAR T cells remained detectable more than ten years after infusion, with sustained remission in both patients. Notably, a highly activated CD4+ population emerged in both patients, dominating the CAR T cell population at the later time points. This transition was reflected in the stabilization of the clonal make-up of CAR T cells with a repertoire dominated by a small number of clones. Single-cell profiling demonstrated that these long-persisting CD4+ CAR T cells exhibited cytotoxic characteristics along with ongoing functional activation and proliferation. In addition, longitudinal profiling revealed a population of gamma delta CAR T cells that prominently expanded in one patient concomitant with CD8+ CAR T cells during the initial response phase. Our identification and characterization of these unexpected CAR T cell populations provide novel insight into the CAR T cell characteristics associated with anti-cancer response and long-term remission in leukaemia.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "25705822",
+   "title": "Randomized trial of peanut consumption in infants at risk for peanut allergy.",
+   "authors": [
+    "Du Toit G",
+    "Roberts G",
+    "Sayre PH",
+    "Bahnson HT",
+    "Radulovic S",
+    "Santos AF",
+    "Brough HA",
+    "Phippard D",
+    "Basting M",
+    "Feeney M",
+    "Turcanu V",
+    "Sever ML",
+    "Gomez Lorenzo M",
+    "Plaut M",
+    "Lack G",
+    "LEAP Study Team"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2015,
+   "doi": "10.1056/NEJMoa1414850",
+   "abstract": "BACKGROUND: The prevalence of peanut allergy among children in Western countries has doubled in the past 10 years, and peanut allergy is becoming apparent in Africa and Asia. We evaluated strategies of peanut consumption and avoidance to determine which strategy is most effective in preventing the development of peanut allergy in infants at high risk for the allergy.\nMETHODS: We randomly assigned 640 infants with severe eczema, egg allergy, or both to consume or avoid peanuts until 60 months of age. Participants, who were at least 4 months but younger than 11 months of age at randomization, were assigned to separate study cohorts on the basis of preexisting sensitivity to peanut extract, which was determined with the use of a skin-prick test--one consisting of participants with no measurable wheal after testing and the other consisting of those with a wheal measuring 1 to 4 mm in diameter. The primary outcome, which was assessed independently in each cohort, was the proportion of participants with peanut allergy at 60 months of age.\nRESULTS: Among the 530 infants in the intention-to-treat population who initially had negative results on the skin-prick test, the prevalence of peanut allergy at 60 months of age was 13.7% in the avoidance group and 1.9% in the consumption group (P<0.001). Among the 98 participants in the intention-to-treat population who initially had positive test results, the prevalence of peanut allergy was 35.3% in the avoidance group and 10.6% in the consumption group (P=0.004). There was no significant between-group difference in the incidence of serious adverse events. Increases in levels of peanut-specific IgG4 antibody occurred predominantly in the consumption group; a greater percentage of participants in the avoidance group had elevated titers of peanut-specific IgE antibody. A larger wheal on the skin-prick test and a lower ratio of peanut-specific IgG4:IgE were associated with peanut allergy.\nCONCLUSIONS: The early introduction of peanuts significantly decreased the frequency of the development of peanut allergy among children at high risk for this allergy and modulated immune responses to peanuts. (Funded by the National Institute of Allergy and Infectious Diseases and others; ClinicalTrials.gov number, NCT00329784.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27518660",
+   "title": "Innate Immunity and Asthma Risk in Amish and Hutterite Farm Children.",
+   "authors": [
+    "Stein MM",
+    "Hrusch CL",
+    "Gozdz J",
+    "Igartua C",
+    "Pivniouk V",
+    "Murray SE",
+    "Ledford JG",
+    "Marques Dos Santos M",
+    "Anderson RL",
+    "Metwali N",
+    "Neilson JW",
+    "Maier RM",
+    "Gilbert JA",
+    "Holbreich M",
+    "Thorne PS",
+    "Martinez FD",
+    "von Mutius E",
+    "Vercelli D",
+    "Ober C",
+    "Sperling AI"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2016,
+   "doi": "10.1056/NEJMoa1508749",
+   "abstract": "BACKGROUND: The Amish and Hutterites are U.S. agricultural populations whose lifestyles are remarkably similar in many respects but whose farming practices, in particular, are distinct; the former follow traditional farming practices whereas the latter use industrialized farming practices. The populations also show striking disparities in the prevalence of asthma, and little is known about the immune responses underlying these disparities.\nMETHODS: We studied environmental exposures, genetic ancestry, and immune profiles among 60 Amish and Hutterite children, measuring levels of allergens and endotoxins and assessing the microbiome composition of indoor dust samples. Whole blood was collected to measure serum IgE levels, cytokine responses, and gene expression, and peripheral-blood leukocytes were phenotyped with flow cytometry. The effects of dust extracts obtained from Amish and Hutterite homes on immune and airway responses were assessed in a murine model of experimental allergic asthma.\nRESULTS: Despite the similar genetic ancestries and lifestyles of Amish and Hutterite children, the prevalence of asthma and allergic sensitization was 4 and 6 times as low in the Amish, whereas median endotoxin levels in Amish house dust was 6.8 times as high. Differences in microbial composition were also observed in dust samples from Amish and Hutterite homes. Profound differences in the proportions, phenotypes, and functions of innate immune cells were also found between the two groups of children. In a mouse model of experimental allergic asthma, the intranasal instillation of dust extracts from Amish but not Hutterite homes significantly inhibited airway hyperreactivity and eosinophilia. These protective effects were abrogated in mice that were deficient in MyD88 and Trif, molecules that are critical in innate immune signaling.\nCONCLUSIONS: The results of our studies in humans and mice indicate that the Amish environment provides protection against asthma by engaging and shaping the innate immune response. (Funded by the National Institutes of Health and others.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36791160",
+   "title": "Respiratory Syncytial Virus Prefusion F Protein Vaccine in Older Adults.",
+   "authors": [
+    "Papi A",
+    "Ison MG",
+    "Langley JM",
+    "Lee DG",
+    "Leroux-Roels I",
+    "Martinon-Torres F",
+    "Schwarz TF",
+    "van Zyl-Smit RN",
+    "Campora L",
+    "Dezutter N",
+    "de Schrevel N",
+    "Fissette L",
+    "David MP",
+    "Van der Wielen M",
+    "Kostanyan L",
+    "Hulstrøm V",
+    "AReSVi-006 Study Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2023,
+   "doi": "10.1056/NEJMoa2209604",
+   "abstract": "BACKGROUND: Respiratory syncytial virus (RSV) is an important cause of acute respiratory infection, lower respiratory tract disease, clinical complications, and death in older adults. There is currently no licensed vaccine against RSV infection.\nMETHODS: In an ongoing, international, placebo-controlled, phase 3 trial, we randomly assigned, in a 1:1 ratio, adults 60 years of age or older to receive a single dose of an AS01E-adjuvanted RSV prefusion F protein-based candidate vaccine (RSVPreF3 OA) or placebo before the RSV season. The primary objective was to show vaccine efficacy of one dose of the RSVPreF3 OA vaccine against RSV-related lower respiratory tract disease, confirmed by reverse-transcriptase polymerase chain reaction (RT-PCR), during one RSV season. The criterion for meeting the primary objective was a lower limit of the confidence interval around the efficacy estimate of more than 20%. Efficacy against severe RSV-related lower respiratory tract disease and RSV-related acute respiratory infection was assessed, and analyses according to RSV subtype (A and B) were performed. Safety was evaluated.\nRESULTS: A total of 24,966 participants received one dose of the RSVPreF3 OA vaccine (12,467 participants) or placebo (12,499). Over a median follow-up of 6.7 months, vaccine efficacy against RT-PCR-confirmed RSV-related lower respiratory tract disease was 82.6% (96.95% confidence interval [CI], 57.9 to 94.1), with 7 cases (1.0 per 1000 participant-years) in the vaccine group and 40 cases (5.8 per 1000 participant-years) in the placebo group. Vaccine efficacy was 94.1% (95% CI, 62.4 to 99.9) against severe RSV-related lower respiratory tract disease (assessed on the basis of clinical signs or by the investigator) and 71.7% (95% CI, 56.2 to 82.3) against RSV-related acute respiratory infection. Vaccine efficacy was similar against the RSV A and B subtypes (for RSV-related lower respiratory tract disease: 84.6% and 80.9%, respectively; for RSV-related acute respiratory infection: 71.9% and 70.6%, respectively). High vaccine efficacy was observed in various age groups and in participants with coexisting conditions. The RSVPreF3 OA vaccine was more reactogenic than placebo, but most adverse events for which reports were solicited were transient, with mild-to-moderate severity. The incidences of serious adverse events and potential immune-mediated diseases were similar in the two groups.\nCONCLUSIONS: A single dose of the RSVPreF3 OA vaccine had an acceptable safety profile and prevented RSV-related acute respiratory infection and lower respiratory tract disease and severe RSV-related lower respiratory tract disease in adults 60 years of age or older, regardless of RSV subtype and the presence of underlying coexisting conditions. (Funded by GlaxoSmithKline Biologicals; AReSVi-006 ClinicalTrials.gov number, NCT04886596.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35235726",
+   "title": "Nirsevimab for Prevention of RSV in Healthy Late-Preterm and Term Infants.",
+   "authors": [
+    "Hammitt LL",
+    "Dagan R",
+    "Yuan Y",
+    "Baca Cots M",
+    "Bosheva M",
+    "Madhi SA",
+    "Muller WJ",
+    "Zar HJ",
+    "Brooks D",
+    "Grenham A",
+    "Wählby Hamrén U",
+    "Mankad VS",
+    "Ren P",
+    "Takas T",
+    "Abram ME",
+    "Leach A",
+    "Griffin MP",
+    "Villafana T",
+    "MELODY Study Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2022,
+   "doi": "10.1056/NEJMoa2110275",
+   "abstract": "BACKGROUND: Respiratory syncytial virus (RSV) is a major cause of lower respiratory tract infection and hospitalization in infants. Nirsevimab is a monoclonal antibody to the RSV fusion protein that has an extended half-life. The efficacy and safety of nirsevimab in healthy late-preterm and term infants are uncertain.\nMETHODS: We randomly assigned, in a 2:1 ratio, infants who had been born at a gestational age of at least 35 weeks to receive a single intramuscular injection of nirsevimab or placebo before the start of an RSV season. The primary efficacy end point was medically attended RSV-associated lower respiratory tract infection through 150 days after the injection. The secondary efficacy end point was hospitalization for RSV-associated lower respiratory tract infection through 150 days after the injection.\nRESULTS: A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, -8.6 to 86.8; P = 0.07). Among infants with data available to day 361, antidrug antibodies after baseline were detected in 58 of 951 (6.1%) in the nirsevimab group and in 5 of 473 (1.1%) in the placebo group. Serious adverse events were reported in 67 of 987 infants (6.8%) who received nirsevimab and in 36 of 491 infants (7.3%) who received placebo.\nCONCLUSIONS: A single injection of nirsevimab administered before the RSV season protected healthy late-preterm and term infants from medically attended RSV-associated lower respiratory tract infection. (Funded by MedImmune/AstraZeneca and Sanofi; MELODY ClinicalTrials.gov number, NCT03979313.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
   },
   {
    "pmid": "29261975",
@@ -27778,6 +28196,1110 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "granulomatosis with polyangiitis (GPA), formerly known as Wegener granulomatosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-9237759-1-en",
+   "translationKey": "immuno-9237759-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What did Medzhitov and Janeway report in 1997?",
+   "options": [
+    "The discovery of antibodies",
+    "The structure of MHC",
+    "A human homologue of the Drosophila Toll protein",
+    "The first vaccine"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Human Toll (now TLR4) linked innate recognition to activation of adaptive immunity.",
+   "shortExplanation": "Human Toll.",
+   "pmid": "9237759",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "We report here the cloning and characterization of a human homologue of the Drosophila toll protein (Toll)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-9237759-1-es",
+   "translationKey": "immuno-9237759-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué informaron Medzhitov y Janeway en 1997?",
+   "options": [
+    "El descubrimiento de los anticuerpos",
+    "La estructura del MHC",
+    "Un homólogo humano de la proteína Toll de Drosophila",
+    "La primera vacuna"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El Toll humano (hoy TLR4) vinculó el reconocimiento innato con la activación de la inmunidad adaptativa.",
+   "shortExplanation": "Toll humano.",
+   "pmid": "9237759",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "We report here the cloning and characterization of a human homologue of the Drosophila toll protein (Toll)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-9237759-2-en",
+   "translationKey": "immuno-9237759-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Why was human Toll important for adaptive immunity?",
+   "options": [
+    "It induced co-stimulatory B7.1 and inflammatory cytokines needed to activate naive T cells",
+    "It made antibodies directly",
+    "It killed viruses itself",
+    "It replaced MHC"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Toll signaling via NF-κB induced IL-1, IL-6, IL-8 and B7.1, showing innate signals control adaptive activation.",
+   "shortExplanation": "Co-stimulation.",
+   "pmid": "9237759",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "as well as the expression of the co-stimulatory molecule B7.1, which is required for the activation of naive T cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-9237759-2-es",
+   "translationKey": "immuno-9237759-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué el Toll humano fue importante para la inmunidad adaptativa?",
+   "options": [
+    "Indujo la molécula coestimuladora B7.1 y citocinas inflamatorias necesarias para activar linfocitos T vírgenes",
+    "Fabricaba anticuerpos",
+    "Mataba virus por sí mismo",
+    "Reemplazaba al MHC"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La señal de Toll por NF-κB indujo IL-1, IL-6, IL-8 y B7.1, mostrando que lo innato controla la activación adaptativa.",
+   "shortExplanation": "Coestimulación.",
+   "pmid": "9237759",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "as well as the expression of the co-stimulatory molecule B7.1, which is required for the activation of naive T cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-9851930-1-en",
+   "translationKey": "immuno-9851930-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "Which receptor recognizes bacterial lipopolysaccharide (LPS)?",
+   "options": [
+    "TLR3",
+    "TLR9",
+    "CD4",
+    "TLR4"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mutations in Tlr4 in C3H/HeJ mice block LPS signaling, identifying TLR4 as the LPS receptor.",
+   "shortExplanation": "TLR4.",
+   "pmid": "9851930",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the mammalian Tlr4 protein has been adapted primarily to subserve the recognition of LPS",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-9851930-1-es",
+   "translationKey": "immuno-9851930-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Qué receptor reconoce el lipopolisacárido (LPS) bacteriano?",
+   "options": [
+    "TLR3",
+    "TLR9",
+    "CD4",
+    "TLR4"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las mutaciones de Tlr4 en ratones C3H/HeJ bloquean la señal del LPS e identifican a TLR4 como su receptor.",
+   "shortExplanation": "TLR4.",
+   "pmid": "9851930",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the mammalian Tlr4 protein has been adapted primarily to subserve the recognition of LPS",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-9851930-2-en",
+   "translationKey": "immuno-9851930-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "What happens to mice with defective Tlr4?",
+   "options": [
+    "They die from any endotoxin dose",
+    "They resist endotoxin but are highly susceptible to Gram-negative infection",
+    "They cannot make antibodies",
+    "They become immune to all bacteria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Without TLR4 they don't respond to LPS (no shock) but also fail to fight Gram-negative bacteria.",
+   "shortExplanation": "Endotoxin-resistant, infection-prone.",
+   "pmid": "9851930",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "rendering them resistant to endotoxin yet highly susceptible to Gram-negative infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-9851930-2-es",
+   "translationKey": "immuno-9851930-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué les ocurre a los ratones con Tlr4 defectuoso?",
+   "options": [
+    "Mueren con cualquier dosis de endotoxina",
+    "Resisten la endotoxina pero son muy susceptibles a infecciones por gramnegativos",
+    "No producen anticuerpos",
+    "Se vuelven inmunes a todas las bacterias"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sin TLR4 no responden al LPS (no hay shock) pero tampoco combaten bien a los gramnegativos.",
+   "shortExplanation": "Resisten endotoxina, se infectan.",
+   "pmid": "9851930",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "rendering them resistant to endotoxin yet highly susceptible to Gram-negative infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-7636184-1-en",
+   "translationKey": "immuno-7636184-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "About what share of peripheral CD4+ T cells in normal mice express CD25 (the regulatory T cell marker in this study)?",
+   "options": [
+    "About 50%",
+    "About 10%",
+    "About 90%",
+    "None"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sakaguchi found ~10% of CD4+ cells express CD25; removing them caused autoimmunity.",
+   "shortExplanation": "~10%.",
+   "pmid": "7636184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Approximately 10% of peripheral CD4+ cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-7636184-1-es",
+   "translationKey": "immuno-7636184-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué proporción de linfocitos T CD4+ periféricos en ratones normales expresa CD25 (el marcador de células T reguladoras en este estudio)?",
+   "options": [
+    "Alrededor de 50%",
+    "Alrededor de 10%",
+    "Alrededor de 90%",
+    "Ninguna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sakaguchi halló que ~10% de los CD4+ expresan CD25; eliminarlos causó autoinmunidad.",
+   "shortExplanation": "~10%.",
+   "pmid": "7636184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Approximately 10% of peripheral CD4+ cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-7636184-2-en",
+   "translationKey": "immuno-7636184-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What happened when mice received CD4+ T cells depleted of CD25+ cells?",
+   "options": [
+    "They became immune to infections",
+    "Nothing changed",
+    "They spontaneously developed autoimmune diseases",
+    "They lost all T cells"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Without CD4+CD25+ regulatory cells, mice developed thyroiditis, gastritis, insulitis and other autoimmune diseases.",
+   "shortExplanation": "Autoimmunity.",
+   "pmid": "7636184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all recipients spontaneously developed histologically and serologically evident autoimmune diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-7636184-2-es",
+   "translationKey": "immuno-7636184-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Qué pasó cuando ratones recibieron linfocitos T CD4+ sin las células CD25+?",
+   "options": [
+    "Se volvieron inmunes a infecciones",
+    "Nada cambió",
+    "Desarrollaron enfermedades autoinmunes en forma espontánea",
+    "Perdieron todos los linfocitos T"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Sin las células reguladoras CD4+CD25+, aparecieron tiroiditis, gastritis, insulitis y otras enfermedades autoinmunes.",
+   "shortExplanation": "Autoinmunidad.",
+   "pmid": "7636184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all recipients spontaneously developed histologically and serologically evident autoimmune diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-12612578-1-en",
+   "translationKey": "immuno-12612578-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which transcription factor is critical for regulatory T cell development and function?",
+   "options": [
+    "T-bet",
+    "GATA3",
+    "RORγt",
+    "Foxp3"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Foxp3 deficiency (scurfy mice) causes lethal autoimmunity; ectopic Foxp3 confers suppressor function.",
+   "shortExplanation": "Foxp3.",
+   "pmid": "12612578",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Foxp3 is a critical regulator of CD4+CD25+ regulatory T cell development and function",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-12612578-1-es",
+   "translationKey": "immuno-12612578-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué factor de transcripción es crítico para el desarrollo y la función de las células T reguladoras?",
+   "options": [
+    "T-bet",
+    "GATA3",
+    "RORγt",
+    "Foxp3"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La falta de Foxp3 (ratones scurfy) causa autoinmunidad letal; expresar Foxp3 confiere función supresora.",
+   "shortExplanation": "Foxp3.",
+   "pmid": "12612578",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Foxp3 is a critical regulator of CD4+CD25+ regulatory T cell development and function",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-12522256-1-en",
+   "translationKey": "immuno-12522256-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "What happened when Foxp3 was transferred into naive T cells?",
+   "options": [
+    "They converted toward a regulatory T cell phenotype",
+    "They became B cells",
+    "They died",
+    "They produced IgE"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Gene transfer of Foxp3 was sufficient to give naive T cells a regulatory phenotype.",
+   "shortExplanation": "Become Tregs.",
+   "pmid": "12522256",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "retroviral gene transfer of Foxp3 converts naïve T cells toward a regulatory T cell phenotype",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-12522256-1-es",
+   "translationKey": "immuno-12522256-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "¿Qué ocurrió al transferir Foxp3 a linfocitos T vírgenes?",
+   "options": [
+    "Se convirtieron hacia un fenotipo T regulador",
+    "Se volvieron linfocitos B",
+    "Murieron",
+    "Produjeron IgE"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Transferir el gen Foxp3 bastó para dar a las células T vírgenes un fenotipo regulador.",
+   "shortExplanation": "Se vuelven Treg.",
+   "pmid": "12522256",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "retroviral gene transfer of Foxp3 converts naïve T cells toward a regulatory T cell phenotype",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-2419430-1-en",
+   "translationKey": "immuno-2419430-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "Which cytokine is characteristic of Th1 cells in Mosmann and Coffman's classic study?",
+   "options": [
+    "IL-4",
+    "IL-5",
+    "Interferon-gamma",
+    "IL-10"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Th1 clones produced IL-2 and IFN-γ; Th2 clones produced IL-4 (BSF1) and other factors.",
+   "shortExplanation": "IFN-γ.",
+   "pmid": "2419430",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Type 1 T helper cells (TH1) produced IL 2, interferon-gamma, GM-CSF, and IL 3",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-2419430-1-es",
+   "translationKey": "immuno-2419430-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué citocina caracteriza a las células Th1 en el estudio clásico de Mosmann y Coffman?",
+   "options": [
+    "IL-4",
+    "IL-5",
+    "Interferón gamma",
+    "IL-10"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los clones Th1 producían IL-2 e IFN-γ; los Th2, IL-4 (BSF1) y otros factores.",
+   "shortExplanation": "IFN-γ.",
+   "pmid": "2419430",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Type 1 T helper cells (TH1) produced IL 2, interferon-gamma, GM-CSF, and IL 3",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-2419430-2-en",
+   "translationKey": "immuno-2419430-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "What did Mosmann and Coffman discover in 1986 about helper T cell clones?",
+   "options": [
+    "All helper T cells are identical",
+    "Two types (Th1 and Th2) can be distinguished by their cytokine profiles",
+    "Helper T cells make antibodies",
+    "Helper T cells are B cells"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Different cytokine patterns defined Th1 and Th2, a foundational paradigm of immunology.",
+   "shortExplanation": "Th1 and Th2.",
+   "pmid": "2419430",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "two types of T cell were distinguished",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-2419430-2-es",
+   "translationKey": "immuno-2419430-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué descubrieron Mosmann y Coffman en 1986 sobre los clones de linfocitos T colaboradores?",
+   "options": [
+    "Todos son idénticos",
+    "Se distinguen dos tipos (Th1 y Th2) por su perfil de citocinas",
+    "Fabrican anticuerpos",
+    "Son linfocitos B"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Patrones distintos de citocinas definieron Th1 y Th2, un paradigma fundacional de la inmunología.",
+   "shortExplanation": "Th1 y Th2.",
+   "pmid": "2419430",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "two types of T cell were distinguished",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-20525992-1-en",
+   "translationKey": "immuno-20525992-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "How does ipilimumab work against melanoma?",
+   "options": [
+    "It blocks CTLA-4 to boost the antitumor T-cell response",
+    "It kills tumor cells directly like chemotherapy",
+    "It is a vaccine against melanoma",
+    "It blocks blood vessels"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Blocking the CTLA-4 brake releases T cells; it improved survival in metastatic melanoma.",
+   "shortExplanation": "Blocks CTLA-4.",
+   "pmid": "20525992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "ipilimumab--which blocks cytotoxic T-lymphocyte-associated antigen 4 to potentiate an antitumor T-cell response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-20525992-1-es",
+   "translationKey": "immuno-20525992-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo actúa el ipilimumab contra el melanoma?",
+   "options": [
+    "Bloquea CTLA-4 para potenciar la respuesta T antitumoral",
+    "Mata células tumorales como la quimioterapia",
+    "Es una vacuna",
+    "Bloquea vasos sanguíneos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Bloquear el freno CTLA-4 libera a los linfocitos T; mejoró la supervivencia en melanoma metastásico.",
+   "shortExplanation": "Bloquea CTLA-4.",
+   "pmid": "20525992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "ipilimumab--which blocks cytotoxic T-lymphocyte-associated antigen 4 to potentiate an antitumor T-cell response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-20525992-2-en",
+   "translationKey": "immuno-20525992-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "What survival benefit did ipilimumab show in this phase 3 melanoma trial?",
+   "options": [
+    "None",
+    "It cured all patients",
+    "Survival doubled to 5 years",
+    "Median overall survival rose from about 6.4 to 10 months"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The first therapy to improve overall survival in previously treated metastatic melanoma.",
+   "shortExplanation": "6.4 → 10 months.",
+   "pmid": "20525992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The median overall survival was 10.0 months among patients receiving ipilimumab plus gp100, as compared with 6.4 months among patients receiving gp100 alone",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-20525992-2-es",
+   "translationKey": "immuno-20525992-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué beneficio en supervivencia mostró el ipilimumab en este ensayo de fase 3 en melanoma?",
+   "options": [
+    "Ninguno",
+    "Curó a todos",
+    "La supervivencia se duplicó a 5 años",
+    "La mediana de supervivencia subió de ~6,4 a 10 meses"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Fue la primera terapia en mejorar la supervivencia global en melanoma metastásico pretratado.",
+   "shortExplanation": "6,4 → 10 meses.",
+   "pmid": "20525992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The median overall survival was 10.0 months among patients receiving ipilimumab plus gp100, as compared with 6.4 months among patients receiving gp100 alone",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-22658127-1-en",
+   "translationKey": "immuno-22658127-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "In the early anti-PD-1 trial, which tumors responded?",
+   "options": [
+    "Only PD-L1-negative tumors",
+    "All tumors equally",
+    "Responses occurred only in PD-L1-positive tumors (36%)",
+    "No tumor responded"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "PD-L1 expression on tumor cells was associated with objective response to PD-1 blockade.",
+   "shortExplanation": "PD-L1-positive.",
+   "pmid": "22658127",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Of 17 patients with PD-L1-negative tumors, none had an objective response; 9 of 25 patients (36%) with PD-L1-positive tumors had an objective response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-22658127-1-es",
+   "translationKey": "immuno-22658127-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "En el primer ensayo con anti-PD-1, ¿qué tumores respondieron?",
+   "options": [
+    "Solo los PD-L1 negativos",
+    "Todos por igual",
+    "Solo hubo respuestas en tumores PD-L1 positivos (36%)",
+    "Ninguno respondió"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La expresión de PD-L1 en las células tumorales se asoció con respuesta objetiva al bloqueo de PD-1.",
+   "shortExplanation": "PD-L1 positivos.",
+   "pmid": "22658127",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Of 17 patients with PD-L1-negative tumors, none had an objective response; 9 of 25 patients (36%) with PD-L1-positive tumors had an objective response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23515080-1-en",
+   "translationKey": "immuno-23515080-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "What are CAR-T cells used against B-cell leukemia?",
+   "options": [
+    "The patient's own T cells engineered with a CD19-specific chimeric antigen receptor",
+    "Donor antibodies",
+    "A chemotherapy drug",
+    "A bacterial vaccine"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Autologous T cells with a CD19 CAR induced molecular remissions in refractory B-ALL.",
+   "shortExplanation": "Engineered own T cells.",
+   "pmid": "23515080",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "autologous T cells expressing a CD19-specific CD28/CD3ζ second-generation dual-signaling chimeric antigen receptor",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23515080-1-es",
+   "translationKey": "immuno-23515080-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué son las células CAR-T usadas contra la leucemia de células B?",
+   "options": [
+    "Linfocitos T del propio paciente modificados con un receptor quimérico específico para CD19",
+    "Anticuerpos de donante",
+    "Una quimioterapia",
+    "Una vacuna bacteriana"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Linfocitos T autólogos con un CAR anti-CD19 indujeron remisiones moleculares en LLA-B refractaria.",
+   "shortExplanation": "Linfocitos propios modificados.",
+   "pmid": "23515080",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "autologous T cells expressing a CD19-specific CD28/CD3ζ second-generation dual-signaling chimeric antigen receptor",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23515080-2-en",
+   "translationKey": "immuno-23515080-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "What correlated with cytokine elevations after CAR-T infusion?",
+   "options": [
+    "The patient's age",
+    "Blood type",
+    "Tumor burden at the time of infusion",
+    "Time of day"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Higher tumor burden led to more cytokine release, sometimes requiring steroids.",
+   "shortExplanation": "Tumor burden.",
+   "pmid": "23515080",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cytokine elevations directly correlated to tumor burden at the time of CAR-modified T cell infusions",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-23515080-2-es",
+   "translationKey": "immuno-23515080-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Con qué se correlacionó el aumento de citocinas tras la infusión de CAR-T?",
+   "options": [
+    "La edad",
+    "El grupo sanguíneo",
+    "La carga tumoral al momento de la infusión",
+    "La hora del día"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mayor carga tumoral llevó a más liberación de citocinas, a veces con necesidad de corticoides.",
+   "shortExplanation": "Carga tumoral.",
+   "pmid": "23515080",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cytokine elevations directly correlated to tumor burden at the time of CAR-modified T cell infusions",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-35110735-1-en",
+   "translationKey": "immuno-35110735-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "What did a 2022 follow-up of the first CLL patients treated with CAR-T cells show?",
+   "options": [
+    "All relapsed within a year",
+    "CAR-T cells disappeared in weeks",
+    "Only CD8 cells persisted",
+    "CAR-T cells persisted over ten years with sustained remission"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "A highly activated CD4+ CAR-T population dominated at later time points in decade-long remissions.",
+   "shortExplanation": "Decade-long remission.",
+   "pmid": "35110735",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CAR T cells remained detectable more than ten years after infusion, with sustained remission in both patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-35110735-1-es",
+   "translationKey": "immuno-35110735-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "¿Qué mostró en 2022 el seguimiento de los primeros pacientes con LLC tratados con CAR-T?",
+   "options": [
+    "Todos recayeron en un año",
+    "Las CAR-T desaparecieron en semanas",
+    "Solo persistieron los CD8",
+    "Las CAR-T persistieron más de diez años con remisión sostenida"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Una población CD4+ CAR-T muy activada dominó en etapas tardías de remisiones de una década.",
+   "shortExplanation": "Remisión de una década.",
+   "pmid": "35110735",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CAR T cells remained detectable more than ten years after infusion, with sustained remission in both patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-25705822-1-en",
+   "translationKey": "immuno-25705822-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "What did the LEAP trial show about introducing peanuts early to high-risk infants?",
+   "options": [
+    "It increased peanut allergy",
+    "It significantly decreased the development of peanut allergy",
+    "It had no effect",
+    "It caused eczema"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Early consumption cut peanut allergy at 5 years from 13.7% to 1.9% among initially skin-test-negative infants.",
+   "shortExplanation": "Less allergy.",
+   "pmid": "25705822",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The early introduction of peanuts significantly decreased the frequency of the development of peanut allergy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-25705822-1-es",
+   "translationKey": "immuno-25705822-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué mostró el ensayo LEAP sobre introducir maní temprano en lactantes de alto riesgo?",
+   "options": [
+    "Aumentó la alergia al maní",
+    "Redujo significativamente la aparición de alergia al maní",
+    "No tuvo efecto",
+    "Causó eccema"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El consumo temprano bajó la alergia al maní a los 5 años de 13,7% a 1,9% en lactantes con prueba cutánea negativa.",
+   "shortExplanation": "Menos alergia.",
+   "pmid": "25705822",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The early introduction of peanuts significantly decreased the frequency of the development of peanut allergy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-25705822-2-en",
+   "translationKey": "immuno-25705822-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Which antibody rose mainly in children who consumed peanuts early?",
+   "options": [
+    "Peanut-specific IgE",
+    "IgM",
+    "Peanut-specific IgG4",
+    "IgA only"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Consumption raised IgG4 (tolerance-associated); avoidance groups more often had high peanut IgE.",
+   "shortExplanation": "IgG4.",
+   "pmid": "25705822",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Increases in levels of peanut-specific IgG4 antibody occurred predominantly in the consumption group",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-25705822-2-es",
+   "translationKey": "immuno-25705822-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué anticuerpo aumentó sobre todo en niños que consumieron maní temprano?",
+   "options": [
+    "IgE específica",
+    "IgM",
+    "IgG4 específica de maní",
+    "Solo IgA"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El consumo elevó la IgG4 (asociada a tolerancia); en la evitación fue más frecuente la IgE alta contra el maní.",
+   "shortExplanation": "IgG4.",
+   "pmid": "25705822",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Increases in levels of peanut-specific IgG4 antibody occurred predominantly in the consumption group",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-27518660-1-en",
+   "translationKey": "immuno-27518660-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "How did asthma compare between Amish and Hutterite farm children?",
+   "options": [
+    "It was identical",
+    "Hutterites had less asthma",
+    "Neither group had asthma",
+    "Amish children had about 4 times less asthma"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Despite similar genetics, traditional Amish farming was linked to much lower asthma and allergy.",
+   "shortExplanation": "Amish much lower.",
+   "pmid": "27518660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the prevalence of asthma and allergic sensitization was 4 and 6 times as low in the Amish",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-27518660-1-es",
+   "translationKey": "immuno-27518660-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se comparó el asma entre niños de granjas amish y hutteritas?",
+   "options": [
+    "Fue idéntica",
+    "Los hutteritas tenían menos asma",
+    "Ningún grupo tenía asma",
+    "Los niños amish tenían unas 4 veces menos asma"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Pese a una genética similar, la agricultura tradicional amish se asoció con mucho menos asma y alergia.",
+   "shortExplanation": "Amish mucho menos.",
+   "pmid": "27518660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the prevalence of asthma and allergic sensitization was 4 and 6 times as low in the Amish",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-27518660-2-en",
+   "translationKey": "immuno-27518660-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "What explained the protection against asthma in Amish children?",
+   "options": [
+    "Their environment (rich in microbes/endotoxin) shaped innate immunity",
+    "Different genes",
+    "More antibiotics",
+    "Less contact with animals"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Amish house dust had more endotoxin; in mice its protection required innate signaling (MyD88 and Trif).",
+   "shortExplanation": "Environment and innate immunity.",
+   "pmid": "27518660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the Amish environment provides protection against asthma by engaging and shaping the innate immune response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-27518660-2-es",
+   "translationKey": "immuno-27518660-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué explicó la protección contra el asma en los niños amish?",
+   "options": [
+    "Su ambiente (rico en microbios/endotoxina) moldeó la inmunidad innata",
+    "Genes distintos",
+    "Más antibióticos",
+    "Menos contacto con animales"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El polvo de las casas amish tenía más endotoxina; en ratones su protección requirió señalización innata (MyD88 y Trif).",
+   "shortExplanation": "Ambiente e inmunidad innata.",
+   "pmid": "27518660",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the Amish environment provides protection against asthma by engaging and shaping the innate immune response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-36791160-1-en",
+   "translationKey": "immuno-36791160-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "How effective was the RSV prefusion F vaccine against RSV lower respiratory disease in adults ≥60 years?",
+   "options": [
+    "About 20%",
+    "About 83%",
+    "About 50%",
+    "0%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "One dose gave 82.6% efficacy against RSV lower respiratory tract disease and 94% against severe disease.",
+   "shortExplanation": "~83%.",
+   "pmid": "36791160",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccine efficacy against RT-PCR-confirmed RSV-related lower respiratory tract disease was 82.6%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-36791160-1-es",
+   "translationKey": "immuno-36791160-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué eficacia tuvo la vacuna de proteína F prefusión contra el VRS en adultos ≥60 años frente a enfermedad respiratoria baja?",
+   "options": [
+    "Alrededor de 20%",
+    "Alrededor de 83%",
+    "Alrededor de 50%",
+    "0%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Una dosis dio 82,6% de eficacia contra enfermedad respiratoria baja por VRS y 94% contra enfermedad grave.",
+   "shortExplanation": "~83%.",
+   "pmid": "36791160",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccine efficacy against RT-PCR-confirmed RSV-related lower respiratory tract disease was 82.6%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-35235726-1-en",
+   "translationKey": "immuno-35235726-1",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "What is nirsevimab?",
+   "options": [
+    "A live RSV vaccine",
+    "An antiviral pill",
+    "A long-acting monoclonal antibody against the RSV fusion protein",
+    "An antibiotic"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "A single injection before the RSV season protected healthy infants (74.5% efficacy against medically attended infection).",
+   "shortExplanation": "Long-acting antibody.",
+   "pmid": "35235726",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Nirsevimab is a monoclonal antibody to the RSV fusion protein that has an extended half-life",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-35235726-1-es",
+   "translationKey": "immuno-35235726-1",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "curious",
+   "prompt": "¿Qué es el nirsevimab?",
+   "options": [
+    "Una vacuna a virus vivo",
+    "Un antiviral en comprimidos",
+    "Un anticuerpo monoclonal de acción prolongada contra la proteína F del VRS",
+    "Un antibiótico"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Una sola inyección antes de la temporada de VRS protegió a lactantes sanos (74,5% de eficacia contra infección con atención médica).",
+   "shortExplanation": "Anticuerpo de acción prolongada.",
+   "pmid": "35235726",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Nirsevimab is a monoclonal antibody to the RSV fusion protein that has an extended half-life",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-35235726-2-en",
+   "translationKey": "immuno-35235726-2",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "Nirsevimab provides which type of immunity to infants?",
+   "options": [
+    "Active immunity from vaccination",
+    "Innate immunity",
+    "Cellular immunity",
+    "Passive immunity from a ready-made antibody"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "As a monoclonal antibody, nirsevimab gives passive protection, with 74.5% efficacy in the MELODY trial.",
+   "shortExplanation": "Passive immunity.",
+   "pmid": "35235726",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "these findings correspond to an efficacy of 74.5%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-35235726-2-es",
+   "translationKey": "immuno-35235726-2",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tipo de inmunidad da el nirsevimab a los lactantes?",
+   "options": [
+    "Inmunidad activa por vacunación",
+    "Inmunidad innata",
+    "Inmunidad celular",
+    "Inmunidad pasiva con un anticuerpo ya hecho"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Como anticuerpo monoclonal, el nirsevimab da protección pasiva, con 74,5% de eficacia en el ensayo MELODY.",
+   "shortExplanation": "Inmunidad pasiva.",
+   "pmid": "35235726",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "these findings correspond to an efficacy of 74.5%",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
