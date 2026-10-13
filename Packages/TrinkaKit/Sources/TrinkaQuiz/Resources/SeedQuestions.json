@@ -3582,6 +3582,286 @@
    ]
   },
   {
+   "pmid": "32119447",
+   "title": "Penicillin",
+   "authors": [
+    "Yip DW",
+    "Gerriets V"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Penicillin is one of the most commonly used broad-spectrum antibiotics globally and has numerous clinical indications. Penicillin is effective against infections caused by gram-positive cocci, gram-positive rods, most anaerobes, and gram-negative cocci, and it stands as a cornerstone in the management and treatment of various infections within the β-lactam antibiotic class of drugs. Most bacteria feature a peptidoglycan cell wall encasing the bacterial plasma membrane, which prevents osmotic lysis and offers structural stability. This peptidoglycan wall undergoes continuous remodeling during replication and growth. Penicillin functions by inhibiting the cross-linking of peptidoglycan within the cell wall.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK554560"
+  },
+  {
+   "pmid": "31855361",
+   "title": "Cephalosporins",
+   "authors": [
+    "Patel P",
+    "Preuss CV"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Cephalosporins are β-lactam antimicrobials used to manage various infections caused by both gram-positive and gram-negative bacteria. The 5 generations of cephalosporins demonstrate efficacy in treating skin and soft tissue infections, pneumonia, meningitis, and other infections. Cefiderocol is a novel siderophore cephalosporin that exhibits remarkable antibacterial activity. This drug has been approved by the US Food and Drug Administration (FDA) to treat complicated urinary tract infections and ventilator-associated pneumonia caused by highly resistant gram-negative bacteria, including Klebsiella pneumonia, Proteus mirabilis, Escherichia coli, Pseudomonas aeruginosa, and Acinetobacter baumannii.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK551517"
+  },
+  {
+   "pmid": "29083794",
+   "title": "Vancomycin",
+   "authors": [
+    "Patel S",
+    "Preuss CV",
+    "Bernice F"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Vancomycin is a tricyclic glycopeptide antibiotic used to treat severe gram-positive bacterial infections, including those caused by methicillin-resistant Staphylococcus aureus (MRSA) and methicillin-susceptible Staphylococcus aureus (MSSA). As a cell wall synthesis inhibitor, vancomycin is particularly effective against streptococci, enterococci, and staphylococci. Originally derived from Streptococcus orientalis, vancomycin’s mechanism of action involves inhibiting bacterial cell wall formation, leading to bacterial cell death.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK459263"
+  },
+  {
+   "pmid": "31082149",
+   "title": "Aminoglycosides",
+   "authors": [
+    "Block M",
+    "Blanchard DL"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "While aminoglycosides are an older class of medication, they continue to be clinically valuable. Aminoglycosides have a broad spectrum of activity covering aerobic organisms, including gram-negative bacteria and mycobacteria. There are several drugs within the aminoglycoside class, including gentamicin, tobramycin, amikacin, neomycin, plazomicin, and streptomycin, and FDA-approved indications vary between the for these individual aminoglycosides. This activity reviews the indications, contraindications, mechanism of action, adverse event profile, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, relevant interactions) pertinent to members of the interprofessional team who wish to prescribe aminoglycosides.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK541105"
+  },
+  {
+   "pmid": "31855339",
+   "title": "Macrolides",
+   "authors": [
+    "Patel PH",
+    "Hashmi MF"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Macrolides are a class of drugs used to manage and treat various bacterial infections. Azithromycin, clarithromycin, and erythromycin are commonly used to treat infections like pneumonia, sinusitis, pharyngitis, and tonsillitis. They are also used in uncomplicated skin infections and otitis media in pediatric patients. Clarithromycin is used to treat Helicobacter pylori infections in standard triple therapy protocol regardless of clarithromycin resistance status. Macrolides are also commonly used to treat sexually transmitted infections such as gonococcal and chlamydial infections. This activity reviews the mechanism of action, indications, contraindications, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, relevant interactions) related to macrolides.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK551495"
+  },
+  {
+   "pmid": "31751095",
+   "title": "Tetracycline",
+   "authors": [
+    "Shutter MC",
+    "Akhondi H"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Tetracyclines (tetracycline, doxycycline, minocycline, tigecycline) are a class of medication used to manage and treat various bacterial infections. Tetracyclines classify as protein synthesis inhibitor antibiotics and are considered to be broad-spectrum. This activity reviews the indications, action, and contraindications for tetracyclines as a valuable agent in treating bacterial infections. This activity will highlight the mechanism of action, adverse event profile, and relevant interactions pertinent for members of the healthcare team involved in patient care of these infections.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK549905"
+  },
+  {
+   "pmid": "30020604",
+   "title": "Trimethoprim-Sulfamethoxazole",
+   "authors": [
+    "Kemnic TR",
+    "Patel P",
+    "Nicolas S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Trimethoprim-sulfamethoxazole (TMP-SMX), also known as co-trimoxazole, is a widely used, affordable antimicrobial agent included on the World Health Organization List of Essential Medicines. Since its introduction in 1974, TMP-SMX has been approved by the US Food and Drug Administration for conditions including urinary tract infections, acute exacerbations of chronic bronchitis, otitis media in pediatric patients, traveler’s diarrhea, shigellosis, and treatment and prophylaxis of Pneumocystis jirovecii pneumonia and toxoplasmosis. Off-label applications extend to methicillin-resistant Staphylococcus aureus infections, acne vulgaris, community-acquired pneumonia, tuberculosis, and prophylaxis in individuals with HIV. The combination exerts a synergistic bactericidal effect by sequential inhibition of bacterial folate synthesis. This activity reviews TMP-SMX pharmacology, dosing, administration, adverse effects, contraindications, drug interactions, monitoring, and toxicity management. Participants will enhance skills in patient selection, individualized dosing, recognition of serious adverse reactions, and application of evidence-based monitoring to improve outcomes and minimize preventable complications through effective interprofessional care.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK513232"
+  },
+  {
+   "pmid": "30969550",
+   "title": "Metronidazole",
+   "authors": [
+    "Weir CB",
+    "Le JK"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Metronidazole is one of the mainstay drugs for the treatment of anaerobic bacterial infections, protozoal infections, and microaerophilic bacterial infections. It is cytotoxic to facultative anaerobic microorganisms. It is used to treat intestinal amebiases, liver amebiasis, bacterial septicemia, bone and joint infections, meningitis, brain abscess, endocarditis, endometritis, bacterial vaginosis, intra-abdominal infections, lower respiratory tract infections, skin structure infections, and surgical prophylaxis colorectal surgeries. This activity will highlight the mechanism of action, adverse event profile, contraindications, monitoring, and other key factors pertinent to interprofessional team members in the care of patients being treated with this medication.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK539728"
+  },
+  {
+   "pmid": "30969615",
+   "title": "Linezolid",
+   "authors": [
+    "Azzouz A",
+    "Preuss CV"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Linezolid is a synthetic oxazolidinone antimicrobial drug indicated for gram-positive infections and approved for the treatment of bacterial pneumonia, skin and skin structure infections, and vancomycin-resistant enterococcal (VRE) infections, including infections complicated by bacteremia. Linezolid does not have approval for the treatment of gram-negative infections, catheter-related bloodstream infections, or catheter site infections. The primary mechanism of linezolid is an alternative to vancomycin in inpatient settings. This activity covers linezolid so that interprofessional team members can recognize its indications, coverage, contraindications, and adverse event profile to optimally manage patients with infectious diseases and exercise appropriate antimicrobial stewardship.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK539793"
+  },
+  {
+   "pmid": "29261926",
+   "title": "Daptomycin",
+   "authors": [
+    "Patel S",
+    "Saw S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Daptomycin is a cyclic lipopeptide antibiotic derived from the organism Streptomyces roseosporus used to treat various bacterial infections caused by gram-positive bacteria, including methicillin-resistant Staphylococcus aureus (MRSA) and vancomycin-resistant enterococci (VRE). Daptomycin is administered for various FDA-approved and off-label clinical uses. This educational activity for healthcare professionals reviews the mechanism of action, adverse event profile, toxicity, dosing, pharmacodynamics, and monitoring of daptomycin, providing critical knowledge for interprofessional team members treating conditions where daptomycin is appropriate.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK470407"
+  },
+  {
+   "pmid": "32491420",
+   "title": "Rifampin",
+   "authors": [
+    "Patel P",
+    "Rosani A"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Rifampin, also known as rifampicin, belongs to the antimicrobial class of drugs. This medication is used to manage and treat diverse mycobacterial infections and gram-positive bacterial infections. Rifampin exhibits antibacterial activity against a wide range of gram-positive cocci, including Mycobacteria and Clostridium difficile, and specific gram-negative organisms, including Neisseria meningitidis, N gonorrhoeae, and Hemophilus influenza. Rifampin exerts bactericidal antimicrobial effects by inhibiting DNA-dependent RNA polymerase (RNAP). This inhibition occurs either by sterically obstructing the path of the elongating RNA at its 5′ end or by reducing the RNAP's affinity for short RNA transcripts. Rifampin uniquely targets microbial RNAP, effectively arresting ongoing RNA synthesis. This activity describes the indications, mechanism of action, and contraindications of rifampin as a valuable drug for treating tuberculosis, leprosy, and methicillin-resistant Staphylococcus aureus. This activity also highlights the adverse event profile, off-label applications, dosage, pharmacodynamics, pharmacokinetics, monitoring, and pertinent interactions of rifampin, which are essential for healthcare team members caring for patients with infectious diseases.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557488"
+  },
+  {
+   "pmid": "32491549",
+   "title": "Isoniazid",
+   "authors": [
+    "O'Connor C",
+    "Patel P",
+    "Brady MF"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Isoniazid (INH) is an antibiotic indicated in the first-line treatment of active Mycobacterium tuberculosis (TB) infection. INH has been a significant drug in TB treatment regimens for decades. INH functions as a prodrug activated by the catalase-peroxidase KatG, generating various radicals and adducts that inhibit the production of mycolic acids, the essential components of the mycobacterium's cell wall. This mechanism of action makes INH a potent bactericidal agent. Moreover, INH exhibits synergistic effects with other species generated by KatG and other medications utilized in TB treatment.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557617"
+  },
+  {
+   "pmid": "31869168",
+   "title": "Carbapenem-Resistant Enterobacterales",
+   "authors": [
+    "Smith HZ",
+    "Hollingshead CM",
+    "Kendall B"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Antibiotic resistance is a growing problem. Resistance exists for all known antibiotics, and multi-drug resistant (MDR) pathogens are becoming more common. There are fewer new antimicrobials in the pipeline to combat antimicrobials that have developed resistance. Gram-negative bacteria have developed the broadest spectrum of resistance due to multiple structural adaptations and antibiotic degradation enzymes called beta-lactamases. Some of these antibiotic degradation enzymes include extended-spectrum beta-lactamases (ESBL), which are enzymes that hydrolyze penicillins, third-generation cephalosporins, and monobactams; AmpC beta-lactamases, which can hydrolyze most penicillins, a wide array of cephalosporins, and most beta-lactam beta-lactamase combinations; and carbapenemases, which can hydrolyze carbapenems and a wide variety of other beta-lactams. The presence of each of these has significant implications for antimicrobial selection. Carbapenemase-producing Enterobacterales (CRE) are of particular concern as they either possess a carbapenemase, a beta-lactamase capable of hydrolyzing antibiotics in the carbapenem class, or display resistance to a carbapenem in which the organism is not intrinsically resistant. Carbapenems are broad-spectrum and are typically reserved for treating MDR pathogens. Structurally, carbapenems are similar to penicillins but have the addition of a pyrroline ring. Both antibiotics degrade the bacterial cell wall at the penicillin-binding protein via a beta-lactam ring; however, adding a pyrroline ring protects the beta-lactam ring from some degrading enzymes produced by the bacterium. CRE have developed resistance mechanisms against carbapenems, which has severe implications for the individual patient and hospital epidemiology. Specialized knowledge is required when diagnosing, treating, and preventing CRE infections. Antimicrobial resistance is a dynamic and rapidly changing topic, and staying informed on the latest data regarding resistance is imperative to maintain excellent patient care. Maintaining excellent antimicrobial stewardship practices is imperative to decreasing rates of CRE in our communities. Bacteria may have multiple resistance mechanisms to carbapenems, but the most common is carbapenemase enzyme production. These carbapenemase-producing carbapenem-resistant Enterobacterales use diverse mechanisms to degrade antibiotics. Other resistance mechanisms include increased efflux pump action and specific porin blocking at the bacterial cell membrane to limit the antibiotics' permeability, rendering them ineffective as they cannot access the bacterial cell.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK551704"
+  },
+  {
+   "pmid": "32491472",
+   "title": "Polymyxin",
+   "authors": [
+    "Shatri G",
+    "Tadi P"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Polymyxins are a class of medications used in the management and treatment of systemic infections caused by susceptible strains of multidrug-resistant organisms such as Pseudomonas aeruginosa. It is in the antibiotic class of drugs. This activity reviews the indications, action, and contraindications for polymyxin as a valuable agent in the treatment of multidrug-resistant infections. This activity will highlight the mechanism of action, adverse event profile, and other key factors pertinent for members of the interprofessional team in the treatment of patients with polymyxins who are infected by susceptible strains of gram-negative pathogens resistant most of the other antibiotic classes.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557540"
+  },
+  {
+   "pmid": "29262089",
+   "title": "Nitrofurantoin",
+   "authors": [
+    "Squadrito FJ",
+    "del Portal D"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Nitrofurantoin is an antibiotic medication that is used for the treatment of uncomplicated lower urinary tract infections. It is effective against most gram-positive and gram-negative organisms. Nitrofurantoin’s primary use has remained in treating and prophylaxis of urinary tract infections. Nitrofurantoin is advantageous as it concentrates in the lower urinary tract while maintaining a low serum concentration and does not significantly affect bowel flora. This activity outlines the indications, mechanism of action, methods of administration, important adverse effects, contraindications, monitoring, and toxicity of nitrofurantoin, so providers can direct patient therapy successfully in instances where nitrofurantoin provides a benefit to patient care.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK470526"
+  },
+  {
+   "pmid": "28882725",
+   "title": "What is antimicrobial stewardship?",
+   "authors": [
+    "Dyar OJ",
+    "Huttner B",
+    "Schouten J",
+    "Pulcini C",
+    "ESGAP (ESCMID Study Group for Antimicrobial stewardshiP)"
+   ],
+   "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+   "year": 2017,
+   "doi": "10.1016/j.cmi.2017.08.026",
+   "abstract": "BACKGROUND: The use of the term 'antimicrobial stewardship' has grown exponentially in recent years, typically referring to programmes and interventions that aim to optimize antimicrobial use. Although antimicrobial stewardship originated within human healthcare, it is increasingly applied in broader contexts including animal health and One Health. As the use of the term 'antimicrobial stewardship' becomes more common, it is important to consider what antimicrobial stewardship is, as well as what it is not.\nAIMS: To review the emergence and evolution of the term 'antimicrobial stewardship'.\nSOURCES: We searched and reviewed existing literature and official documents, which mostly focused on antibiotics. We contacted the authors of the first publications that mentioned antimicrobial stewardship.\nCONTENT: We describe the historical background behind how antimicrobial stewardship came into use in clinical settings. We discuss challenges emerging from the varied descriptions of antimicrobial stewardship in the literature, including an over-emphasis on individual prescriptions, an under-emphasis on the societal implications of antimicrobial use, and language translation problems.\nIMPLICATIONS: To help address these challenges, we suggest viewing antimicrobial stewardship as a strategy, a coherent set of actions which promote using antimicrobials responsibly. We stress the continuous need for 'responsible use' to be defined and translated into context-specific and time-specific actions. Furthermore, we present examples of actions that can be undertaken within antimicrobial stewardship across human and animal health.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32887946",
+   "title": "Gut microbiota in human metabolic health and disease.",
+   "authors": [
+    "Fan Y",
+    "Pedersen O"
+   ],
+   "journal": "Nature reviews. Microbiology",
+   "year": 2021,
+   "doi": "10.1038/s41579-020-0433-9",
+   "abstract": "Observational findings achieved during the past two decades suggest that the intestinal microbiota may contribute to the metabolic health of the human host and, when aberrant, to the pathogenesis of various common metabolic disorders including obesity, type 2 diabetes, non-alcoholic liver disease, cardio-metabolic diseases and malnutrition. However, to gain a mechanistic understanding of how the gut microbiota affects host metabolism, research is moving from descriptive microbiota census analyses to cause-and-effect studies. Joint analyses of high-throughput human multi-omics data, including metagenomics and metabolomics data, together with measures of host physiology and mechanistic experiments in humans, animals and cells hold potential as initial steps in the identification of potential molecular mechanisms behind reported associations. In this Review, we discuss the current knowledge on how gut microbiota and derived microbial compounds may link to metabolism of the healthy host or to the pathogenesis of common metabolic diseases. We highlight examples of microbiota-targeted interventions aiming to optimize metabolic health, and we provide perspectives for future basic and translational investigations within the nascent and promising research field.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
    "pmid": "28722861",
    "title": "Brucellosis",
    "authors": [
@@ -3910,6 +4190,525 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK430852"
+  },
+  {
+   "pmid": "33509059",
+   "title": "Advances in therapeutic and managemental approaches of bovine mastitis: a comprehensive review.",
+   "authors": [
+    "Sharun K",
+    "Dhama K",
+    "Tiwari R",
+    "Gugjoo MB",
+    "Iqbal Yatoo M",
+    "Patel SK",
+    "Pathak M",
+    "Karthik K",
+    "Khurana SK",
+    "Singh R",
+    "Puvvala B",
+    "Amarpal",
+    "Singh R",
+    "Singh KP",
+    "Chaicumpa W"
+   ],
+   "journal": "The veterinary quarterly",
+   "year": 2021,
+   "doi": "10.1080/01652176.2021.1882713",
+   "abstract": "Mastitis (intramammary inflammation) caused by infectious pathogens is still considered a devastating condition of dairy animals affecting animal welfare as well as economically incurring huge losses to the dairy industry by means of decreased production performance and increased culling rates. Bovine mastitis is the inflammation of the mammary glands/udder of bovines, caused by bacterial pathogens, in most cases. Routine diagnosis is based on clinical and subclinical forms of the disease. This underlines the significance of early and rapid identification/detection of etiological agents at the farm level, for which several diagnostic techniques have been developed. Therapeutic regimens such as antibiotics, immunotherapy, bacteriocins, bacteriophages, antimicrobial peptides, probiotics, stem cell therapy, native secretory factors, nutritional, dry cow and lactation therapy, genetic selection, herbs, and nanoparticle technology-based therapy have been evaluated for their efficacy in the treatment of mastitis. Even though several strategies have been developed over the years for the purpose of managing both clinical and subclinical forms of mastitis, all of them lacked the efficacy to eliminate the associated etiological agent when used as a monotherapy. Further, research has to be directed towards the development of new therapeutic agents/techniques that can both replace conventional techniques and also solve the problem of emerging antibiotic resistance. The objective of the present review is to describe the etiological agents, pathogenesis, and diagnosis in brief along with an extensive discussion on the advances in the treatment and management of mastitis, which would help safeguard the health of dairy animals.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32051050",
+   "title": "Causes, types, etiological agents, prevalence, diagnosis, treatment, prevention, effects on human health and future aspects of bovine mastitis.",
+   "authors": [
+    "Ashraf A",
+    "Imran M"
+   ],
+   "journal": "Animal health research reviews",
+   "year": 2020,
+   "doi": "10.1017/S1466252319000094",
+   "abstract": "Mastitis is among the most common and challenging diseases of dairy animals. It is an inflammation of udder tissues due to physical damage, chemical irritation, or infection caused by certain pathogens. Bovine mastitis has been known for ages, but its complex etiology and multi-factorial nature make it difficult to control. Mastitis may have a negative impact on human health by inducing antibiotic-resistant pathogens that may spread, which is threatening. Researchers are continuously struggling to devise suitable methods for mastitis control. Management strategies are mainly focused on disease prevention by farm management which includes proper hygiene, trained staff to monitor minor changes in the udder or milk, and better diagnostic and treatment methods. New technologies which have the potential to unravel this complicated disease include improved diagnostic tools, based on advanced genomics or proteomics, prevention, based on vaccines and immune modulators, and metabolic products of probiotics such as bacteriocins and gene therapy.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39055751",
+   "title": "Unveiling insights into bovine tuberculosis: A comprehensive review.",
+   "authors": [
+    "Khairullah AR",
+    "Moses IB",
+    "Kusala MKJ",
+    "Tyasningsih W",
+    "Ayuti SR",
+    "Rantam FA",
+    "Fauziah I",
+    "Silaen OSM",
+    "Puspitasari Y",
+    "Aryaloka S",
+    "Raharjo HM",
+    "Hasib A",
+    "Yanestria SM",
+    "Nurhidayah N"
+   ],
+   "journal": "Open veterinary journal",
+   "year": 2024,
+   "doi": "10.5455/OVJ.2024.v14.i6.2",
+   "abstract": "The frequent zoonotic disease known as \"bovine tuberculosis\" is brought on by the Mycobacterium bovis bacteria, which can infect both people and animals. The aim of this review article is to provide an explanation of the etiology, history, epidemiology, pathogenesis, clinical symptoms, diagnosis, transmission, risk factors, public health importance, economic impact, treatment, and control of bovine tuberculosis. Primarily, bovine tuberculosis affects cattle, but other animals may also be affected. Bovine tuberculosis is present throughout the world, with the exception of Antarctica. Cattle that contract bovine tuberculosis might suffer from a persistent, crippling illness. In the early stages of the disease, there are no symptoms. The tuberculin test is the primary method for detecting bovine tuberculosis in cows. Depending on its localized site in the infected animal, M. bovis can be found in respiratory secretions, milk, urine, feces, vaginal secretions, semen, feces, and exudates from lesions (such as lymph node drainage and some skin lesions). This illness generally lowers cattle productivity and could have a negative financial impact on the livestock business, particularly the dairy industry. The most effective first-line anti-tuberculosis chemotherapy consists of isoniazid, ethambutol, rifampin, and streptomycin. Second-line drugs used against bovine tuberculosis include ethionamide, capreomycin, thioacetazone, and cycloserine. To successfully control and eradicate bovine tuberculosis, developed nations have implemented routine testing and culling of infected animals under national mandatory programs.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38462419",
+   "title": "Foot-and-Mouth Disease.",
+   "authors": [
+    "Arzt J",
+    "Sanderson MW",
+    "Stenfeldt C"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2024,
+   "doi": "10.1016/j.cvfa.2024.01.001",
+   "abstract": "Foot-and-mouth disease (FMD) is a viral infection of livestock that is an important determinant of global trade in animal products. The disease causes a highly contagious vesicular syndrome of cloven-hoofed animals. Successful control of FMD is dependent upon early detection and recognition of the clinical signs, followed by appropriate notification and response of responsible government entities. Awareness of the clinical signs of FMD amongst producers and veterinary practitioners is therefore the key in protecting US agriculture from the catastrophic impacts of an FMD outbreak. This review summarizes key clinical and epidemiologic features of FMD from a US perspective.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31743062",
+   "title": "African Swine Fever Epidemiology and Control.",
+   "authors": [
+    "Dixon LK",
+    "Stahl K",
+    "Jori F",
+    "Vial L",
+    "Pfeiffer DU"
+   ],
+   "journal": "Annual review of animal biosciences",
+   "year": 2020,
+   "doi": "10.1146/annurev-animal-021419-083741",
+   "abstract": "African swine fever is a devastating disease that can result in death in almost all infected pigs. The continuing spread of African swine fever from Africa to Europe and recently to the high-pig production countries of China and others in Southeast Asia threatens global pork production and food security. The African swine fever virus is an unusual complex DNA virus and is not related to other viruses. This has presented challenges for vaccine development, and currently none is available. The virus is extremely well adapted to replicate in its hosts in the sylvatic cycle in East and South Africa. Its spread to other regions, with different wildlife hosts, climatic conditions, and pig production systems, has revealed unexpected epidemiological scenarios and different challenges for control. Here we review the epidemiology of African swine fever in these different scenarios and methods used for control. We also discuss progress toward vaccine development and research priorities to better understand this complex disease and improve control.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30836106",
+   "title": "African swine fever.",
+   "authors": [
+    "Dixon LK",
+    "Sun H",
+    "Roberts H"
+   ],
+   "journal": "Antiviral research",
+   "year": 2019,
+   "doi": "10.1016/j.antiviral.2019.02.018",
+   "abstract": "The continuing spread of African swine fever (ASF) outside Africa in Europe, the Russian Federation, China and most recently to Mongolia and Vietnam, has heightened awareness of the threat posed by this devastating disease to the global pig industry and food security. In this review we summarise what we know about the African swine fever virus (ASFV), the disease it causes, how it spreads and the current global situation. We discuss current control methods in domestic and wild pigs and prospects for development of vaccines and other tools for control.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37112843",
+   "title": "Pathologic Mechanisms of the Newcastle Disease Virus.",
+   "authors": [
+    "Zhang D",
+    "Ding Z",
+    "Xu X"
+   ],
+   "journal": "Viruses",
+   "year": 2023,
+   "doi": "10.3390/v15040864",
+   "abstract": "Newcastle disease (ND) has been a consistent risk factor to the poultry industry worldwide. Its pathogen, Newcastle disease virus (NDV), is also a promising antitumor treatment candidate. The pathogenic mechanism has intrigued the great curiosity of researchers, and advances in the last two decades have been summarized in this paper. The NDV's pathogenic ability is highly related to the basic protein structure of the virus, which is described in the Introduction of this review. The overall clinical signs and recent findings pertaining to NDV-related lymph tissue damage are then described. Given the involvement of cytokines in the overall virulence of NDV, cytokines, particularly IL6 and IFN expressed during infection, are reviewed. On the other hand, the host also has its way of antagonizing the virus, which starts with the detection of the pathogen. Thus, advances in NDV's physiological cell mechanism and the subsequent IFN response, autophagy, and apoptosis are summarized to provide a whole picture of the NDV infection process.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20933134",
+   "title": "Canine parvovirus.",
+   "authors": [
+    "Goddard A",
+    "Leisewitz AL"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 2010,
+   "doi": "10.1016/j.cvsm.2010.07.007",
+   "abstract": "Since its emergence in 1978, canine parvoviral enteritis has remained a common and important cause of morbidity and mortality in young dogs. The continued incidence of parvoviral enteritis is partly due to the virus's capability to \"reinvent\" itself and evolve into new, more virulent and resistant subspecies. This article reviews current knowledge about the virus, its epidemiology, clinical manifestation, diagnosis, management, and prevention.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32680664",
+   "title": "What's New in Feline Leukemia Virus Infection.",
+   "authors": [
+    "Hartmann K",
+    "Hofmann-Lehmann R"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 2020,
+   "doi": "10.1016/j.cvsm.2020.05.006",
+   "abstract": "Feline leukemia virus (FeLV) is a retrovirus with global impact on the health of domestic cats that causes tumors (mainly lymphoma), bone marrow disorders, and immunosuppression. The importance of FeLV is underestimated due to complacency associated with previous decline in prevalence. However, with this comes lowered vigilance, which, along with potential for regressively infected cats to reactivate viremia and shed the virus or develop clinical signs, can pose a risk to feline health. This article summarizes knowledge on FeLV pathogenesis, courses of infection, and factors affecting prevalance, infection outcome, and development of FeLV-associated diseases, with special focus on regressive FeLV infection.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33898852",
+   "title": "Review on the occurrence of the mcr-1 gene causing colistin resistance in cow's milk and dairy products.",
+   "authors": [
+    "Nagy Á",
+    "Székelyhidi R",
+    "Hanczné Lakatos E",
+    "Kapcsándi V"
+   ],
+   "journal": "Heliyon",
+   "year": 2021,
+   "doi": "10.1016/j.heliyon.2021.e06800",
+   "abstract": "Both livestock farmers and the clinic use significant amount of antibiotics worldwide, in many cases the same kind. Antibiotic resistance is not a new phenomenon, however, it is a matter of concern that resistance genes (mcr - Mobilized Colistin Resistance - genes) that render last-resort drugs (Colistin) ineffective, have already evolved. Nowadays, there is a significant consumption of milk and dairy products, which, if not treated properly, can contain bacteria (mainly Gram-negative bacteria). We collected articles and reviews in which Gram-negative bacteria carrying the mcr-1 gene have been detected in milk, dairy products, or cattle. Reports have shown that although the incidence is still low, unfortunately the gene has been detected in some dairy products on almost every continent. In the interest of our health, the use of colistin in livestock farming must be banned as soon as possible, and new treatments should be applied so that we can continue to have a chance in fighting multidrug-resistant bacteria in human medicine.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37900320",
+   "title": "Immune evasion strategies of bovine viral diarrhea virus.",
+   "authors": [
+    "Pang F",
+    "Long Q",
+    "Wei M"
+   ],
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2023,
+   "doi": "10.3389/fcimb.2023.1282526",
+   "abstract": "Bovine viral diarrhea virus (BVDV) is a significant pathogen that causes great economic losses in the global livestock industry. During the long-term interactions between BVDV and its hosts, the virus has evolved multiple strategies to evade the host's innate immunity and adaptive immunity, thereby promoting viral survival and replication. This review focuses on the most recent research on immune evasion strategies employed by BVDV, including evading type I IFN signaling pathway, evading host adaptive immunity, mediating NF-κB signaling pathway, mediating cell apoptosis and inducing autophagy. Unraveling BVDV's immune evasion strategies will enhance our understanding of the pathogenesis of BVDV and contribute to the development of more effective therapies for the prevention, control and eradication of BVDV.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7728636",
+   "title": "Bluetongue virus.",
+   "authors": [
+    "Osburn BI"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 1994,
+   "doi": "10.1016/s0749-0720(15)30538-7",
+   "abstract": "Bluetongue (BLU) is a noncontagious viral disease. The virus is a member of the Orbivirus genus and serves as the prototype virus of the genus. BLU is primarily a disease of domestic ruminants, some wild ruminants, and, recently, domestic dogs. The disease is caused by 1 of 24 different serotypes of virus that are distributed worldwide. This article reviews the viruses, their distribution, clinical signs, pathogenesis, and the roles they play in reproductive failure.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39204065",
+   "title": "A Comprehensive Review on Porcine Reproductive and Respiratory Syndrome Virus with Emphasis on Immunity.",
+   "authors": [
+    "Fiers J",
+    "Cay AB",
+    "Maes D",
+    "Tignon M"
+   ],
+   "journal": "Vaccines",
+   "year": 2024,
+   "doi": "10.3390/vaccines12080942",
+   "abstract": "Porcine reproductive and respiratory syndrome virus (PRRSV) is one of the most important pathogens in pig production worldwide and responsible for enormous production and economic losses. PRRSV infection in gestating gilts and sows induces important reproductive failure. Additionally, respiratory distress is observed in infected piglets and fattening pigs, resulting in growth retardation and increased mortality. Importantly, PRRSV infection interferes with immunity in the respiratory tract, making PRRSV-infected pigs more susceptible to opportunistic secondary pathogens. Despite the availability of commercial PRRSV vaccines for more than three decades, control of the disease remains a frustrating and challenging task. This paper provides a comprehensive overview of PRRSV, covering its history, economic and scientific importance, and description of the viral structure and genetic diversity. It explores the virus's pathogenesis, including cell tropism, viral entry, replication, stages of infection and epidemiology. It reviews the porcine innate and adaptative immune responses to comprehend the modulation mechanisms employed by PRRS for immune evasion.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27894330",
+   "title": "Marek's disease in chickens: a review with focus on immunology.",
+   "authors": [
+    "Boodhoo N",
+    "Gurung A",
+    "Sharif S",
+    "Behboudi S"
+   ],
+   "journal": "Veterinary research",
+   "year": 2016,
+   "doi": "10.1186/s13567-016-0404-3",
+   "abstract": "Marek's disease (MD), caused by Marek's disease virus (MDV), is a commercially important neoplastic disease of poultry which is only controlled by mass vaccination. Importantly, vaccines that can provide sterile immunity and inhibit virus transmission are lacking; such that vaccines are only capable of preventing neuropathy, oncogenic disease and immunosuppression, but are unable to prevent MDV transmission or infection, leading to emergence of increasingly virulent pathotypes. Hence, to address these issues, developing more efficacious vaccines that induce sterile immunity have become one of the important research goals for avian immunologists today. MDV shares very close genomic functional and structural characteristics to most mammalian herpes viruses such as herpes simplex virus (HSV). MD also provides an excellent T cell lymphoma model for gaining insights into other herpesvirus-induced oncogenesis in mammals and birds. For these reasons, we need to develop an in-depth knowledge and understanding of the host-viral interaction and host immunity against MD. Similarly, the underlying genetic variation within different chicken lines has a major impact on the outcome of infection. In this review article, we aim to investigate the pathogenesis of MDV infection, host immunity to MD and discuss areas of research that need to be further explored.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10935278",
+   "title": "Infectious bursal disease (Gumboro disease).",
+   "authors": [
+    "van den Berg TP",
+    "Eterradossi N",
+    "Toquin D",
+    "Meulemans G"
+   ],
+   "journal": "Revue scientifique et technique (International Office of Epizootics)",
+   "year": 2000,
+   "doi": null,
+   "abstract": "Infectious bursal disease (IBD) (Gumboro disease) has been described throughout the world, and the socio-economic significance of the disease is considerable world-wide. Various forms of the disease have been described, but typing remains unclear, since antigenic and pathotypic criteria are used indiscriminately, and the true incidence of different types is difficult to determine. Moreover, the infection, when not fatal, leads to a degree of immunosuppression which is often difficult to measure. Finally, the control measures used are subject to variations, and seldom follow a specific or standardised plan. In the context of expanding international trade, the authors provide an overview of existing knowledge on the subject to enhance available information on the epidemiology of IBD, the identification of reliable viral markers for diagnosis, and the implementation of specific control measures to ensure a global and co-ordinated approach to the disease.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "18501278",
+   "title": "Canine distemper virus.",
+   "authors": [
+    "Martella V",
+    "Elia G",
+    "Buonavoglia C"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 2008,
+   "doi": "10.1016/j.cvsm.2008.02.007",
+   "abstract": "Vaccine-based prophylaxis has greatly helped to keep distemper disease under control. Notwithstanding, the incidence of canine distemper virus (CDV)-related disease in canine populations throughout the world seems to have increased in the past decades, and several episodes of CDV disease in vaccinated animals have been reported, with nation-wide proportions in some cases. Increasing surveillance should be pivotal to identify new CDV variants and to understand the dynamics of CDV epidemiology. In addition, it is important to evaluate whether the efficacy of the vaccine against these new strains may somehow be affected.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39829669",
+   "title": "A review of feline infectious peritonitis virus infection.",
+   "authors": [
+    "Solikhah TI",
+    "Agustin QAD",
+    "Damaratri RA",
+    "Siwi DAF",
+    "Rafi'uttaqi GN",
+    "Hartadi VA",
+    "Solikhah GP"
+   ],
+   "journal": "Veterinary world",
+   "year": 2024,
+   "doi": "10.14202/vetworld.2024.2417-2432",
+   "abstract": "Feline infectious peritonitis (FIP) is an infectious disease characterized by non-specific laboratory changes and clinical signs. Clinical symptoms include anorexia, jaundice, fever, and weight loss. Moreover, some lesions are found in the digestive and respiratory systems. FIP, whose virulence varies, cannot be distinguished using several diagnostic methods. Moreover, feline coronaviruses (FCoVs) can be classified into two serotypes based on differences in their amino acid sequences, spike (S) protein sequences, and antibody (Ab) neutralization. There are two pathotypes, namely those caused by FCoV, which are often referred to as feline enteric coronavirus and FIP virus (FIPV). Furthermore, FIPV infection can be caused by sub-neutralizing levels of anti-FIPV S Abs. Therefore, a supporting diagnosis is needed to confirm FIP because there are no specific symptoms. This review aimed to provide updated information on FIP, including epizootiology, clinical and pathological characteristics, pathogenesis, hematology, clinicopathological and imaging features, pathological features, experimental infection, treatment and prevention, infection and immunity, animal and public health considerations.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "23106497",
+   "title": "Paratuberculosis (Johne's disease) in cattle and other susceptible species.",
+   "authors": [
+    "Sweeney RW",
+    "Collins MT",
+    "Koets AP",
+    "McGuirk SM",
+    "Roussel AJ"
+   ],
+   "journal": "Journal of veterinary internal medicine",
+   "year": 2012,
+   "doi": "10.1111/j.1939-1676.2012.01019.x",
+   "abstract": "Paratuberculosis (Johne's disease) is a widespread and costly disease. This consensus statement will summarize recommendations regarding diagnosis, control, and treatment of Johne's disease in cattle and other species. Each section of recommendations is followed by a statement that subjectively characterizes the strength of the supporting evidence. The role played by Mycobacterium avium subsp. paratuberculosis (MAP) in the pathogenesis has been a matter of controversy for many years. This statement concludes with an assessment of the evidence in favor of MAP as a potential zoonotic pathogen.",
+   "publicationTypes": [
+    "Journal Article",
+    "Consensus Statement"
+   ]
+  },
+  {
+   "pmid": "29122409",
+   "title": "Understanding the virulence of Streptococcus suis: A veterinary, medical, and economic challenge.",
+   "authors": [
+    "Haas B",
+    "Grenier D"
+   ],
+   "journal": "Medecine et maladies infectieuses",
+   "year": 2018,
+   "doi": "10.1016/j.medmal.2017.10.001",
+   "abstract": "Streptococcus suis is a major swine pathogen worldwide and causes considerable economic losses in the swine industry. S. suis is also an emerging zoonotic agent, mainly in Asia. In pigs and humans, S. suis can cause septicemia, pneumonia, endocarditis, arthritis, and meningitis with irreversible sequelae. Identification and characterization of the virulence factors produced by S. suis are major advances in the understanding of the pathogenesis of S. suis infections and has therefore opened promising avenues for vaccine development against this pathogen. This literature review aimed to update the current knowledge of the virulence mechanisms of S. suis and of the vaccination strategies tested until now.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37766268",
+   "title": "Global Burden of Lumpy Skin Disease, Outbreaks, and Future Challenges.",
+   "authors": [
+    "Akther M",
+    "Akter SH",
+    "Sarker S",
+    "Aleri JW",
+    "Annandale H",
+    "Abraham S",
+    "Uddin JM"
+   ],
+   "journal": "Viruses",
+   "year": 2023,
+   "doi": "10.3390/v15091861",
+   "abstract": "Lumpy skin disease (LSD), a current global concern, causes economic devastation in livestock industries, with cattle and water buffalo reported to have higher morbidity and lower mortality rates. LSD is caused by lumpy skin disease virus (LSDV), a member of the Poxviridae family. It is an enzootic, rapidly explorative and sometimes fatal infection, characterized by multiple raised nodules on the skin of infected animals. It was first reported in Zambia in 1929 and is considered endemic in Africa south of the Sahara desert. It has gradually spread beyond Africa into the Middle East, with periodic occurrences in Asian and East European countries. Recently, it has been spreading in most Asian countries including far East Asia and threatens incursion to LSD-free countries. Rapid and accurate diagnostic capabilities, virus identification, vaccine development, vector control, regional and international collaborations and effective biosecurity policies are important for the control, prevention, and eradication of LSD infections. This review critically evaluates the global burden of LSD, the chronological historical outbreaks of LSD, and future directions for collaborative global actions.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40092198",
+   "title": "Bovine spongiform encephalopathy: A review of current knowledge and challenges.",
+   "authors": [
+    "Lestari TD",
+    "Khairullah AR",
+    "Utama S",
+    "Mulyati S",
+    "Hernawati T",
+    "Damayanti R",
+    "Rimayanti R",
+    "Wardhani BWK",
+    "Fauzia KA",
+    "Moses IB",
+    "Ahmad RZ",
+    "Wibowo S",
+    "Fauziah I",
+    "Kurniasih DAA",
+    "Baihaqi ZA",
+    "Wasito W",
+    "Kusala MKJ",
+    "Lisnanti EF"
+   ],
+   "journal": "Open veterinary journal",
+   "year": 2025,
+   "doi": "10.5455/OVJ.2025.v15.i1.5",
+   "abstract": "Bovine spongiform encephalopathy (BSE), also referred to as mad cow disease, is a chronic degenerative disease that affects the central nervous system. BSE is caused by a misfolded isoform of the prion protein, a widely expressed glycoprotein. The illness is referred to as Variant Creutzfeldt-Jakob disease (vCJD) in humans. In the United Kingdom (UK), BSE in cattle was first discovered in 1986. Based on epidemiological data, it appears that animal feed containing tainted meat and bone meal (MBM) as a source of meat protein is the common cause of the BSE outbreak in the UK. Clinical indicators in cows include irregular body posture, incoordination, difficulty in standing, weight loss, and temperamental changes, including agitation and hostility. Feeding livestock MBM obtained from BSE-infected livestock contaminated with BSE prions is the only known risk factor for BSE development. Strong evidence linking BSE to human transmission and a variant type of CJD has brought the disease to the attention of many countries. Screening living animals for BSE is challenging. In most cases, suspected animals are usually killed. Typically, the central nervous system is examined for prions to diagnose this illness. There is currently no robust treatment for BSE. The prevention of BSE can be achieved by avoiding the feeding of susceptible animals with ruminant tissues that might carry prions.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "1617202",
+   "title": "Scrapie.",
+   "authors": [
+    "Detwiler LA"
+   ],
+   "journal": "Revue scientifique et technique (International Office of Epizootics)",
+   "year": 1992,
+   "doi": "10.20506/rst.11.2.607",
+   "abstract": "A detailed review is presented of the history, geographical distribution, cause, epidemiology, clinical features, pathogenesis, pathology, diagnosis, prevention, control and economic effects of scrapie in sheep. Brief mention is made of the disease in goats and moufflon. The nature of the agent causing scrapie, the genetic control of the incubation period in sheep and the natural transmission of scrapie in sheep and goats are discussed. National efforts to control scrapie in various countries are outlined.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32152243",
+   "title": "Equine Influenza.",
+   "authors": [
+    "Chambers TM"
+   ],
+   "journal": "Cold Spring Harbor perspectives in medicine",
+   "year": 2022,
+   "doi": "10.1101/cshperspect.a038331",
+   "abstract": "Horses are the third major mammalian species, along with humans and swine, long known to be subject to acute upper respiratory disease from influenza A virus infection. The viruses responsible are subtype H7N7, which is believed extinct, and H3N8, which circulates worldwide. The equine influenza lineages are clearly divergent from avian influenza lineages of the same subtypes. Their genetic evolution and potential for interspecies transmission, as well as clinical features and epidemiology, are discussed. Equine influenza is spread internationally and vaccination is central to control efforts. The current mechanism of international surveillance and virus strain recommendations for vaccines is described.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "20933138",
+   "title": "Canine leptospirosis.",
+   "authors": [
+    "Goldstein RE"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 2010,
+   "doi": "10.1016/j.cvsm.2010.07.008",
+   "abstract": "Leptospirosis is a common zoonotic disease with a worldwide distribution. Dogs become infected by exposure to contaminated urine from shedding wild animals. The bacteria penetrate mucus membranes, causing endothelial damage and damage to organs, such as the liver and kidneys. The clinical signs and clinicopathologic data are nonspecific and a high index of suspicion is needed by the practitioner. Testing today is highly based on serology (microscopic agglutination test) and perhaps polymerase chain reaction. Treatment of leptospirosis involves supportive care and antibiotics, and prevention includes environmental steps and annual vaccination of dogs at risk.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "38004824",
+   "title": "Salmonella Infection in Poultry: A Review on the Pathogen and Control Strategies.",
+   "authors": [
+    "Shaji S",
+    "Selvaraj RK",
+    "Shanmugasundaram R"
+   ],
+   "journal": "Microorganisms",
+   "year": 2023,
+   "doi": "10.3390/microorganisms11112814",
+   "abstract": "Salmonella is the leading cause of food-borne zoonotic disease worldwide. Non-typhoidal Salmonella serotypes are the primary etiological agents associated with salmonellosis in poultry. Contaminated poultry eggs and meat products are the major sources of human Salmonella infection. Horizontal and vertical transmission are the primary routes of infection in chickens. The principal virulence genes linked to Salmonella pathogenesis in poultry are located in Salmonella pathogenicity islands 1 and 2 (SPI-1 and SPI-2). Cell-mediated and humoral immune responses are involved in the defense against Salmonella invasion in poultry. Vaccination of chickens and supplementation of feed additives like prebiotics, probiotics, postbiotics, synbiotics, and bacteriophages are currently being used to mitigate the Salmonella load in poultry. Despite the existence of various control measures, there is still a need for a broad, safe, and well-defined strategy that can confer long-term protection from Salmonella in poultry flocks. This review examines the current knowledge on the etiology, transmission, cell wall structure, nomenclature, pathogenesis, immune response, and efficacy of preventative approaches to Salmonella.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36363726",
+   "title": "Campylobacter jejuni in Poultry: Pathogenesis and Control Strategies.",
+   "authors": [
+    "Al Hakeem WG",
+    "Fathima S",
+    "Shanmugasundaram R",
+    "Selvaraj RK"
+   ],
+   "journal": "Microorganisms",
+   "year": 2022,
+   "doi": "10.3390/microorganisms10112134",
+   "abstract": "C. jejuni is the leading cause of human foodborne illness associated with poultry, beef, and pork consumption. C. jejuni is highly prevalent in commercial poultry farms, where horizontal transmission from the environment is considered to be the primary source of C. jejuni. As an enteric pathogen, C. jejuni expresses virulence factors regulated by a two-component system that mediates C. jejuni's ability to survive in the host. C. jejuni survives and reproduces in the avian intestinal mucus. The avian intestinal mucus is highly sulfated and sialylated compared with the human mucus modulating C. jejuni pathogenicity into a near commensal bacteria in poultry. Birds are usually infected from two to four weeks of age and remain colonized until they reach market age. A small dose of C. jejuni (around 35 CFU/mL) is sufficient for successful bird colonization. In the U.S., where chickens are raised under antibiotic-free environments, additional strategies are required to reduce C. jejuni prevalence on broilers farms. Strict biosecurity measures can decrease C. jejuni prevalence by more than 50% in broilers at market age. Vaccination and probiotics, prebiotics, synbiotics, organic acids, bacteriophages, bacteriocins, and quorum sensing inhibitors supplementation can improve gut health and competitively exclude C. jejuni load in broilers. Most of the mentioned strategies showed promising results; however, they are not fully implemented in poultry production. Current knowledge on C. jejuni's morphology, source of transmission, pathogenesis in poultry, and available preharvest strategies to decrease C. jejuni colonization in broilers are addressed in this review.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31988203",
+   "title": "Swine Influenza A Viruses and the Tangled Relationship with Humans.",
+   "authors": [
+    "Anderson TK",
+    "Chang J",
+    "Arendsee ZW",
+    "Venkatesh D",
+    "Souza CK",
+    "Kimble JB",
+    "Lewis NS",
+    "Davis CT",
+    "Vincent AL"
+   ],
+   "journal": "Cold Spring Harbor perspectives in medicine",
+   "year": 2021,
+   "doi": "10.1101/cshperspect.a038737",
+   "abstract": "Influenza A viruses (IAVs) are the causative agents of one of the most important viral respiratory diseases in pigs and humans. Human and swine IAV are prone to interspecies transmission, leading to regular incursions from human to pig and vice versa. This bidirectional transmission of IAV has heavily influenced the evolutionary history of IAV in both species. Transmission of distinct human seasonal lineages to pigs, followed by sustained within-host transmission and rapid adaptation and evolution, represent a considerable challenge for pig health and production. Consequently, although only subtypes of H1N1, H1N2, and H3N2 are endemic in swine around the world, extensive diversity can be found in the hemagglutinin (HA) and neuraminidase (NA) genes, as well as the remaining six genes. We review the complicated global epidemiology of IAV in swine and the inextricably entangled implications for public health and influenza pandemic planning.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+   ]
   }
  ],
  "questions": [
@@ -26810,6 +27609,1158 @@
    }
   },
   {
+   "id": "micro-32119447-1-en",
+   "translationKey": "micro-32119447-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "To which antibiotic class does penicillin belong?",
+   "options": [
+    "Aminoglycosides",
+    "Macrolides",
+    "Tetracyclines",
+    "β-lactams"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Penicillin is the founding member of the β-lactam class, which also includes cephalosporins and carbapenems.",
+   "shortExplanation": "β-lactams.",
+   "pmid": "32119447",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "within the β-lactam antibiotic class of drugs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119447-1-es",
+   "translationKey": "micro-32119447-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿A qué clase de antibióticos pertenece la penicilina?",
+   "options": [
+    "Aminoglucósidos",
+    "Macrólidos",
+    "Tetraciclinas",
+    "Betalactámicos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La penicilina es el miembro fundador de los betalactámicos, que incluyen también cefalosporinas y carbapenémicos.",
+   "shortExplanation": "Betalactámicos.",
+   "pmid": "32119447",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "within the β-lactam antibiotic class of drugs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119447-2-en",
+   "translationKey": "micro-32119447-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How does penicillin kill bacteria?",
+   "options": [
+    "Blocking protein synthesis at the 30S ribosome",
+    "Inhibiting peptidoglycan cross-linking in the cell wall",
+    "Inhibiting DNA gyrase",
+    "Disrupting the outer membrane like a detergent"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Penicillin inhibits peptidoglycan cross-linking, weakening the wall so the cell lyses osmotically.",
+   "shortExplanation": "Blocks cell wall cross-linking.",
+   "pmid": "32119447",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Penicillin functions by inhibiting the cross-linking of peptidoglycan within the cell wall",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119447-2-es",
+   "translationKey": "micro-32119447-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo mata la penicilina a las bacterias?",
+   "options": [
+    "Bloquea la síntesis proteica en el ribosoma 30S",
+    "Inhibe el entrecruzamiento del peptidoglucano de la pared",
+    "Inhibe la ADN girasa",
+    "Rompe la membrana externa como un detergente"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La penicilina inhibe el entrecruzamiento del peptidoglucano; la pared se debilita y la célula se lisa por ósmosis.",
+   "shortExplanation": "Bloquea el entrecruzamiento de la pared.",
+   "pmid": "32119447",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Penicillin functions by inhibiting the cross-linking of peptidoglycan within the cell wall",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31855361-1-en",
+   "translationKey": "micro-31855361-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is special about cefiderocol?",
+   "options": [
+    "It is a macrolide",
+    "It only works on gram-positives",
+    "It is a siderophore cephalosporin that hijacks iron uptake to enter gram-negatives",
+    "It is an antifungal"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Cefiderocol is a siderophore cephalosporin active against highly resistant gram-negatives such as P. aeruginosa and A. baumannii.",
+   "shortExplanation": "Siderophore cephalosporin.",
+   "pmid": "31855361",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cefiderocol is a novel siderophore cephalosporin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31855361-1-es",
+   "translationKey": "micro-31855361-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tiene de especial el cefiderocol?",
+   "options": [
+    "Es un macrólido",
+    "Solo actúa sobre grampositivas",
+    "Es una cefalosporina sideróforo que usa la captación de hierro para entrar en gramnegativas",
+    "Es un antifúngico"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El cefiderocol es una cefalosporina sideróforo activa contra gramnegativos muy resistentes como P. aeruginosa y A. baumannii.",
+   "shortExplanation": "Cefalosporina sideróforo.",
+   "pmid": "31855361",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cefiderocol is a novel siderophore cephalosporin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31855361-2-en",
+   "translationKey": "micro-31855361-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How are cephalosporins traditionally grouped?",
+   "options": [
+    "Into 5 generations",
+    "Into 2 types only",
+    "By the color of the vial",
+    "By the fungus that produces them"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cephalosporins are grouped into five generations with differing spectra against gram-positive and gram-negative bacteria.",
+   "shortExplanation": "Five generations.",
+   "pmid": "31855361",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The 5 generations of cephalosporins",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31855361-2-es",
+   "translationKey": "micro-31855361-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se agrupan tradicionalmente las cefalosporinas?",
+   "options": [
+    "En 5 generaciones",
+    "Solo en 2 tipos",
+    "Por el color del frasco",
+    "Por el hongo que las produce"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las cefalosporinas se agrupan en cinco generaciones con distinto espectro frente a grampositivas y gramnegativas.",
+   "shortExplanation": "Cinco generaciones.",
+   "pmid": "31855361",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The 5 generations of cephalosporins",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083794-1-en",
+   "translationKey": "micro-29083794-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Vancomycin is mainly used to treat…",
+   "options": [
+    "Gram-negative urinary infections",
+    "Fungal infections",
+    "Viral pneumonia",
+    "Severe gram-positive infections such as MRSA"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Vancomycin, a glycopeptide cell-wall inhibitor, treats severe gram-positive infections including MRSA.",
+   "shortExplanation": "Gram-positives incl. MRSA.",
+   "pmid": "29083794",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vancomycin is a tricyclic glycopeptide antibiotic used to treat severe gram-positive bacterial infections, including those caused by methicillin-resistant Staphylococcus aureus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083794-1-es",
+   "translationKey": "micro-29083794-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "La vancomicina se usa principalmente para tratar…",
+   "options": [
+    "Infecciones urinarias por gramnegativos",
+    "Infecciones fúngicas",
+    "Neumonía viral",
+    "Infecciones graves por grampositivos como SAMR"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La vancomicina, glicopéptido inhibidor de la pared, trata infecciones graves por grampositivos, incluido el SAMR.",
+   "shortExplanation": "Grampositivos, incl. SAMR.",
+   "pmid": "29083794",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vancomycin is a tricyclic glycopeptide antibiotic used to treat severe gram-positive bacterial infections, including those caused by methicillin-resistant Staphylococcus aureus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31082149-1-en",
+   "translationKey": "micro-31082149-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which organisms do aminoglycosides typically cover?",
+   "options": [
+    "Anaerobes only",
+    "Aerobic organisms, including gram-negatives and mycobacteria",
+    "Fungi",
+    "Viruses"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Aminoglycosides (gentamicin, amikacin, streptomycin…) cover aerobes; they need oxygen-dependent uptake, so anaerobes are resistant.",
+   "shortExplanation": "Aerobes, gram-negatives, mycobacteria.",
+   "pmid": "31082149",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Aminoglycosides have a broad spectrum of activity covering aerobic organisms, including gram-negative bacteria and mycobacteria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31082149-1-es",
+   "translationKey": "micro-31082149-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué organismos cubren típicamente los aminoglucósidos?",
+   "options": [
+    "Solo anaerobios",
+    "Organismos aerobios, incluidos gramnegativos y micobacterias",
+    "Hongos",
+    "Virus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los aminoglucósidos (gentamicina, amikacina, estreptomicina…) cubren aerobios; su captación depende de oxígeno, por eso los anaerobios son resistentes.",
+   "shortExplanation": "Aerobios, gramnegativos, micobacterias.",
+   "pmid": "31082149",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Aminoglycosides have a broad spectrum of activity covering aerobic organisms, including gram-negative bacteria and mycobacteria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31855339-1-en",
+   "translationKey": "micro-31855339-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which macrolide is part of standard triple therapy for Helicobacter pylori?",
+   "options": [
+    "Clarithromycin",
+    "Azithromycin",
+    "Erythromycin",
+    "Fidaxomicin"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Clarithromycin is used with a proton-pump inhibitor and amoxicillin (or metronidazole) in triple therapy.",
+   "shortExplanation": "Clarithromycin.",
+   "pmid": "31855339",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Clarithromycin is used to treat Helicobacter pylori infections in standard triple therapy protocol",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31855339-1-es",
+   "translationKey": "micro-31855339-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué macrólido forma parte de la triple terapia estándar contra Helicobacter pylori?",
+   "options": [
+    "Claritromicina",
+    "Azitromicina",
+    "Eritromicina",
+    "Fidaxomicina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La claritromicina se usa con un inhibidor de bomba de protones y amoxicilina (o metronidazol) en la triple terapia.",
+   "shortExplanation": "Claritromicina.",
+   "pmid": "31855339",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Clarithromycin is used to treat Helicobacter pylori infections in standard triple therapy protocol",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31751095-1-en",
+   "translationKey": "micro-31751095-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How do tetracyclines act?",
+   "options": [
+    "Inhibit cell wall synthesis",
+    "Inhibit folate synthesis",
+    "Inhibit bacterial protein synthesis",
+    "Disrupt fungal membranes"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Tetracyclines (doxycycline, minocycline, tigecycline) are broad-spectrum protein synthesis inhibitors.",
+   "shortExplanation": "Protein synthesis inhibitors.",
+   "pmid": "31751095",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Tetracyclines classify as protein synthesis inhibitor antibiotics and are considered to be broad-spectrum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31751095-1-es",
+   "translationKey": "micro-31751095-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo actúan las tetraciclinas?",
+   "options": [
+    "Inhiben la síntesis de pared",
+    "Inhiben la síntesis de folato",
+    "Inhiben la síntesis proteica bacteriana",
+    "Alteran membranas fúngicas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las tetraciclinas (doxiciclina, minociclina, tigeciclina) son inhibidores de la síntesis proteica de amplio espectro.",
+   "shortExplanation": "Inhiben la síntesis proteica.",
+   "pmid": "31751095",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Tetracyclines classify as protein synthesis inhibitor antibiotics and are considered to be broad-spectrum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020604-1-en",
+   "translationKey": "micro-30020604-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why are trimethoprim and sulfamethoxazole combined?",
+   "options": [
+    "They block two different ribosomal subunits",
+    "One kills fungi and the other bacteria",
+    "To reduce cost only",
+    "They inhibit two sequential steps of folate synthesis, acting synergistically"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Sulfamethoxazole and trimethoprim block successive steps of bacterial folate synthesis, producing synergy.",
+   "shortExplanation": "Sequential folate blockade.",
+   "pmid": "30020604",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The combination exerts a synergistic bactericidal effect by sequential inhibition of bacterial folate synthesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020604-1-es",
+   "translationKey": "micro-30020604-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué se combinan trimetoprima y sulfametoxazol?",
+   "options": [
+    "Bloquean dos subunidades ribosomales distintas",
+    "Uno mata hongos y el otro bacterias",
+    "Solo para bajar el costo",
+    "Inhiben dos pasos sucesivos de la síntesis de folato, con efecto sinérgico"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El sulfametoxazol y la trimetoprima bloquean pasos sucesivos de la síntesis bacteriana de folato, con sinergia.",
+   "shortExplanation": "Bloqueo secuencial del folato.",
+   "pmid": "30020604",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The combination exerts a synergistic bactericidal effect by sequential inhibition of bacterial folate synthesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020604-2-en",
+   "translationKey": "micro-30020604-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Besides urinary infections, TMP-SMX is a drug of choice for treating and preventing…",
+   "options": [
+    "Tuberculous meningitis",
+    "Pneumocystis jirovecii pneumonia",
+    "Candida esophagitis",
+    "Influenza"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "TMP-SMX treats and prevents Pneumocystis pneumonia (and toxoplasmosis), key in HIV care.",
+   "shortExplanation": "Pneumocystis pneumonia.",
+   "pmid": "30020604",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "treatment and prophylaxis of Pneumocystis jirovecii pneumonia and toxoplasmosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020604-2-es",
+   "translationKey": "micro-30020604-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Además de infecciones urinarias, TMP-SMX es de elección para tratar y prevenir…",
+   "options": [
+    "Meningitis tuberculosa",
+    "Neumonía por Pneumocystis jirovecii",
+    "Esofagitis por Candida",
+    "Influenza"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "TMP-SMX trata y previene la neumonía por Pneumocystis (y la toxoplasmosis), clave en la atención del VIH.",
+   "shortExplanation": "Neumonía por Pneumocystis.",
+   "pmid": "30020604",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "treatment and prophylaxis of Pneumocystis jirovecii pneumonia and toxoplasmosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30969550-1-en",
+   "translationKey": "micro-30969550-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Metronidazole is a mainstay against which organisms?",
+   "options": [
+    "Anaerobic bacteria and protozoa",
+    "Aerobic gram-positive cocci",
+    "Mycobacteria",
+    "Dermatophytes"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Metronidazole treats anaerobic and microaerophilic bacteria and protozoa such as Entamoeba, Giardia and Trichomonas.",
+   "shortExplanation": "Anaerobes and protozoa.",
+   "pmid": "30969550",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Metronidazole is one of the mainstay drugs for the treatment of anaerobic bacterial infections, protozoal infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30969550-1-es",
+   "translationKey": "micro-30969550-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Contra qué organismos es pilar el metronidazol?",
+   "options": [
+    "Bacterias anaerobias y protozoos",
+    "Cocos grampositivos aerobios",
+    "Micobacterias",
+    "Dermatofitos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El metronidazol trata bacterias anaerobias y microaerófilas y protozoos como Entamoeba, Giardia y Trichomonas.",
+   "shortExplanation": "Anaerobios y protozoos.",
+   "pmid": "30969550",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Metronidazole is one of the mainstay drugs for the treatment of anaerobic bacterial infections, protozoal infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30969615-1-en",
+   "translationKey": "micro-30969615-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Linezolid belongs to which class and targets which bacteria?",
+   "options": [
+    "Glycopeptide; gram-negatives",
+    "Lipopeptide; anaerobes",
+    "Oxazolidinone; gram-positives, including VRE",
+    "Polymyxin; Pseudomonas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Linezolid is a synthetic oxazolidinone for gram-positive infections, including vancomycin-resistant enterococci.",
+   "shortExplanation": "Oxazolidinone; gram-positives.",
+   "pmid": "30969615",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Linezolid is a synthetic oxazolidinone antimicrobial drug indicated for gram-positive infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30969615-1-es",
+   "translationKey": "micro-30969615-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿A qué clase pertenece el linezolid y contra qué bacterias actúa?",
+   "options": [
+    "Glicopéptido; gramnegativas",
+    "Lipopéptido; anaerobios",
+    "Oxazolidinona; grampositivas, incluido ERV",
+    "Polimixina; Pseudomonas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El linezolid es una oxazolidinona sintética para infecciones por grampositivos, incluidos enterococos resistentes a vancomicina.",
+   "shortExplanation": "Oxazolidinona; grampositivas.",
+   "pmid": "30969615",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Linezolid is a synthetic oxazolidinone antimicrobial drug indicated for gram-positive infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29261926-1-en",
+   "translationKey": "micro-29261926-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Daptomycin is a…",
+   "options": [
+    "β-lactam from Penicillium",
+    "Aminoglycoside from Streptomyces griseus",
+    "Glycopeptide from Amycolatopsis",
+    "Cyclic lipopeptide from Streptomyces roseosporus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Daptomycin is a cyclic lipopeptide active against gram-positives including MRSA and VRE.",
+   "shortExplanation": "Cyclic lipopeptide.",
+   "pmid": "29261926",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Daptomycin is a cyclic lipopeptide antibiotic derived from the organism Streptomyces roseosporus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29261926-1-es",
+   "translationKey": "micro-29261926-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "La daptomicina es un…",
+   "options": [
+    "Betalactámico de Penicillium",
+    "Aminoglucósido de Streptomyces griseus",
+    "Glicopéptido de Amycolatopsis",
+    "Lipopéptido cíclico de Streptomyces roseosporus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La daptomicina es un lipopéptido cíclico activo contra grampositivos, incluidos SAMR y ERV.",
+   "shortExplanation": "Lipopéptido cíclico.",
+   "pmid": "29261926",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Daptomycin is a cyclic lipopeptide antibiotic derived from the organism Streptomyces roseosporus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491420-1-en",
+   "translationKey": "micro-32491420-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is the target of rifampin?",
+   "options": [
+    "DNA gyrase",
+    "DNA-dependent RNA polymerase",
+    "Peptidoglycan transpeptidase",
+    "50S ribosome"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Rifampin inhibits bacterial DNA-dependent RNA polymerase, blocking transcription.",
+   "shortExplanation": "RNA polymerase.",
+   "pmid": "32491420",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rifampin exerts bactericidal antimicrobial effects by inhibiting DNA-dependent RNA polymerase",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491420-1-es",
+   "translationKey": "micro-32491420-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es el blanco de la rifampicina?",
+   "options": [
+    "ADN girasa",
+    "ARN polimerasa dependiente de ADN",
+    "Transpeptidasa del peptidoglucano",
+    "Ribosoma 50S"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La rifampicina inhibe la ARN polimerasa bacteriana dependiente de ADN y bloquea la transcripción.",
+   "shortExplanation": "ARN polimerasa.",
+   "pmid": "32491420",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rifampin exerts bactericidal antimicrobial effects by inhibiting DNA-dependent RNA polymerase",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491549-1-en",
+   "translationKey": "micro-32491549-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How is isoniazid activated inside Mycobacterium tuberculosis?",
+   "options": [
+    "By the catalase-peroxidase KatG",
+    "By gastric acid",
+    "By human liver enzymes only",
+    "It needs no activation"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "INH is a prodrug activated by mycobacterial KatG; katG mutations are a classic cause of INH resistance.",
+   "shortExplanation": "KatG.",
+   "pmid": "32491549",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "INH functions as a prodrug activated by the catalase-peroxidase KatG",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491549-1-es",
+   "translationKey": "micro-32491549-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se activa la isoniazida dentro de Mycobacterium tuberculosis?",
+   "options": [
+    "Por la catalasa-peroxidasa KatG",
+    "Por el ácido gástrico",
+    "Solo por enzimas hepáticas humanas",
+    "No necesita activación"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La INH es una prodroga activada por KatG micobacteriana; las mutaciones de katG son causa clásica de resistencia.",
+   "shortExplanation": "KatG.",
+   "pmid": "32491549",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "INH functions as a prodrug activated by the catalase-peroxidase KatG",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491549-2-en",
+   "translationKey": "micro-32491549-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which mycobacterial cell-wall component does isoniazid prevent from being made?",
+   "options": [
+    "Peptidoglycan",
+    "Lipopolysaccharide",
+    "Mycolic acids",
+    "Teichoic acids"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Activated INH inhibits mycolic acid synthesis, essential for the mycobacterial wall (and acid-fastness).",
+   "shortExplanation": "Mycolic acids.",
+   "pmid": "32491549",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "inhibit the production of mycolic acids, the essential components of the mycobacterium's cell wall",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491549-2-es",
+   "translationKey": "micro-32491549-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué componente de la pared micobacteriana impide sintetizar la isoniazida?",
+   "options": [
+    "Peptidoglucano",
+    "Lipopolisacárido",
+    "Ácidos micólicos",
+    "Ácidos teicoicos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La INH activada inhibe la síntesis de ácidos micólicos, esenciales para la pared micobacteriana (y la ácido-alcohol resistencia).",
+   "shortExplanation": "Ácidos micólicos.",
+   "pmid": "32491549",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "inhibit the production of mycolic acids, the essential components of the mycobacterium's cell wall",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869168-1-en",
+   "translationKey": "micro-31869168-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Structurally, how do carbapenems differ from penicillins?",
+   "options": [
+    "They lack a β-lactam ring",
+    "They contain a macrolactone ring",
+    "They are peptides",
+    "They have an added pyrroline ring that protects the β-lactam ring"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The pyrroline ring protects the β-lactam ring from many β-lactamases, giving carbapenems their broad spectrum.",
+   "shortExplanation": "Pyrroline ring.",
+   "pmid": "31869168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Structurally, carbapenems are similar to penicillins but have the addition of a pyrroline ring",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869168-1-es",
+   "translationKey": "micro-31869168-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Estructuralmente, ¿en qué se diferencian los carbapenémicos de las penicilinas?",
+   "options": [
+    "No tienen anillo betalactámico",
+    "Tienen un anillo macrolactona",
+    "Son péptidos",
+    "Tienen un anillo pirrolina agregado que protege al anillo betalactámico"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El anillo pirrolina protege al anillo betalactámico de muchas betalactamasas, de ahí su amplio espectro.",
+   "shortExplanation": "Anillo pirrolina.",
+   "pmid": "31869168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Structurally, carbapenems are similar to penicillins but have the addition of a pyrroline ring",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869168-2-en",
+   "translationKey": "micro-31869168-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is the most common mechanism of carbapenem resistance in Enterobacterales?",
+   "options": [
+    "Thicker capsule",
+    "Carbapenemase production",
+    "Spore formation",
+    "Loss of flagella"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Carbapenemase production is most common; efflux pumps and porin loss also contribute.",
+   "shortExplanation": "Carbapenemases.",
+   "pmid": "31869168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteria may have multiple resistance mechanisms to carbapenems, but the most common is carbapenemase enzyme production",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869168-2-es",
+   "translationKey": "micro-31869168-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es el mecanismo más común de resistencia a carbapenémicos en Enterobacterales?",
+   "options": [
+    "Cápsula más gruesa",
+    "Producción de carbapenemasas",
+    "Formación de esporas",
+    "Pérdida de flagelos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La producción de carbapenemasas es lo más frecuente; las bombas de eflujo y la pérdida de porinas también contribuyen.",
+   "shortExplanation": "Carbapenemasas.",
+   "pmid": "31869168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteria may have multiple resistance mechanisms to carbapenems, but the most common is carbapenemase enzyme production",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869168-3-en",
+   "translationKey": "micro-31869168-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which antibiotics do ESBLs typically hydrolyze?",
+   "options": [
+    "Penicillins, third-generation cephalosporins and monobactams",
+    "Carbapenems only",
+    "Aminoglycosides",
+    "Vancomycin"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "ESBLs hydrolyze penicillins, 3rd-generation cephalosporins and monobactams; carbapenems usually remain active.",
+   "shortExplanation": "Penicillins, 3rd-gen cephalosporins, monobactams.",
+   "pmid": "31869168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "extended-spectrum beta-lactamases (ESBL), which are enzymes that hydrolyze penicillins, third-generation cephalosporins, and monobactams",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869168-3-es",
+   "translationKey": "micro-31869168-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué antibióticos hidrolizan típicamente las BLEE?",
+   "options": [
+    "Penicilinas, cefalosporinas de tercera generación y monobactámicos",
+    "Solo carbapenémicos",
+    "Aminoglucósidos",
+    "Vancomicina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las BLEE hidrolizan penicilinas, cefalosporinas de 3.ª generación y monobactámicos; los carbapenémicos suelen conservar actividad.",
+   "shortExplanation": "Penicilinas, C3G, monobactámicos.",
+   "pmid": "31869168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "extended-spectrum beta-lactamases (ESBL), which are enzymes that hydrolyze penicillins, third-generation cephalosporins, and monobactams",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491472-1-en",
+   "translationKey": "micro-32491472-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "When are polymyxins (e.g., colistin) typically used?",
+   "options": [
+    "As first-line for strep throat",
+    "For fungal infections",
+    "As last-resort agents for multidrug-resistant gram-negatives",
+    "To treat viral hepatitis"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Polymyxins are reserved for multidrug-resistant gram-negatives (e.g., P. aeruginosa) resistant to most other classes.",
+   "shortExplanation": "Last resort for MDR gram-negatives.",
+   "pmid": "32491472",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "infected by susceptible strains of gram-negative pathogens resistant most of the other antibiotic classes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491472-1-es",
+   "translationKey": "micro-32491472-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuándo se usan típicamente las polimixinas (p. ej., colistina)?",
+   "options": [
+    "Como primera línea en faringitis",
+    "Para infecciones fúngicas",
+    "Como último recurso frente a gramnegativos multirresistentes",
+    "Para hepatitis viral"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las polimixinas se reservan para gramnegativos multirresistentes (p. ej., P. aeruginosa) resistentes a casi todo lo demás.",
+   "shortExplanation": "Último recurso.",
+   "pmid": "32491472",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "infected by susceptible strains of gram-negative pathogens resistant most of the other antibiotic classes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29262089-1-en",
+   "translationKey": "micro-29262089-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why is nitrofurantoin useful for uncomplicated cystitis but not for systemic infections?",
+   "options": [
+    "It concentrates in the lower urinary tract with low serum levels",
+    "It only works in the lungs",
+    "It is inactivated in urine",
+    "It is only active against fungi"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Nitrofurantoin reaches high urinary concentrations but low serum levels and spares bowel flora — ideal for lower UTIs.",
+   "shortExplanation": "Concentrates in urine.",
+   "pmid": "29262089",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it concentrates in the lower urinary tract while maintaining a low serum concentration",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29262089-1-es",
+   "translationKey": "micro-29262089-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la nitrofurantoína sirve para cistitis no complicada pero no para infecciones sistémicas?",
+   "options": [
+    "Se concentra en la vía urinaria baja con niveles séricos bajos",
+    "Solo actúa en pulmones",
+    "Se inactiva en la orina",
+    "Solo es activa contra hongos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La nitrofurantoína alcanza altas concentraciones urinarias con bajos niveles séricos y respeta la flora intestinal: ideal para ITU bajas.",
+   "shortExplanation": "Se concentra en orina.",
+   "pmid": "29262089",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it concentrates in the lower urinary tract while maintaining a low serum concentration",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28882725-1-en",
+   "translationKey": "micro-28882725-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What does \"antimicrobial stewardship\" refer to?",
+   "options": [
+    "Developing new antibiotics",
+    "Programs and interventions that optimize antimicrobial use",
+    "Selling antibiotics without prescription",
+    "Vaccinating livestock"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Stewardship is a coherent set of actions promoting responsible antimicrobial use, in human and animal health (One Health).",
+   "shortExplanation": "Optimizing antimicrobial use.",
+   "pmid": "28882725",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "typically referring to programmes and interventions that aim to optimize antimicrobial use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28882725-1-es",
+   "translationKey": "micro-28882725-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿A qué se refiere el \"uso racional de antimicrobianos\" (antimicrobial stewardship)?",
+   "options": [
+    "Desarrollar antibióticos nuevos",
+    "Programas e intervenciones que optimizan el uso de antimicrobianos",
+    "Vender antibióticos sin receta",
+    "Vacunar ganado"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El stewardship es un conjunto coherente de acciones para usar antimicrobianos de forma responsable, en salud humana y animal (Una Salud).",
+   "shortExplanation": "Optimizar el uso.",
+   "pmid": "28882725",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "typically referring to programmes and interventions that aim to optimize antimicrobial use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32887946-1-en",
+   "translationKey": "micro-32887946-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which conditions have been associated with an altered gut microbiota?",
+   "options": [
+    "Only infectious diarrhea",
+    "Fractures and sprains",
+    "Metabolic disorders such as obesity and type 2 diabetes",
+    "Color blindness"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Observational studies link aberrant gut microbiota to obesity, type 2 diabetes, fatty liver and cardiometabolic disease.",
+   "shortExplanation": "Metabolic diseases.",
+   "pmid": "32887946",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "may contribute to the metabolic health of the human host and, when aberrant, to the pathogenesis of various common metabolic disorders including obesity, type 2 diabetes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32887946-1-es",
+   "translationKey": "micro-32887946-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué condiciones se han asociado a una microbiota intestinal alterada?",
+   "options": [
+    "Solo diarrea infecciosa",
+    "Fracturas y esguinces",
+    "Trastornos metabólicos como obesidad y diabetes tipo 2",
+    "Daltonismo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Estudios observacionales vinculan una microbiota alterada con obesidad, diabetes tipo 2, hígado graso y enfermedad cardiometabólica.",
+   "shortExplanation": "Enfermedades metabólicas.",
+   "pmid": "32887946",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "may contribute to the metabolic health of the human host and, when aberrant, to the pathogenesis of various common metabolic disorders including obesity, type 2 diabetes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32887946-2-en",
+   "translationKey": "micro-32887946-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What is the main limitation of much gut-microbiota research to date?",
+   "options": [
+    "It cannot sequence DNA",
+    "It only studies viruses",
+    "It ignores diet entirely",
+    "Many findings are associations; causal mechanisms are still being established"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Much evidence is observational; the field is moving to cause-and-effect studies using multi-omics and experiments.",
+   "shortExplanation": "Association ≠ causation.",
+   "pmid": "32887946",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "research is moving from descriptive microbiota census analyses to cause-and-effect studies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32887946-2-es",
+   "translationKey": "micro-32887946-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Cuál es la principal limitación de gran parte de la investigación sobre microbiota?",
+   "options": [
+    "No puede secuenciar ADN",
+    "Solo estudia virus",
+    "Ignora la dieta",
+    "Muchos hallazgos son asociaciones; los mecanismos causales aún se están estableciendo"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Buena parte de la evidencia es observacional; el campo avanza hacia estudios de causa-efecto con multiómica y experimentos.",
+   "shortExplanation": "Asociación ≠ causalidad.",
+   "pmid": "32887946",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "research is moving from descriptive microbiota census analyses to cause-and-effect studies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
    "id": "vet-28722861-1-en",
    "translationKey": "vet-28722861-1",
    "language": "en",
@@ -29206,6 +31157,1974 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Children are particularly vulnerable, often sustaining injuries to the head and neck due to their smaller stature",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33509059-1-en",
+   "translationKey": "vet-33509059-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "What is bovine mastitis?",
+   "options": [
+    "Inflammation of the hoof",
+    "Inflammation of the udder, usually bacterial",
+    "A viral pneumonia of calves",
+    "A parasitic disease of the liver"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Mastitis is inflammation of the udder, most often caused by bacteria; it causes major losses in dairy farming.",
+   "shortExplanation": "Udder inflammation.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine mastitis is the inflammation of the mammary glands/udder of bovines, caused by bacterial pathogens, in most cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33509059-1-es",
+   "translationKey": "vet-33509059-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Qué es la mastitis bovina?",
+   "options": [
+    "Inflamación de la pezuña",
+    "Inflamación de la ubre, generalmente bacteriana",
+    "Una neumonía viral de terneros",
+    "Una parasitosis hepática"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La mastitis es la inflamación de la ubre, casi siempre bacteriana; causa grandes pérdidas en la lechería.",
+   "shortExplanation": "Inflamación de la ubre.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine mastitis is the inflammation of the mammary glands/udder of bovines, caused by bacterial pathogens, in most cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33509059-2-en",
+   "translationKey": "vet-33509059-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which two forms of mastitis must dairy diagnosis consider?",
+   "options": [
+    "Acute and congenital",
+    "Viral and fungal only",
+    "Bilateral and unilateral",
+    "Clinical and subclinical"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mastitis can be clinical (visible changes) or subclinical (no visible signs, detected by tests such as somatic cell counts).",
+   "shortExplanation": "Clinical and subclinical.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Routine diagnosis is based on clinical and subclinical forms of the disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33509059-2-es",
+   "translationKey": "vet-33509059-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué dos formas de mastitis debe considerar el diagnóstico en tambo?",
+   "options": [
+    "Aguda y congénita",
+    "Solo viral y fúngica",
+    "Bilateral y unilateral",
+    "Clínica y subclínica"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La mastitis puede ser clínica (cambios visibles) o subclínica (sin signos, detectada por pruebas como el recuento de células somáticas).",
+   "shortExplanation": "Clínica y subclínica.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Routine diagnosis is based on clinical and subclinical forms of the disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32051050-1-en",
+   "translationKey": "vet-32051050-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why is bovine mastitis also a public health concern?",
+   "options": [
+    "It can select antibiotic-resistant pathogens that spread",
+    "It causes mastitis in people who drink milk",
+    "It is transmitted by mosquitoes",
+    "It contaminates water with prions"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Antibiotic use against mastitis can select resistant pathogens that may reach humans (One Health).",
+   "shortExplanation": "Antibiotic resistance.",
+   "pmid": "32051050",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mastitis may have a negative impact on human health by inducing antibiotic-resistant pathogens that may spread",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32051050-1-es",
+   "translationKey": "vet-32051050-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la mastitis bovina también es un problema de salud pública?",
+   "options": [
+    "Puede seleccionar patógenos resistentes a antibióticos que se diseminan",
+    "Causa mastitis a quienes toman leche",
+    "La transmiten mosquitos",
+    "Contamina el agua con priones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El uso de antibióticos contra la mastitis puede seleccionar patógenos resistentes que lleguen al ser humano (Una Salud).",
+   "shortExplanation": "Resistencia antibiótica.",
+   "pmid": "32051050",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mastitis may have a negative impact on human health by inducing antibiotic-resistant pathogens that may spread",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33509059-3-en",
+   "translationKey": "vet-33509059-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What has been a recurring limitation of mastitis treatments evaluated as single therapies?",
+   "options": [
+    "They are too cheap",
+    "They cannot be given to cows",
+    "As monotherapy, none reliably eliminates the causative agent",
+    "They all cause prion disease"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Antibiotics, phages, probiotics and other options each lacked efficacy as monotherapy, driving interest in combined and preventive strategies.",
+   "shortExplanation": "Monotherapy fails to eliminate.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all of them lacked the efficacy to eliminate the associated etiological agent when used as a monotherapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33509059-3-es",
+   "translationKey": "vet-33509059-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué limitación recurrente mostraron los tratamientos de mastitis evaluados como terapia única?",
+   "options": [
+    "Son demasiado baratos",
+    "No se pueden dar a vacas",
+    "Como monoterapia, ninguno elimina de forma fiable al agente",
+    "Todos causan enfermedad priónica"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Antibióticos, fagos, probióticos y otras opciones carecieron de eficacia como monoterapia, lo que impulsa estrategias combinadas y preventivas.",
+   "shortExplanation": "La monoterapia no elimina.",
+   "pmid": "33509059",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "all of them lacked the efficacy to eliminate the associated etiological agent when used as a monotherapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39055751-1-en",
+   "translationKey": "vet-39055751-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which organism causes bovine tuberculosis?",
+   "options": [
+    "Mycobacterium leprae",
+    "Mycobacterium avium",
+    "Mycobacterium bovis",
+    "Brucella abortus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Bovine TB is caused by Mycobacterium bovis, a zoonotic pathogen of cattle and humans.",
+   "shortExplanation": "Mycobacterium bovis.",
+   "pmid": "39055751",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is brought on by the Mycobacterium bovis bacteria, which can infect both people and animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39055751-1-es",
+   "translationKey": "vet-39055751-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué organismo causa la tuberculosis bovina?",
+   "options": [
+    "Mycobacterium leprae",
+    "Mycobacterium avium",
+    "Mycobacterium bovis",
+    "Brucella abortus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La TB bovina la causa Mycobacterium bovis, patógeno zoonótico de bovinos y humanos.",
+   "shortExplanation": "Mycobacterium bovis.",
+   "pmid": "39055751",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is brought on by the Mycobacterium bovis bacteria, which can infect both people and animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39055751-2-en",
+   "translationKey": "vet-39055751-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What is the primary test used to detect bovine tuberculosis in live cattle?",
+   "options": [
+    "Blood culture",
+    "Tuberculin skin test",
+    "Rectal palpation",
+    "Milk Gram stain"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The tuberculin test is the main screening tool; positives are removed under test-and-cull programs.",
+   "shortExplanation": "Tuberculin test.",
+   "pmid": "39055751",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The tuberculin test is the primary method for detecting bovine tuberculosis in cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39055751-2-es",
+   "translationKey": "vet-39055751-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es la prueba principal para detectar tuberculosis bovina en animales vivos?",
+   "options": [
+    "Hemocultivo",
+    "Prueba de tuberculina",
+    "Palpación rectal",
+    "Gram de la leche"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La tuberculina es la principal herramienta de tamizaje; los positivos se eliminan en programas de prueba y sacrificio.",
+   "shortExplanation": "Tuberculina.",
+   "pmid": "39055751",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The tuberculin test is the primary method for detecting bovine tuberculosis in cows",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39055751-3-en",
+   "translationKey": "vet-39055751-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How have developed countries controlled bovine tuberculosis?",
+   "options": [
+    "Treating all cattle with isoniazid",
+    "Mass vaccination of humans",
+    "Banning milk consumption",
+    "Mandatory routine testing and culling of infected animals"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "National test-and-cull programs, plus milk pasteurization, have been key to controlling bovine TB.",
+   "shortExplanation": "Test and cull.",
+   "pmid": "39055751",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "developed nations have implemented routine testing and culling of infected animals under national mandatory programs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39055751-3-es",
+   "translationKey": "vet-39055751-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo controlaron los países desarrollados la tuberculosis bovina?",
+   "options": [
+    "Tratando todo el ganado con isoniazida",
+    "Vacunando masivamente a personas",
+    "Prohibiendo la leche",
+    "Pruebas obligatorias de rutina y sacrificio de animales infectados"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los programas nacionales de prueba y sacrificio, junto con la pasteurización, fueron clave para controlar la TB bovina.",
+   "shortExplanation": "Prueba y sacrificio.",
+   "pmid": "39055751",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "developed nations have implemented routine testing and culling of infected animals under national mandatory programs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38462419-1-en",
+   "translationKey": "vet-38462419-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Foot-and-mouth disease affects…",
+   "options": [
+    "Cloven-hoofed animals, causing a vesicular syndrome",
+    "Only horses",
+    "Only humans",
+    "Only poultry"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "FMD is a highly contagious viral vesicular disease of cloven-hoofed animals (cattle, pigs, sheep, goats).",
+   "shortExplanation": "Cloven-hoofed animals.",
+   "pmid": "38462419",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The disease causes a highly contagious vesicular syndrome of cloven-hoofed animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38462419-1-es",
+   "translationKey": "vet-38462419-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "La fiebre aftosa afecta a…",
+   "options": [
+    "Animales de pezuña hendida, con un síndrome vesicular",
+    "Solo caballos",
+    "Solo humanos",
+    "Solo aves"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La aftosa es una enfermedad vesicular viral muy contagiosa de animales de pezuña hendida (bovinos, cerdos, ovinos, caprinos).",
+   "shortExplanation": "Pezuña hendida.",
+   "pmid": "38462419",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The disease causes a highly contagious vesicular syndrome of cloven-hoofed animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38462419-2-en",
+   "translationKey": "vet-38462419-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why does foot-and-mouth disease matter so much economically?",
+   "options": [
+    "It kills most infected humans",
+    "It contaminates crops",
+    "Its presence restricts international trade in animal products",
+    "It has no economic effect"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FMD status determines access to international markets for meat and animal products.",
+   "shortExplanation": "Trade restrictions.",
+   "pmid": "38462419",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is an important determinant of global trade in animal products",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38462419-2-es",
+   "translationKey": "vet-38462419-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la fiebre aftosa es tan importante económicamente?",
+   "options": [
+    "Mata a la mayoría de los humanos infectados",
+    "Contamina cultivos",
+    "Su presencia restringe el comercio internacional de productos animales",
+    "No tiene efecto económico"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El estatus sanitario frente a la aftosa determina el acceso a mercados internacionales de carne y productos animales.",
+   "shortExplanation": "Restricciones comerciales.",
+   "pmid": "38462419",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "is an important determinant of global trade in animal products",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31743062-1-en",
+   "translationKey": "vet-31743062-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What is characteristic of African swine fever in domestic pigs?",
+   "options": [
+    "It is mild and self-limited",
+    "It infects humans",
+    "It is caused by a bacterium",
+    "It can kill almost all infected pigs"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "ASF can cause near-total mortality in domestic pigs; it does not infect humans.",
+   "shortExplanation": "Very high mortality.",
+   "pmid": "31743062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "African swine fever is a devastating disease that can result in death in almost all infected pigs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31743062-1-es",
+   "translationKey": "vet-31743062-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué caracteriza a la peste porcina africana en cerdos domésticos?",
+   "options": [
+    "Es leve y autolimitada",
+    "Infecta humanos",
+    "La causa una bacteria",
+    "Puede matar a casi todos los cerdos infectados"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La PPA puede causar mortalidad casi total en cerdos domésticos; no infecta al ser humano.",
+   "shortExplanation": "Mortalidad muy alta.",
+   "pmid": "31743062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "African swine fever is a devastating disease that can result in death in almost all infected pigs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31743062-2-en",
+   "translationKey": "vet-31743062-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why has vaccine development against African swine fever been so difficult?",
+   "options": [
+    "The virus is an RNA virus that mutates daily",
+    "ASFV is an unusual, complex DNA virus unrelated to other viruses",
+    "Pigs do not produce antibodies",
+    "The disease is not transmissible"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "ASFV is a large, complex DNA virus unlike others, complicating vaccine design.",
+   "shortExplanation": "Complex, unique DNA virus.",
+   "pmid": "31743062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The African swine fever virus is an unusual complex DNA virus and is not related to other viruses. This has presented challenges for vaccine development",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31743062-2-es",
+   "translationKey": "vet-31743062-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué ha sido tan difícil desarrollar una vacuna contra la peste porcina africana?",
+   "options": [
+    "Es un virus ARN que muta a diario",
+    "El VPPA es un virus ADN complejo e inusual, sin parentesco con otros",
+    "Los cerdos no producen anticuerpos",
+    "No es transmisible"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El VPPA es un virus ADN grande y complejo, distinto de otros, lo que complica el diseño de vacunas.",
+   "shortExplanation": "Virus ADN complejo y único.",
+   "pmid": "31743062",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The African swine fever virus is an unusual complex DNA virus and is not related to other viruses. This has presented challenges for vaccine development",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30836106-1-en",
+   "translationKey": "vet-30836106-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why is the recent spread of African swine fever to Europe and Asia a global concern?",
+   "options": [
+    "It threatens the global pig industry and food security",
+    "It has caused human pandemics",
+    "It destroys wheat crops",
+    "It contaminates drinking water with toxins"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Spread beyond Africa to Europe, Russia, China and Southeast Asia threatens pork production and food security.",
+   "shortExplanation": "Pig industry and food security.",
+   "pmid": "30836106",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "has heightened awareness of the threat posed by this devastating disease to the global pig industry and food security",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30836106-1-es",
+   "translationKey": "vet-30836106-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué la reciente diseminación de la PPA a Europa y Asia preocupa globalmente?",
+   "options": [
+    "Amenaza a la industria porcina mundial y la seguridad alimentaria",
+    "Causó pandemias humanas",
+    "Destruye cultivos de trigo",
+    "Contamina el agua con toxinas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Su expansión fuera de África a Europa, Rusia, China y el Sudeste Asiático amenaza la producción porcina y la seguridad alimentaria.",
+   "shortExplanation": "Porcinos y seguridad alimentaria.",
+   "pmid": "30836106",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "has heightened awareness of the threat posed by this devastating disease to the global pig industry and food security",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37112843-1-en",
+   "translationKey": "vet-37112843-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Besides being a major poultry pathogen, Newcastle disease virus is studied as…",
+   "options": [
+    "A vaccine against rabies",
+    "A cause of human hepatitis",
+    "A candidate antitumor (oncolytic) therapy",
+    "A plant pathogen"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "NDV threatens poultry worldwide and is also explored as an oncolytic antitumor agent.",
+   "shortExplanation": "Antitumor candidate.",
+   "pmid": "37112843",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Its pathogen, Newcastle disease virus (NDV), is also a promising antitumor treatment candidate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37112843-1-es",
+   "translationKey": "vet-37112843-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Además de ser un patógeno avícola importante, el virus de Newcastle se estudia como…",
+   "options": [
+    "Vacuna antirrábica",
+    "Causa de hepatitis humana",
+    "Candidato a terapia antitumoral (oncolítica)",
+    "Patógeno vegetal"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El VEN amenaza a la avicultura mundial y también se explora como agente oncolítico antitumoral.",
+   "shortExplanation": "Candidato antitumoral.",
+   "pmid": "37112843",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Its pathogen, Newcastle disease virus (NDV), is also a promising antitumor treatment candidate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-20933134-1-en",
+   "translationKey": "vet-20933134-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which dogs are most affected by canine parvovirus enteritis?",
+   "options": [
+    "Elderly dogs",
+    "Young dogs (puppies)",
+    "Only working dogs",
+    "Only vaccinated adults"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Since its emergence in 1978, parvoviral enteritis remains a major cause of illness and death in young dogs.",
+   "shortExplanation": "Puppies.",
+   "pmid": "20933134",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "canine parvoviral enteritis has remained a common and important cause of morbidity and mortality in young dogs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-20933134-1-es",
+   "translationKey": "vet-20933134-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué perros son los más afectados por la enteritis por parvovirus canino?",
+   "options": [
+    "Perros ancianos",
+    "Perros jóvenes (cachorros)",
+    "Solo perros de trabajo",
+    "Solo adultos vacunados"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Desde su aparición en 1978, la enteritis por parvovirus sigue siendo una causa importante de enfermedad y muerte en cachorros.",
+   "shortExplanation": "Cachorros.",
+   "pmid": "20933134",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "canine parvoviral enteritis has remained a common and important cause of morbidity and mortality in young dogs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32680664-1-en",
+   "translationKey": "vet-32680664-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What type of virus is feline leukemia virus and what does it cause?",
+   "options": [
+    "A herpesvirus causing conjunctivitis",
+    "A parvovirus causing enteritis",
+    "A coronavirus causing peritonitis",
+    "A retrovirus causing lymphoma, marrow disorders and immunosuppression"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "FeLV is a retrovirus causing tumors (mainly lymphoma), bone marrow disorders and immunosuppression in cats.",
+   "shortExplanation": "Retrovirus; lymphoma.",
+   "pmid": "32680664",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feline leukemia virus (FeLV) is a retrovirus with global impact on the health of domestic cats that causes tumors (mainly lymphoma), bone marrow disorders, and immunosuppression",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32680664-1-es",
+   "translationKey": "vet-32680664-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipo de virus es el de la leucemia felina y qué causa?",
+   "options": [
+    "Un herpesvirus que causa conjuntivitis",
+    "Un parvovirus que causa enteritis",
+    "Un coronavirus que causa peritonitis",
+    "Un retrovirus que causa linfoma, trastornos medulares e inmunosupresión"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El FeLV es un retrovirus que causa tumores (sobre todo linfoma), trastornos de médula ósea e inmunosupresión en gatos.",
+   "shortExplanation": "Retrovirus; linfoma.",
+   "pmid": "32680664",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feline leukemia virus (FeLV) is a retrovirus with global impact on the health of domestic cats that causes tumors (mainly lymphoma), bone marrow disorders, and immunosuppression",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33898852-1-en",
+   "translationKey": "vet-33898852-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What do mcr genes confer, and why does it matter for livestock?",
+   "options": [
+    "Mobilized colistin resistance, compromising a last-resort drug used in farming and medicine",
+    "Resistance to penicillin only",
+    "Resistance to antifungals",
+    "Virulence in plants"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "mcr genes mobilize colistin resistance; colistin use in livestock drives their spread, threatening a last-resort human drug.",
+   "shortExplanation": "Colistin resistance.",
+   "pmid": "33898852",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resistance genes (mcr - Mobilized Colistin Resistance - genes) that render last-resort drugs (Colistin) ineffective",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33898852-1-es",
+   "translationKey": "vet-33898852-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué confieren los genes mcr y por qué importan en la ganadería?",
+   "options": [
+    "Resistencia movilizable a colistina, comprometiendo un fármaco de último recurso usado en producción y medicina",
+    "Solo resistencia a penicilina",
+    "Resistencia a antifúngicos",
+    "Virulencia en plantas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los genes mcr movilizan la resistencia a colistina; su uso en ganadería favorece la diseminación y amenaza un fármaco humano de último recurso.",
+   "shortExplanation": "Resistencia a colistina.",
+   "pmid": "33898852",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resistance genes (mcr - Mobilized Colistin Resistance - genes) that render last-resort drugs (Colistin) ineffective",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37900320-1-en",
+   "translationKey": "vet-37900320-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What helps bovine viral diarrhea virus persist in cattle herds?",
+   "options": [
+    "It forms spores",
+    "It is resistant to all disinfectants",
+    "It evades innate and adaptive immunity through multiple strategies",
+    "It only infects wild animals"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "BVDV evades type I interferon signaling, adaptive immunity and other defenses, promoting survival and spread.",
+   "shortExplanation": "Immune evasion.",
+   "pmid": "37900320",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the virus has evolved multiple strategies to evade the host's innate immunity and adaptive immunity",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37900320-1-es",
+   "translationKey": "vet-37900320-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué ayuda al virus de la diarrea viral bovina a persistir en los rodeos?",
+   "options": [
+    "Forma esporas",
+    "Resiste todos los desinfectantes",
+    "Evade la inmunidad innata y adaptativa con múltiples estrategias",
+    "Solo infecta animales silvestres"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El VDVB evade la señalización del interferón tipo I, la inmunidad adaptativa y otras defensas, favoreciendo su persistencia.",
+   "shortExplanation": "Evasión inmune.",
+   "pmid": "37900320",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the virus has evolved multiple strategies to evade the host's innate immunity and adaptive immunity",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23798687-1-en",
+   "translationKey": "vet-23798687-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Which animal disease was declared globally eradicated in 2011?",
+   "options": [
+    "Rinderpest",
+    "Foot-and-mouth disease",
+    "Rabies",
+    "Anthrax"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Rinderpest was declared eradicated in 2011 — only the second disease ever eradicated, after smallpox.",
+   "shortExplanation": "Rinderpest.",
+   "pmid": "23798687",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "culminated in 2011 with the UN Food and Agriculture Organization and the World Organization for Animal Health declaring global eradication of rinderpest",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23798687-1-es",
+   "translationKey": "vet-23798687-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Qué enfermedad animal se declaró erradicada del mundo en 2011?",
+   "options": [
+    "Peste bovina",
+    "Fiebre aftosa",
+    "Rabia",
+    "Carbunco"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La peste bovina se declaró erradicada en 2011: la segunda enfermedad erradicada de la historia, tras la viruela.",
+   "shortExplanation": "Peste bovina.",
+   "pmid": "23798687",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "culminated in 2011 with the UN Food and Agriculture Organization and the World Organization for Animal Health declaring global eradication of rinderpest",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23798687-2-en",
+   "translationKey": "vet-23798687-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which conventional measures were the basis of rinderpest control?",
+   "options": [
+    "Antibiotic treatment of all cattle",
+    "Mass vaccination combined with zoosanitary procedures",
+    "Insecticide spraying only",
+    "Culling all wildlife"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Mass vaccination plus zoosanitary measures drove the decline; innovations later solved last-mile surveillance challenges.",
+   "shortExplanation": "Mass vaccination + zoosanitary measures.",
+   "pmid": "23798687",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "principally mass vaccination combined with zoosanitary procedures",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23798687-2-es",
+   "translationKey": "vet-23798687-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué medidas convencionales fueron la base del control de la peste bovina?",
+   "options": [
+    "Antibióticos a todo el ganado",
+    "Vacunación masiva combinada con medidas zoosanitarias",
+    "Solo insecticidas",
+    "Eliminar toda la fauna silvestre"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La vacunación masiva y las medidas zoosanitarias impulsaron la caída; luego innovaciones resolvieron la vigilancia de la última milla.",
+   "shortExplanation": "Vacunación masiva + zoosanitarias.",
+   "pmid": "23798687",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "principally mass vaccination combined with zoosanitary procedures",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-7728636-1-en",
+   "translationKey": "vet-7728636-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which statement about bluetongue is correct?",
+   "options": [
+    "It is a highly contagious bacterial disease",
+    "It spreads by direct contact between sheep",
+    "It is caused by a prion",
+    "It is a noncontagious, vector-borne viral disease (Orbivirus) of ruminants"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Bluetongue is a noncontagious Orbivirus disease of ruminants, transmitted by Culicoides midges, with 24 classic serotypes.",
+   "shortExplanation": "Noncontagious Orbivirus.",
+   "pmid": "7728636",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bluetongue (BLU) is a noncontagious viral disease. The virus is a member of the Orbivirus genus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-7728636-1-es",
+   "translationKey": "vet-7728636-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué afirmación sobre la lengua azul es correcta?",
+   "options": [
+    "Es una enfermedad bacteriana muy contagiosa",
+    "Se transmite por contacto directo entre ovejas",
+    "La causa un prion",
+    "Es una enfermedad viral no contagiosa (Orbivirus) de rumiantes, transmitida por vectores"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La lengua azul es una enfermedad por Orbivirus no contagiosa de rumiantes, transmitida por jejenes Culicoides, con 24 serotipos clásicos.",
+   "shortExplanation": "Orbivirus no contagioso.",
+   "pmid": "7728636",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bluetongue (BLU) is a noncontagious viral disease. The virus is a member of the Orbivirus genus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39204065-1-en",
+   "translationKey": "vet-39204065-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What does PRRS virus cause in pregnant sows?",
+   "options": [
+    "Reproductive failure",
+    "Skin vesicles",
+    "Hoof loss",
+    "Blindness"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "PRRSV causes reproductive failure in sows and respiratory disease in piglets and growers.",
+   "shortExplanation": "Reproductive failure.",
+   "pmid": "39204065",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PRRSV infection in gestating gilts and sows induces important reproductive failure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39204065-1-es",
+   "translationKey": "vet-39204065-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué causa el virus del PRRS en cerdas gestantes?",
+   "options": [
+    "Fallas reproductivas",
+    "Vesículas en piel",
+    "Pérdida de pezuñas",
+    "Ceguera"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El VPRRS causa fallas reproductivas en cerdas y enfermedad respiratoria en lechones y cerdos de engorde.",
+   "shortExplanation": "Fallas reproductivas.",
+   "pmid": "39204065",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PRRSV infection in gestating gilts and sows induces important reproductive failure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39204065-2-en",
+   "translationKey": "vet-39204065-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why do PRRSV-infected pigs often develop secondary infections?",
+   "options": [
+    "They stop eating",
+    "PRRSV produces antibiotics",
+    "PRRSV impairs respiratory tract immunity",
+    "Vaccines cause the infections"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "PRRSV interferes with respiratory immunity, predisposing to opportunistic secondary pathogens.",
+   "shortExplanation": "Impaired respiratory immunity.",
+   "pmid": "39204065",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PRRSV infection interferes with immunity in the respiratory tract, making PRRSV-infected pigs more susceptible to opportunistic secondary pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39204065-2-es",
+   "translationKey": "vet-39204065-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué los cerdos con PRRSV suelen tener infecciones secundarias?",
+   "options": [
+    "Dejan de comer",
+    "El PRRSV produce antibióticos",
+    "El PRRSV altera la inmunidad del tracto respiratorio",
+    "Las vacunas causan las infecciones"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El PRRSV interfiere con la inmunidad respiratoria y predispone a patógenos oportunistas secundarios.",
+   "shortExplanation": "Inmunidad respiratoria alterada.",
+   "pmid": "39204065",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PRRSV infection interferes with immunity in the respiratory tract, making PRRSV-infected pigs more susceptible to opportunistic secondary pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27894330-1-en",
+   "translationKey": "vet-27894330-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What kind of disease is Marek's disease in chickens?",
+   "options": [
+    "A bacterial enteritis",
+    "A neoplastic (tumor-causing) viral disease",
+    "A fungal pneumonia",
+    "A nutritional deficiency"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Marek's disease is a herpesvirus-induced neoplastic (T-cell lymphoma) disease of poultry.",
+   "shortExplanation": "Viral neoplastic disease.",
+   "pmid": "27894330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Marek's disease (MD), caused by Marek's disease virus (MDV), is a commercially important neoplastic disease of poultry",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27894330-1-es",
+   "translationKey": "vet-27894330-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipo de enfermedad es la enfermedad de Marek en pollos?",
+   "options": [
+    "Una enteritis bacteriana",
+    "Una enfermedad viral neoplásica (causa tumores)",
+    "Una neumonía fúngica",
+    "Una deficiencia nutricional"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La enfermedad de Marek es una enfermedad neoplásica (linfoma T) inducida por un herpesvirus en aves.",
+   "shortExplanation": "Viral neoplásica.",
+   "pmid": "27894330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Marek's disease (MD), caused by Marek's disease virus (MDV), is a commercially important neoplastic disease of poultry",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27894330-2-en",
+   "translationKey": "vet-27894330-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why have increasingly virulent Marek's disease virus strains emerged?",
+   "options": [
+    "Chickens stopped being vaccinated",
+    "The virus became a bacterium",
+    "Antibiotics selected them",
+    "Vaccines prevent disease but not infection or transmission ('leaky' vaccines)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MD vaccines prevent disease but not infection or shedding, allowing more virulent pathotypes to evolve.",
+   "shortExplanation": "Leaky vaccines.",
+   "pmid": "27894330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccines are only capable of preventing neuropathy, oncogenic disease and immunosuppression, but are unable to prevent MDV transmission or infection, leading to emergence of increasingly virulent pathotypes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27894330-2-es",
+   "translationKey": "vet-27894330-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué surgieron cepas cada vez más virulentas del virus de Marek?",
+   "options": [
+    "Se dejó de vacunar a los pollos",
+    "El virus se convirtió en bacteria",
+    "Los antibióticos las seleccionaron",
+    "Las vacunas previenen la enfermedad pero no la infección ni la transmisión (vacunas 'imperfectas')"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las vacunas contra Marek previenen la enfermedad pero no la infección ni la excreción, permitiendo la evolución de patotipos más virulentos.",
+   "shortExplanation": "Vacunas imperfectas.",
+   "pmid": "27894330",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccines are only capable of preventing neuropathy, oncogenic disease and immunosuppression, but are unable to prevent MDV transmission or infection, leading to emergence of increasingly virulent pathotypes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-10935278-1-en",
+   "translationKey": "vet-10935278-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What is a key consequence of non-fatal infectious bursal disease (Gumboro) in chickens?",
+   "options": [
+    "Immunosuppression",
+    "Feather color change",
+    "Egg size increase",
+    "Lifelong immunity to all viruses"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "IBDV damages the bursa of Fabricius, causing immunosuppression even when birds survive.",
+   "shortExplanation": "Immunosuppression.",
+   "pmid": "10935278",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the infection, when not fatal, leads to a degree of immunosuppression",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-10935278-1-es",
+   "translationKey": "vet-10935278-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es una consecuencia clave de la enfermedad de Gumboro no mortal en pollos?",
+   "options": [
+    "Inmunosupresión",
+    "Cambio de color de plumas",
+    "Huevos más grandes",
+    "Inmunidad de por vida a todos los virus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El virus daña la bolsa de Fabricio y causa inmunosupresión incluso en aves que sobreviven.",
+   "shortExplanation": "Inmunosupresión.",
+   "pmid": "10935278",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the infection, when not fatal, leads to a degree of immunosuppression",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-18501278-1-en",
+   "translationKey": "vet-18501278-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why is ongoing surveillance of canine distemper virus recommended?",
+   "options": [
+    "The virus infects only cats",
+    "Disease has been reported in vaccinated dogs, possibly from new variants",
+    "There is no vaccine",
+    "It was eradicated in 2011"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Distemper incidence has risen and cases in vaccinated dogs occur, so new variants and vaccine efficacy must be monitored.",
+   "shortExplanation": "Cases in vaccinated dogs.",
+   "pmid": "18501278",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "several episodes of CDV disease in vaccinated animals have been reported",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-18501278-1-es",
+   "translationKey": "vet-18501278-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué se recomienda vigilar el virus del moquillo canino?",
+   "options": [
+    "Solo infecta gatos",
+    "Se informaron casos en perros vacunados, quizá por nuevas variantes",
+    "No hay vacuna",
+    "Se erradicó en 2011"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La incidencia del moquillo aumentó y hay casos en perros vacunados; hay que vigilar nuevas variantes y la eficacia vacunal.",
+   "shortExplanation": "Casos en vacunados.",
+   "pmid": "18501278",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "several episodes of CDV disease in vaccinated animals have been reported",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39829669-1-en",
+   "translationKey": "vet-39829669-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which virus causes feline infectious peritonitis?",
+   "options": [
+    "Feline leukemia virus",
+    "Feline parvovirus",
+    "A feline coronavirus pathotype (FIPV)",
+    "Feline herpesvirus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Feline coronavirus has two pathotypes: the mild feline enteric coronavirus and the FIP virus.",
+   "shortExplanation": "Feline coronavirus (FIPV).",
+   "pmid": "39829669",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "There are two pathotypes, namely those caused by FCoV, which are often referred to as feline enteric coronavirus and FIP virus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39829669-1-es",
+   "translationKey": "vet-39829669-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué virus causa la peritonitis infecciosa felina?",
+   "options": [
+    "Virus de la leucemia felina",
+    "Parvovirus felino",
+    "Un patotipo de coronavirus felino (VPIF)",
+    "Herpesvirus felino"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El coronavirus felino tiene dos patotipos: el coronavirus entérico, leve, y el virus de la PIF.",
+   "shortExplanation": "Coronavirus felino (VPIF).",
+   "pmid": "39829669",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "There are two pathotypes, namely those caused by FCoV, which are often referred to as feline enteric coronavirus and FIP virus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23106497-1-en",
+   "translationKey": "vet-23106497-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which organism causes Johne's disease (paratuberculosis), and what is debated about it?",
+   "options": [
+    "Brucella abortus; whether it causes abortion",
+    "Mycobacterium bovis; whether it causes TB",
+    "Leptospira; whether it infects dogs",
+    "M. avium subsp. paratuberculosis; whether it is zoonotic"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Johne's disease is caused by MAP; its potential zoonotic role (e.g., Crohn's disease) remains controversial.",
+   "shortExplanation": "MAP; zoonotic potential.",
+   "pmid": "23106497",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This statement concludes with an assessment of the evidence in favor of MAP as a potential zoonotic pathogen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23106497-1-es",
+   "translationKey": "vet-23106497-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué organismo causa la paratuberculosis (enfermedad de Johne) y qué se debate?",
+   "options": [
+    "Brucella abortus; si causa aborto",
+    "Mycobacterium bovis; si causa TB",
+    "Leptospira; si infecta perros",
+    "M. avium subsp. paratuberculosis; si es zoonótico"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La enfermedad de Johne la causa MAP; su posible papel zoonótico (p. ej., Crohn) sigue siendo controvertido.",
+   "shortExplanation": "MAP; potencial zoonótico.",
+   "pmid": "23106497",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This statement concludes with an assessment of the evidence in favor of MAP as a potential zoonotic pathogen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29122409-1-en",
+   "translationKey": "vet-29122409-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Streptococcus suis is primarily a pathogen of…",
+   "options": [
+    "Cattle",
+    "Poultry",
+    "Horses",
+    "Pigs (and an emerging zoonosis)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "S. suis is a major swine pathogen and an emerging zoonotic agent, mainly in Asia, causing meningitis and sepsis.",
+   "shortExplanation": "Pigs.",
+   "pmid": "29122409",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Streptococcus suis is a major swine pathogen worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29122409-1-es",
+   "translationKey": "vet-29122409-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Streptococcus suis es principalmente un patógeno de…",
+   "options": [
+    "Bovinos",
+    "Aves",
+    "Caballos",
+    "Cerdos (y una zoonosis emergente)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "S. suis es un patógeno porcino importante y un agente zoonótico emergente, sobre todo en Asia, que causa meningitis y sepsis.",
+   "shortExplanation": "Cerdos.",
+   "pmid": "29122409",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Streptococcus suis is a major swine pathogen worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37766268-1-en",
+   "translationKey": "vet-37766268-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Lumpy skin disease of cattle is caused by a member of which virus family?",
+   "options": [
+    "Paramyxoviridae",
+    "Poxviridae",
+    "Reoviridae",
+    "Herpesviridae"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "LSDV is a poxvirus causing multiple skin nodules in cattle and buffalo; it has spread from Africa to Asia and Europe.",
+   "shortExplanation": "Poxviridae.",
+   "pmid": "37766268",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "LSD is caused by lumpy skin disease virus (LSDV), a member of the Poxviridae family",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37766268-1-es",
+   "translationKey": "vet-37766268-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿A qué familia pertenece el virus de la dermatosis nodular contagiosa bovina?",
+   "options": [
+    "Paramyxoviridae",
+    "Poxviridae",
+    "Reoviridae",
+    "Herpesviridae"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El LSDV es un poxvirus que causa múltiples nódulos cutáneos en bovinos y búfalos; se expandió de África a Asia y Europa.",
+   "shortExplanation": "Poxviridae.",
+   "pmid": "37766268",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "LSD is caused by lumpy skin disease virus (LSDV), a member of the Poxviridae family",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-40092198-1-en",
+   "translationKey": "vet-40092198-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Bovine spongiform encephalopathy is popularly known as…",
+   "options": [
+    "Blue tongue",
+    "Foot rot",
+    "Mad cow disease",
+    "Milk fever"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "BSE (mad cow disease) is a prion disease of cattle linked to variant CJD in humans.",
+   "shortExplanation": "Mad cow disease.",
+   "pmid": "40092198",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine spongiform encephalopathy (BSE), also referred to as mad cow disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-40092198-1-es",
+   "translationKey": "vet-40092198-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "La encefalopatía espongiforme bovina se conoce popularmente como…",
+   "options": [
+    "Lengua azul",
+    "Pietín",
+    "Enfermedad de la vaca loca",
+    "Fiebre de la leche"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La EEB (vaca loca) es una enfermedad priónica bovina vinculada a la variante de ECJ en humanos.",
+   "shortExplanation": "Vaca loca.",
+   "pmid": "40092198",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine spongiform encephalopathy (BSE), also referred to as mad cow disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-40092198-2-en",
+   "translationKey": "vet-40092198-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What was the cause of the UK BSE epidemic?",
+   "options": [
+    "Feeding cattle meat-and-bone meal contaminated with prions",
+    "Contaminated water",
+    "A mosquito-borne virus",
+    "Genetic inbreeding only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Feeding prion-contaminated meat-and-bone meal is the only known risk factor; banning ruminant protein in feed prevents BSE.",
+   "shortExplanation": "Contaminated meat-and-bone meal.",
+   "pmid": "40092198",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feeding livestock MBM obtained from BSE-infected livestock contaminated with BSE prions is the only known risk factor for BSE development",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-40092198-2-es",
+   "translationKey": "vet-40092198-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál fue la causa de la epidemia de EEB en el Reino Unido?",
+   "options": [
+    "Alimentar al ganado con harina de carne y hueso contaminada con priones",
+    "Agua contaminada",
+    "Un virus transmitido por mosquitos",
+    "Solo consanguinidad"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Dar harina de carne y hueso contaminada con priones es el único factor de riesgo conocido; prohibir proteína de rumiante en raciones previene la EEB.",
+   "shortExplanation": "Harina de carne y hueso.",
+   "pmid": "40092198",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feeding livestock MBM obtained from BSE-infected livestock contaminated with BSE prions is the only known risk factor for BSE development",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-40092198-3-en",
+   "translationKey": "vet-40092198-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "How is BSE usually diagnosed?",
+   "options": [
+    "Blood culture from the live cow",
+    "Examining central nervous system tissue for prions, usually post-mortem",
+    "Milk Gram stain",
+    "Fecal PCR for bacteria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Screening live animals is difficult; diagnosis relies on detecting prions in CNS tissue, typically after slaughter.",
+   "shortExplanation": "Prions in CNS tissue.",
+   "pmid": "40092198",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Typically, the central nervous system is examined for prions to diagnose this illness",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-40092198-3-es",
+   "translationKey": "vet-40092198-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Cómo se diagnostica habitualmente la EEB?",
+   "options": [
+    "Hemocultivo del animal vivo",
+    "Buscando priones en tejido del sistema nervioso central, en general post mortem",
+    "Gram de la leche",
+    "PCR fecal de bacterias"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Es difícil tamizar animales vivos; el diagnóstico se basa en detectar priones en tejido nervioso, en general tras la faena.",
+   "shortExplanation": "Priones en SNC.",
+   "pmid": "40092198",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Typically, the central nervous system is examined for prions to diagnose this illness",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1617202-1-en",
+   "translationKey": "vet-1617202-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Which factor is known to control the incubation period of scrapie in sheep?",
+   "options": [
+    "Diet only",
+    "Climate",
+    "Host genetics",
+    "Shearing frequency"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Sheep genetics (prion protein genotype) controls scrapie susceptibility and incubation, used in breeding-based control.",
+   "shortExplanation": "Host genetics.",
+   "pmid": "1617202",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the genetic control of the incubation period in sheep",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-1617202-1-es",
+   "translationKey": "vet-1617202-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué factor controla el período de incubación del scrapie en ovinos?",
+   "options": [
+    "Solo la dieta",
+    "El clima",
+    "La genética del huésped",
+    "La frecuencia de esquila"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La genética ovina (genotipo de la proteína priónica) controla la susceptibilidad e incubación, base del control por selección.",
+   "shortExplanation": "Genética del huésped.",
+   "pmid": "1617202",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the genetic control of the incubation period in sheep",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32152243-1-en",
+   "translationKey": "vet-32152243-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which influenza A subtype currently circulates worldwide in horses?",
+   "options": [
+    "H5N1",
+    "H1N1",
+    "H7N7",
+    "H3N8"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Equine influenza is caused by H3N8 (worldwide); H7N7 is believed extinct.",
+   "shortExplanation": "H3N8.",
+   "pmid": "32152243",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "subtype H7N7, which is believed extinct, and H3N8, which circulates worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32152243-1-es",
+   "translationKey": "vet-32152243-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué subtipo de influenza A circula actualmente en caballos a nivel mundial?",
+   "options": [
+    "H5N1",
+    "H1N1",
+    "H7N7",
+    "H3N8"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La influenza equina la causa H3N8 (mundial); H7N7 se cree extinto.",
+   "shortExplanation": "H3N8.",
+   "pmid": "32152243",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "subtype H7N7, which is believed extinct, and H3N8, which circulates worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-20933138-1-en",
+   "translationKey": "vet-20933138-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which serological test is classically used to diagnose leptospirosis in dogs?",
+   "options": [
+    "Microscopic agglutination test (MAT)",
+    "Coombs test",
+    "Widal test",
+    "Tuberculin test"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The microscopic agglutination test is the reference serology, with PCR as a complement.",
+   "shortExplanation": "MAT.",
+   "pmid": "20933138",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Testing today is highly based on serology (microscopic agglutination test)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-20933138-1-es",
+   "translationKey": "vet-20933138-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué prueba serológica se usa clásicamente para diagnosticar leptospirosis en perros?",
+   "options": [
+    "Prueba de aglutinación microscópica (MAT)",
+    "Prueba de Coombs",
+    "Reacción de Widal",
+    "Tuberculina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La aglutinación microscópica es la serología de referencia, con PCR como complemento.",
+   "shortExplanation": "MAT.",
+   "pmid": "20933138",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Testing today is highly based on serology (microscopic agglutination test)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38004824-1-en",
+   "translationKey": "vet-38004824-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What are the major sources of human Salmonella infection?",
+   "options": [
+    "Fresh fruit only",
+    "Tap water",
+    "Insect bites",
+    "Contaminated poultry eggs and meat"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Poultry eggs and meat are the main sources of human non-typhoidal salmonellosis.",
+   "shortExplanation": "Eggs and poultry meat.",
+   "pmid": "38004824",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Contaminated poultry eggs and meat products are the major sources of human Salmonella infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38004824-1-es",
+   "translationKey": "vet-38004824-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Cuáles son las principales fuentes de infección humana por Salmonella?",
+   "options": [
+    "Solo fruta fresca",
+    "Agua de red",
+    "Picaduras de insectos",
+    "Huevos y carne de aves contaminados"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los huevos y la carne de aves son las principales fuentes de salmonelosis no tifoidea humana.",
+   "shortExplanation": "Huevos y carne aviar.",
+   "pmid": "38004824",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Contaminated poultry eggs and meat products are the major sources of human Salmonella infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38004824-2-en",
+   "translationKey": "vet-38004824-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Where are Salmonella's principal virulence genes located?",
+   "options": [
+    "On the flagellin gene only",
+    "In Salmonella pathogenicity islands SPI-1 and SPI-2",
+    "In the capsule",
+    "In mitochondria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "SPI-1 and SPI-2 encode type III secretion systems for invasion and intracellular survival.",
+   "shortExplanation": "SPI-1 and SPI-2.",
+   "pmid": "38004824",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The principal virulence genes linked to Salmonella pathogenesis in poultry are located in Salmonella pathogenicity islands 1 and 2 (SPI-1 and SPI-2)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38004824-2-es",
+   "translationKey": "vet-38004824-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Dónde se ubican los principales genes de virulencia de Salmonella?",
+   "options": [
+    "Solo en el gen de flagelina",
+    "En las islas de patogenicidad SPI-1 y SPI-2",
+    "En la cápsula",
+    "En mitocondrias"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "SPI-1 y SPI-2 codifican sistemas de secreción tipo III para la invasión y la supervivencia intracelular.",
+   "shortExplanation": "SPI-1 y SPI-2.",
+   "pmid": "38004824",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The principal virulence genes linked to Salmonella pathogenesis in poultry are located in Salmonella pathogenicity islands 1 and 2 (SPI-1 and SPI-2)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36363726-1-en",
+   "translationKey": "vet-36363726-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which bacterium is the leading cause of human foodborne illness linked to poultry?",
+   "options": [
+    "Listeria monocytogenes",
+    "Clostridium botulinum",
+    "Campylobacter jejuni",
+    "Vibrio cholerae"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "C. jejuni colonizes broilers almost as a commensal and is the leading poultry-associated foodborne pathogen.",
+   "shortExplanation": "Campylobacter jejuni.",
+   "pmid": "36363726",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "C. jejuni is the leading cause of human foodborne illness associated with poultry",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36363726-1-es",
+   "translationKey": "vet-36363726-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué bacteria es la principal causa de enfermedad alimentaria humana vinculada a las aves?",
+   "options": [
+    "Listeria monocytogenes",
+    "Clostridium botulinum",
+    "Campylobacter jejuni",
+    "Vibrio cholerae"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "C. jejuni coloniza a los pollos casi como comensal y es el principal patógeno alimentario asociado a aves.",
+   "shortExplanation": "Campylobacter jejuni.",
+   "pmid": "36363726",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "C. jejuni is the leading cause of human foodborne illness associated with poultry",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36363726-2-en",
+   "translationKey": "vet-36363726-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which on-farm measure can reduce Campylobacter prevalence in broilers by more than half?",
+   "options": [
+    "Strict biosecurity",
+    "Feeding more corn",
+    "Raising birds at higher density",
+    "Removing all vaccines"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Strict biosecurity can cut C. jejuni prevalence by over 50% at market age.",
+   "shortExplanation": "Biosecurity.",
+   "pmid": "36363726",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Strict biosecurity measures can decrease C. jejuni prevalence by more than 50% in broilers at market age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36363726-2-es",
+   "translationKey": "vet-36363726-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué medida en granja puede reducir la prevalencia de Campylobacter en pollos a más de la mitad?",
+   "options": [
+    "Bioseguridad estricta",
+    "Dar más maíz",
+    "Criar a mayor densidad",
+    "Quitar todas las vacunas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La bioseguridad estricta puede reducir la prevalencia de C. jejuni en más de 50% a la edad de faena.",
+   "shortExplanation": "Bioseguridad.",
+   "pmid": "36363726",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Strict biosecurity measures can decrease C. jejuni prevalence by more than 50% in broilers at market age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31988203-1-en",
+   "translationKey": "vet-31988203-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which statement about swine influenza is correct?",
+   "options": [
+    "It never reaches humans",
+    "Influenza A viruses pass regularly from humans to pigs and vice versa",
+    "It is caused by a bacterium",
+    "It only infects wild boars"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Bidirectional human–pig transmission shapes influenza evolution in both species, relevant to pandemic planning.",
+   "shortExplanation": "Bidirectional transmission.",
+   "pmid": "31988203",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Human and swine IAV are prone to interspecies transmission, leading to regular incursions from human to pig and vice versa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31988203-1-es",
+   "translationKey": "vet-31988203-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué afirmación sobre la influenza porcina es correcta?",
+   "options": [
+    "Nunca llega a humanos",
+    "Los virus influenza A pasan regularmente de humanos a cerdos y viceversa",
+    "La causa una bacteria",
+    "Solo infecta jabalíes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La transmisión bidireccional humano–cerdo moldea la evolución de la influenza en ambas especies, clave para planificar pandemias.",
+   "shortExplanation": "Transmisión bidireccional.",
+   "pmid": "31988203",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Human and swine IAV are prone to interspecies transmission, leading to regular incursions from human to pig and vice versa",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   }
