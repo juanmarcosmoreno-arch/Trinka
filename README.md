@@ -98,7 +98,7 @@ the iPhone and Watch apps (`QuestionBankStore`) read the manifest from `QUESTION
 version, they download the file, validate every question exactly like the bundled bank, and use it
 from the next launch, so a day's challenge never changes mid-day. If anything fails (offline,
 invalid file), the app keeps the questions it has. To publish: run the build script, commit,
-and merge to `main`.
+and push to the default branch.
 
 - Topic quizzes: the app searches PubMed and calls TRINKA's question service
   (`Backend/question-service`, a Cloudflare Worker using Claude; setup in `Backend/README.md`).
