@@ -263,12 +263,12 @@ final class LevelFillTests: XCTestCase {
     func testCategoryQuizAtALevelFillsWithNearestLevels() throws {
         let bank = try SeedQuestionBank.load()
         var generator = SeededGenerator(seed: 7)
-        // Neuroscience has no "curious" question in the seed bank.
-        XCTAssertTrue(bank.questions(in: .en, category: .neuroscience, difficulty: .curious).count < 3)
-        let quiz = QuestionSelector().customQuiz(from: bank, language: .en, category: .neuroscience, difficulty: .curious,
+        // General science has fewer than 3 "curious" questions in the seed bank.
+        XCTAssertTrue(bank.questions(in: .en, category: .generalScience, difficulty: .curious).count < 3)
+        let quiz = QuestionSelector().customQuiz(from: bank, language: .en, category: .generalScience, difficulty: .curious,
                                                  count: 3, fillWithNearestLevels: true, using: &generator)
         XCTAssertEqual(quiz.count, 3)
-        XCTAssertTrue(quiz.allSatisfy { $0.category == .neuroscience })
+        XCTAssertTrue(quiz.allSatisfy { $0.category == .generalScience })
         XCTAssertEqual(quiz.first?.difficulty, quiz.map(\.difficulty).min { abs($0.level - 2) < abs($1.level - 2) })
     }
 }
@@ -383,7 +383,7 @@ final class QuestionBankStoreTests: XCTestCase {
         let shown = bank.categories(in: .es, minimumQuestions: 20)
         XCTAssertTrue(shown.contains(.microbiology))
         XCTAssertTrue(shown.contains(.foodAnalysis))
-        XCTAssertFalse(shown.contains(.neuroscience))
+        XCTAssertFalse(shown.contains(.generalScience))
         XCTAssertTrue(shown.allSatisfy { bank.questions(in: .es, category: $0).count >= 20 })
     }
 }
