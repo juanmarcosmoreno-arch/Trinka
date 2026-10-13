@@ -72,14 +72,22 @@ enum OnDeviceAI {
 
     /// Short, user-readable reason for a model error (shown so failures can be diagnosed).
     static func describe(_ error: Error) -> String {
-        let text = String(describing: error)
-        let lower = text.lowercased()
-        if lower.contains("guardrail") { return L10n.tr("ai.error.guardrail") }
-        if lower.contains("contextwindow") || lower.contains("context window") { return L10n.tr("ai.error.context") }
-        if lower.contains("language") || lower.contains("locale") { return L10n.tr("ai.error.language") }
-        if lower.contains("ratelimit") || lower.contains("concurrent") { return L10n.tr("ai.error.busy") }
-        if lower.contains("assets") { return L10n.tr("ai.status.modelNotReady") }
-        return String(text.prefix(160))
+        let detail = String(String(describing: error).prefix(140))
+        #if canImport(FoundationModels)
+        if #available(iOS 26.0, *), let generationError = error as? LanguageModelSession.GenerationError {
+            let reason: String
+            switch generationError {
+            case .guardrailViolation: reason = L10n.tr("ai.error.guardrail")
+            case .exceededContextWindowSize: reason = L10n.tr("ai.error.context")
+            case .unsupportedLanguageOrLocale: reason = L10n.tr("ai.error.language")
+            case .rateLimited: reason = L10n.tr("ai.error.busy")
+            case .assetsUnavailable: reason = L10n.tr("ai.status.modelNotReady")
+            default: reason = generationError.localizedDescription
+            }
+            return "\(reason) (\(detail))"
+        }
+        #endif
+        return detail
     }
 
     /// English PubMed search terms for a topic or question typed in any language.
