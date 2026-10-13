@@ -49,6 +49,8 @@ public enum QuestionGenerationError: Error, Equatable, Sendable {
     case busy
     case service(Int)
     case invalidResponse
+    /// The on-device model failed; carries the system's description for diagnosis.
+    case onDevice(String)
 }
 
 /// Anything that can propose questions for an article.
@@ -228,6 +230,21 @@ public enum TopicQuizError: Error, Equatable, Sendable {
     /// Articles were found, but no question passed verification.
     case noQuestions
     case service
+    /// PubMed search failed (not offline).
+    case search
+    /// The generator failed for every article; carries a short technical reason.
+    case generation(String)
+}
+
+extension TopicQuizBuilder {
+    /// Most informative error for a set of generation failures.
+    public static func topicError(for failures: [Error]) -> TopicQuizError {
+        if failures.contains(where: { ($0 as? QuestionGenerationError) == .offline }) { return .offline }
+        for failure in failures {
+            if case let .onDevice(reason) = failure as? QuestionGenerationError { return .generation(reason) }
+        }
+        return .service
+    }
 }
 
 /// Search seam so the builder can be tested without the network.
@@ -246,6 +263,8 @@ public struct TopicQuizBuilder: Sendable {
     /// Turns the topic into PubMed search terms (e.g. translates "estafilococo" to English).
     /// When `nil` or when it returns nothing, the topic is searched as typed.
     public var searchTerms: (@Sendable (String) async -> String?)?
+    /// How many articles are sent to the generator at once (1 for the on-device model).
+    public var maxConcurrentGenerations = 5
 
     public init(search: ArticleSearching, generator: QuestionGenerating) {
         self.search = search
@@ -273,7 +292,7 @@ public struct TopicQuizBuilder: Sendable {
         } catch PubMedError.offline {
             throw TopicQuizError.offline
         } catch {
-            throw TopicQuizError.service
+            throw TopicQuizError.search
         }
         let usable = found.filter { ($0.abstract?.count ?? 0) >= RemoteQuestionService.minimumAbstractLength }
         guard !usable.isEmpty else { throw TopicQuizError.noArticles }
@@ -288,24 +307,39 @@ public struct TopicQuizBuilder: Sendable {
         var perArticleQuestions: [[Question]] = Array(repeating: [], count: articles.count)
         var failures: [Error] = []
 
-        await withTaskGroup(of: (Int, Result<[QuestionDraft], Error>).self) { group in
+        func record(_ index: Int, _ result: Result<[QuestionDraft], Error>) {
+            switch result {
+            case let .success(drafts):
+                perArticleQuestions[index] = pipeline.verify(drafts, against: articles[index], idPrefix: "gen-\(batch)").accepted
+            case let .failure(error):
+                failures.append(error)
+            }
+        }
+
+        if maxConcurrentGenerations <= 1 {
+            // One at a time; stop early once there are enough questions.
             for (index, article) in articles.enumerated() {
-                group.addTask {
-                    do {
-                        return (index, .success(try await generator.generateDrafts(
-                            for: article, language: language, difficulty: level, count: perArticle)))
-                    } catch {
-                        return (index, .failure(error))
-                    }
+                if perArticleQuestions.reduce(0, { $0 + $1.count }) >= questionCount { break }
+                do {
+                    record(index, .success(try await generator.generateDrafts(
+                        for: article, language: language, difficulty: level, count: perArticle)))
+                } catch {
+                    record(index, .failure(error))
                 }
             }
-            for await (index, result) in group {
-                switch result {
-                case let .success(drafts):
-                    perArticleQuestions[index] = pipeline.verify(drafts, against: articles[index], idPrefix: "gen-\(batch)").accepted
-                case let .failure(error):
-                    failures.append(error)
+        } else {
+            await withTaskGroup(of: (Int, Result<[QuestionDraft], Error>).self) { group in
+                for (index, article) in articles.enumerated() {
+                    group.addTask {
+                        do {
+                            return (index, .success(try await generator.generateDrafts(
+                                for: article, language: language, difficulty: level, count: perArticle)))
+                        } catch {
+                            return (index, .failure(error))
+                        }
+                    }
                 }
+                for await (index, result) in group { record(index, result) }
             }
         }
 
@@ -324,8 +358,8 @@ public struct TopicQuizBuilder: Sendable {
         }
 
         guard !questions.isEmpty else {
-            if failures.count == articles.count {
-                throw failures.contains { ($0 as? QuestionGenerationError) == .offline } ? TopicQuizError.offline : TopicQuizError.service
+            if !failures.isEmpty {
+                throw Self.topicError(for: failures)
             }
             throw TopicQuizError.noQuestions
         }

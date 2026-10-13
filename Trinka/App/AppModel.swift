@@ -116,6 +116,7 @@ final class AppModel {
         if questionService == nil {
             // On-device: fewer articles (one model, one request at a time) and English search terms.
             builder.maxArticles = 3
+            builder.maxConcurrentGenerations = 1
             builder.searchTerms = { await OnDeviceAI.searchTerms(for: $0) }
         }
         let quiz = try await builder.build(topic: topic, language: language, level: level, questionCount: count, progress: progress)
@@ -130,10 +131,8 @@ final class AppModel {
         let drafts: [QuestionDraft]
         do {
             drafts = try await generator.generateDrafts(for: article, language: language, difficulty: level, count: count + 1)
-        } catch QuestionGenerationError.offline {
-            throw TopicQuizError.offline
         } catch {
-            throw TopicQuizError.service
+            throw TopicQuizBuilder.topicError(for: [error])
         }
         let batch = String(UUID().uuidString.prefix(8)).lowercased()
         let questions = Array(QuestionVerificationPipeline().verify(drafts, against: article, idPrefix: "art-\(batch)").accepted.prefix(count))

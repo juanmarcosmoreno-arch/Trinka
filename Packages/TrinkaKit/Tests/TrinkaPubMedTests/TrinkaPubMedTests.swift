@@ -355,3 +355,28 @@ final class AbstractQuoteTests: XCTestCase {
         XCTAssertNil(AbstractQuote.snap("Penicillin cures every infection quickly", to: abstract))
     }
 }
+
+final class OnDeviceFailureReportingTests: XCTestCase {
+    struct Search: ArticleSearching {
+        func searchArticles(_ query: PubMedQuery) async throws -> [ArticleReference] {
+            [ArticleReference(pmid: "1", title: "T", authors: [], journal: "J", year: 2020,
+                              abstract: String(repeating: "Staphylococcus aureus causes infections. ", count: 10))]
+        }
+    }
+    struct Failing: QuestionGenerating {
+        func generateDrafts(for article: ArticleReference, language: AppLanguage, difficulty: Difficulty, count: Int) async throws -> [QuestionDraft] {
+            throw QuestionGenerationError.onDevice("guardrail")
+        }
+    }
+
+    func testReportsTheOnDeviceReasonWhenGenerationFails() async {
+        var builder = TopicQuizBuilder(search: Search(), generator: Failing())
+        builder.maxConcurrentGenerations = 1
+        do {
+            _ = try await builder.build(topic: "staph", language: .es, level: .curious)
+            XCTFail("Expected a failure")
+        } catch {
+            XCTAssertEqual(error as? TopicQuizError, .generation("guardrail"))
+        }
+    }
+}

@@ -1,6 +1,7 @@
 import Foundation
 import TrinkaCore
 import TrinkaPubMed
+import TrinkaUI
 #if canImport(FoundationModels)
 import FoundationModels
 #endif
@@ -67,6 +68,18 @@ enum OnDeviceAI {
         if #available(iOS 26.0, *), isAvailable { return OnDeviceQuestionGenerator(category: category) }
         #endif
         return nil
+    }
+
+    /// Short, user-readable reason for a model error (shown so failures can be diagnosed).
+    static func describe(_ error: Error) -> String {
+        let text = String(describing: error)
+        let lower = text.lowercased()
+        if lower.contains("guardrail") { return L10n.tr("ai.error.guardrail") }
+        if lower.contains("contextwindow") || lower.contains("context window") { return L10n.tr("ai.error.context") }
+        if lower.contains("language") || lower.contains("locale") { return L10n.tr("ai.error.language") }
+        if lower.contains("ratelimit") || lower.contains("concurrent") { return L10n.tr("ai.error.busy") }
+        if lower.contains("assets") { return L10n.tr("ai.status.modelNotReady") }
+        return String(text.prefix(160))
     }
 
     /// English PubMed search terms for a topic or question typed in any language.
@@ -143,20 +156,18 @@ struct OnDeviceQuestionGenerator: QuestionGenerating {
     func generateDrafts(for article: ArticleReference, language: AppLanguage,
                         difficulty: Difficulty, count: Int) async throws -> [QuestionDraft] {
         guard let abstract = article.abstract, abstract.count >= 200 else { return [] }
-        let languageName = language == .es ? "Spanish" : "English"
-        let session = LanguageModelSession(instructions: """
-            You write multiple-choice quiz questions for students from a scientific abstract. \
-            Write the question, answers and explanation in \(languageName). \
-            Level: \(Self.levelDescription(difficulty)). \
-            Every question must be answerable from the abstract alone. The supporting sentence must be \
-            copied exactly from the abstract, in English, without changes.
-            """)
-        let prompt = "Write \(max(1, min(count, 3))) questions.\n\nTitle: \(article.title)\n\nAbstract:\n\(abstract.prefix(1500))"
         let generated: GeneratedQuestionSet
         do {
-            generated = try await session.respond(to: prompt, generating: GeneratedQuestionSet.self).content
+            generated = try await generate(article: article, abstract: abstract, language: language,
+                                           difficulty: difficulty, count: max(1, min(count, 3)), abstractLimit: 1500)
         } catch {
-            throw QuestionGenerationError.service(0)
+            // Retry once with a smaller request (shorter abstract, one question).
+            do {
+                generated = try await generate(article: article, abstract: abstract, language: language,
+                                               difficulty: difficulty, count: 1, abstractLimit: 900)
+            } catch {
+                throw QuestionGenerationError.onDevice(OnDeviceAI.describe(error))
+            }
         }
 
         return generated.questions.compactMap { item -> QuestionDraft? in
@@ -172,6 +183,20 @@ struct OnDeviceQuestionGenerator: QuestionGenerating {
                                  prompt: item.prompt, options: options, correctOptionIndex: correctIndex,
                                  explanation: item.explanation, supportingExcerpt: excerpt)
         }
+    }
+
+    private func generate(article: ArticleReference, abstract: String, language: AppLanguage,
+                          difficulty: Difficulty, count: Int, abstractLimit: Int) async throws -> GeneratedQuestionSet {
+        let languageName = language == .es ? "Spanish" : "English"
+        let session = LanguageModelSession(instructions: """
+            You write multiple-choice quiz questions for students from a scientific abstract. \
+            Write the question, answers and explanation in \(languageName). \
+            Level: \(Self.levelDescription(difficulty)). \
+            Every question must be answerable from the abstract alone. The supporting sentence must be \
+            copied exactly from the abstract, in English, without changes.
+            """)
+        let prompt = "Write \(count) questions.\n\nTitle: \(article.title)\n\nAbstract:\n\(abstract.prefix(abstractLimit))"
+        return try await session.respond(to: prompt, generating: GeneratedQuestionSet.self).content
     }
 
     private static func levelDescription(_ difficulty: Difficulty) -> String {

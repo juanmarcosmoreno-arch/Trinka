@@ -90,7 +90,7 @@ struct TopicQuizView: View {
         switch state {
         case .idle, .failed:
             if case let .failed(error) = state {
-                MessageView(systemImage: icon(for: error), title: L10n.tr("topic.error.title"), message: L10n.tr(message(for: error)))
+                MessageView(systemImage: icon(for: error), title: L10n.tr("topic.error.title"), message: detailedMessage(for: error))
             }
             Button(action: generate) {
                 Label(L10n.tr("topic.generate"), systemImage: "sparkles")
@@ -165,6 +165,11 @@ struct TopicQuizView: View {
         error == .offline ? "wifi.slash" : "exclamationmark.magnifyingglass"
     }
 
+    private func detailedMessage(for error: TopicQuizError) -> String {
+        if case let .generation(reason) = error { return L10n.tr("topic.error.generation", reason) }
+        return L10n.tr(message(for: error))
+    }
+
     private func message(for error: TopicQuizError) -> String {
         switch error {
         case .notConfigured: "topic.notConfigured"
@@ -172,6 +177,8 @@ struct TopicQuizView: View {
         case .noArticles: "topic.error.noArticles"
         case .noQuestions: "topic.error.noQuestions"
         case .service: "topic.error.service"
+        case .search: "topic.error.search"
+        case .generation: "topic.error.generation"
         }
     }
 }

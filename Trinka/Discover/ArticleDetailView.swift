@@ -100,13 +100,22 @@ struct ArticleDetailView: View {
                 .buttonStyle(.trinkaSecondary)
                 .disabled(!model.canGenerateTopicQuizzes)
                 if case let .failed(error) = quizPhase {
-                    Text(L10n.tr(error == .noQuestions ? "article.quiz.noQuestions" : (error == .offline ? "state.offline.message" : "topic.error.service")))
+                    Text(errorText(error))
                         .font(.footnote).foregroundStyle(Theme.error)
                 }
                 if !model.canGenerateTopicQuizzes {
                     Text(L10n.tr(OnDeviceAI.statusMessageKey)).font(.footnote).foregroundStyle(Theme.textSecondary)
                 }
             }
+        }
+    }
+
+    private func errorText(_ error: TopicQuizError) -> String {
+        switch error {
+        case .noQuestions: L10n.tr("article.quiz.noQuestions")
+        case .offline: L10n.tr("state.offline.message")
+        case let .generation(reason): L10n.tr("topic.error.generation", reason)
+        default: L10n.tr("topic.error.service")
         }
     }
 

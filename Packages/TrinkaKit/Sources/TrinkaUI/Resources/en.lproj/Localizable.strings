@@ -303,7 +303,14 @@
 "topic.error.title" = "Couldn't create questions";
 "topic.error.noArticles" = "PubMed has no articles with an abstract for this topic. Try a broader or English term.";
 "topic.error.noQuestions" = "Articles were found, but no question passed the source check. Try another level or topic.";
-"topic.error.service" = "The question service didn't respond. Try again in a moment.";
+"topic.error.service" = "Questions couldn't be created. Try again in a moment.";
+"topic.error.search" = "PubMed didn't respond to the search. Try again in a moment.";
+"topic.error.generation" = "Apple Intelligence couldn't create the questions: %@";
+
+"ai.error.guardrail" = "Apple's safety filter blocked this content (it can happen with medical topics). Try another article or topic.";
+"ai.error.context" = "the text was too long for the on-device model.";
+"ai.error.language" = "the language isn't supported. Check that Siri and Apple Intelligence use the same language as TRINKA.";
+"ai.error.busy" = "the model is busy. Wait a few seconds and try again.";
 
 "autogen.badge" = "Generated automatically";
 "autogen.note" = "Generated automatically: the answer was checked against the abstract, without expert review.";

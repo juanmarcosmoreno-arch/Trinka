@@ -303,7 +303,14 @@
 "topic.error.title" = "No se pudieron crear preguntas";
 "topic.error.noArticles" = "PubMed no tiene artículos con resumen sobre este tema. Prueba un término más amplio o en inglés.";
 "topic.error.noQuestions" = "Se encontraron artículos, pero ninguna pregunta superó la comprobación con la fuente. Prueba otro nivel o tema.";
-"topic.error.service" = "El servicio de preguntas no respondió. Inténtalo de nuevo en un momento.";
+"topic.error.service" = "No se pudieron crear las preguntas. Inténtalo de nuevo en un momento.";
+"topic.error.search" = "PubMed no respondió a la búsqueda. Inténtalo de nuevo en un momento.";
+"topic.error.generation" = "Apple Intelligence no pudo crear las preguntas: %@";
+
+"ai.error.guardrail" = "el filtro de seguridad de Apple bloqueó este contenido (puede pasar con temas médicos). Prueba otro artículo o tema.";
+"ai.error.context" = "el texto era demasiado largo para el modelo del iPhone.";
+"ai.error.language" = "el idioma no es compatible. Revisa que Siri y Apple Intelligence usen el mismo idioma que TRINKA.";
+"ai.error.busy" = "el modelo está ocupado. Espera unos segundos e inténtalo de nuevo.";
 
 "autogen.badge" = "Generada automáticamente";
 "autogen.note" = "Generada automáticamente: la respuesta se comprobó con el resumen, sin revisión de expertos.";
