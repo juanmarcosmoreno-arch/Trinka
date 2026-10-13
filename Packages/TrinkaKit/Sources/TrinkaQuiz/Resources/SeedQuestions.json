@@ -1,5 +1,5 @@
 {
- "version": 41,
+ "version": 42,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -5510,6 +5510,620 @@
     "Pragmatic Clinical Trial",
     "Randomized Controlled Trial",
     "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "12432041",
+   "title": "Dexamethasone in adults with bacterial meningitis.",
+   "authors": [
+    "de Gans J",
+    "van de Beek D",
+    "European Dexamethasone in Adulthood Bacterial Meningitis Study Investigators"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2002,
+   "doi": "10.1056/NEJMoa021334",
+   "abstract": "BACKGROUND: Mortality and morbidity rates are high among adults with acute bacterial meningitis, especially those with pneumococcal meningitis. In studies of bacterial meningitis in animals, adjuvant treatment with corticosteroids has beneficial effects.\nMETHODS: We conducted a prospective, randomized, double-blind, multicenter trial of adjuvant treatment with dexamethasone, as compared with placebo, in adults with acute bacterial meningitis. Dexamethasone (10 mg) or placebo was administered 15 to 20 minutes before or with the first dose of antibiotic and was given every 6 hours for four days. The primary outcome measure was the score on the Glasgow Outcome Scale at eight weeks (a score of 5, indicating a favorable outcome, vs. a score of 1 to 4, indicating an unfavorable outcome). A subgroup analysis according to the causative organism was performed. Analyses were performed on an intention-to-treat basis.\nRESULTS: A total of 301 patients were randomly assigned to a treatment group: 157 to the dexamethasone group and 144 to the placebo group. The base-line characteristics of the two groups were similar. Treatment with dexamethasone was associated with a reduction in the risk of an unfavorable outcome (relative risk, 0.59; 95 percent confidence interval, 0.37 to 0.94; P=0.03). Treatment with dexamethasone was also associated with a reduction in mortality (relative risk of death, 0.48; 95 percent confidence interval, 0.24 to 0.96; P=0.04). Among the patients with pneumococcal meningitis, there were unfavorable outcomes in 26 percent of the dexamethasone group, as compared with 52 percent of the placebo group (relative risk, 0.50; 95 percent confidence interval, 0.30 to 0.83; P=0.006). Gastrointestinal bleeding occurred in two patients in the dexamethasone group and in five patients in the placebo group.\nCONCLUSIONS: Early treatment with dexamethasone improves the outcome in adults with acute bacterial meningitis and does not increase the risk of gastrointestinal bleeding.",
+   "publicationTypes": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "18077808",
+   "title": "Dexamethasone in Vietnamese adolescents and adults with bacterial meningitis.",
+   "authors": [
+    "Nguyen TH",
+    "Tran TH",
+    "Thwaites G",
+    "Ly VC",
+    "Dinh XS",
+    "Ho Dang TN",
+    "Dang QT",
+    "Nguyen DP",
+    "Nguyen HP",
+    "To SD",
+    "Nguyen vV",
+    "Nguyen MD",
+    "Campbell J",
+    "Schultsz C",
+    "Parry C",
+    "Torok ME",
+    "White N",
+    "Nguyen TC",
+    "Tran TH",
+    "Stepniewska K",
+    "Farrar JJ"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2007,
+   "doi": "10.1056/NEJMoa070852",
+   "abstract": "BACKGROUND: It is uncertain whether all adults with bacterial meningitis benefit from treatment with adjunctive dexamethasone.\nMETHODS: We conducted a randomized, double-blind, placebo-controlled trial of dexamethasone in 435 patients over the age of 14 years who had suspected bacterial meningitis. The goal was to determine whether dexamethasone reduced the risk of death at 1 month and the risk of death or disability at 6 months.\nRESULTS: A total of 217 patients were assigned to the dexamethasone group, and 218 to the placebo group. Bacterial meningitis was confirmed in 300 patients (69.0%), probable meningitis was diagnosed in 123 patients (28.3%), and an alternative diagnosis was made in 12 patients (2.8%). An intention-to-treat analysis of all the patients showed that dexamethasone was not associated with a significant reduction in the risk of death at 1 month (relative risk, 0.79; 95% confidence interval [CI], 0.45 to 1.39) or the risk of death or disability at 6 months (odds ratio, 0.74; 95% CI, 0.47 to 1.17). In patients with confirmed bacterial meningitis, however, there was a significant reduction in the risk of death at 1 month (relative risk, 0.43; 95% CI, 0.20 to 0.94) and in the risk of death or disability at 6 months (odds ratio, 0.56; 95% CI, 0.32 to 0.98). These effects were not found in patients with probable bacterial meningitis. Results of multivariate analysis indicated that dexamethasone treatment for patients with probable bacterial meningitis was significantly associated with an increased risk of death at 1 month, an observation that may be explained by cases of tuberculous meningitis in the treatment group.\nCONCLUSIONS: Dexamethasone does not improve the outcome in all adolescents and adults with suspected bacterial meningitis; a beneficial effect appears to be confined to patients with microbiologically proven disease, including those who have received prior treatment with antibiotics. (Current Controlled Trials number, ISRCTN42986828 [controlled-trials.com] .).",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33951360",
+   "title": "Four-Month Rifapentine Regimens with or without Moxifloxacin for Tuberculosis.",
+   "authors": [
+    "Dorman SE",
+    "Nahid P",
+    "Kurbatova EV",
+    "Phillips PPJ",
+    "Bryant K",
+    "Dooley KE",
+    "Engle M",
+    "Goldberg SV",
+    "Phan HTT",
+    "Hakim J",
+    "Johnson JL",
+    "Lourens M",
+    "Martinson NA",
+    "Muzanyi G",
+    "Narunsky K",
+    "Nerette S",
+    "Nguyen NV",
+    "Pham TH",
+    "Pierre S",
+    "Purfield AE",
+    "Samaneka W",
+    "Savic RM",
+    "Sanne I",
+    "Scott NA",
+    "Shenje J",
+    "Sizemore E",
+    "Vernon A",
+    "Waja Z",
+    "Weiner M",
+    "Swindells S",
+    "Chaisson RE",
+    "AIDS Clinical Trials Group",
+    "Tuberculosis Trials Consortium"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2021,
+   "doi": "10.1056/NEJMoa2033400",
+   "abstract": "BACKGROUND: Rifapentine-based regimens have potent antimycobacterial activity that may allow for a shorter course in patients with drug-susceptible pulmonary tuberculosis.\nMETHODS: In an open-label, phase 3, randomized, controlled trial involving persons with newly diagnosed pulmonary tuberculosis from 13 countries, we compared two 4-month rifapentine-based regimens with a standard 6-month regimen consisting of rifampin, isoniazid, pyrazinamide, and ethambutol (control) using a noninferiority margin of 6.6 percentage points. In one 4-month regimen, rifampin was replaced with rifapentine; in the other, rifampin was replaced with rifapentine and ethambutol with moxifloxacin. The primary efficacy outcome was survival free of tuberculosis at 12 months.\nRESULTS: Among 2516 participants who had undergone randomization, 2343 had a culture positive for Mycobacterium tuberculosis that was not resistant to isoniazid, rifampin, or fluoroquinolones (microbiologically eligible population; 768 in the control group, 791 in the rifapentine-moxifloxacin group, and 784 in the rifapentine group), of whom 194 were coinfected with human immunodeficiency virus and 1703 had cavitation on chest radiography. A total of 2234 participants could be assessed for the primary outcome (assessable population; 726 in the control group, 756 in the rifapentine-moxifloxacin group, and 752 in the rifapentine group). Rifapentine with moxifloxacin was noninferior to the control in the microbiologically eligible population (15.5% vs. 14.6% had an unfavorable outcome; difference, 1.0 percentage point; 95% confidence interval [CI], -2.6 to 4.5) and in the assessable population (11.6% vs. 9.6%; difference, 2.0 percentage points; 95% CI, -1.1 to 5.1). Noninferiority was shown in the secondary and sensitivity analyses. Rifapentine without moxifloxacin was not shown to be noninferior to the control in either population (17.7% vs. 14.6% with an unfavorable outcome in the microbiologically eligible population; difference, 3.0 percentage points [95% CI, -0.6 to 6.6]; and 14.2% vs. 9.6% in the assessable population; difference, 4.4 percentage points [95% CI, 1.2 to 7.7]). Adverse events of grade 3 or higher occurred during the on-treatment period in 19.3% of participants in the control group, 18.8% in the rifapentine-moxifloxacin group, and 14.3% in the rifapentine group.\nCONCLUSIONS: The efficacy of a 4-month rifapentine-based regimen containing moxifloxacin was noninferior to the standard 6-month regimen in the treatment of tuberculosis. (Funded by the Centers for Disease Control and Prevention and others; Study 31/A5349 ClinicalTrials.gov number, NCT02410772.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Comparative Study",
+    "Equivalence Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32997908",
+   "title": "HPV Vaccination and the Risk of Invasive Cervical Cancer.",
+   "authors": [
+    "Lei J",
+    "Ploner A",
+    "Elfström KM",
+    "Wang J",
+    "Roth A",
+    "Fang F",
+    "Sundström K",
+    "Dillner J",
+    "Sparén P"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2020,
+   "doi": "10.1056/NEJMoa1917338",
+   "abstract": "BACKGROUND: The efficacy and effectiveness of the quadrivalent human papillomavirus (HPV) vaccine in preventing high-grade cervical lesions have been shown. However, data to inform the relationship between quadrivalent HPV vaccination and the subsequent risk of invasive cervical cancer are lacking.\nMETHODS: We used nationwide Swedish demographic and health registers to follow an open population of 1,672,983 girls and women who were 10 to 30 years of age from 2006 through 2017. We assessed the association between HPV vaccination and the risk of invasive cervical cancer, controlling for age at follow-up, calendar year, county of residence, and parental characteristics, including education, household income, mother's country of birth, and maternal disease history.\nRESULTS: During the study period, we evaluated girls and women for cervical cancer until their 31st birthday. Cervical cancer was diagnosed in 19 women who had received the quadrivalent HPV vaccine and in 538 women who had not received the vaccine. The cumulative incidence of cervical cancer was 47 cases per 100,000 persons among women who had been vaccinated and 94 cases per 100,000 persons among those who had not been vaccinated. After adjustment for age at follow-up, the incidence rate ratio for the comparison of the vaccinated population with the unvaccinated population was 0.51 (95% confidence interval [CI], 0.32 to 0.82). After additional adjustment for other covariates, the incidence rate ratio was 0.37 (95% CI, 0.21 to 0.57). After adjustment for all covariates, the incidence rate ratio was 0.12 (95% CI, 0.00 to 0.34) among women who had been vaccinated before the age of 17 years and 0.47 (95% CI, 0.27 to 0.75) among women who had been vaccinated at the age of 17 to 30 years.\nCONCLUSIONS: Among Swedish girls and women 10 to 30 years old, quadrivalent HPV vaccination was associated with a substantially reduced risk of invasive cervical cancer at the population level. (Funded by the Swedish Foundation for Strategic Research and others.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31800986",
+   "title": "Phase 3 Efficacy Analysis of a Typhoid Conjugate Vaccine Trial in Nepal.",
+   "authors": [
+    "Shakya M",
+    "Colin-Jones R",
+    "Theiss-Nyland K",
+    "Voysey M",
+    "Pant D",
+    "Smith N",
+    "Liu X",
+    "Tonks S",
+    "Mazur O",
+    "Farooq YG",
+    "Clarke J",
+    "Hill J",
+    "Adhikari A",
+    "Dongol S",
+    "Karkey A",
+    "Bajracharya B",
+    "Kelly S",
+    "Gurung M",
+    "Baker S",
+    "Neuzil KM",
+    "Shrestha S",
+    "Basnyat B",
+    "Pollard AJ",
+    "TyVAC Nepal Study Team"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2019,
+   "doi": "10.1056/NEJMoa1905047",
+   "abstract": "BACKGROUND: Salmonella Typhi is a major cause of fever in children in low- and middle-income countries. A typhoid conjugate vaccine (TCV) that was recently prequalified by the World Health Organization was shown to be efficacious in a human challenge model, but data from efficacy trials in areas where typhoid is endemic are lacking.\nMETHODS: In this phase 3, randomized, controlled trial in Lalitpur, Nepal, in which both the participants and observers were unaware of the trial-group assignments, we randomly assigned children who were between 9 months and 16 years of age, in a 1:1 ratio, to receive either a TCV or a capsular group A meningococcal conjugate vaccine (MenA) as a control. The primary outcome was typhoid fever confirmed by blood culture. We present the prespecified analysis of the primary and main secondary outcomes (including an immunogenicity subgroup); the 2-year trial follow-up is ongoing.\nRESULTS: A total of 10,005 participants received the TCV and 10,014 received the MenA vaccine. Blood culture-confirmed typhoid fever occurred in 7 participants who received TCV (79 cases per 100,000 person-years) and in 38 who received MenA vaccine (428 cases per 100,000 person-years) (vaccine efficacy, 81.6%; 95% confidence interval, 58.8 to 91.8; P<0.001). A total of 132 serious adverse events (61 in the TCV group and 71 in the MenA vaccine group) occurred in the first 6 months, and 1 event (pyrexia) was identified as being vaccine-related; the participant remained unaware of the trial-group assignment. Similar rates of adverse events were noted in the two trial groups; fever developed in 5.0% of participants in the TCV group and 5.4% in the MenA vaccine group in the first week after vaccination. In the immunogenicity subgroup, seroconversion (a Vi IgG level that at least quadrupled 28 days after vaccination) was 99% in the TCV group (677 of 683 participants) and 2% in the MenA vaccine group (8 of 380 participants).\nCONCLUSIONS: A single dose of TCV was immunogenic and effective in reducing S. Typhi bacteremia in children 9 months to 16 years of age. (Funded by the Bill and Melinda Gates Foundation; Current Controlled Trials number, ISRCTN43385161.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37018474",
+   "title": "Bivalent Prefusion F Vaccine in Pregnancy to Prevent RSV Illness in Infants.",
+   "authors": [
+    "Kampmann B",
+    "Madhi SA",
+    "Munjal I",
+    "Simões EAF",
+    "Pahud BA",
+    "Llapur C",
+    "Baker J",
+    "Pérez Marc G",
+    "Radley D",
+    "Shittu E",
+    "Glanternik J",
+    "Snaggs H",
+    "Baber J",
+    "Zachariah P",
+    "Barnabas SL",
+    "Fausett M",
+    "Adam T",
+    "Perreras N",
+    "Van Houten MA",
+    "Kantele A",
+    "Huang LM",
+    "Bont LJ",
+    "Otsuki T",
+    "Vargas SL",
+    "Gullam J",
+    "Tapiero B",
+    "Stein RT",
+    "Polack FP",
+    "Zar HJ",
+    "Staerke NB",
+    "Duron Padilla M",
+    "Richmond PC",
+    "Koury K",
+    "Schneider K",
+    "Kalinina EV",
+    "Cooper D",
+    "Jansen KU",
+    "Anderson AS",
+    "Swanson KA",
+    "Gruber WC",
+    "Gurtman A",
+    "MATISSE Study Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2023,
+   "doi": "10.1056/NEJMoa2216480",
+   "abstract": "BACKGROUND: Whether vaccination during pregnancy could reduce the burden of respiratory syncytial virus (RSV)-associated lower respiratory tract illness in newborns and infants is uncertain.\nMETHODS: In this phase 3, double-blind trial conducted in 18 countries, we randomly assigned, in a 1:1 ratio, pregnant women at 24 through 36 weeks' gestation to receive a single intramuscular injection of 120 μg of a bivalent RSV prefusion F protein-based (RSVpreF) vaccine or placebo. The two primary efficacy end points were medically attended severe RSV-associated lower respiratory tract illness and medically attended RSV-associated lower respiratory tract illness in infants within 90, 120, 150, and 180 days after birth. A lower boundary of the confidence interval for vaccine efficacy (99.5% confidence interval [CI] at 90 days; 97.58% CI at later intervals) greater than 20% was considered to meet the success criterion for vaccine efficacy with respect to the primary end points.\nRESULTS: At this prespecified interim analysis, the success criterion for vaccine efficacy was met with respect to one primary end point. Overall, 3682 maternal participants received vaccine and 3676 received placebo; 3570 and 3558 infants, respectively, were evaluated. Medically attended severe lower respiratory tract illness occurred within 90 days after birth in 6 infants of women in the vaccine group and 33 infants of women in the placebo group (vaccine efficacy, 81.8%; 99.5% CI, 40.6 to 96.3); 19 cases and 62 cases, respectively, occurred within 180 days after birth (vaccine efficacy, 69.4%; 97.58% CI, 44.3 to 84.1). Medically attended RSV-associated lower respiratory tract illness occurred within 90 days after birth in 24 infants of women in the vaccine group and 56 infants of women in the placebo group (vaccine efficacy, 57.1%; 99.5% CI, 14.7 to 79.8); these results did not meet the statistical success criterion. No safety signals were detected in maternal participants or in infants and toddlers up to 24 months of age. The incidences of adverse events reported within 1 month after injection or within 1 month after birth were similar in the vaccine group (13.8% of women and 37.1% of infants) and the placebo group (13.1% and 34.5%, respectively).\nCONCLUSIONS: RSVpreF vaccine administered during pregnancy was effective against medically attended severe RSV-associated lower respiratory tract illness in infants, and no safety concerns were identified. (Funded by Pfizer; MATISSE ClinicalTrials.gov number, NCT04424316.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "37018468",
+   "title": "Efficacy and Safety of a Bivalent RSV Prefusion F Vaccine in Older Adults.",
+   "authors": [
+    "Walsh EE",
+    "Pérez Marc G",
+    "Zareba AM",
+    "Falsey AR",
+    "Jiang Q",
+    "Patton M",
+    "Polack FP",
+    "Llapur C",
+    "Doreski PA",
+    "Ilangovan K",
+    "Rämet M",
+    "Fukushima Y",
+    "Hussen N",
+    "Bont LJ",
+    "Cardona J",
+    "DeHaan E",
+    "Castillo Villa G",
+    "Ingilizova M",
+    "Eiras D",
+    "Mikati T",
+    "Shah RN",
+    "Schneider K",
+    "Cooper D",
+    "Koury K",
+    "Lino MM",
+    "Anderson AS",
+    "Jansen KU",
+    "Swanson KA",
+    "Gurtman A",
+    "Gruber WC",
+    "Schmoele-Thoma B",
+    "RENOIR Clinical Trial Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2023,
+   "doi": "10.1056/NEJMoa2213836",
+   "abstract": "BACKGROUND: Respiratory syncytial virus (RSV) infection causes considerable illness in older adults. The efficacy and safety of an investigational bivalent RSV prefusion F protein-based (RSVpreF) vaccine in this population are unknown.\nMETHODS: In this ongoing, phase 3 trial, we randomly assigned, in a 1:1 ratio, adults (≥60 years of age) to receive a single intramuscular injection of RSVpreF vaccine at a dose of 120 μg (RSV subgroups A and B, 60 μg each) or placebo. The two primary end points were vaccine efficacy against seasonal RSV-associated lower respiratory tract illness with at least two or at least three signs or symptoms. The secondary end point was vaccine efficacy against RSV-associated acute respiratory illness.\nRESULTS: At the interim analysis (data-cutoff date, July 14, 2022), 34,284 participants had received RSVpreF vaccine (17,215 participants) or placebo (17,069 participants). RSV-associated lower respiratory tract illness with at least two signs or symptoms occurred in 11 participants in the vaccine group (1.19 cases per 1000 person-years of observation) and 33 participants in the placebo group (3.58 cases per 1000 person-years of observation) (vaccine efficacy, 66.7%; 96.66% confidence interval [CI], 28.8 to 85.8); 2 cases (0.22 cases per 1000 person-years of observation) and 14 cases (1.52 cases per 1000 person-years of observation), respectively, occurred with at least three signs or symptoms (vaccine efficacy, 85.7%; 96.66% CI, 32.0 to 98.7). RSV-associated acute respiratory illness occurred in 22 participants in the vaccine group (2.38 cases per 1000 person-years of observation) and 58 participants in the placebo group (6.30 cases per 1000 person-years of observation) (vaccine efficacy, 62.1%; 95% CI, 37.1 to 77.9). The incidence of local reactions was higher with vaccine (12%) than with placebo (7%); the incidences of systemic events were similar (27% and 26%, respectively). Similar rates of adverse events through 1 month after injection were reported (vaccine, 9.0%; placebo, 8.5%), with 1.4% and 1.0%, respectively, considered by the investigators to be injection-related. Severe or life-threatening adverse events were reported in 0.5% of vaccine recipients and 0.4% of placebo recipients. Serious adverse events were reported in 2.3% of participants in each group through the data-cutoff date.\nCONCLUSIONS: RSVpreF vaccine prevented RSV-associated lower respiratory tract illness and RSV-associated acute respiratory illness in adults (≥60 years of age), without evident safety concerns. (Funded by Pfizer; RENOIR ClinicalTrials.gov number, NCT05035212; EudraCT number, 2021-003693-31.).",
+   "publicationTypes": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "30184455",
+   "title": "Baloxavir Marboxil for Uncomplicated Influenza in Adults and Adolescents.",
+   "authors": [
+    "Hayden FG",
+    "Sugaya N",
+    "Hirotsu N",
+    "Lee N",
+    "de Jong MD",
+    "Hurt AC",
+    "Ishida T",
+    "Sekino H",
+    "Yamada K",
+    "Portsmouth S",
+    "Kawaguchi K",
+    "Shishido T",
+    "Arai M",
+    "Tsuchiya K",
+    "Uehara T",
+    "Watanabe A",
+    "Baloxavir Marboxil Investigators Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2018,
+   "doi": "10.1056/NEJMoa1716197",
+   "abstract": "BACKGROUND: Baloxavir marboxil is a selective inhibitor of influenza cap-dependent endonuclease. It has shown therapeutic activity in preclinical models of influenza A and B virus infections, including strains resistant to current antiviral agents.\nMETHODS: We conducted two randomized, double-blind, controlled trials involving otherwise healthy outpatients with acute uncomplicated influenza. After a dose-ranging (10 to 40 mg) placebo-controlled trial, we undertook a placebo- and oseltamivir-controlled trial of single, weight-based doses of baloxavir (40 or 80 mg) in patients 12 to 64 years of age during the 2016-2017 season. The dose of oseltamivir was 75 mg twice daily for 5 days. The primary efficacy end point was the time to alleviation of influenza symptoms in the intention-to-treat infected population.\nRESULTS: In the phase 2 trial, the median time to alleviation of influenza symptoms was 23.4 to 28.2 hours shorter in the baloxavir groups than in the placebo group (P<0.05). In the phase 3 trial, the intention-to-treat infected population included 1064 patients; 84.8 to 88.1% of patients in each group had influenza A(H3N2) infection. The median time to alleviation of symptoms was 53.7 hours (95% confidence interval [CI], 49.5 to 58.5) with baloxavir, as compared with 80.2 hours (95% CI, 72.6 to 87.1) with placebo (P<0.001). The time to alleviation of symptoms was similar with baloxavir and oseltamivir. Baloxavir was associated with greater reductions in viral load 1 day after initiation of the regimen than placebo or oseltamivir. Adverse events were reported in 20.7% of baloxavir recipients, 24.6% of placebo recipients, and 24.8% of oseltamivir recipients. The emergence of polymerase acidic protein variants with I38T/M/F substitutions conferring reduced susceptibility to baloxavir occurred in 2.2% and 9.7% of baloxavir recipients in the phase 2 trial and phase 3 trial, respectively.\nCONCLUSIONS: Single-dose baloxavir was without evident safety concerns, was superior to placebo in alleviating influenza symptoms, and was superior to both oseltamivir and placebo in reducing the viral load 1 day after initiation of the trial regimen in patients with uncomplicated influenza. Evidence for the development of decreased susceptibility to baloxavir after treatment was also observed. (Funded by Shionogi; JapicCTI number, 153090, and CAPSTONE-1 ClinicalTrials.gov number, NCT02954354 .).",
+   "publicationTypes": [
+    "Clinical Trial, Phase II",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40267424",
+   "title": "Efficacy of Baloxavir Treatment in Preventing Transmission of Influenza.",
+   "authors": [
+    "Monto AS",
+    "Kuhlbusch K",
+    "Bernasconi C",
+    "Cao B",
+    "Cohen HA",
+    "Graham E",
+    "Hurt AC",
+    "Katugampola L",
+    "Kamezawa T",
+    "Lauring AS",
+    "McLean B",
+    "Takazono T",
+    "Widmer A",
+    "Wildum S",
+    "Cowling BJ"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2025,
+   "doi": "10.1056/NEJMoa2413156",
+   "abstract": "BACKGROUND: Baloxavir marboxil (baloxavir) rapidly reduces influenza virus shedding, which suggests that it may reduce transmission. Studies of treatment with neuraminidase inhibitors have not shown sufficient evidence that they prevent transmission to contacts.\nMETHODS: We conducted a multicountry, phase 3b trial to assess the efficacy of single-dose baloxavir treatment to reduce influenza transmission from index patients to household contacts. Influenza-positive index patients 5 to 64 years of age were randomly assigned in a 1:1 ratio to receive baloxavir or placebo within 48 hours after symptom onset. The primary end point was transmission of influenza virus from an index patient to a household contact by day 5. The first secondary end point was transmission of influenza virus by day 5 that resulted in symptoms.\nRESULTS: Overall, 1457 index patients and 2681 household contacts were enrolled across the 2019-2024 influenza seasons; 726 index patients were assigned to the baloxavir group, and 731 to the placebo group. By day 5, transmission of laboratory-confirmed influenza was significantly lower with baloxavir than with placebo (adjusted incidence, 9.5% vs. 13.4%; adjusted odds ratio, 0.68; 95.38% confidence interval [CI], 0.50 to 0.93; P = 0.01), with an adjusted relative risk reduction of 29% (95.38% CI, 12 to 45). The adjusted incidence of transmission of influenza virus by day 5 that resulted in symptoms was 5.8% with baloxavir and 7.6% with placebo; however, the difference was not significant (adjusted odds ratio, 0.75; 95.38% CI, 0.50 to 1.12; P = 0.16). Emergence of drug-resistant viruses during the follow-up period occurred in 7.2% (95% CI, 4.1 to 11.6) of the index patients in the baloxavir group; no resistant viruses were detected in household contacts. No new safety signals were identified.\nCONCLUSIONS: Treatment with a single oral dose of baloxavir led to a lower incidence of transmission of influenza virus to close contacts than placebo. (Funded by F. Hoffmann-La Roche and others; CENTERSTONE ClinicalTrials.gov number, NCT03969212.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "30152252",
+   "title": "Partial Oral versus Intravenous Antibiotic Treatment of Endocarditis.",
+   "authors": [
+    "Iversen K",
+    "Ihlemann N",
+    "Gill SU",
+    "Madsen T",
+    "Elming H",
+    "Jensen KT",
+    "Bruun NE",
+    "Høfsten DE",
+    "Fursted K",
+    "Christensen JJ",
+    "Schultz M",
+    "Klein CF",
+    "Fosbøll EL",
+    "Rosenvinge F",
+    "Schønheyder HC",
+    "Køber L",
+    "Torp-Pedersen C",
+    "Helweg-Larsen J",
+    "Tønder N",
+    "Moser C",
+    "Bundgaard H"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2019,
+   "doi": "10.1056/NEJMoa1808312",
+   "abstract": "BACKGROUND: Patients with infective endocarditis on the left side of the heart are typically treated with intravenous antibiotic agents for up to 6 weeks. Whether a shift from intravenous to oral antibiotics once the patient is in stable condition would result in efficacy and safety similar to those with continued intravenous treatment is unknown.\nMETHODS: In a randomized, noninferiority, multicenter trial, we assigned 400 adults in stable condition who had endocarditis on the left side of the heart caused by streptococcus, Enterococcus faecalis, Staphylococcus aureus, or coagulase-negative staphylococci and who were being treated with intravenous antibiotics to continue intravenous treatment (199 patients) or to switch to oral antibiotic treatment (201 patients). In all patients, antibiotic treatment was administered intravenously for at least 10 days. If feasible, patients in the orally treated group were discharged to outpatient treatment. The primary outcome was a composite of all-cause mortality, unplanned cardiac surgery, embolic events, or relapse of bacteremia with the primary pathogen, from the time of randomization until 6 months after antibiotic treatment was completed.\nRESULTS: After randomization, antibiotic treatment was completed after a median of 19 days (interquartile range, 14 to 25) in the intravenously treated group and 17 days (interquartile range, 14 to 25) in the orally treated group (P=0.48). The primary composite outcome occurred in 24 patients (12.1%) in the intravenously treated group and in 18 (9.0%) in the orally treated group (between-group difference, 3.1 percentage points; 95% confidence interval, -3.4 to 9.6; P=0.40), which met noninferiority criteria.\nCONCLUSIONS: In patients with endocarditis on the left side of the heart who were in stable condition, changing to oral antibiotic treatment was noninferior to continued intravenous antibiotic treatment. (Funded by the Danish Heart Foundation and others; POET ClinicalTrials.gov number, NCT01375257 .).",
+   "publicationTypes": [
+    "Comparative Study",
+    "Equivalence Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30699315",
+   "title": "Oral versus Intravenous Antibiotics for Bone and Joint Infection.",
+   "authors": [
+    "Li HK",
+    "Rombach I",
+    "Zambellas R",
+    "Walker AS",
+    "McNally MA",
+    "Atkins BL",
+    "Lipsky BA",
+    "Hughes HC",
+    "Bose D",
+    "Kümin M",
+    "Scarborough C",
+    "Matthews PC",
+    "Brent AJ",
+    "Lomas J",
+    "Gundle R",
+    "Rogers M",
+    "Taylor A",
+    "Angus B",
+    "Byren I",
+    "Berendt AR",
+    "Warren S",
+    "Fitzgerald FE",
+    "Mack DJF",
+    "Hopkins S",
+    "Folb J",
+    "Reynolds HE",
+    "Moore E",
+    "Marshall J",
+    "Jenkins N",
+    "Moran CE",
+    "Woodhouse AF",
+    "Stafford S",
+    "Seaton RA",
+    "Vallance C",
+    "Hemsley CJ",
+    "Bisnauthsing K",
+    "Sandoe JAT",
+    "Aggarwal I",
+    "Ellis SC",
+    "Bunn DJ",
+    "Sutherland RK",
+    "Barlow G",
+    "Cooper C",
+    "Geue C",
+    "McMeekin N",
+    "Briggs AH",
+    "Sendi P",
+    "Khatamzas E",
+    "Wangrangsimakul T",
+    "Wong THN",
+    "Barrett LK",
+    "Alvand A",
+    "Old CF",
+    "Bostock J",
+    "Paul J",
+    "Cooke G",
+    "Thwaites GE",
+    "Bejon P",
+    "Scarborough M",
+    "OVIVA Trial Collaborators"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2019,
+   "doi": "10.1056/NEJMoa1710926",
+   "abstract": "BACKGROUND: The management of complex orthopedic infections usually includes a prolonged course of intravenous antibiotic agents. We investigated whether oral antibiotic therapy is noninferior to intravenous antibiotic therapy for this indication.\nMETHODS: We enrolled adults who were being treated for bone or joint infection at 26 U.K. centers. Within 7 days after surgery (or, if the infection was being managed without surgery, within 7 days after the start of antibiotic treatment), participants were randomly assigned to receive either intravenous or oral antibiotics to complete the first 6 weeks of therapy. Follow-on oral antibiotics were permitted in both groups. The primary end point was definitive treatment failure within 1 year after randomization. In the analysis of the risk of the primary end point, the noninferiority margin was 7.5 percentage points.\nRESULTS: Among the 1054 participants (527 in each group), end-point data were available for 1015 (96.3%). Treatment failure occurred in 74 of 506 participants (14.6%) in the intravenous group and 67 of 509 participants (13.2%) in the oral group. Missing end-point data (39 participants, 3.7%) were imputed. The intention-to-treat analysis showed a difference in the risk of definitive treatment failure (oral group vs. intravenous group) of -1.4 percentage points (90% confidence interval [CI], -4.9 to 2.2; 95% CI, -5.6 to 2.9), indicating noninferiority. Complete-case, per-protocol, and sensitivity analyses supported this result. The between-group difference in the incidence of serious adverse events was not significant (146 of 527 participants [27.7%] in the intravenous group and 138 of 527 [26.2%] in the oral group; P=0.58). Catheter complications, analyzed as a secondary end point, were more common in the intravenous group (9.4% vs. 1.0%).\nCONCLUSIONS: Oral antibiotic therapy was noninferior to intravenous antibiotic therapy when used during the first 6 weeks for complex orthopedic infection, as assessed by treatment failure at 1 year. (Funded by the National Institute for Health Research; OVIVA Current Controlled Trials number, ISRCTN91566927 .).",
+   "publicationTypes": [
+    "Comparative Study",
+    "Equivalence Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Pragmatic Clinical Trial",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "16914701",
+   "title": "Daptomycin versus standard therapy for bacteremia and endocarditis caused by Staphylococcus aureus.",
+   "authors": [
+    "Fowler VG",
+    "Boucher HW",
+    "Corey GR",
+    "Abrutyn E",
+    "Karchmer AW",
+    "Rupp ME",
+    "Levine DP",
+    "Chambers HF",
+    "Tally FP",
+    "Vigliani GA",
+    "Cabell CH",
+    "Link AS",
+    "DeMeyer I",
+    "Filler SG",
+    "Zervos M",
+    "Cook P",
+    "Parsonnet J",
+    "Bernstein JM",
+    "Price CS",
+    "Forrest GN",
+    "Fätkenheuer G",
+    "Gareca M",
+    "Rehm SJ",
+    "Brodt HR",
+    "Tice A",
+    "Cosgrove SE",
+    "S. aureus Endocarditis and Bacteremia Study Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2006,
+   "doi": "10.1056/NEJMoa053783",
+   "abstract": "BACKGROUND: Alternative therapies for Staphylococcus aureus bacteremia and endocarditis are needed.\nMETHODS: We randomly assigned 124 patients with S. aureus bacteremia with or without endocarditis to receive 6 mg of daptomycin intravenously per kilogram of body weight daily and 122 to receive initial low-dose gentamicin plus either an antistaphylococcal penicillin or vancomycin. The primary efficacy end point was treatment success 42 days after the end of therapy.\nRESULTS: Forty-two days after the end of therapy in the modified intention-to-treat analysis, a successful outcome was documented for 53 of 120 patients who received daptomycin as compared with 48 of 115 patients who received standard therapy (44.2 percent vs. 41.7 percent; absolute difference, 2.4 percent; 95 percent confidence interval, -10.2 to 15.1 percent). Our results met prespecified criteria for the noninferiority of daptomycin. The success rates were similar in subgroups of patients with complicated bacteremia, right-sided endocarditis, and methicillin-resistant S. aureus. Daptomycin therapy was associated with a higher rate of microbiologic failure than was standard therapy (19 vs. 11 patients, P=0.17). In 6 of the 19 patients with microbiologic failure in the daptomycin group, isolates with reduced susceptibility to daptomycin emerged; similarly, a reduced susceptibility to vancomycin was noted in isolates from patients treated with vancomycin. As compared with daptomycin therapy, standard therapy was associated with a nonsignificantly higher rate of adverse events that led to treatment failure due to the discontinuation of therapy (17 vs. 8, P=0.06). Clinically significant renal dysfunction occurred in 11.0 percent of patients who received daptomycin and in 26.3 percent of patients who received standard therapy (P=0.004).\nCONCLUSIONS: Daptomycin (6 mg per kilogram daily) is not inferior to standard therapy for S. aureus bacteremia and right-sided endocarditis. (ClinicalTrials.gov number, NCT00093067 [ClinicalTrials.gov].).",
+   "publicationTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39565030",
+   "title": "Antibiotic Treatment for 7 versus 14 Days in Patients with Bloodstream Infections.",
+   "authors": [
+    "BALANCE Investigators, for the Canadian Critical Care Trials Group, the Association of Medical Microbiology and Infectious Disease Canada Clinical Research Network, the Australian and New Zealand Intensive Care Society Clinical Trials Group, and the Australasian Society for Infectious Diseases Clinical Research Network",
+    "Daneman N",
+    "Rishu A",
+    "Pinto R",
+    "Rogers BA",
+    "Shehabi Y",
+    "Parke R",
+    "Cook D",
+    "Arabi Y",
+    "Muscedere J",
+    "Reynolds S",
+    "Hall R",
+    "Dwivedi DB",
+    "McArthur C",
+    "McGuinness S",
+    "Yahav D",
+    "Coburn B",
+    "Geagea A",
+    "Das P",
+    "Shin P",
+    "Detsky M",
+    "Morris A",
+    "Fralick M",
+    "Powis JE",
+    "Kandel C",
+    "Sligl W",
+    "Bagshaw SM",
+    "Singhal N",
+    "Belley-Cote E",
+    "Whitlock R",
+    "Khwaja K",
+    "Morpeth S",
+    "Kazemi A",
+    "Williams A",
+    "MacFadden DR",
+    "McIntyre L",
+    "Tsang J",
+    "Lamontagne F",
+    "Carignan A",
+    "Marshall J",
+    "Friedrich JO",
+    "Cirone R",
+    "Downing M",
+    "Graham C",
+    "Davis J",
+    "Duan E",
+    "Neary J",
+    "Evans G",
+    "Alraddadi B",
+    "Al Johani S",
+    "Martin C",
+    "Elsayed S",
+    "Ball I",
+    "Lauzier F",
+    "Turgeon A",
+    "Stelfox HT",
+    "Conly J",
+    "McDonald EG",
+    "Lee TC",
+    "Sullivan R",
+    "Grant J",
+    "Kagan I",
+    "Young P",
+    "Lawrence C",
+    "O'Callaghan K",
+    "Eustace M",
+    "Choong K",
+    "Aslanian P",
+    "Buehner U",
+    "Havey T",
+    "Binnie A",
+    "Prazak J",
+    "Reeve B",
+    "Litton E",
+    "Lother S",
+    "Kumar A",
+    "Zarychanski R",
+    "Hoffman T",
+    "Paterson D",
+    "Daley P",
+    "Commons RJ",
+    "Charbonney E",
+    "Naud JF",
+    "Roberts S",
+    "Tiruvoipati R",
+    "Gupta S",
+    "Wood G",
+    "Shum O",
+    "Miyakis S",
+    "Dodek P",
+    "Kwok C",
+    "Fowler RA",
+    "The BALANCE Investigators, for the Canadian Critical Care Trials Group, the Association of Medical Microbiology and Infectious Disease Canada Clinical Research Network, the Australian and New Zealand Intensive Care Society Clinical Trials Group, and the Australasian Society for Infectious Diseases Clinical Research Network\n"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2025,
+   "doi": "10.1056/NEJMoa2404991",
+   "abstract": "BACKGROUND: Bloodstream infections are associated with substantial morbidity and mortality. Early, appropriate antibiotic therapy is important, but the duration of treatment is uncertain.\nMETHODS: In a multicenter, noninferiority trial, we randomly assigned hospitalized patients (including patients in the intensive care unit [ICU]) who had bloodstream infection to receive antibiotic treatment for 7 days or 14 days. Antibiotic selection, dosing, and route were at the discretion of the treating team. We excluded patients with severe immunosuppression, foci requiring prolonged treatment, single cultures with possible contaminants, or cultures yielding Staphylococcus aureus. The primary outcome was death from any cause by 90 days after diagnosis of the bloodstream infection, with a noninferiority margin of 4 percentage points.\nRESULTS: Across 74 hospitals in seven countries, 3608 patients underwent randomization and were included in the intention-to-treat analysis; 1814 patients were assigned to 7 days of antibiotic treatment, and 1794 to 14 days. At enrollment, 55.0% of patients were in the ICU and 45.0% were on hospital wards. Infections were acquired in the community (75.4%), hospital wards (13.4%) and ICUs (11.2%). Bacteremia most commonly originated from the urinary tract (42.2%), abdomen (18.8%), lung (13.0%), vascular catheters (6.3%), and skin or soft tissue (5.2%). By 90 days, 261 patients (14.5%) receiving antibiotics for 7 days had died and 286 patients (16.1%) receiving antibiotics for 14 days had died (difference, -1.6 percentage points [95.7% confidence interval {CI}, -4.0 to 0.8]), which showed the noninferiority of the shorter treatment duration. Patients were treated for longer than the assigned duration in 23.1% of the patients in the 7-day group and in 10.7% of the patients in the 14-day group. A per-protocol analysis also showed noninferiority (difference, -2.0 percentage points [95% CI, -4.5 to 0.6]). These findings were generally consistent across secondary clinical outcomes and across prespecified subgroups defined according to patient, pathogen, and syndrome characteristics.\nCONCLUSIONS: Among hospitalized patients with bloodstream infection, antibiotic treatment for 7 days was noninferior to treatment for 14 days. (Funded by the Canadian Institutes of Health Research and others; BALANCE ClinicalTrials.gov number, NCT03005145.).",
+   "publicationTypes": [
+    "Comparative Study",
+    "Equivalence Trial",
+    "Journal Article",
+    "Multicenter Study"
    ]
   },
   {
@@ -40315,6 +40929,966 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "The primary outcome rate was 2.86 per 1000 patient-days during the chlorhexidine and 2.90 per 1000 patient-days during the control bathing periods",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-12432041-1-en",
+   "translationKey": "infect-12432041-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What did the European trial of dexamethasone in adult bacterial meningitis conclude?",
+   "options": [
+    "Better outcome, no extra GI bleeding",
+    "It increases deaths from gastric bleeding",
+    "It only helps children, not adults",
+    "It works only when given after 4 days"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Early dexamethasone lowered unfavorable outcomes and deaths, especially in pneumococcal meningitis.",
+   "shortExplanation": "Improves outcome.",
+   "pmid": "12432041",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Early treatment with dexamethasone improves the outcome in adults with acute bacterial meningitis and does not increase the risk of gastrointestinal bleeding",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-12432041-1-es",
+   "translationKey": "infect-12432041-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué concluyó el ensayo europeo de dexametasona en meningitis bacteriana del adulto?",
+   "options": [
+    "Mejor resultado, sin más sangrado",
+    "Aumenta las muertes por sangrado gástrico",
+    "Solo ayuda a niños, no a adultos",
+    "Solo sirve si se da después de 4 días"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La dexametasona temprana redujo los malos resultados y las muertes, sobre todo en la meningitis neumocócica.",
+   "shortExplanation": "Mejora el resultado.",
+   "pmid": "12432041",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Early treatment with dexamethasone improves the outcome in adults with acute bacterial meningitis and does not increase the risk of gastrointestinal bleeding",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-12432041-2-en",
+   "translationKey": "infect-12432041-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "When was dexamethasone given in this meningitis trial?",
+   "options": [
+    "A week after the antibiotics",
+    "Only after the fever had resolved",
+    "With the first antibiotic dose",
+    "Only if the culture was negative"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "It was given 15–20 minutes before or with the first antibiotic dose, every 6 hours for four days.",
+   "shortExplanation": "With the first antibiotic.",
+   "pmid": "12432041",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Dexamethasone (10 mg) or placebo was administered 15 to 20 minutes before or with the first dose of antibiotic",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-12432041-2-es",
+   "translationKey": "infect-12432041-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Cuándo se daba la dexametasona en este ensayo de meningitis?",
+   "options": [
+    "Una semana después de los antibióticos",
+    "Solo cuando la fiebre ya había cedido",
+    "Con la primera dosis de antibiótico",
+    "Solo si el cultivo era negativo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Se daba 15–20 minutos antes o junto con la primera dosis de antibiótico, cada 6 horas por cuatro días.",
+   "shortExplanation": "Con el primer antibiótico.",
+   "pmid": "12432041",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Dexamethasone (10 mg) or placebo was administered 15 to 20 minutes before or with the first dose of antibiotic",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-18077808-1-en",
+   "translationKey": "infect-18077808-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "In the Vietnamese trial, which patients benefited from dexamethasone for suspected meningitis?",
+   "options": [
+    "All patients with fever and stiff neck",
+    "Only those with probable meningitis",
+    "Only those over 60 years of age",
+    "Those with proven bacterial disease"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Benefit was confined to confirmed bacterial meningitis; in probable cases, tuberculous meningitis may have caused harm.",
+   "shortExplanation": "Proven disease only.",
+   "pmid": "18077808",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a beneficial effect appears to be confined to patients with microbiologically proven disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-18077808-1-es",
+   "translationKey": "infect-18077808-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "En el ensayo de Vietnam, ¿qué pacientes con sospecha de meningitis se beneficiaron con dexametasona?",
+   "options": [
+    "Todos los que tenían fiebre y rigidez de nuca",
+    "Solo los de meningitis probable",
+    "Solo los mayores de 60 años",
+    "Los de meningitis bacteriana confirmada"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El beneficio se limitó a la meningitis bacteriana confirmada; en los casos probables, la meningitis tuberculosa pudo causar daño.",
+   "shortExplanation": "Solo la comprobada.",
+   "pmid": "18077808",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a beneficial effect appears to be confined to patients with microbiologically proven disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-33951360-1-en",
+   "translationKey": "infect-33951360-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "Which shorter regimen was noninferior to the standard 6-month treatment for drug-susceptible tuberculosis?",
+   "options": [
+    "Rifapentine alone for 2 months",
+    "Rifapentine + moxifloxacin, 4 mo",
+    "Isoniazid alone for 4 months",
+    "Moxifloxacin alone for 3 months"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Rifapentine with moxifloxacin for 4 months was noninferior; rifapentine without moxifloxacin was not.",
+   "shortExplanation": "Rifapentine + moxifloxacin.",
+   "pmid": "33951360",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The efficacy of a 4-month rifapentine-based regimen containing moxifloxacin was noninferior to the standard 6-month regimen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-33951360-1-es",
+   "translationKey": "infect-33951360-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué esquema más corto no fue inferior al tratamiento estándar de 6 meses para la tuberculosis sensible?",
+   "options": [
+    "Rifapentina sola por 2 meses",
+    "Rifapentina + moxifloxacino, 4 m",
+    "Isoniazida sola por 4 meses",
+    "Moxifloxacino solo por 3 meses"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Rifapentina con moxifloxacino por 4 meses no fue inferior; la rifapentina sin moxifloxacino no lo logró.",
+   "shortExplanation": "Rifapentina + moxifloxacino.",
+   "pmid": "33951360",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The efficacy of a 4-month rifapentine-based regimen containing moxifloxacin was noninferior to the standard 6-month regimen",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32997908-1-en",
+   "translationKey": "infect-32997908-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "In the Swedish cohort, how did cervical cancer incidence compare between vaccinated and unvaccinated women?",
+   "options": [
+    "It was the same in both groups",
+    "It was higher in vaccinated women",
+    "About half in the vaccinated",
+    "It was zero in both groups"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Cumulative incidence was 47 vs 94 per 100,000; protection was strongest when vaccinated before 17.",
+   "shortExplanation": "About half.",
+   "pmid": "32997908",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The cumulative incidence of cervical cancer was 47 cases per 100,000 persons among women who had been vaccinated and 94 cases per 100,000 persons among those who had not been vaccinated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32997908-1-es",
+   "translationKey": "infect-32997908-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "En la cohorte sueca, ¿cómo se comparó la incidencia de cáncer de cuello uterino entre vacunadas y no vacunadas?",
+   "options": [
+    "Fue igual en ambos grupos",
+    "Fue mayor en las vacunadas",
+    "La mitad en las vacunadas",
+    "Fue cero en ambos grupos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La incidencia acumulada fue 47 frente a 94 por 100.000; la protección fue mayor si se vacunaron antes de los 17.",
+   "shortExplanation": "Cerca de la mitad.",
+   "pmid": "32997908",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The cumulative incidence of cervical cancer was 47 cases per 100,000 persons among women who had been vaccinated and 94 cases per 100,000 persons among those who had not been vaccinated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32997908-2-en",
+   "translationKey": "infect-32997908-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "Which women had the largest reduction in cervical cancer risk after quadrivalent HPV vaccination?",
+   "options": [
+    "Those vaccinated before age 17",
+    "Those vaccinated after age 30",
+    "Those vaccinated during pregnancy",
+    "Risk fell equally at every age"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Before 17 the adjusted rate ratio was 0.12, versus 0.47 when vaccinated at 17–30.",
+   "shortExplanation": "Before age 17.",
+   "pmid": "32997908",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the incidence rate ratio was 0.12 (95% CI, 0.00 to 0.34) among women who had been vaccinated before the age of 17 years",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32997908-2-es",
+   "translationKey": "infect-32997908-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mujeres tuvieron la mayor reducción del riesgo de cáncer de cuello uterino con la vacuna tetravalente contra el VPH?",
+   "options": [
+    "Las vacunadas antes de los 17 años",
+    "Las vacunadas después de los 30",
+    "Las vacunadas durante el embarazo",
+    "El riesgo bajó igual a toda edad"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Antes de los 17 la razón de tasas ajustada fue 0,12, frente a 0,47 si se vacunaron entre 17 y 30.",
+   "shortExplanation": "Antes de los 17.",
+   "pmid": "32997908",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the incidence rate ratio was 0.12 (95% CI, 0.00 to 0.34) among women who had been vaccinated before the age of 17 years",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31800986-1-en",
+   "translationKey": "infect-31800986-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What efficacy did a single dose of typhoid conjugate vaccine show in Nepalese children?",
+   "options": [
+    "About 18%",
+    "About 41%",
+    "About 99%",
+    "About 82%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Blood culture-confirmed typhoid occurred in 7 TCV vs 38 control recipients: 81.6% efficacy.",
+   "shortExplanation": "~82%.",
+   "pmid": "31800986",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccine efficacy, 81.6%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31800986-1-es",
+   "translationKey": "infect-31800986-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué eficacia mostró una dosis de vacuna conjugada contra la fiebre tifoidea en niños de Nepal?",
+   "options": [
+    "Cerca del 18%",
+    "Cerca del 41%",
+    "Cerca del 99%",
+    "Cerca del 82%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hubo fiebre tifoidea confirmada en 7 vacunados con TCV frente a 38 controles: 81,6% de eficacia.",
+   "shortExplanation": "~82%.",
+   "pmid": "31800986",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccine efficacy, 81.6%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31800986-2-en",
+   "translationKey": "infect-31800986-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "What did the control group receive in the Nepal typhoid conjugate vaccine trial?",
+   "options": [
+    "A saline placebo injection",
+    "A meningococcal A vaccine",
+    "An oral live typhoid vaccine",
+    "No injection or vaccine at all"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Controls got a MenA conjugate vaccine, so both groups received a useful vaccine.",
+   "shortExplanation": "MenA vaccine.",
+   "pmid": "31800986",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "to receive either a TCV or a capsular group A meningococcal conjugate vaccine (MenA) as a control",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31800986-2-es",
+   "translationKey": "infect-31800986-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "¿Qué recibió el grupo control en el ensayo de la vacuna conjugada antitifoidea de Nepal?",
+   "options": [
+    "Una inyección de placebo salino",
+    "Una vacuna meningocócica A",
+    "Una vacuna tifoidea oral viva",
+    "Ninguna inyección ni vacuna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los controles recibieron una vacuna conjugada MenA, así ambos grupos recibían una vacuna útil.",
+   "shortExplanation": "Vacuna MenA.",
+   "pmid": "31800986",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "to receive either a TCV or a capsular group A meningococcal conjugate vaccine (MenA) as a control",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-37018474-1-en",
+   "translationKey": "infect-37018474-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "How effective was maternal RSVpreF vaccination against severe RSV illness in infants within 90 days of birth?",
+   "options": [
+    "About 18%",
+    "About 38%",
+    "About 82%",
+    "About 100%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Severe RSV lower respiratory illness fell 81.8% at 90 days and 69.4% at 180 days.",
+   "shortExplanation": "~82%.",
+   "pmid": "37018474",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccine efficacy, 81.8%; 99.5% CI, 40.6 to 96.3",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-37018474-1-es",
+   "translationKey": "infect-37018474-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué eficacia tuvo vacunar a la madre con RSVpreF contra la enfermedad grave por VSR del bebé en los primeros 90 días?",
+   "options": [
+    "Cerca del 18%",
+    "Cerca del 38%",
+    "Cerca del 82%",
+    "Cerca del 100%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La enfermedad respiratoria baja grave por VSR bajó 81,8% a los 90 días y 69,4% a los 180.",
+   "shortExplanation": "~82%.",
+   "pmid": "37018474",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccine efficacy, 81.8%; 99.5% CI, 40.6 to 96.3",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-37018474-2-en",
+   "translationKey": "infect-37018474-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "When in pregnancy did women receive the RSVpreF vaccine in the MATISSE trial?",
+   "options": [
+    "At 24 to 36 weeks",
+    "In the first trimester",
+    "Right after delivery",
+    "Before conception"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Vaccination at 24–36 weeks lets maternal antibodies cross the placenta to protect the newborn.",
+   "shortExplanation": "24–36 weeks.",
+   "pmid": "37018474",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we randomly assigned, in a 1:1 ratio, pregnant women at 24 through 36 weeks' gestation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-37018474-2-es",
+   "translationKey": "infect-37018474-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿En qué momento del embarazo se aplicó la vacuna RSVpreF en el ensayo MATISSE?",
+   "options": [
+    "Entre las semanas 24 y 36",
+    "En el primer trimestre",
+    "Justo después del parto",
+    "Antes de la concepción"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Vacunar entre las semanas 24 y 36 permite que los anticuerpos maternos crucen la placenta y protejan al recién nacido.",
+   "shortExplanation": "Semanas 24–36.",
+   "pmid": "37018474",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we randomly assigned, in a 1:1 ratio, pregnant women at 24 through 36 weeks' gestation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-37018468-1-en",
+   "translationKey": "infect-37018468-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "In adults ≥60 years, how effective was RSVpreF against RSV lower respiratory illness with ≥3 symptoms?",
+   "options": [
+    "About 15%",
+    "About 45%",
+    "About 65%",
+    "About 86%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Efficacy was 66.7% for illness with ≥2 symptoms and 85.7% with ≥3 symptoms.",
+   "shortExplanation": "~86%.",
+   "pmid": "37018468",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccine efficacy, 85.7%; 96.66% CI, 32.0 to 98.7",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-37018468-1-es",
+   "translationKey": "infect-37018468-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "En adultos de 60 años o más, ¿qué eficacia tuvo RSVpreF contra la enfermedad respiratoria baja por VSR con ≥3 síntomas?",
+   "options": [
+    "Cerca del 15%",
+    "Cerca del 45%",
+    "Cerca del 65%",
+    "Cerca del 86%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La eficacia fue 66,7% para enfermedad con ≥2 síntomas y 85,7% con ≥3 síntomas.",
+   "shortExplanation": "~86%.",
+   "pmid": "37018468",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vaccine efficacy, 85.7%; 96.66% CI, 32.0 to 98.7",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30184455-1-en",
+   "translationKey": "infect-30184455-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "How does baloxavir work against influenza?",
+   "options": [
+    "It blocks neuraminidase",
+    "It blocks the viral endonuclease",
+    "It blocks the M2 ion channel",
+    "It is a live attenuated vaccine"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Baloxavir blocks the viral cap-dependent endonuclease, a different target from oseltamivir.",
+   "shortExplanation": "Cap-dependent endonuclease.",
+   "pmid": "30184455",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Baloxavir marboxil is a selective inhibitor of influenza cap-dependent endonuclease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30184455-1-es",
+   "translationKey": "infect-30184455-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo actúa el baloxavir contra la influenza?",
+   "options": [
+    "Bloquea la neuraminidasa",
+    "Inhibe la endonucleasa viral",
+    "Bloquea el canal iónico M2",
+    "Es una vacuna viva atenuada"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El baloxavir bloquea la endonucleasa viral dependiente de cap, un blanco distinto del oseltamivir.",
+   "shortExplanation": "Endonucleasa dependiente de cap.",
+   "pmid": "30184455",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Baloxavir marboxil is a selective inhibitor of influenza cap-dependent endonuclease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30184455-2-en",
+   "translationKey": "infect-30184455-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "Compared with oseltamivir, what advantage did single-dose baloxavir show?",
+   "options": [
+    "Much faster relief of symptoms",
+    "No side effects at all in anyone",
+    "A faster drop in viral load",
+    "It prevented all complications"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Symptom relief was similar to oseltamivir, but viral load fell more by day 1.",
+   "shortExplanation": "Faster viral drop.",
+   "pmid": "30184455",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Baloxavir was associated with greater reductions in viral load 1 day after initiation of the regimen than placebo or oseltamivir",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30184455-2-es",
+   "translationKey": "infect-30184455-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "Frente al oseltamivir, ¿qué ventaja mostró el baloxavir en dosis única?",
+   "options": [
+    "Alivio de síntomas mucho más rápido",
+    "Ningún efecto adverso en nadie",
+    "La carga viral bajaba antes",
+    "Evitó todas las complicaciones"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El alivio de síntomas fue similar al del oseltamivir, pero la carga viral bajó más al día 1.",
+   "shortExplanation": "Carga viral baja antes.",
+   "pmid": "30184455",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Baloxavir was associated with greater reductions in viral load 1 day after initiation of the regimen than placebo or oseltamivir",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-40267424-1-en",
+   "translationKey": "infect-40267424-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "By how much did treating the index patient with baloxavir reduce influenza transmission to household contacts?",
+   "options": [
+    "About 29%",
+    "About 9%",
+    "About 79%",
+    "Not at all"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Transmission by day 5 was 9.5% vs 13.4%, a 29% relative reduction; symptomatic transmission was not significantly lower.",
+   "shortExplanation": "~29%.",
+   "pmid": "40267424",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with an adjusted relative risk reduction of 29%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-40267424-1-es",
+   "translationKey": "infect-40267424-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Cuánto redujo tratar con baloxavir al paciente índice la transmisión de influenza a los convivientes?",
+   "options": [
+    "Cerca del 29%",
+    "Cerca del 9%",
+    "Cerca del 79%",
+    "Nada"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La transmisión al día 5 fue 9,5% frente a 13,4%, una reducción relativa de 29%; la transmisión sintomática no bajó en forma significativa.",
+   "shortExplanation": "~29%.",
+   "pmid": "40267424",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with an adjusted relative risk reduction of 29%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30152252-1-en",
+   "translationKey": "infect-30152252-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "In the POET trial, how did switching stable endocarditis patients to oral antibiotics compare with continuing IV?",
+   "options": [
+    "It caused far more deaths",
+    "It was clearly inferior",
+    "It required more surgery",
+    "It was noninferior to IV"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "After at least 10 days IV, switching to oral therapy was noninferior for death, surgery, emboli and relapse.",
+   "shortExplanation": "Noninferior.",
+   "pmid": "30152252",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "changing to oral antibiotic treatment was noninferior to continued intravenous antibiotic treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30152252-1-es",
+   "translationKey": "infect-30152252-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "En el ensayo POET, ¿cómo resultó pasar a antibióticos orales a pacientes estables con endocarditis frente a seguir IV?",
+   "options": [
+    "Causó muchas más muertes",
+    "Fue claramente inferior",
+    "Requirió más cirugías",
+    "No fue inferior a la IV"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Tras al menos 10 días IV, pasar a vía oral no fue inferior en muerte, cirugía, embolias ni recaídas.",
+   "shortExplanation": "No inferior.",
+   "pmid": "30152252",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "changing to oral antibiotic treatment was noninferior to continued intravenous antibiotic treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30699315-1-en",
+   "translationKey": "infect-30699315-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Besides similar efficacy, what was a practical advantage of oral therapy in the OVIVA trial?",
+   "options": [
+    "Bone infections healed in a week",
+    "Far fewer catheter complications",
+    "No need for any surgery at all",
+    "Patients could stop at 2 weeks"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Catheter complications were 9.4% with IV versus 1.0% with oral therapy.",
+   "shortExplanation": "Fewer catheter problems.",
+   "pmid": "30699315",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Catheter complications, analyzed as a secondary end point, were more common in the intravenous group (9.4% vs. 1.0%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30699315-1-es",
+   "translationKey": "infect-30699315-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Además de una eficacia similar, ¿qué ventaja práctica tuvo la vía oral en el ensayo OVIVA?",
+   "options": [
+    "Las infecciones óseas curaban en una semana",
+    "Muchas menos complicaciones de catéter",
+    "No hacía falta ninguna cirugía",
+    "Se podía suspender a las 2 semanas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las complicaciones de catéter fueron 9,4% con IV frente a 1,0% con vía oral.",
+   "shortExplanation": "Menos problemas de catéter.",
+   "pmid": "30699315",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Catheter complications, analyzed as a secondary end point, were more common in the intravenous group (9.4% vs. 1.0%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-16914701-1-en",
+   "translationKey": "infect-16914701-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "Which safety advantage did daptomycin show over standard therapy with gentamicin for S. aureus bacteremia?",
+   "options": [
+    "Less hearing loss",
+    "Fewer allergic rashes",
+    "Less renal dysfunction",
+    "No muscle toxicity"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Kidney dysfunction occurred in 11% with daptomycin versus 26.3% with standard therapy including gentamicin.",
+   "shortExplanation": "Less kidney damage.",
+   "pmid": "16914701",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Clinically significant renal dysfunction occurred in 11.0 percent of patients who received daptomycin and in 26.3 percent of patients who received standard therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-16914701-1-es",
+   "translationKey": "infect-16914701-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué ventaja de seguridad mostró la daptomicina frente a la terapia estándar con gentamicina en la bacteriemia por S. aureus?",
+   "options": [
+    "Menos pérdida de audición",
+    "Menos erupciones alérgicas",
+    "Menos disfunción renal",
+    "Ninguna toxicidad muscular"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La disfunción renal ocurrió en 11% con daptomicina frente a 26,3% con la terapia estándar con gentamicina.",
+   "shortExplanation": "Menos daño renal.",
+   "pmid": "16914701",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Clinically significant renal dysfunction occurred in 11.0 percent of patients who received daptomycin and in 26.3 percent of patients who received standard therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-39565030-1-en",
+   "translationKey": "infect-39565030-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "What did the BALANCE trial show about antibiotic duration for bloodstream infections?",
+   "options": [
+    "7 days was noninferior to 14",
+    "14 days saved many more lives",
+    "3 days was enough for everyone",
+    "Longer courses were always safer"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "90-day mortality was 14.5% with 7 days and 16.1% with 14 days, showing noninferiority.",
+   "shortExplanation": "7 days enough.",
+   "pmid": "39565030",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Among hospitalized patients with bloodstream infection, antibiotic treatment for 7 days was noninferior to treatment for 14 days",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-39565030-1-es",
+   "translationKey": "infect-39565030-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Qué mostró el ensayo BALANCE sobre la duración del antibiótico en bacteriemias?",
+   "options": [
+    "7 días no fue inferior a 14",
+    "14 días salvó muchas más vidas",
+    "3 días alcanzaban para todos",
+    "Los cursos largos siempre eran más seguros"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mortalidad a 90 días fue 14,5% con 7 días y 16,1% con 14 días: no inferioridad.",
+   "shortExplanation": "7 días alcanzan.",
+   "pmid": "39565030",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Among hospitalized patients with bloodstream infection, antibiotic treatment for 7 days was noninferior to treatment for 14 days",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-39565030-2-en",
+   "translationKey": "infect-39565030-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "Which bacterium was excluded from the BALANCE 7- vs 14-day bacteremia trial?",
+   "options": [
+    "Escherichia coli",
+    "Klebsiella pneumoniae",
+    "Streptococcus pneumoniae",
+    "Staphylococcus aureus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "S. aureus bacteremia was excluded because it usually requires longer treatment.",
+   "shortExplanation": "S. aureus.",
+   "pmid": "39565030",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "or cultures yielding Staphylococcus aureus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-39565030-2-es",
+   "translationKey": "infect-39565030-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué bacteria se excluyó del ensayo BALANCE de 7 frente a 14 días en bacteriemias?",
+   "options": [
+    "Escherichia coli",
+    "Klebsiella pneumoniae",
+    "Streptococcus pneumoniae",
+    "Staphylococcus aureus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Se excluyó la bacteriemia por S. aureus porque suele requerir tratamientos más largos.",
+   "shortExplanation": "S. aureus.",
+   "pmid": "39565030",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "or cultures yielding Staphylococcus aureus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-39565030-3-en",
+   "translationKey": "infect-39565030-3",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "What was the most common source of bloodstream infection in the BALANCE trial?",
+   "options": [
+    "The lungs",
+    "The urinary tract",
+    "Vascular catheters",
+    "Skin and soft tissue"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Urinary sources led (42%), then abdomen (19%) and lung (13%).",
+   "shortExplanation": "Urinary tract.",
+   "pmid": "39565030",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteremia most commonly originated from the urinary tract (42.2%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-39565030-3-es",
+   "translationKey": "infect-39565030-3",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "¿Cuál fue el origen más común de la bacteriemia en el ensayo BALANCE?",
+   "options": [
+    "Los pulmones",
+    "Las vías urinarias",
+    "Los catéteres vasculares",
+    "La piel y partes blandas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El origen urinario encabezó (42%), seguido del abdomen (19%) y el pulmón (13%).",
+   "shortExplanation": "Vías urinarias.",
+   "pmid": "39565030",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteremia most commonly originated from the urinary tract (42.2%)",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
