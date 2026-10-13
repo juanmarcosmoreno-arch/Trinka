@@ -1,5 +1,5 @@
 {
- "version": 15,
+ "version": 16,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -6504,6 +6504,472 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK547698"
+  },
+  {
+   "pmid": "32491676",
+   "title": "Pharmacokinetics",
+   "authors": [
+    "Grogan S",
+    "Preuss CV"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Pharmacokinetics (PK) is the study of how the body interacts with administered substances for the entire duration of exposure (medications for the sake of this article). This is closely related to but distinctly different from pharmacodynamics, which examines the drug’s effect on the body more closely. This field generally examines these four main parameters: absorption, distribution, metabolism, and excretion (ADME).",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557744"
+  },
+  {
+   "pmid": "29939568",
+   "title": "Pharmacodynamics",
+   "authors": [
+    "Marino M",
+    "Jamal Z",
+    "Zito PM"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "f\"Did we but know the mechanical affections of the particles of rhubarb, hemlock, opium, and a man...we should be able to tell beforehand that rhubarb will purge, hemlock kill, and opium make a man sleepy...\" - John Locke: Essay Concerning Human Understanding Pharmacodynamics studies a drug's molecular, biochemical, and physiologic effects or actions. It comes from the Greek words \"pharmakon,\" meaning \"drug,\" and \"dynamikos,\" meaning \"power.\" All drugs produce their effects by interacting with biological structures or targets at the molecular level to induce a change in how the target molecule functions regarding subsequent intermolecular interactions. These interactions include receptor binding, post-receptor effects, and chemical interactions. Examples of these interactions include drugs binding to an active site of an enzyme, drugs that interact with cell surface signaling proteins to disrupt downstream signaling, and drugs that act by binding molecules like tumor necrosis factor. After the drug-target interaction occurs downstream, effects are elicited, which can be measured by biochemical or clinical means. Examples include the inhibition of platelet aggregation after administering aspirin, the reduction of blood pressure after ACE inhibitors, and the blood-glucose-lowering effect of insulin. While these examples seem obvious, the administration of the preceding drug examples should be kept in mind, so practitioners do not administer these drugs to inhibit platelet aggregation, lower blood pressure, or lower blood glucose, but to reduce the risks of cerebrovascular accident, myocardial infarction, and renal and eye complications through the drug's pharmacodynamic effects. Healthcare practitioners must treat the patient, not the symptom or the lab value. Pharmacodynamics and pharmacokinetics are the 2 branches of pharmacology, with pharmacodynamics studying the action of the drug on the organism and pharmacokinetics studying the effect the organism has on processing the drug. Pharmacodynamic actions include: Stimulating activity by directly acting on a receptor and its downstream effects. Depressing activity by direct receptor inhibition and its downstream effects. Antagonistic or blocking a receptor by binding to it but not activating it. Stabilizing action, where the drug behaves as neither an agonist nor an antagonist. Direct chemical reactions (beneficial in therapy and also as an adverse event). Any of these factors can be therapeutically effective and can also precipitate an adverse event.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK507791"
+  },
+  {
+   "pmid": "32496732",
+   "title": "Drug Bioavailability",
+   "authors": [
+    "Price G",
+    "Patel DA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Bioavailability refers to the extent a substance or drug becomes completely available to its intended biological destination(s). More accurately, bioavailability is a measure of the rate and fraction of the initial dose of a drug that successfully reaches either; the site of action or the bodily fluid domain from which the drug's intended targets have unimpeded access.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557852"
+  },
+  {
+   "pmid": "31424864",
+   "title": "Clinical Significance of Volume of Distribution in Pharmacotherapy",
+   "authors": [
+    "Bisht S",
+    "Chauhan V",
+    "Patel P"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "The volume of distribution (Vd) is a pharmacokinetic parameter that describes a drug's tendency to remain in the plasma or distribute into other tissue compartments. By definition, Vd is a proportionality constant that relates the total amount of drug in the body to the plasma concentration of the drug at a given time. Volume of distribution is represented as: Vd=Amount of drug in the body/Plasma concentration of the drug. The unit of Vd is liter (L). In this relationship, the amount of drug in the body is typically expressed in milligrams (mg), and the plasma drug concentration is expressed in mg/L. Vd is a theoretical or apparent volume of fluid that a drug would need to occupy to achieve the observed plasma concentration. Traditionally, Vd is described in terms of the relationship between the drug’s plasma concentration and the total amount of drug in the body. Vd can vary depending on the dosing regimen and the timing of measurement. Notably, Vd does not represent a true physical or physiological volume. Instead, it is an apparent or theoretical volume required to contain the total amount of drug in the body at the same concentration as measured in plasma. Abbreviations: Css=steady-state conditions; Vd=volume of distribution. Significance of Volume of Distribution A drug with a high Vd tends to leave the plasma and distribute extensively into extravascular compartments. Consequently, a higher dose may be required to achieve a given plasma concentration. (High Vd → Greater distribution into other tissues.) In contrast, a drug with a low Vd tends to remain in plasma, implying that a lower dose is required to achieve a given plasma concentration. (Low Vd → Less distribution into other tissues.) The volume of distribution is commonly determined using the drug concentration measured in plasma or serum, which are generally considered equivalent for this purpose. Drugs can have variable Vd (eg, warfarin has a very low Vd [0.14 L/kg], whereas chloroquine has a high Vd [235 L/kg]). Vd is commonly expressed in liters (L). However, it is often normalized to an individual’s body weight by dividing by body weight in kilograms (kg), resulting in a standardized unit of liters per kilogram (L/kg). Abbreviations: ABW=adjusted body weight; AGS=American Geriatrics Society; AKI=acute kidney injury; Cp=target plasma concentration; ECF=extracellular fluid; EXTRIP=Extracorporeal Treatments in Poisoning; IBW=ideal body weight; IV=intravenous; KDIGO=Kidney Disease: Improving Global Outcomes; LD=loading dose; PPB=plasma protein binding; TDM=therapeutic drug monitoring; Vd=volume of distribution.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK545280"
+  },
+  {
+   "pmid": "32491690",
+   "title": "Drug Clearance",
+   "authors": [
+    "Horde GW",
+    "Gupta V"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Understanding the concept of drug clearance is essential when determining the dosing of medications. When a medication is administered intravenously, the drug ends up either in the blood plasma or redistributes into the extravascular volume. The drug present in the plasma can be removed from the body primarily through the kidneys and liver. Drug clearance is defined as the volume of plasma cleared of a drug over a specified time period. Thus, the unit of measurement for drug clearance is volume/time. Another equation can calculate clearance. Clearance is equal to the rate at which a drug is removed from plasma(mg/min) divided by the concentration of that drug in the plasma (mg/mL). The total ability of the body to clear a drug from the plasma is renal clearance plus hepatic clearance plus clearance from all other tissues. It is important to be aware of the fact that clearance does not tell us the amount of drug cleared. For example, let’s say drug X has a renal clearance of 20 mL/min and hepatic clearance of 5 mL/min. The total clearance of drug X would be 25 mL of plasma is cleared of drug X per minute.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557758"
+  },
+  {
+   "pmid": "29489203",
+   "title": "Amoxicillin",
+   "authors": [
+    "Akhavan BJ",
+    "Khanna NR",
+    "Vijhani P"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Amoxicillin is a widely utilized beta-lactam antimicrobial drug approved by the U.S. Food and Drug Administration (FDA) for use in the primary care setting. Amoxicillin is an aminopenicillin created by adding an extra amino group to penicillin to battle antibiotic resistance. This drug is indicated for the treatment of infections caused by susceptible isolates of selected bacteria, specifically those that are beta-lactamase–negative, including ear, nose, and throat infections, Helicobacter pylori eradication, lower respiratory and urinary tract infections, acute bacterial sinusitis, and skin and structure infections.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK482250"
+  },
+  {
+   "pmid": "30844191",
+   "title": "Amoxicillin Clavulanate",
+   "authors": [
+    "Evans J",
+    "Hanoodi M",
+    "Wittler M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Amoxicillin-clavulanate is an antibiotic commonly used in emergency departments and primary care offices worldwide. This drug combination offers broader coverage by combining amoxicillin, a penicillin derivative effective against gram-positive and gram-negative bacteria, with clavulanic acid, which counteracts β-lactamase–producing strains. This medication is effective against methicillin-sensitive Staphylococcus aureus (MSSA) and Neisseria species. Indications for amoxicillin-clavulanate administration also include community-acquired pneumonia (CAP), chronic group A streptococci carriers, and small intestinal bacterial overgrowth (SIBO); the efficacy of amoxicillin-clavulanate in treating SIBO approximates 50%. Amoxicillin-clavulanate is also indicated for treating acute bacterial rhinosinusitis; the Infectious Diseases Society of America (IDSA) and the American Academy of Otolaryngology's Head and Neck Surgery guidelines recommend this combination medication over amoxicillin alone.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK538164"
+  },
+  {
+   "pmid": "32491524",
+   "title": "Beta-Lactamase Inhibitors",
+   "authors": [
+    "Khanna NR",
+    "Gerriets V"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2022,
+   "doi": null,
+   "abstract": "Beta-lactamase inhibitors are co-administered with beta-lactam antimicrobials to prevent antimicrobial resistance. They do this by inhibiting serine beta-lactamases, enzymes that inactivate the beta-lactam ring which are a common chemical structure to all beta-lactam antimicrobials. This activity outlines the different types of beta-lactamase inhibitors. It discusses the pharmacological properties of beta-lactamase inhibitors, their medical uses, administration methods, side effects, and other properties. It also highlights providers' critical role in correctly administering beta-lactamase inhibitors in combination with beta-lactam antimicrobials and counseling patients regarding medication adherence.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557592"
+  },
+  {
+   "pmid": "31194389",
+   "title": "Cefepime",
+   "authors": [
+    "O'Connor A",
+    "Lopez MJ",
+    "Patel P",
+    "Eranki AP"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Cefepime, a potent cephalosporin belonging to the beta-lactam class of antibiotics, addresses a spectrum of bacterial infections caused by gram-negative and gram-positive organisms. Cefepime's efficacy is validated by FDA approval for conditions including pneumonia, complicated and uncomplicated urinary tract infections, skin and soft tissue infections, complicated intra-abdominal infections (in conjunction with metronidazole), and as an empiric treatment for neutropenic fever. The mechanism of action inherent to cefepime aligns with other beta-lactam antibiotics, disrupting bacterial cell wall synthesis. By covalently binding to key enzymes engaged in the final step of transpeptidation during peptidoglycan wall synthesis, cefepime induces structural defects in the cell wall, culminating in autolysis and the subsequent demise of the infectious organism. This module meticulously elucidates the indications, contraindications, adverse effects, dosing parameters, and monitoring considerations associated with cefepime. This educational resource empowers clinicians to leverage cefepime effectively in managing bacterial infections among hospitalized patients.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK542232"
+  },
+  {
+   "pmid": "31747187",
+   "title": "Cephalexin",
+   "authors": [
+    "Herman TF",
+    "Hashmi MF"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Cephalexin is an antibiotic approved by the U.S. Food and Drug Administration (FDA) in 1970 and is classified as a first-generation cephalosporin. This drug is widely used in outpatient and inpatient healthcare settings due to its favorable safety and efficacy profile. Cephalexin is commonly utilized in the treatment of urinary tract infections, respiratory infections, otitis media, bone infections caused by Staphylococcus aureus or Proteus mirabilis, and skin and soft tissue infections primarily caused by S aureus or Streptococcus pyogenes. Cephalexin is administered prophylactically to minimize the risk of surgical site infections and other bacterial infections. Both streptococcal and staphylococcal species can cause these infections. This comprehensive activity provides an overview of the indications, mechanism of action, contraindications, and adverse effects of cephalexin, enabling the interprofessional healthcare team to utilize it appropriately in patient care.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK549780"
+  },
+  {
+   "pmid": "31751071",
+   "title": "Third-Generation Cephalosporins",
+   "authors": [
+    "Arumugham VB",
+    "Gujarathi R",
+    "Cascella M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Third-generation cephalosporins are medications used in the management and treatment of gram-negative and gram-positive organisms. They are encompassed among the beta-lactam class of drugs. This activity describes the indications, action, and contraindications for third-generation cephalosporins as a valuable agent in the management of gram-negative meningitis, Lyme disease, Pseudomonas pneumonia, gram-negative sepsis, Streptococcal endocarditis, melioidosis, penicillinase-producing Neisseria gonorrhea, chancroid, and gram-negative osteomyelitis. This activity will highlight the mechanism of action, adverse event profile, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, relevant interactions) pertinent for members of the interprofessional healthcare team in the treatment of patients with gram-positive and gram-negative infections and related conditions.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK549881"
+  },
+  {
+   "pmid": "29939545",
+   "title": "Benzathine Penicillin",
+   "authors": [
+    "Gartlan WA",
+    "Rahman S",
+    "Pellegrini MV",
+    "Reti K"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "This activity delves into the multifaceted clinical applications of benzathine penicillin, a potent antibiotic derived from the reaction between penicillin G molecules and diphenylethylene diamine. With broad-spectrum activity against gram-positive bacteria, benzathine penicillin emerges as a formidable agent, effectively combating diverse strains such as β-hemolytic streptococci (groups A, B, C, G, H, L, and M). Its exceptional efficacy against Treponema pallidum and T. carateum positions benzathine penicillin as a cornerstone in treating syphilis and yaws. Importantly, its unparalleled record is underscored by the absence of reported resistance in Streptococcus pyogenes, solidifying its status as a reliable therapeutic tool for specific infections.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK507723"
+  },
+  {
+   "pmid": "30137853",
+   "title": "Ampicillin",
+   "authors": [
+    "Sabunwala SA",
+    "Patel P",
+    "Patel AR"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Ampicillin is a widely used aminopenicillin antibiotic with activity against susceptible gram-positive organisms, including Enterococcus species and Listeria monocytogenes, as well as selected gram-negative pathogens. Despite its longstanding role in clinical practice, appropriate use of ampicillin requires an understanding of its antimicrobial spectrum, mechanisms of action, pharmacokinetic properties, dosing considerations, adverse effects, and resistance patterns. Ampicillin remains an important therapeutic option for serious infections such as endocarditis, meningitis, bloodstream infections, and selected intra-abdominal and urinary tract infections. This activity reviews the indications, off-label uses, administration, monitoring, toxicity, contraindications, and interprofessional management considerations associated with ampicillin therapy. Participants will gain knowledge and practical strategies to optimize antimicrobial selection, individualize dosing in special populations, recognize and manage adverse reactions, apply antimicrobial stewardship principles, and collaborate effectively with pharmacists and other healthcare professionals to improve patient outcomes.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK519569"
+  },
+  {
+   "pmid": "29494112",
+   "title": "Vancomycin Infusion Reaction",
+   "authors": [
+    "Martel TJ",
+    "Jamil RT",
+    "Afzal M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Vancomycin infusion reaction, formerly known as red man syndrome, is one of two types of hypersensitivity reactions that can occur with vancomycin administration— the other being anaphylaxis. Anaphylaxis is an allergic immunoglobulin E (IgE) immune-mediated reaction, whereas vancomycin infusion reaction is an anaphylactoid hypersensitivity response triggered by the rapid infusion of vancomycin, a glycopeptide antibiotic. Vancomycin infusion reaction occurs due to the release of histamine from the degranulation of mast cells and basophils, a nonimmune-mediated process. The amount of histamine released is typically related to the dose of vancomycin and the infusion rate. Although vancomycin infusion reaction is typically associated with rapid infusion rates (for example, <1 h), it has been reported with slower rates, even several days after vancomycin administration. Vancomycin infusion reaction has rarely been reported with topical application and oral administration, typically when treating Clostridiodes difficile. The condition manifests as a pruritic, erythematous rash on the face, neck, and upper torso, which may involve the extremities to a lesser degree and angioedema. Symptoms of vancomycin infusion reaction may include weakness, chest and back pain, hypotension, shock, and even cardiac arrest. Differentiation must be made from vancomycin-induced anaphylaxis, an IgE-mediated response that requires prior exposure to vancomycin. Treatment typically involves stopping the infusion and re-administering vancomycin at a slower rate.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK482506"
+  },
+  {
+   "pmid": "32491482",
+   "title": "Gentamicin",
+   "authors": [
+    "Chaves BJ",
+    "Tadi P"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Gentamicin is an aminoglycoside antibiotic used in the treatment of several gram-negative infections. It should be indicated based on patient age, symptoms, signs at presentation, and local antimicrobial resistance patterns to enhance the probability of successful treatment in bacterial septicemia, meningitis, urinary tract infections, gastrointestinal tract infections, and soft tissue infections. This activity aims to review the indications, action mechanism, and contraindications for gentamicin as a relevant agent in the therapy of nosocomial and community-acquired infections. This activity will also highlight the main administration routes, adverse event profile, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring) pertinent to the healthcare team in using gentamicin.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557550"
+  },
+  {
+   "pmid": "32809438",
+   "title": "Neomycin",
+   "authors": [
+    "Veirup N",
+    "Kyriakopoulos C"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Neomycin is primarily used to treat and manage hepatic coma and perioperative prophylaxis. Neomycin belongs to the aminoglycosides group of antibiotics, which functions by inhibiting bacterial protein synthesis, resulting in a bactericidal effect primarily against gram-negative bacteria. When administered orally, neomycin exhibits limited absorption into the systemic circulation. This characteristic enhances its effectiveness for treating infections localized within the gastrointestinal tract. Neomycin's mechanism of action closely resembles that of most aminoglycosides, as it binds to the 30S ribosomal subunit, thereby disrupting bacterial protein synthesis. The initial steps required for peptide synthesis proceed without interruption, but the subsequent elongation process is hindered due to the disruption of translational accuracy. This interference disrupts the bacteria's translation process, ultimately resulting in the bactericidal effects of the medication. This activity highlights neomycin's indications, contraindications, mechanisms of action, and adverse drug reactions within the clinical context, focusing on essential information for interprofessional healthcare team members. This activity also reviews crucial facets related to neomycin therapy, including off-label uses, appropriate dosing, pharmacokinetics, monitoring, and relevant interactions, which enhance the competence of healthcare providers when caring for patients with hepatic coma, perioperative prophylaxis, constipation-dominant inflammatory bowel syndrome, associated disorders, and their consequences.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK560603"
+  },
+  {
+   "pmid": "28613658",
+   "title": "Amikacin",
+   "authors": [
+    "Sizar O",
+    "Rahman S",
+    "Sundareshan V"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Amikacin is an antimicrobial with activity against more resistant gram-negative bacilli such as Acinetobacter baumanii and Pseudomonas aeruginosa. It also has excellent activity against most aerobic gram-negative bacilli from the Enterobacteriaceae family, including Nocardia sp. and some Mycobacterium spp. (M. avium-intracellulare, M. chelonae, and M. fortuitum). Unlike gentamicin, amikacin does not provide synergistic activity against Enterococcus faecium when combined with beta-lactam antibiotics. This activity covers amikacin, its mechanism, activity spectrum, and its place in an infectious disease regimen. Members of the interprofessional team need to review its indications, coverage, contraindications, and adverse event profile to optimally manage patients with infectious disease.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK430908"
+  },
+  {
+   "pmid": "32491698",
+   "title": "Azithromycin",
+   "authors": [
+    "Sandman Z",
+    "Iqbal OA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Azithromycin is a macrolide primarily prescribed to treat bacterial infections, including community-acquired pneumonia and sexually transmitted infections. This activity addresses the indications, mechanism of action, and contraindications of azithromycin, emphasizing critical factors such as administration, adverse event profile, toxicity, monitoring, and drug interactions. This review provides healthcare professionals with essential insights for optimizing azithromycin therapy by tailoring treatment to patient-specific needs, minimizing adverse effects, and ensuring safety in diverse populations.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557766"
+  },
+  {
+   "pmid": "30335282",
+   "title": "Erythromycin",
+   "authors": [
+    "Farzam K",
+    "Nessel TA",
+    "Quick J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Erythromycin has traditionally been used for various respiratory infections (i.e., community-acquired pneumonia, Legionnaires disease), prophylaxis of neonatal conjunctivitis, and chlamydia. It is also FDA-approved for treating skin infections, intestinal amebiasis, rheumatic fever, prophylaxis, syphilis, and pelvic inflammatory disease (PID). In addition, if mixed with tretinoin cream or benzoyl peroxide, it is effective for treating acne. This activity will highlight the mechanism of action, adverse event profile, pharmacology, monitoring, and relevant interactions of erythromycin, other key factors (e.g., dosing, pharmacokinetics, monitoring, relevant interactions) pertinent for members of the interprofessional team in the treatment of patients with infections and other conditions where this agent is indicated.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK532249"
+  },
+  {
+   "pmid": "30137858",
+   "title": "Clindamycin",
+   "authors": [
+    "Murphy PB",
+    "Bistas KG",
+    "Patel P",
+    "Le JK"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "This activity focuses on the comprehensive spectrum of indications and applications for clindamycin, a potent antimicrobial agent widely utilized to manage diverse infections. From septicemia to gynecological infections, lower respiratory infections to skin and skin structure infections, clindamycin effectively addresses many bacterial pathogens. This program systematically explores clindamycin's therapeutic actions, offering healthcare providers a nuanced understanding of its mechanisms, contraindications, potential drug interactions, and associated adverse events. By delving into clindamycin's clinical applications, this activity equips healthcare professionals with the knowledge to integrate this antimicrobial drug into their practice to treat various infectious conditions effectively, fostering improved patient outcomes.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK519574"
+  },
+  {
+   "pmid": "32310348",
+   "title": "Doxycycline Hyclate",
+   "authors": [
+    "Parmar M",
+    "Patel P"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Doxycycline hyclate is a water-soluble, broad-spectrum tetracycline antibiotic used to treat a range of infections, including acne, sexually transmitted infections (STIs), eg, chlamydia, syphilis, and gonorrhea, Lyme disease, malaria prophylaxis, and pathogens (eg, Mycoplasma). The Centers for Disease Control now recommends doxycycline as postexposure prophylaxis (Doxy PEP) for preventing bacterial STIs in high-risk populations. In addition to its antimicrobial properties, doxycycline offers anti-inflammatory and immunomodulatory effects, making it helpful in treating conditions, eg, rosacea, rheumatoid arthritis, and periodontal disease. This course explores doxycycline's mechanism of action, bioavailability, tissue penetration, and safety profile. The adverse effects and rising concerns about resistance are also discussed.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK555888"
+  },
+  {
+   "pmid": "32119406",
+   "title": "Minocycline",
+   "authors": [
+    "Nazarian S",
+    "Akhondi H"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Minocycline belongs to the tetracycline class of antibiotics and is used to manage and treat both infectious and non-infectious conditions. In addition to its effectiveness against both gram-positive and gram-negative bacteria, minocycline also exhibits anti-inflammatory, antioxidant, anti-apoptotic, and immunomodulatory properties. Furthermore, this medication is recognized as the most effective tetracycline derivative in terms of its ability to provide neuroprotective effects. This activity describes minocycline's mechanism of action, indications, and contraindications as a valuable agent in treating and managing bacterial infections and conditions such as acne, neurodegenerative diseases, periodontitis, and dermatitis. This activity also highlights the adverse event profile, dosing, pharmacodynamics, pharmacokinetics, monitoring, and other relevant interactions of minocycline. These are crucial considerations for healthcare professionals engaged in treating patients with the conditions mentioned above.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK554519"
+  },
+  {
+   "pmid": "30571075",
+   "title": "Ciprofloxacin",
+   "authors": [
+    "Thai T",
+    "Salisbury BH",
+    "Zito PM"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Ciprofloxacin is an antibiotic agent in the fluoroquinolone class used to treat bacterial infections such as urinary tract infections and pneumonia. Ciprofloxacin has FDA approval to treat urinary tract infections, sexually transmitted infections (gonorrhea and chancroid), skin, bone, joint infections, prostatitis, typhoid fever, gastrointestinal infections, lower respiratory tract infections, anthrax, plague, and salmonellosis. In addition, ciprofloxacin is an appropriate treatment option in patients with mixed infections or patients with predisposing factors for Gram-negative infections. This activity covers ciprofloxacin, a broad-spectrum quinolone antibiotic that members of the interprofessional team need to review its indications, coverage, contraindications, and adverse event profile to optimally manage patients' infectious diseases.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK535454"
+  },
+  {
+   "pmid": "31424764",
+   "title": "Levofloxacin",
+   "authors": [
+    "Podder V",
+    "Patel P",
+    "Sadiq NM"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Levofloxacin is FDA-approved for the treatment of nosocomial pneumonia, community-acquired pneumonia, acute bacterial rhinosinusitis, acute bacterial exacerbation of chronic bronchitis, acute bacterial prostatitis, acute pyelonephritis, urinary tract infection, skin or skin structure infections, prophylaxis, and treatment of plaque due to Yersinia pestis, and to reduce the incidence of disease progression of inhalational anthrax. The drug is in the fluoroquinolone class of medications, and adverse effects include pseudomembranous colitis, hepatotoxicity, and QT prolongation, necessitating patient education on discontinuation if such symptoms arise. This activity reviews monitoring strategies, FDA-issued box warnings, clinical toxicology, and relevant interactions pertinent to healthcare team members in treating patients with bacterial infections.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK545180"
+  },
+  {
+   "pmid": "32966000",
+   "title": "Rifaximin",
+   "authors": [
+    "Robertson KD",
+    "Nagalli S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Rifaximin is an antibiotic used to treat irritable bowel syndrome with diarrhea, reduce the risk of overt hepatic encephalopathy recurrence in adults, and treat travelers’ diarrhea caused by noninvasive strains of Escherichia coli. Rifaximin has a broad spectrum of activity against both gram-negative and gram-positive anaerobic and aerobic bacteria. This antibiotic is used primarily in diseases since it is specific to the gastrointestinal tract due to its nonabsorbable profile. This activity will review the indications, mechanism of action, administration, safety profile, and contraindications for rifaximin. In addition, this activity will highlight the mechanism of action, adverse event profile, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, and relevant interactions) pertinent to the interprofessional team members.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK562329"
+  },
+  {
+   "pmid": "38261667",
+   "title": "Mupirocin",
+   "authors": [
+    "Erwin DZ",
+    "Chen P"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Mupirocin belongs to the topical antibiotic class of medications and is utilized for managing and treating various skin and soft tissue infections. The topical medication mupirocin received initial approval from the U.S. Food and Drug Administration (FDA) in 1997 and has since been widely prescribed and used globally. Due to its extensive use, resistance to mupirocin is increasing significantly. This activity reviews the indications, mechanism of action, adverse event profile, and contraindications of mupirocin as a valuable agent in the management of skin and soft tissue infections. This activity also highlights the roles of the interprofessional healthcare team involved in treating patients with skin and soft tissue infections and related conditions.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK599499"
+  },
+  {
+   "pmid": "32644476",
+   "title": "Ethambutol",
+   "authors": [
+    "Lee N",
+    "Patel P",
+    "Nguyen H"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Ethambutol is a bacteriostatic drug that inhibits cell wall synthesis and is used to manage and treat tuberculosis (TB). The mechanism of action, dosing considerations, pharmacokinetics, adverse event profiles, contraindications, boxed warnings, and monitoring strategies are highlighted within a multi-drug treatment. In particular, the severe adverse drug reaction relating to optic neuropathy is discussed, with relevant interventions mentioned. New drugs like bedaquiline promise to improve TB outcomes, but addressing pharmacy challenges and ensuring interprofessional collaboration remains crucial for effective patient management with ethambutol therapy. Given the emergence of ethambutol-resistant TB strains, the emphasis on contraindicated single regimen use is important. This activity will highlight other key factors, such as off-label uses, dosing, and monitoring, pertinent to healthcare team members treating patients with tuberculosis and related conditions. The interprofessional team, including infectious disease specialists or ophthalmologists in complicated cases, is equipped with comprehensive knowledge to enhance patient care during therapy with ethambutol.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK559050"
+  },
+  {
+   "pmid": "28723061",
+   "title": "Preoperative Antibiotic Prophylaxis",
+   "authors": [
+    "Crader MF",
+    "Varacallo MA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Preoperative antibiotic prophylaxis is administering antibiotics before performing surgery to help decrease the risk of postoperative infections. The evidence supporting routine preoperative use of prophylactic antibiotic administration continues to grow. The routine administration of prophylactic antibiotics is standard in cases in which a patient will have an artificial implant or foreign body implanted as part of the procedure, bone grafting procedures, and other surgeries with extensive dissections and expectations for higher amounts of anticipated blood loss. This activity will highlight the rationale, timing, agent selection, coverage, and monitoring pertinent for interprofessional team members involved in the administration of preoperative antibiotic prophylaxis to patients.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK442032"
   },
   {
    "pmid": "28722861",
@@ -47069,6 +47535,1926 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Zinc is a medication used in the management and treatment of diarrhea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491676-1-en",
+   "translationKey": "medicine-32491676-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "What does the acronym ADME stand for in pharmacokinetics?",
+   "options": [
+    "Action, dose, mechanism, effect",
+    "Antibody, drug, membrane, enzyme",
+    "Absorption, distribution, metabolism, excretion",
+    "Allergy, dependence, misuse, error"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Pharmacokinetics studies how the body handles a drug: absorption, distribution, metabolism and excretion.",
+   "shortExplanation": "ADME.",
+   "pmid": "32491676",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "absorption, distribution, metabolism, and excretion (ADME)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491676-1-es",
+   "translationKey": "medicine-32491676-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "¿Qué significa la sigla ADME en farmacocinética?",
+   "options": [
+    "Acción, dosis, mecanismo, efecto",
+    "Anticuerpo, droga, membrana, enzima",
+    "Absorción, distribución, metabolismo, excreción",
+    "Alergia, dependencia, mal uso, error"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La farmacocinética estudia cómo el cuerpo maneja un fármaco: absorción, distribución, metabolismo y excreción.",
+   "shortExplanation": "ADME.",
+   "pmid": "32491676",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "absorption, distribution, metabolism, and excretion (ADME)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29939568-1-en",
+   "translationKey": "medicine-29939568-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "What is the difference between pharmacodynamics and pharmacokinetics?",
+   "options": [
+    "Pharmacodynamics is what the drug does to the body; pharmacokinetics is what the body does to the drug",
+    "They are the same",
+    "Pharmacokinetics is only about side effects",
+    "Pharmacodynamics studies drug prices"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "These are the two branches of pharmacology: drug action on the organism vs. the organism's processing of the drug.",
+   "shortExplanation": "Drug→body vs. body→drug.",
+   "pmid": "29939568",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with pharmacodynamics studying the action of the drug on the organism and pharmacokinetics studying the effect the organism has on processing the drug",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29939568-1-es",
+   "translationKey": "medicine-29939568-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Qué diferencia hay entre farmacodinamia y farmacocinética?",
+   "options": [
+    "La farmacodinamia es lo que el fármaco le hace al cuerpo; la farmacocinética, lo que el cuerpo le hace al fármaco",
+    "Son lo mismo",
+    "La farmacocinética solo trata efectos adversos",
+    "La farmacodinamia estudia precios"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Son las dos ramas de la farmacología: acción del fármaco sobre el organismo vs. procesamiento del fármaco por el organismo.",
+   "shortExplanation": "Fármaco→cuerpo vs. cuerpo→fármaco.",
+   "pmid": "29939568",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with pharmacodynamics studying the action of the drug on the organism and pharmacokinetics studying the effect the organism has on processing the drug",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32496732-1-en",
+   "translationKey": "medicine-32496732-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "What does a drug's bioavailability measure?",
+   "options": [
+    "Its price",
+    "Its color and taste",
+    "How toxic it is",
+    "The rate and fraction of a dose that reaches its site of action or circulation"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Bioavailability is how much of a dose, and how fast, reaches the site of action or the relevant body fluid (e.g., circulation).",
+   "shortExplanation": "Fraction reaching target.",
+   "pmid": "32496732",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "bioavailability is a measure of the rate and fraction of the initial dose of a drug that successfully reaches",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32496732-1-es",
+   "translationKey": "medicine-32496732-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Qué mide la biodisponibilidad de un fármaco?",
+   "options": [
+    "Su precio",
+    "Su color y sabor",
+    "Qué tan tóxico es",
+    "La velocidad y fracción de la dosis que llega a su sitio de acción o a la circulación"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La biodisponibilidad es cuánto de una dosis, y a qué velocidad, llega al sitio de acción o al líquido corporal relevante (como la circulación).",
+   "shortExplanation": "Fracción que llega.",
+   "pmid": "32496732",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "bioavailability is a measure of the rate and fraction of the initial dose of a drug that successfully reaches",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31424864-1-en",
+   "translationKey": "medicine-31424864-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "What does a high volume of distribution (Vd) indicate?",
+   "options": [
+    "The drug stays mostly in plasma",
+    "The drug distributes extensively into tissues outside the plasma",
+    "The drug is quickly excreted",
+    "The drug is not absorbed"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "High Vd: extensive tissue distribution, often needing a higher dose for a given plasma level; low Vd: stays in plasma.",
+   "shortExplanation": "Tissue distribution.",
+   "pmid": "31424864",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A drug with a high Vd tends to leave the plasma and distribute extensively into extravascular compartments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31424864-1-es",
+   "translationKey": "medicine-31424864-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Qué indica un volumen de distribución (Vd) alto?",
+   "options": [
+    "Que el fármaco queda sobre todo en el plasma",
+    "Que el fármaco se distribuye ampliamente en tejidos fuera del plasma",
+    "Que se elimina rápido",
+    "Que no se absorbe"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Vd alto: amplia distribución tisular, a menudo con mayor dosis para lograr un nivel plasmático; Vd bajo: queda en plasma.",
+   "shortExplanation": "Distribución tisular.",
+   "pmid": "31424864",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A drug with a high Vd tends to leave the plasma and distribute extensively into extravascular compartments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31424864-2-en",
+   "translationKey": "medicine-31424864-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "Which statement about volume of distribution is correct?",
+   "options": [
+    "It is an apparent, theoretical volume, not a real physical one",
+    "It equals total blood volume",
+    "It equals body water exactly",
+    "It is always below 5 L"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Vd = amount in body / plasma concentration; it can exceed body size (e.g., chloroquine 235 L/kg).",
+   "shortExplanation": "Apparent volume.",
+   "pmid": "31424864",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vd does not represent a true physical or physiological volume",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31424864-2-es",
+   "translationKey": "medicine-31424864-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "¿Qué afirmación sobre el volumen de distribución es correcta?",
+   "options": [
+    "Es un volumen aparente y teórico, no físico",
+    "Es igual al volumen de sangre",
+    "Es exactamente el agua corporal",
+    "Siempre es menor de 5 L"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Vd = cantidad en el cuerpo / concentración plasmática; puede superar el tamaño corporal (cloroquina 235 L/kg).",
+   "shortExplanation": "Volumen aparente.",
+   "pmid": "31424864",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vd does not represent a true physical or physiological volume",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491690-1-en",
+   "translationKey": "medicine-32491690-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "How is drug clearance defined?",
+   "options": [
+    "The amount of drug in a tablet",
+    "The time to reach peak concentration",
+    "The volume of plasma cleared of the drug per unit time",
+    "The percentage of drug bound to protein"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Clearance (volume/time) mainly reflects renal plus hepatic elimination; it does not directly state the amount removed.",
+   "shortExplanation": "Volume per time.",
+   "pmid": "32491690",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Drug clearance is defined as the volume of plasma cleared of a drug over a specified time period",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491690-1-es",
+   "translationKey": "medicine-32491690-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se define el clearance (depuración) de un fármaco?",
+   "options": [
+    "La cantidad de fármaco en un comprimido",
+    "El tiempo hasta la concentración máxima",
+    "El volumen de plasma depurado del fármaco por unidad de tiempo",
+    "El porcentaje unido a proteínas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El clearance (volumen/tiempo) refleja sobre todo la eliminación renal y hepática; no indica directamente la cantidad eliminada.",
+   "shortExplanation": "Volumen por tiempo.",
+   "pmid": "32491690",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Drug clearance is defined as the volume of plasma cleared of a drug over a specified time period",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491690-2-en",
+   "translationKey": "medicine-32491690-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "A drug has renal clearance of 20 mL/min and hepatic clearance of 5 mL/min. What is its total clearance?",
+   "options": [
+    "4 mL/min",
+    "15 mL/min",
+    "100 mL/min",
+    "25 mL/min"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Total clearance is the sum of renal, hepatic and other clearances: 20 + 5 = 25 mL/min.",
+   "shortExplanation": "25 mL/min.",
+   "pmid": "32491690",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The total ability of the body to clear a drug from the plasma is renal clearance plus hepatic clearance plus clearance from all other tissues",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491690-2-es",
+   "translationKey": "medicine-32491690-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "Un fármaco tiene clearance renal de 20 mL/min y hepático de 5 mL/min. ¿Cuál es su clearance total?",
+   "options": [
+    "4 mL/min",
+    "15 mL/min",
+    "100 mL/min",
+    "25 mL/min"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El clearance total es la suma de los clearances renal, hepático y otros: 20 + 5 = 25 mL/min.",
+   "shortExplanation": "25 mL/min.",
+   "pmid": "32491690",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The total ability of the body to clear a drug from the plasma is renal clearance plus hepatic clearance plus clearance from all other tissues",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29489203-1-en",
+   "translationKey": "medicine-29489203-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "To which antibiotic family does amoxicillin belong?",
+   "options": [
+    "Penicillins (aminopenicillin, beta-lactam)",
+    "Macrolides",
+    "Tetracyclines",
+    "Aminoglycosides"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Amoxicillin is an aminopenicillin, a beta-lactam antibiotic widely used in primary care.",
+   "shortExplanation": "Penicillins.",
+   "pmid": "29489203",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Amoxicillin is an aminopenicillin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29489203-1-es",
+   "translationKey": "medicine-29489203-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "¿A qué familia de antibióticos pertenece la amoxicilina?",
+   "options": [
+    "Penicilinas (aminopenicilina, betalactámico)",
+    "Macrólidos",
+    "Tetraciclinas",
+    "Aminoglucósidos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La amoxicilina es una aminopenicilina, un betalactámico muy usado en atención primaria.",
+   "shortExplanation": "Penicilinas.",
+   "pmid": "29489203",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Amoxicillin is an aminopenicillin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29489203-2-en",
+   "translationKey": "medicine-29489203-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "Amoxicillin alone is effective against which bacteria?",
+   "options": [
+    "All bacteria",
+    "Only fungi",
+    "Only beta-lactamase producers",
+    "Susceptible beta-lactamase–negative bacteria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Amoxicillin is destroyed by beta-lactamases, so alone it works on susceptible beta-lactamase–negative isolates.",
+   "shortExplanation": "Beta-lactamase negative.",
+   "pmid": "29489203",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "specifically those that are beta-lactamase–negative",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29489203-2-es",
+   "translationKey": "medicine-29489203-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "La amoxicilina sola es eficaz contra ¿qué bacterias?",
+   "options": [
+    "Todas las bacterias",
+    "Solo hongos",
+    "Solo productoras de betalactamasa",
+    "Bacterias sensibles que no producen betalactamasa"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La amoxicilina es destruida por las betalactamasas, así que sola actúa sobre aislamientos sensibles no productores de betalactamasa.",
+   "shortExplanation": "Sin betalactamasa.",
+   "pmid": "29489203",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "specifically those that are beta-lactamase–negative",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30844191-1-en",
+   "translationKey": "medicine-30844191-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "Why is clavulanic acid combined with amoxicillin?",
+   "options": [
+    "To improve the taste",
+    "To counteract beta-lactamase–producing bacteria",
+    "To reduce the dose of amoxicillin",
+    "To make it work against viruses"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Clavulanate inhibits beta-lactamases, broadening amoxicillin's coverage to producers such as MSSA.",
+   "shortExplanation": "Blocks beta-lactamase.",
+   "pmid": "30844191",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with clavulanic acid, which counteracts β-lactamase–producing strains",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30844191-1-es",
+   "translationKey": "medicine-30844191-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Por qué se combina el ácido clavulánico con la amoxicilina?",
+   "options": [
+    "Para mejorar el sabor",
+    "Para contrarrestar bacterias productoras de betalactamasa",
+    "Para reducir la dosis de amoxicilina",
+    "Para que actúe contra virus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El clavulánico inhibe betalactamasas y amplía la cobertura de la amoxicilina a productoras como S. aureus sensible a meticilina.",
+   "shortExplanation": "Bloquea betalactamasas.",
+   "pmid": "30844191",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with clavulanic acid, which counteracts β-lactamase–producing strains",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491524-1-en",
+   "translationKey": "medicine-32491524-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "What do beta-lactamases do?",
+   "options": [
+    "Inactivate the beta-lactam ring of beta-lactam antibiotics",
+    "Build the bacterial cell wall",
+    "Pump drugs out of the cell",
+    "Modify ribosomes"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Beta-lactamases hydrolyze the beta-lactam ring; beta-lactamase inhibitors protect the partner antibiotic.",
+   "shortExplanation": "Break the ring.",
+   "pmid": "32491524",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "enzymes that inactivate the beta-lactam ring which are a common chemical structure to all beta-lactam antimicrobials",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491524-1-es",
+   "translationKey": "medicine-32491524-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Qué hacen las betalactamasas?",
+   "options": [
+    "Inactivan el anillo betalactámico de los betalactámicos",
+    "Construyen la pared bacteriana",
+    "Bombean fármacos hacia afuera",
+    "Modifican ribosomas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las betalactamasas hidrolizan el anillo betalactámico; los inhibidores de betalactamasa protegen al antibiótico acompañante.",
+   "shortExplanation": "Rompen el anillo.",
+   "pmid": "32491524",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "enzymes that inactivate the beta-lactam ring which are a common chemical structure to all beta-lactam antimicrobials",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31194389-1-en",
+   "translationKey": "medicine-31194389-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "How do beta-lactams such as cefepime kill bacteria?",
+   "options": [
+    "By blocking DNA gyrase",
+    "By inhibiting folate synthesis",
+    "By binding enzymes of the final transpeptidation step of peptidoglycan synthesis",
+    "By blocking the 50S ribosome"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Beta-lactams covalently bind penicillin-binding proteins (transpeptidases), causing cell wall defects and autolysis.",
+   "shortExplanation": "Block transpeptidation.",
+   "pmid": "31194389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "By covalently binding to key enzymes engaged in the final step of transpeptidation during peptidoglycan wall synthesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31194389-1-es",
+   "translationKey": "medicine-31194389-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo matan las bacterias los betalactámicos como la cefepima?",
+   "options": [
+    "Bloqueando la ADN girasa",
+    "Inhibiendo la síntesis de folato",
+    "Uniéndose a enzimas de la transpeptidación final del peptidoglicano",
+    "Bloqueando el ribosoma 50S"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los betalactámicos se unen covalentemente a proteínas fijadoras de penicilina (transpeptidasas), causando defectos de pared y autólisis.",
+   "shortExplanation": "Bloquean la transpeptidación.",
+   "pmid": "31194389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "By covalently binding to key enzymes engaged in the final step of transpeptidation during peptidoglycan wall synthesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31194389-2-en",
+   "translationKey": "medicine-31194389-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "expert",
+   "prompt": "Cefepime is FDA-approved as empiric therapy for which condition?",
+   "options": [
+    "Uncomplicated cystitis only",
+    "Neutropenic fever",
+    "Acne",
+    "Syphilis"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Cefepime, a broad cephalosporin, is approved for pneumonia, UTIs, skin and intra-abdominal infections and empiric neutropenic fever.",
+   "shortExplanation": "Neutropenic fever.",
+   "pmid": "31194389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "as an empiric treatment for neutropenic fever",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31194389-2-es",
+   "translationKey": "medicine-31194389-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "expert",
+   "prompt": "La cefepima está aprobada como tratamiento empírico de ¿qué condición?",
+   "options": [
+    "Solo cistitis no complicada",
+    "Neutropenia febril",
+    "Acné",
+    "Sífilis"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La cefepima, cefalosporina de amplio espectro, está aprobada para neumonía, infecciones urinarias, de piel, intraabdominales y neutropenia febril empírica.",
+   "shortExplanation": "Neutropenia febril.",
+   "pmid": "31194389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "as an empiric treatment for neutropenic fever",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31747187-1-en",
+   "translationKey": "medicine-31747187-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "Cephalexin belongs to which cephalosporin generation?",
+   "options": [
+    "Fifth",
+    "Third",
+    "Fourth",
+    "First"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Cephalexin is a first-generation cephalosporin used for skin infections by S. aureus and S. pyogenes, among others.",
+   "shortExplanation": "First.",
+   "pmid": "31747187",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "classified as a first-generation cephalosporin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31747187-1-es",
+   "translationKey": "medicine-31747187-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿A qué generación de cefalosporinas pertenece la cefalexina?",
+   "options": [
+    "Quinta",
+    "Tercera",
+    "Cuarta",
+    "Primera"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La cefalexina es de primera generación y se usa en infecciones de piel por S. aureus y S. pyogenes, entre otras.",
+   "shortExplanation": "Primera.",
+   "pmid": "31747187",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "classified as a first-generation cephalosporin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31751071-1-en",
+   "translationKey": "medicine-31751071-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "Third-generation cephalosporins are valuable in which of these infections?",
+   "options": [
+    "Fungal meningitis",
+    "Malaria",
+    "Gram-negative meningitis and Lyme disease",
+    "Influenza"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Third-generation cephalosporins (e.g., ceftriaxone) treat gram-negative meningitis, Lyme disease, gonorrhea and sepsis, among others.",
+   "shortExplanation": "Meningitis, Lyme.",
+   "pmid": "31751071",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "gram-negative meningitis, Lyme disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31751071-1-es",
+   "translationKey": "medicine-31751071-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿En cuáles de estas infecciones son valiosas las cefalosporinas de tercera generación?",
+   "options": [
+    "Meningitis fúngica",
+    "Malaria",
+    "Meningitis por gramnegativos y enfermedad de Lyme",
+    "Influenza"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las de tercera generación (como ceftriaxona) tratan meningitis por gramnegativos, Lyme, gonorrea y sepsis, entre otras.",
+   "shortExplanation": "Meningitis, Lyme.",
+   "pmid": "31751071",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "gram-negative meningitis, Lyme disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29939545-1-en",
+   "translationKey": "medicine-29939545-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "Benzathine penicillin is a cornerstone treatment for which disease?",
+   "options": [
+    "Syphilis",
+    "Tuberculosis",
+    "Malaria",
+    "Candidiasis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Benzathine penicillin is highly effective against Treponema pallidum and is a cornerstone of syphilis and yaws treatment.",
+   "shortExplanation": "Syphilis.",
+   "pmid": "29939545",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "positions benzathine penicillin as a cornerstone in treating syphilis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29939545-1-es",
+   "translationKey": "medicine-29939545-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "La penicilina benzatínica es el pilar del tratamiento de ¿qué enfermedad?",
+   "options": [
+    "Sífilis",
+    "Tuberculosis",
+    "Malaria",
+    "Candidiasis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La penicilina benzatínica es muy eficaz contra Treponema pallidum y es el pilar del tratamiento de sífilis y pian.",
+   "shortExplanation": "Sífilis.",
+   "pmid": "29939545",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "positions benzathine penicillin as a cornerstone in treating syphilis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29939545-2-en",
+   "translationKey": "medicine-29939545-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "What is remarkable about penicillin and Streptococcus pyogenes?",
+   "options": [
+    "S. pyogenes is naturally resistant",
+    "Penicillin causes S. pyogenes to mutate",
+    "Only vancomycin works",
+    "No penicillin resistance has been reported in S. pyogenes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Group A streptococcus has remained penicillin-susceptible, so penicillin remains reliable for it.",
+   "shortExplanation": "No resistance.",
+   "pmid": "29939545",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the absence of reported resistance in Streptococcus pyogenes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29939545-2-es",
+   "translationKey": "medicine-29939545-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "¿Qué es notable sobre la penicilina y Streptococcus pyogenes?",
+   "options": [
+    "S. pyogenes es naturalmente resistente",
+    "La penicilina hace mutar a S. pyogenes",
+    "Solo funciona la vancomicina",
+    "No se ha informado resistencia a penicilina en S. pyogenes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El estreptococo del grupo A sigue siendo sensible a la penicilina, que continúa siendo confiable para él.",
+   "shortExplanation": "Sin resistencia.",
+   "pmid": "29939545",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the absence of reported resistance in Streptococcus pyogenes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30137853-1-en",
+   "translationKey": "medicine-30137853-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "Ampicillin is active against which important gram-positive pathogens that cephalosporins miss?",
+   "options": [
+    "MRSA and C. difficile",
+    "Enterococcus species and Listeria monocytogenes",
+    "Mycoplasma and Chlamydia",
+    "Pseudomonas and Acinetobacter"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Ampicillin covers Enterococcus and Listeria, which are intrinsically resistant to cephalosporins.",
+   "shortExplanation": "Enterococcus, Listeria.",
+   "pmid": "30137853",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including Enterococcus species and Listeria monocytogenes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30137853-1-es",
+   "translationKey": "medicine-30137853-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "La ampicilina es activa contra ¿qué grampositivos importantes que no cubren las cefalosporinas?",
+   "options": [
+    "SARM y C. difficile",
+    "Enterococcus y Listeria monocytogenes",
+    "Mycoplasma y Chlamydia",
+    "Pseudomonas y Acinetobacter"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La ampicilina cubre Enterococcus y Listeria, intrínsecamente resistentes a las cefalosporinas.",
+   "shortExplanation": "Enterococcus, Listeria.",
+   "pmid": "30137853",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including Enterococcus species and Listeria monocytogenes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29494112-1-en",
+   "translationKey": "medicine-29494112-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "What is the former name of vancomycin infusion reaction?",
+   "options": [
+    "Gray baby syndrome",
+    "Stevens-Johnson syndrome",
+    "Red man syndrome",
+    "Serotonin syndrome"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Vancomycin infusion reaction (formerly red man syndrome) causes flushing and a pruritic rash of face, neck and upper torso.",
+   "shortExplanation": "Red man syndrome.",
+   "pmid": "29494112",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vancomycin infusion reaction, formerly known as red man syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29494112-1-es",
+   "translationKey": "medicine-29494112-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Cuál era el nombre anterior de la reacción a la infusión de vancomicina?",
+   "options": [
+    "Síndrome del niño gris",
+    "Stevens-Johnson",
+    "Síndrome del hombre rojo",
+    "Síndrome serotoninérgico"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La reacción a la infusión de vancomicina (antes síndrome del hombre rojo) causa rubor y erupción pruriginosa en cara, cuello y tronco superior.",
+   "shortExplanation": "Hombre rojo.",
+   "pmid": "29494112",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vancomycin infusion reaction, formerly known as red man syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29494112-2-en",
+   "translationKey": "medicine-29494112-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "What usually triggers vancomycin infusion reaction?",
+   "options": [
+    "Rapid infusion of vancomycin",
+    "Taking vancomycin with food",
+    "Low doses",
+    "Prior IgE sensitization only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Rapid infusion releases histamine from mast cells and basophils; slowing the infusion is the usual fix.",
+   "shortExplanation": "Rapid infusion.",
+   "pmid": "29494112",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "triggered by the rapid infusion of vancomycin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29494112-2-es",
+   "translationKey": "medicine-29494112-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Qué suele desencadenar la reacción a la infusión de vancomicina?",
+   "options": [
+    "La infusión rápida de vancomicina",
+    "Tomarla con comida",
+    "Las dosis bajas",
+    "Solo una sensibilización IgE previa"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La infusión rápida libera histamina de mastocitos y basófilos; enlentecer la infusión suele resolverlo.",
+   "shortExplanation": "Infusión rápida.",
+   "pmid": "29494112",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "triggered by the rapid infusion of vancomycin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29494112-3-en",
+   "translationKey": "medicine-29494112-3",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "How does vancomycin infusion reaction differ from vancomycin anaphylaxis?",
+   "options": [
+    "It is IgE-mediated",
+    "It is a non-immune (anaphylactoid) histamine release, not IgE-mediated",
+    "It needs prior exposure",
+    "It only occurs orally"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Infusion reaction is non-immune mast cell degranulation related to dose and rate; anaphylaxis is IgE-mediated and needs prior exposure.",
+   "shortExplanation": "Non-IgE.",
+   "pmid": "29494112",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vancomycin infusion reaction is an anaphylactoid hypersensitivity response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-29494112-3-es",
+   "translationKey": "medicine-29494112-3",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "¿En qué difiere la reacción a la infusión de vancomicina de la anafilaxia por vancomicina?",
+   "options": [
+    "Está mediada por IgE",
+    "Es una liberación de histamina no inmune (anafilactoide), no mediada por IgE",
+    "Requiere exposición previa",
+    "Solo ocurre por vía oral"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La reacción es una desgranulación de mastocitos no inmune, ligada a dosis y velocidad; la anafilaxia es IgE y requiere exposición previa.",
+   "shortExplanation": "No IgE.",
+   "pmid": "29494112",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "vancomycin infusion reaction is an anaphylactoid hypersensitivity response",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491482-1-en",
+   "translationKey": "medicine-32491482-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "Gentamicin belongs to which antibiotic class?",
+   "options": [
+    "Penicillins",
+    "Macrolides",
+    "Fluoroquinolones",
+    "Aminoglycosides"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Gentamicin is an aminoglycoside used mainly for gram-negative infections such as sepsis and UTIs.",
+   "shortExplanation": "Aminoglycosides.",
+   "pmid": "32491482",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Gentamicin is an aminoglycoside antibiotic used in the treatment of several gram-negative infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491482-1-es",
+   "translationKey": "medicine-32491482-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "¿A qué clase de antibióticos pertenece la gentamicina?",
+   "options": [
+    "Penicilinas",
+    "Macrólidos",
+    "Fluoroquinolonas",
+    "Aminoglucósidos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La gentamicina es un aminoglucósido usado sobre todo en infecciones por gramnegativos como sepsis e infecciones urinarias.",
+   "shortExplanation": "Aminoglucósidos.",
+   "pmid": "32491482",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Gentamicin is an aminoglycoside antibiotic used in the treatment of several gram-negative infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32809438-1-en",
+   "translationKey": "medicine-32809438-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "How do aminoglycosides such as neomycin act?",
+   "options": [
+    "They inhibit cell wall synthesis",
+    "They block folate synthesis",
+    "They bind the 30S ribosomal subunit and disrupt protein synthesis",
+    "They disrupt fungal membranes"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Aminoglycosides bind the 30S subunit, impair translational accuracy and are bactericidal against gram-negatives.",
+   "shortExplanation": "30S ribosome.",
+   "pmid": "32809438",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it binds to the 30S ribosomal subunit, thereby disrupting bacterial protein synthesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32809438-1-es",
+   "translationKey": "medicine-32809438-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo actúan los aminoglucósidos como la neomicina?",
+   "options": [
+    "Inhiben la síntesis de pared",
+    "Bloquean la síntesis de folato",
+    "Se unen a la subunidad 30S y alteran la síntesis de proteínas",
+    "Alteran membranas fúngicas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los aminoglucósidos se unen a la subunidad 30S, alteran la fidelidad de la traducción y son bactericidas contra gramnegativos.",
+   "shortExplanation": "Ribosoma 30S.",
+   "pmid": "32809438",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it binds to the 30S ribosomal subunit, thereby disrupting bacterial protein synthesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32809438-2-en",
+   "translationKey": "medicine-32809438-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "Why is oral neomycin useful for gut-related conditions such as hepatic coma?",
+   "options": [
+    "It is poorly absorbed, so it stays in the gastrointestinal tract",
+    "It is absorbed completely",
+    "It kills viruses in the liver",
+    "It lowers blood sugar"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Oral neomycin is minimally absorbed and acts locally in the gut, used for hepatic coma and bowel prophylaxis.",
+   "shortExplanation": "Stays in the gut.",
+   "pmid": "32809438",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "When administered orally, neomycin exhibits limited absorption into the systemic circulation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32809438-2-es",
+   "translationKey": "medicine-32809438-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué la neomicina oral sirve para cuadros intestinales como el coma hepático?",
+   "options": [
+    "Se absorbe poco y queda en el tubo digestivo",
+    "Se absorbe por completo",
+    "Mata virus en el hígado",
+    "Baja la glucemia"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La neomicina oral casi no se absorbe y actúa localmente en el intestino; se usa en coma hepático y profilaxis intestinal.",
+   "shortExplanation": "Queda en el intestino.",
+   "pmid": "32809438",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "When administered orally, neomycin exhibits limited absorption into the systemic circulation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-28613658-1-en",
+   "translationKey": "medicine-28613658-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "expert",
+   "prompt": "Which aminoglycoside property distinguishes gentamicin from amikacin in enterococcal therapy?",
+   "options": [
+    "Amikacin is synergistic and gentamicin is not",
+    "Neither has any activity on gram-negatives",
+    "Amikacin is oral only",
+    "Gentamicin can be synergistic with beta-lactams; amikacin does not provide that synergy for E. faecium"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Amikacin is kept for resistant gram-negatives (Pseudomonas, Acinetobacter) and some mycobacteria, not for enterococcal synergy.",
+   "shortExplanation": "Gentamicin synergy.",
+   "pmid": "28613658",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Unlike gentamicin, amikacin does not provide synergistic activity against Enterococcus faecium when combined with beta-lactam antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-28613658-1-es",
+   "translationKey": "medicine-28613658-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "expert",
+   "prompt": "¿Qué propiedad distingue a la gentamicina de la amikacina en el tratamiento de enterococos?",
+   "options": [
+    "La amikacina es sinérgica y la gentamicina no",
+    "Ninguna actúa sobre gramnegativos",
+    "La amikacina es solo oral",
+    "La gentamicina puede ser sinérgica con betalactámicos; la amikacina no da esa sinergia contra E. faecium"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La amikacina se reserva para gramnegativos resistentes (Pseudomonas, Acinetobacter) y algunas micobacterias, no para sinergia en enterococos.",
+   "shortExplanation": "Sinergia con gentamicina.",
+   "pmid": "28613658",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Unlike gentamicin, amikacin does not provide synergistic activity against Enterococcus faecium when combined with beta-lactam antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-28613658-2-en",
+   "translationKey": "medicine-28613658-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "Amikacin is especially useful against which bacteria?",
+   "options": [
+    "Streptococcus pyogenes",
+    "Resistant gram-negative bacilli such as Acinetobacter and Pseudomonas",
+    "Anaerobes in abscesses",
+    "Treponema pallidum"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Amikacin retains activity against more resistant gram-negatives and some nontuberculous mycobacteria.",
+   "shortExplanation": "Resistant gram-negatives.",
+   "pmid": "28613658",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with activity against more resistant gram-negative bacilli such as Acinetobacter baumanii and Pseudomonas aeruginosa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-28613658-2-es",
+   "translationKey": "medicine-28613658-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "¿Contra qué bacterias es especialmente útil la amikacina?",
+   "options": [
+    "Streptococcus pyogenes",
+    "Bacilos gramnegativos resistentes como Acinetobacter y Pseudomonas",
+    "Anaerobios de abscesos",
+    "Treponema pallidum"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La amikacina conserva actividad contra gramnegativos más resistentes y algunas micobacterias no tuberculosas.",
+   "shortExplanation": "Gramnegativos resistentes.",
+   "pmid": "28613658",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with activity against more resistant gram-negative bacilli such as Acinetobacter baumanii and Pseudomonas aeruginosa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491698-1-en",
+   "translationKey": "medicine-32491698-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "Azithromycin belongs to which antibiotic class?",
+   "options": [
+    "Cephalosporins",
+    "Macrolides",
+    "Aminoglycosides",
+    "Carbapenems"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Azithromycin is a macrolide used for community-acquired pneumonia and sexually transmitted infections.",
+   "shortExplanation": "Macrolides.",
+   "pmid": "32491698",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Azithromycin is a macrolide primarily prescribed to treat bacterial infections, including community-acquired pneumonia and sexually transmitted infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32491698-1-es",
+   "translationKey": "medicine-32491698-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "¿A qué clase pertenece la azitromicina?",
+   "options": [
+    "Cefalosporinas",
+    "Macrólidos",
+    "Aminoglucósidos",
+    "Carbapenémicos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La azitromicina es un macrólido usado en neumonía adquirida en la comunidad e infecciones de transmisión sexual.",
+   "shortExplanation": "Macrólidos.",
+   "pmid": "32491698",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Azithromycin is a macrolide primarily prescribed to treat bacterial infections, including community-acquired pneumonia and sexually transmitted infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30335282-1-en",
+   "translationKey": "medicine-30335282-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "Which classic preventive use does erythromycin have in newborns?",
+   "options": [
+    "Preventing jaundice",
+    "Preventing colic",
+    "Preventing rickets",
+    "Prophylaxis of neonatal conjunctivitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Erythromycin eye ointment is used to prevent neonatal conjunctivitis; it also treats respiratory infections and chlamydia.",
+   "shortExplanation": "Neonatal conjunctivitis.",
+   "pmid": "30335282",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "prophylaxis of neonatal conjunctivitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30335282-1-es",
+   "translationKey": "medicine-30335282-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Qué uso preventivo clásico tiene la eritromicina en recién nacidos?",
+   "options": [
+    "Prevenir ictericia",
+    "Prevenir cólicos",
+    "Prevenir raquitismo",
+    "Profilaxis de la conjuntivitis neonatal"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La pomada oftálmica de eritromicina previene la conjuntivitis neonatal; también trata infecciones respiratorias y clamidia.",
+   "shortExplanation": "Conjuntivitis neonatal.",
+   "pmid": "30335282",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "prophylaxis of neonatal conjunctivitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30137858-1-en",
+   "translationKey": "medicine-30137858-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "Clindamycin is commonly used for which type of infection?",
+   "options": [
+    "Skin and soft tissue infections",
+    "Viral hepatitis",
+    "Fungal nail infections",
+    "Influenza"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Clindamycin treats skin and skin-structure, respiratory, gynecological and other bacterial infections.",
+   "shortExplanation": "Skin infections.",
+   "pmid": "30137858",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "skin and skin structure infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30137858-1-es",
+   "translationKey": "medicine-30137858-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Para qué tipo de infección se usa habitualmente la clindamicina?",
+   "options": [
+    "Infecciones de piel y partes blandas",
+    "Hepatitis viral",
+    "Onicomicosis",
+    "Influenza"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La clindamicina trata infecciones de piel y partes blandas, respiratorias, ginecológicas y otras.",
+   "shortExplanation": "Piel y partes blandas.",
+   "pmid": "30137858",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "skin and skin structure infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32310348-1-en",
+   "translationKey": "medicine-32310348-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "What is 'Doxy PEP'?",
+   "options": [
+    "A vaccine against HPV",
+    "A test for syphilis",
+    "Doxycycline postexposure prophylaxis to prevent bacterial STIs",
+    "A doxycycline cream for acne"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "CDC recommends doxycycline PEP for high-risk populations to prevent bacterial sexually transmitted infections.",
+   "shortExplanation": "Post-exposure doxycycline.",
+   "pmid": "32310348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Centers for Disease Control now recommends doxycycline as postexposure prophylaxis (Doxy PEP) for preventing bacterial STIs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32310348-1-es",
+   "translationKey": "medicine-32310348-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Qué es 'Doxy PEP'?",
+   "options": [
+    "Una vacuna contra el VPH",
+    "Un test de sífilis",
+    "Profilaxis posexposición con doxiciclina para prevenir ITS bacterianas",
+    "Una crema de doxiciclina para el acné"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los CDC recomiendan la PEP con doxiciclina en poblaciones de alto riesgo para prevenir ITS bacterianas.",
+   "shortExplanation": "Doxiciclina posexposición.",
+   "pmid": "32310348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Centers for Disease Control now recommends doxycycline as postexposure prophylaxis (Doxy PEP) for preventing bacterial STIs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32310348-2-en",
+   "translationKey": "medicine-32310348-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "Why is doxycycline also used for rosacea and periodontal disease?",
+   "options": [
+    "It has anti-inflammatory and immunomodulatory effects",
+    "It kills viruses",
+    "It is an antifungal",
+    "It is a steroid"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Besides antimicrobial activity, doxycycline has anti-inflammatory effects useful in rosacea, periodontitis and others.",
+   "shortExplanation": "Anti-inflammatory.",
+   "pmid": "32310348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "doxycycline offers anti-inflammatory and immunomodulatory effects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32310348-2-es",
+   "translationKey": "medicine-32310348-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la doxiciclina también se usa en rosácea y enfermedad periodontal?",
+   "options": [
+    "Tiene efectos antiinflamatorios e inmunomoduladores",
+    "Mata virus",
+    "Es antifúngica",
+    "Es un corticoide"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Además de su acción antimicrobiana, la doxiciclina es antiinflamatoria, útil en rosácea, periodontitis y otras.",
+   "shortExplanation": "Antiinflamatoria.",
+   "pmid": "32310348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "doxycycline offers anti-inflammatory and immunomodulatory effects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32119406-1-en",
+   "translationKey": "medicine-32119406-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "Which tetracycline is recognized for the strongest neuroprotective effects?",
+   "options": [
+    "Doxycycline",
+    "Minocycline",
+    "Tetracycline",
+    "Tigecycline"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Minocycline has anti-inflammatory, antioxidant and anti-apoptotic properties and the most neuroprotection among tetracyclines.",
+   "shortExplanation": "Minocycline.",
+   "pmid": "32119406",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "this medication is recognized as the most effective tetracycline derivative in terms of its ability to provide neuroprotective effects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32119406-1-es",
+   "translationKey": "medicine-32119406-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "¿Qué tetraciclina se reconoce por los mayores efectos neuroprotectores?",
+   "options": [
+    "Doxiciclina",
+    "Minociclina",
+    "Tetraciclina",
+    "Tigeciclina"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La minociclina es antiinflamatoria, antioxidante y antiapoptótica, y la más neuroprotectora de las tetraciclinas.",
+   "shortExplanation": "Minociclina.",
+   "pmid": "32119406",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "this medication is recognized as the most effective tetracycline derivative in terms of its ability to provide neuroprotective effects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30571075-1-en",
+   "translationKey": "medicine-30571075-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "Ciprofloxacin belongs to which antibiotic class?",
+   "options": [
+    "Penicillins",
+    "Tetracyclines",
+    "Fluoroquinolones",
+    "Glycopeptides"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Ciprofloxacin is a fluoroquinolone used for urinary tract infections, pneumonia and gastrointestinal infections, among others.",
+   "shortExplanation": "Fluoroquinolones.",
+   "pmid": "30571075",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Ciprofloxacin is an antibiotic agent in the fluoroquinolone class used to treat bacterial infections such as urinary tract infections and pneumonia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-30571075-1-es",
+   "translationKey": "medicine-30571075-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "¿A qué clase de antibióticos pertenece la ciprofloxacina?",
+   "options": [
+    "Penicilinas",
+    "Tetraciclinas",
+    "Fluoroquinolonas",
+    "Glucopéptidos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La ciprofloxacina es una fluoroquinolona usada en infecciones urinarias, neumonía e infecciones gastrointestinales, entre otras.",
+   "shortExplanation": "Fluoroquinolonas.",
+   "pmid": "30571075",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Ciprofloxacin is an antibiotic agent in the fluoroquinolone class used to treat bacterial infections such as urinary tract infections and pneumonia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31424764-1-en",
+   "translationKey": "medicine-31424764-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "Which adverse effect requires monitoring with levofloxacin?",
+   "options": [
+    "Weight gain",
+    "Hair growth",
+    "Low blood pressure only",
+    "QT prolongation"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Fluoroquinolone adverse effects include C. difficile colitis, hepatotoxicity and QT prolongation, with FDA boxed warnings.",
+   "shortExplanation": "QT prolongation.",
+   "pmid": "31424764",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "adverse effects include pseudomembranous colitis, hepatotoxicity, and QT prolongation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-31424764-1-es",
+   "translationKey": "medicine-31424764-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Qué efecto adverso requiere vigilancia con levofloxacina?",
+   "options": [
+    "Aumento de peso",
+    "Crecimiento de pelo",
+    "Solo hipotensión",
+    "Prolongación del QT"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los efectos adversos de las fluoroquinolonas incluyen colitis por C. difficile, hepatotoxicidad y prolongación del QT, con advertencias de la FDA.",
+   "shortExplanation": "QT prolongado.",
+   "pmid": "31424764",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "adverse effects include pseudomembranous colitis, hepatotoxicity, and QT prolongation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32966000-1-en",
+   "translationKey": "medicine-32966000-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "Why does rifaximin act mainly in the gut?",
+   "options": [
+    "It is given intravenously",
+    "It is not absorbed, so it stays in the gastrointestinal tract",
+    "It only kills fungi",
+    "It is destroyed by stomach acid"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Nonabsorbable rifaximin treats travelers' diarrhea, IBS-D and reduces hepatic encephalopathy recurrence.",
+   "shortExplanation": "Nonabsorbable.",
+   "pmid": "32966000",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This antibiotic is used primarily in diseases since it is specific to the gastrointestinal tract due to its nonabsorbable profile",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32966000-1-es",
+   "translationKey": "medicine-32966000-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la rifaximina actúa sobre todo en el intestino?",
+   "options": [
+    "Se da por vía intravenosa",
+    "No se absorbe y queda en el tubo digestivo",
+    "Solo mata hongos",
+    "El ácido gástrico la destruye"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La rifaximina, no absorbible, trata la diarrea del viajero, el colon irritable con diarrea y reduce las recaídas de encefalopatía hepática.",
+   "shortExplanation": "No absorbible.",
+   "pmid": "32966000",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This antibiotic is used primarily in diseases since it is specific to the gastrointestinal tract due to its nonabsorbable profile",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-38261667-1-en",
+   "translationKey": "medicine-38261667-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "How is mupirocin administered?",
+   "options": [
+    "Topically, on the skin",
+    "Intravenously",
+    "By inhalation",
+    "As an oral tablet"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Mupirocin is a topical antibiotic for skin and soft tissue infections; resistance is increasing with widespread use.",
+   "shortExplanation": "Topical.",
+   "pmid": "38261667",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mupirocin belongs to the topical antibiotic class of medications",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-38261667-1-es",
+   "translationKey": "medicine-38261667-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se administra la mupirocina?",
+   "options": [
+    "De forma tópica, sobre la piel",
+    "Por vía intravenosa",
+    "Inhalada",
+    "En comprimidos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mupirocina es un antibiótico tópico para infecciones de piel; la resistencia aumenta con su uso extendido.",
+   "shortExplanation": "Tópica.",
+   "pmid": "38261667",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mupirocin belongs to the topical antibiotic class of medications",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32644476-1-en",
+   "translationKey": "medicine-32644476-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "Which severe adverse effect is associated with ethambutol?",
+   "options": [
+    "Hearing loss",
+    "Kidney stones",
+    "Optic neuropathy",
+    "Tendon rupture"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Ethambutol, an antituberculous drug inhibiting cell wall synthesis, can cause optic neuropathy, so vision is monitored.",
+   "shortExplanation": "Optic neuropathy.",
+   "pmid": "32644476",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the severe adverse drug reaction relating to optic neuropathy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32644476-1-es",
+   "translationKey": "medicine-32644476-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "researcher",
+   "prompt": "¿Qué efecto adverso grave se asocia al etambutol?",
+   "options": [
+    "Sordera",
+    "Cálculos renales",
+    "Neuropatía óptica",
+    "Rotura de tendones"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El etambutol, antituberculoso que inhibe la pared celular, puede causar neuropatía óptica, por eso se controla la visión.",
+   "shortExplanation": "Neuropatía óptica.",
+   "pmid": "32644476",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the severe adverse drug reaction relating to optic neuropathy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32644476-2-en",
+   "translationKey": "medicine-32644476-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "Why is ethambutol never used alone to treat tuberculosis?",
+   "options": [
+    "To prevent the emergence of resistant strains",
+    "Because it is too cheap",
+    "Because it only works in children",
+    "Because it is an antiviral"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "TB is treated with multidrug regimens; monotherapy selects resistant strains.",
+   "shortExplanation": "Avoid resistance.",
+   "pmid": "32644476",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the emphasis on contraindicated single regimen use is important",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-32644476-2-es",
+   "translationKey": "medicine-32644476-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué el etambutol nunca se usa solo para tratar la tuberculosis?",
+   "options": [
+    "Para evitar que surjan cepas resistentes",
+    "Porque es muy barato",
+    "Porque solo funciona en niños",
+    "Porque es antiviral"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La TB se trata con esquemas de varios fármacos; la monoterapia selecciona cepas resistentes.",
+   "shortExplanation": "Evitar resistencia.",
+   "pmid": "32644476",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the emphasis on contraindicated single regimen use is important",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-28723061-1-en",
+   "translationKey": "medicine-28723061-1",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "What is the goal of preoperative antibiotic prophylaxis?",
+   "options": [
+    "Treating an existing pneumonia",
+    "Reducing pain after surgery",
+    "Preventing blood clots",
+    "Decreasing the risk of postoperative infection"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Prophylactic antibiotics are given before surgery (especially with implants or extensive dissection) to reduce surgical site infections.",
+   "shortExplanation": "Prevent infection.",
+   "pmid": "28723061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "administering antibiotics before performing surgery to help decrease the risk of postoperative infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-28723061-1-es",
+   "translationKey": "medicine-28723061-1",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es el objetivo de la profilaxis antibiótica preoperatoria?",
+   "options": [
+    "Tratar una neumonía existente",
+    "Reducir el dolor posoperatorio",
+    "Prevenir trombos",
+    "Disminuir el riesgo de infección posoperatoria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los antibióticos profilácticos se dan antes de la cirugía (sobre todo con implantes o disecciones extensas) para reducir infecciones del sitio quirúrgico.",
+   "shortExplanation": "Prevenir infección.",
+   "pmid": "28723061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "administering antibiotics before performing surgery to help decrease the risk of postoperative infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-28723061-2-en",
+   "translationKey": "medicine-28723061-2",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "In which surgery is routine antibiotic prophylaxis standard?",
+   "options": [
+    "Removing a small skin mole with no implant",
+    "Surgery implanting an artificial implant or foreign body",
+    "A dental cleaning",
+    "A blood draw"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Prophylaxis is standard when implants or foreign bodies are placed, in bone grafting and in extensive surgeries with blood loss.",
+   "shortExplanation": "Implants.",
+   "pmid": "28723061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "in cases in which a patient will have an artificial implant or foreign body implanted",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-28723061-2-es",
+   "translationKey": "medicine-28723061-2",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "explorer",
+   "prompt": "¿En qué cirugía es estándar la profilaxis antibiótica de rutina?",
+   "options": [
+    "Quitar un lunar sin implante",
+    "Cirugías que colocan un implante o cuerpo extraño",
+    "Una limpieza dental",
+    "Una extracción de sangre"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La profilaxis es estándar cuando se colocan implantes o cuerpos extraños, en injertos óseos y en cirugías extensas con sangrado.",
+   "shortExplanation": "Implantes.",
+   "pmid": "28723061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "in cases in which a patient will have an artificial implant or foreign body implanted",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
