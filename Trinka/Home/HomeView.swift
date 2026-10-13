@@ -77,7 +77,7 @@ struct HomeView: View {
         VStack(alignment: .leading, spacing: Theme.Spacing.m) {
             SectionHeader(L10n.tr("home.categories"), subtitle: L10n.tr("home.categories.subtitle"))
             LazyVGrid(columns: columns, spacing: Theme.Spacing.m) {
-                ForEach(ScienceCategory.allCases) { category in
+                ForEach(model.availableCategories) { category in
                     Button {
                         model.startCustomQuiz(category: category, difficulty: model.level, count: 3, fillWithNearestLevels: true)
                     } label: {

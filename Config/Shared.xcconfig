@@ -5,11 +5,14 @@
 //   DEVELOPMENT_TEAM = ABCDE12345
 //   QUESTION_SERVICE_HOST = trinka-question-service.your-account.workers.dev
 //   QUESTION_SERVICE_TOKEN = the APP_TOKEN you set on the service (optional)
-// (Write the host only, without https:// — "//" starts a comment in xcconfig files.)
+//   QUESTION_BANK_BASE = your-host/path/to/Content   (newer question banks; empty = updates off)
+// (Write hosts without https:// — "//" starts a comment in xcconfig files.)
 
 NCBI_CONTACT_EMAIL =
 NCBI_API_KEY =
 QUESTION_SERVICE_HOST =
 QUESTION_SERVICE_TOKEN =
+// Published question banks (Content/ on the main branch). The app checks it at launch.
+QUESTION_BANK_BASE = raw.githubusercontent.com/juanmarcosmoreno-arch/Trinka/main/Content
 
 #include? "Secrets.xcconfig"

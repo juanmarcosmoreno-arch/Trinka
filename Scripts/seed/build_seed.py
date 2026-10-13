@@ -12,6 +12,7 @@ Usage: python3 Scripts/seed/build_seed.py
 After changing which questions exist, bump `SeedQuestionBank.version` (friend-challenge codes).
 """
 import collections
+import re
 import glob
 import importlib.util
 import json
@@ -23,7 +24,43 @@ import xml.etree.ElementTree as ET
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 OUT = os.path.join(ROOT, "Packages/TrinkaKit/Sources/TrinkaQuiz/Resources/SeedQuestions.json")
-VERSION = 3
+VERSION = 3  # first published version; later versions are tracked in Content/manifest.json
+CONTENT = os.path.join(ROOT, "Content")
+SWIFT_BANK = os.path.join(ROOT, "Packages/TrinkaKit/Sources/TrinkaQuiz/QuestionBank.swift")
+
+
+def publish(articles, entries):
+    """Writes Content/manifest.json + Content/questions-<version>.json for installed apps to download.
+
+    The version is bumped automatically whenever the questions change (compared by fingerprint),
+    and SeedQuestionBank.version in Swift is kept equal to it. Returns the version to bundle.
+    """
+    import hashlib
+    fingerprint = hashlib.sha256(json.dumps([articles, entries], sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+    manifest_path = os.path.join(CONTENT, "manifest.json")
+    previous = json.load(open(manifest_path)) if os.path.exists(manifest_path) else None
+    if previous is None:
+        version = VERSION
+    elif previous.get("fingerprint") == fingerprint:
+        version = previous["version"]
+    else:
+        version = previous["version"] + 1
+    os.makedirs(CONTENT, exist_ok=True)
+    name = f"questions-{version}.json"
+    for old in os.listdir(CONTENT):
+        if old.startswith("questions-") and old != name:
+            os.remove(os.path.join(CONTENT, old))
+    json.dump(dict(version=version, generatedAt="2026-10-13T00:00:00Z", articles=articles, questions=entries),
+              open(os.path.join(CONTENT, name), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    json.dump(dict(version=version, file=name, fingerprint=fingerprint,
+                   questionsPerLanguage=sum(1 for e in entries if e["language"] == "en")),
+              open(manifest_path, "w", encoding="utf-8"), indent=1)
+    swift = open(SWIFT_BANK, encoding="utf-8").read()
+    swift = re.sub(r"public static let version = \d+", f"public static let version = {version}", swift)
+    open(SWIFT_BANK, "w", encoding="utf-8").write(swift)
+    if previous and version != previous["version"]:
+        print(f"Questions changed: published bank version {version}.")
+    return version
 sys.path.insert(0, HERE)
 from questions_core import Q as CORE  # noqa: E402
 from questions_levels import NEW, RELEVEL  # noqa: E402
@@ -123,7 +160,8 @@ def main():
     if errors:
         sys.exit("Seed build failed:\n  " + "\n  ".join(errors))
 
-    json.dump(dict(version=VERSION, generatedAt="2026-10-13T00:00:00Z", articles=articles, questions=entries),
+    version = publish(articles, entries)
+    json.dump(dict(version=version, generatedAt="2026-10-13T00:00:00Z", articles=articles, questions=entries),
               open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     english = [e for e in entries if e["language"] == "en"]
     levels = collections.Counter(e["difficulty"] for e in english)

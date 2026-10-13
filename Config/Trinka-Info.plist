@@ -36,5 +36,8 @@
 	<string>$(QUESTION_SERVICE_HOST)</string>
 	<key>TrinkaQuestionServiceToken</key>
 	<string>$(QUESTION_SERVICE_TOKEN)</string>
+	<!-- Where newer question banks are published (Content/manifest.json). Empty = no remote updates. -->
+	<key>TrinkaQuestionBankBase</key>
+	<string>$(QUESTION_BANK_BASE)</string>
 </dict>
 </plist>

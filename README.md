@@ -78,14 +78,28 @@ dependencies. No third-party dependencies.
 - A question is playable only if `QuestionValidator` passes: four distinct options, one correct
   answer, an explanation, a valid PMID, status `verified`, and a **supporting excerpt that
   appears verbatim in the article's title/abstract**.
-- The bundled bank (`TrinkaQuiz/Resources/SeedQuestions.json`) has 70 questions × 2 languages
-  (Basic 30, Curious 8, Explorer 14, Researcher 7, Expert 11) about 30 real PubMed records fetched
-  with E-utilities (3 per discipline). Each question stores the excerpt that supports its answer;
-  the build script and the test suite re-check all of them. Have a domain expert review them
+- The bundled bank (`TrinkaQuiz/Resources/SeedQuestions.json`) holds exam-style questions in
+  English and Spanish across five levels. Most are general knowledge (microbiology, immunology,
+  veterinary science, infectious diseases), each grounded in a peer-reviewed reference chapter
+  (StatPearls) or review article indexed in PubMed, with the excerpt that supports the answer.
+  The build script and the test suite re-check every excerpt. Have a domain expert review them
   before a public release.
-- To add or edit questions: change `Scripts/seed/questions_*.py`, run
-  `python3 Scripts/seed/build_seed.py` (fetches any new article from PubMed and rejects
-  unsupported excerpts), then bump `SeedQuestionBank.version`.
+- To add or edit questions: add or change a file in `Scripts/seed/bank/` and run
+  `python3 Scripts/seed/build_seed.py`. It fetches new articles from PubMed, rejects unsupported
+  excerpts, bumps the bank version when the questions changed, and writes both the bundled bank
+  and the published copy in `Content/`.
+- Disciplines with fewer than 20 questions are hidden from pickers until they have more content.
+
+### Updating questions without an App Store release
+
+`Content/manifest.json` and `Content/questions-<version>.json` are the published bank. At launch,
+the iPhone and Watch apps (`QuestionBankStore`) read the manifest from `QUESTION_BANK_BASE`
+(default: this repository's `main` branch on `raw.githubusercontent.com`). If it announces a newer
+version, they download the file, validate every question exactly like the bundled bank, and use it
+from the next launch, so a day's challenge never changes mid-day. If anything fails (offline,
+invalid file), the app keeps the questions it has. To publish: run the build script, commit,
+and merge to `main`.
+
 - Topic quizzes: the app searches PubMed and calls TRINKA's question service
   (`Backend/question-service`, a Cloudflare Worker using Claude; setup in `Backend/README.md`).
   No AI keys in the apps. Every generated question must quote its abstract verbatim; the service and

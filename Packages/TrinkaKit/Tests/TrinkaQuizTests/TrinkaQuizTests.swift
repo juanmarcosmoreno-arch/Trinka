@@ -242,3 +242,117 @@ final class LevelFillTests: XCTestCase {
         XCTAssertEqual(quiz.first?.difficulty, quiz.map(\.difficulty).min { abs($0.level - 2) < abs($1.level - 2) })
     }
 }
+
+final class QuestionBankStoreTests: XCTestCase {
+    private var directory: URL!
+
+    override func setUp() {
+        directory = FileManager.default.temporaryDirectory.appendingPathComponent(UUID().uuidString)
+    }
+
+    override func tearDown() {
+        try? FileManager.default.removeItem(at: directory)
+    }
+
+    /// The bundled bank re-labelled with another version, as a newer published bank would be.
+    private func bankData(version: Int, mutate: (inout [String: Any]) -> Void = { _ in }) throws -> Data {
+        let url = try XCTUnwrap(Bundle.module.url(forResource: "SeedQuestions", withExtension: "json", subdirectory: nil)
+            ?? Bundle(for: Self.self).url(forResource: "SeedQuestions", withExtension: "json"))
+        var object = try XCTUnwrap(JSONSerialization.jsonObject(with: Data(contentsOf: url)) as? [String: Any])
+        object["version"] = version
+        mutate(&object)
+        return try JSONSerialization.data(withJSONObject: object)
+    }
+
+    private func store(serving files: [String: Data]) -> QuestionBankStore {
+        QuestionBankStore(directory: directory) { url in
+            guard let data = files[url.lastPathComponent] else { throw URLError(.fileDoesNotExist) }
+            return data
+        }
+    }
+
+    private let base = URL(string: "https://example.org/content")!
+
+    func testBundledBankVersionMatchesItsFile() throws {
+        XCTAssertEqual(try SeedQuestionBank.load().version, SeedQuestionBank.version)
+    }
+
+    func testDownloadsValidatesAndPrefersANewerBank() async throws {
+        let bundled = try SeedQuestionBank.load()
+        let manifest = try JSONEncoder().encode(QuestionBankManifest(version: bundled.version + 1, file: "questions-next.json"))
+        let store = store(serving: ["manifest.json": manifest, "questions-next.json": try bankData(version: bundled.version + 1)])
+
+        let stored = try await store.update(from: base, currentVersion: bundled.version)
+        XCTAssertEqual(stored, bundled.version + 1)
+        XCTAssertEqual(store.loadBest(bundled: bundled).version, bundled.version + 1)
+        // Already stored: nothing new to download.
+        let again = try await store.update(from: base, currentVersion: bundled.version)
+        XCTAssertNil(again)
+    }
+
+    func testIgnoresOlderOrEqualVersions() async throws {
+        let bundled = try SeedQuestionBank.load()
+        let manifest = try JSONEncoder().encode(QuestionBankManifest(version: bundled.version, file: "questions.json"))
+        let store = store(serving: ["manifest.json": manifest, "questions.json": try bankData(version: bundled.version)])
+        let stored = try await store.update(from: base, currentVersion: bundled.version)
+        XCTAssertNil(stored)
+        XCTAssertEqual(store.loadBest(bundled: bundled).version, bundled.version)
+    }
+
+    func testRejectsBanksWithUnverifiableQuestions() async throws {
+        let bundled = try SeedQuestionBank.load()
+        let tampered = try bankData(version: bundled.version + 1) { object in
+            var questions = object["questions"] as! [[String: Any]]
+            var verification = questions[0]["verification"] as! [String: Any]
+            verification["supportingExcerpt"] = "A sentence that is not in the abstract."
+            questions[0]["verification"] = verification
+            object["questions"] = questions
+        }
+        let manifest = try JSONEncoder().encode(QuestionBankManifest(version: bundled.version + 1, file: "q.json"))
+        let store = store(serving: ["manifest.json": manifest, "q.json": tampered])
+        do {
+            try await store.update(from: base, currentVersion: bundled.version)
+            XCTFail("A bank with an unsupported excerpt must be rejected")
+        } catch QuestionBankStore.UpdateError.invalidQuestions(let count) {
+            XCTAssertEqual(count, 1)
+        }
+        XCTAssertEqual(store.loadBest(bundled: bundled).version, bundled.version)
+    }
+
+    func testRejectsVersionMismatchAndPathsOutsideTheContentFolder() async throws {
+        let bundled = try SeedQuestionBank.load()
+        let mismatch = try JSONEncoder().encode(QuestionBankManifest(version: bundled.version + 2, file: "q.json"))
+        let store1 = store(serving: ["manifest.json": mismatch, "q.json": try bankData(version: bundled.version + 1)])
+        do {
+            try await store1.update(from: base, currentVersion: bundled.version)
+            XCTFail("Version mismatch must be rejected")
+        } catch QuestionBankStore.UpdateError.versionMismatch {}
+
+        let escaping = try JSONEncoder().encode(QuestionBankManifest(version: bundled.version + 1, file: "../secret.json"))
+        let store2 = store(serving: ["manifest.json": escaping])
+        do {
+            try await store2.update(from: base, currentVersion: bundled.version)
+            XCTFail("File names with paths must be rejected")
+        } catch QuestionBankStore.UpdateError.invalidFileName {}
+    }
+
+    func testSkipsQuestionsInDisciplinesThisBuildDoesNotKnow() throws {
+        let data = try bankData(version: 99) { object in
+            var questions = object["questions"] as! [[String: Any]]
+            questions[0]["category"] = "astrobiology"
+            object["questions"] = questions
+        }
+        let bank = try SeedQuestionBank.load(from: data)
+        let all = try SeedQuestionBank.load()
+        XCTAssertEqual(bank.questions(in: .en).count + bank.questions(in: .es).count,
+                       all.questions(in: .en).count + all.questions(in: .es).count - 1)
+    }
+
+    func testCategoriesWithEnoughQuestions() throws {
+        let bank = try SeedQuestionBank.load()
+        let shown = bank.categories(in: .es, minimumQuestions: 20)
+        XCTAssertTrue(shown.contains(.microbiology))
+        XCTAssertFalse(shown.contains(.foodAnalysis))
+        XCTAssertTrue(shown.allSatisfy { bank.questions(in: .es, category: $0).count >= 20 })
+    }
+}

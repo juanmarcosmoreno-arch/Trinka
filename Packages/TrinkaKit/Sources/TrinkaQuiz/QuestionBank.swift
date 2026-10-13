@@ -31,11 +31,14 @@ public extension QuestionBank {
 /// In-memory bank that validates everything it is given and keeps only playable questions.
 public struct StaticQuestionBank: QuestionBank {
     public let articles: [ArticleReference]
+    /// Content version of the bank (`SeedQuestions.json` "version"); friend-challenge codes embed it.
+    public let version: Int
     private let byLanguage: [AppLanguage: [Question]]
     /// Questions that failed validation, with the reasons. Useful for tests and diagnostics.
     public let rejected: [(question: Question, issues: [QuestionIssue])]
 
-    public init(questions: [Question], articles: [ArticleReference] = []) {
+    public init(questions: [Question], articles: [ArticleReference] = [], version: Int = 0) {
+        self.version = version
         var accepted: [AppLanguage: [Question]] = [:]
         var rejected: [(Question, [QuestionIssue])] = []
         for question in questions {
@@ -56,6 +59,14 @@ public struct StaticQuestionBank: QuestionBank {
     public func questions(in language: AppLanguage) -> [Question] {
         byLanguage[language] ?? []
     }
+
+    /// Disciplines with at least `minimumQuestions` playable questions in `language`,
+    /// in `ScienceCategory` order. Used to hide disciplines that don't have enough content yet.
+    public func categories(in language: AppLanguage, minimumQuestions: Int = 20) -> [ScienceCategory] {
+        var counts: [ScienceCategory: Int] = [:]
+        for question in questions(in: language) { counts[question.category, default: 0] += 1 }
+        return ScienceCategory.allCases.filter { (counts[$0] ?? 0) >= minimumQuestions }
+    }
 }
 
 /// The question bank shipped inside the app (`SeedQuestions.json`).
@@ -63,8 +74,9 @@ public struct StaticQuestionBank: QuestionBank {
 /// Every seed question cites a real PubMed article retrieved through NCBI E-utilities,
 /// and stores a verbatim excerpt of its abstract supporting the correct answer.
 public enum SeedQuestionBank {
-    /// Bump whenever `SeedQuestions.json` changes which questions exist, so friend-challenge
-    /// codes created with an older bank are rejected instead of loading different questions.
+    /// Version of the bank bundled with the app. Must match the "version" in `SeedQuestions.json`;
+    /// `Scripts/seed/build_seed.py` bumps both whenever the questions change. Newer banks can be
+    /// downloaded later (see `QuestionBankStore`), so use `StaticQuestionBank.version` at runtime.
     public static let version = 3
 
     public enum LoadError: Error {
@@ -87,16 +99,21 @@ public enum SeedQuestionBank {
         let file = try decoder.decode(SeedFile.self, from: data)
 
         let articlesByPMID = Dictionary(uniqueKeysWithValues: file.articles.map { ($0.pmid, $0) })
-        let questions = try file.questions.map { entry -> Question in
+        let questions = try file.questions.compactMap { entry -> Question? in
+            // Banks downloaded later may use languages, disciplines or levels this build doesn't
+            // know yet; those questions are skipped instead of rejecting the whole file.
+            guard let language = AppLanguage(rawValue: entry.language),
+                  let category = ScienceCategory(rawValue: entry.category),
+                  let difficulty = Difficulty(rawValue: entry.difficulty) else { return nil }
             guard let source = articlesByPMID[entry.pmid] else {
                 throw LoadError.unknownArticle(pmid: entry.pmid, questionID: entry.id)
             }
             return Question(
                 id: entry.id,
                 translationKey: entry.translationKey,
-                language: entry.language,
-                category: entry.category,
-                difficulty: entry.difficulty,
+                language: language,
+                category: category,
+                difficulty: difficulty,
                 prompt: entry.prompt,
                 options: entry.options,
                 correctOptionIndex: entry.correctOptionIndex,
@@ -106,7 +123,7 @@ public enum SeedQuestionBank {
                 verification: entry.verification
             )
         }
-        return StaticQuestionBank(questions: questions, articles: file.articles)
+        return StaticQuestionBank(questions: questions, articles: file.articles, version: file.version)
     }
 
     /// On-disk format: articles are stored once and referenced by PMID.
@@ -119,9 +136,9 @@ public enum SeedQuestionBank {
     struct Entry: Decodable {
         var id: String
         var translationKey: String
-        var language: AppLanguage
-        var category: ScienceCategory
-        var difficulty: Difficulty
+        var language: String
+        var category: String
+        var difficulty: String
         var prompt: String
         var options: [String]
         var correctOptionIndex: Int

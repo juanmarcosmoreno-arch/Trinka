@@ -170,7 +170,7 @@ private struct CreateChallengeView: View {
                 Section {
                     Picker(L10n.tr("explore.discipline"), selection: $category) {
                         Text(L10n.tr("explore.allCategories")).tag(ScienceCategory?.none)
-                        ForEach(ScienceCategory.allCases) { Text(L10n.name(of: $0)).tag(ScienceCategory?.some($0)) }
+                        ForEach(model.availableCategories) { Text(L10n.name(of: $0)).tag(ScienceCategory?.some($0)) }
                     }
                     Picker(L10n.tr("explore.difficulty"), selection: $difficulty) {
                         Text(L10n.tr("difficulty.mixed")).tag(Difficulty?.none)

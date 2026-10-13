@@ -249,7 +249,7 @@
 "compete.defaultTitle.category" = "%@ challenge";
 "compete.link.title" = "Can't open this challenge";
 "compete.link.invalid" = "The code or link isn't valid. Check it and try again.";
-"compete.link.incompatible" = "This challenge was created with a different version of TRINKA's questions. Update the app and try again.";
+"compete.link.incompatible" = "This challenge was created with a different version of TRINKA's questions. Close and reopen TRINKA to get the latest questions (or update the app), then try again.";
 
 "common.ok" = "OK";
 "common.cancel" = "Cancel";

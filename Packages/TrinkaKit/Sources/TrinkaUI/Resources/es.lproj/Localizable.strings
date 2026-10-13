@@ -249,7 +249,7 @@
 "compete.defaultTitle.category" = "Reto de %@";
 "compete.link.title" = "No se puede abrir el reto";
 "compete.link.invalid" = "El código o enlace no es válido. Revísalo e inténtalo de nuevo.";
-"compete.link.incompatible" = "Este reto se creó con otra versión de las preguntas de TRINKA. Actualiza la app e inténtalo de nuevo.";
+"compete.link.incompatible" = "Este reto se creó con otra versión de las preguntas de TRINKA. Cierra y vuelve a abrir TRINKA para recibir las preguntas nuevas (o actualiza la app) e inténtalo de nuevo.";
 
 "common.ok" = "Aceptar";
 "common.cancel" = "Cancelar";

@@ -47,7 +47,7 @@ struct ExploreView: View {
                     }
                 } action: { category = nil }
 
-                ForEach(ScienceCategory.allCases) { item in
+                ForEach(model.availableCategories) { item in
                     selectable(isSelected: category == item) {
                         VStack(spacing: Theme.Spacing.xs) {
                             Image(systemName: item.symbolName).font(.title3)

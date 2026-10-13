@@ -28,7 +28,9 @@ enum AppTab: Hashable {
 @MainActor
 @Observable
 final class AppModel {
+    /// Questions in use: the bundled bank or a newer downloaded one (see `QuestionBankStore`).
     let bank: StaticQuestionBank
+    private let bankStore: QuestionBankStore
     let store: ProgressStore
     let pubMed: PubMedClient
     let articleCache = ArticleCache()
@@ -53,7 +55,10 @@ final class AppModel {
     private let selector = QuestionSelector()
 
     init(container: ModelContainer) {
-        bank = (try? SeedQuestionBank.load()) ?? StaticQuestionBank(questions: [])
+        let bankStore = QuestionBankStore()
+        let bundled = (try? SeedQuestionBank.load()) ?? StaticQuestionBank(questions: [])
+        self.bankStore = bankStore
+        bank = bankStore.loadBest(bundled: bundled)
         store = ProgressStore(context: container.mainContext)
         challenges = ChallengeStore(context: container.mainContext)
 
@@ -74,6 +79,24 @@ final class AppModel {
         connectivity.activate()
 
         Task { self.topicQuizzes = await self.topicQuizStore.all() }
+        checkForNewQuestions()
+    }
+
+    // MARK: - Question bank updates
+
+    /// Downloads a newer published question bank, if any. It is used from the next launch, so
+    /// today's challenge and open quizzes never change underneath the player.
+    private func checkForNewQuestions() {
+        guard let base = QuestionBankStore.configuredBaseURL() else { return }
+        let updater = bankStore, version = bank.version
+        Task.detached(priority: .utility) {
+            _ = try? await updater.update(from: base, currentVersion: version)
+        }
+    }
+
+    /// Disciplines with enough questions to be offered in pickers and grids.
+    var availableCategories: [ScienceCategory] {
+        bank.categories(in: language)
     }
 
     // MARK: - Topic quizzes (generated on demand)
@@ -184,14 +207,14 @@ final class AppModel {
 
     @discardableResult
     func createChallenge(title: String, category: ScienceCategory?, difficulty: Difficulty?, count: Int) -> ChallengeCode {
-        let code = ChallengeCode.random(bankVersion: SeedQuestionBank.version, category: category,
+        let code = ChallengeCode.random(bankVersion: bank.version, category: category,
                                         difficulty: difficulty, questionCount: count)
         challenges.add(code, title: title.isEmpty ? defaultTitle(for: code) : title)
         return code
     }
 
     func challengeQuestions(_ code: ChallengeCode) -> [Question] {
-        code.questions(from: bank, bankVersion: SeedQuestionBank.version, language: language)
+        code.questions(from: bank, bankVersion: bank.version, language: language)
     }
 
     func startChallenge(_ code: ChallengeCode) {

@@ -8,5 +8,8 @@
 		<string>en</string>
 		<string>es</string>
 	</array>
+	<!-- Where newer question banks are published (Content/manifest.json). Empty = no remote updates. -->
+	<key>TrinkaQuestionBankBase</key>
+	<string>$(QUESTION_BANK_BASE)</string>
 </dict>
 </plist>

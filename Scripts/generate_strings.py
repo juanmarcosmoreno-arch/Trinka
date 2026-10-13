@@ -250,7 +250,7 @@ S = {
 "compete.defaultTitle.category": ("%@ challenge", "Reto de %@"),
 "compete.link.title": ("Can't open this challenge", "No se puede abrir el reto"),
 "compete.link.invalid": ("The code or link isn't valid. Check it and try again.", "El código o enlace no es válido. Revísalo e inténtalo de nuevo."),
-"compete.link.incompatible": ("This challenge was created with a different version of TRINKA's questions. Update the app and try again.", "Este reto se creó con otra versión de las preguntas de TRINKA. Actualiza la app e inténtalo de nuevo."),
+"compete.link.incompatible": ("This challenge was created with a different version of TRINKA's questions. Close and reopen TRINKA to get the latest questions (or update the app), then try again.", "Este reto se creó con otra versión de las preguntas de TRINKA. Cierra y vuelve a abrir TRINKA para recibir las preguntas nuevas (o actualiza la app) e inténtalo de nuevo."),
 "common.ok": ("OK", "Aceptar"),
 "common.cancel": ("Cancel", "Cancelar"),
 

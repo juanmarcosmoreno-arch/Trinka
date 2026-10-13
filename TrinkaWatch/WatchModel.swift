@@ -24,19 +24,29 @@ final class WatchModel {
     var activeQuiz: WatchQuizLaunch?
 
     private let bank: StaticQuestionBank
+    private let bankStore: QuestionBankStore
     private let connectivity = ConnectivityService()
     private let packStore = ChallengePackStore()
     private let selector = QuestionSelector()
     private var pack: ChallengePack?
 
     init(container: ModelContainer) {
-        bank = (try? SeedQuestionBank.load()) ?? StaticQuestionBank(questions: [])
+        let bankStore = QuestionBankStore()
+        let bundled = (try? SeedQuestionBank.load()) ?? StaticQuestionBank(questions: [])
+        self.bankStore = bankStore
+        bank = bankStore.loadBest(bundled: bundled)
         store = ProgressStore(context: container.mainContext)
         pack = packStore.load()
         L10n.language = store.settings.languageOverride ?? .preferred()
 
         connectivity.onMessage = { [weak self] message in self?.handle(message) }
         connectivity.activate()
+
+        // Same published bank as the iPhone, so the offline daily challenge matches it.
+        if let base = QuestionBankStore.configuredBaseURL() {
+            let updater = bankStore, version = bank.version
+            Task.detached(priority: .utility) { _ = try? await updater.update(from: base, currentVersion: version) }
+        }
     }
 
     /// Today's five questions, available offline.
