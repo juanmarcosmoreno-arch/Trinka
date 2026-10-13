@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 13,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -7744,6 +7744,445 @@
    "abstract": "Since the early 1980s, the European rabbit (Oryctolagus cuniculus) has been threatened by the rabbit hemorrhagic disease (RHD). The disease is caused by a lagovirus of the family Caliciviridae, the rabbit hemorrhagic disease virus (RHDV). The need for detection, identification and further characterization of RHDV led to the development of several diagnostic tests. Owing to the lack of an appropriate cell culture system for in vitro propagation of the virus, much of the methods involved in these tests contributed to our current knowledge on RHD and RHDV and to the development of vaccines to contain the disease. Here, we provide a comprehensive review of the RHDV diagnostic tests used since the first RHD outbreak and that include molecular, histological and serological techniques, ranging from simpler tests initially used, such as the hemagglutination test, to the more recent and sophisticated high-throughput sequencing, along with an overview of their potential and their limitations.",
    "publicationTypes": [
     "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30961998",
+   "title": "Diagnosis of Canine Leptospirosis.",
+   "authors": [
+    "Reagan KL",
+    "Sykes JE"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 2019,
+   "doi": "10.1016/j.cvsm.2019.02.008",
+   "abstract": "Several diagnostic tests are available to aid veterinarians in diagnosis of leptospirosis. Understanding the course of infection is imperative to determining which diagnostic test to order and sample to submit. Diagnostic tests for dogs suspected of having leptospirosis include antibody-based tests and polymerase chain reaction (PCR). Paired acute and convalescent microscopic agglutination test (MAT) are diagnostic for leptospirosis. PCR performed on blood and/or urine can be a valuable tool to aid in diagnosis of leptospirosis. Commercially available rapid point-of-care diagnostics have been validated in dogs and have value early in the course of illness before MAT and PCR results are available.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25747699",
+   "title": "How well do vaccines for Bordetella bronchiseptica work in dogs? A critical review of the literature 1977-2014.",
+   "authors": [
+    "Ellis JA"
+   ],
+   "journal": "Veterinary journal (London, England : 1997)",
+   "year": 2015,
+   "doi": "10.1016/j.tvjl.2015.02.006",
+   "abstract": "Bordetella bronchiseptica (Bb) has long been causally associated with respiratory disease in dogs. Parenteral and intranasal vaccines for this pathogen have been in common use since their development in the late 1970s and early 1980s and recently a commercial oral Bb vaccine has become available. Overall, the literature (comprising experimental infection models and field studies) documents the efficacy of these vaccines in stimulating disease-sparing mucosal and systemic immune responses that can be associated with reduced growth of Bb in vivo. However, many of the published studies are limited by flaws in experimental design, most notably a failure to consider the biological and statistical implications of the 'pen effect'. Many questions related to the longevity of vaccine induced immunity against Bb and the impact of natural exposure on herd immunity remain unanswered.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "16594606",
+   "title": "ACVIM small animal consensus statement on Lyme disease in dogs: diagnosis, treatment, and prevention.",
+   "authors": [
+    "Littman MP",
+    "Goldstein RE",
+    "Labato MA",
+    "Lappin MR",
+    "Moore GE"
+   ],
+   "journal": "Journal of veterinary internal medicine",
+   "year": 2006,
+   "doi": "10.1892/0891-6640(2006)20[422:asacso]2.0.co;2",
+   "abstract": "The purpose of this report is to offer a consensus opinion of ACVIM diplomates on the diagnosis, treatment, and prevention of Borrelia burgdorferi infections in dogs (canine Lyme disease). Clinical syndromes known to commonly be associated with canine Lyme disease include polyarthritis and glomerulopathy. Serological test results can be used to document exposure to B. burgdorferi but not prove illness. Although serum enzyme-linked immunosorbent assay/indirect fluorescent antibody assay titers can stay positive for months to years after treatment, quantitative C6 peptide antibody paired tests need more study. Serological screening of healthy dogs is controversial because it can lead to overdiagnosis or overtreatment of normal dogs, most of which never develop Lyme disease. However, serological screening can provide seroprevalence and sentinel data and stimulate owner education about tick infections and control. Although it is unknown whether treatment of seropositive healthy dogs is beneficial, the consensus is that seropositive dogs should be evaluated for proteinuria and other coinfections and tick control prescribed. Tick control can include a product that repels or protects against tick attachment, thereby helping to prevent transmission of coinfections as well as Borrelia spp. Seropositive dogs with clinical abnormalities thought to arise from Lyme disease generally are treated with doxycycline (10 mg/kg q24h for 1 month). Proteinuric dogs might need longer treatment as well as medications and diets for protein-losing nephropathy. The ACVIM diplomates believe the use of Lyme vaccines still is controversial and most do not administer them. It is the consensus opinion that additional research is needed to study predictors of illness, \"Lyme nephropathy,\" and coinfections in Lyme endemic areas.",
+   "publicationTypes": [
+    "Consensus Statement",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35232714",
+   "title": "An Update on Feline Calicivirus.",
+   "authors": [
+    "Spiri AM"
+   ],
+   "journal": "Schweizer Archiv fur Tierheilkunde",
+   "year": 2022,
+   "doi": "10.17236/sat00346",
+   "abstract": "Feline Calicivirus (FCV) is one of the most common viral pathogens in domestic cats worldwide. The first report of FCV dates back to 1957, when FCV was isolated from the gastrointestinal tract of cats in New Zealand. Subsequent reports recognised FCV as a cause of respiratory disease in cats, and at present, feline practitioners worldwide are daily confronted with cats suffering from suspected FCV. The highly mutagenic nature of FCV and its high genetic plasticity enable the virus to successfully survive in the feline population, and pose a special challenge as regards the diagnosis, treatment, and prevention of FCV-induced disease. Upper respiratory tract disease has been considered a common clinical sign of FCV infection. A study from Switzerland demonstrated that oral ulcerations, salivation and gingivitis-stomatitis were more commonly associated with FCV infection than upper respiratory tract disease, and less than half of the cats suspected to have FCV infection were found to be FCV-positive. Furthermore, a study investigating FCV isolates from Switzerland found some evidence that the genetic background of cats might influence their susceptibility to FCV infection. This review article provides a comprehensive summary of the FCV literature, and integrates the results of recent research on FCV's genetic characteristics, the cellular and humoral immunity evoked by FCV vaccination and infection, the diagnosis of FCV, FCV prevention/vaccination, the risk factors associated with FCV, and the hygienic measures necessary in FCV-contaminated areas. After each section, the key points are summarised, and relevant information is outlined to help feline practitioners in FCV diagnosis, treatment and prevention.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "17296160",
+   "title": "Feline herpesvirus.",
+   "authors": [
+    "Gaskell R",
+    "Dawson S",
+    "Radford A",
+    "Thiry E"
+   ],
+   "journal": "Veterinary research",
+   "year": 2007,
+   "doi": "10.1051/vetres:2006063",
+   "abstract": "Feline herpesvirus (FHV-1; felid herpesvirus 1 (FeHV-1)) is an alphaherpesvirus of cats closely related to canine herpesvirus-1 and phocine herpesvirus-1. There is only one serotype of the virus and it is relatively homogenous genetically. FeHV-1 is an important cause of acute upper respiratory tract and ocular disease in cats. In addition, its role in more chronic ocular disease and skin lesions is increasingly being recognised. Epidemiologically, FeHV-1 behaves as a typical alphaherpesvirus whereby clinically recovered cats become latently infected carriers which undergo periodic episodes of virus reactivation, particularly after a stress. The primary site of latency is the trigeminal ganglion. Conventional inactivated and modified-live vaccines are available and protect reasonably well against disease but not infection, although viral shedding may be reduced. Genetically engineered vaccines have also been developed, both for FeHV-1 and as vector vaccines for other pathogens, but none is as yet marketed.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19481033",
+   "title": "Feline panleukopenia. ABCD guidelines on prevention and management.",
+   "authors": [
+    "Truyen U",
+    "Addie D",
+    "Belák S",
+    "Boucraut-Baralon C",
+    "Egberink H",
+    "Frymus T",
+    "Gruffydd-Jones T",
+    "Hartmann K",
+    "Hosie MJ",
+    "Lloret A",
+    "Lutz H",
+    "Marsilio F",
+    "Pennisi MG",
+    "Radford AD",
+    "Thiry E",
+    "Horzinek MC"
+   ],
+   "journal": "Journal of feline medicine and surgery",
+   "year": 2009,
+   "doi": "10.1016/j.jfms.2009.05.002",
+   "abstract": "OVERVIEW: Feline panleukopenia virus (FPV) infects all felids as well as raccoons, mink and foxes. This pathogen may survive in the environment for several months and is highly resistant to some disinfectants.\nINFECTION: Transmission occurs via the faecal-oral route. Indirect contact is the most common route of infection, and FPV may be carried by fomites (shoes, clothing), which means indoor cats are also at risk. Intrauterine virus transmission and infection of neonates can occur.\nDISEASE SIGNS: Cats of all ages may be affected by FPV, but kittens are most susceptible. Mortality rates are high - over 90% in kittens. Signs of disease include diarrhoea, lymphopenia and neutropenia, followed by thrombocytopenia and anaemia, immunosuppression (transient in adult cats), cerebellar ataxia (in kittens only) and abortion.\nDIAGNOSIS: Feline panleukopenia virus antigen is detected in faeces using commercially available test kits. Specialised laboratories carry out PCR testing on whole blood or faeces. Serological tests are not recommended, as they do not distinguish between infection and vaccination.\nDISEASE MANAGEMENT: Supportive therapy and good nursing significantly decrease mortality rates. In cases of enteritis, parenteral administration of a broad-spectrum antibiotic is recommended. Disinfectants containing sodium hypochlorite (bleach), peracetic acid, formaldehyde or sodium hydroxide are effective.\nVACCINATION RECOMMENDATIONS: All cats - including indoor cats - should be vaccinated. Two injections, at 8-9 weeks of age and 3-4 weeks later, are recommended, and a first booster 1 year later. A third vaccination at 16-20 weeks of age is recommended for kittens from environments with a high infection pressure (cat shelters) or from queens with high vaccine-induced antibody levels (breeding catteries). Subsequent booster vaccinations should be administered at intervals of 3 years or more. Modified-live virus vaccines should not be used in pregnant queens or in kittens less than 4 weeks of age.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30005701",
+   "title": "Oral vaccination of dogs: a well-studied and undervalued tool for achieving human and dog rabies elimination.",
+   "authors": [
+    "Cliquet F",
+    "Guiot AL",
+    "Aubert M",
+    "Robardet E",
+    "Rupprecht CE",
+    "Meslin FX"
+   ],
+   "journal": "Veterinary research",
+   "year": 2018,
+   "doi": "10.1186/s13567-018-0554-6",
+   "abstract": "The mass vaccination of dogs is a proven tool for rabies prevention. Besides parenteral delivery of inactivated vaccines, over the past several decades, several self-replicating biologics, including modified-live, attenuated and recombinant viruses, have been evaluated for the oral vaccination of dogs against rabies. Vaccines are included within an attractive bait for oral consumption by free-ranging dogs. Due to the high affinity between dogs and humans, such biologics intended for oral vaccination of dogs (OVD) need to be efficacious as well as safe. Baits should be preferentially attractive to dogs and not to non-target species. Although many different types have been evaluated successfully, no universal bait has been identified to date. Moreover, high bait acceptance does not necessarily mean that vaccine efficacy and programmatic success is predictable. The use of OVD in the laboratory and field has demonstrated the safety and utility of this technology. Within a One Health context, OVD should be considered as part of a holistic plan for the global elimination of canine rabies.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "21870348",
+   "title": "Streptococcus equi subspecies equi infection (strangles) in horses.",
+   "authors": [
+    "Boyle A"
+   ],
+   "journal": "Compendium (Yardley, PA)",
+   "year": 2011,
+   "doi": null,
+   "abstract": "Streptococcus equi subspecies equi (strangles) is a highly contagious upper respiratory infection in horses. The infection is transmitted by inhalation or direct contact with mucopurulent discharge from an infective animal, resulting in fever, depression, and submandibular and retropharyngeal lymph node enlargement that can lead to respiratory distress. Complications include purpura hemorrhagica and metastatic abscessation. Control of outbreaks requires strict isolation protocols and hygiene measures. Detection of carriers is essential for preventing disease recurrence on a farm.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "38497217",
+   "title": "Updated ACVIM consensus statement on equine herpesvirus-1.",
+   "authors": [
+    "Lunn DP",
+    "Burgess BA",
+    "Dorman DC",
+    "Goehring LS",
+    "Gross P",
+    "Osterrieder K",
+    "Pusterla N",
+    "Soboll Hussey G"
+   ],
+   "journal": "Journal of veterinary internal medicine",
+   "year": 2024,
+   "doi": "10.1111/jvim.17047",
+   "abstract": "Equine herpesvirus-1 (EHV-1) is a highly prevalent and frequently pathogenic infection of equids. The most serious clinical consequences of infection are abortion and equine herpesvirus myeloencephalopathy (EHM). The previous consensus statement was published in 2009 and considered pathogenesis, strain variation, epidemiology, diagnostic testing, vaccination, outbreak prevention and control, and treatment. A recent survey of American College of Veterinary Internal Medicine large animal diplomates identified the need for a revision to this original consensus statement. This updated consensus statement is underpinned by 4 systematic reviews that addressed key questions concerning vaccination, pharmaceutical treatment, pathogenesis, and diagnostic testing. Evidence for successful vaccination against, or effective treatment of EHV-1 infection was limited, and improvements in experimental design and reporting of results are needed in future studies of this important disease. This consensus statement also updates the topics considered previously in 2009.",
+   "publicationTypes": [
+    "Journal Article",
+    "Consensus Statement"
+   ]
+  },
+  {
+   "pmid": "15236677",
+   "title": "West Nile virus infection of horses.",
+   "authors": [
+    "Castillo-Olivares J",
+    "Wood J"
+   ],
+   "journal": "Veterinary research",
+   "year": 2004,
+   "doi": "10.1051/vetres:2004022",
+   "abstract": "West Nile virus (WNV) is a flavivirus closely related to Japanese encephalitis and St. Louis encephalitis viruses that is primarily maintained in nature by transmission cycles between mosquitoes and birds. Occasionally, WNV infects and causes disease in other vertebrates, including humans and horses. West Nile virus has re-emerged as an important pathogen as several recent outbreaks of encephalomyelitis have been reported from different parts of Europe in addition to the large epidemic that has swept across North America. This review summarises the main features of WNV infection in the horse, with reference to complementary information from other species, highlighting the most recent scientific findings and identifying areas that require further research.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "38910032",
+   "title": "Tetanus prophylaxis in horses: guidelines for New Zealand and Australia based on a critical appraisal of the evidence.",
+   "authors": [
+    "Lovett AL",
+    "Riley CB",
+    "Chapman V",
+    "Bell B",
+    "Bishop B",
+    "Grierson A",
+    "Johnstone LJ",
+    "Sykes BW"
+   ],
+   "journal": "New Zealand veterinary journal",
+   "year": 2024,
+   "doi": "10.1080/00480169.2024.2365283",
+   "abstract": "Horses are exquisitely sensitive to tetanus neurotoxin and are exposed to the risk of infection with Clostridium tetani throughout life. The vaccine against tetanus is highly effective at preventing disease, whereas tetanus in unvaccinated populations is associated with high mortality rates. Current guidelines in New Zealand and Australia for the available vaccine contain contradictions and limitations surrounding the optimal tetanus immunisation protocols for both adult horses and foals. This review critically evaluates the scientific literature on tetanus prophylaxis in horses within the context of equine practice and available products in New Zealand and Australia. The review was conducted by a panel of industry and specialist veterinarians to obtain agreement on nine equine tetanus prophylaxis guidelines for practising veterinarians. The primary protocol for tetanus toxoid (TT) immunisation consists of a three-dose series IM for all horses ≥ 6 months of age, and a four-dose series IM is proposed if commencing vaccination in foals between 3 and 6 months of age. Tetanus prophylaxis in foals < 3 months of age relies on passive immunity strategies. Following the completion of the primary protocol, a TT booster dose IM should be administered within 5 years, and every 5 years thereafter. When followed, these protocols should provide adequate protection against tetanus in horses. Additional tetanus prophylaxis guidelines are provided for veterinarians attending a horse experiencing a known \"risk event\" (e.g. wound, hoof abscess, surgery, umbilical infection). When a correctly vaccinated horse experiences a risk event, pre-existing immunity provides protection against tetanus. When an unvaccinated horse or one with unknown vaccination status, or a foal born to an unvaccinated dam, experiences a risk event, TT IM and tetanus antitoxin (TAT) 1,500 IU SC should be administered simultaneously at separate sites, and the TT primary immunisation protocol should subsequently be completed for the horse's respective age. In previously immunised pregnant broodmares, a TT booster dose administered 4-8 weeks prior to parturition optimises the transfer of passive immunity against tetanus to the newborn foal via colostrum; provided that post-natal IgG concentration in serum is > 800 mg/dL (8 g/L), such foals should be passively protected against tetanus up to 6 months of age. Survivors of clinical tetanus must still receive the primary protocol for vaccination against tetanus. In summary, all horses in New Zealand and Australia should be vaccinated against tetanus with protection maintained throughout life via TT booster doses, facilitated by accurate medical record keeping and client education.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32390522",
+   "title": "Contagious Bovine Pleuropneumonia: A Comprehensive Overview.",
+   "authors": [
+    "Di Teodoro G",
+    "Marruchella G",
+    "Di Provvido A",
+    "D'Angelo AR",
+    "Orsini G",
+    "Di Giuseppe P",
+    "Sacchini F",
+    "Scacchia M"
+   ],
+   "journal": "Veterinary pathology",
+   "year": 2020,
+   "doi": "10.1177/0300985820921818",
+   "abstract": "Contagious bovine pleuropneumonia (CBPP) is a respiratory disease of cattle that is listed as notifiable by the World Organization for Animal Health. It is endemic in sub-Saharan Africa and causes important productivity losses due to the high mortality and morbidity rates. CBPP is caused by Mycoplasma mycoides subsp. mycoides (Mmm) and is characterized by severe fibrinous bronchopneumonia and pleural effusion during the acute to subacute stages and by pulmonary sequestra in chronic cases. Additional lesions can be detected in the kidneys and in the carpal and tarsal joints of calves. Mmm infection occurs through the inhalation of infected aerosol droplets. After the colonization of bronchioles and alveoli, Mmm invades blood and lymphatic vessels and causes vasculitis. Moreover, Mmm can be occasionally demonstrated in blood and in a variety of other tissues. In the lung, Mmm antigen is commonly detected on bronchiolar and alveolar epithelial cells, in lung phagocytic cells, within the wall of blood and lymphatic vessels, inside necrotic areas, and within tertiary lymphoid follicles. Mmm antigen can also be present in the cytoplasm of macrophages within lymph node sinuses, in the germinal center of lymphoid follicles, in glomerular endothelial cells, and in renal tubules. A complete pathological examination is of great value for a rapid presumptive diagnosis, but laboratory investigations are mandatory for definitive diagnosis. The purpose of this review is to describe the main features of CBPP including the causative agent, history, geographic distribution, epidemiology, clinical course, diagnosis, and control. A special focus is placed on gross and microscopic lesions in order to familiarize veterinarians with the pathology and pathogenesis of CBPP.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30683173",
+   "title": "Mannheimia haemolytica in bovine respiratory disease: immunogens, potential immunogens, and vaccines.",
+   "authors": [
+    "Confer AW",
+    "Ayalew S"
+   ],
+   "journal": "Animal health research reviews",
+   "year": 2018,
+   "doi": "10.1017/S1466252318000142",
+   "abstract": "Mannheimia haemolytica is the major cause of severe pneumonia in bovine respiratory disease (BRD). Early M. haemolytica bacterins were either ineffective or even enhanced disease in vaccinated cattle, which led to studies of the bacterium's virulence factors and potential immunogens to determine ways to improve vaccines. Studies have focused on the capsule, lipopolysaccharide, various adhesins, extracellular enzymes, outer membrane proteins, and leukotoxin (LKT) resulting in a strong database for understanding immune responses to the bacterium and production of more efficacious vaccines. The importance of immunity to LKT and to surface antigens in stimulating immunity led to studies of individual native or recombinant antigens, bacterial extracts, live-attenuated or mutant organisms, culture supernatants, combined bacterin-toxoids, outer membrane vesicles, and bacterial ghosts. Efficacy of several of these potential vaccines can be shown following experimental M. haemolytica challenge; however, efficacy in field trials is harder to determine due to the complexity of factors and etiologic agents involved in naturally occurring BRD. Studies of potential vaccines have led current commercial vaccines, which are composed primarily of culture supernatant, bacterin-toxoid, or live mutant bacteria. Several of those can be augmented experimentally by addition of recombinant LKT or outer membrane proteins.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "17257569",
+   "title": "Bovine herpesvirus 1 infection and infectious bovine rhinotracheitis.",
+   "authors": [
+    "Muylkens B",
+    "Thiry J",
+    "Kirten P",
+    "Schynts F",
+    "Thiry E"
+   ],
+   "journal": "Veterinary research",
+   "year": 2007,
+   "doi": "10.1051/vetres:2006059",
+   "abstract": "Bovine herpesvirus 1 (BoHV-1), classified as an alphaherpesvirus, is a major pathogen of cattle. Primary infection is accompanied by various clinical manifestations such as infectious bovine rhinotracheitis, abortion, infectious pustular vulvovaginitis, and systemic infection in neonates. When animals survive, a life-long latent infection is established in nervous sensory ganglia. Several reactivation stimuli can lead to viral re-excretion, which is responsible for the maintenance of BoHV-1 within a cattle herd. This paper focuses on an updated pathogenesis based on a molecular characterization of BoHV-1 and the description of the virus cycle. Special emphasis is accorded to the impact of the latency and reactivation cycle on the epidemiology and the control of BoHV-1. Several European countries have initiated BoHV-1 eradication schemes because of the significant losses incurred by disease and trading restrictions. The vaccines used against BoHV-1 are described in this context where the differentiation of infected from vaccinated animals is of critical importance to achieve BoHV-1 eradication.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41361675",
+   "title": "Epidemiology, clinical and pathological features and outcomes of listeriosis in ruminants: a systematic review and meta-analysis.",
+   "authors": [
+    "López-Almela I",
+    "Sheth CC",
+    "Gomis J",
+    "Gómez-Martín Á",
+    "Lecuit M",
+    "Quereda JJ"
+   ],
+   "journal": "The veterinary quarterly",
+   "year": 2025,
+   "doi": "10.1080/01652176.2025.2598257",
+   "abstract": "We performed a systematic review and meta-analysis of the epidemiology, clinical and pathological features, outcomes, and therapy for listeriosis in ruminants. PubMed, Web of Science, and Scopus were searched with no publication date limits. A random-effects meta-analysis model was used to calculate the pooled effect size using morbidity and case fatality rate data. 63 and 38 studies met the inclusion criteria for the systematic review and meta-analysis, respectively. 56 out of 63 studies were published before 2016 when cgMLST was developed. A comprehensive analysis of historical data shows that the association of silage as a source of contamination in ruminants should be re-evaluated. The most common clinical presentation was encephalitis (64.8% of the animals, 1839/2837), followed by abortion (21.3% of the animals, 604/2837). The mortality rate was high despite treatment. Overall, the mean morbidity, case fatality rate, and abortion rate were 12.6%, 50.6%, and 12.8%, respectively. Meta-analysis of the subgroups revealed a Hedges' g value of -4.60 for the abortive form, indicating greater morbidity than mortality in this form. In contrast, the encephalitic form was characterized by a higher case fatality rate than morbidity (Hedges' g 9.46). Literature gaps exist since most reported outbreaks are from the twentieth century and only from a few countries. There is a lack of information on the current prevalence, consequences, and effectiveness of antimicrobial treatment of listeriosis in domestic ruminants. There is also an incomplete picture of the prevalence of Listeria infection worldwide.",
+   "publicationTypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ]
+  },
+  {
+   "pmid": "38535842",
+   "title": "Neonatal Calf Diarrhea and Gastrointestinal Microbiota: Etiologic Agents and Microbiota Manipulation for Treatment and Prevention of Diarrhea.",
+   "authors": [
+    "Jessop E",
+    "Li L",
+    "Renaud DL",
+    "Verbrugghe A",
+    "Macnicol J",
+    "Gamsjäger L",
+    "Gomez DE"
+   ],
+   "journal": "Veterinary sciences",
+   "year": 2024,
+   "doi": "10.3390/vetsci11030108",
+   "abstract": "Neonatal calf diarrhea is the leading cause of neonatal morbidity and mortality globally. The changes associated with the gastrointestinal microbiota in neonatal calves experiencing diarrhea and its etiology are not fully understood or completely defined in the literature. Several studies have demonstrated that the fecal microbiota of calves that experience diarrhea substantially deviates from that of healthy age-matched calves. However, one key question remains: whether the changes observed in the bacterial communities (also known as dysbiosis) are a predisposing factor for, or the consequence of, gastrointestinal inflammation caused by the pathogens associated with calf diarrhea. The first objective of this literature review is to present the current information regarding the changes in the fecal microbiota of diarrheic calves and the impact of the pathogens associated with diarrhea on fecal microbiota. Modulation of the gastrointestinal microbiota using pre- and probiotics, colostrum feeding, and fecal microbiota transplantation (FMT) has been used to treat and prevent gastrointestinal diseases in humans and dogs. Although information regarding the use of probiotics for the prevention of diarrhea is available in cattle, little information is available regarding the use of these strategies for treating calf diarrhea and the use of prebiotics or FMT to prevent diarrhea. The second objective of this literature review is to summarize the current knowledge regarding the impact of prebiotics, probiotics, synbiotics, colostrum feeding, and FMT for the treatment and prevention of calf diarrhea.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33968359",
+   "title": "Rotavirus in Calves and Its Zoonotic Importance.",
+   "authors": [
+    "Geletu US",
+    "Usmael MA",
+    "Bari FD"
+   ],
+   "journal": "Veterinary medicine international",
+   "year": 2021,
+   "doi": "10.1155/2021/6639701",
+   "abstract": "Rotavirus is a major pathogen responsible for diarrheal disease in calves, resulting in loss of productivity and economy of farmers. However, various facets of diarrheal disease caused by rotavirus in calves in the world are inadequately understood, considering that diarrheal disease caused by rotavirus is a vital health problem in calves that interrupts production benefits with reduced weight gain and increased mortality, and its potential for zoonotic spread. The pathological changes made by rotavirus are almost exclusively limited to the small intestine that leads to diarrhea. It is environmentally distributed worldwide and was extensively studied. Reassortment is one of the important mechanisms for generating genetic diversity of rotaviruses and eventually for viral evolution. So, the primary strategy is to reduce the burden of rotavirus infections by practicing early colostrum's feeding in newborn calves, using vaccine, and improving livestock management. Rotaviruses have a wide host range, infecting many animal species as well as humans. As it was found that certain animal rotavirus strains had antigenic similarities to some human strains, this may be an indication for an animal to play a role as a source of rotavirus infection in humans. Groups A to C have been shown to infect both humans and animals. The most commonly detected strains in both human and animals are G2, G3, G4, and G9, P [6]. Therefore, this review was made to get overview epidemiology status and zoonotic importance of bovine rotavirus.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26646630",
+   "title": "Porcine Reproductive and Respiratory Syndrome Virus (PRRSV): Pathogenesis and Interaction with the Immune System.",
+   "authors": [
+    "Lunney JK",
+    "Fang Y",
+    "Ladinig A",
+    "Chen N",
+    "Li Y",
+    "Rowland B",
+    "Renukaradhya GJ"
+   ],
+   "journal": "Annual review of animal biosciences",
+   "year": 2016,
+   "doi": "10.1146/annurev-animal-022114-111025",
+   "abstract": "This review addresses important issues of porcine reproductive and respiratory syndrome virus (PRRSV) infection, immunity, pathogenesis, and control. Worldwide, PRRS is the most economically important infectious disease of pigs. We highlight the latest information on viral genome structure, pathogenic mechanisms, and host immunity, with a special focus on immune factors that modulate PRRSV infections during the acute and chronic/persistent disease phases. We address genetic control of host resistance and probe effects of PRRSV infection on reproductive traits. A major goal is to identify cellular/viral targets and pathways for designing more effective vaccines and therapeutics. Based on progress in viral reverse genetics, host transcriptomics and genomics, and vaccinology and adjuvant technologies, we have identified new areas for PRRS control and prevention. Finally, we highlight the gaps in our knowledge base and the need for advanced molecular and immune tools to stimulate PRRS research and field applications.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34778883",
+   "title": "The epidemiology of swine influenza.",
+   "authors": [
+    "Li Y",
+    "Robertson I"
+   ],
+   "journal": "Animal diseases",
+   "year": 2021,
+   "doi": "10.1186/s44149-021-00024-6",
+   "abstract": "Globally swine influenza is one of the most important diseases of the pig industry, with various subtypes of swine influenza virus co-circulating in the field. Swine influenza can not only cause large economic losses for the pig industry but can also lead to epidemics or pandemics in the human population. We provide an overview of the pathogenic characteristics of the disease, diagnosis, risk factors for the occurrence on pig farms, impact on pigs and humans and methods to control it. This review is designed to promote understanding of the epidemiology of swine influenza which will benefit the control of the disease in both pigs and humans.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29083117",
+   "title": "Update on Actinobacillus pleuropneumoniae-knowledge, gaps and challenges.",
+   "authors": [
+    "Sassu EL",
+    "Bossé JT",
+    "Tobias TJ",
+    "Gottschalk M",
+    "Langford PR",
+    "Hennig-Pauka I"
+   ],
+   "journal": "Transboundary and emerging diseases",
+   "year": 2018,
+   "doi": "10.1111/tbed.12739",
+   "abstract": "Porcine pleuropneumonia, caused by the bacterial porcine respiratory tract pathogen Actinobacillus pleuropneumoniae, leads to high economic losses in affected swine herds in most countries of the world. Pigs affected by peracute and acute disease suffer from severe respiratory distress with high lethality. The agent was first described in 1957 and, since then, knowledge about the pathogen itself, and its interactions with the host, has increased continuously. This is, in part, due to the fact that experimental infections can be studied in the natural host. However, the fact that most commercial pigs are colonized by this pathogen has hampered the applicability of knowledge gained under experimental conditions. In addition, several factors are involved in development of disease, and these have often been studied individually. In a DISCONTOOLS initiative, members from science, industry and clinics exchanged their expertise and empirical observations and identified the major gaps in knowledge. This review sums up published results and expert opinions, within the fields of pathogenesis, epidemiology, transmission, immune response to infection, as well as the main means of prevention, detection and control. The gaps that still remain to be filled are highlighted, and present as well as future challenges in the control of this disease are addressed.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36098261",
+   "title": "Nontyphoidal Salmonella infections acquired from poultry.",
+   "authors": [
+    "Chousalkar KK",
+    "Willson NL"
+   ],
+   "journal": "Current opinion in infectious diseases",
+   "year": 2022,
+   "doi": "10.1097/QCO.0000000000000876",
+   "abstract": "PURPOSE OF REVIEW: Nontyphoidal Salmonella is a major food safety concern in developed and developing countries. Table eggs are often linked to cases of foodborne gastrointestinal disease. This review is focused on the latest findings on foodborne Salmonella infections acquired from poultry products and their implications on food safety.\nRECENT FINDINGS: Salmonella Enteritidis (SE) and Salmonella Typhimurium (ST) are the predominant Salmonella serovars associated with human Salmonellosis. In Australia, ST is the predominant serovar but SE has been recently detected in some commercial free-range egg flocks. The Salmonella shedding in poultry flocks can be highly variable across different flocks and farms; as a result, the level of product contamination is largely attributed to the flock management. The microevolution in the ST genome after in-vivo passaging may have clinical significance. On farm use of Salmonella vaccines and/or interventions during the processing of the product can influence the bacterial load. The refrigeration of the product also influences the safety of the poultry product.\nSUMMARY: Many interventions are in place for the control of Salmonella from farm to fork. However, given the biosecurity challenges because of the increase in public demand for free-range products, the emergence of Salmonella virulent types and expensive diagnostics, ongoing collaborative efforts from farmers, regulators and public health officials are required.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "17418598",
+   "title": "Assessment of current knowledge of footrot in sheep with particular reference to Dichelobacter nodosus and implications for elimination or control strategies for sheep in Great Britain.",
+   "authors": [
+    "Green LE",
+    "George TR"
+   ],
+   "journal": "Veterinary journal (London, England : 1997)",
+   "year": 2008,
+   "doi": "10.1016/j.tvjl.2007.01.014",
+   "abstract": "A brief summary of the currently accepted aetiology and pathogenesis of footrot and interdigital dermatitis in sheep in Great Britain is presented together with a description of the transmission dynamics of Dichelobacter nodosus. Approaches that may be successful for control or elimination of the disease are proposed and areas of uncertainty in current knowledge highlighted. Research and practice in Great Britain is compared with that from other countries and the proposal made that the environment and/or carrier (non-diseased) sheep may assist persistence of footrot.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29304765",
+   "title": "Anthrax outbreaks in the humans - livestock and wildlife interface areas of Northern Tanzania: a retrospective record review 2006-2016.",
+   "authors": [
+    "Mwakapeje ER",
+    "Høgset S",
+    "Fyumagwa R",
+    "Nonga HE",
+    "Mdegela RH",
+    "Skjerve E"
+   ],
+   "journal": "BMC public health",
+   "year": 2018,
+   "doi": "10.1186/s12889-017-5007-z",
+   "abstract": "BACKGROUND: Anthrax outbreaks in Tanzania have been reported from the human, livestock and wildlife sectors over several years, and is among the notifiable diseases. Despite frequent anthrax outbreaks, there is no comprehensive dataset indicating the magnitude and distribution of the disease in susceptible species. This study is a retrospective review of anthrax outbreaks from the human, livestock, and wildlife surveillance systems from 2006 to 2016. The objectives were to identify hotspot districts, describe anthrax epidemiology in the hotspot areas, evaluate the efficiency of the anthrax response systems and identify potential areas for further observational studies.\nMETHODS: We prepared a spreadsheet template for a retrospective comprehensive record review at different surveillance levels in Tanzania. We captured data elements including demographic characteristics of different species, the name of health facility, and date of anthrax diagnosis. Also, we collected data on the date of specimen collection, species screened, type of laboratory test, laboratory results and the outcome recorded at the end of treatment in humans. After establishing the database, we produced maps in Quantum GIS software and transferred cleaned data to Stata software for supportive statistical analysis.\nRESULTS: Anthrax reported incidences over 4 years in humans were much higher in the Arusha region (7.88/100,000) followed by Kilimanjaro region (6.64/100,000) than other regions of Tanzania Mainland. The health facility based review from hotspot districts in parts of Arusha and Kilimanjaro regions from 2006 to 2016, identified 330 human anthrax cases from the selected health facilities in the two regions. Out of 161 livestock and 57 wildlife specimen tested, 103 and 18 respectively, were positive for anthrax.\nCONCLUSION: This study revealed that there is gross under-reporting in the existing surveillance systems which is an obstacle for estimating a true burden of anthrax in the hotspot districts. Repeated occurrences of anthrax in livestock, wildlife and humans in the same locations at the same time calls for the need to strengthen links and promote inter-disciplinary and multi-sectoral collaboration to enhance prevention and control measures under a One Health approach.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
     "Review"
    ]
   }
@@ -51330,6 +51769,2262 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Owing to the lack of an appropriate cell culture system for in vitro propagation of the virus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30961998-1-en",
+   "translationKey": "vet-30961998-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which serologic approach is diagnostic for canine leptospirosis?",
+   "options": [
+    "A single rapid test at any time",
+    "Paired acute and convalescent microscopic agglutination tests (MAT)",
+    "A blood smear",
+    "Urine culture on blood agar"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "A rise between paired acute and convalescent MAT titers confirms leptospirosis; PCR on blood/urine helps early.",
+   "shortExplanation": "Paired MAT.",
+   "pmid": "30961998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Paired acute and convalescent microscopic agglutination test (MAT) are diagnostic for leptospirosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30961998-1-es",
+   "translationKey": "vet-30961998-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué enfoque serológico es diagnóstico de leptospirosis canina?",
+   "options": [
+    "Un solo test rápido en cualquier momento",
+    "Pruebas de aglutinación microscópica (MAT) pareadas, aguda y convaleciente",
+    "Un frotis de sangre",
+    "Urocultivo en agar sangre"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Un aumento entre MAT pareadas aguda y convaleciente confirma la leptospirosis; la PCR en sangre/orina ayuda al inicio.",
+   "shortExplanation": "MAT pareada.",
+   "pmid": "30961998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Paired acute and convalescent microscopic agglutination test (MAT) are diagnostic for leptospirosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30961998-2-en",
+   "translationKey": "vet-30961998-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which samples are useful for PCR diagnosis of leptospirosis in dogs?",
+   "options": [
+    "Blood and/or urine",
+    "Hair",
+    "Saliva only",
+    "Nail clippings"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Leptospires are in blood early and later shed in urine, so PCR on both samples is valuable.",
+   "shortExplanation": "Blood and urine.",
+   "pmid": "30961998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PCR performed on blood and/or urine can be a valuable tool",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30961998-2-es",
+   "translationKey": "vet-30961998-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué muestras sirven para el diagnóstico por PCR de leptospirosis en perros?",
+   "options": [
+    "Sangre y/u orina",
+    "Pelo",
+    "Solo saliva",
+    "Recortes de uñas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las leptospiras están en sangre al inicio y luego se eliminan por orina, por eso la PCR en ambas muestras es útil.",
+   "shortExplanation": "Sangre y orina.",
+   "pmid": "30961998",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PCR performed on blood and/or urine can be a valuable tool",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25747699-1-en",
+   "translationKey": "vet-25747699-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Bordetella bronchiseptica mainly causes which kind of disease in dogs?",
+   "options": [
+    "Skin disease",
+    "Diarrhea",
+    "Respiratory disease ('kennel cough')",
+    "Kidney failure"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "B. bronchiseptica is a classic agent of canine infectious respiratory disease (kennel cough).",
+   "shortExplanation": "Respiratory.",
+   "pmid": "25747699",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bordetella bronchiseptica (Bb) has long been causally associated with respiratory disease in dogs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25747699-1-es",
+   "translationKey": "vet-25747699-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Bordetella bronchiseptica causa principalmente ¿qué tipo de enfermedad en perros?",
+   "options": [
+    "Enfermedad de la piel",
+    "Diarrea",
+    "Enfermedad respiratoria ('tos de las perreras')",
+    "Insuficiencia renal"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "B. bronchiseptica es un agente clásico de la enfermedad respiratoria infecciosa canina (tos de las perreras).",
+   "shortExplanation": "Respiratoria.",
+   "pmid": "25747699",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bordetella bronchiseptica (Bb) has long been causally associated with respiratory disease in dogs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25747699-2-en",
+   "translationKey": "vet-25747699-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which routes are used for Bordetella bronchiseptica vaccines in dogs?",
+   "options": [
+    "Only topical on the skin",
+    "Only in drinking water",
+    "Only by ear drops",
+    "Parenteral, intranasal and oral"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Parenteral and intranasal vaccines have been used since the late 1970s–80s, and an oral vaccine became available more recently.",
+   "shortExplanation": "Injectable, intranasal, oral.",
+   "pmid": "25747699",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Parenteral and intranasal vaccines for this pathogen have been in common use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25747699-2-es",
+   "translationKey": "vet-25747699-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué vías se usan para las vacunas contra Bordetella bronchiseptica en perros?",
+   "options": [
+    "Solo tópica en la piel",
+    "Solo en el agua de bebida",
+    "Solo gotas óticas",
+    "Parenteral, intranasal y oral"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las vacunas parenterales e intranasales se usan desde fines de los 70–80, y más recientemente existe una oral.",
+   "shortExplanation": "Inyectable, intranasal, oral.",
+   "pmid": "25747699",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Parenteral and intranasal vaccines for this pathogen have been in common use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16594606-1-en",
+   "translationKey": "vet-16594606-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which clinical syndromes are commonly associated with Lyme disease in dogs?",
+   "options": [
+    "Polyarthritis and glomerulopathy",
+    "Pneumonia and diarrhea",
+    "Blindness and deafness",
+    "Skin tumors"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Canine Lyme disease (Borrelia burgdorferi) is linked with polyarthritis and protein-losing glomerulopathy.",
+   "shortExplanation": "Joints and kidneys.",
+   "pmid": "16594606",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Clinical syndromes known to commonly be associated with canine Lyme disease include polyarthritis and glomerulopathy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16594606-1-es",
+   "translationKey": "vet-16594606-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué síndromes clínicos se asocian con frecuencia a la enfermedad de Lyme en perros?",
+   "options": [
+    "Poliartritis y glomerulopatía",
+    "Neumonía y diarrea",
+    "Ceguera y sordera",
+    "Tumores de piel"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La enfermedad de Lyme canina (Borrelia burgdorferi) se vincula con poliartritis y glomerulopatía con pérdida de proteínas.",
+   "shortExplanation": "Articulaciones y riñón.",
+   "pmid": "16594606",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Clinical syndromes known to commonly be associated with canine Lyme disease include polyarthritis and glomerulopathy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16594606-2-en",
+   "translationKey": "vet-16594606-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What does a positive Lyme serology in a healthy dog mean?",
+   "options": [
+    "The dog definitely has Lyme disease",
+    "The dog was vaccinated against rabies",
+    "Exposure to B. burgdorferi, not proof of illness",
+    "The dog is immune to ticks"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Serology documents exposure; most seropositive dogs never get sick, so screening can lead to overdiagnosis.",
+   "shortExplanation": "Exposure only.",
+   "pmid": "16594606",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Serological test results can be used to document exposure to B. burgdorferi but not prove illness",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16594606-2-es",
+   "translationKey": "vet-16594606-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué significa una serología de Lyme positiva en un perro sano?",
+   "options": [
+    "Que tiene enfermedad de Lyme seguro",
+    "Que fue vacunado contra la rabia",
+    "Exposición a B. burgdorferi, no prueba de enfermedad",
+    "Que es inmune a las garrapatas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La serología documenta exposición; la mayoría de los perros seropositivos nunca enferma, y el tamizaje puede llevar a sobrediagnóstico.",
+   "shortExplanation": "Solo exposición.",
+   "pmid": "16594606",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Serological test results can be used to document exposure to B. burgdorferi but not prove illness",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16594606-3-en",
+   "translationKey": "vet-16594606-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Which antibiotic is generally used for dogs with clinical Lyme disease?",
+   "options": [
+    "Metronidazole",
+    "Doxycycline",
+    "Penicillin G",
+    "Enrofloxacin"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Seropositive dogs with compatible clinical abnormalities are generally treated with doxycycline for one month.",
+   "shortExplanation": "Doxycycline.",
+   "pmid": "16594606",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "generally are treated with doxycycline (10 mg/kg q24h for 1 month)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16594606-3-es",
+   "translationKey": "vet-16594606-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué antibiótico se usa en general en perros con enfermedad de Lyme clínica?",
+   "options": [
+    "Metronidazol",
+    "Doxiciclina",
+    "Penicilina G",
+    "Enrofloxacina"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los perros seropositivos con alteraciones clínicas compatibles se tratan en general con doxiciclina durante un mes.",
+   "shortExplanation": "Doxiciclina.",
+   "pmid": "16594606",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "generally are treated with doxycycline (10 mg/kg q24h for 1 month)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35232714-1-en",
+   "translationKey": "vet-35232714-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Feline calicivirus is one of the most common viral pathogens of which animal?",
+   "options": [
+    "Domestic cats",
+    "Dogs",
+    "Cattle",
+    "Chickens"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "FCV is among the most common viruses of domestic cats worldwide.",
+   "shortExplanation": "Cats.",
+   "pmid": "35232714",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feline Calicivirus (FCV) is one of the most common viral pathogens in domestic cats worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35232714-1-es",
+   "translationKey": "vet-35232714-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "El calicivirus felino es uno de los virus más comunes de ¿qué animal?",
+   "options": [
+    "Gatos domésticos",
+    "Perros",
+    "Bovinos",
+    "Gallinas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El FCV está entre los virus más comunes de los gatos domésticos en todo el mundo.",
+   "shortExplanation": "Gatos.",
+   "pmid": "35232714",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feline Calicivirus (FCV) is one of the most common viral pathogens in domestic cats worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35232714-2-en",
+   "translationKey": "vet-35232714-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "In a Swiss study, which signs were more associated with feline calicivirus than respiratory disease?",
+   "options": [
+    "Vomiting and jaundice",
+    "Seizures",
+    "Oral ulcers, salivation and gingivitis-stomatitis",
+    "Hair loss"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Oral ulcerations, salivation and gingivostomatitis were more often linked to FCV than upper respiratory signs.",
+   "shortExplanation": "Oral lesions.",
+   "pmid": "35232714",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "oral ulcerations, salivation and gingivitis-stomatitis were more commonly associated with FCV infection than upper respiratory tract disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35232714-2-es",
+   "translationKey": "vet-35232714-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "En un estudio suizo, ¿qué signos se asociaron más al calicivirus felino que la enfermedad respiratoria?",
+   "options": [
+    "Vómitos e ictericia",
+    "Convulsiones",
+    "Úlceras orales, salivación y gingivoestomatitis",
+    "Caída del pelo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las úlceras orales, la salivación y la gingivoestomatitis se vincularon más al FCV que los signos respiratorios altos.",
+   "shortExplanation": "Lesiones orales.",
+   "pmid": "35232714",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "oral ulcerations, salivation and gingivitis-stomatitis were more commonly associated with FCV infection than upper respiratory tract disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35232714-3-en",
+   "translationKey": "vet-35232714-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What makes feline calicivirus hard to control?",
+   "options": [
+    "It only infects kittens",
+    "Its high mutation rate and genetic plasticity",
+    "It is a large DNA virus",
+    "It has no vaccine at all"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "FCV's high mutagenesis and plasticity challenge diagnosis, treatment and vaccination.",
+   "shortExplanation": "High variability.",
+   "pmid": "35232714",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The highly mutagenic nature of FCV and its high genetic plasticity enable the virus to successfully survive in the feline population",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-35232714-3-es",
+   "translationKey": "vet-35232714-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué hace difícil controlar el calicivirus felino?",
+   "options": [
+    "Solo infecta gatitos",
+    "Su alta tasa de mutación y plasticidad genética",
+    "Es un virus ADN grande",
+    "No existe ninguna vacuna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La alta mutagénesis y plasticidad del FCV complican el diagnóstico, el tratamiento y la vacunación.",
+   "shortExplanation": "Alta variabilidad.",
+   "pmid": "35232714",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The highly mutagenic nature of FCV and its high genetic plasticity enable the virus to successfully survive in the feline population",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17296160-1-en",
+   "translationKey": "vet-17296160-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Feline herpesvirus-1 is an important cause of which disease in cats?",
+   "options": [
+    "Kidney stones",
+    "Heart disease",
+    "Diabetes",
+    "Upper respiratory and eye disease"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "FeHV-1 causes acute upper respiratory and ocular disease, and is increasingly linked with chronic eye and skin lesions.",
+   "shortExplanation": "Respiratory and eye.",
+   "pmid": "17296160",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "FeHV-1 is an important cause of acute upper respiratory tract and ocular disease in cats",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17296160-1-es",
+   "translationKey": "vet-17296160-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "El herpesvirus felino 1 es una causa importante de ¿qué enfermedad en gatos?",
+   "options": [
+    "Cálculos renales",
+    "Cardiopatía",
+    "Diabetes",
+    "Enfermedad respiratoria alta y ocular"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El FeHV-1 causa enfermedad respiratoria alta y ocular aguda, y cada vez se lo vincula más con lesiones oculares y cutáneas crónicas.",
+   "shortExplanation": "Respiratoria y ocular.",
+   "pmid": "17296160",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "FeHV-1 is an important cause of acute upper respiratory tract and ocular disease in cats",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17296160-2-en",
+   "translationKey": "vet-17296160-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Where does feline herpesvirus-1 remain latent?",
+   "options": [
+    "The trigeminal ganglion",
+    "The liver",
+    "The bone marrow",
+    "The kidneys"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Recovered cats become latent carriers with periodic reactivation (often after stress); latency is mainly in the trigeminal ganglion.",
+   "shortExplanation": "Trigeminal ganglion.",
+   "pmid": "17296160",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary site of latency is the trigeminal ganglion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17296160-2-es",
+   "translationKey": "vet-17296160-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Dónde permanece latente el herpesvirus felino 1?",
+   "options": [
+    "En el ganglio trigémino",
+    "En el hígado",
+    "En la médula ósea",
+    "En los riñones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los gatos recuperados quedan como portadores latentes con reactivaciones periódicas (a menudo por estrés); la latencia es sobre todo en el ganglio trigémino.",
+   "shortExplanation": "Ganglio trigémino.",
+   "pmid": "17296160",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary site of latency is the trigeminal ganglion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17296160-3-en",
+   "translationKey": "vet-17296160-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What do current feline herpesvirus vaccines achieve?",
+   "options": [
+    "They prevent infection completely",
+    "They cure latent infection",
+    "They protect against disease but not against infection",
+    "They have no effect"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FeHV-1 vaccines reduce disease (and possibly shedding) but do not prevent infection.",
+   "shortExplanation": "Disease, not infection.",
+   "pmid": "17296160",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "protect reasonably well against disease but not infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17296160-3-es",
+   "translationKey": "vet-17296160-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué logran las vacunas actuales contra el herpesvirus felino?",
+   "options": [
+    "Previenen por completo la infección",
+    "Curan la infección latente",
+    "Protegen contra la enfermedad pero no contra la infección",
+    "No tienen efecto"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las vacunas contra FeHV-1 reducen la enfermedad (y quizá la excreción) pero no evitan la infección.",
+   "shortExplanation": "Enfermedad, no infección.",
+   "pmid": "17296160",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "protect reasonably well against disease but not infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-1-en",
+   "translationKey": "vet-19481033-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "How is feline panleukopenia virus transmitted?",
+   "options": [
+    "By mosquito bites",
+    "By the fecal-oral route",
+    "Only through scratches",
+    "By sneezing only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "FPV spreads fecal-orally, often indirectly via fomites such as shoes and clothing, so indoor cats are also at risk.",
+   "shortExplanation": "Fecal-oral.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transmission occurs via the faecal-oral route",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-1-es",
+   "translationKey": "vet-19481033-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Cómo se transmite el virus de la panleucopenia felina?",
+   "options": [
+    "Por picaduras de mosquito",
+    "Por vía fecal-oral",
+    "Solo por arañazos",
+    "Solo por estornudos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El VPF se transmite por vía fecal-oral, muchas veces de forma indirecta con fómites como zapatos y ropa, por lo que los gatos de interior también corren riesgo.",
+   "shortExplanation": "Fecal-oral.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transmission occurs via the faecal-oral route",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-2-en",
+   "translationKey": "vet-19481033-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which cats should be vaccinated against feline panleukopenia?",
+   "options": [
+    "Only outdoor cats",
+    "Only breeding queens",
+    "All cats, including indoor cats",
+    "No cats; there is no vaccine"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Because the virus is carried on fomites and survives for months, all cats—including indoor ones—should be vaccinated.",
+   "shortExplanation": "All cats.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "All cats - including indoor cats - should be vaccinated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-2-es",
+   "translationKey": "vet-19481033-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué gatos deben vacunarse contra la panleucopenia felina?",
+   "options": [
+    "Solo los que salen",
+    "Solo las gatas reproductoras",
+    "Todos, incluidos los de interior",
+    "Ninguno; no hay vacuna"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Como el virus viaja en fómites y sobrevive meses, todos los gatos, incluidos los de interior, deben vacunarse.",
+   "shortExplanation": "Todos.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "All cats - including indoor cats - should be vaccinated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-3-en",
+   "translationKey": "vet-19481033-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "How lethal is feline panleukopenia in kittens?",
+   "options": [
+    "Mortality can exceed 90%",
+    "It is never fatal",
+    "About 1% mortality",
+    "It only causes mild colds"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Kittens are most susceptible, with mortality above 90%; supportive care lowers mortality.",
+   "shortExplanation": ">90%.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mortality rates are high - over 90% in kittens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-3-es",
+   "translationKey": "vet-19481033-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tan letal es la panleucopenia felina en gatitos?",
+   "options": [
+    "La mortalidad puede superar el 90%",
+    "Nunca es mortal",
+    "Alrededor de 1% de mortalidad",
+    "Solo causa resfríos leves"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los gatitos son los más susceptibles, con mortalidad mayor al 90%; el tratamiento de sostén la reduce.",
+   "shortExplanation": ">90%.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mortality rates are high - over 90% in kittens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-4-en",
+   "translationKey": "vet-19481033-4",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which disinfectant is effective against feline panleukopenia virus?",
+   "options": [
+    "Plain soap",
+    "70% ethanol only",
+    "Quaternary ammonium only",
+    "Sodium hypochlorite (bleach)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "FPV resists many disinfectants; bleach, peracetic acid, formaldehyde or sodium hydroxide are effective.",
+   "shortExplanation": "Bleach.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Disinfectants containing sodium hypochlorite (bleach), peracetic acid, formaldehyde or sodium hydroxide are effective",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-4-es",
+   "translationKey": "vet-19481033-4",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué desinfectante es eficaz contra el virus de la panleucopenia felina?",
+   "options": [
+    "Jabón común",
+    "Solo etanol 70%",
+    "Solo amonio cuaternario",
+    "Hipoclorito de sodio (lavandina)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El VPF resiste muchos desinfectantes; son eficaces la lavandina, el ácido peracético, el formaldehído o el hidróxido de sodio.",
+   "shortExplanation": "Lavandina.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Disinfectants containing sodium hypochlorite (bleach), peracetic acid, formaldehyde or sodium hydroxide are effective",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-5-en",
+   "translationKey": "vet-19481033-5",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why is serology not recommended for diagnosing feline panleukopenia?",
+   "options": [
+    "It is too expensive",
+    "It only works in dogs",
+    "It does not distinguish infection from vaccination",
+    "It requires a biopsy"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FPV diagnosis uses fecal antigen tests or PCR; antibodies cannot separate vaccination from infection.",
+   "shortExplanation": "Vaccine vs. infection.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Serological tests are not recommended, as they do not distinguish between infection and vaccination",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19481033-5-es",
+   "translationKey": "vet-19481033-5",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué no se recomienda la serología para diagnosticar panleucopenia felina?",
+   "options": [
+    "Es muy cara",
+    "Solo sirve en perros",
+    "No distingue infección de vacunación",
+    "Requiere biopsia"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El diagnóstico usa antígeno en materia fecal o PCR; los anticuerpos no separan vacunación de infección.",
+   "shortExplanation": "Vacuna vs. infección.",
+   "pmid": "19481033",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Serological tests are not recommended, as they do not distinguish between infection and vaccination",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30005701-1-en",
+   "translationKey": "vet-30005701-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "What is a proven tool to prevent human rabies at its source?",
+   "options": [
+    "Antibiotics for dogs",
+    "Removing all cats",
+    "Wearing masks",
+    "Mass vaccination of dogs"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Mass dog vaccination prevents rabies in dogs and therefore in people.",
+   "shortExplanation": "Vaccinate dogs.",
+   "pmid": "30005701",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The mass vaccination of dogs is a proven tool for rabies prevention",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30005701-1-es",
+   "translationKey": "vet-30005701-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Qué herramienta probada previene la rabia humana en su origen?",
+   "options": [
+    "Antibióticos para perros",
+    "Eliminar a todos los gatos",
+    "Usar barbijos",
+    "La vacunación masiva de perros"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La vacunación masiva de perros previene la rabia en perros y, por lo tanto, en personas.",
+   "shortExplanation": "Vacunar perros.",
+   "pmid": "30005701",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The mass vaccination of dogs is a proven tool for rabies prevention",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30005701-2-en",
+   "translationKey": "vet-30005701-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "How does oral rabies vaccination reach free-roaming dogs?",
+   "options": [
+    "Through drinking water in rivers",
+    "In an attractive bait they eat",
+    "By spraying the air",
+    "Through collars"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Oral vaccines are placed in baits for free-ranging dogs that are hard to catch for injection.",
+   "shortExplanation": "Baits.",
+   "pmid": "30005701",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccines are included within an attractive bait for oral consumption by free-ranging dogs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30005701-2-es",
+   "translationKey": "vet-30005701-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Cómo llega la vacuna oral antirrábica a los perros callejeros?",
+   "options": [
+    "Por el agua de los ríos",
+    "En un cebo atractivo que comen",
+    "Rociando el aire",
+    "Mediante collares"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las vacunas orales se colocan en cebos para perros sueltos difíciles de capturar para inyectarlos.",
+   "shortExplanation": "Cebos.",
+   "pmid": "30005701",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccines are included within an attractive bait for oral consumption by free-ranging dogs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21870348-1-en",
+   "translationKey": "vet-21870348-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What is strangles in horses?",
+   "options": [
+    "A highly contagious upper respiratory infection by Streptococcus equi subsp. equi",
+    "A viral skin disease",
+    "A hoof fungus",
+    "A genetic muscle disease"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Strangles causes fever and enlarged submandibular and retropharyngeal lymph nodes that can compromise breathing.",
+   "shortExplanation": "S. equi infection.",
+   "pmid": "21870348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Streptococcus equi subspecies equi (strangles) is a highly contagious upper respiratory infection in horses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21870348-1-es",
+   "translationKey": "vet-21870348-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué es la adenitis equina (papera) en caballos?",
+   "options": [
+    "Una infección respiratoria alta muy contagiosa por Streptococcus equi subsp. equi",
+    "Una enfermedad viral de la piel",
+    "Un hongo del casco",
+    "Una enfermedad muscular genética"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La adenitis causa fiebre y agrandamiento de ganglios submandibulares y retrofaríngeos que puede comprometer la respiración.",
+   "shortExplanation": "Infección por S. equi.",
+   "pmid": "21870348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Streptococcus equi subspecies equi (strangles) is a highly contagious upper respiratory infection in horses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21870348-2-en",
+   "translationKey": "vet-21870348-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What is essential to prevent strangles from recurring on a farm?",
+   "options": [
+    "Vaccinating only foals",
+    "Feeding more hay",
+    "Detecting carrier horses",
+    "Treating all horses with ivermectin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Strict isolation and hygiene control outbreaks, and detecting asymptomatic carriers prevents recurrence.",
+   "shortExplanation": "Find carriers.",
+   "pmid": "21870348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Detection of carriers is essential for preventing disease recurrence on a farm",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21870348-2-es",
+   "translationKey": "vet-21870348-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué es esencial para evitar que la adenitis equina reaparezca en un establecimiento?",
+   "options": [
+    "Vacunar solo potrillos",
+    "Dar más heno",
+    "Detectar caballos portadores",
+    "Tratar a todos con ivermectina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El aislamiento estricto y la higiene controlan los brotes, y detectar portadores asintomáticos evita las recurrencias.",
+   "shortExplanation": "Detectar portadores.",
+   "pmid": "21870348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Detection of carriers is essential for preventing disease recurrence on a farm",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21870348-3-en",
+   "translationKey": "vet-21870348-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Which is a recognized complication of strangles?",
+   "options": [
+    "Laminitis only",
+    "Colic from sand",
+    "Tetanus",
+    "Purpura hemorrhagica"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Strangles complications include immune-mediated purpura hemorrhagica and metastatic abscesses ('bastard strangles').",
+   "shortExplanation": "Purpura hemorrhagica.",
+   "pmid": "21870348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Complications include purpura hemorrhagica and metastatic abscessation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21870348-3-es",
+   "translationKey": "vet-21870348-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Cuál es una complicación reconocida de la adenitis equina?",
+   "options": [
+    "Solo laminitis",
+    "Cólico por arena",
+    "Tétanos",
+    "Púrpura hemorrágica"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las complicaciones incluyen la púrpura hemorrágica inmunomediada y los abscesos metastásicos ('papera bastarda').",
+   "shortExplanation": "Púrpura hemorrágica.",
+   "pmid": "21870348",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Complications include purpura hemorrhagica and metastatic abscessation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38497217-1-en",
+   "translationKey": "vet-38497217-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What are the most serious consequences of equine herpesvirus-1 infection?",
+   "options": [
+    "Skin warts and hair loss",
+    "Abortion and myeloencephalopathy",
+    "Hoof cracks",
+    "Dental disease"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "EHV-1 is highly prevalent in horses; its most serious outcomes are abortion and neurologic myeloencephalopathy (EHM).",
+   "shortExplanation": "Abortion and EHM.",
+   "pmid": "38497217",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most serious clinical consequences of infection are abortion and equine herpesvirus myeloencephalopathy (EHM)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38497217-1-es",
+   "translationKey": "vet-38497217-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuáles son las consecuencias más graves de la infección por herpesvirus equino 1?",
+   "options": [
+    "Verrugas y caída de pelo",
+    "Aborto y mieloencefalopatía",
+    "Grietas en el casco",
+    "Enfermedad dental"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El EHV-1 es muy prevalente en equinos; sus consecuencias más graves son el aborto y la mieloencefalopatía neurológica (EHM).",
+   "shortExplanation": "Aborto y EHM.",
+   "pmid": "38497217",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most serious clinical consequences of infection are abortion and equine herpesvirus myeloencephalopathy (EHM)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-15236677-1-en",
+   "translationKey": "vet-15236677-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "How is West Nile virus maintained in nature?",
+   "options": [
+    "In horse-to-horse contact",
+    "In soil",
+    "In mosquito–bird cycles",
+    "In contaminated hay"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "WNV cycles between mosquitoes and birds; horses and humans are occasional (dead-end) hosts.",
+   "shortExplanation": "Mosquitoes and birds.",
+   "pmid": "15236677",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "primarily maintained in nature by transmission cycles between mosquitoes and birds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-15236677-1-es",
+   "translationKey": "vet-15236677-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se mantiene el virus del Nilo Occidental en la naturaleza?",
+   "options": [
+    "Por contacto entre caballos",
+    "En el suelo",
+    "En ciclos mosquito–ave",
+    "En heno contaminado"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El VNO circula entre mosquitos y aves; caballos y humanos son huéspedes ocasionales (terminales).",
+   "shortExplanation": "Mosquitos y aves.",
+   "pmid": "15236677",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "primarily maintained in nature by transmission cycles between mosquitoes and birds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-15236677-2-en",
+   "translationKey": "vet-15236677-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "To which virus family/genus does West Nile virus belong?",
+   "options": [
+    "Flavivirus",
+    "Herpesvirus",
+    "Parvovirus",
+    "Coronavirus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "WNV is a flavivirus closely related to Japanese and St. Louis encephalitis viruses.",
+   "shortExplanation": "Flavivirus.",
+   "pmid": "15236677",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "West Nile virus (WNV) is a flavivirus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-15236677-2-es",
+   "translationKey": "vet-15236677-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿A qué grupo pertenece el virus del Nilo Occidental?",
+   "options": [
+    "Flavivirus",
+    "Herpesvirus",
+    "Parvovirus",
+    "Coronavirus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El VNO es un flavivirus emparentado con los virus de la encefalitis japonesa y de San Luis.",
+   "shortExplanation": "Flavivirus.",
+   "pmid": "15236677",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "West Nile virus (WNV) is a flavivirus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38910032-1-en",
+   "translationKey": "vet-38910032-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Why is tetanus vaccination especially important in horses?",
+   "options": [
+    "Horses are extremely sensitive to tetanus toxin",
+    "Horses cannot get wounds",
+    "Tetanus is a viral disease",
+    "Horses are immune to tetanus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Horses are exquisitely sensitive to the toxin of Clostridium tetani; the toxoid vaccine is highly effective.",
+   "shortExplanation": "Very sensitive.",
+   "pmid": "38910032",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Horses are exquisitely sensitive to tetanus neurotoxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38910032-1-es",
+   "translationKey": "vet-38910032-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Por qué la vacuna antitetánica es especialmente importante en caballos?",
+   "options": [
+    "Los caballos son muy sensibles a la toxina tetánica",
+    "Los caballos no se lastiman",
+    "El tétanos es viral",
+    "Los caballos son inmunes al tétanos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los caballos son extremadamente sensibles a la toxina de Clostridium tetani; la vacuna (toxoide) es muy eficaz.",
+   "shortExplanation": "Muy sensibles.",
+   "pmid": "38910032",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Horses are exquisitely sensitive to tetanus neurotoxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38910032-2-en",
+   "translationKey": "vet-38910032-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "An unvaccinated horse has a deep wound. What tetanus prophylaxis is recommended?",
+   "options": [
+    "Antibiotics only",
+    "Nothing if the wound is clean",
+    "Tetanus toxoid plus tetanus antitoxin at separate sites",
+    "Antitoxin only, never toxoid"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Give toxoid (active) and antitoxin (passive) simultaneously at separate sites, then complete the primary series.",
+   "shortExplanation": "Toxoid + antitoxin.",
+   "pmid": "38910032",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "TT IM and tetanus antitoxin (TAT) 1,500 IU SC should be administered simultaneously at separate sites",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38910032-2-es",
+   "translationKey": "vet-38910032-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Un caballo sin vacunar tiene una herida profunda. ¿Qué profilaxis antitetánica se recomienda?",
+   "options": [
+    "Solo antibióticos",
+    "Nada si la herida está limpia",
+    "Toxoide tetánico más antitoxina en sitios distintos",
+    "Solo antitoxina, nunca toxoide"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Se aplica toxoide (activa) y antitoxina (pasiva) a la vez en sitios distintos, y luego se completa el esquema primario.",
+   "shortExplanation": "Toxoide + antitoxina.",
+   "pmid": "38910032",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "TT IM and tetanus antitoxin (TAT) 1,500 IU SC should be administered simultaneously at separate sites",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32390522-1-en",
+   "translationKey": "vet-32390522-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What causes contagious bovine pleuropneumonia?",
+   "options": [
+    "Mannheimia haemolytica",
+    "Bovine herpesvirus 1",
+    "Pasteurella multocida",
+    "Mycoplasma mycoides subsp. mycoides"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "CBPP, a notifiable disease endemic in sub-Saharan Africa, is caused by Mycoplasma mycoides subsp. mycoides.",
+   "shortExplanation": "M. mycoides.",
+   "pmid": "32390522",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CBPP is caused by Mycoplasma mycoides subsp. mycoides (Mmm)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32390522-1-es",
+   "translationKey": "vet-32390522-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué causa la pleuroneumonía contagiosa bovina?",
+   "options": [
+    "Mannheimia haemolytica",
+    "Herpesvirus bovino 1",
+    "Pasteurella multocida",
+    "Mycoplasma mycoides subsp. mycoides"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La PPCB, de notificación obligatoria y endémica en África subsahariana, es causada por Mycoplasma mycoides subsp. mycoides.",
+   "shortExplanation": "M. mycoides.",
+   "pmid": "32390522",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CBPP is caused by Mycoplasma mycoides subsp. mycoides (Mmm)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32390522-2-en",
+   "translationKey": "vet-32390522-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How is contagious bovine pleuropneumonia acquired?",
+   "options": [
+    "By tick bites",
+    "By inhaling infected aerosol droplets",
+    "By eating contaminated grain",
+    "Through the umbilical cord only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Mmm is inhaled, colonizes bronchioles and alveoli, then invades vessels causing vasculitis.",
+   "shortExplanation": "Aerosols.",
+   "pmid": "32390522",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mmm infection occurs through the inhalation of infected aerosol droplets",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32390522-2-es",
+   "translationKey": "vet-32390522-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se adquiere la pleuroneumonía contagiosa bovina?",
+   "options": [
+    "Por picadura de garrapatas",
+    "Por inhalación de aerosoles infectados",
+    "Por grano contaminado",
+    "Solo por el cordón umbilical"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Mmm se inhala, coloniza bronquiolos y alvéolos y luego invade vasos causando vasculitis.",
+   "shortExplanation": "Aerosoles.",
+   "pmid": "32390522",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mmm infection occurs through the inhalation of infected aerosol droplets",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32390522-3-en",
+   "translationKey": "vet-32390522-3",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Which lung lesion is characteristic of chronic contagious bovine pleuropneumonia?",
+   "options": [
+    "Pulmonary sequestra",
+    "Calcified tubercles",
+    "Hydatid cysts",
+    "Lung tumors"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Acute CBPP shows fibrinous bronchopneumonia and pleural effusion; chronic cases develop pulmonary sequestra.",
+   "shortExplanation": "Sequestra.",
+   "pmid": "32390522",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "pulmonary sequestra in chronic cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32390522-3-es",
+   "translationKey": "vet-32390522-3",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué lesión pulmonar es característica de la pleuroneumonía contagiosa bovina crónica?",
+   "options": [
+    "Secuestros pulmonares",
+    "Tubérculos calcificados",
+    "Quistes hidatídicos",
+    "Tumores pulmonares"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La PPCB aguda muestra bronconeumonía fibrinosa y derrame pleural; los casos crónicos forman secuestros pulmonares.",
+   "shortExplanation": "Secuestros.",
+   "pmid": "32390522",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "pulmonary sequestra in chronic cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30683173-1-en",
+   "translationKey": "vet-30683173-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which bacterium is the major cause of severe pneumonia in bovine respiratory disease?",
+   "options": [
+    "Escherichia coli",
+    "Clostridium perfringens",
+    "Mannheimia haemolytica",
+    "Salmonella Dublin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "M. haemolytica causes severe pneumonia in BRD (shipping fever); leukotoxin is a key virulence factor.",
+   "shortExplanation": "M. haemolytica.",
+   "pmid": "30683173",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mannheimia haemolytica is the major cause of severe pneumonia in bovine respiratory disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30683173-1-es",
+   "translationKey": "vet-30683173-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué bacteria es la principal causa de neumonía grave en la enfermedad respiratoria bovina?",
+   "options": [
+    "Escherichia coli",
+    "Clostridium perfringens",
+    "Mannheimia haemolytica",
+    "Salmonella Dublin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "M. haemolytica causa neumonía grave en la ERB (fiebre del transporte); la leucotoxina es un factor de virulencia clave.",
+   "shortExplanation": "M. haemolytica.",
+   "pmid": "30683173",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mannheimia haemolytica is the major cause of severe pneumonia in bovine respiratory disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30683173-2-en",
+   "translationKey": "vet-30683173-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "What problem did early Mannheimia haemolytica bacterin vaccines have?",
+   "options": [
+    "They caused rabies",
+    "They were ineffective or even enhanced disease",
+    "They were too expensive to make",
+    "They worked only in sheep"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Early bacterins failed or worsened disease, which led to research on leukotoxin and surface antigens for better vaccines.",
+   "shortExplanation": "Ineffective/enhanced.",
+   "pmid": "30683173",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Early M. haemolytica bacterins were either ineffective or even enhanced disease in vaccinated cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30683173-2-es",
+   "translationKey": "vet-30683173-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué problema tuvieron las primeras bacterinas contra Mannheimia haemolytica?",
+   "options": [
+    "Causaban rabia",
+    "Eran ineficaces o incluso agravaban la enfermedad",
+    "Eran muy caras de producir",
+    "Solo funcionaban en ovinos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las primeras bacterinas fallaron o empeoraron la enfermedad, lo que impulsó la investigación de la leucotoxina y antígenos de superficie.",
+   "shortExplanation": "Ineficaces o agravantes.",
+   "pmid": "30683173",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Early M. haemolytica bacterins were either ineffective or even enhanced disease in vaccinated cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17257569-1-en",
+   "translationKey": "vet-17257569-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which disease is caused by bovine herpesvirus 1?",
+   "options": [
+    "Foot-and-mouth disease",
+    "Mastitis",
+    "Bluetongue",
+    "Infectious bovine rhinotracheitis (IBR)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "BoHV-1 causes IBR, abortion, infectious pustular vulvovaginitis and neonatal systemic infection.",
+   "shortExplanation": "IBR.",
+   "pmid": "17257569",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Primary infection is accompanied by various clinical manifestations such as infectious bovine rhinotracheitis, abortion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17257569-1-es",
+   "translationKey": "vet-17257569-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué enfermedad causa el herpesvirus bovino 1?",
+   "options": [
+    "Fiebre aftosa",
+    "Mastitis",
+    "Lengua azul",
+    "Rinotraqueítis infecciosa bovina (IBR)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El BoHV-1 causa IBR, aborto, vulvovaginitis pustular infecciosa e infección sistémica neonatal.",
+   "shortExplanation": "IBR.",
+   "pmid": "17257569",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Primary infection is accompanied by various clinical manifestations such as infectious bovine rhinotracheitis, abortion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17257569-2-en",
+   "translationKey": "vet-17257569-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What is critical for BoHV-1 eradication programs that use vaccination?",
+   "options": [
+    "Differentiating infected from vaccinated animals (DIVA)",
+    "Using antibiotics",
+    "Vaccinating only bulls",
+    "Avoiding all testing"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Marker (DIVA) vaccines allow distinguishing infected from vaccinated cattle; latency and reactivation keep the virus in herds.",
+   "shortExplanation": "DIVA.",
+   "pmid": "17257569",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the differentiation of infected from vaccinated animals is of critical importance to achieve BoHV-1 eradication",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17257569-2-es",
+   "translationKey": "vet-17257569-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué es crítico en los programas de erradicación de BoHV-1 que usan vacunas?",
+   "options": [
+    "Diferenciar animales infectados de vacunados (DIVA)",
+    "Usar antibióticos",
+    "Vacunar solo toros",
+    "Evitar todo análisis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las vacunas marcadas (DIVA) permiten distinguir infectados de vacunados; la latencia y reactivación mantienen el virus en los rodeos.",
+   "shortExplanation": "DIVA.",
+   "pmid": "17257569",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the differentiation of infected from vaccinated animals is of critical importance to achieve BoHV-1 eradication",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-41361675-1-en",
+   "translationKey": "vet-41361675-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What is the most common clinical presentation of listeriosis in ruminants?",
+   "options": [
+    "Diarrhea",
+    "Encephalitis",
+    "Skin lesions",
+    "Lameness"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Encephalitis was most common (about 65% of animals), followed by abortion.",
+   "shortExplanation": "Encephalitis.",
+   "pmid": "41361675",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most common clinical presentation was encephalitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-41361675-1-es",
+   "translationKey": "vet-41361675-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es la presentación clínica más frecuente de la listeriosis en rumiantes?",
+   "options": [
+    "Diarrea",
+    "Encefalitis",
+    "Lesiones de piel",
+    "Cojera"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La encefalitis fue la más frecuente (cerca del 65% de los animales), seguida del aborto.",
+   "shortExplanation": "Encefalitis.",
+   "pmid": "41361675",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most common clinical presentation was encephalitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-41361675-2-en",
+   "translationKey": "vet-41361675-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What did this meta-analysis conclude about silage and listeriosis in ruminants?",
+   "options": [
+    "Silage is proven to be the only source",
+    "Silage prevents listeriosis",
+    "Silage is never involved",
+    "The association with silage should be re-evaluated"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Historical data suggest the classical silage link needs re-evaluation; most outbreaks predate modern genomic typing.",
+   "shortExplanation": "Re-evaluate silage.",
+   "pmid": "41361675",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the association of silage as a source of contamination in ruminants should be re-evaluated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-41361675-2-es",
+   "translationKey": "vet-41361675-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué concluyó este metaanálisis sobre el silo y la listeriosis en rumiantes?",
+   "options": [
+    "Que el silo es la única fuente comprobada",
+    "Que el silo previene la listeriosis",
+    "Que el silo nunca participa",
+    "Que la asociación con el silo debe reevaluarse"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los datos históricos sugieren reevaluar el vínculo clásico con el silo; la mayoría de los brotes es anterior a la tipificación genómica moderna.",
+   "shortExplanation": "Reevaluar el silo.",
+   "pmid": "41361675",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the association of silage as a source of contamination in ruminants should be re-evaluated",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38535842-1-en",
+   "translationKey": "vet-38535842-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "What is the leading cause of illness and death in newborn calves worldwide?",
+   "options": [
+    "Pneumonia",
+    "Broken legs",
+    "Neonatal diarrhea",
+    "Skin infections"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Neonatal calf diarrhea is the leading cause of neonatal morbidity and mortality in calves.",
+   "shortExplanation": "Diarrhea.",
+   "pmid": "38535842",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Neonatal calf diarrhea is the leading cause of neonatal morbidity and mortality globally",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-38535842-1-es",
+   "translationKey": "vet-38535842-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la principal causa de enfermedad y muerte en terneros recién nacidos en el mundo?",
+   "options": [
+    "Neumonía",
+    "Fracturas",
+    "La diarrea neonatal",
+    "Infecciones de piel"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La diarrea neonatal es la principal causa de morbilidad y mortalidad de los terneros recién nacidos.",
+   "shortExplanation": "Diarrea.",
+   "pmid": "38535842",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Neonatal calf diarrhea is the leading cause of neonatal morbidity and mortality globally",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33968359-1-en",
+   "translationKey": "vet-33968359-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which is a key measure to reduce rotavirus diarrhea in calves?",
+   "options": [
+    "Early colostrum feeding",
+    "Giving antibiotics to all calves",
+    "Separating calves from water",
+    "Feeding only grain at birth"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Early colostrum, vaccination and good management reduce rotavirus burden in calves.",
+   "shortExplanation": "Colostrum.",
+   "pmid": "33968359",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "practicing early colostrum's feeding in newborn calves, using vaccine, and improving livestock management",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33968359-1-es",
+   "translationKey": "vet-33968359-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es una medida clave para reducir la diarrea por rotavirus en terneros?",
+   "options": [
+    "Dar calostro temprano",
+    "Dar antibióticos a todos los terneros",
+    "Quitarles el agua",
+    "Dar solo grano al nacer"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El calostro temprano, la vacunación y el buen manejo reducen la carga de rotavirus en terneros.",
+   "shortExplanation": "Calostro.",
+   "pmid": "33968359",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "practicing early colostrum's feeding in newborn calves, using vaccine, and improving livestock management",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33968359-2-en",
+   "translationKey": "vet-33968359-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which mechanism is important for generating rotavirus genetic diversity, including animal–human strains?",
+   "options": [
+    "Binary fission",
+    "Conjugation",
+    "Reassortment of genome segments",
+    "Sporulation"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Rotavirus has a segmented genome; reassortment generates diversity and may allow animal strains to reach humans.",
+   "shortExplanation": "Reassortment.",
+   "pmid": "33968359",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Reassortment is one of the important mechanisms for generating genetic diversity of rotaviruses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33968359-2-es",
+   "translationKey": "vet-33968359-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mecanismo es importante para generar diversidad genética en los rotavirus, incluidas cepas animal–humano?",
+   "options": [
+    "Fisión binaria",
+    "Conjugación",
+    "Reordenamiento de segmentos del genoma",
+    "Esporulación"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El rotavirus tiene genoma segmentado; el reordenamiento genera diversidad y puede permitir que cepas animales lleguen a humanos.",
+   "shortExplanation": "Reordenamiento.",
+   "pmid": "33968359",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Reassortment is one of the important mechanisms for generating genetic diversity of rotaviruses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26646630-1-en",
+   "translationKey": "vet-26646630-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which is considered the most economically important infectious disease of pigs worldwide?",
+   "options": [
+    "Swine erysipelas",
+    "Porcine reproductive and respiratory syndrome (PRRS)",
+    "Tetanus",
+    "Ringworm"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "PRRS virus affects reproduction and respiration and causes the largest economic losses in swine.",
+   "shortExplanation": "PRRS.",
+   "pmid": "26646630",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Worldwide, PRRS is the most economically important infectious disease of pigs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26646630-1-es",
+   "translationKey": "vet-26646630-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué enfermedad infecciosa porcina se considera la de mayor importancia económica en el mundo?",
+   "options": [
+    "Erisipela porcina",
+    "Síndrome reproductivo y respiratorio porcino (PRRS)",
+    "Tétanos",
+    "Tiña"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El virus del PRRS afecta la reproducción y la respiración y causa las mayores pérdidas económicas en porcinos.",
+   "shortExplanation": "PRRS.",
+   "pmid": "26646630",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Worldwide, PRRS is the most economically important infectious disease of pigs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34778883-1-en",
+   "translationKey": "vet-34778883-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Why does swine influenza matter for human health?",
+   "options": [
+    "Pigs cannot catch influenza",
+    "It only affects pork taste",
+    "It is a bacterial disease",
+    "It can lead to epidemics or pandemics in humans"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Multiple swine influenza subtypes co-circulate; pigs can generate strains with epidemic or pandemic potential for people.",
+   "shortExplanation": "Pandemic risk.",
+   "pmid": "34778883",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can also lead to epidemics or pandemics in the human population",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34778883-1-es",
+   "translationKey": "vet-34778883-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la influenza porcina importa para la salud humana?",
+   "options": [
+    "Los cerdos no se contagian influenza",
+    "Solo afecta el sabor del cerdo",
+    "Es una enfermedad bacteriana",
+    "Puede originar epidemias o pandemias en humanos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Varios subtipos de influenza porcina cocirculan; los cerdos pueden generar cepas con potencial epidémico o pandémico.",
+   "shortExplanation": "Riesgo pandémico.",
+   "pmid": "34778883",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can also lead to epidemics or pandemics in the human population",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29083117-1-en",
+   "translationKey": "vet-29083117-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which bacterium causes porcine pleuropneumonia?",
+   "options": [
+    "Actinobacillus pleuropneumoniae",
+    "Streptococcus suis",
+    "Erysipelothrix rhusiopathiae",
+    "Lawsonia intracellularis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "A. pleuropneumoniae causes porcine pleuropneumonia with severe respiratory distress and high lethality in acute cases.",
+   "shortExplanation": "A. pleuropneumoniae.",
+   "pmid": "29083117",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Porcine pleuropneumonia, caused by the bacterial porcine respiratory tract pathogen Actinobacillus pleuropneumoniae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29083117-1-es",
+   "translationKey": "vet-29083117-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué bacteria causa la pleuroneumonía porcina?",
+   "options": [
+    "Actinobacillus pleuropneumoniae",
+    "Streptococcus suis",
+    "Erysipelothrix rhusiopathiae",
+    "Lawsonia intracellularis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "A. pleuropneumoniae causa pleuroneumonía porcina con dificultad respiratoria grave y alta letalidad en casos agudos.",
+   "shortExplanation": "A. pleuropneumoniae.",
+   "pmid": "29083117",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Porcine pleuropneumonia, caused by the bacterial porcine respiratory tract pathogen Actinobacillus pleuropneumoniae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36098261-1-en",
+   "translationKey": "vet-36098261-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Which poultry product is often linked to foodborne Salmonella?",
+   "options": [
+    "Feathers",
+    "Chicken feed bags",
+    "Table eggs",
+    "Eggshell-free pasta"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Nontyphoidal Salmonella from poultry, often via table eggs, is a major food safety concern.",
+   "shortExplanation": "Eggs.",
+   "pmid": "36098261",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Table eggs are often linked to cases of foodborne gastrointestinal disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36098261-1-es",
+   "translationKey": "vet-36098261-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué producto avícola se vincula a menudo con Salmonella transmitida por alimentos?",
+   "options": [
+    "Las plumas",
+    "Las bolsas de alimento",
+    "Los huevos de mesa",
+    "Pastas sin huevo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La Salmonella no tifoidea de origen avícola, a menudo por huevos, es un problema importante de inocuidad.",
+   "shortExplanation": "Huevos.",
+   "pmid": "36098261",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Table eggs are often linked to cases of foodborne gastrointestinal disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36098261-2-en",
+   "translationKey": "vet-36098261-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which Salmonella serovars predominate in human salmonellosis from poultry?",
+   "options": [
+    "Enteritidis and Typhimurium",
+    "Typhi and Paratyphi",
+    "Dublin and Gallinarum",
+    "Choleraesuis and Pullorum"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "S. Enteritidis and S. Typhimurium are the predominant serovars in human salmonellosis.",
+   "shortExplanation": "Enteritidis and Typhimurium.",
+   "pmid": "36098261",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Salmonella Enteritidis (SE) and Salmonella Typhimurium (ST) are the predominant Salmonella serovars associated with human Salmonellosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-36098261-2-es",
+   "translationKey": "vet-36098261-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué serovariedades de Salmonella predominan en la salmonelosis humana de origen avícola?",
+   "options": [
+    "Enteritidis y Typhimurium",
+    "Typhi y Paratyphi",
+    "Dublin y Gallinarum",
+    "Choleraesuis y Pullorum"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "S. Enteritidis y S. Typhimurium son las serovariedades predominantes en la salmonelosis humana.",
+   "shortExplanation": "Enteritidis y Typhimurium.",
+   "pmid": "36098261",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Salmonella Enteritidis (SE) and Salmonella Typhimurium (ST) are the predominant Salmonella serovars associated with human Salmonellosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17418598-1-en",
+   "translationKey": "vet-17418598-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which bacterium is the key agent of footrot in sheep?",
+   "options": [
+    "Clostridium chauvoei",
+    "Dichelobacter nodosus",
+    "Brucella ovis",
+    "Listeria monocytogenes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Footrot in sheep is caused by Dichelobacter nodosus; carrier sheep and the environment may help it persist.",
+   "shortExplanation": "D. nodosus.",
+   "pmid": "17418598",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with particular reference to Dichelobacter nodosus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17418598-1-es",
+   "translationKey": "vet-17418598-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué bacteria es el agente clave del pietín en ovinos?",
+   "options": [
+    "Clostridium chauvoei",
+    "Dichelobacter nodosus",
+    "Brucella ovis",
+    "Listeria monocytogenes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El pietín ovino es causado por Dichelobacter nodosus; los portadores y el ambiente pueden ayudar a que persista.",
+   "shortExplanation": "D. nodosus.",
+   "pmid": "17418598",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with particular reference to Dichelobacter nodosus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29304765-1-en",
+   "translationKey": "vet-29304765-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What did the Tanzanian anthrax review recommend?",
+   "options": [
+    "Ending livestock vaccination",
+    "Treating anthrax only in humans",
+    "Multisectoral One Health collaboration between human, livestock and wildlife sectors",
+    "Ignoring wildlife cases"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Anthrax recurred simultaneously in livestock, wildlife and people, with under-reporting; One Health collaboration was recommended.",
+   "shortExplanation": "One Health.",
+   "pmid": "29304765",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Repeated occurrences of anthrax in livestock, wildlife and humans in the same locations at the same time calls for the need to strengthen links",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29304765-1-es",
+   "translationKey": "vet-29304765-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué recomendó la revisión sobre ántrax en Tanzania?",
+   "options": [
+    "Suspender la vacunación del ganado",
+    "Tratar el ántrax solo en humanos",
+    "Colaboración multisectorial Una Salud entre sectores humano, ganadero y de fauna",
+    "Ignorar los casos en fauna"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El ántrax reapareció a la vez en ganado, fauna y personas, con subregistro; se recomendó colaboración Una Salud.",
+   "shortExplanation": "Una Salud.",
+   "pmid": "29304765",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Repeated occurrences of anthrax in livestock, wildlife and humans in the same locations at the same time calls for the need to strengthen links",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   }
