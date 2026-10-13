@@ -382,7 +382,8 @@ final class QuestionBankStoreTests: XCTestCase {
         let bank = try SeedQuestionBank.load()
         let shown = bank.categories(in: .es, minimumQuestions: 20)
         XCTAssertTrue(shown.contains(.microbiology))
-        XCTAssertFalse(shown.contains(.foodAnalysis))
+        XCTAssertTrue(shown.contains(.foodAnalysis))
+        XCTAssertFalse(shown.contains(.neuroscience))
         XCTAssertTrue(shown.allSatisfy { bank.questions(in: .es, category: $0).count >= 20 })
     }
 }
