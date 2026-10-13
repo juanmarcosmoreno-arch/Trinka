@@ -1,5 +1,5 @@
 {
- "version": 39,
+ "version": 40,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -14242,6 +14242,354 @@
    "abstract": "Whether subclinical shedding of canine parvovirus (CPV) by cats might contribute to the epidemiology of canine CPV infections, particularly in facilities housing both cats and dogs, requires clarification. Conflicting results are reported to date. Using conventional PCR (cPCR) to amplify the VP2 gene, shedding of the CPV variants (CPV-2a, 2b, 2c) by healthy cats in multi-cat environments was reportedly common in Europe but rare in Australia. The aim of this study was to determine whether low-level faecal CPV shedding occurs in multi-cat environments in Australia and Italy using a TaqMan real-time PCR to detect Carnivore protoparvovirus 1 (CPV and feline parvovirus, FPV) DNA, and minor-groove binder probe real-time PCR assay to differentiate FPV and CPV types and to characterize CPV variants. In total, 741 non-diarrhoeic faecal samples from shelters in Australia (n = 263) and from shelters or cat colonies in Italy (n = 478) were tested. Overall, Carnivore protoparvovirus 1 DNA was detected in 49 of 741 (6.61 %) samples. Differentiation was possible for 31 positive samples. FPV was most common among positive samples (28/31, 90.3 %). CPV was detected in 4/31 samples (12.9 %) including CPV-2a in one sample, CPV-2b in another and co-infections of FPV/CPV-2b and CPV-2a/CPV-2b in the remaining two samples. A high rate of subclinical FPV infection was detected in one shelter during an outbreak of feline panleukopenia, during which 21 of 22 asymptomatic cats (95.5 %) sampled were shedding FPV. Faecal shedding of CPV by cats in multi-cat environments is uncommon suggesting that domestic cats are not significant reservoirs of CPV.",
    "publicationTypes": [
     "Journal Article"
+   ]
+  },
+  {
+   "pmid": "31624094",
+   "title": "Architecture of African swine fever virus and implications for viral assembly.",
+   "authors": [
+    "Wang N",
+    "Zhao D",
+    "Wang J",
+    "Zhang Y",
+    "Wang M",
+    "Gao Y",
+    "Li F",
+    "Wang J",
+    "Bu Z",
+    "Rao Z",
+    "Wang X"
+   ],
+   "journal": "Science (New York, N.Y.)",
+   "year": 2019,
+   "doi": "10.1126/science.aaz1439",
+   "abstract": "African swine fever virus (ASFV) is a giant and complex DNA virus that causes a highly contagious and often lethal swine disease for which no vaccine is available. Using an optimized image reconstruction strategy, we solved the ASFV capsid structure up to 4.1 angstroms, which is built from 17,280 proteins, including one major (p72) and four minor (M1249L, p17, p49, and H240R) capsid proteins organized into pentasymmetrons and trisymmetrons. The atomic structure of the p72 protein informs putative conformational epitopes, distinguishing ASFV from other nucleocytoplasmic large DNA viruses. The minor capsid proteins form a complicated network below the outer capsid shell, stabilizing the capsid by holding adjacent capsomers together. Acting as core organizers, 100-nanometer-long M1249L proteins run along each edge of the trisymmetrons that bridge two neighboring pentasymmetrons and form extensive intermolecular networks with other capsid proteins, driving the formation of the capsid framework. These structural details unveil the basis of capsid stability and assembly, opening up new avenues for African swine fever vaccine development.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37983498",
+   "title": "Riding apoptotic bodies for cell-cell transmission by African swine fever virus.",
+   "authors": [
+    "Gao P",
+    "Zhou L",
+    "Wu J",
+    "Weng W",
+    "Wang H",
+    "Ye M",
+    "Qu Y",
+    "Hao Y",
+    "Zhang Y",
+    "Ge X",
+    "Guo X",
+    "Han J",
+    "Yang H"
+   ],
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2023,
+   "doi": "10.1073/pnas.2309506120",
+   "abstract": "African swine fever virus (ASFV), a devastating pathogen to the worldwide swine industry, mainly targets macrophage/monocyte lineage, but how the virus enters host cells has remained unclear. Here, we report that ASFV utilizes apoptotic bodies (ApoBDs) for infection and cell-cell transmission. We show that ASFV induces cell apoptosis of primary porcine alveolar macrophages (PAMs) at the late stage of infection to productively shed ApoBDs that are subsequently swallowed by neighboring PAMs to initiate a secondary infection as evidenced by electron microscopy and live-cell imaging. Interestingly, the virions loaded within ApoBDs are exclusively single-enveloped particles that are devoid of the outer layer of membrane and represent a predominant form produced during late infection. The in vitro purified ApoBD vesicles are capable of mediating virus infection of naive PAMs, but the transmission can be significantly inhibited by blocking the \"eat-me\" signal phosphatidyserine on the surface of ApoBDs via Annexin V or the efferocytosis receptor TIM4 on the recipient PAMs via anti-TIM4 antibody, whereas overexpression of TIM4 enhances virus infection. The same treatment however did not affect the infection by intracellular viruses. Importantly, the swine sera to ASFV exert no effect on the ApoBD-mediated transmission but can partially act on the virions lacking the outer layer of membrane. Thus, ASFV has evolved to hijack a normal cellular pathway for cell-cell spread to evade host responses.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29245054",
+   "title": "Understanding the transmission of foot-and-mouth disease virus at different scales.",
+   "authors": [
+    "Paton DJ",
+    "Gubbins S",
+    "King DP"
+   ],
+   "journal": "Current opinion in virology",
+   "year": 2018,
+   "doi": "10.1016/j.coviro.2017.11.013",
+   "abstract": "Foot-and-mouth disease (FMD) is highly infectious, but despite the large quantities of FMD virus released into the environment and the extreme susceptibility of host species to infection, transmission is not always predictable. Whereas virus spread in endemic settings is characterised by frequent direct and indirect animal contacts, incursions into FMD-free countries may be seeded by low-probability events such as fomite or wind-borne aerosol routes. There remains a void between data generated from small-scale experimental studies and our ability to reliably reconstruct transmission routes at different scales between farms, countries and regions. This review outlines recent transmission studies in susceptible host species, and considers new approaches that integrate virus genomics and epidemiological data to recreate and understand the spread of FMD.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28040311",
+   "title": "Foot-and-mouth disease vaccines.",
+   "authors": [
+    "Diaz-San Segundo F",
+    "Medina GN",
+    "Stenfeldt C",
+    "Arzt J",
+    "de Los Santos T"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 2017,
+   "doi": "10.1016/j.vetmic.2016.12.018",
+   "abstract": "Foot-and-mouth disease (FMD) is a highly contagious disease of cloven-hoofed animals. The disease affects many areas of the world, often causing extensive epizootics in livestock, mostly farmed cattle and swine, although sheep, goats and many wild species are also susceptible. In countries where food and farm animals are essential for subsistence agriculture, outbreaks of FMD seriously impact food security and development. In highly industrialized developed nations, FMD endemics cause economic and social devastation mainly due to observance of health measures adopted from the World Organization for Animal Health (OIE). High morbidity, complex host-range and broad genetic diversity make FMD prevention and control exceptionally challenging. In this article we review multiple vaccine approaches developed over the years ultimately aimed to successfully control and eradicate this feared disease.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27389721",
+   "title": "Canine parvovirus: the worldwide occurrence of antigenic variants.",
+   "authors": [
+    "Miranda C",
+    "Thompson G"
+   ],
+   "journal": "The Journal of general virology",
+   "year": 2016,
+   "doi": "10.1099/jgv.0.000540",
+   "abstract": "The most important enteric virus infecting canids is canine parvovirus type 2 (CPV-2). CPV is the aetiologic agent of a contagious disease, mainly characterized by clinical gastroenteritis signs in younger dogs. CPV-2 emerged as a new virus in the late 1970s, which could infect domestic dogs, and became distributed in the global dog population within 2 years. A few years later, the virus's original type was replaced by a new genetic and antigenic variant, called CPV-2a. Around 1984 and 2000, virus variants with the single change to Asp or Glu in the VP2 residue 426 were detected (sometimes termed CPV-2b and -2c). The genetic and antigenic changes in the variants have also been correlated with changes in their host range; in particular, in the ability to replicate in cats and also host range differences in canine and other tissue culture cells. CPV-2 variants have been circulating among wild carnivores and have been well-documented in several countries around the world. Here, we have reviewed and summarized the current information about the worldwide distribution and evolution of CPV-2 variants since they emerged, as well as the host ranges they are associated with.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32768213",
+   "title": "Canine parvovirus vaccination and immunisation failures: Are we far from disease eradication?",
+   "authors": [
+    "Decaro N",
+    "Buonavoglia C",
+    "Barrs VR"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 2020,
+   "doi": "10.1016/j.vetmic.2020.108760",
+   "abstract": "Despite extensive vaccination, canine parvovirus (CPV) remains a leading infectious cause of canine mortality, especially among juveniles. This review provides an update on CPV vaccine types and vaccination protocols. The design of CPV prevention strategies and vaccination programs with a goal of herd immunity has been hampered by deficiencies of studies that model companion animal viral infections and inform an understanding of the basic reproduction number. However, the most important issue in eradication of CPV disease is represented by immunisation failures including: i) the presence of interfering titres of maternally-derived antibodies; ii) the presence of non-responders; and iii) possible reversion to virulence. In contrast, the role of the CPV variants in immunisation failures is widely debated. Taking into account the reduced circulation of canine distemper virus and canine adenovirus type 1 in countries where extensive vaccination is carried out, more effort should be made to aim for CPV eradication, including antibody testing to determine the optimal time for vaccinations of pups and adults and homogeneous vaccine coverage of dog population.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32451032",
+   "title": "How Does Housing Influence Bovine Respiratory Disease in Dairy and Veal Calves?",
+   "authors": [
+    "Ollivett TL"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2020,
+   "doi": "10.1016/j.cvfa.2020.03.012",
+   "abstract": "Bovine respiratory disease (BRD) is a leading cause of morbidity and mortality in young cattle. Housing factors that lead to poor ventilation and stagnant air are often considered the primary reasons for high levels of endemic disease. This article reviews the literature from the past 40 years in order to determine which housing factors have been associated with respiratory disease. Penning strategy and its affect on calf respiratory health were most commonly studied. The wide variation in disease definitions and quality of reporting make drawing conclusions from the available literature extraordinarily difficult.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26253265",
+   "title": "Treatment of Calves with Bovine Respiratory Disease: Duration of Therapy and Posttreatment Intervals.",
+   "authors": [
+    "Apley MD"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2015,
+   "doi": "10.1016/j.cvfa.2015.06.001",
+   "abstract": "When treating bovine respiratory disease, it is important to consider the decision to initiate treatment, the treatment regimen used, and whether to continue treatment. It is necessary to define the duration of drug exposure and when a success/failure decision will be made. No data are available to define the optimal duration of antimicrobial exposure. A pattern seen in human pneumonia studies is that shorter durations of therapy were equivalent with longer durations. Some studies suggest defining success or failure based on pharmacokinetics and pharmacodynamics may lead to earlier than optimal intervention. Optimal intervals are best defined by randomized clinical trials.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33575990",
+   "title": "Causes of neonatal calf diarrhea and mortality in pasture-based dairy herds in Uruguay: a farm-matched case-control study.",
+   "authors": [
+    "Caffarena RD",
+    "Casaux ML",
+    "Schild CO",
+    "Fraga M",
+    "Castells M",
+    "Colina R",
+    "Maya L",
+    "Corbellini LG",
+    "Riet-Correa F",
+    "Giannitti F"
+   ],
+   "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+   "year": 2021,
+   "doi": "10.1007/s42770-021-00440-3",
+   "abstract": "Neonatal calf diarrhea (NCD) and mortality cause significant losses to the dairy industry. The preweaning dairy calf mortality risk in Uruguay is high (15.2%); however, causes for these losses are largely unknown. This study aimed to assess whether various pathogens were associated with NCD and death in Uruguayan dairy calves and whether these infections, diarrhea, or deaths were associated with the failure of transfer of passive immunity (FTPI). Contemporary diarrheic (n = 264,) and non-diarrheic (n = 271) 1- to 30-day-old calves from 27 farms were sampled. Feces were analyzed by antigen-capture ELISA for Cryptosporidium spp., rotavirus, bovine coronavirus, and Escherichia coli F5+, RT-PCR for bovine astrovirus (BoAstV), and bacterial cultures for Salmonella enterica. Blood/serum was analyzed by RT-PCR or antigen-capture ELISA for bovine viral diarrhea virus (BVDV). Serum of ≤ 8-day-old calves (n = 95) was assessed by refractometry to determine the concention of serum total proteins (STP) as an indicator of FTPI. Whether the sampled calves died before weaning was recorded. At least one pathogen was detected in 65.4% of the calves, and this percentage was significantly higher in diarrheic (83.7%) versus non-diarrheic (47.6%) calves. Unlike the other pathogens, Cryptosporidium spp. and rotavirus were associated with NCD. Diarrheic calves, calves infected with any of the pathogens, and calves infected with rotavirus had significantly lower concentrations of STP. Diarrheic calves had higher chances of dying before weaning than non-diarrheic calves. Diarrheic calves infected with S. enterica were at increased risk of mortality. Controlling NCD, salmonellosis, cryptosporidiosis, and rotavirus infections, and improving colostrum management practices would help to reduce calf morbi-mortality in dairy farms in Uruguay.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "27209135",
+   "title": "Serum interleukin-6 as a prognostic marker in neonatal calf diarrhea.",
+   "authors": [
+    "Fischer S",
+    "Bauerfeind R",
+    "Czerny CP",
+    "Neumann S"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2016,
+   "doi": "10.3168/jds.2015-10740",
+   "abstract": "Neonatal calf diarrhea is still one of the most important diseases in calf rearing, and severe diarrhea has a marked effect on animal welfare. Furthermore, significant economic losses can result from this disease due to high mortality rates, high medical costs, and low weight gain. To avoid a fatal outcome of the disease, it is crucial that vulnerable calves are identified as early as possible. Interleukin-6 is described as an early and reliable prognostic marker in several diseases. In this study, 20 scouring calves were tested by ELISA for their IL-6 serum concentrations. Samples were collected twice, at the beginning of diarrhea and 7 to 10d later. Regarding the clinical outcome after 7 to 10d, calves were classified as recovered or nonrecovered. A receiver operating characteristic analysis was conducted to determine the prognostic value of IL-6 for the progress of clinical symptoms. At the beginning of diarrhea, the IL-6 concentration was significantly higher in nonrecovering calves compared with those that recover 7 to 10d after the onset of diarrhea. Interleukin-6 proved to be a useful additional parameter in the clinical examination. High initial IL-6 values can support the decision for closer monitoring and an adapted therapeutic strategy for the respective calves. This may help to prevent unnecessary animal suffering and reduce economic losses.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39091389",
+   "title": "GS-441524 and molnupiravir are similarly effective for the treatment of cats with feline infectious peritonitis.",
+   "authors": [
+    "Sase O",
+    "Iwami T",
+    "Sasaki T",
+    "Sano T"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2024,
+   "doi": "10.3389/fvets.2024.1422408",
+   "abstract": "Although not registered for feline infectious peritonitis (FIP) in Japan, nucleoside analogs have shown efficacy and we have been offering them to owners of cats with FIP at our clinic since January 2020. The aim of this study was to investigate outcomes in cats with FIP who received GS-441524 or molnupiravir. Diagnosis of FIP was based on clinical signs, laboratory test results, and the presence of feline coronavirus RNA in blood or effusion aspirate. After providing verbal and written information, owners of cats with a presumptive diagnosis of FIP with a were offered antiviral treatment with commercially sourced GS-441524 from June 2020, and either GS-441524 or compounded molnupiravir from January 2022. Dosing was 12.5-25 mg/kg/day for GS-441524 and 20-40 mg/kg/day for molnupiravir, depending on the presence of effusion and neurological and/or ocular signs, and continued for 84 days. Overall, 118 cats with FIP (effusive in 76) received treatment, 59 with GS-4421524 and 59 with molnupiravir. Twenty cats died, 12/59 (20.3%) in the GS-441524 group and 8/59 (13.6%) in the molnupiravir group (p = 0.326), with most deaths within the first 10 days of starting treatment. Among survivors, neurological and ocular signs resolved in all but one cat, who had persistent seizures. Of the cats completing treatment, 48/48 in the GS-441524 group and 51/52 in the molnupiravir group achieved remission. Laboratory parameters normalized within 6 to 7 weeks of starting drug administration. Adverse events, such as primarily hepatic function abnormalities, were transient and resolved without specific intervention. Our data indicate that GS-441524 and molnupiravir show similar effects and safety in cats with FIP.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37551843",
+   "title": "Molnupiravir treatment of 18 cats with feline infectious peritonitis: A case series.",
+   "authors": [
+    "Sase O"
+   ],
+   "journal": "Journal of veterinary internal medicine",
+   "year": 2023,
+   "doi": "10.1111/jvim.16832",
+   "abstract": "BACKGROUND: Feline infectious peritonitis (FIP) is a viral disease in cats, caused by certain strains of coronavirus and has a high case fatality rate.\nOBJECTIVE: This case series reports the outcomes of treatment of cats with FIP using molnupiravir.\nANIMALS: Eighteen cats diagnosed with FIP at the You-Me Animal Clinic, Sakura-shi, Japan between January and August 2022, and whose owners gave informed consent to this experimental treatment.\nMETHODS: For this prospective observational study, molnupiravir tablets were compounded in-house at the You-Me Animal Clinic. Owners administered 10-20 mg/kg PO twice daily. Standard treatment duration was 84 days.\nRESULTS: Among 18 cats, 13 cats had effusive FIP and 5 had noneffusive FIP. Three cats had neurological or ocular signs of FIP before treatment. Four cats, all with effusive FIP, died or were euthanized within 7 days of starting treatment. The remaining 14 cats completed treatment and remained in remission at the time of writing (139-206 days after starting treatment). Elevated serum alanine transaminase (ALT) activity was found in 3 cats, all at Days 7-9, and all recovered without management. Two cats with jaundice were hospitalized, 1 during treatment (Day 37) and 1 with severe anemia at the start of treatment.\nCONCLUSIONS AND CLINICAL IMPORTANCE: This case series suggests that molnupiravir might be an effective and safe treatment for domestic cats with FIP at a dose of 10-20 mg/kg twice daily.",
+   "publicationTypes": [
+    "Observational Study",
+    "Observational Study, Veterinary",
+    "Case Reports",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34424161",
+   "title": "Reduction in Antimicrobial Use and Resistance to Salmonella, Campylobacter, and Escherichia coli in Broiler Chickens, Canada, 2013-2019.",
+   "authors": [
+    "Huber L",
+    "Agunos A",
+    "Gow SP",
+    "Carson CA",
+    "Van Boeckel TP"
+   ],
+   "journal": "Emerging infectious diseases",
+   "year": 2021,
+   "doi": "10.3201/eid2709.204395",
+   "abstract": "Antimicrobial use contributes to the global rise of antimicrobial resistance (AMR). In 2014, the poultry industry in Canada initiated its Antimicrobial Use Reduction Strategy to mitigate AMR in the poultry sector. We monitored trends in antimicrobial use and AMR of foodborne bacteria (Salmonella, Escherichia coli, and Campylobacter) in broiler chickens during 2013 and 2019. We quantified the effect of antimicrobial use and management factors on AMR by using LASSO regression and generalized mixed-effect models. AMR in broiler chickens declined by 6%-38% after the decrease in prophylactic antimicrobial use. However, the withdrawal of individual compounds, such as cephalosporins and fluoroquinolones, prompted an increase in use of and resistance levels for other drug classes, such as aminoglycosides. Canada's experience with antimicrobial use reduction illustrates the potential for progressive transitions from conventional antimicrobial-dependent broiler production to more sustainable production with respect to antimicrobial use.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25421382",
+   "title": "Reduction of veterinary antimicrobial use in the Netherlands. The Dutch success model.",
+   "authors": [
+    "Speksnijder DC",
+    "Mevius DJ",
+    "Bruschke CJ",
+    "Wagenaar JA"
+   ],
+   "journal": "Zoonoses and public health",
+   "year": 2015,
+   "doi": "10.1111/zph.12167",
+   "abstract": "Use of antimicrobials in animals poses a potential risk for public health as it contributes to the selection and spread of antimicrobial resistance. Although knowledge of the negative consequences of extensive antimicrobial use in humans and animals accumulated over the decades, total therapeutic antimicrobial use in farm animals in the Netherlands doubled between 1990 and 2007. A series of facts and events formed a window of opportunity to reduce antimicrobial use in farm animals. The recent discovery of significant reservoirs of antimicrobial-resistant pathogens such as methicillin-resistant Staphylococcus aureus (MRSA) and extended spectrum beta-lactamase-producing bacteria (ESBL) in farm animals, with potential public health implications, combined with an increasing lack of confidence of the public in intensive livestock industries, and discrepancy between the very low antimicrobial use in humans and high use in animals, resulted in intensive collaboration between the government, veterinary professional organizations and important stakeholders within the livestock sector. A combination of compulsory and voluntary actions with clear reduction goals resulted in a 56% reduction in antimicrobial use in farm animals in the Netherlands between 2007 and 2012 and aims at accomplishing a 70% reduction target in 2015. This article describes and analyses the processes and actions behind this transition from an abundant antimicrobial use in farm animals towards a more prudent application of antimicrobials in farm animals in the Netherlands.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39535188",
+   "title": "Avian influenza A (H5N1) virus in dairy cattle: origin, evolution, and cross-species transmission.",
+   "authors": [
+    "Mostafa A",
+    "Naguib MM",
+    "Nogales A",
+    "Barre RS",
+    "Stewart JP",
+    "García-Sastre A",
+    "Martinez-Sobrido L"
+   ],
+   "journal": "mBio",
+   "year": 2024,
+   "doi": "10.1128/mbio.02542-24",
+   "abstract": "Since the emergence of highly pathogenic avian influenza virus (HPAIV) H5N1 of clade 2.3.4.4b as a novel reassortant virus from subtype H5N8, the virus has led to a massive number of outbreaks worldwide in wild and domestic birds. Compared to the parental HPAIV H5N8 clade 2.3.4.4b, the novel reassortant HPAIV H5N1 displayed an increased ability to escape species barriers and infect multiple mammalian species, including humans. The virus host range has been recently expanded to include ruminants, particularly dairy cattle in the United States, where cattle-to-cattle transmission was reported. As with the avian 2.3.4.4.b H5N1 viruses, the cattle-infecting virus was found to transmit from cattle to other contact animals including cats, raccoons, rodents, opossums, and poultry. Although replication of the virus in cows appears to be mainly confined to the mammary tissue, with high levels of viral loads detected in milk, infected cats and poultry showed severe respiratory disease, neurologic signs, and eventually died. Furthermore, several human infections with HPAIV H5N1 have also been reported in dairy farm workers and were attributed to exposures to infected dairy cattle. This is believed to represent the first mammalian-to-human transmission report of the HPAIV H5N1. Fortunately, infection in humans and cows, as opposed to other animals, appears to be mild in most cases. Nevertheless, the H5N1 bovine outbreak represents the largest outbreak of the H5N1 in a domestic mammal close to humans, increasing the risk that this already mammalian adapted H5N1 further adapts to human-to-human transmission and starts a pandemic. Herein, we discuss the epidemiology, evolution, pathogenesis, and potential impact of the recently identified HPAIV H5N1 clade 2.3.4.4b in dairy cattle in the United States. Eventually, interdisciplinary cooperation under a One Health framework is required to be able to control this ongoing HPAIV H5N1 outbreak to stop it before further expansion of its host range and geographical distribution.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "33353489",
+   "title": "Bovine brucellosis - a comprehensive review.",
+   "authors": [
+    "Khurana SK",
+    "Sehrawat A",
+    "Tiwari R",
+    "Prasad M",
+    "Gulati B",
+    "Shabbir MZ",
+    "Chhabra R",
+    "Karthik K",
+    "Patel SK",
+    "Pathak M",
+    "Iqbal Yatoo M",
+    "Gupta VK",
+    "Dhama K",
+    "Sah R",
+    "Chaicumpa W"
+   ],
+   "journal": "The veterinary quarterly",
+   "year": 2021,
+   "doi": "10.1080/01652176.2020.1868616",
+   "abstract": "Brucellosis is a zoonotic disease of great animal welfare and economic implications worldwide known since ancient times. The emergence of brucellosis in new areas as well as transmission of brucellosis from wild and domestic animals is of great significance in terms of new epidemiological dimensions. Brucellosis poses a major public health threat by the consumption of non-pasteurized milk and milk products produced by unhygienic dairy farms in endemic areas. Regular and meticulous surveillance is essentially required to determine the true picture of brucellosis especially in areas with continuous high prevalence. Additionally, international migration of humans, animals and trade of animal products has created a challenge for disease spread and diagnosis in non-endemic areas. Isolation and identification remain the gold standard test, which requires expertise. The advancement in diagnostic strategies coupled with screening of newly introduced animals is warranted to control the disease. Of note, the diagnostic value of miRNAs for appropriate detection of B. abortus infection has been shown. The most widely used vaccine strains to protect against Brucella infection and related abortions in cattle are strain 19 and RB51. Moreover, it is very important to note that no vaccine, which is highly protective, safe and effective is available either for bovines or human beings. Research results encourage the use of bacteriophage lysates in treatment of bovine brucellosis. One Health approach can aid in control of this disease, both in animals and man.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34957279",
+   "title": "Canine Leptospirosis Outbreak in Japan.",
+   "authors": [
+    "Saeki J",
+    "Tanaka A"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2021,
+   "doi": "10.3389/fvets.2021.763859",
+   "abstract": "Canine leptospirosis was suspected in 11 dogs in Osaka Prefecture, Japan and 9 dogs died within a month, from October 12 to November 10, 2017. Eight of the dogs had been taken on walks along the same riverbed and 4 dogs lived in the same town. Logistic regression analysis between a comparative group and the incident cases group showed that the odds of leptospirosis infection was 13.3 times higher (p = 0.044) in the dogs taken on walks along the riverbed than in the dogs not being walked along the riverbed. It is suggesting that these walks had been a risk factor. Microscopic agglutination tests showed that antibody titers against Leptospira interrogans serovar Australis were 1:2,560 and 1:10,240 in 2 dogs. Therefore, L. interrogans serovar Australis was suspected to be the causative agent, for which no canine vaccine is available in Japan. These results suggested that L. interrogans serovar Australis can cause local outbreaks. The development of a canine vaccine against various serotypes might help reduce local infections. Leptospirosis is an important infectious disease of dogs and it is also a zoonotic disease.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37861061",
+   "title": "Updated ACVIM consensus statement on leptospirosis in dogs.",
+   "authors": [
+    "Sykes JE",
+    "Francey T",
+    "Schuller S",
+    "Stoddard RA",
+    "Cowgill LD",
+    "Moore GE"
+   ],
+   "journal": "Journal of veterinary internal medicine",
+   "year": 2023,
+   "doi": "10.1111/jvim.16903",
+   "abstract": "Since publication of the last consensus statement on leptospirosis in dogs, there has been revision of leptospiral taxonomy and advancements in typing methods, widespread use of new diagnostic tests and vaccines, and improved understanding of the epidemiology and pathophysiology of the disease. Leptospirosis continues to be prevalent in dogs, including in small breed dogs from urban areas, puppies as young as 11 weeks of age, geriatric dogs, dogs in rural areas, and dogs that have been inadequately vaccinated for leptospirosis (including dogs vaccinated with 2-serovar Leptospira vaccines in some regions). In 2021, the American College of Veterinary Internal Medicine (ACVIM) Board of Regents voted to approve the topic for a revised Consensus Statement. After identification of core panelists, a multidisciplinary group of 6 experts from the fields of veterinary medicine, human medicine, and public health was assembled to vote on the recommendations using the Delphi method. A draft was presented at the 2023 ACVIM Forum, and a written draft posted on the ACVIM website for comment by the membership before submission to the editors of the Journal of Veterinary Internal Medicine. This revised document provides guidance for veterinary practitioners on disease in dogs as well as cats. The level of agreement among the 12 voting members (including core panelists) is provided in association with each recommendation. A denominator lower than 12 reflects abstention of ≥1 panelists either because they considered the recommendation to be outside their scope of expertise or because there was a perceived conflict of interest.",
+   "publicationTypes": [
+    "Journal Article",
+    "Consensus Statement"
    ]
   }
  ],
@@ -88307,6 +88655,1350 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Faecal shedding of CPV by cats in multi-cat environments is uncommon suggesting that domestic cats are not significant reservoirs of CPV",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31624094-1-en",
+   "translationKey": "vet-31624094-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which protein is the major capsid protein of African swine fever virus?",
+   "options": [
+    "Hemagglutinin H5",
+    "Glycoprotein gB",
+    "Protein p72",
+    "Protein VP2"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The 4.1 Å structure showed a capsid of 17,280 proteins: major p72 plus four minor proteins.",
+   "shortExplanation": "p72.",
+   "pmid": "31624094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which is built from 17,280 proteins, including one major (p72) and four minor",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31624094-1-es",
+   "translationKey": "vet-31624094-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es la proteína principal de la cápside del virus de la peste porcina africana?",
+   "options": [
+    "La hemaglutinina H5",
+    "La glicoproteína gB",
+    "La proteína p72",
+    "La proteína VP2"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La estructura a 4,1 Å mostró una cápside de 17.280 proteínas: la principal p72 y cuatro menores.",
+   "shortExplanation": "p72.",
+   "pmid": "31624094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which is built from 17,280 proteins, including one major (p72) and four minor",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31624094-2-en",
+   "translationKey": "vet-31624094-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What kind of virus causes African swine fever?",
+   "options": [
+    "A giant, complex DNA virus",
+    "A small RNA retrovirus",
+    "A prion-like protein",
+    "A plant virus carried by pigs"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "ASFV is a giant, complex DNA virus causing a highly contagious and often lethal disease.",
+   "shortExplanation": "Giant DNA virus.",
+   "pmid": "31624094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a giant and complex DNA virus that causes a highly contagious and often lethal swine disease for which no vaccine is available",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-31624094-2-es",
+   "translationKey": "vet-31624094-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipo de virus causa la peste porcina africana?",
+   "options": [
+    "Un virus ADN gigante y complejo",
+    "Un pequeño retrovirus de ARN",
+    "Una proteína tipo prion",
+    "Un virus vegetal portado por cerdos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El VPPA es un virus ADN gigante y complejo que causa una enfermedad muy contagiosa y a menudo mortal.",
+   "shortExplanation": "Virus ADN gigante.",
+   "pmid": "31624094",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a giant and complex DNA virus that causes a highly contagious and often lethal swine disease for which no vaccine is available",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37983498-1-en",
+   "translationKey": "vet-37983498-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How does African swine fever virus spread between macrophages, per this study?",
+   "options": [
+    "Through the bloodstream only",
+    "Through tunneling bacterial pili",
+    "By fusing whole cells together",
+    "Inside apoptotic bodies"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Infected macrophages die and shed apoptotic bodies loaded with virus, which neighbors engulf.",
+   "shortExplanation": "Apoptotic bodies.",
+   "pmid": "37983498",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "ASFV utilizes apoptotic bodies (ApoBDs) for infection and cell-cell transmission",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37983498-1-es",
+   "translationKey": "vet-37983498-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Según este estudio, ¿cómo se disemina el virus de la peste porcina africana entre macrófagos?",
+   "options": [
+    "Solo a través de la sangre",
+    "Por pili bacterianos tipo túnel",
+    "Fusionando células enteras",
+    "Dentro de cuerpos apoptóticos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los macrófagos infectados mueren y liberan cuerpos apoptóticos cargados de virus que las vecinas fagocitan.",
+   "shortExplanation": "Cuerpos apoptóticos.",
+   "pmid": "37983498",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "ASFV utilizes apoptotic bodies (ApoBDs) for infection and cell-cell transmission",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37983498-2-en",
+   "translationKey": "vet-37983498-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why does spread inside apoptotic bodies help ASFV evade the host?",
+   "options": [
+    "It makes the virus stable to heat",
+    "Serum antibodies can't block it",
+    "It turns macrophages into B cells",
+    "It removes the viral genome"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Antibodies in swine sera did not affect transmission via apoptotic bodies, an immune-evasion route.",
+   "shortExplanation": "Antibodies can't block it.",
+   "pmid": "37983498",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the swine sera to ASFV exert no effect on the ApoBD-mediated transmission",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37983498-2-es",
+   "translationKey": "vet-37983498-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué viajar dentro de cuerpos apoptóticos ayuda al VPPA a evadir al huésped?",
+   "options": [
+    "Vuelve al virus estable al calor",
+    "Los anticuerpos no la bloquean",
+    "Convierte macrófagos en linfocitos B",
+    "Elimina el genoma viral"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los anticuerpos de sueros porcinos no afectaron la transmisión por cuerpos apoptóticos, una vía de evasión.",
+   "shortExplanation": "Los anticuerpos no lo frenan.",
+   "pmid": "37983498",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the swine sera to ASFV exert no effect on the ApoBD-mediated transmission",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29245054-1-en",
+   "translationKey": "vet-29245054-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How may foot-and-mouth disease enter a country that is free of it?",
+   "options": [
+    "Via fomites or wind-borne aerosols",
+    "Only through imported vaccines",
+    "Only through infected travelers",
+    "Through mosquitoes and hard ticks"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Endemic spread relies on animal contacts, but incursions can come from rare fomite or airborne events.",
+   "shortExplanation": "Fomites or wind.",
+   "pmid": "29245054",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "incursions into FMD-free countries may be seeded by low-probability events such as fomite or wind-borne aerosol routes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29245054-1-es",
+   "translationKey": "vet-29245054-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo puede ingresar la fiebre aftosa a un país libre de ella?",
+   "options": [
+    "Por fómites o aerosoles en el viento",
+    "Solo a través de vacunas importadas",
+    "Solo por viajeros infectados",
+    "Por mosquitos y garrapatas duras"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "En zonas endémicas se propaga por contactos entre animales, pero puede llegar por fómites o por el aire.",
+   "shortExplanation": "Fómites o viento.",
+   "pmid": "29245054",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "incursions into FMD-free countries may be seeded by low-probability events such as fomite or wind-borne aerosol routes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28040311-1-en",
+   "translationKey": "vet-28040311-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which animals does foot-and-mouth disease affect?",
+   "options": [
+    "Horses and donkeys",
+    "Poultry and wild birds",
+    "Cloven-hoofed animals",
+    "Dogs and cats"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FMD affects cloven-hoofed animals: mainly cattle and pigs, plus sheep, goats and many wild species.",
+   "shortExplanation": "Cloven-hoofed animals.",
+   "pmid": "28040311",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Foot-and-mouth disease (FMD) is a highly contagious disease of cloven-hoofed animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28040311-1-es",
+   "translationKey": "vet-28040311-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué animales afecta la fiebre aftosa?",
+   "options": [
+    "Caballos y burros",
+    "Aves de corral y silvestres",
+    "Animales de pezuña hendida",
+    "Perros y gatos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La aftosa afecta animales de pezuña hendida: sobre todo bovinos y cerdos, además de ovinos, caprinos y fauna.",
+   "shortExplanation": "Pezuña hendida.",
+   "pmid": "28040311",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Foot-and-mouth disease (FMD) is a highly contagious disease of cloven-hoofed animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27389721-1-en",
+   "translationKey": "vet-27389721-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "When did canine parvovirus type 2 emerge as a new virus in dogs?",
+   "options": [
+    "In the early 1900s",
+    "In the late 1970s",
+    "In the mid-1950s",
+    "In the year 2010"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "CPV-2 appeared in the late 1970s and spread through the global dog population within 2 years.",
+   "shortExplanation": "Late 1970s.",
+   "pmid": "27389721",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CPV-2 emerged as a new virus in the late 1970s",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27389721-1-es",
+   "translationKey": "vet-27389721-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuándo surgió el parvovirus canino tipo 2 como un virus nuevo en perros?",
+   "options": [
+    "A comienzos de 1900",
+    "A fines de los 70",
+    "A mediados de los 50",
+    "En el año 2010"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El CPV-2 apareció a fines de los 70 y en 2 años se extendió a la población canina mundial.",
+   "shortExplanation": "Fines de los 70.",
+   "pmid": "27389721",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CPV-2 emerged as a new virus in the late 1970s",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27389721-2-en",
+   "translationKey": "vet-27389721-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What distinguishes the CPV-2b and CPV-2c variants?",
+   "options": [
+    "A deletion of the whole VP1 gene",
+    "Gain of an envelope from the host",
+    "Loss of the viral capsid",
+    "A single change at VP2 residue 426"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "CPV-2b and -2c differ by Asp or Glu at VP2 residue 426, changes linked to host-range shifts.",
+   "shortExplanation": "VP2 residue 426.",
+   "pmid": "27389721",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "virus variants with the single change to Asp or Glu in the VP2 residue 426 were detected",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27389721-2-es",
+   "translationKey": "vet-27389721-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué distingue a las variantes CPV-2b y CPV-2c?",
+   "options": [
+    "La pérdida completa del gen VP1",
+    "Ganar una envoltura del huésped",
+    "La pérdida de la cápside viral",
+    "Un cambio en el residuo 426 de VP2"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "CPV-2b y -2c difieren por Asp o Glu en el residuo 426 de VP2, cambios ligados al rango de huéspedes.",
+   "shortExplanation": "Residuo 426 de VP2.",
+   "pmid": "27389721",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "virus variants with the single change to Asp or Glu in the VP2 residue 426 were detected",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32768213-1-en",
+   "translationKey": "vet-32768213-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What is the most important cause of canine parvovirus vaccination failure?",
+   "options": [
+    "Interfering maternal antibodies",
+    "Vaccines that contain no virus",
+    "Dogs being immune to all vaccines",
+    "Giving vaccines only in winter"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Maternal antibodies neutralize vaccine virus in pups; non-responders and reversion are other causes.",
+   "shortExplanation": "Maternal antibodies.",
+   "pmid": "32768213",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the presence of interfering titres of maternally-derived antibodies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32768213-1-es",
+   "translationKey": "vet-32768213-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es la causa más importante de falla de la vacuna contra el parvovirus canino?",
+   "options": [
+    "Anticuerpos maternos que interfieren",
+    "Vacunas que no contienen virus",
+    "Perros inmunes a todas las vacunas",
+    "Vacunar solo en invierno"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los anticuerpos maternos neutralizan el virus vacunal en cachorros; otras causas son no respondedores y reversión.",
+   "shortExplanation": "Anticuerpos maternos.",
+   "pmid": "32768213",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the presence of interfering titres of maternally-derived antibodies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32451032-1-en",
+   "translationKey": "vet-32451032-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which housing problem is often considered the main reason for endemic respiratory disease in calves?",
+   "options": [
+    "Too much sunlight in the barn",
+    "Feeding calves too much milk",
+    "Poor ventilation and stagnant air",
+    "Pens that are cleaned too often"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Poor ventilation and stagnant air are commonly blamed, though study quality makes conclusions difficult.",
+   "shortExplanation": "Poor ventilation.",
+   "pmid": "32451032",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Housing factors that lead to poor ventilation and stagnant air are often considered the primary reasons for high levels of endemic disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32451032-1-es",
+   "translationKey": "vet-32451032-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué problema de instalaciones se considera a menudo la causa principal de enfermedad respiratoria en terneros?",
+   "options": [
+    "Demasiada luz solar en el galpón",
+    "Darles demasiada leche",
+    "Mala ventilación y aire estancado",
+    "Limpiar los corrales demasiado seguido"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Se culpa a menudo a la mala ventilación y al aire estancado, aunque la calidad de los estudios limita las conclusiones.",
+   "shortExplanation": "Mala ventilación.",
+   "pmid": "32451032",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Housing factors that lead to poor ventilation and stagnant air are often considered the primary reasons for high levels of endemic disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26253265-1-en",
+   "translationKey": "vet-26253265-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What is known about the optimal duration of antimicrobial therapy for bovine respiratory disease?",
+   "options": [
+    "It must always last 21 days",
+    "No data define the optimal duration",
+    "One single dose is always enough",
+    "It must continue until slaughter"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Data are lacking; human pneumonia studies suggest shorter courses can match longer ones.",
+   "shortExplanation": "No data define it.",
+   "pmid": "26253265",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "No data are available to define the optimal duration of antimicrobial exposure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-26253265-1-es",
+   "translationKey": "vet-26253265-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué se sabe sobre la duración óptima del antimicrobiano en la enfermedad respiratoria bovina?",
+   "options": [
+    "Siempre debe durar 21 días",
+    "No hay datos que la definan",
+    "Una sola dosis siempre basta",
+    "Debe seguir hasta la faena"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Faltan datos; los estudios de neumonía humana sugieren que cursos más cortos pueden igualar a los largos.",
+   "shortExplanation": "No hay datos.",
+   "pmid": "26253265",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "No data are available to define the optimal duration of antimicrobial exposure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33575990-1-en",
+   "translationKey": "vet-33575990-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which pathogens were associated with neonatal diarrhea in Uruguayan dairy calves?",
+   "options": [
+    "Coronavirus and astrovirus",
+    "BVDV and E. coli F5 (K99)",
+    "Salmonella and Clostridium",
+    "Cryptosporidium, rotavirus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Only Cryptosporidium and rotavirus were linked to diarrhea; Salmonella raised the risk of death.",
+   "shortExplanation": "Cryptosporidium, rotavirus.",
+   "pmid": "33575990",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Unlike the other pathogens, Cryptosporidium spp. and rotavirus were associated with NCD",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33575990-1-es",
+   "translationKey": "vet-33575990-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué patógenos se asociaron con la diarrea neonatal en terneros lecheros de Uruguay?",
+   "options": [
+    "Coronavirus y astrovirus",
+    "VDVB y E. coli F5 (K99)",
+    "Salmonella y Clostridium",
+    "Cryptosporidium, rotavirus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Solo Cryptosporidium y rotavirus se asociaron a diarrea; Salmonella aumentaba el riesgo de muerte.",
+   "shortExplanation": "Cryptosporidium, rotavirus.",
+   "pmid": "33575990",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Unlike the other pathogens, Cryptosporidium spp. and rotavirus were associated with NCD",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33575990-2-en",
+   "translationKey": "vet-33575990-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What is the preweaning mortality risk of dairy calves in Uruguay?",
+   "options": [
+    "About 1.5%",
+    "About 5%",
+    "About 15%",
+    "About 50%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mortality before weaning is high, about 15.2%, and its causes were largely unknown.",
+   "shortExplanation": "~15%.",
+   "pmid": "33575990",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The preweaning dairy calf mortality risk in Uruguay is high (15.2%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33575990-2-es",
+   "translationKey": "vet-33575990-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es el riesgo de mortalidad predestete de terneros lecheros en Uruguay?",
+   "options": [
+    "Cerca del 1,5%",
+    "Cerca del 5%",
+    "Cerca del 15%",
+    "Cerca del 50%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mortalidad antes del destete es alta, cerca del 15,2%, y sus causas eran poco conocidas.",
+   "shortExplanation": "~15%.",
+   "pmid": "33575990",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The preweaning dairy calf mortality risk in Uruguay is high (15.2%)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27209135-1-en",
+   "translationKey": "vet-27209135-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What did serum IL-6 at the start of diarrhea predict in calves?",
+   "options": [
+    "Higher in non-recovering calves",
+    "Lower in calves that later died",
+    "The same in every calf",
+    "Only the cause of the diarrhea"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "High initial IL-6 marked calves that would not recover, supporting closer monitoring.",
+   "shortExplanation": "High in non-recovering.",
+   "pmid": "27209135",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the IL-6 concentration was significantly higher in nonrecovering calves",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27209135-1-es",
+   "translationKey": "vet-27209135-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué predecía la IL-6 sérica al inicio de la diarrea en terneros?",
+   "options": [
+    "Más alta en los que no se recuperaron",
+    "Más baja en los que luego murieron",
+    "Igual en todos los terneros",
+    "Solo la causa de la diarrea"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Una IL-6 inicial alta señalaba a los terneros que no se recuperarían, lo que justifica vigilarlos más.",
+   "shortExplanation": "Alta en los que no mejoran.",
+   "pmid": "27209135",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the IL-6 concentration was significantly higher in nonrecovering calves",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39091389-1-en",
+   "translationKey": "vet-39091389-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "How did GS-441524 and molnupiravir compare for treating cats with FIP in this Japanese clinic?",
+   "options": [
+    "GS-441524 was far superior",
+    "Molnupiravir failed completely",
+    "Similar effects and safety",
+    "Both caused many deaths"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Remission rates were similar (48/48 vs 51/52 completing), with transient liver changes.",
+   "shortExplanation": "Similar.",
+   "pmid": "39091389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "GS-441524 and molnupiravir show similar effects and safety in cats with FIP",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39091389-1-es",
+   "translationKey": "vet-39091389-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se compararon GS-441524 y molnupiravir para tratar gatos con PIF en esta clínica japonesa?",
+   "options": [
+    "GS-441524 fue muy superior",
+    "El molnupiravir fracasó por completo",
+    "Efectos y seguridad similares",
+    "Ambos causaron muchas muertes"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las remisiones fueron similares (48/48 y 51/52 al completar), con cambios hepáticos pasajeros.",
+   "shortExplanation": "Similares.",
+   "pmid": "39091389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "GS-441524 and molnupiravir show similar effects and safety in cats with FIP",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39091389-2-en",
+   "translationKey": "vet-39091389-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "When did most deaths occur among cats treated with antivirals for FIP?",
+   "options": [
+    "After finishing the 84 days",
+    "Within the first 10 days",
+    "Around day 50 of therapy",
+    "Only after relapse months later"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Most of the 20 deaths happened in the first 10 days, before the drugs could take full effect.",
+   "shortExplanation": "First 10 days.",
+   "pmid": "39091389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with most deaths within the first 10 days of starting treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39091389-2-es",
+   "translationKey": "vet-39091389-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuándo ocurrieron la mayoría de las muertes en gatos tratados con antivirales por PIF?",
+   "options": [
+    "Al terminar los 84 días",
+    "En los primeros 10 días",
+    "Hacia el día 50 de terapia",
+    "Solo tras recaídas meses después"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La mayoría de las 20 muertes ocurrió en los primeros 10 días, antes del efecto pleno de los fármacos.",
+   "shortExplanation": "Primeros 10 días.",
+   "pmid": "39091389",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with most deaths within the first 10 days of starting treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37551843-1-en",
+   "translationKey": "vet-37551843-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What was the standard duration of molnupiravir treatment for FIP in this case series?",
+   "options": [
+    "7 days",
+    "14 days",
+    "1 year",
+    "84 days"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Owners gave 10–20 mg/kg twice daily for 84 days; 14 of 18 cats completed treatment in remission.",
+   "shortExplanation": "84 days.",
+   "pmid": "37551843",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Standard treatment duration was 84 days",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37551843-1-es",
+   "translationKey": "vet-37551843-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál fue la duración estándar del tratamiento con molnupiravir para PIF en esta serie de casos?",
+   "options": [
+    "7 días",
+    "14 días",
+    "1 año",
+    "84 días"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los dueños daban 10–20 mg/kg dos veces al día durante 84 días; 14 de 18 gatos terminaron en remisión.",
+   "shortExplanation": "84 días.",
+   "pmid": "37551843",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Standard treatment duration was 84 days",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34424161-1-en",
+   "translationKey": "vet-34424161-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What happened to resistance in Canadian broilers after prophylactic antimicrobial use fell?",
+   "options": [
+    "It declined by 6–38%",
+    "It doubled in every bacterium",
+    "It disappeared completely",
+    "It did not change at all"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "AMR in Salmonella, E. coli and Campylobacter dropped 6–38% after the reduction strategy began in 2014.",
+   "shortExplanation": "Fell 6–38%.",
+   "pmid": "34424161",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "AMR in broiler chickens declined by 6%-38% after the decrease in prophylactic antimicrobial use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34424161-1-es",
+   "translationKey": "vet-34424161-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué pasó con la resistencia en pollos parrilleros canadienses al bajar el uso preventivo de antimicrobianos?",
+   "options": [
+    "Bajó entre 6% y 38%",
+    "Se duplicó en todas las bacterias",
+    "Desapareció por completo",
+    "No cambió en absoluto"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La resistencia en Salmonella, E. coli y Campylobacter bajó 6–38% tras la estrategia iniciada en 2014.",
+   "shortExplanation": "Bajó 6–38%.",
+   "pmid": "34424161",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "AMR in broiler chickens declined by 6%-38% after the decrease in prophylactic antimicrobial use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34424161-2-en",
+   "translationKey": "vet-34424161-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "What unintended effect followed the withdrawal of cephalosporins and fluoroquinolones in broilers?",
+   "options": [
+    "No change in any other drug class",
+    "Disease disappeared from the farms",
+    "More aminoglycoside use, resistance",
+    "Total use of antibiotics rose tenfold"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Removing some classes shifted use, and resistance, toward others such as aminoglycosides.",
+   "shortExplanation": "Aminoglycosides rose.",
+   "pmid": "34424161",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the withdrawal of individual compounds, such as cephalosporins and fluoroquinolones, prompted an increase in use of and resistance levels for other drug classes, such as aminoglycosides",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34424161-2-es",
+   "translationKey": "vet-34424161-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué efecto no deseado siguió al retiro de cefalosporinas y fluoroquinolonas en pollos?",
+   "options": [
+    "Ningún cambio en otras clases",
+    "La enfermedad desapareció de las granjas",
+    "Más uso y resistencia a aminoglucósidos",
+    "El uso total de antibióticos se decuplicó"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Quitar algunas clases desplazó el uso, y la resistencia, hacia otras como los aminoglucósidos.",
+   "shortExplanation": "Subieron los aminoglucósidos.",
+   "pmid": "34424161",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the withdrawal of individual compounds, such as cephalosporins and fluoroquinolones, prompted an increase in use of and resistance levels for other drug classes, such as aminoglycosides",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25421382-1-en",
+   "translationKey": "vet-25421382-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "By how much did the Netherlands cut antimicrobial use in farm animals between 2007 and 2012?",
+   "options": [
+    "About 6%",
+    "About 56%",
+    "About 16%",
+    "About 96%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Compulsory and voluntary actions with clear goals cut use by 56%, aiming for 70% by 2015.",
+   "shortExplanation": "~56%.",
+   "pmid": "25421382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resulted in a 56% reduction in antimicrobial use in farm animals in the Netherlands between 2007 and 2012",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25421382-1-es",
+   "translationKey": "vet-25421382-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuánto redujo Países Bajos el uso de antimicrobianos en animales de granja entre 2007 y 2012?",
+   "options": [
+    "Cerca del 6%",
+    "Cerca del 56%",
+    "Cerca del 16%",
+    "Cerca del 96%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Acciones obligatorias y voluntarias con metas claras redujeron el uso 56%, con objetivo de 70% en 2015.",
+   "shortExplanation": "~56%.",
+   "pmid": "25421382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "resulted in a 56% reduction in antimicrobial use in farm animals in the Netherlands between 2007 and 2012",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25421382-2-en",
+   "translationKey": "vet-25421382-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What had happened to Dutch farm-animal antimicrobial use between 1990 and 2007?",
+   "options": [
+    "It had already fallen by half",
+    "It stayed exactly the same",
+    "It was banned completely",
+    "It had doubled over that time"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Use doubled before MRSA and ESBL reservoirs in animals and public pressure opened a window for change.",
+   "shortExplanation": "It doubled.",
+   "pmid": "25421382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "total therapeutic antimicrobial use in farm animals in the Netherlands doubled between 1990 and 2007",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-25421382-2-es",
+   "translationKey": "vet-25421382-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué había pasado con el uso de antimicrobianos en animales de granja holandeses entre 1990 y 2007?",
+   "options": [
+    "Ya había bajado a la mitad",
+    "Se mantuvo exactamente igual",
+    "Se prohibió por completo",
+    "Se había duplicado"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El uso se duplicó antes de que los reservorios de SARM y BLEE en animales y la presión pública abrieran el cambio.",
+   "shortExplanation": "Se duplicó.",
+   "pmid": "25421382",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "total therapeutic antimicrobial use in farm animals in the Netherlands doubled between 1990 and 2007",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39535188-1-en",
+   "translationKey": "vet-39535188-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Where does H5N1 mainly replicate in infected dairy cows?",
+   "options": [
+    "In the mammary tissue",
+    "In the brain and spinal cord",
+    "In the rumen wall",
+    "In the hooves and skin"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Replication is mostly in the udder, with high viral loads in milk.",
+   "shortExplanation": "Mammary tissue.",
+   "pmid": "39535188",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "replication of the virus in cows appears to be mainly confined to the mammary tissue, with high levels of viral loads detected in milk",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39535188-1-es",
+   "translationKey": "vet-39535188-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Dónde se replica principalmente el H5N1 en vacas lecheras infectadas?",
+   "options": [
+    "En el tejido mamario",
+    "En el cerebro y la médula",
+    "En la pared del rumen",
+    "En las pezuñas y la piel"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La replicación ocurre sobre todo en la ubre, con cargas virales altas en la leche.",
+   "shortExplanation": "Tejido mamario.",
+   "pmid": "39535188",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "replication of the virus in cows appears to be mainly confined to the mammary tissue, with high levels of viral loads detected in milk",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39535188-2-en",
+   "translationKey": "vet-39535188-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why were human H5N1 cases in US dairy workers especially significant?",
+   "options": [
+    "They were the first H5N1 cases ever",
+    "They caused a large human pandemic",
+    "First mammal-to-human H5N1 spread",
+    "They proved the virus came from pigs"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Infections attributed to exposure to cattle are believed to be the first mammal-to-human transmission of H5N1.",
+   "shortExplanation": "Mammal to human.",
+   "pmid": "39535188",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This is believed to represent the first mammalian-to-human transmission report of the HPAIV H5N1",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39535188-2-es",
+   "translationKey": "vet-39535188-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué fueron tan importantes los casos humanos de H5N1 en trabajadores de tambos de EE. UU.?",
+   "options": [
+    "Fueron los primeros casos de H5N1",
+    "Causaron una gran pandemia humana",
+    "Primer contagio de mamífero a humano",
+    "Probaron que el virus venía de cerdos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las infecciones atribuidas al contacto con bovinos serían la primera transmisión de H5N1 de un mamífero a humanos.",
+   "shortExplanation": "De mamífero a humano.",
+   "pmid": "39535188",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This is believed to represent the first mammalian-to-human transmission report of the HPAIV H5N1",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33353489-1-en",
+   "translationKey": "vet-33353489-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which vaccine strains are most widely used against brucellosis in cattle?",
+   "options": [
+    "BCG and H37Rv",
+    "Strain 19 and RB51",
+    "Sterne 34F2 and Pasteur",
+    "Rev-1 and S2"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "S19 and RB51 are the main cattle vaccines, though none is fully protective and safe.",
+   "shortExplanation": "S19 and RB51.",
+   "pmid": "33353489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most widely used vaccine strains to protect against Brucella infection and related abortions in cattle are strain 19 and RB51",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33353489-1-es",
+   "translationKey": "vet-33353489-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué cepas vacunales se usan más contra la brucelosis bovina?",
+   "options": [
+    "BCG y H37Rv",
+    "Cepa 19 y RB51",
+    "Sterne 34F2 y Pasteur",
+    "Rev-1 y S2"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "S19 y RB51 son las principales vacunas bovinas, aunque ninguna es totalmente protectora y segura.",
+   "shortExplanation": "S19 y RB51.",
+   "pmid": "33353489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most widely used vaccine strains to protect against Brucella infection and related abortions in cattle are strain 19 and RB51",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33353489-2-en",
+   "translationKey": "vet-33353489-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What remains the gold standard for diagnosing bovine brucellosis?",
+   "options": [
+    "A single serum ELISA",
+    "The rose bengal test alone",
+    "Rectal palpation of the uterus",
+    "Isolating the bacterium"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Culture and identification remain the gold standard, though they require expertise.",
+   "shortExplanation": "Isolation.",
+   "pmid": "33353489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Isolation and identification remain the gold standard test",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33353489-2-es",
+   "translationKey": "vet-33353489-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué sigue siendo el método de referencia para diagnosticar brucelosis bovina?",
+   "options": [
+    "Un solo ELISA en suero",
+    "Solo la prueba de rosa de bengala",
+    "La palpación rectal del útero",
+    "Aislar e identificar Brucella"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El cultivo y la identificación siguen siendo el estándar de oro, aunque requieren experiencia.",
+   "shortExplanation": "El aislamiento.",
+   "pmid": "33353489",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Isolation and identification remain the gold standard test",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34957279-1-en",
+   "translationKey": "vet-34957279-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What was the main risk factor in the 2017 canine leptospirosis outbreak in Osaka?",
+   "options": [
+    "Eating raw chicken",
+    "Contact with stray cats",
+    "Walks along a riverbed",
+    "Recent rabies vaccination"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Dogs walked along the same riverbed had 13.3-fold higher odds of infection.",
+   "shortExplanation": "Riverbed walks.",
+   "pmid": "34957279",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the odds of leptospirosis infection was 13.3 times higher (p = 0.044) in the dogs taken on walks along the riverbed",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34957279-1-es",
+   "translationKey": "vet-34957279-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál fue el principal factor de riesgo del brote de leptospirosis canina de Osaka en 2017?",
+   "options": [
+    "Comer pollo crudo",
+    "El contacto con gatos callejeros",
+    "Paseos por el lecho de un río",
+    "Una vacuna antirrábica reciente"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los perros paseados por el mismo lecho del río tenían 13,3 veces más chances de infectarse.",
+   "shortExplanation": "Paseos junto al río.",
+   "pmid": "34957279",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the odds of leptospirosis infection was 13.3 times higher (p = 0.044) in the dogs taken on walks along the riverbed",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34957279-2-en",
+   "translationKey": "vet-34957279-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why was the suspected serovar in the Osaka outbreak a concern?",
+   "options": [
+    "No canine vaccine covered it",
+    "It only infects cats",
+    "It is resistant to all drugs",
+    "It cannot be detected by MAT"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Serovar Australis was suspected, and no canine vaccine against it was available in Japan.",
+   "shortExplanation": "No vaccine covered it.",
+   "pmid": "34957279",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "L. interrogans serovar Australis was suspected to be the causative agent, for which no canine vaccine is available in Japan",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-34957279-2-es",
+   "translationKey": "vet-34957279-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué preocupaba el serovar sospechado en el brote de Osaka?",
+   "options": [
+    "Ninguna vacuna canina lo cubría",
+    "Solo infecta a gatos",
+    "Es resistente a todos los fármacos",
+    "No se detecta con la MAT"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Se sospechó del serovar Australis, para el que no había vacuna canina en Japón.",
+   "shortExplanation": "Sin vacuna que lo cubra.",
+   "pmid": "34957279",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "L. interrogans serovar Australis was suspected to be the causative agent, for which no canine vaccine is available in Japan",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37861061-1-en",
+   "translationKey": "vet-37861061-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which dogs does the updated ACVIM consensus say can get leptospirosis?",
+   "options": [
+    "Only large rural hunting dogs",
+    "Small urban dogs and pups too",
+    "Only dogs that swim in lakes",
+    "Only unvaccinated stray dogs"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Disease occurs in small urban dogs, pups as young as 11 weeks, old dogs and inadequately vaccinated dogs.",
+   "shortExplanation": "Small urban dogs too.",
+   "pmid": "37861061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including in small breed dogs from urban areas, puppies as young as 11 weeks of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37861061-1-es",
+   "translationKey": "vet-37861061-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Según el consenso actualizado del ACVIM, ¿qué perros pueden tener leptospirosis?",
+   "options": [
+    "Solo perros de caza grandes y rurales",
+    "También chicos urbanos y cachorros",
+    "Solo perros que nadan en lagos",
+    "Solo perros callejeros sin vacunar"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Ocurre en perros chicos urbanos, cachorros de 11 semanas, perros mayores y perros mal vacunados.",
+   "shortExplanation": "También urbanos chicos.",
+   "pmid": "37861061",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including in small breed dogs from urban areas, puppies as young as 11 weeks of age",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   }
