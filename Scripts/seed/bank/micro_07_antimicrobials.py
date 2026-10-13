@@ -56,9 +56,9 @@ Q = [
 
 # --- TMP-SMX (30020604)
 ("30020604", "explorer", 3, "The combination exerts a synergistic bactericidal effect by sequential inhibition of bacterial folate synthesis",
- ("Why are trimethoprim and sulfamethoxazole combined?", ["They block two different ribosomal subunits", "One kills fungi and the other kills bacteria", "They block two steps of folate synthesis", "Combining them mainly lowers treatment cost"],
+ ("Why are trimethoprim and sulfamethoxazole combined?", ["They block two different ribosomal subunits", "One kills fungi and the other kills bacteria", "Combining them mainly lowers treatment cost", "They block two steps of folate synthesis"],
   "Sulfamethoxazole and trimethoprim block successive steps of bacterial folate synthesis, producing synergy.", "Sequential folate blockade."),
- ("¿Por qué se combinan trimetoprima y sulfametoxazol?", ["Bloquean dos subunidades ribosomales distintas", "Uno mata hongos y el otro mata bacterias", "Bloquean dos pasos de la síntesis de folato", "Combinarlos sobre todo reduce el costo"],
+ ("¿Por qué se combinan trimetoprima y sulfametoxazol?", ["Bloquean dos subunidades ribosomales distintas", "Uno mata hongos y el otro mata bacterias", "Combinarlos sobre todo reduce el costo", "Bloquean dos pasos de la síntesis de folato"],
   "El sulfametoxazol y la trimetoprima bloquean pasos sucesivos de la síntesis bacteriana de folato, con sinergia.", "Bloqueo secuencial del folato.")),
 ("30020604", "researcher", 1, "treatment and prophylaxis of Pneumocystis jirovecii pneumonia and toxoplasmosis",
  ("Besides urinary infections, TMP-SMX is a drug of choice for treating and preventing…", ["Tuberculous meningitis", "Pneumocystis pneumonia", "Candida esophagitis in AIDS", "Seasonal influenza A"],
