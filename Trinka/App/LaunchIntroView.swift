@@ -1,4 +1,5 @@
 import AVFoundation
+import Combine
 import SwiftUI
 import TrinkaUI
 import UIKit
@@ -59,7 +60,7 @@ struct LaunchIntroView: View {
         .accessibilityLabel("TRINKA")
         .accessibilityAddTraits(.isButton)
         .accessibilityHint(L10n.tr("intro.skip"))
-        .accessibilityAction(perform: finish)
+        .accessibilityAction { finish() }
         .task { await start() }
         .onReceive(NotificationCenter.default.publisher(for: AVPlayerItem.didPlayToEndTimeNotification)) { notification in
             if (notification.object as? AVPlayerItem) === player?.currentItem { finish() }
