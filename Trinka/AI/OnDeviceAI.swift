@@ -147,7 +147,7 @@ struct GeneratedQuestion {
     var prompt: String
     @Guide(description: "The correct answer: a short phrase stated in the sentence")
     var correctAnswer: String
-    @Guide(description: "Three wrong answers of the same kind as the correct one, plausible for a student, each different")
+    @Guide(description: "Three wrong answers of the same kind as the correct one, plausible for a student, each different, each about as long and as detailed as the correct answer")
     var wrongAnswers: [String]
     @Guide(description: "One or two sentences explaining why the correct answer is right")
     var explanation: String

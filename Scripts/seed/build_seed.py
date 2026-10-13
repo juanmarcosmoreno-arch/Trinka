@@ -21,6 +21,8 @@ import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 
+from length_bias import issues as length_cue
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 OUT = os.path.join(ROOT, "Packages/TrinkaKit/Sources/TrinkaQuiz/Resources/SeedQuestions.json")
@@ -153,6 +155,9 @@ def main():
                 errors.append(f"{q['id']}-{lang}: options must be 4 distinct values")
             if not 0 <= q["correct"] < 4:
                 errors.append(f"{q['id']}: correct index out of range")
+            elif len(t["options"]) == 4 and (cue := length_cue(t["options"], q["correct"])):
+                # "Pick the longest option" must not beat chance (see length_bias.py).
+                errors.append(f"{q['id']}-{lang}: {cue}")
             entries.append(dict(id=f"{q['id']}-{lang}", translationKey=q["id"], language=lang, category=q["category"],
                                 difficulty=level, prompt=t["prompt"], options=t["options"], correctOptionIndex=q["correct"],
                                 explanation=t["explanation"], shortExplanation=t["short"], pmid=q["pmid"],
@@ -172,6 +177,9 @@ def main():
     print("Per level:", ", ".join(f"{lvl} {levels[lvl]}" for lvl in LEVELS))
     print("Per discipline:", ", ".join(f"{c} {n}" for c, n in sorted(cats.items())))
     print("Correct option A/B/C/D:", "/".join(str(answers[i]) for i in range(4)))
+    longest = sum(1 for e in english
+                  if len(e["options"][e["correctOptionIndex"]]) == max(len(o) for o in e["options"]))
+    print(f"Correct option is the longest in {longest / len(english):.0%} of questions (chance: 25%).")
 
 
 if __name__ == "__main__":

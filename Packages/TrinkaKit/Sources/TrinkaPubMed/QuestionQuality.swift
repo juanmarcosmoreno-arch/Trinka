@@ -87,10 +87,13 @@ public enum QuestionQuality {
         if options.indices.contains(correctIndex) {
             let answer = normalized[correctIndex]
             if answer.count >= 4, lowerPrompt.contains(answer) { issues.append(.answerInPrompt) }
-            // The correct option shouldn't stand out by being far longer than every other option.
+            // "Pick the longest (or shortest) option" must not beat chance: the correct option may be
+            // at most ~30% longer than the longest distractor and not much shorter than the shortest.
             let others = normalized.enumerated().filter { $0.offset != correctIndex }.map(\.element.count)
-            if let longest = others.max(), longest > 0, answer.count > max(longest * 3, longest + 60) {
-                issues.append(.unbalancedOptions)
+            if let longest = others.max(), let shortest = others.min(), longest > 0 {
+                let tooLong = Double(answer.count) > max(Double(longest) * 1.3, Double(longest + 12))
+                let tooShort = Double(answer.count) < min(Double(shortest) * 0.6, Double(shortest - 12))
+                if tooLong || tooShort { issues.append(.unbalancedOptions) }
             }
         }
         if normalized.contains(where: { option in catchAll.contains { option.contains($0) } }) { issues.append(.catchAllOption) }

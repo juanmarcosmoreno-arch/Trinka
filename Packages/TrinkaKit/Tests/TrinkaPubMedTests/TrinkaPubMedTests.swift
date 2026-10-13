@@ -407,5 +407,12 @@ final class QuestionQualityTests: XCTestCase {
                                              options: ["2019", "2020", "2021", "2022"], correctIndex: 1).contains(.trivia))
         XCTAssertTrue(QuestionQuality.issues(prompt: "Which organism causes most cases of cellulitis?",
                                              options: ["Strep", "strep", "Staph", "E. coli"], correctIndex: 0).contains(.duplicateOptions))
+        // The correct option must not give itself away by length.
+        XCTAssertTrue(QuestionQuality.issues(prompt: "Which drug is first-line for severe MRSA infections?",
+                                             options: ["Intravenous vancomycin, adjusted to trough levels", "Penicillin", "Amoxicillin", "Cephalexin"],
+                                             correctIndex: 0).contains(.unbalancedOptions))
+        XCTAssertTrue(QuestionQuality.issues(prompt: "Which drug is first-line for severe MRSA infections?",
+                                             options: ["Vanco", "Oral penicillin V at high doses", "Amoxicillin with clavulanic acid", "Cephalexin for ten days"],
+                                             correctIndex: 0).contains(.unbalancedOptions))
     }
 }
