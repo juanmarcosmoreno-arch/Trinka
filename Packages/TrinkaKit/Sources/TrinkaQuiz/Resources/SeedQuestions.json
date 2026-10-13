@@ -1,5 +1,5 @@
 {
- "version": 21,
+ "version": 22,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -5232,6 +5232,495 @@
     "Journal Article",
     "Systematic Review",
     "Network Meta-Analysis"
+   ]
+  },
+  {
+   "pmid": "26585471",
+   "title": "Randomized noninferiority study evaluating the efficacy of 2 commercial dry cow mastitis formulations.",
+   "authors": [
+    "Johnson AP",
+    "Godden SM",
+    "Royster E",
+    "Zuidhof S",
+    "Miller B",
+    "Sorg J"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2016,
+   "doi": "10.3168/jds.2015-10190",
+   "abstract": "The study objective was to compare the efficacy of 2 commercial dry cow mastitis formulations containing cloxacillin benzathine or ceftiofur hydrochloride. Quarter-level outcomes included prevalence of intramammary infection (IMI) postcalving, risk for cure of preexisting infections, risk for acquiring a new IMI during the dry period, and risk for clinical mastitis between dry off and 100 d in milk (DIM). Cow-level outcomes included the risk for clinical mastitis and the risk for removal from the herd between dry off and 100 DIM, as well as Dairy Herd Improvement Association (DHIA) test-day milk component and production measures between calving and 100 DIM. A total of 799 cows from 4 Wisconsin dairy herds were enrolled at dry off and randomized to 1 of the 2 commercial dry cow therapy (DCT) treatments: cloxacillin benzathine (DC; n=401) or ceftiofur hydrochloride (SM; n=398). Aseptic quarter milk samples were collected for routine bacteriological culture before DCT at dry off and again at 0 to 10 DIM. Data describing clinical mastitis cases and DHIA test-day results were retrieved from on-farm electronic records. The overall crude quarter-level prevalence of IMI at dry off was 34.7% and was not different between treatment groups. Ninety-six percent of infections at dry off were of gram-positive organisms, with coagulase-negative Staphylococcus and Aerococcus spp. isolated most frequently. Mixed logistic regression analysis showed no difference between treatments as to the risk for presence of IMI at 0 to 10 DIM (DC=22.4%, SM=19.9%) or on the risk for acquiring a new IMI between dry off and 0 to 10 DIM (DC=16.6%, SM=14.1%). Noninferiority analysis and mixed logistic regression analysis both showed no treatment difference in risk for a cure between dry off and 0 to 10 DIM (DC=84.8%, SM=85.7%). Cox proportional hazards regression showed no difference between treatments in quarter-level risk for clinical mastitis (DC=1.99%, SM=2.96%), cow-level risk for clinical mastitis (DC=17.0%, SM=15.3%), or on risk for removal from the herd (DC=10.7%, SM=10.3%) between dry off and 100 DIM. Finally, multivariable linear regression with repeated measures showed no overall no difference between treatments in DHIA test-day somatic cell count linear score (DC=2.19, SM=2.22), butterfat test (DC=3.84%, SM=3.86%), protein test (DC=3.02%, SM=3.02%), or 305-d mature-equivalent milk production (DC=11,817 kg, SM=11,932 kg) between calving and 100 DIM. In conclusion, DC was noninferior to SM in effecting a cure, and there was no difference in efficacy between these 2 DCT formulations as related to all other udder health or cow performance measures evaluated between dry off and 100 DIM.",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29778482",
+   "title": "Randomized noninferiority field trial evaluating cephapirin sodium for treatment of nonsevere clinical mastitis.",
+   "authors": [
+    "Tomazi T",
+    "Lopes TAF",
+    "Masson V",
+    "Swinkels JM",
+    "Santos MV"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2018,
+   "doi": "10.3168/jds.2017-14002",
+   "abstract": "The general objective of this study was to evaluate whether cephapirin sodium is noninferior compared with a positive control broad-spectrum product formulated with a combination of antimicrobials for intramammary treatment of nonsevere clinical mastitis. In addition, we compared the efficacy of treatments on the cure risks of pathogen groups (gram-positive, gram-negative, and cultures with no growth) based on culture results. A total of 346 cows distributed in 31 commercial dairy herds were selected to participate in the study, although only 236 met the criteria for evaluation of microbiological cure. Coagulase-negative staphylococci were the most isolated gram-positive pathogens in pretreatment milk samples, whereas the most common gram-negative bacterium was Escherichia coli. Cows attending the postadmission criteria were treated with 4 intramammary infusions (12 h apart) of one of the following antimicrobials: 300 mg of cephapirin sodium + 20 mg of prednisolone (CS), or the positive control treatment formulated with a combination of antimicrobials (200 mg of tetracycline + 250 mg of neomycin + 28 mg of bacitracin + 10 mg of prednisolone; TNB). Noninferiority analysis and mixed regression models (overall and considering the pathogen groups) were performed for the following outcomes: bacteriological cure (absence of the causative pathogens in cultures performed in milk samples collected at 14 and 21 ± 3 d after enrollment), pathogen cure (absence of any pathogen on both follow-up samples), clinical cure (absence of clinical sign in the milk and mammary gland at 48 h after the last antimicrobial infusion), extended clinical cure (normal milk and normal gland on the second posttreatment sample collection (d 21), and linear score of somatic cell count cure [linear score of somatic cell count recovery (≤4.0) on d 21 ± 3 after enrollment]. No significant differences were observed between treatments regarding any of the evaluated outcomes in both regression models (overall and considering the pathogen groups). Noninferiority of CS relative to TNB was inconclusive for bacteriological cure (CS = 0.68; TNB = 0.73) and clinical cure (CS = 0.88; TNB = 0.94), as the confidence intervals crossed the pre-stated margin of noninferiority (Δ = -0.15). Cephapirin sodium was noninferior compared with TNB for pathogen cure (CS = 0.36; TNB = 0.35), extended clinical cure (CS = 0.93; TNB = 0.92), and linear score of somatic cell count cure (CS = 0.29; TNB = 0.28). In conclusion, the use of intramammary CS for treatment of nonsevere clinical mastitis has similar efficacy as a treatment regimen with a combination of antimicrobial agents (tetracycline + neomycin + bacitracin), although noninferiority analysis showed inconclusive results for bacteriological and clinical cures.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33612204",
+   "title": "Short communication: Comparative performance of 3 on-farm culture systems for detection of mastitis pathogens interpreted by trained and untrained observers.",
+   "authors": [
+    "Sipka A",
+    "Wieland M",
+    "Biscarini F",
+    "Rossi RM",
+    "Roman N",
+    "Santisteban C",
+    "Moroni P",
+    "Nydam DV"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2021,
+   "doi": "10.3168/jds.2020-19166",
+   "abstract": "On-farm culture (OFC) systems facilitate pathogen-based mastitis management and can facilitate antimicrobial stewardship on dairy farms. Interpretation of the results, however, may present a challenge for those with limited microbiology experience. Here, we compared results of 3 OFC systems interpreted by trained and untrained observers against results of a standard laboratory reference method (aerobic culture and mass spectrometry). Milk samples (280 quarter and 60 composite) were selected from submissions for routine diagnostic testing to Quality Milk Production Services (Cornell University, Ithaca, NY) between August 2017 and January 2018. Samples were cultured simultaneously using the standard laboratory reference method and 3 commercially available OFC systems that varied in detail of pathogen identification (provided in parentheses) as follows: (1) Minnesota Easy Culture System II Bi-plate (University of Minnesota Laboratory for Udder Health, St. Paul; gram-positive, gram-negative), (2) Minnesota Easy Culture System II Tri-plate (gram-positive, gram-negative, some genus level), and (3) FERA Diagnostics and Biologicals AccuMast plate (Ithaca, NY; genus level, some species level). After 18 to 24 h of incubation, OFC plates were interpreted by 1 trained observer (>10 yr of experience in milk microbiology) and 6 untrained observers with no previous milk microbiology training, using only the manufacturers' instructions for guidance. Strength of agreement (κ) between observer groups and the reference method was determined for the available outcomes of each system. Interpreted by the trained observer, agreement was moderate for identifying gram-positive organisms (Bi-plate, κ = 0.56) and substantial for Streptococcus spp. (Tri-plate, κ = 0.64, AccuMast κ = 0.61). Interpretation by untrained observers resulted in fair agreement (κ = 0.29-0.37) for these organisms. Moderate agreement (κ = 0.43-0.59) was found across all 3 OFC for the identification of gram-negative organisms (Bi-plate), non-aureus staphylococci (Tri-plate and AccuMast), Lactococcus spp., and Enterococcus spp. (AccuMast) when interpreted by the trained observer, and fair to moderate agreement was found (κ = 0.31-0.53) among untrained observers. Across all 3 OFC, agreement was almost perfect (κ = 0.80-0.89) for Staphylococcus aureus for the trained observer, and moderate to substantial (κ = 0.56-0.61) for untrained observers. We concluded that all 3 OFC appeared suitable to support pathogen-based mastitis management when operated by trained observers. Training beyond the instruction manual is a prerequisite to make OFC systems useful for pathogen-based mastitis management.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "26778316",
+   "title": "Addition of meloxicam to the treatment of clinical mastitis improves subsequent reproductive performance.",
+   "authors": [
+    "McDougall S",
+    "Abbeloos E",
+    "Piepers S",
+    "Rao AS",
+    "Astiz S",
+    "van Werven T",
+    "Statham J",
+    "Pérez-Villalobos N"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2016,
+   "doi": "10.3168/jds.2015-9615",
+   "abstract": "A blinded, negative controlled, randomized intervention study was undertaken to test the hypothesis that addition of meloxicam, a nonsteroidal anti-inflammatory drug, to antimicrobial treatment of mild to moderate clinical mastitis would improve fertility and reduce the risk of removal from the herd. Cows (n=509) from 61 herds in 8 regions (sites) in 6 European countries were enrolled. Following herd-owner diagnosis of mild to moderate clinical mastitis within the first 120 d of lactation in a single gland, the rectal temperature, milk appearance, and California Mastitis Test score were assessed. Cows were randomly assigned within each site to be treated either with meloxicam or a placebo (control). All cows were additionally treated with 1 to 4 intramammary infusions of cephalexin and kanamycin at 24-h intervals. Prior to treatment and at 14 and 21 d posttreatment, milk samples were collected for bacteriology and somatic cell count. Cows were bred by artificial insemination and pregnancy status was subsequently defined. General estimating equations were used to determine the effect of treatment (meloxicam versus control) on bacteriological cure, somatic cell count, the probability of being inseminated by 21 d after the voluntary waiting period, the probability of conception to first artificial insemination, the number of artificial insemination/conception, the probability of pregnancy by 120 or 200 d postcalving, and the risk of removal by 300 d after treatment. Cox's proportional hazards models were used to test the effect of treatment on the calving to first insemination and calving to conception intervals. Groups did not differ in terms of age, clot score, California Mastitis Test score, rectal temperature, number of antimicrobial treatments given or bacteria present at the time of enrollment, but cows treated with meloxicam had greater days in milk at enrollment. Cows treated with meloxicam had a higher bacteriological cure proportion than those treated with the placebo [0.66 (standard error=0.04) versus 0.50 (standard error=0.06), respectively], although the proportion of glands from which no bacteria were isolated posttreatment did not differ between groups. No difference was observed in the somatic cell count between groups pre- or posttreatment. The proportion of cows that underwent artificial insemination by 21 d after the voluntary waiting period was unaffected by treatment. Treatment with meloxicam was associated with a higher proportion of cows conceiving to their first artificial insemination (0.31 versus 0.21), and a higher proportion of meloxicam-treated cows were pregnant by 120 d after calving (0.40 versus 0.31). The number of artificial inseminations required to achieve conception was lower in the meloxicam compared with control cows (2.43 versus 2.92). No difference was observed between groups in the proportion of cows pregnant by 200 d after calving or in the proportion of cows that were culled, died, or sold by 300 d after calving (17% versus 21% for meloxicam versus control, respectively). It was concluded that use of meloxicam, in conjunction with antimicrobial therapy, for mild to moderate cases of clinical mastitis, resulted in a higher probability of bacteriological cure, an increased probability of conception to first artificial insemination, fewer artificial inseminations, and a greater proportion of cows pregnant by 120 d in milk.",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "3528251",
+   "title": "Growth of environmental mastitis pathogens in various bedding materials.",
+   "authors": [
+    "Zehner MM",
+    "Farnsworth RJ",
+    "Appleman RD",
+    "Larntz K",
+    "Springer JA"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 1986,
+   "doi": "10.3168/jds.S0022-0302(86)80620-8",
+   "abstract": "The objective of the study was to determine whether, under controlled conditions, bedding materials vary in their ability to support growth of different environmental pathogens independent of the presence of feces, urine, or other contamination. Five sterilized bedding materials (fine hardwood chips, recycled dried manure, chopped newspaper, softwood sawdust, and chopped straw) and three bacterial species (Escherichia coli, Klebsiella pneumoniae, and Streptococcus uberis) were used for a total of 15 bedding/bacteria combinations, replicated in three trials. Samples were incubated at 37 degrees C, and bacterial counts were determined over 5 d. Rapid growth was seen in straw and recycled manure, some growth occurred in hardwood chips, and a rapid decline in bacterial counts was observed in paper and softwood sawdust. In general, K. pneumoniae and E. coli showed more rapid growth or less rapid decline than did S. uberis. These results demonstrate that clean, damp bedding may support bacterial growth and suggest that high bacterial counts under barn conditions are influenced by factors more complex than type of bedding used.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35529833",
+   "title": "Association Between Recycled Manure Solids Bedding and Subclinical Mastitis Incidence: A Canadian Cohort Study.",
+   "authors": [
+    "Fréchette A",
+    "Fecteau G",
+    "Côté C",
+    "Dufour S"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2022,
+   "doi": "10.3389/fvets.2022.859858",
+   "abstract": "Recycled manure solids (RMS) are increasingly used as bedding for dairy cows. However, potential impact of RMS bedding on animal health is not well described. The objective of this study was to evaluate subclinical mastitis incidence in cows housed on RMS bedding. Twenty RMS farms and a comparative group of 60 straw-bedded farms were enrolled in a 1-year longitudinal study (2018-2019). Data from 11,031 dairy cows were collected. Variations of individual somatic cell count were evaluated using three different methods. First, we compared the cow's mean lactation linear score between cows housed on the two bedding types. Then, we compared across bedding types the risk for a given cow of having a milk test with a linear score ≥ 4. Finally, we evaluated the dynamics of somatic cell count using pairs of tests within a cow. More specifically, we considered that only pairs of DHI tests where the first test yielded a linear score < 4 were at risk of an incident subclinical mastitis event. Then, we defined a newly acquired subclinical mastitis when the second test was ≥ 4. All models were adjusted for putative confounders. We could not highlight a significant association between bedding type and cow's mean lactational linear score (least square mean of 2.47 in cows from RMS farms vs. 2.37 in straw farms; 95%CI for linear score's difference: -0.20, 0.40). Furthermore, we could not find an association between bedding type and the risk of a high linear score (≥ 4). For the latter, cows housed on RMS had 0.93 times the risk of having a high linear score than straw-bedded cows (%95 CI: 0.68, 1.28). Moreover, cows on recycled manure solids farms had 0.73 time the risk of acquiring subclinical mastitis when compared to straw-bedded farms. Again, this risk was not statistically significant (%95 CI: 0.54, 1.00). In our study, RMS bedding was not associated with subclinical mastitis, as measured by somatic cell count, when compared to cows housed on a more conventional bedding, straw bedding.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37099864",
+   "title": "Genomic epidemiology of bovine mastitis-causing Staphylococcus aureus in New Zealand.",
+   "authors": [
+    "Nesaraj J",
+    "Grinberg A",
+    "Laven R",
+    "Biggs P"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 2023,
+   "doi": "10.1016/j.vetmic.2023.109750",
+   "abstract": "We analysed the genomes of 188 bovine-mastitis-causing S. aureus isolates obtained over a 17-year period from more than 65 dairy farms across New Zealand. The analysis revealed a unique pattern of dominance over the entire period of study, of clonal complex 1, sequence type 1 (CC1/ST1), which accounted for ∼75% of the isolates. CC1/ST1 was also the commonest lineage infecting humans in New Zealand in the same period, but most bovine CC1/ST1 analysed in this study carried the genes coding for the bovine-adaptive bicomponent leucocidin lukF and lukM and lacked the corresponding human-adaptive lukF-PV and lukS-PV genes. Typical ruminant-associated lineages, such as ST97, ST151 and CC133 were also observed. Cluster analyses of the core and accessory genomes revealed genomic segregations according to the CCs, but lack of segregation based on the geographical location or collection year, suggesting a stable population in space and time. To our knowledge, this is the first identification of genomic markers of host adaptation to cattle in S. aureus CC1/ST1, a lineage commonly associated with humans, worldwide. The temporal clonal stability observed would enable the development of a S. aureus vaccine for New Zealand cattle, which is unlikely to undergo substantial reduction of efficacy due to clonal drifts or shifts.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "30639010",
+   "title": "Bovine mastitis bacteria resolved by MALDI-TOF mass spectrometry.",
+   "authors": [
+    "Nonnemann B",
+    "Lyhs U",
+    "Svennesen L",
+    "Kristensen KA",
+    "Klaas IC",
+    "Pedersen K"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2019,
+   "doi": "10.3168/jds.2018-15424",
+   "abstract": "Matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) is a fast and reliable method to identify the most common pathogenic bacteria in humans and animals. The goals of this study were to amend a commercial database with additional species, evaluate the amended database for identification of bacterial genera and species causing bovine mastitis, and describe the plethora of species involved. In total, 500 udder pathogenic isolates were subjected to MALDI-TOF MS using bacterial or fungal colony material; 93.5% could be identified to the species level, and 6.5% were identified only to the genus level. Isolates identified to the genus level required further identification to the species level by conventional methods or 16S rDNA sequencing. Mass spectra from verified species were used to expand the MALDI-TOF MS database to improve future identification ability. A total of 24 genera and 61 species were identified in this study. Identified isolates were mainly staphylococci, streptococci, Enterobacteriaceae, and coryneforme bacteria. In conclusion, MALDI-TOF MS is a powerful, rapid, and reliable technique to identify the most common microorganisms causing bovine mastitis, and the database can be continuously expanded and improved with additional species.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34353173",
+   "title": "MALDI-TOF MS identification of Prototheca algae associated with bovine mastitis.",
+   "authors": [
+    "Fidelis CE",
+    "Franke M",
+    "de Abreu LCR",
+    "Jagielski T",
+    "Ribeiro MG",
+    "Dos Santos MV",
+    "Gonçalves JL"
+   ],
+   "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+   "year": 2021,
+   "doi": "10.1177/10406387211036459",
+   "abstract": "We evaluated the use of MALDI-TOF MS for the identification of 3 major, dairy-associated Prototheca species, namely, Prototheca bovis (formerly P. zopfii genotype 2), P. blaschkeae, and P. ciferrii (formerly P. zopfii genotype 1). The MALDI-TOF MS spectra established for those species were introduced into the reference spectra library of the Bruker Biotyper MALDI-TOF MS analysis software. Next, 31 Prototheca isolates from Holstein cows with mastitis, from herds located in the midwestern area of São Paulo State, Brazil, were subjected to MALDI-TOF MS profiling. MALDI-TOF MS allowed identification of 22 of 27 P. bovis and 3 of 4 P. blaschkeae isolates with scores >2.0, with 5 of 27 P. bovis and 1 of 4 P. blaschkeae isolates identified only to the genus level. With our extended algae database, MALDI-TOF MS can contribute to quick and effective speciation of Prototheca from mastitis cases.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18434557",
+   "title": "Bovine mastitis associated with Prototheca blaschkeae.",
+   "authors": [
+    "Marques S",
+    "Silva E",
+    "Kraft C",
+    "Carvalheira J",
+    "Videira A",
+    "Huss VA",
+    "Thompson G"
+   ],
+   "journal": "Journal of clinical microbiology",
+   "year": 2008,
+   "doi": "10.1128/JCM.00323-08",
+   "abstract": "Bovine mastitis is an important and complex disease responsible for economic losses in the dairy industry. Biotype II strains of the green alga Prototheca zopfii can be involved, most often resulting in chronic mastitis of difficult treatment associated with reduced milk production. This type of infection is rare, but the number of reported cases is increasing worldwide. In order to determine the kind of species involved in mastitis by Prototheca in northwest Portugal, 41 Prototheca isolates were genetically characterized. The algae are part of Prototheca isolates that were collected during a 6-year period, isolated from the milk of 41 dairy cows in a total of 22 herds with a history of increasing somatic cell counts, mild clinical signs of udder infection, and unsuccessful response to the usual therapy. PCR amplification of the 18S ribosomal DNA (rDNA), amplified rDNA restriction analysis, and phylogenetic analyses of the 18S rDNA sequences were performed. Thirty-seven isolates were identified as P. zopfii var. hydrocarbonea and four as Prototheca blaschkeae. These data suggest a high incidence of P. zopfii var. hydrocarbonea mastitis in the region and demonstrate for the first time the involvement of P. blaschkeae with bovine mammary gland infections.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34274863",
+   "title": "Milk losses linked to mastitis treatments at dairy farms with automatic milking systems.",
+   "authors": [
+    "Adriaens I",
+    "Van Den Brulle I",
+    "Geerinckx K",
+    "D'Anvers L",
+    "De Vliegher S",
+    "Aernouts B"
+   ],
+   "journal": "Preventive veterinary medicine",
+   "year": 2021,
+   "doi": "10.1016/j.prevetmed.2021.105420",
+   "abstract": "Mastitis-associated milk losses in dairy cows have a massive impact on farm profitability and sustainability. In this study, we analyzed milk losses from 4 553 treated mastitis cases as recorded via treatment registers at 41 AMS dairy farms. Milk losses were estimated based on the difference between the expected and the actual production. To estimate the unperturbed lactation curve, we applied an iterative procedure using the Wood model and a variance-dependent threshold on the milk yield residuals. We calculated milk losses both in a fixed window around the first treatment day of each mastitis case and in the perturbations corresponding to this day, at the cow level as well as at the quarter level. In a fixed time window of day -5 to 30 around the first treatment, the absolute median milk losses per case were 101.5 kg, highly dependent on the parity and the lactation stage with absolute milk losses being highest in multiparous cows and at peak lactation. Relative milk losses expressed in percentage were highest on the first treatment day, and full recovery was often not reached within 30 days from treatment onset. In 62 % of the cases, we found a perturbation in milk yield at the cow level at the time of treatment. On average, perturbations started 8.7 days before the first treatment and median absolute milk losses increased to 128 kg of milk per perturbation. Mastitis is not expected to have equal effects on the four quarters so this study additionally investigated losses in the individual udder quarters. We used a data-based method leveraging milk yield and electrical conductivity to project the presumably inflamed quarter. Next, we compared losses with the average of presumably non-inflamed quarters. Median absolute losses in a fixed 36-day window around treatment varied between 50.2 kg for front and 59.3 kg for hind inflamed quarters compared to respectively 24.7 and 26.3 kg for the median losses in the non-inflamed quarters. Also here, these losses differed between lactation stages and parities. Expressed proportionally to expected yield, the relative median milk losses in inflamed quarters on the treatment day were 20 % higher in inflamed quarters with a higher variability and slower recovery. In 86 % of the treated mastitis cases, at least one perturbation was found at the quarter level. This analysis confirms the high impact of mastitis on milk production, and the large variation between quarter losses illustrates the potential of quarter analysis for on-farm monitoring at farms with an automated milking system.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38260189",
+   "title": "Mastitis impact on high-yielding dairy farm's reproduction and net present value.",
+   "authors": [
+    "Borş A",
+    "Borş SI",
+    "Floriștean VC"
+   ],
+   "journal": "Frontiers in veterinary science",
+   "year": 2023,
+   "doi": "10.3389/fvets.2023.1345782",
+   "abstract": "Poor udder health can have a negative impact on milk production and reproductive performance, which reduces the net present value (NPV) of dairy farms. The aim of this study is therefore to investigate the relationship between clinical mastitis and NPV and the financial impact of impaired reproductive function. For this purpose, 473 dairy cows were included in our study, 146 cows with clinical mastitis (CM group) and 327 clinically healthy cows (CH group) from a high-yielding dairy farm in Romania, milking approximately 780 dairy cows with an average milk production of 46 kg milk/day. We found that, in contrast to CH cows, CM cows had a significantly lower conception rate at first service (58.2% vs. 41.7%, p < 0.05), third service (45.3% vs. 30.2%, p < 0.05), and total services (49.2% vs. 36.4%, p < 0.05). However, this positive effect was not observed for the average days open, which were significantly lower in CM cows than in CH cows (112 ± 4.3 days vs. 142 ± 3.1 days, p < 0.05). The fact that the non-pregnant CH cows had higher somatic cell counts (>400,000 SCC/mL) in their milk around artificial insemination (AI) and 1 month earlier than the pregnant cows (<250,000 SCC/ml) supports the idea that poor uterine health affects the reproductive activity of high-yielding cows. However, by using the UW-DairyRepro$ decision support tool, we found that despite the impairment of reproductive function in dairy cows, the largest negative impacts on NPV are still the cost of milk loss (US$14,439.4/farm/year) and treatment costs (US$4,380/farm/year). We considered the costs associated with poor reproductive function in the CM group (US$3,577/farm/year) as an additional cost of mastitis. Finally, it appears that the impact of mastitis on reproduction is associated with a lower chance of conception than it is with a daily risk of services.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40564261",
+   "title": "Association Between Escherichia coli Mastitis and Acute Laminitis in Dairy Cows.",
+   "authors": [
+    "Faustmann F",
+    "Baumgartner M",
+    "Piechl S",
+    "Fuerst-Waltl B",
+    "Kofler J"
+   ],
+   "journal": "Animals : an open access journal from MDPI",
+   "year": 2025,
+   "doi": "10.3390/ani15121709",
+   "abstract": "The objective of this retrospective case-control study was to examine the relationship between E. coli-induced mastitis and acute laminitis in dairy cows. Correspondingly, the medical records of 93 cows diagnosed with E. coli mastitis between 2012 and 2023 were analysed. The cows were categorised into three groups: (1) cows with mastitis scores of 1 or 2 without signs of acute laminitis; (2) cows with a mastitis score of 3 without signs of acute laminitis; (3) cows with a mastitis score of 3 and exhibiting symptoms of acute laminitis. Out of the 93 cows with E. coli mastitis, 19 were assigned to group 1 (20.4%), 46 to group 2 (49.5%), and 28 to group 3 (30.1%). A total of 74 cows (79.6%) scored 3 for mastitis, but 28 cows (37.8%) were also diagnosed with acute laminitis. A higher mastitis score was significantly associated with a higher incidence of acute laminitis (p = 0.0004). E. coli mastitis showed a higher incidence in parity ≥ 3 (73.3% to 78.6%) and occurred in cows of all three groups mainly during the first third of lactation (53.6% to 75.6%). Cows in group 1 had a median survival time of 512 days, while for cows in groups 2 and 3, these values were 93 and 178 days, respectively. Regarding survival times, only a trend but no statistically significant difference (p = 0.221) was found among the cows in the three groups. This could possibly be explained by the fact that additional comorbidities were diagnosed in 53.6% to 65.2% of the cows from all three groups. It is concluded that cows with severe coliform mastitis have a higher risk of developing acute laminitis, and that a thorough clinical examination of the claws should always be performed to avoid overlooking acute laminitis, which accompanied the E. coli mastitis in approximately 38% of cases.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18257917",
+   "title": "Managerial and environmental determinants of clinical mastitis in Danish dairy herds.",
+   "authors": [
+    "Sato K",
+    "Bartlett PC",
+    "Alban L",
+    "Agger JF",
+    "Houe H"
+   ],
+   "journal": "Acta veterinaria Scandinavica",
+   "year": 2008,
+   "doi": "10.1186/1751-0147-50-4",
+   "abstract": "BACKGROUND: Several management and environmental factors are known as contributory causes of clinical mastitis in dairy herd. The study objectives were to describe the structure of herd-specific mastitis management and environmental factors and to assess the relevance of these herd-specific indicators to mastitis incidence rate.\nMETHODS: Disease reports from the Danish Cattle Data Base and a management questionnaire from 2,146 herds in three Danish regions were analyzed to identify and characterize risk factors of clinical mastitis. A total of 94 (18 continuous and 76 discrete) management and production variables were screened in separate bivariate regression models. Variables associated with mastitis incidence rate at a p-value < 0.10 were examined with a factor analysis to assess the construct of data. Separately, a multivariable regression model was used to estimate the association of management variables with herd mastitis rate.\nRESULTS: Three latent factors (quality of labor, region of Denmark and claw trimming, and quality of outdoor holding area) were identified from 14 variables. Daily milk production per cow, claw disease, quality of labor and region of Denmark were found to be significantly associated with mastitis incidence rate. A common multiple regression analysis with backward and forward selection procedures indicated there were 9 herd-specific risk factors.\nCONCLUSION: Though risk factors ascertained by farmer-completed surveys explained a small percentage of the among-herd variability in crude herd-specific mastitis rates, the study suggested that farmer attitudes toward mastitis and lameness treatment were important determinants for mastitis incidence rate. Our factor analysis identified one significant latent factor, which was related to labor quality on the farm.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37353927",
+   "title": "Streptococcus agalactiae virulence factors isolated from bovine mastitis and antibiotic treatment response.",
+   "authors": [
+    "Torres G",
+    "Macias D",
+    "Reyes-Vélez J",
+    "Rios-Agudelo P",
+    "Caraballo-Guzmán A"
+   ],
+   "journal": "Journal of applied microbiology",
+   "year": 2023,
+   "doi": "10.1093/jambio/lxad116",
+   "abstract": "AIMS: This study aims to characterize the virulence factors of Streptococcus agalactiae strains isolated from bovine mastitis and their potential association with the antibiotic treatment response.\nMETHODS AND RESULTS: Four different profiles were identified among the 181 S. agalactiae strains using polymerase chain reaction, of which hyl B and cylE were found in 100% of the isolated strains, followed by cfb (99.5%), scpB (40.3%), and lmb (15.5%). The cell invasion assay showed that lmb-positive strains exhibited higher invasion ability than lmb-negative. There was a significant association (P = 0.018) between lmb gene and cows that required more than one treatment cycle.\nCONCLUSIONS: These results showed that intramammary infections caused by lmb-carrier S. agalactiae strains did not adequately respond to the antibiotics administered, likely because of the presence of this virulence factor, which potentially favours the cell invasion capacity of these strains.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33996629",
+   "title": "Multidrug Resistance and Molecular Characterization of Streptococcus agalactiae Isolates From Dairy Cattle With Mastitis.",
+   "authors": [
+    "Hernandez L",
+    "Bottini E",
+    "Cadona J",
+    "Cacciato C",
+    "Monteavaro C",
+    "Bustamante A",
+    "Sanso AM"
+   ],
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2021,
+   "doi": "10.3389/fcimb.2021.647324",
+   "abstract": "Streptococcus agalactiae is a pathogen-associated to bovine mastitis, a health disorder responsible for significant economic losses in the dairy industry. Antimicrobial therapy remains the main strategy for the control of this bacterium in dairy herds and human In order to get insight on molecular characteristics of S. agalactiae strains circulating among Argentinean cattle with mastitis, we received 1500 samples from 56 dairy farms between 2016 and 2019. We recovered 56 S. agalactiae isolates and characterized them in relation to serotypes, virulence genes, and antimicrobial susceptibility. Serotypes III and II were the most prevalent ones (46% and 41%, respectively), followed by Ia (7%). In relation to the 13 virulence genes screened in this study, the genes spb1, hylB, cylE, and PI-2b were present in all the isolates, meanwhile, bca, cpsA, and rib were detected in different frequencies, 36%, 96%, and 59%, respectively. On the other hand, bac, hvgA, lmb, PI-1, PI-2a, and scpB genes could not be detected in any of the isolates. Disk diffusion method against a panel of eight antimicrobial agents showed an important number of strains resistant simultaneously to five antibiotics. We also detected several resistance-encoding genes, tet(M), tet(O), ermB, aphA3, and lnu(B) (9%, 50%, 32%, 32%, and 5%, respectively). The results here presented are the first molecular data on S. agalactiae isolates causing bovine mastitis in Argentina and provide a foundation for the development of diagnostic, prophylactic, and therapeutic methods, including the perspective of a vaccine.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28732791",
+   "title": "Detection of a mecC-positive Staphylococcus saprophyticus from bovine mastitis in Argentina.",
+   "authors": [
+    "Srednik ME",
+    "Archambault M",
+    "Jacques M",
+    "Gentilini ER"
+   ],
+   "journal": "Journal of global antimicrobial resistance",
+   "year": 2017,
+   "doi": "10.1016/j.jgar.2017.05.016",
+   "abstract": "INTRODUCTION: Bovine mastitis causes important economic losses in the dairy industry. Coagulase-negative staphylococci (CNS) are a group of bacteria commonly isolated from bovine mastitis and can display resistance to a wide range of antimicrobial agents.\nOBJECTIVES: The objective of this study was to determine staphylococcal resistance towards β-lactam, macrolide and lincosamide antimicrobials in quarters previously treated with third-generation cephalosporin and after lincosamide intramammary therapy.\nMETHODS: Sick quarters of eighteen cows from Villaguay, Entre Ríos (Argentina) with clinical mastitis were studied. All staphylococcal isolates were tested by disk diffusion for their antimicrobial susceptibilities. Cefoxitin resistance was investigated by PCR and sequencing for both the mecA and mecC genes.\nRESULTS: Resistances to penicillin, oxacillin and cefoxitin were observed, whereas no resistance to macrolide and lincosamide was detected. A cefoxitin-resistant Staphylococcus saprophyticus was found to be mecA-negative but mecC-positive.\nCONCLUSIONS: This study reports for the first time the mecC gene from a CNS in bovine mastitis in South America. Because CNS may act as reservoirs of antimicrobial resistance genes, they can be seen as a potential public health threat with respect to antimicrobial resistance and the development of multiple resistance. Also, the emergence of methicillin-resistant phenotypes will limit therapeutic options.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28624278",
+   "title": "Estimation of prevalence and incidence of subclinical mastitis in a large population of Brazilian dairy herds.",
+   "authors": [
+    "Busanello M",
+    "Rossi RS",
+    "Cassoli LD",
+    "Pantoja JCF",
+    "Machado PF"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2017,
+   "doi": "10.3168/jds.2016-12042",
+   "abstract": "The objectives of this study were to estimate the prevalence and incidence of subclinical mastitis (SM) in a large population of Brazilian dairy herds and to describe how these indices changed over time. A data set comprising individual cow somatic cell counts (SCC) from 18,316 test days (TD) of 1,809 herds that participated in a Dairy Herd Improvement Association (DHIA) program between January 2011 and May 2015 was available for analysis. Only tests that had ≥10 lactating cows and that were performed at 30 ± 10-d intervals were used for analysis. The final data set included 8,285 TD from 517 herds located in 5 regions of the country. Prevalence (%) of SM was defined as the number of cows with SCC ≥200,000 cells/mL divided by the total number of tested cows on a given TD. The incidence of SM was defined as the number of cows whose SCC increased from <200,000 to ≥200,000 cells/mL over 2 consecutive TD divided by the sum of each cow's days at risk during this interval, expressed as new cases per cow month at risk. Prevalence and incidence of SM were compared among years, regions, herd size categories, and frequency of DHIA testing during the study period. The overall mean prevalence and incidence of SM including all tests performed during the study period was 46.4% and 0.17 new cases per cow month at risk, respectively. The prevalence of SM varied little from 2011 to 2015, and an increasing trend was observed over the years. Prevalence was lower in herds that performed ≥60 DHIA tests during the study period than in those that performed fewer tests and was not different among regions or herd size categories. Incidence of SM varied little over the years and was not different among the regions studied. Prevalence and incidence of SM in the 517 herds studied were high and did not improve over the years. These trends were observed across all herd size categories and regions studied. Producers who had more DHIA tests performed per herd during the study period had lower prevalence of SM. Results of this study highlight the need to establish large-scale milk quality programs in Brazil.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "32406355",
+   "title": "Detection of clinical bovine mastitis caused by Mycoplasma bovis in Brazil.",
+   "authors": [
+    "Junqueira NB",
+    "Salina A",
+    "Oliveira GC",
+    "Mettifogo E",
+    "Joaquim SF",
+    "Guimarães FF",
+    "Dalanezi FM",
+    "Langoni H"
+   ],
+   "journal": "The Journal of dairy research",
+   "year": 2020,
+   "doi": "10.1017/S0022029920000205",
+   "abstract": "The work reported in this research communication investigated the occurrence of Mycoplasma bovis (M. bovis) in milk samples from cows with clinical mastitis on dairy farms from seven Brazilian states. We hypothesized that M. bovis was present in bovine clinical mastitis milk in Brazil. A total of 561 milk samples were cultured on Hayflick agar and incubated in a microaerophilic atmosphere at 5% CO2. Polymerase chain reaction (PCR) was performed for the detection of Mycoplasma spp. and Mycoplasma bovis in milk samples. Mycoplasma spp. were isolated in 2% of the milk samples, and Mycoplasma bovis was verified in 3% of the milk samples by PCR. The results showed that Mycoplasma bovis is involved in clinical mastitis in Brazilian dairy herds. We emphasize the need for further studies to investigate the infection by this agent in clinical mastitis cases, particularly in Brazil, due to the lack of knowledge about its prevalence.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "19038931",
+   "title": "Automatic detection of clinical mastitis is improved by in-line monitoring of somatic cell count.",
+   "authors": [
+    "Kamphuis C",
+    "Sherlock R",
+    "Jago J",
+    "Mein G",
+    "Hogeveen H"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2008,
+   "doi": "10.3168/jds.2008-1160",
+   "abstract": "This study explored the potential value of in-line composite somatic cell count (ISCC) sensing as a sole criterion or in combination with quarter-based electrical conductivity (EC) of milk, for automatic detection of clinical mastitis (CM) during automatic milking. Data generated from a New Zealand research herd of about 200 cows milked by 2 automatic milking systems during the 2006-2007 milking season included EC, ISCC, monthly laboratory-determined SCC, and observed cases of CM that were treated with antibiotics. Milk samples for ISCC and laboratory-determined SCC were taken sequentially at the end of a cow milking. Both samples were derived from a composite cow milking obtained from the bottom of the milk receiver. Different time windows were defined in which true-positive, false-negative, and false-positive alerts were determined. Quarters suspected of having CM were visually checked and, if CM was confirmed, sampled for bacteriological culturing and treated with an antibiotic treatment. These treated quarters were considered as gold-standard positives for comparing CM detection models. Alert thresholds were adjusted to achieve a sensitivity of 80% in 3 detection models: using ISCC alone, EC alone, or a combination of these. The success rate (also known as the positive predictive value) and the false alert rate (number of false-positive alerts per 1,000 cow milkings) were used to evaluate detection performance. Normalized ISCC estimates were highly correlated with normalized laboratory-determined SCC measurements (r = 0.82) for SCC measurements >200 x 10(3) cells/mL. Using EC alone as a detection tool resulted in a range of 6.9 to 11.0% for success rate, and a range of 4.7 to 7.8 for the false alert rate. Values for the ISCC model were better than the model using EC alone with 12.7 to 15.6% for the success rate and 2.9 to 3.7 for the false alert rate. Combining sensor information to detect CM, by using a fuzzy logic algorithm, produced a 2- to 3-fold increase in the success rate (range 21.9 to 32.0%) and a 2- to 3-fold decrease in the false alert rate (range 1.2 to 2.1) compared with the models using ISCC or EC alone. Results suggest that the performance of a CM detection system improved when ISCC information was added to a detection model using EC information.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37951013",
+   "title": "Risk prediction model of clinical mastitis in lactating dairy cows based on machine learning algorithms.",
+   "authors": [
+    "Luo W",
+    "Dong Q",
+    "Feng Y"
+   ],
+   "journal": "Preventive veterinary medicine",
+   "year": 2023,
+   "doi": "10.1016/j.prevetmed.2023.106059",
+   "abstract": "Mastitis is the most common disease among dairy cows and is known to have negative effects on both animal welfare and the profitability of dairy farms. Early detection of clinical mastitis cases is considered the best option for preventing cows from developing mastitis. In this study, we developed clinical mastitis prediction models that only required inputting common indicators from the automatic milking system. We utilized multidimensional data from the cow mastitis database of Afimilk (China) Agricultural Technology Co., Ltd. to predict mastitis in dairy cows. All data were screened for the period of 0-150 days of lactation. The data included parity, lactation day, period, mean and standard deviation of milk yield, of electrical conductivity, and of lying time, which were taken as input features. The classification of whether cows suffer from clinical mastitis was determined as output. We analyzed 426 cows with clinical mastitis and 2087 healthy cows by using four machine learning algorithms: Decision Tree, Random Forest, Back Propagation neural networks, and Support Vector Machines. In these four algorithms, the accuracy ranged from 94% to 98%, while the running times varied widely from seconds to minutes. The decision tree prediction model achieved an accuracy of 98% and the precision rate for healthy cows was 99%, while for mastitis cows it was 97%. Machine learning algorithms have played an important role in predicting cow mastitis, with the Decision Tree algorithm showing great performance and higher accuracy in our research.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "25434337",
+   "title": "Activity and milk compositional changes following experimentally induced Streptococcus uberis bovine mastitis.",
+   "authors": [
+    "Kester HJ",
+    "Sorter DE",
+    "Hogan JS"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 2015,
+   "doi": "10.3168/jds.2014-8576",
+   "abstract": "Milk constituents and physical activity of cows experimentally infected with Streptococcus uberis mastitis were compared with those of uninfected cows. Twelve late-lactation Holsteins cows were paired based on milk production and parity. One cow in each pair was experimentally infected in the right front mammary gland with Strep. uberis. The remaining cow in each pair served as an uninfected control. Real-time analyses of milk constituents provided fat, protein, and lactose percentages at each milking. Pedometers were placed on the left front leg of all cows and activity was measured. Intramammary infections with Strep. uberis reduced milk yield in experimental cows by approximately 1.6kg/d in the first week after challenge compared with control cows. Lactose percentage in milk was reduced on d 3, 4, 5, and 6 after challenge in treatment cows compared with controls. Percentages of fat and protein in milk did not differ between infected and uninfected cows the week after infections were induced. Total steps per day were reduced and minutes resting per day were increased the week after experimental challenge in infected cows compared with control cows. The number of resting bouts did not differ between infected and uninfected cows. Changes in percentage of lactose in milk and animal activity caused by experimentally induced Strep. uberis mastitis were detected by the automated milk analyzer and pedometer systems.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "32705035",
+   "title": "Dairy cows with mild-moderate mastitis change lying behavior in hospital pens.",
+   "authors": [
+    "Herskin MS",
+    "Fogsgaard KK",
+    "Thomsen PT",
+    "Houe H",
+    "Forkman B",
+    "Jensen MB"
+   ],
+   "journal": "Translational animal science",
+   "year": 2020,
+   "doi": "10.1093/tas/txaa038",
+   "abstract": "In dairy production, mastitis is a major problem affecting animal welfare, productivity, and economy. Hospital pens are typically not used for cows with mastitis, except for severe cases involving recumbency. This field trial included 47 cows from three Danish herds followed for 8 d, of which days 1-5 involved the experimental housing. After day 5, all cows were kept with the lactating group. We examined lying behavior in dairy cows with naturally occurring, mild-moderate mastitis in hospital pens [single or group (depending on conditions on the farm), all with deep straw bedding] vs. sick cows kept in the group of healthy herd mates. Within a herd, every other cow fulfilling the inclusion criteria regarding mastitis was allocated to each of the two experimental treatments. Clinical data from involved cases were collected. No significant differences between housing treatments were found in the clinical variables or the daily lying time. During the period of experimental housing, cows kept in hospital pens showed a higher frequency of lying bouts compared with control cows. This difference did not persist after reintroduction to the lactating herd mates. These results suggest that aspects of lying behavior of dairy cows with mastitis are sensitive to the environment as the frequency of lying bouts differed between cows kept in hospital pens and cows kept in control treatment. More controlled studies are needed to examine underlying motivations and evaluate consequences in terms of animal welfare. For such studies, the inclusion of healthy cows for comparison will be valuable.",
+   "publicationTypes": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "1541745",
+   "title": "Field trial to determine efficacy of an Escherichia coli J5 mastitis vaccine.",
+   "authors": [
+    "Hogan JS",
+    "Smith KL",
+    "Todhunter DA",
+    "Schoenberger PS"
+   ],
+   "journal": "Journal of dairy science",
+   "year": 1992,
+   "doi": "10.3168/jds.S0022-0302(92)77741-8",
+   "abstract": "Efficacy of an Escherichia coli (O111:B4) J5 bacterin for preventing naturally occurring IMI and clinical mastitis was tested in a 2.5-yr field trial in a 225-cow commercial herd. Cows with odd-numbered identification were vaccinated, and cows with even-numbered identification served as unvaccinated controls for each lactation during the study. Immunizations were subcutaneous on the upper part of the rib cage just posterior to the scapula at drying off, 30 d after drying off, and at calving. Percentage of quarters infected at calving with Gram-negative bacteria did not differ between treatment groups. A total of 67% of Gram-negative bacterial IMI present at calving in control cows became clinical during the first 90 d of lactation compared with 20% in vaccinated cows. Rate of Gram-negative bacterial clinical mastitis was higher in control cows than in vaccinated cows during the first 90 d of lactation. Immunization with the E. coli J5 bacterin did not reduce level of Gram-negative bacterial IMI at calving but did reduce incidence of clinical mastitis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "9006862",
+   "title": "Field trial of a staphylococcal mastitis vaccine in dairy herds: clinical, subclinical and microbiological assessments.",
+   "authors": [
+    "Watson DL",
+    "McColl ML",
+    "Davies HI"
+   ],
+   "journal": "Australian veterinary journal",
+   "year": 1996,
+   "doi": "10.1111/j.1751-0813.1996.tb07567.x",
+   "abstract": "OBJECTIVE: To assess the efficacy of a new staphylococcal mastitis vaccine under commercial dairying conditions.\nDESIGN: A field trial involving 1819 cows and heifers conducted on seven dairy herds in Victoria. The trial was done 'blind'; approximately half the animals were vaccinated and the remainder were untreated controls.\nPROCEDURE: The vaccine was given twice during the last 10 weeks of pregnancy. Effects of vaccination were assessed, during the ensuing lactation, on the basis of clinical and sub-clinical mastitis and microbiological investigations of the milk.\nRESULTS: A total of 273 cases of clinical mastitis were recorded. Staphylococcus aureus was isolated from 112 of these, 45 cases in vaccinates and 67 cases in controls; the difference was not statistically significant. One herd was notable in having a high incidence of clinical staphylococcal mastitis. This herd accounted for 15.8% of the animals in the field trial but 54.5% of cases of clinical staphylococcal mastitis. For this herd, vaccinated animals had significantly lower incidence of clinical staphylococcal mastitis and prevalence of subclinical mastitis, relative to controls. An unexpected feature of the trial as a whole was the low incidence of clinical mastitis from which S aureus was isolated in pure culture (26.3% of cases) and the high incidence of clinical Streptococcus uberis mastitis (22.7% of cases).\nCONCLUSIONS: The trial showed that the vaccine was efficacious in reducing the incidence of clinical mastitis and prevalence of subclinical mastitis in a herd that had a serious staphylococcal mastitis problem.",
+   "publicationTypes": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35203812",
+   "title": "Therapy of Subclinical Mastitis during Lactation.",
+   "authors": [
+    "McDougall S",
+    "Clausen LM",
+    "Hussein HM",
+    "Compton CWR"
+   ],
+   "journal": "Antibiotics (Basel, Switzerland)",
+   "year": 2022,
+   "doi": "10.3390/antibiotics11020209",
+   "abstract": "This study tested the hypothesis that increasing the duration and/or frequency of antimicrobial treatment of subclinical mastitis would result in a higher bacteriological cure rate. Glands with a positive California mastitis test (CMT) from cows with an elevated somatic cell count (>500,000 cells/mL) that had an intramammary infection were randomly assigned at cow level to no treatment (Control; n = 80 glands), intramammary infusion of 200 mg cloxacillin sodium on three occasions at 48 h intervals (3 × 48 h; n = 273 glands), five occasions at 24 h intervals (5 × 24 h; n = 279 glands), or on five occasions at 48 h intervals (5 × 48 h; n = 72 glands). Glands were resampled at 21 (±3) and 28 (±3) days after initiation of treatment. The gland-level cure rate for any pathogen was 5/80 (6.2%), 139/173 (49.8%), 172/297 (61.6%) and 58/72 (80.6%) for Control, 3 × 48 h, 5 × 24 h and 5 × 48 h, respectively. The cure rate for major pathogens (defined as Staphylococcus aureus or Streptococcus spp.) was 4/52 (7.7%), 84/197 (42.6%), 96/183 (52.5%) and 36/48 (75%) for Control, 3 × 48 h, 5 × 24 h and 5 × 48 h, respectively. We conclude that treatment was superior to no treatment, and bacteriological cure rate was higher with the 5 × 24 h protocol than for the 3 × 48 h protocol and was higher with the 5 × 48 h than the 5 × 24 h protocol.",
+   "publicationTypes": [
+    "Journal Article"
    ]
   },
   {
@@ -37852,6 +38341,1926 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "sufficient research currently exists for practical use",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26585471-1-en",
+   "translationKey": "mastitis-26585471-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "In this Wisconsin dry-off trial, what share of infections present at dry off were caused by gram-positive bacteria?",
+   "options": [
+    "About 10%",
+    "About 50%",
+    "About 96%",
+    "None"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Most dry-off infections were gram-positive, mainly coagulase-negative staphylococci and Aerococcus.",
+   "shortExplanation": "~96%.",
+   "pmid": "26585471",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Ninety-six percent of infections at dry off were of gram-positive organisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26585471-1-es",
+   "translationKey": "mastitis-26585471-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "En este ensayo de secado en Wisconsin, ¿qué proporción de las infecciones al secado eran por bacterias grampositivas?",
+   "options": [
+    "Alrededor del 10%",
+    "Alrededor del 50%",
+    "Alrededor del 96%",
+    "Ninguna"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La mayoría de las infecciones al secado eran grampositivas, sobre todo estafilococos coagulasa negativos y Aerococcus.",
+   "shortExplanation": "~96%.",
+   "pmid": "26585471",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Ninety-six percent of infections at dry off were of gram-positive organisms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26585471-2-en",
+   "translationKey": "mastitis-26585471-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did the randomized trial conclude comparing cloxacillin and ceftiofur dry cow products?",
+   "options": [
+    "Cloxacillin was noninferior to ceftiofur for cure",
+    "Ceftiofur cured all infections and cloxacillin none",
+    "Neither cured anything",
+    "Cloxacillin caused more mastitis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cure risks were ~85% for both; no differences in new infections, clinical mastitis, culling or production.",
+   "shortExplanation": "Noninferior.",
+   "pmid": "26585471",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "DC was noninferior to SM in effecting a cure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26585471-2-es",
+   "translationKey": "mastitis-26585471-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué concluyó el ensayo aleatorizado que comparó productos de secado con cloxacilina y ceftiofur?",
+   "options": [
+    "Que la cloxacilina fue no inferior al ceftiofur en la cura",
+    "Que el ceftiofur curó todo y la cloxacilina nada",
+    "Que ninguno curó",
+    "Que la cloxacilina causó más mastitis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La cura fue ~85% en ambos; sin diferencias en nuevas infecciones, mastitis clínica, descartes ni producción.",
+   "shortExplanation": "No inferior.",
+   "pmid": "26585471",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "DC was noninferior to SM in effecting a cure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29778482-1-en",
+   "translationKey": "mastitis-29778482-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "In this nonsevere clinical mastitis trial, which bacteria were most commonly isolated before treatment?",
+   "options": [
+    "Mycoplasma and Prototheca",
+    "Coagulase-negative staphylococci (gram-positive) and E. coli (gram-negative)",
+    "Pseudomonas and Klebsiella only",
+    "Streptococcus agalactiae only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "CNS led the gram-positives and E. coli the gram-negatives among nonsevere clinical cases.",
+   "shortExplanation": "CNS and E. coli.",
+   "pmid": "29778482",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Coagulase-negative staphylococci were the most isolated gram-positive pathogens in pretreatment milk samples, whereas the most common gram-negative bacterium was Escherichia coli",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-29778482-1-es",
+   "translationKey": "mastitis-29778482-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "En este ensayo de mastitis clínica no grave, ¿qué bacterias se aislaron con más frecuencia antes del tratamiento?",
+   "options": [
+    "Mycoplasma y Prototheca",
+    "Estafilococos coagulasa negativos (grampositivos) y E. coli (gramnegativo)",
+    "Solo Pseudomonas y Klebsiella",
+    "Solo Streptococcus agalactiae"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los ECN encabezaron los grampositivos y E. coli los gramnegativos en los casos clínicos no graves.",
+   "shortExplanation": "ECN y E. coli.",
+   "pmid": "29778482",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Coagulase-negative staphylococci were the most isolated gram-positive pathogens in pretreatment milk samples, whereas the most common gram-negative bacterium was Escherichia coli",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33612204-1-en",
+   "translationKey": "mastitis-33612204-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "What is the main benefit of on-farm culture systems for mastitis?",
+   "options": [
+    "They replace milking machines",
+    "They make milk taste better",
+    "They vaccinate cows",
+    "They support pathogen-based treatment and responsible antibiotic use"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Knowing the pathogen quickly on the farm allows targeted treatment and avoids unnecessary antibiotics.",
+   "shortExplanation": "Targeted treatment.",
+   "pmid": "33612204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "On-farm culture (OFC) systems facilitate pathogen-based mastitis management and can facilitate antimicrobial stewardship",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33612204-1-es",
+   "translationKey": "mastitis-33612204-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es el principal beneficio de los sistemas de cultivo en el tambo para la mastitis?",
+   "options": [
+    "Reemplazan la ordeñadora",
+    "Mejoran el sabor de la leche",
+    "Vacunan a las vacas",
+    "Permiten tratar según el patógeno y usar antibióticos responsablemente"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Conocer rápido el patógeno en el tambo permite tratar de forma dirigida y evitar antibióticos innecesarios.",
+   "shortExplanation": "Tratamiento dirigido.",
+   "pmid": "33612204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "On-farm culture (OFC) systems facilitate pathogen-based mastitis management and can facilitate antimicrobial stewardship",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33612204-2-en",
+   "translationKey": "mastitis-33612204-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What did the study conclude is needed for on-farm culture to be useful?",
+   "options": [
+    "Nothing; anyone can read them perfectly",
+    "Training beyond the instruction manual",
+    "A new milking robot",
+    "Daily antibiotics"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Trained observers reached good agreement; untrained ones using only the manual had only fair agreement for many organisms.",
+   "shortExplanation": "Training.",
+   "pmid": "33612204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Training beyond the instruction manual is a prerequisite to make OFC systems useful",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33612204-2-es",
+   "translationKey": "mastitis-33612204-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué concluyó el estudio que hace falta para que el cultivo en el tambo sea útil?",
+   "options": [
+    "Nada; cualquiera lo lee perfecto",
+    "Capacitación más allá del manual de instrucciones",
+    "Un robot de ordeño nuevo",
+    "Antibióticos diarios"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los observadores capacitados lograron buena concordancia; los no capacitados, solo con el manual, tuvieron concordancia apenas aceptable.",
+   "shortExplanation": "Capacitación.",
+   "pmid": "33612204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Training beyond the instruction manual is a prerequisite to make OFC systems useful",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33612204-3-en",
+   "translationKey": "mastitis-33612204-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "For which pathogen did trained observers reach almost perfect agreement with the laboratory using on-farm culture plates?",
+   "options": [
+    "Lactococcus",
+    "Enterococcus",
+    "Staphylococcus aureus",
+    "Non-aureus staphylococci"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "S. aureus identification showed κ 0.80–0.89 for the trained observer across the three systems.",
+   "shortExplanation": "S. aureus.",
+   "pmid": "33612204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "agreement was almost perfect (κ = 0.80-0.89) for Staphylococcus aureus for the trained observer",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33612204-3-es",
+   "translationKey": "mastitis-33612204-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Para qué patógeno lograron los observadores capacitados una concordancia casi perfecta con el laboratorio usando placas en el tambo?",
+   "options": [
+    "Lactococcus",
+    "Enterococcus",
+    "Staphylococcus aureus",
+    "Estafilococos no aureus"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La identificación de S. aureus tuvo κ de 0,80–0,89 para el observador capacitado en los tres sistemas.",
+   "shortExplanation": "S. aureus.",
+   "pmid": "33612204",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "agreement was almost perfect (κ = 0.80-0.89) for Staphylococcus aureus for the trained observer",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26778316-1-en",
+   "translationKey": "mastitis-26778316-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What type of drug is meloxicam, tested as an add-on for clinical mastitis?",
+   "options": [
+    "An antibiotic",
+    "A vaccine",
+    "A hormone",
+    "A nonsteroidal anti-inflammatory drug (NSAID)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Meloxicam is an NSAID added to antimicrobial treatment of mild to moderate clinical mastitis.",
+   "shortExplanation": "NSAID.",
+   "pmid": "26778316",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "meloxicam, a nonsteroidal anti-inflammatory drug",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26778316-1-es",
+   "translationKey": "mastitis-26778316-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué tipo de fármaco es el meloxicam, probado como complemento en la mastitis clínica?",
+   "options": [
+    "Un antibiótico",
+    "Una vacuna",
+    "Una hormona",
+    "Un antiinflamatorio no esteroide (AINE)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El meloxicam es un AINE agregado al tratamiento antimicrobiano de la mastitis clínica leve a moderada.",
+   "shortExplanation": "AINE.",
+   "pmid": "26778316",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "meloxicam, a nonsteroidal anti-inflammatory drug",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26778316-2-en",
+   "translationKey": "mastitis-26778316-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What reproductive benefit was seen when meloxicam was added to mastitis treatment?",
+   "options": [
+    "No effect at all",
+    "Higher conception to first insemination (31% vs. 21%)",
+    "More abortions",
+    "Longer gestation"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Meloxicam also raised bacteriological cure (66% vs. 50%) and pregnancy by 120 days in milk.",
+   "shortExplanation": "Better conception.",
+   "pmid": "26778316",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a higher proportion of cows conceiving to their first artificial insemination (0.31 versus 0.21)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26778316-2-es",
+   "translationKey": "mastitis-26778316-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué beneficio reproductivo se vio al agregar meloxicam al tratamiento de la mastitis?",
+   "options": [
+    "Ningún efecto",
+    "Mayor concepción a la primera inseminación (31% vs. 21%)",
+    "Más abortos",
+    "Gestación más larga"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El meloxicam también aumentó la cura bacteriológica (66% vs. 50%) y la preñez a los 120 días de lactancia.",
+   "shortExplanation": "Mejor concepción.",
+   "pmid": "26778316",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a higher proportion of cows conceiving to their first artificial insemination (0.31 versus 0.21)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26778316-3-en",
+   "translationKey": "mastitis-26778316-3",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "In this European trial, how did meloxicam affect bacteriological cure of mild to moderate clinical mastitis?",
+   "options": [
+    "Cure was higher with meloxicam than placebo",
+    "Cure was lower with meloxicam",
+    "No cows were cured",
+    "It replaced antibiotics entirely"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "All cows got cephalexin–kanamycin; adding meloxicam raised bacteriological cure from 50% to 66%.",
+   "shortExplanation": "Higher cure.",
+   "pmid": "26778316",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cows treated with meloxicam had a higher bacteriological cure proportion than those treated with the placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-26778316-3-es",
+   "translationKey": "mastitis-26778316-3",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "En este ensayo europeo, ¿cómo afectó el meloxicam la cura bacteriológica de la mastitis clínica leve a moderada?",
+   "options": [
+    "La cura fue mayor con meloxicam que con placebo",
+    "La cura fue menor con meloxicam",
+    "No se curó ninguna vaca",
+    "Reemplazó por completo a los antibióticos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Todas recibieron cefalexina–kanamicina; agregar meloxicam subió la cura bacteriológica de 50% a 66%.",
+   "shortExplanation": "Mayor cura.",
+   "pmid": "26778316",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cows treated with meloxicam had a higher bacteriological cure proportion than those treated with the placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-3528251-1-en",
+   "translationKey": "mastitis-3528251-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "In a lab study, which bedding materials supported rapid growth of environmental mastitis bacteria?",
+   "options": [
+    "Paper and softwood sawdust",
+    "Straw and recycled manure",
+    "Sand only",
+    "None"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Straw and recycled manure supported rapid growth; paper and softwood sawdust showed rapid declines.",
+   "shortExplanation": "Straw and recycled manure.",
+   "pmid": "3528251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rapid growth was seen in straw and recycled manure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-3528251-1-es",
+   "translationKey": "mastitis-3528251-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "En un estudio de laboratorio, ¿qué materiales de cama permitieron un crecimiento rápido de bacterias ambientales de mastitis?",
+   "options": [
+    "Papel y aserrín de madera blanda",
+    "Paja y estiércol reciclado",
+    "Solo arena",
+    "Ninguno"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La paja y el estiércol reciclado sostuvieron crecimiento rápido; el papel y el aserrín de madera blanda mostraron descensos rápidos.",
+   "shortExplanation": "Paja y estiércol reciclado.",
+   "pmid": "3528251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Rapid growth was seen in straw and recycled manure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-3528251-2-en",
+   "translationKey": "mastitis-3528251-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which pathogens grew faster or declined less in bedding than Streptococcus uberis?",
+   "options": [
+    "Mycoplasma bovis",
+    "Staphylococcus aureus",
+    "Prototheca",
+    "Klebsiella pneumoniae and E. coli"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Coliforms outgrew S. uberis in sterilized bedding materials.",
+   "shortExplanation": "Klebsiella and E. coli.",
+   "pmid": "3528251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In general, K. pneumoniae and E. coli showed more rapid growth or less rapid decline than did S. uberis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-3528251-2-es",
+   "translationKey": "mastitis-3528251-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué patógenos crecieron más rápido o decayeron menos en la cama que Streptococcus uberis?",
+   "options": [
+    "Mycoplasma bovis",
+    "Staphylococcus aureus",
+    "Prototheca",
+    "Klebsiella pneumoniae y E. coli"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los coliformes superaron a S. uberis en las camas esterilizadas.",
+   "shortExplanation": "Klebsiella y E. coli.",
+   "pmid": "3528251",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In general, K. pneumoniae and E. coli showed more rapid growth or less rapid decline than did S. uberis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35529833-1-en",
+   "translationKey": "mastitis-35529833-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did a Canadian cohort study find about recycled manure solids bedding and subclinical mastitis?",
+   "options": [
+    "It doubled subclinical mastitis",
+    "It eliminated mastitis",
+    "It was not associated with subclinical mastitis compared with straw",
+    "It caused Mycoplasma outbreaks"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "In 11,031 cows, recycled manure solids bedding showed no association with SCC-based subclinical mastitis versus straw.",
+   "shortExplanation": "No association.",
+   "pmid": "35529833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "RMS bedding was not associated with subclinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35529833-1-es",
+   "translationKey": "mastitis-35529833-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué halló un estudio de cohorte canadiense sobre la cama de sólidos de estiércol reciclado y la mastitis subclínica?",
+   "options": [
+    "Duplicó la mastitis subclínica",
+    "Eliminó la mastitis",
+    "No se asoció con mastitis subclínica en comparación con la paja",
+    "Causó brotes de Mycoplasma"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "En 11.031 vacas, la cama de sólidos reciclados no se asoció con mastitis subclínica (por RCS) frente a la paja.",
+   "shortExplanation": "Sin asociación.",
+   "pmid": "35529833",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "RMS bedding was not associated with subclinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37099864-1-en",
+   "translationKey": "mastitis-37099864-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Which S. aureus lineage dominated bovine mastitis in New Zealand over 17 years?",
+   "options": [
+    "ST398",
+    "CC133",
+    "CC1/ST1 (~75% of isolates)",
+    "USA300"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "CC1/ST1, common in humans, dominated but carried bovine-adaptive leucocidin genes lukF/lukM.",
+   "shortExplanation": "CC1/ST1.",
+   "pmid": "37099864",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "clonal complex 1, sequence type 1 (CC1/ST1), which accounted for ∼75% of the isolates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37099864-1-es",
+   "translationKey": "mastitis-37099864-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué linaje de S. aureus dominó la mastitis bovina en Nueva Zelanda durante 17 años?",
+   "options": [
+    "ST398",
+    "CC133",
+    "CC1/ST1 (~75% de los aislamientos)",
+    "USA300"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "CC1/ST1, común en humanos, dominó pero portaba genes de leucocidina adaptados al bovino (lukF/lukM).",
+   "shortExplanation": "CC1/ST1.",
+   "pmid": "37099864",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "clonal complex 1, sequence type 1 (CC1/ST1), which accounted for ∼75% of the isolates",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37099864-2-en",
+   "translationKey": "mastitis-37099864-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Why is the clonal stability of mastitis S. aureus in New Zealand relevant?",
+   "options": [
+    "It would facilitate developing a vaccine unlikely to lose efficacy by clonal drift",
+    "It means S. aureus is harmless",
+    "It proves antibiotics always work",
+    "It shows the bacteria come from sheep"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "A stable population in space and time makes a regional S. aureus vaccine more feasible.",
+   "shortExplanation": "Vaccine feasibility.",
+   "pmid": "37099864",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The temporal clonal stability observed would enable the development of a S. aureus vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37099864-2-es",
+   "translationKey": "mastitis-37099864-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué es relevante la estabilidad clonal de S. aureus de mastitis en Nueva Zelanda?",
+   "options": [
+    "Facilitaría desarrollar una vacuna que no pierda eficacia por cambios clonales",
+    "Significa que S. aureus es inocuo",
+    "Prueba que los antibióticos siempre funcionan",
+    "Muestra que la bacteria viene de ovejas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Una población estable en el espacio y el tiempo vuelve más factible una vacuna regional contra S. aureus.",
+   "shortExplanation": "Factibilidad de vacuna.",
+   "pmid": "37099864",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The temporal clonal stability observed would enable the development of a S. aureus vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30639010-1-en",
+   "translationKey": "mastitis-30639010-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What share of 500 mastitis isolates did MALDI-TOF MS identify to the species level?",
+   "options": [
+    "About 20%",
+    "93.5%",
+    "50%",
+    "100%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "MALDI-TOF identified 93.5% to species and 6.5% to genus, covering 24 genera and 61 species.",
+   "shortExplanation": "93.5%.",
+   "pmid": "30639010",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "93.5% could be identified to the species level",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30639010-1-es",
+   "translationKey": "mastitis-30639010-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué proporción de 500 aislamientos de mastitis identificó MALDI-TOF MS a nivel de especie?",
+   "options": [
+    "Alrededor del 20%",
+    "93,5%",
+    "50%",
+    "100%"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "MALDI-TOF identificó 93,5% a especie y 6,5% a género, abarcando 24 géneros y 61 especies.",
+   "shortExplanation": "93,5%.",
+   "pmid": "30639010",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "93.5% could be identified to the species level",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30639010-2-en",
+   "translationKey": "mastitis-30639010-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "What is MALDI-TOF mass spectrometry used for in mastitis diagnosis?",
+   "options": [
+    "Measuring milk fat",
+    "Counting somatic cells",
+    "Detecting antibiotic residues",
+    "Rapidly identifying the bacteria causing mastitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MALDI-TOF identifies microorganisms from colonies quickly and reliably, and its database can be expanded.",
+   "shortExplanation": "Fast identification.",
+   "pmid": "30639010",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "MALDI-TOF MS is a powerful, rapid, and reliable technique to identify the most common microorganisms causing bovine mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-30639010-2-es",
+   "translationKey": "mastitis-30639010-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Para qué se usa la espectrometría de masas MALDI-TOF en el diagnóstico de mastitis?",
+   "options": [
+    "Medir la grasa de la leche",
+    "Contar células somáticas",
+    "Detectar residuos de antibióticos",
+    "Identificar rápido las bacterias que causan mastitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MALDI-TOF identifica microorganismos a partir de colonias de forma rápida y confiable, y su base de datos puede ampliarse.",
+   "shortExplanation": "Identificación rápida.",
+   "pmid": "30639010",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "MALDI-TOF MS is a powerful, rapid, and reliable technique to identify the most common microorganisms causing bovine mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34353173-1-en",
+   "translationKey": "mastitis-34353173-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What is the current name of the alga formerly called Prototheca zopfii genotype 2, a major cause of bovine mastitis?",
+   "options": [
+    "Prototheca ciferrii",
+    "Prototheca blaschkeae",
+    "Prototheca bovis",
+    "Chlorella vulgaris"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "P. zopfii genotype 2 was renamed P. bovis; genotype 1 became P. ciferrii. MALDI-TOF can speciate them.",
+   "shortExplanation": "P. bovis.",
+   "pmid": "34353173",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prototheca bovis (formerly P. zopfii genotype 2)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34353173-1-es",
+   "translationKey": "mastitis-34353173-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Cuál es el nombre actual del alga antes llamada Prototheca zopfii genotipo 2, causa importante de mastitis bovina?",
+   "options": [
+    "Prototheca ciferrii",
+    "Prototheca blaschkeae",
+    "Prototheca bovis",
+    "Chlorella vulgaris"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "P. zopfii genotipo 2 pasó a llamarse P. bovis; el genotipo 1, P. ciferrii. MALDI-TOF permite diferenciarlas.",
+   "shortExplanation": "P. bovis.",
+   "pmid": "34353173",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prototheca bovis (formerly P. zopfii genotype 2)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18434557-1-en",
+   "translationKey": "mastitis-18434557-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did this Portuguese study show for the first time?",
+   "options": [
+    "That Prototheca is a bacterium",
+    "That Prototheca blaschkeae can cause bovine mastitis",
+    "That Prototheca responds to penicillin",
+    "That Prototheca infects humans only"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Most isolates were P. zopfii var. hydrocarbonea, but P. blaschkeae was linked to bovine mastitis for the first time.",
+   "shortExplanation": "P. blaschkeae mastitis.",
+   "pmid": "18434557",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "demonstrate for the first time the involvement of P. blaschkeae with bovine mammary gland infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18434557-1-es",
+   "translationKey": "mastitis-18434557-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostró por primera vez este estudio portugués?",
+   "options": [
+    "Que Prototheca es una bacteria",
+    "Que Prototheca blaschkeae puede causar mastitis bovina",
+    "Que Prototheca responde a la penicilina",
+    "Que Prototheca solo infecta humanos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La mayoría eran P. zopfii var. hydrocarbonea, pero P. blaschkeae se vinculó por primera vez a la mastitis bovina.",
+   "shortExplanation": "Mastitis por P. blaschkeae.",
+   "pmid": "18434557",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "demonstrate for the first time the involvement of P. blaschkeae with bovine mammary gland infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34274863-1-en",
+   "translationKey": "mastitis-34274863-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "In farms with automatic milking, about how much milk was lost per treated mastitis case (days −5 to 30)?",
+   "options": [
+    "About 100 kg",
+    "About 1 kg",
+    "About 5,000 kg",
+    "Nothing"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Median loss was ~101.5 kg per case, higher in older cows and at peak lactation; recovery was often incomplete by 30 days.",
+   "shortExplanation": "~100 kg.",
+   "pmid": "34274863",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the absolute median milk losses per case were 101.5 kg",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34274863-1-es",
+   "translationKey": "mastitis-34274863-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "En tambos con ordeño automático, ¿cuánta leche se perdió por caso de mastitis tratado (días −5 a 30)?",
+   "options": [
+    "Unos 100 kg",
+    "Alrededor de 1 kg",
+    "Unos 5.000 kg",
+    "Nada"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La pérdida mediana fue ~101,5 kg por caso, mayor en vacas multíparas y en el pico de lactancia; a los 30 días muchas no se recuperaban.",
+   "shortExplanation": "~100 kg.",
+   "pmid": "34274863",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the absolute median milk losses per case were 101.5 kg",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34274863-2-en",
+   "translationKey": "mastitis-34274863-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did milk-yield data from robotic farms reveal about the timing of mastitis?",
+   "options": [
+    "Milk yield rose before treatment",
+    "Losses only started after treatment",
+    "Yield never changed",
+    "Milk yield perturbations began on average ~9 days before the first treatment"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Yield drops preceded treatment by about 8.7 days, suggesting earlier detection is possible.",
+   "shortExplanation": "Losses start earlier.",
+   "pmid": "34274863",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "On average, perturbations started 8.7 days before the first treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-34274863-2-es",
+   "translationKey": "mastitis-34274863-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué revelaron los datos de producción de tambos robotizados sobre el momento de la mastitis?",
+   "options": [
+    "La producción subía antes del tratamiento",
+    "Las pérdidas empezaban recién tras tratar",
+    "La producción nunca cambiaba",
+    "Las caídas de producción empezaban en promedio ~9 días antes del primer tratamiento"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las caídas precedían al tratamiento en ~8,7 días, lo que sugiere que se puede detectar antes.",
+   "shortExplanation": "Pérdidas antes.",
+   "pmid": "34274863",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "On average, perturbations started 8.7 days before the first treatment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38260189-1-en",
+   "translationKey": "mastitis-38260189-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "In this high-yielding farm study, what had the largest negative impact on net present value due to mastitis?",
+   "options": [
+    "Reproductive problems",
+    "Labor costs",
+    "Milk loss",
+    "Bedding costs"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Milk loss (~US$14,400/farm/year) outweighed treatment and reproductive costs.",
+   "shortExplanation": "Milk loss.",
+   "pmid": "38260189",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the largest negative impacts on NPV are still the cost of milk loss",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38260189-1-es",
+   "translationKey": "mastitis-38260189-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "En este estudio en un tambo de alta producción, ¿qué tuvo el mayor impacto negativo en el valor presente neto por la mastitis?",
+   "options": [
+    "Los problemas reproductivos",
+    "El costo de mano de obra",
+    "La pérdida de leche",
+    "El costo de la cama"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La pérdida de leche (~US$14.400/tambo/año) superó a los costos de tratamiento y reproductivos.",
+   "shortExplanation": "Pérdida de leche.",
+   "pmid": "38260189",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the largest negative impacts on NPV are still the cost of milk loss",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38260189-2-en",
+   "translationKey": "mastitis-38260189-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How did clinical mastitis affect conception in this Romanian herd?",
+   "options": [
+    "Higher conception",
+    "Lower conception rate at first service",
+    "No pregnancies at all",
+    "Twin pregnancies"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Conception at first service fell from 58.2% in healthy cows to 41.7% in cows with clinical mastitis.",
+   "shortExplanation": "Lower conception.",
+   "pmid": "38260189",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CM cows had a significantly lower conception rate at first service",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-38260189-2-es",
+   "translationKey": "mastitis-38260189-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo afectó la mastitis clínica a la concepción en este rodeo rumano?",
+   "options": [
+    "Mayor concepción",
+    "Menor tasa de concepción al primer servicio",
+    "Ninguna preñez",
+    "Mellizos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La concepción al primer servicio bajó de 58,2% en vacas sanas a 41,7% en vacas con mastitis clínica.",
+   "shortExplanation": "Menor concepción.",
+   "pmid": "38260189",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CM cows had a significantly lower conception rate at first service",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40564261-1-en",
+   "translationKey": "mastitis-40564261-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did this study find about severe E. coli mastitis and the feet?",
+   "options": [
+    "Severe coliform mastitis increases the risk of acute laminitis",
+    "It protects against lameness",
+    "It only affects the tail",
+    "There is no relation"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Acute laminitis accompanied about 38% of severe E. coli mastitis cases, so claws should always be examined.",
+   "shortExplanation": "Laminitis risk.",
+   "pmid": "40564261",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cows with severe coliform mastitis have a higher risk of developing acute laminitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-40564261-1-es",
+   "translationKey": "mastitis-40564261-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué halló este estudio sobre la mastitis grave por E. coli y las pezuñas?",
+   "options": [
+    "La mastitis grave por coliformes aumenta el riesgo de laminitis aguda",
+    "Protege contra la cojera",
+    "Solo afecta la cola",
+    "No hay relación"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La laminitis aguda acompañó a ~38% de las mastitis graves por E. coli, por eso siempre hay que revisar las pezuñas.",
+   "shortExplanation": "Riesgo de laminitis.",
+   "pmid": "40564261",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cows with severe coliform mastitis have a higher risk of developing acute laminitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18257917-1-en",
+   "translationKey": "mastitis-18257917-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "According to this Danish study of 2,146 herds, what was an important determinant of mastitis incidence?",
+   "options": [
+    "Coat color",
+    "Breed only",
+    "Herd altitude",
+    "Farmer attitudes and quality of labor"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Quality of labor and farmer attitudes toward treating mastitis and lameness were key herd-level factors.",
+   "shortExplanation": "People factor.",
+   "pmid": "18257917",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "farmer attitudes toward mastitis and lameness treatment were important determinants for mastitis incidence rate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-18257917-1-es",
+   "translationKey": "mastitis-18257917-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "Según este estudio danés de 2.146 rodeos, ¿qué fue un determinante importante de la incidencia de mastitis?",
+   "options": [
+    "El color del pelaje",
+    "Solo la raza",
+    "La altitud",
+    "Las actitudes del productor y la calidad del trabajo"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La calidad de la mano de obra y la actitud del productor frente al tratamiento de mastitis y cojeras fueron factores clave.",
+   "shortExplanation": "El factor humano.",
+   "pmid": "18257917",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "farmer attitudes toward mastitis and lameness treatment were important determinants for mastitis incidence rate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37353927-1-en",
+   "translationKey": "mastitis-37353927-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What was associated with poor antibiotic response in Streptococcus agalactiae mastitis?",
+   "options": [
+    "The cylE gene",
+    "Infection in the left quarters",
+    "Carrying the lmb gene, linked to higher cell invasion",
+    "Young cows"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "lmb-positive strains invaded cells more and were associated with needing more than one treatment cycle.",
+   "shortExplanation": "lmb gene.",
+   "pmid": "37353927",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "intramammary infections caused by lmb-carrier S. agalactiae strains did not adequately respond to the antibiotics administered",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37353927-1-es",
+   "translationKey": "mastitis-37353927-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué se asoció con mala respuesta antibiótica en la mastitis por Streptococcus agalactiae?",
+   "options": [
+    "El gen cylE",
+    "Infección de cuartos izquierdos",
+    "Portar el gen lmb, ligado a mayor invasión celular",
+    "Vacas jóvenes"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las cepas lmb positivas invadían más las células y se asociaron con necesitar más de un ciclo de tratamiento.",
+   "shortExplanation": "Gen lmb.",
+   "pmid": "37353927",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "intramammary infections caused by lmb-carrier S. agalactiae strains did not adequately respond to the antibiotics administered",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33996629-1-en",
+   "translationKey": "mastitis-33996629-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "In Argentina, which Streptococcus agalactiae serotypes were most prevalent in bovine mastitis?",
+   "options": [
+    "Serotypes III and II",
+    "Serotype Ia only",
+    "Serotype V",
+    "Serotype IX"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Among 56 isolates from Argentinean dairy farms, serotypes III (46%) and II (41%) predominated; multidrug resistance was common.",
+   "shortExplanation": "III and II.",
+   "pmid": "33996629",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Serotypes III and II were the most prevalent ones",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33996629-1-es",
+   "translationKey": "mastitis-33996629-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "En Argentina, ¿qué serotipos de Streptococcus agalactiae fueron los más frecuentes en mastitis bovina?",
+   "options": [
+    "Serotipos III y II",
+    "Solo serotipo Ia",
+    "Serotipo V",
+    "Serotipo IX"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Entre 56 aislamientos de tambos argentinos predominaron los serotipos III (46%) y II (41%); la multirresistencia fue frecuente.",
+   "shortExplanation": "III y II.",
+   "pmid": "33996629",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Serotypes III and II were the most prevalent ones",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33996629-2-en",
+   "translationKey": "mastitis-33996629-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Why was this 2016–2019 Argentinean study of Streptococcus agalactiae important?",
+   "options": [
+    "It found no bacteria",
+    "It studied sheep",
+    "It discovered a vaccine",
+    "It provided the first molecular data on S. agalactiae mastitis isolates in Argentina"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "It characterized serotypes, virulence and resistance genes, laying a basis for diagnostics and vaccines.",
+   "shortExplanation": "First Argentinean data.",
+   "pmid": "33996629",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The results here presented are the first molecular data on S. agalactiae isolates causing bovine mastitis in Argentina",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-33996629-2-es",
+   "translationKey": "mastitis-33996629-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Por qué fue importante este estudio argentino (2016–2019) sobre Streptococcus agalactiae?",
+   "options": [
+    "No halló bacterias",
+    "Estudió ovejas",
+    "Descubrió una vacuna",
+    "Aportó los primeros datos moleculares de S. agalactiae de mastitis en Argentina"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Caracterizó serotipos, genes de virulencia y de resistencia, base para diagnóstico y vacunas.",
+   "shortExplanation": "Primeros datos argentinos.",
+   "pmid": "33996629",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The results here presented are the first molecular data on S. agalactiae isolates causing bovine mastitis in Argentina",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28732791-1-en",
+   "translationKey": "mastitis-28732791-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "What first did this study from Entre Ríos, Argentina, report?",
+   "options": [
+    "The first MRSA in humans",
+    "The mecC gene in a coagulase-negative staphylococcus from bovine mastitis in South America",
+    "The first Mycoplasma in cattle",
+    "The first mastitis vaccine"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "A cefoxitin-resistant Staphylococcus saprophyticus was mecA-negative but mecC-positive—a reservoir of resistance genes.",
+   "shortExplanation": "First mecC in South America.",
+   "pmid": "28732791",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This study reports for the first time the mecC gene from a CNS in bovine mastitis in South America",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28732791-1-es",
+   "translationKey": "mastitis-28732791-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "¿Qué primer hallazgo informó este estudio de Entre Ríos, Argentina?",
+   "options": [
+    "El primer SARM en humanos",
+    "El gen mecC en un estafilococo coagulasa negativo de mastitis bovina en Sudamérica",
+    "El primer Mycoplasma en bovinos",
+    "La primera vacuna contra mastitis"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Un Staphylococcus saprophyticus resistente a cefoxitina era mecA negativo pero mecC positivo, un reservorio de genes de resistencia.",
+   "shortExplanation": "Primer mecC en Sudamérica.",
+   "pmid": "28732791",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "This study reports for the first time the mecC gene from a CNS in bovine mastitis in South America",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28624278-1-en",
+   "translationKey": "mastitis-28624278-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "What was the mean prevalence of subclinical mastitis in this large Brazilian study?",
+   "options": [
+    "About 5%",
+    "About 15%",
+    "About 46%",
+    "About 90%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Using SCC ≥200,000 cells/mL, subclinical mastitis prevalence was 46.4% and did not improve over the years.",
+   "shortExplanation": "~46%.",
+   "pmid": "28624278",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The overall mean prevalence and incidence of SM including all tests performed during the study period was 46.4%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28624278-1-es",
+   "translationKey": "mastitis-28624278-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál fue la prevalencia media de mastitis subclínica en este gran estudio brasileño?",
+   "options": [
+    "Alrededor de 5%",
+    "Alrededor de 15%",
+    "Alrededor de 46%",
+    "Alrededor de 90%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Con RCS ≥200.000 células/mL, la prevalencia de mastitis subclínica fue 46,4% y no mejoró con los años.",
+   "shortExplanation": "~46%.",
+   "pmid": "28624278",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The overall mean prevalence and incidence of SM including all tests performed during the study period was 46.4%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28624278-2-en",
+   "translationKey": "mastitis-28624278-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "Which herds had lower subclinical mastitis prevalence in Brazil?",
+   "options": [
+    "The largest herds",
+    "Herds that performed more milk recording (DHIA) tests",
+    "Herds in one specific region",
+    "Herds without any testing"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Frequent SCC monitoring was associated with lower prevalence, supporting large-scale milk quality programs.",
+   "shortExplanation": "More testing.",
+   "pmid": "28624278",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Producers who had more DHIA tests performed per herd during the study period had lower prevalence of SM",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-28624278-2-es",
+   "translationKey": "mastitis-28624278-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué rodeos tuvieron menor prevalencia de mastitis subclínica en Brasil?",
+   "options": [
+    "Los más grandes",
+    "Los que hicieron más controles lecheros (DHIA)",
+    "Los de una región específica",
+    "Los que no hacían controles"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El monitoreo frecuente del RCS se asoció con menor prevalencia, lo que respalda programas de calidad de leche a gran escala.",
+   "shortExplanation": "Más controles.",
+   "pmid": "28624278",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Producers who had more DHIA tests performed per herd during the study period had lower prevalence of SM",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32406355-1-en",
+   "translationKey": "mastitis-32406355-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How often was Mycoplasma bovis detected by PCR in Brazilian clinical mastitis milk samples?",
+   "options": [
+    "In 90% of samples",
+    "Never",
+    "In all samples",
+    "In about 3% of samples"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "M. bovis was confirmed in 3% of 561 clinical mastitis samples, showing its involvement in Brazilian herds.",
+   "shortExplanation": "~3%.",
+   "pmid": "32406355",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mycoplasma bovis was verified in 3% of the milk samples by PCR",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32406355-1-es",
+   "translationKey": "mastitis-32406355-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Con qué frecuencia se detectó Mycoplasma bovis por PCR en leche de mastitis clínica en Brasil?",
+   "options": [
+    "En 90% de las muestras",
+    "Nunca",
+    "En todas",
+    "En cerca del 3% de las muestras"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "M. bovis se confirmó en 3% de 561 muestras de mastitis clínica, lo que muestra su presencia en rodeos brasileños.",
+   "shortExplanation": "~3%.",
+   "pmid": "32406355",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Mycoplasma bovis was verified in 3% of the milk samples by PCR",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-19038931-1-en",
+   "translationKey": "mastitis-19038931-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "How was automatic detection of clinical mastitis improved in robotic milking?",
+   "options": [
+    "Combining in-line SCC with electrical conductivity",
+    "Using electrical conductivity alone",
+    "Using cow weight",
+    "Using milk temperature only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Combining in-line SCC and conductivity with fuzzy logic doubled to tripled success and cut false alerts.",
+   "shortExplanation": "Combine sensors.",
+   "pmid": "19038931",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Combining sensor information to detect CM, by using a fuzzy logic algorithm, produced a 2- to 3-fold increase in the success rate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-19038931-1-es",
+   "translationKey": "mastitis-19038931-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se mejoró la detección automática de mastitis clínica en el ordeño robotizado?",
+   "options": [
+    "Combinando RCS en línea con conductividad eléctrica",
+    "Usando solo conductividad",
+    "Usando el peso de la vaca",
+    "Usando solo la temperatura de la leche"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Combinar RCS en línea y conductividad con lógica difusa duplicó o triplicó el acierto y redujo las falsas alarmas.",
+   "shortExplanation": "Combinar sensores.",
+   "pmid": "19038931",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Combining sensor information to detect CM, by using a fuzzy logic algorithm, produced a 2- to 3-fold increase in the success rate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37951013-1-en",
+   "translationKey": "mastitis-37951013-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "Which machine learning model achieved 98% accuracy in predicting clinical mastitis from automatic milking data?",
+   "options": [
+    "Linear regression",
+    "k-means",
+    "Decision tree",
+    "Naive guessing"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Using milk yield, conductivity and lying time, a decision tree reached 98% accuracy.",
+   "shortExplanation": "Decision tree.",
+   "pmid": "37951013",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The decision tree prediction model achieved an accuracy of 98%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-37951013-1-es",
+   "translationKey": "mastitis-37951013-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Qué modelo de aprendizaje automático logró 98% de exactitud para predecir mastitis clínica con datos del ordeño automático?",
+   "options": [
+    "Regresión lineal",
+    "k-medias",
+    "Árbol de decisión",
+    "Adivinar"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Con producción, conductividad y tiempo echado, un árbol de decisión alcanzó 98% de exactitud.",
+   "shortExplanation": "Árbol de decisión.",
+   "pmid": "37951013",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The decision tree prediction model achieved an accuracy of 98%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25434337-1-en",
+   "translationKey": "mastitis-25434337-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which milk component decreased after experimental Streptococcus uberis mastitis?",
+   "options": [
+    "Lactose",
+    "Fat",
+    "Protein",
+    "Water"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Lactose fell while fat and protein did not change; infected cows also walked less and rested more.",
+   "shortExplanation": "Lactose.",
+   "pmid": "25434337",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lactose percentage in milk was reduced",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25434337-1-es",
+   "translationKey": "mastitis-25434337-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué componente de la leche disminuyó tras una mastitis experimental por Streptococcus uberis?",
+   "options": [
+    "Lactosa",
+    "Grasa",
+    "Proteína",
+    "Agua"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La lactosa bajó mientras grasa y proteína no cambiaron; las vacas infectadas además caminaron menos y descansaron más.",
+   "shortExplanation": "Lactosa.",
+   "pmid": "25434337",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lactose percentage in milk was reduced",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25434337-2-en",
+   "translationKey": "mastitis-25434337-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "How did activity change in cows with experimental mastitis?",
+   "options": [
+    "They walked more",
+    "They walked less and rested more",
+    "No change",
+    "They stopped eating entirely"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Pedometers detected fewer steps and more resting, which can help automated detection.",
+   "shortExplanation": "Less walking.",
+   "pmid": "25434337",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Total steps per day were reduced and minutes resting per day were increased",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-25434337-2-es",
+   "translationKey": "mastitis-25434337-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo cambió la actividad de las vacas con mastitis experimental?",
+   "options": [
+    "Caminaron más",
+    "Caminaron menos y descansaron más",
+    "Sin cambios",
+    "Dejaron de comer"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los podómetros detectaron menos pasos y más descanso, lo que puede ayudar a la detección automática.",
+   "shortExplanation": "Menos actividad.",
+   "pmid": "25434337",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Total steps per day were reduced and minutes resting per day were increased",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32705035-1-en",
+   "translationKey": "mastitis-32705035-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What changed in cows with mild-moderate mastitis kept in straw-bedded hospital pens?",
+   "options": [
+    "They lay down for less total time",
+    "They stopped lying down",
+    "They developed more severe mastitis",
+    "They had more frequent lying bouts"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Daily lying time was similar, but hospital-pen cows lay down more often, showing behavior is sensitive to environment.",
+   "shortExplanation": "More lying bouts.",
+   "pmid": "32705035",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cows kept in hospital pens showed a higher frequency of lying bouts",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-32705035-1-es",
+   "translationKey": "mastitis-32705035-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué cambió en vacas con mastitis leve a moderada alojadas en corrales hospital con cama de paja?",
+   "options": [
+    "Se echaron menos tiempo total",
+    "Dejaron de echarse",
+    "Empeoró la mastitis",
+    "Se echaron con más frecuencia"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El tiempo echado diario fue similar, pero en el corral hospital se echaban más veces: el comportamiento depende del ambiente.",
+   "shortExplanation": "Más veces echadas.",
+   "pmid": "32705035",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "cows kept in hospital pens showed a higher frequency of lying bouts",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-1541745-1-en",
+   "translationKey": "mastitis-1541745-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "What did a field trial show about the E. coli J5 vaccine?",
+   "options": [
+    "It eliminated all gram-negative infections",
+    "It increased infections",
+    "It reduced clinical mastitis without reducing infection prevalence at calving",
+    "It only worked in heifers"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "67% of gram-negative IMI became clinical in controls vs. 20% in vaccinated cows.",
+   "shortExplanation": "Less clinical disease.",
+   "pmid": "1541745",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "did not reduce level of Gram-negative bacterial IMI at calving but did reduce incidence of clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-1541745-1-es",
+   "translationKey": "mastitis-1541745-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostró un ensayo de campo sobre la vacuna J5 de E. coli?",
+   "options": [
+    "Eliminó todas las infecciones gramnegativas",
+    "Aumentó las infecciones",
+    "Redujo la mastitis clínica sin reducir la prevalencia de infección al parto",
+    "Solo funcionó en vaquillonas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El 67% de las infecciones gramnegativas se volvió clínico en controles vs. 20% en vacunadas.",
+   "shortExplanation": "Menos enfermedad clínica.",
+   "pmid": "1541745",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "did not reduce level of Gram-negative bacterial IMI at calving but did reduce incidence of clinical mastitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-9006862-1-en",
+   "translationKey": "mastitis-9006862-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "In this Australian staphylococcal vaccine field trial, where was the vaccine effective?",
+   "options": [
+    "In the herd with a serious staphylococcal mastitis problem",
+    "In all seven herds equally",
+    "In no herd",
+    "Only against Streptococcus uberis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Overall differences were not significant, but in the herd with a high staphylococcal burden, vaccination reduced clinical and subclinical mastitis.",
+   "shortExplanation": "High-burden herd.",
+   "pmid": "9006862",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the vaccine was efficacious in reducing the incidence of clinical mastitis and prevalence of subclinical mastitis in a herd that had a serious staphylococcal mastitis problem",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-9006862-1-es",
+   "translationKey": "mastitis-9006862-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "expert",
+   "prompt": "En este ensayo de campo australiano de una vacuna estafilocócica, ¿dónde fue eficaz la vacuna?",
+   "options": [
+    "En el rodeo con un problema serio de mastitis estafilocócica",
+    "En los siete rodeos por igual",
+    "En ninguno",
+    "Solo contra Streptococcus uberis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "En general no hubo diferencias significativas, pero en el rodeo con alta carga estafilocócica la vacuna redujo la mastitis clínica y subclínica.",
+   "shortExplanation": "Rodeo de alta carga.",
+   "pmid": "9006862",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the vaccine was efficacious in reducing the incidence of clinical mastitis and prevalence of subclinical mastitis in a herd that had a serious staphylococcal mastitis problem",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35203812-1-en",
+   "translationKey": "mastitis-35203812-1",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "In this trial of subclinical mastitis therapy, what improved bacteriological cure?",
+   "options": [
+    "Fewer infusions",
+    "No treatment",
+    "Shorter duration",
+    "Longer and/or more frequent intramammary treatment"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Cure rose from 6% (untreated) to ~50% (3×48 h), ~62% (5×24 h) and ~81% (5×48 h).",
+   "shortExplanation": "Longer treatment.",
+   "pmid": "35203812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "bacteriological cure rate was higher with the 5 × 24 h protocol than for the 3 × 48 h protocol",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35203812-1-es",
+   "translationKey": "mastitis-35203812-1",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "researcher",
+   "prompt": "En este ensayo de terapia de mastitis subclínica, ¿qué mejoró la cura bacteriológica?",
+   "options": [
+    "Menos infusiones",
+    "No tratar",
+    "Menor duración",
+    "Tratamiento intramamario más largo y/o frecuente"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La cura pasó de 6% (sin tratar) a ~50% (3×48 h), ~62% (5×24 h) y ~81% (5×48 h).",
+   "shortExplanation": "Tratamiento más largo.",
+   "pmid": "35203812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "bacteriological cure rate was higher with the 5 × 24 h protocol than for the 3 × 48 h protocol",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35203812-2-en",
+   "translationKey": "mastitis-35203812-2",
+   "language": "en",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "Which quick cow-side test was used to select glands with subclinical mastitis?",
+   "options": [
+    "Blood smear",
+    "California Mastitis Test (CMT)",
+    "Urine dipstick",
+    "Rectal temperature"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The CMT reacts with cellular DNA in milk, forming a gel when SCC is high.",
+   "shortExplanation": "CMT.",
+   "pmid": "35203812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Glands with a positive California mastitis test (CMT)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "mastitis-35203812-2-es",
+   "translationKey": "mastitis-35203812-2",
+   "language": "es",
+   "category": "bovineMastitis",
+   "difficulty": "curious",
+   "prompt": "¿Qué prueba rápida al pie de la vaca se usó para seleccionar cuartos con mastitis subclínica?",
+   "options": [
+    "Frotis de sangre",
+    "California Mastitis Test (CMT)",
+    "Tira de orina",
+    "Temperatura rectal"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El CMT reacciona con el ADN celular de la leche y forma un gel cuando el RCS es alto.",
+   "shortExplanation": "CMT.",
+   "pmid": "35203812",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Glands with a positive California mastitis test (CMT)",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
