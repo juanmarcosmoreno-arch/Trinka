@@ -233,12 +233,12 @@ final class LevelFillTests: XCTestCase {
     func testCategoryQuizAtALevelFillsWithNearestLevels() throws {
         let bank = try SeedQuestionBank.load()
         var generator = SeededGenerator(seed: 7)
-        // Immunology has no "curious" question in the seed bank.
-        XCTAssertTrue(bank.questions(in: .en, category: .immunology, difficulty: .curious).count < 3)
-        let quiz = QuestionSelector().customQuiz(from: bank, language: .en, category: .immunology, difficulty: .curious,
+        // Neuroscience has no "curious" question in the seed bank.
+        XCTAssertTrue(bank.questions(in: .en, category: .neuroscience, difficulty: .curious).count < 3)
+        let quiz = QuestionSelector().customQuiz(from: bank, language: .en, category: .neuroscience, difficulty: .curious,
                                                  count: 3, fillWithNearestLevels: true, using: &generator)
         XCTAssertEqual(quiz.count, 3)
-        XCTAssertTrue(quiz.allSatisfy { $0.category == .immunology })
+        XCTAssertTrue(quiz.allSatisfy { $0.category == .neuroscience })
         XCTAssertEqual(quiz.first?.difficulty, quiz.map(\.difficulty).min { abs($0.level - 2) < abs($1.level - 2) })
     }
 }
