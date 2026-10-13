@@ -52,6 +52,22 @@ def list_titles(keywords, retmax=40):
         print(f"== {kw}: " + " | ".join(f"{u}:{summ[u]['title']}" for u in summ.get("uids", [])))
 
 
+def list_reviews(topics, retmax=8):
+    """Prints PMID | year | journal | title of PubMed reviews whose titles contain every word of each topic."""
+    for topic in topics:
+        words = [w for w in re.findall(r"[A-Za-z0-9-]+", topic) if w.lower() not in STOP]
+        term = " AND ".join(f"{w}[ti]" for w in words) + " AND review[pt] AND hasabstract AND english[la]"
+        ids = json.loads(fa.get("esearch.fcgi", db="pubmed", retmode="json", retmax=retmax, sort="relevance", term=term))["esearchresult"]["idlist"]
+        time.sleep(0.35)
+        if not ids:
+            print(f"== {topic}: none"); continue
+        summ = json.loads(fa.get("esummary.fcgi", db="pubmed", retmode="json", id=",".join(ids)))["result"]
+        time.sleep(0.35)
+        print(f"== {topic}:")
+        for u in summ.get("uids", []):
+            print(f"   {u} | {summ[u].get('pubdate', '')[:4]} | {summ[u].get('source', '')} | {summ[u]['title']}")
+
+
 def by_pmids(pmids):
     for a in fa.fetch(pmids):
         print(f"### {a['pmid']} | {a['title']}")
@@ -60,9 +76,11 @@ def by_pmids(pmids):
 
 
 if __name__ == "__main__":
-    # --list kw1;kw2  → titles;  --pmids 1,2,3 → summaries;  file → best match per line
+    # --list kw1;kw2  → titles; --reviews kw1;kw2 → PubMed reviews;  --pmids 1,2,3 → summaries;  file → best match per line
     if sys.argv[1] == "--list":
         list_titles([k.strip() for k in sys.argv[2].split(";") if k.strip()], int(sys.argv[3]) if len(sys.argv) > 3 else 40)
+    elif sys.argv[1] == "--reviews":
+        list_reviews([k.strip() for k in sys.argv[2].split(";") if k.strip()], int(sys.argv[3]) if len(sys.argv) > 3 else 8)
     elif sys.argv[1] == "--pmids":
         by_pmids([p.strip() for p in sys.argv[2].replace(" ", ",").split(",") if p.strip()])
     else:

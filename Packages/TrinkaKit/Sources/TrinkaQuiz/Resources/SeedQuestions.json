@@ -3208,6 +3208,380 @@
    "bookshelfID": "NBK546648"
   },
   {
+   "pmid": "34773098",
+   "title": "Horizontal gene transfer and adaptive evolution in bacteria.",
+   "authors": [
+    "Arnold BJ",
+    "Huang IT",
+    "Hanage WP"
+   ],
+   "journal": "Nature reviews. Microbiology",
+   "year": 2022,
+   "doi": "10.1038/s41579-021-00650-4",
+   "abstract": "Horizontal gene transfer (HGT) is arguably the most conspicuous feature of bacterial evolution. Evidence for HGT is found in most bacterial genomes. Although HGT can considerably alter bacterial genomes, not all transfer events may be biologically significant and may instead represent the outcome of an incessant evolutionary process that only occasionally has a beneficial purpose. When adaptive transfers occur, HGT and positive selection may result in specific, detectable signatures in genomes, such as gene-specific sweeps or increased transfer rates for genes that are ecologically relevant. In this Review, we first discuss the various mechanisms whereby HGT occurs, how the genetic signatures shape patterns of genomic variation and the distinct bioinformatic algorithms developed to detect these patterns. We then discuss the evolutionary theory behind HGT and positive selection in bacteria, and discuss the approaches developed over the past decade to detect transferred DNA that may be involved in adaptation to new environments.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "16138099",
+   "title": "Mechanisms of, and barriers to, horizontal gene transfer between bacteria.",
+   "authors": [
+    "Thomas CM",
+    "Nielsen KM"
+   ],
+   "journal": "Nature reviews. Microbiology",
+   "year": 2005,
+   "doi": "10.1038/nrmicro1234",
+   "abstract": "Bacteria evolve rapidly not only by mutation and rapid multiplication, but also by transfer of DNA, which can result in strains with beneficial mutations from more than one parent. Transformation involves the release of naked DNA followed by uptake and recombination. Homologous recombination and DNA-repair processes normally limit this to DNA from similar bacteria. However, if a gene moves onto a broad-host-range plasmid it might be able to spread without the need for recombination. There are barriers to both these processes but they reduce, rather than prevent, gene acquisition.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25154632",
+   "title": "Towards an integrated model of bacterial conjugation.",
+   "authors": [
+    "Cabezón E",
+    "Ripoll-Rozada J",
+    "Peña A",
+    "de la Cruz F",
+    "Arechaga I"
+   ],
+   "journal": "FEMS microbiology reviews",
+   "year": 2015,
+   "doi": "10.1111/1574-6976.12085",
+   "abstract": "Bacterial conjugation is one of the main mechanisms for horizontal gene transfer. It constitutes a key element in the dissemination of antibiotic resistance and virulence genes to human pathogenic bacteria. DNA transfer is mediated by a membrane-associated macromolecular machinery called Type IV secretion system (T4SS). T4SSs are involved not only in bacterial conjugation but also in the transport of virulence factors by pathogenic bacteria. Thus, the search for specific inhibitors of different T4SS components opens a novel approach to restrict plasmid dissemination. This review highlights recent biochemical and structural findings that shed new light on the molecular mechanisms of DNA and protein transport by T4SS. Based on these data, a model for pilus biogenesis and substrate transfer in conjugative systems is proposed. This model provides a renewed view of the mechanism that might help to envisage new strategies to curb the threating expansion of antibiotic resistance.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "11544353",
+   "title": "Quorum sensing in bacteria.",
+   "authors": [
+    "Miller MB",
+    "Bassler BL"
+   ],
+   "journal": "Annual review of microbiology",
+   "year": 2001,
+   "doi": "10.1146/annurev.micro.55.1.165",
+   "abstract": "Quorum sensing is the regulation of gene expression in response to fluctuations in cell-population density. Quorum sensing bacteria produce and release chemical signal molecules called autoinducers that increase in concentration as a function of cell density. The detection of a minimal threshold stimulatory concentration of an autoinducer leads to an alteration in gene expression. Gram-positive and Gram-negative bacteria use quorum sensing communication circuits to regulate a diverse array of physiological activities. These processes include symbiosis, virulence, competence, conjugation, antibiotic production, motility, sporulation, and biofilm formation. In general, Gram-negative bacteria use acylated homoserine lactones as autoinducers, and Gram-positive bacteria use processed oligo-peptides to communicate. Recent advances in the field indicate that cell-cell communication via autoinducers occurs both within and between bacterial species. Furthermore, there is mounting data suggesting that bacterial autoinducers elicit specific responses from host organisms. Although the nature of the chemical signals, the signal relay mechanisms, and the target genes controlled by bacterial quorum sensing systems differ, in every case the ability to communicate with one another allows bacteria to coordinate the gene expression, and therefore the behavior, of the entire community. Presumably, this process bestows upon bacteria some of the qualities of higher organisms. The evolution of quorum sensing systems in bacteria could, therefore, have been one of the early steps in the development of multicellularity.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "16212498",
+   "title": "Quorum sensing: cell-to-cell communication in bacteria.",
+   "authors": [
+    "Waters CM",
+    "Bassler BL"
+   ],
+   "journal": "Annual review of cell and developmental biology",
+   "year": 2005,
+   "doi": "10.1146/annurev.cellbio.21.012704.131001",
+   "abstract": "Bacteria communicate with one another using chemical signal molecules. As in higher organisms, the information supplied by these molecules is critical for synchronizing the activities of large groups of cells. In bacteria, chemical communication involves producing, releasing, detecting, and responding to small hormone-like molecules termed autoinducers . This process, termed quorum sensing, allows bacteria to monitor the environment for other bacteria and to alter behavior on a population-wide scale in response to changes in the number and/or species present in a community. Most quorum-sensing-controlled processes are unproductive when undertaken by an individual bacterium acting alone but become beneficial when carried out simultaneously by a large number of cells. Thus, quorum sensing confuses the distinction between prokaryotes and eukaryotes because it enables bacteria to act as multicellular organisms. This review focuses on the architectures of bacterial chemical communication networks; how chemical information is integrated, processed, and transduced to control gene expression; how intra- and interspecies cell-cell communication is accomplished; and the intriguing possibility of prokaryote-eukaryote cross-communication.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29042186",
+   "title": "Bacterial biofilm and associated infections.",
+   "authors": [
+    "Jamal M",
+    "Ahmad W",
+    "Andleeb S",
+    "Jalil F",
+    "Imran M",
+    "Nawaz MA",
+    "Hussain T",
+    "Ali M",
+    "Rafiq M",
+    "Kamil MA"
+   ],
+   "journal": "Journal of the Chinese Medical Association : JCMA",
+   "year": 2018,
+   "doi": "10.1016/j.jcma.2017.07.012",
+   "abstract": "Microscopic entities, microorganisms that drastically affect human health need to be thoroughly investigated. A biofilm is an architectural colony of microorganisms, within a matrix of extracellular polymeric substance that they produce. Biofilm contains microbial cells adherent to one-another and to a static surface (living or non-living). Bacterial biofilms are usually pathogenic in nature and can cause nosocomial infections. The National Institutes of Health (NIH) revealed that among all microbial and chronic infections, 65% and 80%, respectively, are associated with biofilm formation. The process of biofilm formation consists of many steps, starting with attachment to a living or non-living surface that will lead to formation of micro-colony, giving rise to three-dimensional structures and ending up, after maturation, with detachment. During formation of biofilm several species of bacteria communicate with one another, employing quorum sensing. In general, bacterial biofilms show resistance against human immune system, as well as against antibiotics. Health related concerns speak loud due to the biofilm potential to cause diseases, utilizing both device-related and non-device-related infections. In summary, the understanding of bacterial biofilm is important to manage and/or to eradicate biofilm-related diseases. The current review is, therefore, an effort to encompass the current concepts in biofilm formation and its implications in human health and disease.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32424210",
+   "title": "Regulation of peptidoglycan synthesis and remodelling.",
+   "authors": [
+    "Egan AJF",
+    "Errington J",
+    "Vollmer W"
+   ],
+   "journal": "Nature reviews. Microbiology",
+   "year": 2020,
+   "doi": "10.1038/s41579-020-0366-3",
+   "abstract": "Bacteria surround their cell membrane with a net-like peptidoglycan layer, called sacculus, to protect the cell from bursting and maintain its cell shape. Sacculus growth during elongation and cell division is mediated by dynamic and transient multiprotein complexes, the elongasome and divisome, respectively. In this Review we present our current understanding of how peptidoglycan synthases are regulated by multiple and specific interactions with cell morphogenesis proteins that are linked to a dynamic cytoskeletal protein, either the actin-like MreB or the tubulin-like FtsZ. Several peptidoglycan synthases and hydrolases require activation by outer-membrane-anchored lipoproteins. We also discuss how bacteria achieve robust cell wall growth under different conditions and stresses by maintaining multiple peptidoglycan enzymes and regulators as well as different peptidoglycan growth mechanisms, and we present the emerging role of LD-transpeptidases in peptidoglycan remodelling.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32269092",
+   "title": "Bacterial cell division at a glance.",
+   "authors": [
+    "Mahone CR",
+    "Goley ED"
+   ],
+   "journal": "Journal of cell science",
+   "year": 2020,
+   "doi": "10.1242/jcs.237057",
+   "abstract": "Bacterial cell division is initiated by the midcell assembly of polymers of the tubulin-like GTPase FtsZ. The FtsZ ring (Z-ring) is a discontinuous structure made of dynamic patches of FtsZ that undergo treadmilling motion. Roughly a dozen additional essential proteins are recruited to the division site by the dynamic Z-ring scaffold and subsequently activate cell wall synthesis to drive cell envelope constriction during division. In this Cell Science at a Glance article and the accompanying poster, we summarize our understanding of the assembly and activation of the bacterial cell division machinery. We introduce polymerization properties of FtsZ and discuss our current knowledge of divisome assembly and activation. We further highlight the intimate relationship between the structure and dynamics of FtsZ and the movement and activity of cell wall synthases at the division site, before concluding with a perspective on the most important open questions on bacterial cell division.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19995920",
+   "title": "Updated functional classification of beta-lactamases.",
+   "authors": [
+    "Bush K",
+    "Jacoby GA"
+   ],
+   "journal": "Antimicrobial agents and chemotherapy",
+   "year": 2010,
+   "doi": "10.1128/AAC.01009-09",
+   "abstract": "Two classification schemes for beta-lactamases are currently in use. The molecular classification is based on the amino acid sequence and divides beta-lactamases into class A, C, and D enzymes which utilize serine for beta-lactam hydrolysis and class B metalloenzymes which require divalent zinc ions for substrate hydrolysis. The functional classification scheme updated herein is based on the 1995 proposal by Bush et al. (K. Bush, G. A. Jacoby, and A. A. Medeiros, Antimicrob. Agents Chemother. 39:1211-1233, 1995). It takes into account substrate and inhibitor profiles in an attempt to group the enzymes in ways that can be correlated with their phenotype in clinical isolates. Major groupings generally correlate with the more broadly based molecular classification. The updated system includes group 1 (class C) cephalosporinases; group 2 (classes A and D) broad-spectrum, inhibitor-resistant, and extended-spectrum beta-lactamases and serine carbapenemases; and group 3 metallo-beta-lactamases. Several new subgroups of each of the major groups are described, based on specific attributes of individual enzymes. A list of attributes is also suggested for the description of a new beta-lactamase, including the requisite microbiological properties, substrate and inhibitor profiles, and molecular sequence data that provide an adequate characterization for a new beta-lactam-hydrolyzing enzyme.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "17630334",
+   "title": "Carbapenemases: the versatile beta-lactamases.",
+   "authors": [
+    "Queenan AM",
+    "Bush K"
+   ],
+   "journal": "Clinical microbiology reviews",
+   "year": 2007,
+   "doi": "10.1128/CMR.00001-07",
+   "abstract": "Carbapenemases are beta-lactamases with versatile hydrolytic capacities. They have the ability to hydrolyze penicillins, cephalosporins, monobactams, and carbapenems. Bacteria producing these beta-lactamases may cause serious infections in which the carbapenemase activity renders many beta-lactams ineffective. Carbapenemases are members of the molecular class A, B, and D beta-lactamases. Class A and D enzymes have a serine-based hydrolytic mechanism, while class B enzymes are metallo-beta-lactamases that contain zinc in the active site. The class A carbapenemase group includes members of the SME, IMI, NMC, GES, and KPC families. Of these, the KPC carbapenemases are the most prevalent, found mostly on plasmids in Klebsiella pneumoniae. The class D carbapenemases consist of OXA-type beta-lactamases frequently detected in Acinetobacter baumannii. The metallo-beta-lactamases belong to the IMP, VIM, SPM, GIM, and SIM families and have been detected primarily in Pseudomonas aeruginosa; however, there are increasing numbers of reports worldwide of this group of beta-lactamases in the Enterobacteriaceae. This review updates the characteristics, epidemiology, and detection of the carbapenemases found in pathogenic bacteria.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34286272",
+   "title": "Extended-spectrum β-lactamases: an update on their characteristics, epidemiology and detection.",
+   "authors": [
+    "Castanheira M",
+    "Simner PJ",
+    "Bradford PA"
+   ],
+   "journal": "JAC-antimicrobial resistance",
+   "year": 2021,
+   "doi": "10.1093/jacamr/dlab092",
+   "abstract": "Extended-spectrum β-lactamase (ESBL)-producing Gram-negative pathogens are a major cause of resistance to expanded-spectrum β-lactam antibiotics. Since their discovery in the early 1980s, they have spread worldwide and an are now endemic in Enterobacterales isolated from both hospital-associated and community-acquired infections. As a result, they are a global public health concern. In the past, TEM- and SHV-type ESBLs were the predominant families of ESBLs. Today CTX-M-type enzymes are the most commonly found ESBL type with the CTX-M-15 variant dominating worldwide, followed in prevalence by CTX-M-14, and CTX-M-27 is emerging in certain parts of the world. The genes encoding ESBLs are often found on plasmids and harboured within transposons or insertion sequences, which has enabled their spread. In addition, the population of ESBL-producing Escherichia coli is dominated globally by a highly virulent and successful clone belonging to ST131. Today, there are many diagnostic tools available to the clinical microbiology laboratory and include both phenotypic and genotypic tests to detect β-lactamases. Unfortunately, when ESBLs are not identified in a timely manner, appropriate antimicrobial therapy is frequently delayed, resulting in poor clinical outcomes. Several analyses of clinical trials have shown mixed results with regards to whether a carbapenem must be used to treat serious infections caused by ESBLs or whether some of the older β-lactam-β-lactamase combinations such as piperacillin/tazobactam are appropriate. Some of the newer combinations such as ceftazidime/avibactam have demonstrated efficacy in patients. ESBL-producing Gram-negative pathogens will continue to be major contributor to antimicrobial resistance worldwide. It is essential that we remain vigilant about identifying them both in patient isolates and through surveillance studies.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27227291",
+   "title": "Mechanisms of Antibiotic Resistance.",
+   "authors": [
+    "Munita JM",
+    "Arias CA"
+   ],
+   "journal": "Microbiology spectrum",
+   "year": 2016,
+   "doi": "10.1128/microbiolspec.VMBF-0016-2015",
+   "abstract": "Emergence of resistance among the most important bacterial pathogens is recognized as a major public health threat affecting humans worldwide. Multidrug-resistant organisms have not only emerged in the hospital environment but are now often identified in community settings, suggesting that reservoirs of antibiotic-resistant bacteria are present outside the hospital. The bacterial response to the antibiotic \"attack\" is the prime example of bacterial adaptation and the pinnacle of evolution. \"Survival of the fittest\" is a consequence of an immense genetic plasticity of bacterial pathogens that trigger specific responses that result in mutational adaptations, acquisition of genetic material, or alteration of gene expression producing resistance to virtually all antibiotics currently available in clinical practice. Therefore, understanding the biochemical and genetic basis of resistance is of paramount importance to design strategies to curtail the emergence and spread of resistance and to devise innovative therapeutic approaches against multidrug-resistant organisms. In this chapter, we will describe in detail the major mechanisms of antibiotic resistance encountered in clinical practice, providing specific examples in relevant bacterial pathogens.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "25435309",
+   "title": "Molecular mechanisms of antibiotic resistance.",
+   "authors": [
+    "Blair JM",
+    "Webber MA",
+    "Baylay AJ",
+    "Ogbolu DO",
+    "Piddock LJ"
+   ],
+   "journal": "Nature reviews. Microbiology",
+   "year": 2015,
+   "doi": "10.1038/nrmicro3380",
+   "abstract": "Antibiotic-resistant bacteria that are difficult or impossible to treat are becoming increasingly common and are causing a global health crisis. Antibiotic resistance is encoded by several genes, many of which can transfer between bacteria. New resistance mechanisms are constantly being described, and new genes and vectors of transmission are identified on a regular basis. This article reviews recent advances in our understanding of the mechanisms by which bacteria are either intrinsically resistant or acquire resistance to antibiotics, including the prevention of access to drug targets, changes in the structure and protection of antibiotic targets and the direct modification or inactivation of antibiotics.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26999395",
+   "title": "Bacterial Secretion Systems: An Overview.",
+   "authors": [
+    "Green ER",
+    "Mecsas J"
+   ],
+   "journal": "Microbiology spectrum",
+   "year": 2016,
+   "doi": "10.1128/microbiolspec.VMBF-0012-2015",
+   "abstract": "Bacterial pathogens utilize a multitude of methods to invade mammalian hosts, damage tissue sites, and thwart the immune system from responding. One essential component of these strategies for many bacterial pathogens is the secretion of proteins across phospholipid membranes. Secreted proteins can play many roles in promoting bacterial virulence, from enhancing attachment to eukaryotic cells, to scavenging resources in an environmental niche, to directly intoxicating target cells and disrupting their functions. Many pathogens use dedicated protein secretion systems to secrete virulence factors from the cytosol of the bacteria into host cells or the host environment. In general, bacterial protein secretion apparatuses can be divided into classes, based on their structures, functions, and specificity. Some systems are conserved in all classes of bacteria and secrete a broad array of substrates, while others are only found in a small number of bacterial species and/or are specific to only one or a few proteins. In this chapter, we review the canonical features of several common bacterial protein secretion systems, as well as their roles in promoting the virulence of bacterial pathogens. Additionally, we address recent findings that indicate that the innate immune system of the host can detect and respond to the presence of protein secretion systems during mammalian infection.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26370933",
+   "title": "Type III secretion systems: the bacterial flagellum and the injectisome.",
+   "authors": [
+    "Diepold A",
+    "Armitage JP"
+   ],
+   "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+   "year": 2015,
+   "doi": "10.1098/rstb.2015.0020",
+   "abstract": "The flagellum and the injectisome are two of the most complex and fascinating bacterial nanomachines. At their core, they share a type III secretion system (T3SS), a transmembrane export complex that forms the extracellular appendages, the flagellar filament and the injectisome needle. Recent advances, combining structural biology, cryo-electron tomography, molecular genetics, in vivo imaging, bioinformatics and biophysics, have greatly increased our understanding of the T3SS, especially the structure of its transmembrane and cytosolic components, the transcriptional, post-transcriptional and functional regulation and the remarkable adaptivity of the system. This review aims to integrate these new findings into our current knowledge of the evolution, function, regulation and dynamics of the T3SS, and to highlight commonalities and differences between the two systems, as well as their potential applications.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "20528688",
+   "title": "Persister cells.",
+   "authors": [
+    "Lewis K"
+   ],
+   "journal": "Annual review of microbiology",
+   "year": 2010,
+   "doi": "10.1146/annurev.micro.112408.134306",
+   "abstract": "Persisters are dormant variants of regular cells that form stochastically in microbial populations and are highly tolerant to antibiotics. High persister (hip) mutants of Pseudomonas aeruginosa are selected in patients with cystic fibrosis. Similarly, hip mutants of Candida albicans are selected in patients with an oral thrush biofilm. These observations suggest that persisters may be the main culprit responsible for the recalcitrance of chronic infectious disease to antimicrobial therapy. Screening knockout libraries has not produced mutants lacking persisters, indicating that dormancy mechanisms are redundant. Toxin/antitoxin (TA) modules are involved in persister formation in Escherichia coli. The SOS response leads to overexpression of the TisB toxin and persister formation. TisB is a membrane-acting peptide that apparently sends cells into dormancy by decreasing the proton motive force and ATP levels. Stress responses may act as general activators of persister formation. Proteins required for maintaining persisters may represent realistic targets for discovery of drugs capable of effectively treating chronic infections.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28529326",
+   "title": "Persistent bacterial infections and persister cells.",
+   "authors": [
+    "Fisher RA",
+    "Gollan B",
+    "Helaine S"
+   ],
+   "journal": "Nature reviews. Microbiology",
+   "year": 2017,
+   "doi": "10.1038/nrmicro.2017.42",
+   "abstract": "Many bacteria can infect and persist inside their hosts for long periods of time. This can be due to immunosuppression of the host, immune evasion by the pathogen and/or ineffective killing by antibiotics. Bacteria can survive antibiotic treatment if they are resistant or tolerant to a drug. Persisters are a subpopulation of transiently antibiotic-tolerant bacterial cells that are often slow-growing or growth-arrested, and are able to resume growth after a lethal stress. The formation of persister cells establishes phenotypic heterogeneity within a bacterial population and has been hypothesized to be important for increasing the chances of successfully adapting to environmental change. The presence of persister cells can result in the recalcitrance and relapse of persistent bacterial infections, and it has been linked to an increase in the risk of the emergence of antibiotic resistance during treatment. If the mechanisms of the formation and regrowth of these antibiotic-tolerant cells were better understood, it could lead to the development of new approaches for the eradication of persistent bacterial infections. In this Review, we discuss recent developments in our understanding of bacterial persisters and their potential implications for the treatment of persistent infections.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "11544363",
+   "title": "Bacteriophage therapy.",
+   "authors": [
+    "Summers WC"
+   ],
+   "journal": "Annual review of microbiology",
+   "year": 2001,
+   "doi": "10.1146/annurev.micro.55.1.437",
+   "abstract": "In 1917, bacteriophages were recognized as epizootic infections of bacteria and were almost immediately deployed for antibacterial therapy and prophylaxis. The early trials of bacteriophage therapy for infectious diseases were confounded, however, because the biological nature of bacteriophage was poorly understood. The early literature reviewed here indicates that there are good reasons to believe that phage therapy can be effective in some circumstances. The advent of antibiotics, together with the \"Soviet taint\" acquired by phage therapy in the postwar period, resulted in the absence of rigorous evaluations of phage therapy until very recently. Recent laboratory and animal studies, exploiting current understandings of phage biology, suggest that phages may be useful as antibacterial agents in certain conditions.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26209264",
+   "title": "CRISPR-Cas: New Tools for Genetic Manipulations from Bacterial Immunity Systems.",
+   "authors": [
+    "Jiang W",
+    "Marraffini LA"
+   ],
+   "journal": "Annual review of microbiology",
+   "year": 2015,
+   "doi": "10.1146/annurev-micro-091014-104441",
+   "abstract": "Prokaryotic CRISPR-Cas loci encode proteins that function as an adaptive immune system against infectious viruses and plasmids. Immunity is mediated by Cas nucleases and small RNA guides, which specify a cleavage site within the genome of the invader. In type II CRISPR-Cas systems, the RNA-guided Cas9 nuclease cleaves the DNA. Cas9 can be reprogrammed to create double-strand DNA breaks in the genomes of a variety of organisms, from bacteria to human cells. Repair of Cas9 lesions by homologous recombination or nonhomologous end joining mechanisms can lead to the introduction of specific nucleotide substitutions or indel mutations, respectively. Furthermore, a nuclease-null Cas9 has been developed to regulate endogenous gene expression and to label genomic loci in living cells. Targeted genome editing and gene regulation mediated by Cas9 are easy to program, scale, and multiplex, allowing researchers to decipher the causal link between genetic and phenotypic variation. In this review, we describe the most notable applications of Cas9 in basic biology, translational medicine, synthetic biology, biotechnology, and other fields.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "12448702",
+   "title": "Bacterial endospores and their significance in stress resistance.",
+   "authors": [
+    "Nicholson WL",
+    "Fajardo-Cavazos P",
+    "Rebeil R",
+    "Slieman TA",
+    "Riesenman PJ",
+    "Law JF",
+    "Xue Y"
+   ],
+   "journal": "Antonie van Leeuwenhoek",
+   "year": 2002,
+   "doi": "10.1023/a:1020561122764",
+   "abstract": "In terms of resistance to extreme environmental stresses, the bacterial spore represents a pinnacle of evolution. Spores are highly resistant to a wide variety of physical stresses such as: wet and dry heat, UV and gamma radiation, oxidizing agents, chemicals, and extremes of both vacuum and ultrahigh hydrostatic pressure. Some of the molecular mechanisms underlying spore resistance properties have been elucidated in the laboratory, and involve both: (i) protection of vital spore macromolecules during dormancy, and (ii) repair of damaged macromolecules during germination. Our group has recently become interested in testing if the laboratory model of spore UV resistance is relevant to spore persistence in the environment. We have constructed a number of Bacillus subtilis strains which are defective in various DNA repair systems and spore structural components. Using spores of these strains, we have been exploring: (i) the types of damage induced in DNA by the UV-B and UV-A components of sunlight; (ii) the relative contribution of the major spore DNA repair systems to spore solar radiation resistance; and (iii) the role of spore structural components such as the spore coats and dipicolinic acid (DPA) in attenuation of the lethal and mutagenic effects of solar UV. The current data are reviewed with the ultimate goal of obtaining a complete model describing spore persistence and longevity in the terrestrial solar UV radiation environment.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19815028",
+   "title": "Lipopolysaccharide: Biosynthetic pathway and structure modification.",
+   "authors": [
+    "Wang X",
+    "Quinn PJ"
+   ],
+   "journal": "Progress in lipid research",
+   "year": 2010,
+   "doi": "10.1016/j.plipres.2009.06.002",
+   "abstract": "Lipopolysaccharide that constitutes the outer leaflet of the outer membrane of most Gram-negative bacteria is referred to as an endotoxin. It is comprised of a hydrophilic polysaccharide and a hydrophobic component referred to as lipid A. Lipid A is responsible for the major bioactivity of endotoxin, and is recognized by immune cells as a pathogen-associated molecule. Most enzymes and genes coding for proteins responsible for the biosynthesis and export of lipopolysaccharide in Escherichia coli have been identified, and they are shared by most Gram-negative bacteria based on genetic information. The detailed structure of lipopolysaccharide differs from one bacterium to another, consistent with the recent discovery of additional enzymes and gene products that can modify the basic structure of lipopolysaccharide in some bacteria, especially pathogens. These modifications are not required for survival, but are tightly regulated in the cell and closely related to the virulence of bacteria. In this review we discuss recent studies of the biosynthesis and export of lipopolysaccharide, and the relationship between the structure of lipopolysaccharide and the virulence of bacteria.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
    "pmid": "28722861",
    "title": "Brucellosis",
    "authors": [
@@ -24656,6 +25030,1782 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "ingest their host's blood, leading to iron-deficiency anemia in most cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34773098-1-en",
+   "translationKey": "micro-34773098-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What is horizontal gene transfer?",
+   "options": [
+    "Passing genes only from mother to daughter cell",
+    "DNA mutation caused by UV light",
+    "Acquisition of DNA from another organism rather than from a parent cell",
+    "Loss of plasmids during division"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "HGT moves DNA between cells outside of parent-to-offspring inheritance and is a hallmark of bacterial evolution.",
+   "shortExplanation": "DNA from other organisms.",
+   "pmid": "34773098",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Horizontal gene transfer (HGT) is arguably the most conspicuous feature of bacterial evolution",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34773098-1-es",
+   "translationKey": "micro-34773098-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué es la transferencia horizontal de genes?",
+   "options": [
+    "Pasar genes solo de célula madre a hija",
+    "Mutación del ADN por luz UV",
+    "Adquirir ADN de otro organismo, no de la célula progenitora",
+    "Pérdida de plásmidos durante la división"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La THG mueve ADN entre células por fuera de la herencia vertical y es un rasgo central de la evolución bacteriana.",
+   "shortExplanation": "ADN de otros organismos.",
+   "pmid": "34773098",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Horizontal gene transfer (HGT) is arguably the most conspicuous feature of bacterial evolution",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16138099-1-en",
+   "translationKey": "micro-16138099-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which mechanism of gene transfer involves uptake of naked DNA from the environment?",
+   "options": [
+    "Transformation",
+    "Transduction",
+    "Conjugation",
+    "Binary fission"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Transformation = uptake of free (naked) DNA and recombination; transduction uses phages; conjugation uses cell contact.",
+   "shortExplanation": "Transformation.",
+   "pmid": "16138099",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transformation involves the release of naked DNA followed by uptake and recombination",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16138099-1-es",
+   "translationKey": "micro-16138099-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué mecanismo de transferencia génica implica la captación de ADN desnudo del ambiente?",
+   "options": [
+    "Transformación",
+    "Transducción",
+    "Conjugación",
+    "Fisión binaria"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Transformación = captación de ADN libre y recombinación; la transducción usa fagos; la conjugación, contacto celular.",
+   "shortExplanation": "Transformación.",
+   "pmid": "16138099",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Transformation involves the release of naked DNA followed by uptake and recombination",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16138099-2-en",
+   "translationKey": "micro-16138099-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What normally limits integration of transformed DNA to DNA from closely related bacteria?",
+   "options": [
+    "Capsule thickness",
+    "Flagellar motility",
+    "Ribosome size",
+    "Homologous recombination and DNA-repair processes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Integration by homologous recombination needs sequence similarity; broad-host-range plasmids can bypass this barrier.",
+   "shortExplanation": "Homologous recombination.",
+   "pmid": "16138099",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Homologous recombination and DNA-repair processes normally limit this to DNA from similar bacteria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16138099-2-es",
+   "translationKey": "micro-16138099-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué limita normalmente la integración de ADN transformado a ADN de bacterias emparentadas?",
+   "options": [
+    "El grosor de la cápsula",
+    "La movilidad flagelar",
+    "El tamaño del ribosoma",
+    "La recombinación homóloga y los procesos de reparación del ADN"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La integración por recombinación homóloga requiere similitud de secuencia; los plásmidos de amplio espectro de huésped evitan esa barrera.",
+   "shortExplanation": "Recombinación homóloga.",
+   "pmid": "16138099",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Homologous recombination and DNA-repair processes normally limit this to DNA from similar bacteria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25154632-1-en",
+   "translationKey": "micro-25154632-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why is bacterial conjugation clinically important?",
+   "options": [
+    "It makes bacteria divide faster",
+    "It spreads antibiotic resistance and virulence genes",
+    "It kills competing bacteria",
+    "It produces spores"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Conjugation is a main HGT route and key to spreading resistance and virulence genes, often on plasmids.",
+   "shortExplanation": "Spreads resistance genes.",
+   "pmid": "25154632",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It constitutes a key element in the dissemination of antibiotic resistance and virulence genes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25154632-1-es",
+   "translationKey": "micro-25154632-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué es clínicamente importante la conjugación bacteriana?",
+   "options": [
+    "Hace que las bacterias se dividan más rápido",
+    "Disemina genes de resistencia y virulencia",
+    "Mata bacterias competidoras",
+    "Produce esporas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La conjugación es una vía principal de THG y clave para diseminar genes de resistencia y virulencia, a menudo en plásmidos.",
+   "shortExplanation": "Disemina resistencia.",
+   "pmid": "25154632",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It constitutes a key element in the dissemination of antibiotic resistance and virulence genes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25154632-2-en",
+   "translationKey": "micro-25154632-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which secretion system mediates DNA transfer during bacterial conjugation?",
+   "options": [
+    "Type I",
+    "Type III",
+    "Type IV (T4SS)",
+    "Sec pathway"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Conjugative DNA transfer uses the type IV secretion system, also used by some pathogens to deliver virulence proteins.",
+   "shortExplanation": "T4SS.",
+   "pmid": "25154632",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "DNA transfer is mediated by a membrane-associated macromolecular machinery called Type IV secretion system (T4SS)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25154632-2-es",
+   "translationKey": "micro-25154632-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué sistema de secreción media la transferencia de ADN en la conjugación?",
+   "options": [
+    "Tipo I",
+    "Tipo III",
+    "Tipo IV (SST4)",
+    "Vía Sec"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La transferencia conjugativa usa el sistema de secreción tipo IV, que algunos patógenos también usan para inyectar proteínas de virulencia.",
+   "shortExplanation": "SST4.",
+   "pmid": "25154632",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "DNA transfer is mediated by a membrane-associated macromolecular machinery called Type IV secretion system (T4SS)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-11544353-1-en",
+   "translationKey": "micro-11544353-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What is quorum sensing?",
+   "options": [
+    "A test to count bacteria in the lab",
+    "Antibiotic sensing by bacteria",
+    "Bacterial movement toward light",
+    "Regulation of gene expression according to cell-population density"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Bacteria release autoinducers whose concentration reflects population density; above a threshold, gene expression changes.",
+   "shortExplanation": "Density-dependent gene regulation.",
+   "pmid": "11544353",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Quorum sensing is the regulation of gene expression in response to fluctuations in cell-population density",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-11544353-1-es",
+   "translationKey": "micro-11544353-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué es el quorum sensing (percepción de quórum)?",
+   "options": [
+    "Una prueba para contar bacterias",
+    "La detección de antibióticos por bacterias",
+    "El movimiento bacteriano hacia la luz",
+    "La regulación génica según la densidad de la población celular"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las bacterias liberan autoinductores cuya concentración refleja la densidad; superado un umbral, cambia la expresión génica.",
+   "shortExplanation": "Regulación por densidad.",
+   "pmid": "11544353",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Quorum sensing is the regulation of gene expression in response to fluctuations in cell-population density",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-11544353-2-en",
+   "translationKey": "micro-11544353-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which autoinducers are typical of gram-negative vs. gram-positive bacteria?",
+   "options": [
+    "Gram-negative: acyl-homoserine lactones; gram-positive: processed oligopeptides",
+    "Gram-negative: peptides; gram-positive: lactones",
+    "Both use only cAMP",
+    "Both use glucose"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Gram-negatives typically use acylated homoserine lactones; gram-positives use processed oligopeptides.",
+   "shortExplanation": "AHLs vs. peptides.",
+   "pmid": "11544353",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In general, Gram-negative bacteria use acylated homoserine lactones as autoinducers, and Gram-positive bacteria use processed oligo-peptides",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-11544353-2-es",
+   "translationKey": "micro-11544353-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué autoinductores son típicos de gramnegativas y grampositivas?",
+   "options": [
+    "Gramnegativas: acil-homoserina lactonas; grampositivas: oligopéptidos procesados",
+    "Gramnegativas: péptidos; grampositivas: lactonas",
+    "Ambas solo AMPc",
+    "Ambas glucosa"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las gramnegativas suelen usar acil-homoserina lactonas; las grampositivas, oligopéptidos procesados.",
+   "shortExplanation": "AHL vs. péptidos.",
+   "pmid": "11544353",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In general, Gram-negative bacteria use acylated homoserine lactones as autoinducers, and Gram-positive bacteria use processed oligo-peptides",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16212498-1-en",
+   "translationKey": "micro-16212498-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Why do bacteria regulate behaviors like toxin release or bioluminescence by quorum sensing?",
+   "options": [
+    "To save DNA",
+    "Such processes are only effective when performed by many cells at once",
+    "Because single cells cannot make proteins",
+    "To avoid mutation"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Many quorum-controlled processes are useless for a lone cell but beneficial when a whole population acts together.",
+   "shortExplanation": "Collective action pays off.",
+   "pmid": "16212498",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Most quorum-sensing-controlled processes are unproductive when undertaken by an individual bacterium acting alone",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-16212498-1-es",
+   "translationKey": "micro-16212498-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Por qué las bacterias regulan conductas como liberar toxinas o bioluminiscencia por quorum sensing?",
+   "options": [
+    "Para ahorrar ADN",
+    "Esos procesos solo son eficaces si muchas células los hacen a la vez",
+    "Porque una célula sola no fabrica proteínas",
+    "Para evitar mutaciones"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Muchos procesos controlados por quórum son inútiles para una célula aislada pero beneficiosos cuando actúa toda la población.",
+   "shortExplanation": "Acción colectiva.",
+   "pmid": "16212498",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Most quorum-sensing-controlled processes are unproductive when undertaken by an individual bacterium acting alone",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29042186-1-en",
+   "translationKey": "micro-29042186-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What is a biofilm?",
+   "options": [
+    "A single free-swimming bacterium",
+    "A type of antibiotic",
+    "A community of microbes embedded in a self-produced polymeric matrix",
+    "A viral capsid"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Biofilms are structured microbial communities attached to surfaces within an extracellular polymeric matrix.",
+   "shortExplanation": "Microbes in a matrix.",
+   "pmid": "29042186",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A biofilm is an architectural colony of microorganisms, within a matrix of extracellular polymeric substance that they produce",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29042186-1-es",
+   "translationKey": "micro-29042186-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué es una biopelícula (biofilm)?",
+   "options": [
+    "Una sola bacteria nadadora",
+    "Un tipo de antibiótico",
+    "Una comunidad de microbios inmersa en una matriz polimérica que ellos producen",
+    "Una cápside viral"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las biopelículas son comunidades microbianas adheridas a superficies dentro de una matriz polimérica extracelular.",
+   "shortExplanation": "Microbios en matriz.",
+   "pmid": "29042186",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "A biofilm is an architectural colony of microorganisms, within a matrix of extracellular polymeric substance that they produce",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29042186-2-en",
+   "translationKey": "micro-29042186-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why are biofilm infections (e.g., on catheters) hard to treat?",
+   "options": [
+    "Biofilms grow only at 4 °C",
+    "Biofilms contain no bacteria",
+    "Biofilm bacteria are always viruses",
+    "Biofilms resist both antibiotics and the immune system"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Biofilm bacteria are protected from antibiotics and immune defenses, causing chronic and device-related infections.",
+   "shortExplanation": "Resist drugs and immunity.",
+   "pmid": "29042186",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "bacterial biofilms show resistance against human immune system, as well as against antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29042186-2-es",
+   "translationKey": "micro-29042186-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué las infecciones por biopelículas (p. ej., en catéteres) son difíciles de tratar?",
+   "options": [
+    "Solo crecen a 4 °C",
+    "No contienen bacterias",
+    "Las bacterias de biofilm son virus",
+    "Resisten tanto a antibióticos como al sistema inmune"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las bacterias del biofilm quedan protegidas de antibióticos y defensas inmunes, causando infecciones crónicas y asociadas a dispositivos.",
+   "shortExplanation": "Resisten fármacos e inmunidad.",
+   "pmid": "29042186",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "bacterial biofilms show resistance against human immune system, as well as against antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29042186-3-en",
+   "translationKey": "micro-29042186-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which sequence describes biofilm development?",
+   "options": [
+    "Attachment → microcolony → 3D maturation → detachment",
+    "Detachment → attachment → sporulation",
+    "Lysis → attachment → division",
+    "Conjugation → transduction → transformation"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Biofilm formation: attachment, microcolony formation, 3D maturation and, finally, detachment/dispersal.",
+   "shortExplanation": "Attach → microcolony → mature → detach.",
+   "pmid": "29042186",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "starting with attachment to a living or non-living surface that will lead to formation of micro-colony",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29042186-3-es",
+   "translationKey": "micro-29042186-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué secuencia describe el desarrollo de una biopelícula?",
+   "options": [
+    "Adhesión → microcolonia → maduración 3D → desprendimiento",
+    "Desprendimiento → adhesión → esporulación",
+    "Lisis → adhesión → división",
+    "Conjugación → transducción → transformación"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Formación del biofilm: adhesión, microcolonia, maduración tridimensional y finalmente desprendimiento/dispersión.",
+   "shortExplanation": "Adhesión → microcolonia → madurez → dispersión.",
+   "pmid": "29042186",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "starting with attachment to a living or non-living surface that will lead to formation of micro-colony",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32424210-1-en",
+   "translationKey": "micro-32424210-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What is the main function of the peptidoglycan layer?",
+   "options": [
+    "Storing energy",
+    "Protecting the cell from bursting and maintaining its shape",
+    "Producing toxins",
+    "Moving the cell"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The peptidoglycan sacculus resists osmotic pressure and gives the cell its shape — the target of beta-lactams.",
+   "shortExplanation": "Shape and osmotic protection.",
+   "pmid": "32424210",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteria surround their cell membrane with a net-like peptidoglycan layer, called sacculus, to protect the cell from bursting and maintain its cell shape",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32424210-1-es",
+   "translationKey": "micro-32424210-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es la función principal de la capa de peptidoglucano?",
+   "options": [
+    "Almacenar energía",
+    "Proteger a la célula de estallar y mantener su forma",
+    "Producir toxinas",
+    "Mover la célula"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El sáculo de peptidoglucano resiste la presión osmótica y da forma a la célula; es el blanco de los betalactámicos.",
+   "shortExplanation": "Forma y protección osmótica.",
+   "pmid": "32424210",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteria surround their cell membrane with a net-like peptidoglycan layer, called sacculus, to protect the cell from bursting and maintain its cell shape",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32424210-2-en",
+   "translationKey": "micro-32424210-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which bacterial cytoskeletal proteins are homologs of actin and tubulin, respectively?",
+   "options": [
+    "FtsZ and MreB",
+    "DnaA and DnaK",
+    "RecA and LexA",
+    "MreB and FtsZ"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MreB is actin-like (cell elongation) and FtsZ is tubulin-like (cell division).",
+   "shortExplanation": "MreB ~ actin, FtsZ ~ tubulin.",
+   "pmid": "32424210",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "either the actin-like MreB or the tubulin-like FtsZ",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32424210-2-es",
+   "translationKey": "micro-32424210-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué proteínas del citoesqueleto bacteriano son homólogas de actina y tubulina, respectivamente?",
+   "options": [
+    "FtsZ y MreB",
+    "DnaA y DnaK",
+    "RecA y LexA",
+    "MreB y FtsZ"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "MreB es similar a la actina (elongación) y FtsZ a la tubulina (división).",
+   "shortExplanation": "MreB ~ actina, FtsZ ~ tubulina.",
+   "pmid": "32424210",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "either the actin-like MreB or the tubulin-like FtsZ",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32269092-1-en",
+   "translationKey": "micro-32269092-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What initiates bacterial cell division?",
+   "options": [
+    "Replication of plasmids",
+    "Formation of a spore",
+    "Assembly of FtsZ polymers (Z-ring) at midcell",
+    "Flagellar rotation"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FtsZ, a tubulin-like GTPase, forms the Z-ring at midcell that recruits the divisome and drives constriction.",
+   "shortExplanation": "FtsZ Z-ring.",
+   "pmid": "32269092",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacterial cell division is initiated by the midcell assembly of polymers of the tubulin-like GTPase FtsZ",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32269092-1-es",
+   "translationKey": "micro-32269092-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué inicia la división celular bacteriana?",
+   "options": [
+    "La replicación de plásmidos",
+    "La formación de una espora",
+    "El ensamblaje de polímeros de FtsZ (anillo Z) en el centro celular",
+    "La rotación flagelar"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FtsZ, una GTPasa similar a la tubulina, forma el anillo Z en el centro que recluta el divisoma y dirige la constricción.",
+   "shortExplanation": "Anillo Z de FtsZ.",
+   "pmid": "32269092",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacterial cell division is initiated by the midcell assembly of polymers of the tubulin-like GTPase FtsZ",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19995920-1-en",
+   "translationKey": "micro-19995920-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What distinguishes class B beta-lactamases from classes A, C and D?",
+   "options": [
+    "They are produced only by gram-positives",
+    "They are metalloenzymes requiring zinc, not a serine active site",
+    "They only hydrolyze penicillin G",
+    "They are inhibited by clavulanate"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Classes A, C and D use serine; class B metallo-β-lactamases need zinc ions for hydrolysis.",
+   "shortExplanation": "Zinc metalloenzymes.",
+   "pmid": "19995920",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "class B metalloenzymes which require divalent zinc ions for substrate hydrolysis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19995920-1-es",
+   "translationKey": "micro-19995920-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué distingue a las betalactamasas de clase B de las clases A, C y D?",
+   "options": [
+    "Solo las producen grampositivas",
+    "Son metaloenzimas que requieren zinc, no un sitio activo con serina",
+    "Solo hidrolizan penicilina G",
+    "Las inhibe el clavulánico"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las clases A, C y D usan serina; las metalo-β-lactamasas de clase B necesitan iones de zinc.",
+   "shortExplanation": "Metaloenzimas de zinc.",
+   "pmid": "19995920",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "class B metalloenzymes which require divalent zinc ions for substrate hydrolysis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19995920-2-en",
+   "translationKey": "micro-19995920-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "On what is the Ambler molecular classification of beta-lactamases based?",
+   "options": [
+    "Amino acid sequence",
+    "Substrate profile only",
+    "Bacterial species",
+    "Plasmid size"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The molecular (Ambler) scheme uses amino acid sequence (classes A–D); the functional (Bush-Jacoby) scheme uses substrate and inhibitor profiles.",
+   "shortExplanation": "Amino acid sequence.",
+   "pmid": "19995920",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The molecular classification is based on the amino acid sequence and divides beta-lactamases into class A, C, and D enzymes which utilize serine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19995920-2-es",
+   "translationKey": "micro-19995920-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿En qué se basa la clasificación molecular (Ambler) de las betalactamasas?",
+   "options": [
+    "En la secuencia de aminoácidos",
+    "Solo en el perfil de sustratos",
+    "En la especie bacteriana",
+    "En el tamaño del plásmido"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El esquema molecular (Ambler) usa la secuencia aminoacídica (clases A–D); el funcional (Bush-Jacoby), perfiles de sustratos e inhibidores.",
+   "shortExplanation": "Secuencia de aminoácidos.",
+   "pmid": "19995920",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The molecular classification is based on the amino acid sequence and divides beta-lactamases into class A, C, and D enzymes which utilize serine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17630334-1-en",
+   "translationKey": "micro-17630334-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why are carbapenemase-producing bacteria so dangerous?",
+   "options": [
+    "They produce spores",
+    "They are always gram-positive",
+    "They are susceptible to all beta-lactams",
+    "They can hydrolyze nearly all beta-lactams, including carbapenems"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Carbapenemases hydrolyze penicillins, cephalosporins, monobactams and carbapenems, leaving few options.",
+   "shortExplanation": "Hydrolyze almost all beta-lactams.",
+   "pmid": "17630334",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They have the ability to hydrolyze penicillins, cephalosporins, monobactams, and carbapenems",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17630334-1-es",
+   "translationKey": "micro-17630334-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué son tan peligrosas las bacterias productoras de carbapenemasas?",
+   "options": [
+    "Producen esporas",
+    "Siempre son grampositivas",
+    "Son sensibles a todos los betalactámicos",
+    "Pueden hidrolizar casi todos los betalactámicos, incluidos los carbapenémicos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las carbapenemasas hidrolizan penicilinas, cefalosporinas, monobactámicos y carbapenémicos, dejando pocas opciones.",
+   "shortExplanation": "Hidrolizan casi todos los betalactámicos.",
+   "pmid": "17630334",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "They have the ability to hydrolyze penicillins, cephalosporins, monobactams, and carbapenems",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17630334-2-en",
+   "translationKey": "micro-17630334-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "KPC carbapenemases are most associated with which organism?",
+   "options": [
+    "Staphylococcus aureus",
+    "Acinetobacter baumannii",
+    "Klebsiella pneumoniae",
+    "Enterococcus faecium"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "KPC enzymes (class A) are mostly plasmid-borne in K. pneumoniae; OXA-type (class D) are common in Acinetobacter.",
+   "shortExplanation": "Klebsiella pneumoniae.",
+   "pmid": "17630334",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the KPC carbapenemases are the most prevalent, found mostly on plasmids in Klebsiella pneumoniae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17630334-2-es",
+   "translationKey": "micro-17630334-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿A qué organismo se asocian más las carbapenemasas KPC?",
+   "options": [
+    "Staphylococcus aureus",
+    "Acinetobacter baumannii",
+    "Klebsiella pneumoniae",
+    "Enterococcus faecium"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las KPC (clase A) son sobre todo plasmídicas en K. pneumoniae; las tipo OXA (clase D) son frecuentes en Acinetobacter.",
+   "shortExplanation": "Klebsiella pneumoniae.",
+   "pmid": "17630334",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the KPC carbapenemases are the most prevalent, found mostly on plasmids in Klebsiella pneumoniae",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17630334-3-en",
+   "translationKey": "micro-17630334-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which carbapenemase class is typical of Acinetobacter baumannii?",
+   "options": [
+    "Class A (KPC)",
+    "Class D (OXA-type)",
+    "Class C (AmpC)",
+    "Class B only (NDM)"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Class D OXA-type carbapenemases are frequently found in A. baumannii.",
+   "shortExplanation": "Class D OXA.",
+   "pmid": "17630334",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The class D carbapenemases consist of OXA-type beta-lactamases frequently detected in Acinetobacter baumannii",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17630334-3-es",
+   "translationKey": "micro-17630334-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué clase de carbapenemasa es típica de Acinetobacter baumannii?",
+   "options": [
+    "Clase A (KPC)",
+    "Clase D (tipo OXA)",
+    "Clase C (AmpC)",
+    "Solo clase B (NDM)"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las carbapenemasas clase D tipo OXA son frecuentes en A. baumannii.",
+   "shortExplanation": "Clase D OXA.",
+   "pmid": "17630334",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The class D carbapenemases consist of OXA-type beta-lactamases frequently detected in Acinetobacter baumannii",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34286272-1-en",
+   "translationKey": "micro-34286272-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which ESBL family is currently the most common worldwide?",
+   "options": [
+    "CTX-M (especially CTX-M-15)",
+    "TEM-1",
+    "SHV-1",
+    "KPC"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "CTX-M enzymes, led by CTX-M-15, have replaced TEM and SHV as the dominant ESBLs.",
+   "shortExplanation": "CTX-M.",
+   "pmid": "34286272",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Today CTX-M-type enzymes are the most commonly found ESBL type with the CTX-M-15 variant dominating worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34286272-1-es",
+   "translationKey": "micro-34286272-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué familia de BLEE es hoy la más común en el mundo?",
+   "options": [
+    "CTX-M (sobre todo CTX-M-15)",
+    "TEM-1",
+    "SHV-1",
+    "KPC"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las enzimas CTX-M, encabezadas por CTX-M-15, desplazaron a TEM y SHV como BLEE dominantes.",
+   "shortExplanation": "CTX-M.",
+   "pmid": "34286272",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Today CTX-M-type enzymes are the most commonly found ESBL type with the CTX-M-15 variant dominating worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34286272-2-en",
+   "translationKey": "micro-34286272-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which E. coli clone dominates ESBL-producing E. coli globally?",
+   "options": [
+    "O157:H7",
+    "K-12",
+    "ST10",
+    "ST131"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The highly virulent, successful ST131 clone dominates ESBL-producing E. coli worldwide.",
+   "shortExplanation": "ST131.",
+   "pmid": "34286272",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the population of ESBL-producing Escherichia coli is dominated globally by a highly virulent and successful clone belonging to ST131",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34286272-2-es",
+   "translationKey": "micro-34286272-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué clon de E. coli domina entre los productores de BLEE a nivel mundial?",
+   "options": [
+    "O157:H7",
+    "K-12",
+    "ST10",
+    "ST131"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El clon ST131, muy virulento y exitoso, domina entre los E. coli productores de BLEE.",
+   "shortExplanation": "ST131.",
+   "pmid": "34286272",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the population of ESBL-producing Escherichia coli is dominated globally by a highly virulent and successful clone belonging to ST131",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34286272-3-en",
+   "translationKey": "micro-34286272-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What explains the rapid worldwide spread of ESBL genes?",
+   "options": [
+    "They are chromosomal and immobile",
+    "They are spread by mosquitoes",
+    "They sit on plasmids within transposons or insertion sequences",
+    "They are only found in one species"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "ESBL genes on plasmids, transposons and insertion sequences move easily between bacteria.",
+   "shortExplanation": "Mobile genetic elements.",
+   "pmid": "34286272",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The genes encoding ESBLs are often found on plasmids and harboured within transposons or insertion sequences",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-34286272-3-es",
+   "translationKey": "micro-34286272-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué explica la rápida diseminación mundial de los genes de BLEE?",
+   "options": [
+    "Son cromosómicos e inmóviles",
+    "Los diseminan mosquitos",
+    "Están en plásmidos dentro de transposones o secuencias de inserción",
+    "Solo están en una especie"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los genes de BLEE en plásmidos, transposones y secuencias de inserción se mueven fácilmente entre bacterias.",
+   "shortExplanation": "Elementos genéticos móviles.",
+   "pmid": "34286272",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The genes encoding ESBLs are often found on plasmids and harboured within transposons or insertion sequences",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27227291-1-en",
+   "translationKey": "micro-27227291-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Where are multidrug-resistant bacteria found today?",
+   "options": [
+    "Both in hospitals and in the community",
+    "Only in hospitals",
+    "Only in laboratories",
+    "Only in animals"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "MDR organisms are now frequently identified in the community, implying reservoirs outside hospitals.",
+   "shortExplanation": "Hospital and community.",
+   "pmid": "27227291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Multidrug-resistant organisms have not only emerged in the hospital environment but are now often identified in community settings",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27227291-1-es",
+   "translationKey": "micro-27227291-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Dónde se encuentran hoy las bacterias multirresistentes?",
+   "options": [
+    "Tanto en hospitales como en la comunidad",
+    "Solo en hospitales",
+    "Solo en laboratorios",
+    "Solo en animales"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los organismos multirresistentes se identifican cada vez más en la comunidad, lo que indica reservorios extrahospitalarios.",
+   "shortExplanation": "Hospital y comunidad.",
+   "pmid": "27227291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Multidrug-resistant organisms have not only emerged in the hospital environment but are now often identified in community settings",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27227291-2-en",
+   "translationKey": "micro-27227291-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "By which general routes do bacteria become resistant to antibiotics?",
+   "options": [
+    "Only by forming spores",
+    "Mutation, acquisition of genetic material, or altered gene expression",
+    "Only through vaccination",
+    "By losing their ribosomes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Resistance arises from mutations, acquisition of foreign DNA, or changes in gene expression.",
+   "shortExplanation": "Mutation, acquisition, regulation.",
+   "pmid": "27227291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "mutational adaptations, acquisition of genetic material, or alteration of gene expression",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27227291-2-es",
+   "translationKey": "micro-27227291-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué vías generales se vuelven resistentes las bacterias?",
+   "options": [
+    "Solo formando esporas",
+    "Mutación, adquisición de material genético o cambios en la expresión génica",
+    "Solo por vacunación",
+    "Perdiendo sus ribosomas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La resistencia surge por mutaciones, adquisición de ADN foráneo o cambios en la expresión génica.",
+   "shortExplanation": "Mutación, adquisición, regulación.",
+   "pmid": "27227291",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "mutational adaptations, acquisition of genetic material, or alteration of gene expression",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25435309-1-en",
+   "translationKey": "micro-25435309-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which list summarizes the main molecular mechanisms of antibiotic resistance?",
+   "options": [
+    "Faster growth, larger size, motility",
+    "Spore formation, capsule, pili",
+    "Toxin production and fever",
+    "Blocking drug access, altering/protecting the target, inactivating the drug"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Resistance works by limiting access (permeability, efflux), changing or protecting the target, or modifying/inactivating the drug.",
+   "shortExplanation": "Access, target, inactivation.",
+   "pmid": "25435309",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including the prevention of access to drug targets, changes in the structure and protection of antibiotic targets and the direct modification or inactivation of antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25435309-1-es",
+   "translationKey": "micro-25435309-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué lista resume los principales mecanismos moleculares de resistencia?",
+   "options": [
+    "Crecer más rápido, ser más grande, moverse",
+    "Esporas, cápsula, pili",
+    "Producir toxinas y fiebre",
+    "Impedir el acceso del fármaco, alterar/proteger el blanco, inactivar el fármaco"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La resistencia actúa limitando el acceso (permeabilidad, eflujo), alterando o protegiendo el blanco, o modificando/inactivando el fármaco.",
+   "shortExplanation": "Acceso, blanco, inactivación.",
+   "pmid": "25435309",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "including the prevention of access to drug targets, changes in the structure and protection of antibiotic targets and the direct modification or inactivation of antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26999395-1-en",
+   "translationKey": "micro-26999395-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is the role of bacterial protein secretion systems in pathogenesis?",
+   "options": [
+    "Replicating DNA",
+    "Making ATP",
+    "Delivering virulence factors into host cells or the environment",
+    "Forming endospores"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Secretion systems move virulence proteins across membranes, sometimes injecting them directly into host cells.",
+   "shortExplanation": "Deliver virulence factors.",
+   "pmid": "26999395",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Many pathogens use dedicated protein secretion systems to secrete virulence factors from the cytosol of the bacteria into host cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26999395-1-es",
+   "translationKey": "micro-26999395-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué papel tienen los sistemas de secreción de proteínas en la patogenia?",
+   "options": [
+    "Replicar ADN",
+    "Fabricar ATP",
+    "Entregar factores de virulencia a células del huésped o al ambiente",
+    "Formar endosporas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los sistemas de secreción transportan proteínas de virulencia a través de membranas, a veces inyectándolas en la célula huésped.",
+   "shortExplanation": "Entregar factores de virulencia.",
+   "pmid": "26999395",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Many pathogens use dedicated protein secretion systems to secrete virulence factors from the cytosol of the bacteria into host cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26370933-1-en",
+   "translationKey": "micro-26370933-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What do the bacterial flagellum and the injectisome have in common?",
+   "options": [
+    "Both are made of peptidoglycan",
+    "Both are pili for conjugation",
+    "Both are found only in gram-positives",
+    "Both are built around a type III secretion system"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The flagellum and the injectisome share a core T3SS export apparatus — evidence of common evolutionary origin.",
+   "shortExplanation": "Shared T3SS core.",
+   "pmid": "26370933",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "At their core, they share a type III secretion system (T3SS)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26370933-1-es",
+   "translationKey": "micro-26370933-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué tienen en común el flagelo bacteriano y el inyectisoma?",
+   "options": [
+    "Ambos son de peptidoglucano",
+    "Ambos son pili de conjugación",
+    "Ambos existen solo en grampositivas",
+    "Ambos se construyen en torno a un sistema de secreción tipo III"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El flagelo y el inyectisoma comparten un núcleo de secreción tipo III, evidencia de origen evolutivo común.",
+   "shortExplanation": "Núcleo SST3 compartido.",
+   "pmid": "26370933",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "At their core, they share a type III secretion system (T3SS)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-20528688-1-en",
+   "translationKey": "micro-20528688-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What are persister cells?",
+   "options": [
+    "Genetically resistant mutants",
+    "Dormant variants that are highly tolerant to antibiotics",
+    "Bacteria with extra plasmids",
+    "Spores of Bacillus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Persisters arise stochastically, are dormant and tolerate antibiotics without carrying resistance genes.",
+   "shortExplanation": "Dormant tolerant cells.",
+   "pmid": "20528688",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Persisters are dormant variants of regular cells that form stochastically in microbial populations and are highly tolerant to antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-20528688-1-es",
+   "translationKey": "micro-20528688-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué son las células persistentes (persisters)?",
+   "options": [
+    "Mutantes genéticamente resistentes",
+    "Variantes latentes muy tolerantes a antibióticos",
+    "Bacterias con plásmidos extra",
+    "Esporas de Bacillus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las persistentes surgen al azar, están latentes y toleran antibióticos sin portar genes de resistencia.",
+   "shortExplanation": "Células latentes tolerantes.",
+   "pmid": "20528688",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Persisters are dormant variants of regular cells that form stochastically in microbial populations and are highly tolerant to antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28529326-1-en",
+   "translationKey": "micro-28529326-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "How does antibiotic tolerance (persistence) differ from resistance?",
+   "options": [
+    "Tolerant cells survive transiently without growing; resistant cells grow in the drug",
+    "They are the same thing",
+    "Tolerance is always genetic and permanent",
+    "Resistance only occurs in fungi"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Persisters are transiently tolerant (often non-growing) and regrow after the stress; resistant bacteria grow despite the drug.",
+   "shortExplanation": "Transient survival vs. growth in drug.",
+   "pmid": "28529326",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteria can survive antibiotic treatment if they are resistant or tolerant to a drug",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28529326-1-es",
+   "translationKey": "micro-28529326-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿En qué se diferencia la tolerancia (persistencia) de la resistencia antibiótica?",
+   "options": [
+    "Las tolerantes sobreviven transitoriamente sin crecer; las resistentes crecen con el fármaco",
+    "Son lo mismo",
+    "La tolerancia siempre es genética y permanente",
+    "La resistencia solo ocurre en hongos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las persistentes toleran en forma transitoria (sin crecer) y rebrotan tras el estrés; las resistentes crecen pese al fármaco.",
+   "shortExplanation": "Sobrevivir vs. crecer con el fármaco.",
+   "pmid": "28529326",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bacteria can survive antibiotic treatment if they are resistant or tolerant to a drug",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28529326-2-en",
+   "translationKey": "micro-28529326-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Why do persister cells matter clinically?",
+   "options": [
+    "They make bacteria more motile",
+    "They cause allergic reactions",
+    "They contribute to relapse of chronic infections after treatment",
+    "They speed up healing"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Persisters survive therapy and regrow, causing recalcitrant and relapsing infections and favoring resistance.",
+   "shortExplanation": "Relapse.",
+   "pmid": "28529326",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The presence of persister cells can result in the recalcitrance and relapse of persistent bacterial infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28529326-2-es",
+   "translationKey": "micro-28529326-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué importan clínicamente las células persistentes?",
+   "options": [
+    "Hacen más móviles a las bacterias",
+    "Causan alergias",
+    "Contribuyen a las recaídas de infecciones crónicas tras el tratamiento",
+    "Aceleran la curación"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las persistentes sobreviven al tratamiento y rebrotan, causando infecciones recalcitrantes y recaídas.",
+   "shortExplanation": "Recaídas.",
+   "pmid": "28529326",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The presence of persister cells can result in the recalcitrance and relapse of persistent bacterial infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-11544363-1-en",
+   "translationKey": "micro-11544363-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is phage therapy?",
+   "options": [
+    "Using antibiotics from fungi",
+    "Using vaccines against viruses",
+    "Using bacteria to kill viruses",
+    "Using bacteriophages (viruses of bacteria) to treat bacterial infections"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Phages — viruses that infect bacteria — were used therapeutically soon after their recognition in 1917.",
+   "shortExplanation": "Viruses against bacteria.",
+   "pmid": "11544363",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 1917, bacteriophages were recognized as epizootic infections of bacteria and were almost immediately deployed for antibacterial therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-11544363-1-es",
+   "translationKey": "micro-11544363-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué es la fagoterapia?",
+   "options": [
+    "Usar antibióticos de hongos",
+    "Usar vacunas contra virus",
+    "Usar bacterias para matar virus",
+    "Usar bacteriófagos (virus de bacterias) para tratar infecciones bacterianas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los fagos, virus que infectan bacterias, se usaron como terapia poco después de su reconocimiento en 1917.",
+   "shortExplanation": "Virus contra bacterias.",
+   "pmid": "11544363",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In 1917, bacteriophages were recognized as epizootic infections of bacteria and were almost immediately deployed for antibacterial therapy",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26209264-1-en",
+   "translationKey": "micro-26209264-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What is the natural function of CRISPR-Cas in bacteria?",
+   "options": [
+    "Adaptive immunity against viruses and plasmids",
+    "Producing antibiotics",
+    "Forming the cell wall",
+    "Photosynthesis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "CRISPR-Cas is a prokaryotic adaptive immune system; Cas9 was later repurposed for genome editing.",
+   "shortExplanation": "Adaptive immunity.",
+   "pmid": "26209264",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prokaryotic CRISPR-Cas loci encode proteins that function as an adaptive immune system against infectious viruses and plasmids",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26209264-1-es",
+   "translationKey": "micro-26209264-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es la función natural de CRISPR-Cas en las bacterias?",
+   "options": [
+    "Inmunidad adaptativa contra virus y plásmidos",
+    "Producir antibióticos",
+    "Formar la pared celular",
+    "Fotosíntesis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "CRISPR-Cas es un sistema inmune adaptativo procariota; luego Cas9 se adaptó para editar genomas.",
+   "shortExplanation": "Inmunidad adaptativa.",
+   "pmid": "26209264",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prokaryotic CRISPR-Cas loci encode proteins that function as an adaptive immune system against infectious viruses and plasmids",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26209264-2-en",
+   "translationKey": "micro-26209264-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "In type II CRISPR-Cas systems, what directs Cas9 to its DNA target?",
+   "options": [
+    "A protein antibody",
+    "A small guide RNA",
+    "A restriction site only",
+    "Methylation marks"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Cas9 is an RNA-guided nuclease: a small RNA specifies the cleavage site in the invader's genome.",
+   "shortExplanation": "Guide RNA.",
+   "pmid": "26209264",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In type II CRISPR-Cas systems, the RNA-guided Cas9 nuclease cleaves the DNA",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26209264-2-es",
+   "translationKey": "micro-26209264-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "En los sistemas CRISPR-Cas tipo II, ¿qué dirige a Cas9 hacia su blanco en el ADN?",
+   "options": [
+    "Un anticuerpo",
+    "Un ARN guía pequeño",
+    "Solo un sitio de restricción",
+    "Marcas de metilación"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Cas9 es una nucleasa guiada por ARN: un ARN pequeño especifica el sitio de corte.",
+   "shortExplanation": "ARN guía.",
+   "pmid": "26209264",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In type II CRISPR-Cas systems, the RNA-guided Cas9 nuclease cleaves the DNA",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12448702-1-en",
+   "translationKey": "micro-12448702-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Why do bacterial endospores matter for sterilization?",
+   "options": [
+    "They are killed by soap",
+    "They only survive cold",
+    "They are fragile in alcohol",
+    "They resist heat, radiation, oxidizing agents and chemicals"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Endospores resist wet/dry heat, UV and gamma radiation, oxidants and chemicals, so sterilization must be validated against them.",
+   "shortExplanation": "Extreme resistance.",
+   "pmid": "12448702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Spores are highly resistant to a wide variety of physical stresses such as: wet and dry heat, UV and gamma radiation, oxidizing agents, chemicals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12448702-1-es",
+   "translationKey": "micro-12448702-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Por qué importan las endosporas bacterianas en la esterilización?",
+   "options": [
+    "Se destruyen con jabón",
+    "Solo sobreviven al frío",
+    "Son frágiles al alcohol",
+    "Resisten calor, radiación, oxidantes y químicos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las endosporas resisten calor húmedo/seco, radiación UV y gamma, oxidantes y químicos; por eso la esterilización se valida contra ellas.",
+   "shortExplanation": "Resistencia extrema.",
+   "pmid": "12448702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Spores are highly resistant to a wide variety of physical stresses such as: wet and dry heat, UV and gamma radiation, oxidizing agents, chemicals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12448702-2-en",
+   "translationKey": "micro-12448702-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which spore component, complexed with calcium in the core, contributes to resistance?",
+   "options": [
+    "Teichoic acid",
+    "Lipid A",
+    "Dipicolinic acid",
+    "Mycolic acid"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Dipicolinic acid (with Ca2+) in the core plus the spore coats contribute to resistance to heat and UV.",
+   "shortExplanation": "Dipicolinic acid.",
+   "pmid": "12448702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the role of spore structural components such as the spore coats and dipicolinic acid (DPA)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-12448702-2-es",
+   "translationKey": "micro-12448702-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué componente de la espora, unido a calcio en el núcleo, contribuye a su resistencia?",
+   "options": [
+    "Ácido teicoico",
+    "Lípido A",
+    "Ácido dipicolínico",
+    "Ácido micólico"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El ácido dipicolínico (con Ca2+) del núcleo y las cubiertas de la espora contribuyen a la resistencia al calor y a la UV.",
+   "shortExplanation": "Ácido dipicolínico.",
+   "pmid": "12448702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the role of spore structural components such as the spore coats and dipicolinic acid (DPA)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19815028-1-en",
+   "translationKey": "micro-19815028-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which part of lipopolysaccharide is responsible for endotoxin activity?",
+   "options": [
+    "O antigen",
+    "Lipid A",
+    "Core oligosaccharide",
+    "Peptidoglycan"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "LPS (endotoxin) = O antigen + core + lipid A; lipid A is recognized by immune cells and drives toxicity.",
+   "shortExplanation": "Lipid A.",
+   "pmid": "19815028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lipid A is responsible for the major bioactivity of endotoxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19815028-1-es",
+   "translationKey": "micro-19815028-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué parte del lipopolisacárido es responsable de la actividad endotóxica?",
+   "options": [
+    "Antígeno O",
+    "Lípido A",
+    "Oligosacárido central",
+    "Peptidoglucano"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El LPS (endotoxina) = antígeno O + núcleo + lípido A; el lípido A es reconocido por células inmunes y causa la toxicidad.",
+   "shortExplanation": "Lípido A.",
+   "pmid": "19815028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lipid A is responsible for the major bioactivity of endotoxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19815028-2-en",
+   "translationKey": "micro-19815028-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Where is lipopolysaccharide (endotoxin) found?",
+   "options": [
+    "Outer leaflet of the outer membrane of gram-negative bacteria",
+    "Cell wall of gram-positive bacteria",
+    "Fungal cell walls",
+    "Viral capsids"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "LPS forms the outer leaflet of the gram-negative outer membrane.",
+   "shortExplanation": "Gram-negative outer membrane.",
+   "pmid": "19815028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lipopolysaccharide that constitutes the outer leaflet of the outer membrane of most Gram-negative bacteria is referred to as an endotoxin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-19815028-2-es",
+   "translationKey": "micro-19815028-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Dónde se encuentra el lipopolisacárido (endotoxina)?",
+   "options": [
+    "En la capa externa de la membrana externa de las gramnegativas",
+    "En la pared de las grampositivas",
+    "En la pared de los hongos",
+    "En las cápsides virales"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El LPS forma la hoja externa de la membrana externa de las gramnegativas.",
+   "shortExplanation": "Membrana externa gramnegativa.",
+   "pmid": "19815028",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Lipopolysaccharide that constitutes the outer leaflet of the outer membrane of most Gram-negative bacteria is referred to as an endotoxin",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
