@@ -15,6 +15,10 @@ public enum ScienceCategory: String, CaseIterable, Codable, Hashable, Identifiab
     case nutrition
     case veterinaryScience
     case generalScience
+    case infectiousDiseases
+    case diagnosticMethods
+    case foodAnalysis
+    case historyOfScience
 
     public var id: String { rawValue }
 
@@ -34,6 +38,10 @@ public enum ScienceCategory: String, CaseIterable, Codable, Hashable, Identifiab
         case .nutrition: "leaf"
         case .veterinaryScience: "pawprint"
         case .generalScience: "sparkles"
+        case .infectiousDiseases: "facemask"
+        case .diagnosticMethods: "stethoscope"
+        case .foodAnalysis: "fork.knife"
+        case .historyOfScience: "building.columns"
         }
     }
 
@@ -50,6 +58,10 @@ public enum ScienceCategory: String, CaseIterable, Codable, Hashable, Identifiab
         case .nutrition: "\"Nutritional Sciences\"[MeSH] OR \"Diet\"[MeSH]"
         case .veterinaryScience: "\"Veterinary Medicine\"[MeSH] OR \"Animal Diseases\"[MeSH]"
         case .generalScience: "\"Science\"[MeSH] OR \"Biodiversity\"[MeSH] OR \"Longevity\"[MeSH]"
+        case .infectiousDiseases: "\"Communicable Diseases\"[MeSH] OR \"Infections\"[MeSH]"
+        case .diagnosticMethods: "\"Diagnostic Techniques and Procedures\"[MeSH] OR \"Clinical Laboratory Techniques\"[MeSH]"
+        case .foodAnalysis: "\"Food Analysis\"[MeSH] OR \"Food Microbiology\"[MeSH] OR \"Food Safety\"[MeSH]"
+        case .historyOfScience: "\"History of Medicine\"[MeSH] OR \"Science/history\"[MeSH]"
         }
     }
 }

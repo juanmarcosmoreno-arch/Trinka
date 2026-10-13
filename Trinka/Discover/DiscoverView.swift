@@ -153,7 +153,7 @@ struct ArticleCard: View {
                 .multilineTextAlignment(.leading)
             if let finding = digest.keyFinding {
                 VStack(alignment: .leading, spacing: 2) {
-                    Text(L10n.tr("article.reportedFinding"))
+                    Text(L10n.tr(article.evidenceKind == .referenceText ? "article.keyPoint" : "article.reportedFinding"))
                         .font(.caption.weight(.semibold))
                         .foregroundStyle(Theme.textSecondary)
                     Text(finding)

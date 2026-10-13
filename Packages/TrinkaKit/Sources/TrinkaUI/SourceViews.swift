@@ -99,6 +99,7 @@ public struct EvidenceBadge: View {
         case .singleStudy: "flask"
         case .narrativeReview: "text.book.closed"
         case .evidenceSynthesis: "square.stack.3d.up"
+        case .referenceText: "books.vertical"
         }
     }
 
@@ -107,6 +108,7 @@ public struct EvidenceBadge: View {
         case .singleStudy: Theme.Brand.lagoon
         case .narrativeReview: Theme.textSecondary
         case .evidenceSynthesis: Theme.success
+        case .referenceText: Theme.Brand.fjord
         }
     }
 }

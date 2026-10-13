@@ -24,6 +24,10 @@ S = {
 "category.nutrition": ("Nutrition", "Nutrición"),
 "category.veterinaryScience": ("Veterinary Science", "Veterinaria"),
 "category.generalScience": ("General Science", "Ciencia general"),
+"category.infectiousDiseases": ("Infectious Diseases", "Enfermedades infecciosas"),
+"category.diagnosticMethods": ("Diagnostic Methods", "Métodos diagnósticos"),
+"category.foodAnalysis": ("Food Analysis", "Análisis de alimentos"),
+"category.historyOfScience": ("History of Science", "Historia de la ciencia"),
 
 "difficulty.beginner": ("Basic", "Básico"),
 "difficulty.curious": ("Curious", "Curioso"),
@@ -126,6 +130,9 @@ S = {
 
 "evidence.singleStudy": ("Single study", "Estudio individual"),
 "evidence.narrativeReview": ("Review", "Revisión"),
+"evidence.referenceText": ("Reference text", "Texto de referencia"),
+"evidence.referenceText.note": ("A peer-reviewed reference chapter that summarizes established knowledge on the topic.", "Un capítulo de referencia revisado por pares que resume el conocimiento establecido sobre el tema."),
+"article.keyPoint": ("Key point", "Punto clave"),
 "evidence.evidenceSynthesis": ("Evidence synthesis", "Síntesis de evidencia"),
 "evidence.singleStudy.note": ("These are the findings of one study. They may not reflect the overall scientific consensus until confirmed by other research.", "Son los hallazgos de un único estudio. Pueden no reflejar el consenso científico general hasta que otras investigaciones los confirmen."),
 "evidence.narrativeReview.note": ("A review summarizes a field from the authors' perspective; it is not a systematic analysis of all the evidence.", "Una revisión resume un campo desde la perspectiva de sus autores; no es un análisis sistemático de toda la evidencia."),

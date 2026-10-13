@@ -17,6 +17,10 @@
 "category.nutrition" = "Nutrition";
 "category.veterinaryScience" = "Veterinary Science";
 "category.generalScience" = "General Science";
+"category.infectiousDiseases" = "Infectious Diseases";
+"category.diagnosticMethods" = "Diagnostic Methods";
+"category.foodAnalysis" = "Food Analysis";
+"category.historyOfScience" = "History of Science";
 
 "difficulty.beginner" = "Basic";
 "difficulty.curious" = "Curious";
@@ -120,6 +124,11 @@
 
 "evidence.singleStudy" = "Single study";
 "evidence.narrativeReview" = "Review";
+"evidence.referenceText" = "Reference text";
+"evidence.referenceText.note" = "A peer-reviewed reference chapter that summarizes established knowledge on the topic.";
+
+"article.keyPoint" = "Key point";
+
 "evidence.evidenceSynthesis" = "Evidence synthesis";
 "evidence.singleStudy.note" = "These are the findings of one study. They may not reflect the overall scientific consensus until confirmed by other research.";
 "evidence.narrativeReview.note" = "A review summarizes a field from the authors' perspective; it is not a systematic analysis of all the evidence.";

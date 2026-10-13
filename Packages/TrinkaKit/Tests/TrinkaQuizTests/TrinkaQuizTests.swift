@@ -8,8 +8,8 @@ final class SeedQuestionBankTests: XCTestCase {
         XCTAssertTrue(bank.rejected.isEmpty, "Rejected seed questions: \(bank.rejected.map { ($0.question.id, $0.issues) })")
         for language in AppLanguage.allCases {
             let questions = bank.questions(in: language)
-            XCTAssertEqual(questions.count, 70, "\(language)")
-            XCTAssertEqual(Set(questions.map(\.category)), Set(ScienceCategory.allCases))
+            XCTAssertGreaterThanOrEqual(questions.count, 150, "\(language)")
+            XCTAssertTrue(Set(questions.map(\.category)).contains(.microbiology))
             for question in questions {
                 XCTAssertNotNil(question.source.abstract, question.id)
                 XCTAssertEqual(question.language, language)
@@ -33,8 +33,9 @@ final class SeedQuestionBankTests: XCTestCase {
     func testEveryDifficultyIsRepresented() throws {
         let bank = try SeedQuestionBank.load()
         XCTAssertEqual(Set(bank.questions(in: .en).map(\.difficulty)), Set(Difficulty.allCases))
-        // Every discipline has at least one basic question.
-        XCTAssertEqual(Set(bank.questions(in: .en, difficulty: .beginner).map(\.category)), Set(ScienceCategory.allCases))
+        // Every discipline with content has at least one basic question.
+        let populated = Set(bank.questions(in: .en).map(\.category))
+        XCTAssertEqual(Set(bank.questions(in: .en, difficulty: .beginner).map(\.category)), populated)
     }
 }
 

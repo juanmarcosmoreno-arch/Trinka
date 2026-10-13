@@ -17,6 +17,10 @@
 "category.nutrition" = "Nutrición";
 "category.veterinaryScience" = "Veterinaria";
 "category.generalScience" = "Ciencia general";
+"category.infectiousDiseases" = "Enfermedades infecciosas";
+"category.diagnosticMethods" = "Métodos diagnósticos";
+"category.foodAnalysis" = "Análisis de alimentos";
+"category.historyOfScience" = "Historia de la ciencia";
 
 "difficulty.beginner" = "Básico";
 "difficulty.curious" = "Curioso";
@@ -120,6 +124,11 @@
 
 "evidence.singleStudy" = "Estudio individual";
 "evidence.narrativeReview" = "Revisión";
+"evidence.referenceText" = "Texto de referencia";
+"evidence.referenceText.note" = "Un capítulo de referencia revisado por pares que resume el conocimiento establecido sobre el tema.";
+
+"article.keyPoint" = "Punto clave";
+
 "evidence.evidenceSynthesis" = "Síntesis de evidencia";
 "evidence.singleStudy.note" = "Son los hallazgos de un único estudio. Pueden no reflejar el consenso científico general hasta que otras investigaciones los confirmen.";
 "evidence.narrativeReview.note" = "Una revisión resume un campo desde la perspectiva de sus autores; no es un análisis sistemático de toda la evidencia.";

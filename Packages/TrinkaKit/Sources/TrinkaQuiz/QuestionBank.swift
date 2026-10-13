@@ -65,7 +65,7 @@ public struct StaticQuestionBank: QuestionBank {
 public enum SeedQuestionBank {
     /// Bump whenever `SeedQuestions.json` changes which questions exist, so friend-challenge
     /// codes created with an older bank are rejected instead of loading different questions.
-    public static let version = 2
+    public static let version = 3
 
     public enum LoadError: Error {
         case resourceMissing

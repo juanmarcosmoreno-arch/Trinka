@@ -141,6 +141,7 @@ final class ArticleReferenceTests: XCTestCase {
         XCTAssertEqual(EvidenceKind(publicationTypes: ["Journal Article"]), .singleStudy)
         XCTAssertEqual(EvidenceKind(publicationTypes: ["Journal Article", "Review"]), .narrativeReview)
         XCTAssertEqual(EvidenceKind(publicationTypes: ["Meta-Analysis", "Review"]), .evidenceSynthesis)
+        XCTAssertEqual(EvidenceKind(publicationTypes: ["Study Guide"]), .referenceText)
     }
 
     func testSyncMessageRoundTrip() throws {

@@ -12,6 +12,8 @@ Usage: python3 Scripts/seed/build_seed.py
 After changing which questions exist, bump `SeedQuestionBank.version` (friend-challenge codes).
 """
 import collections
+import glob
+import importlib.util
 import json
 import os
 import sys
@@ -21,12 +23,34 @@ import xml.etree.ElementTree as ET
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 OUT = os.path.join(ROOT, "Packages/TrinkaKit/Sources/TrinkaQuiz/Resources/SeedQuestions.json")
-VERSION = 2
+VERSION = 3
 sys.path.insert(0, HERE)
 from questions_core import Q as CORE  # noqa: E402
 from questions_levels import NEW, RELEVEL  # noqa: E402
 
 LEVELS = ["beginner", "curious", "explorer", "researcher", "expert"]
+CACHE = os.path.join(HERE, ".cache", "articles.json")
+ABBR = {"microbiology": "micro", "immunology": "immuno", "genetics": "genetics", "neuroscience": "neuro",
+        "humanPhysiology": "physio", "medicine": "medicine", "biotechnology": "biotech", "nutrition": "nutrition",
+        "veterinaryScience": "vet", "generalScience": "general", "infectiousDiseases": "infect",
+        "diagnosticMethods": "dx", "foodAnalysis": "food", "historyOfScience": "history"}
+
+
+def load_bank():
+    """Questions in bank/<category>.py, compact tuples:
+    (pmid, level, correctIndex, excerpt, (en prompt, [4 options], explanation, short), (es …))."""
+    out = []
+    per_pmid = collections.Counter()
+    for path in sorted(glob.glob(os.path.join(HERE, "bank", "*.py"))):
+        spec = importlib.util.spec_from_file_location(os.path.basename(path)[:-3], path)
+        module = importlib.util.module_from_spec(spec); spec.loader.exec_module(module)
+        for pmid, level, correct, excerpt, en, es in module.Q:
+            per_pmid[(module.CATEGORY, pmid)] += 1
+            out.append(dict(id=f"{ABBR[module.CATEGORY]}-{pmid}-{per_pmid[(module.CATEGORY, pmid)]}", pmid=pmid, category=module.CATEGORY,
+                            difficulty=level, correct=correct, excerpt=excerpt, method="aiAuthored",
+                            en=dict(prompt=en[0], options=list(en[1]), explanation=en[2], short=en[3]),
+                            es=dict(prompt=es[0], options=list(es[1]), explanation=es[2], short=es[3])))
+    return out
 
 
 def norm(text):
@@ -56,16 +80,22 @@ def fetch(pmids):
 
 
 def main():
-    questions = CORE + NEW
+    questions = CORE + NEW + load_bank()
     known = {}
+    if os.path.exists(CACHE):
+        known.update(json.load(open(CACHE, encoding="utf-8")))
     if os.path.exists(OUT):
-        known = {a["pmid"]: a for a in json.load(open(OUT, encoding="utf-8"))["articles"]}
+        known.update({a["pmid"]: a for a in json.load(open(OUT, encoding="utf-8"))["articles"]})
     missing = sorted({q["pmid"] for q in questions} - set(known))
     if missing:
         print("Fetching from PubMed:", ", ".join(missing))
         known.update(fetch(missing))
 
     errors, articles, entries, used = [], [], [], set()
+    ids = collections.Counter(q["id"] for q in questions)
+    errors += [f"duplicate id {i}" for i, n in ids.items() if n > 1]
+    prompts = collections.Counter(norm(q["en"]["prompt"]) for q in questions)
+    errors += [f"duplicate prompt: {p[:70]}" for p, n in prompts.items() if n > 1]
     for q in questions:
         level = RELEVEL.get(q["id"], q["difficulty"])
         if level not in LEVELS:
@@ -83,19 +113,26 @@ def main():
                 errors.append(f"{q['id']}: missing {lang}"); continue
             if len(t["options"]) != 4 or len({norm(o) for o in t["options"]}) != 4:
                 errors.append(f"{q['id']}-{lang}: options must be 4 distinct values")
+            if not 0 <= q["correct"] < 4:
+                errors.append(f"{q['id']}: correct index out of range")
             entries.append(dict(id=f"{q['id']}-{lang}", translationKey=q["id"], language=lang, category=q["category"],
                                 difficulty=level, prompt=t["prompt"], options=t["options"], correctOptionIndex=q["correct"],
                                 explanation=t["explanation"], shortExplanation=t["short"], pmid=q["pmid"],
-                                verification=dict(status="verified", method="editorialReview",
+                                verification=dict(status="verified", method=q.get("method", "aiAuthored"),
                                                   supportingExcerpt=q["excerpt"], reviewedAt="2026-10-13T00:00:00Z")))
     if errors:
         sys.exit("Seed build failed:\n  " + "\n  ".join(errors))
 
     json.dump(dict(version=VERSION, generatedAt="2026-10-13T00:00:00Z", articles=articles, questions=entries),
               open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    levels = collections.Counter(e["difficulty"] for e in entries if e["language"] == "en")
-    print(f"Wrote {len(entries)} questions ({len(entries) // 2} per language) from {len(articles)} articles.")
+    english = [e for e in entries if e["language"] == "en"]
+    levels = collections.Counter(e["difficulty"] for e in english)
+    cats = collections.Counter(e["category"] for e in english)
+    answers = collections.Counter(e["correctOptionIndex"] for e in english)
+    print(f"Wrote {len(entries)} questions ({len(english)} per language) from {len(articles)} articles.")
     print("Per level:", ", ".join(f"{lvl} {levels[lvl]}" for lvl in LEVELS))
+    print("Per discipline:", ", ".join(f"{c} {n}" for c, n in sorted(cats.items())))
+    print("Correct option A/B/C/D:", "/".join(str(answers[i]) for i in range(4)))
 
 
 if __name__ == "__main__":

@@ -85,10 +85,14 @@ public enum EvidenceKind: String, Codable, Hashable, Sendable {
     case evidenceSynthesis
     /// Narrative reviews: summaries of a field, not systematic.
     case narrativeReview
+    /// Peer-reviewed reference chapters (e.g. StatPearls) summarizing established knowledge.
+    case referenceText
 
     public init(publicationTypes: [String]) {
         let types = Set(publicationTypes.map { $0.lowercased() })
-        if types.contains("meta-analysis") || types.contains("systematic review")
+        if types.contains("study guide") || types.contains("textbook") {
+            self = .referenceText
+        } else if types.contains("meta-analysis") || types.contains("systematic review")
             || types.contains("practice guideline") || types.contains("guideline") {
             self = .evidenceSynthesis
         } else if types.contains("review") {

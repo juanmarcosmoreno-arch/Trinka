@@ -76,6 +76,10 @@ public enum Theme {
         case .nutrition: Color(light: 0x6E9448, dark: 0xB5D68F)
         case .veterinaryScience: Color(light: 0xA77B3F, dark: 0xE3BF8A)
         case .generalScience: Color(light: 0x66737D, dark: 0xB7C2CA)
+        case .infectiousDiseases: Color(light: 0xB25A6B, dark: 0xF0A0B0)
+        case .diagnosticMethods: Color(light: 0x3F7F8C, dark: 0x92CFDA)
+        case .foodAnalysis: Color(light: 0x9A7A2E, dark: 0xE6CB7E)
+        case .historyOfScience: Color(light: 0x7A6A58, dark: 0xCDBBA6)
         }
     }
 }
