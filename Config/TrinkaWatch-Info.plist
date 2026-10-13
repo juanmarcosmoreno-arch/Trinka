@@ -8,6 +8,9 @@
 		<string>en</string>
 		<string>es</string>
 	</array>
+	<!-- Only standard HTTPS is used, so App Store Connect skips the export-compliance question. -->
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 	<!-- Where newer question banks are published (Content/manifest.json). Empty = no remote updates. -->
 	<key>TrinkaQuestionBankBase</key>
 	<string>$(QUESTION_BANK_BASE)</string>
