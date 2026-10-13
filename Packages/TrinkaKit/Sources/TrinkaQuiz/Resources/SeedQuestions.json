@@ -1,5 +1,5 @@
 {
- "version": 27,
+ "version": 28,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -58150,8 +58150,8 @@
    "prompt": "How does penicillin kill bacteria?",
    "options": [
     "Blocking protein synthesis at the 30S ribosome",
-    "Inhibiting peptidoglycan cross-linking in the cell wall",
-    "Inhibiting DNA gyrase",
+    "Inhibiting peptidoglycan cross-linking",
+    "Inhibiting DNA gyrase and topoisomerase IV",
     "Disrupting the outer membrane like a detergent"
    ],
    "correctOptionIndex": 1,
@@ -58174,8 +58174,8 @@
    "prompt": "¿Cómo mata la penicilina a las bacterias?",
    "options": [
     "Bloquea la síntesis proteica en el ribosoma 30S",
-    "Inhibe el entrecruzamiento del peptidoglucano de la pared",
-    "Inhibe la ADN girasa",
+    "Inhibe el entrecruzamiento del peptidoglucano",
+    "Inhibe la ADN girasa y la topoisomerasa IV",
     "Rompe la membrana externa como un detergente"
    ],
    "correctOptionIndex": 1,
@@ -58197,10 +58197,10 @@
    "difficulty": "explorer",
    "prompt": "What is special about cefiderocol?",
    "options": [
-    "It is a macrolide",
-    "It only works on gram-positives",
-    "It is a siderophore cephalosporin that hijacks iron uptake to enter gram-negatives",
-    "It is an antifungal"
+    "It is a macrolide that blocks the 50S subunit",
+    "It acts only on gram-positive bacteria",
+    "It enters gram-negatives via iron uptake",
+    "It is an echinocandin used against molds"
    ],
    "correctOptionIndex": 2,
    "explanation": "Cefiderocol is a siderophore cephalosporin active against highly resistant gram-negatives such as P. aeruginosa and A. baumannii.",
@@ -58221,10 +58221,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué tiene de especial el cefiderocol?",
    "options": [
-    "Es un macrólido",
-    "Solo actúa sobre grampositivas",
-    "Es una cefalosporina sideróforo que usa la captación de hierro para entrar en gramnegativas",
-    "Es un antifúngico"
+    "Es un macrólido que bloquea la subunidad 50S",
+    "Actúa solamente sobre bacterias grampositivas",
+    "Entra en gramnegativas por la captación de hierro",
+    "Es una equinocandina usada contra hongos"
    ],
    "correctOptionIndex": 2,
    "explanation": "El cefiderocol es una cefalosporina sideróforo activa contra gramnegativos muy resistentes como P. aeruginosa y A. baumannii.",
@@ -58293,10 +58293,10 @@
    "difficulty": "curious",
    "prompt": "Vancomycin is mainly used to treat…",
    "options": [
-    "Gram-negative urinary infections",
-    "Fungal infections",
-    "Viral pneumonia",
-    "Severe gram-positive infections such as MRSA"
+    "Uncomplicated gram-negative urinary infections",
+    "Invasive fungal infections such as candidemia",
+    "Viral pneumonia caused by influenza",
+    "Severe gram-positive infections like MRSA"
    ],
    "correctOptionIndex": 3,
    "explanation": "Vancomycin, a glycopeptide cell-wall inhibitor, treats severe gram-positive infections including MRSA.",
@@ -58317,9 +58317,9 @@
    "difficulty": "curious",
    "prompt": "La vancomicina se usa principalmente para tratar…",
    "options": [
-    "Infecciones urinarias por gramnegativos",
-    "Infecciones fúngicas",
-    "Neumonía viral",
+    "Infecciones urinarias no complicadas por gramnegativos",
+    "Infecciones fúngicas invasivas como candidemia",
+    "Neumonía viral causada por influenza",
     "Infecciones graves por grampositivos como SAMR"
    ],
    "correctOptionIndex": 3,
@@ -58341,10 +58341,10 @@
    "difficulty": "explorer",
    "prompt": "Which organisms do aminoglycosides typically cover?",
    "options": [
-    "Anaerobes only",
-    "Aerobic organisms, including gram-negatives and mycobacteria",
-    "Fungi",
-    "Viruses"
+    "Strict anaerobes in deep abscesses",
+    "Aerobic gram-negatives and mycobacteria",
+    "Yeasts and other filamentous fungi",
+    "Intracellular viruses and prion proteins"
    ],
    "correctOptionIndex": 1,
    "explanation": "Aminoglycosides (gentamicin, amikacin, streptomycin…) cover aerobes; they need oxygen-dependent uptake, so anaerobes are resistant.",
@@ -58365,10 +58365,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué organismos cubren típicamente los aminoglucósidos?",
    "options": [
-    "Solo anaerobios",
-    "Organismos aerobios, incluidos gramnegativos y micobacterias",
-    "Hongos",
-    "Virus"
+    "Anaerobios estrictos de abscesos profundos",
+    "Gramnegativos aerobios y micobacterias",
+    "Levaduras y otros hongos filamentosos",
+    "Virus intracelulares y proteínas priónicas"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los aminoglucósidos (gentamicina, amikacina, estreptomicina…) cubren aerobios; su captación depende de oxígeno, por eso los anaerobios son resistentes.",
@@ -58392,7 +58392,7 @@
     "Clarithromycin",
     "Azithromycin",
     "Erythromycin",
-    "Fidaxomicin"
+    "Roxithromycin"
    ],
    "correctOptionIndex": 0,
    "explanation": "Clarithromycin is used with a proton-pump inhibitor and amoxicillin (or metronidazole) in triple therapy.",
@@ -58416,7 +58416,7 @@
     "Claritromicina",
     "Azitromicina",
     "Eritromicina",
-    "Fidaxomicina"
+    "Roxitromicina"
    ],
    "correctOptionIndex": 0,
    "explanation": "La claritromicina se usa con un inhibidor de bomba de protones y amoxicilina (o metronidazol) en la triple terapia.",
@@ -58437,10 +58437,10 @@
    "difficulty": "curious",
    "prompt": "How do tetracyclines act?",
    "options": [
-    "Inhibit cell wall synthesis",
-    "Inhibit folate synthesis",
-    "Inhibit bacterial protein synthesis",
-    "Disrupt fungal membranes"
+    "They inhibit cell wall synthesis",
+    "They inhibit bacterial folate synthesis",
+    "They inhibit protein synthesis",
+    "They disrupt ergosterol in fungal membranes"
    ],
    "correctOptionIndex": 2,
    "explanation": "Tetracyclines (doxycycline, minocycline, tigecycline) are broad-spectrum protein synthesis inhibitors.",
@@ -58461,10 +58461,10 @@
    "difficulty": "curious",
    "prompt": "¿Cómo actúan las tetraciclinas?",
    "options": [
-    "Inhiben la síntesis de pared",
-    "Inhiben la síntesis de folato",
-    "Inhiben la síntesis proteica bacteriana",
-    "Alteran membranas fúngicas"
+    "Inhiben la síntesis de la pared",
+    "Inhiben la síntesis bacteriana de folato",
+    "Inhiben la síntesis de proteínas",
+    "Alteran el ergosterol de membranas fúngicas"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las tetraciclinas (doxiciclina, minociclina, tigeciclina) son inhibidores de la síntesis proteica de amplio espectro.",
@@ -58486,9 +58486,9 @@
    "prompt": "Why are trimethoprim and sulfamethoxazole combined?",
    "options": [
     "They block two different ribosomal subunits",
-    "One kills fungi and the other bacteria",
-    "To reduce cost only",
-    "They inhibit two sequential steps of folate synthesis, acting synergistically"
+    "One kills fungi and the other kills bacteria",
+    "They block two steps of folate synthesis",
+    "Combining them mainly lowers treatment cost"
    ],
    "correctOptionIndex": 3,
    "explanation": "Sulfamethoxazole and trimethoprim block successive steps of bacterial folate synthesis, producing synergy.",
@@ -58510,9 +58510,9 @@
    "prompt": "¿Por qué se combinan trimetoprima y sulfametoxazol?",
    "options": [
     "Bloquean dos subunidades ribosomales distintas",
-    "Uno mata hongos y el otro bacterias",
-    "Solo para bajar el costo",
-    "Inhiben dos pasos sucesivos de la síntesis de folato, con efecto sinérgico"
+    "Uno mata hongos y el otro mata bacterias",
+    "Bloquean dos pasos de la síntesis de folato",
+    "Combinarlos sobre todo reduce el costo"
    ],
    "correctOptionIndex": 3,
    "explanation": "El sulfametoxazol y la trimetoprima bloquean pasos sucesivos de la síntesis bacteriana de folato, con sinergia.",
@@ -58534,9 +58534,9 @@
    "prompt": "Besides urinary infections, TMP-SMX is a drug of choice for treating and preventing…",
    "options": [
     "Tuberculous meningitis",
-    "Pneumocystis jirovecii pneumonia",
-    "Candida esophagitis",
-    "Influenza"
+    "Pneumocystis pneumonia",
+    "Candida esophagitis in AIDS",
+    "Seasonal influenza A"
    ],
    "correctOptionIndex": 1,
    "explanation": "TMP-SMX treats and prevents Pneumocystis pneumonia (and toxoplasmosis), key in HIV care.",
@@ -58558,9 +58558,9 @@
    "prompt": "Además de infecciones urinarias, TMP-SMX es de elección para tratar y prevenir…",
    "options": [
     "Meningitis tuberculosa",
-    "Neumonía por Pneumocystis jirovecii",
-    "Esofagitis por Candida",
-    "Influenza"
+    "Neumonía por Pneumocystis",
+    "Esofagitis por Candida en el sida",
+    "Influenza A estacional"
    ],
    "correctOptionIndex": 1,
    "explanation": "TMP-SMX trata y previene la neumonía por Pneumocystis (y la toxoplasmosis), clave en la atención del VIH.",
@@ -58583,8 +58583,8 @@
    "options": [
     "Anaerobic bacteria and protozoa",
     "Aerobic gram-positive cocci",
-    "Mycobacteria",
-    "Dermatophytes"
+    "Mycobacteria such as M. avium",
+    "Dermatophytes of skin and nails"
    ],
    "correctOptionIndex": 0,
    "explanation": "Metronidazole treats anaerobic and microaerophilic bacteria and protozoa such as Entamoeba, Giardia and Trichomonas.",
@@ -58607,8 +58607,8 @@
    "options": [
     "Bacterias anaerobias y protozoos",
     "Cocos grampositivos aerobios",
-    "Micobacterias",
-    "Dermatofitos"
+    "Micobacterias como M. avium",
+    "Dermatofitos de la piel y las uñas"
    ],
    "correctOptionIndex": 0,
    "explanation": "El metronidazol trata bacterias anaerobias y microaerófilas y protozoos como Entamoeba, Giardia y Trichomonas.",
@@ -58629,10 +58629,10 @@
    "difficulty": "researcher",
    "prompt": "Linezolid belongs to which class and targets which bacteria?",
    "options": [
-    "Glycopeptide; gram-negatives",
-    "Lipopeptide; anaerobes",
-    "Oxazolidinone; gram-positives, including VRE",
-    "Polymyxin; Pseudomonas"
+    "Glycopeptide; gram-negative rods",
+    "Lipopeptide; strict anaerobes",
+    "Oxazolidinone; gram-positives",
+    "Polymyxin; Pseudomonas aeruginosa"
    ],
    "correctOptionIndex": 2,
    "explanation": "Linezolid is a synthetic oxazolidinone for gram-positive infections, including vancomycin-resistant enterococci.",
@@ -58653,10 +58653,10 @@
    "difficulty": "researcher",
    "prompt": "¿A qué clase pertenece el linezolid y contra qué bacterias actúa?",
    "options": [
-    "Glicopéptido; gramnegativas",
-    "Lipopéptido; anaerobios",
-    "Oxazolidinona; grampositivas, incluido ERV",
-    "Polimixina; Pseudomonas"
+    "Glicopéptido; bacilos gramnegativos",
+    "Lipopéptido; anaerobios estrictos",
+    "Oxazolidinona; grampositivos",
+    "Polimixina; Pseudomonas aeruginosa"
    ],
    "correctOptionIndex": 2,
    "explanation": "El linezolid es una oxazolidinona sintética para infecciones por grampositivos, incluidos enterococos resistentes a vancomicina.",
@@ -58677,10 +58677,10 @@
    "difficulty": "expert",
    "prompt": "Daptomycin is a…",
    "options": [
-    "β-lactam from Penicillium",
+    "β-lactam produced by Penicillium",
     "Aminoglycoside from Streptomyces griseus",
     "Glycopeptide from Amycolatopsis",
-    "Cyclic lipopeptide from Streptomyces roseosporus"
+    "Cyclic lipopeptide from Streptomyces"
    ],
    "correctOptionIndex": 3,
    "explanation": "Daptomycin is a cyclic lipopeptide active against gram-positives including MRSA and VRE.",
@@ -58701,10 +58701,10 @@
    "difficulty": "expert",
    "prompt": "La daptomicina es un…",
    "options": [
-    "Betalactámico de Penicillium",
+    "Betalactámico producido por Penicillium",
     "Aminoglucósido de Streptomyces griseus",
     "Glicopéptido de Amycolatopsis",
-    "Lipopéptido cíclico de Streptomyces roseosporus"
+    "Lipopéptido cíclico de Streptomyces"
    ],
    "correctOptionIndex": 3,
    "explanation": "La daptomicina es un lipopéptido cíclico activo contra grampositivos, incluidos SAMR y ERV.",
@@ -58774,9 +58774,9 @@
    "prompt": "How is isoniazid activated inside Mycobacterium tuberculosis?",
    "options": [
     "By the catalase-peroxidase KatG",
-    "By gastric acid",
-    "By human liver enzymes only",
-    "It needs no activation"
+    "By stomach acid before absorption",
+    "By human hepatic CYP enzymes only",
+    "It is active without any activation"
    ],
    "correctOptionIndex": 0,
    "explanation": "INH is a prodrug activated by mycobacterial KatG; katG mutations are a classic cause of INH resistance.",
@@ -58798,9 +58798,9 @@
    "prompt": "¿Cómo se activa la isoniazida dentro de Mycobacterium tuberculosis?",
    "options": [
     "Por la catalasa-peroxidasa KatG",
-    "Por el ácido gástrico",
-    "Solo por enzimas hepáticas humanas",
-    "No necesita activación"
+    "Por el ácido del estómago antes de absorberse",
+    "Solo por enzimas CYP hepáticas humanas",
+    "Es activa sin necesidad de activación"
    ],
    "correctOptionIndex": 0,
    "explanation": "La INH es una prodroga activada por KatG micobacteriana; las mutaciones de katG son causa clásica de resistencia.",
@@ -58869,10 +58869,10 @@
    "difficulty": "researcher",
    "prompt": "Structurally, how do carbapenems differ from penicillins?",
    "options": [
-    "They lack a β-lactam ring",
-    "They contain a macrolactone ring",
-    "They are peptides",
-    "They have an added pyrroline ring that protects the β-lactam ring"
+    "They lack a β-lactam ring entirely",
+    "They contain a 14-membered macrolactone",
+    "They are cyclic peptides, not β-lactams",
+    "An added ring protects the β-lactam"
    ],
    "correctOptionIndex": 3,
    "explanation": "The pyrroline ring protects the β-lactam ring from many β-lactamases, giving carbapenems their broad spectrum.",
@@ -58894,9 +58894,9 @@
    "prompt": "Estructuralmente, ¿en qué se diferencian los carbapenémicos de las penicilinas?",
    "options": [
     "No tienen anillo betalactámico",
-    "Tienen un anillo macrolactona",
-    "Son péptidos",
-    "Tienen un anillo pirrolina agregado que protege al anillo betalactámico"
+    "Contienen una macrolactona de 14 átomos",
+    "Son péptidos cíclicos, no betalactámicos",
+    "Un anillo agregado protege al betalactámico"
    ],
    "correctOptionIndex": 3,
    "explanation": "El anillo pirrolina protege al anillo betalactámico de muchas betalactamasas, de ahí su amplio espectro.",
@@ -58917,10 +58917,10 @@
    "difficulty": "explorer",
    "prompt": "What is the most common mechanism of carbapenem resistance in Enterobacterales?",
    "options": [
-    "Thicker capsule",
+    "A thicker polysaccharide capsule",
     "Carbapenemase production",
-    "Spore formation",
-    "Loss of flagella"
+    "Formation of resistant spores",
+    "Loss of flagella and pili"
    ],
    "correctOptionIndex": 1,
    "explanation": "Carbapenemase production is most common; efflux pumps and porin loss also contribute.",
@@ -58941,10 +58941,10 @@
    "difficulty": "explorer",
    "prompt": "¿Cuál es el mecanismo más común de resistencia a carbapenémicos en Enterobacterales?",
    "options": [
-    "Cápsula más gruesa",
+    "Una cápsula más gruesa",
     "Producción de carbapenemasas",
-    "Formación de esporas",
-    "Pérdida de flagelos"
+    "Formación de esporas resistentes",
+    "Pérdida de flagelos y pili"
    ],
    "correctOptionIndex": 1,
    "explanation": "La producción de carbapenemasas es lo más frecuente; las bombas de eflujo y la pérdida de porinas también contribuyen.",
@@ -58965,10 +58965,10 @@
    "difficulty": "expert",
    "prompt": "Which antibiotics do ESBLs typically hydrolyze?",
    "options": [
-    "Penicillins, third-generation cephalosporins and monobactams",
-    "Carbapenems only",
-    "Aminoglycosides",
-    "Vancomycin"
+    "Penicillins and 3rd-generation cephalosporins",
+    "Carbapenems such as meropenem and imipenem",
+    "Aminoglycosides such as gentamicin and amikacin",
+    "Glycopeptides such as vancomycin"
    ],
    "correctOptionIndex": 0,
    "explanation": "ESBLs hydrolyze penicillins, 3rd-generation cephalosporins and monobactams; carbapenems usually remain active.",
@@ -58989,10 +58989,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué antibióticos hidrolizan típicamente las BLEE?",
    "options": [
-    "Penicilinas, cefalosporinas de tercera generación y monobactámicos",
-    "Solo carbapenémicos",
-    "Aminoglucósidos",
-    "Vancomicina"
+    "Penicilinas y cefalosporinas de 3.ª generación",
+    "Carbapenémicos como meropenem e imipenem",
+    "Aminoglucósidos como gentamicina y amikacina",
+    "Glucopéptidos como vancomicina"
    ],
    "correctOptionIndex": 0,
    "explanation": "Las BLEE hidrolizan penicilinas, cefalosporinas de 3.ª generación y monobactámicos; los carbapenémicos suelen conservar actividad.",
@@ -59013,10 +59013,10 @@
    "difficulty": "researcher",
    "prompt": "When are polymyxins (e.g., colistin) typically used?",
    "options": [
-    "As first-line for strep throat",
-    "For fungal infections",
-    "As last-resort agents for multidrug-resistant gram-negatives",
-    "To treat viral hepatitis"
+    "As first-line therapy for strep throat",
+    "As oral treatment for fungal infections",
+    "As last resort for resistant gram-negatives",
+    "As antivirals for chronic viral hepatitis"
    ],
    "correctOptionIndex": 2,
    "explanation": "Polymyxins are reserved for multidrug-resistant gram-negatives (e.g., P. aeruginosa) resistant to most other classes.",
@@ -59037,10 +59037,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuándo se usan típicamente las polimixinas (p. ej., colistina)?",
    "options": [
-    "Como primera línea en faringitis",
-    "Para infecciones fúngicas",
-    "Como último recurso frente a gramnegativos multirresistentes",
-    "Para hepatitis viral"
+    "Como primera línea en la faringitis estreptocócica",
+    "Como tratamiento oral de infecciones fúngicas",
+    "Como último recurso ante gramnegativos resistentes",
+    "Como antivirales para la hepatitis viral crónica"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las polimixinas se reservan para gramnegativos multirresistentes (p. ej., P. aeruginosa) resistentes a casi todo lo demás.",
@@ -59061,10 +59061,10 @@
    "difficulty": "explorer",
    "prompt": "Why is nitrofurantoin useful for uncomplicated cystitis but not for systemic infections?",
    "options": [
-    "It concentrates in the lower urinary tract with low serum levels",
-    "It only works in the lungs",
-    "It is inactivated in urine",
-    "It is only active against fungi"
+    "It concentrates in urine with low blood levels",
+    "It is active only within the lung tissue",
+    "It is inactivated as soon as it reaches urine",
+    "It is active only against fungal pathogens"
    ],
    "correctOptionIndex": 0,
    "explanation": "Nitrofurantoin reaches high urinary concentrations but low serum levels and spares bowel flora — ideal for lower UTIs.",
@@ -59085,10 +59085,10 @@
    "difficulty": "explorer",
    "prompt": "¿Por qué la nitrofurantoína sirve para cistitis no complicada pero no para infecciones sistémicas?",
    "options": [
-    "Se concentra en la vía urinaria baja con niveles séricos bajos",
-    "Solo actúa en pulmones",
-    "Se inactiva en la orina",
-    "Solo es activa contra hongos"
+    "Se concentra en orina con poco nivel en sangre",
+    "Solo es activa dentro del tejido pulmonar",
+    "Se inactiva en cuanto llega a la orina",
+    "Solo es activa frente a los hongos patógenos"
    ],
    "correctOptionIndex": 0,
    "explanation": "La nitrofurantoína alcanza altas concentraciones urinarias con bajos niveles séricos y respeta la flora intestinal: ideal para ITU bajas.",
@@ -59109,10 +59109,10 @@
    "difficulty": "curious",
    "prompt": "What does \"antimicrobial stewardship\" refer to?",
    "options": [
-    "Developing new antibiotics",
-    "Programs and interventions that optimize antimicrobial use",
-    "Selling antibiotics without prescription",
-    "Vaccinating livestock"
+    "Developing new antibiotic classes",
+    "Programs that optimize antimicrobial use",
+    "Selling antibiotics without a prescription",
+    "Vaccinating livestock to reduce infections"
    ],
    "correctOptionIndex": 1,
    "explanation": "Stewardship is a coherent set of actions promoting responsible antimicrobial use, in human and animal health (One Health).",
@@ -59133,10 +59133,10 @@
    "difficulty": "curious",
    "prompt": "¿A qué se refiere el \"uso racional de antimicrobianos\" (antimicrobial stewardship)?",
    "options": [
-    "Desarrollar antibióticos nuevos",
-    "Programas e intervenciones que optimizan el uso de antimicrobianos",
-    "Vender antibióticos sin receta",
-    "Vacunar ganado"
+    "Desarrollar nuevas clases de antibióticos",
+    "Programas que optimizan el uso de antibióticos",
+    "Vender antibióticos sin receta médica",
+    "Vacunar al ganado para reducir infecciones"
    ],
    "correctOptionIndex": 1,
    "explanation": "El stewardship es un conjunto coherente de acciones para usar antimicrobianos de forma responsable, en salud humana y animal (Una Salud).",
@@ -59157,10 +59157,10 @@
    "difficulty": "explorer",
    "prompt": "Which conditions have been associated with an altered gut microbiota?",
    "options": [
-    "Only infectious diarrhea",
-    "Fractures and sprains",
-    "Metabolic disorders such as obesity and type 2 diabetes",
-    "Color blindness"
+    "Only acute infectious diarrhea",
+    "Bone fractures and ligament sprains",
+    "Obesity and type 2 diabetes",
+    "Inherited red-green color blindness"
    ],
    "correctOptionIndex": 2,
    "explanation": "Observational studies link aberrant gut microbiota to obesity, type 2 diabetes, fatty liver and cardiometabolic disease.",
@@ -59181,10 +59181,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué condiciones se han asociado a una microbiota intestinal alterada?",
    "options": [
-    "Solo diarrea infecciosa",
-    "Fracturas y esguinces",
-    "Trastornos metabólicos como obesidad y diabetes tipo 2",
-    "Daltonismo"
+    "Solo la diarrea infecciosa aguda",
+    "Fracturas óseas y esguinces",
+    "Obesidad y diabetes tipo 2",
+    "Daltonismo rojo-verde hereditario"
    ],
    "correctOptionIndex": 2,
    "explanation": "Estudios observacionales vinculan una microbiota alterada con obesidad, diabetes tipo 2, hígado graso y enfermedad cardiometabólica.",
@@ -59205,10 +59205,10 @@
    "difficulty": "expert",
    "prompt": "What is the main limitation of much gut-microbiota research to date?",
    "options": [
-    "It cannot sequence DNA",
-    "It only studies viruses",
-    "It ignores diet entirely",
-    "Many findings are associations; causal mechanisms are still being established"
+    "Current methods cannot sequence microbial DNA",
+    "It studies only viruses, not bacteria",
+    "It entirely ignores the effect of diet",
+    "Many findings are associations, not causes"
    ],
    "correctOptionIndex": 3,
    "explanation": "Much evidence is observational; the field is moving to cause-and-effect studies using multi-omics and experiments.",
@@ -59229,10 +59229,10 @@
    "difficulty": "expert",
    "prompt": "¿Cuál es la principal limitación de gran parte de la investigación sobre microbiota?",
    "options": [
-    "No puede secuenciar ADN",
-    "Solo estudia virus",
-    "Ignora la dieta",
-    "Muchos hallazgos son asociaciones; los mecanismos causales aún se están estableciendo"
+    "Los métodos actuales no secuencian ADN microbiano",
+    "Estudia solo virus y no bacterias",
+    "Ignora por completo el efecto de la dieta",
+    "Muchos hallazgos son asociaciones, no causas"
    ],
    "correctOptionIndex": 3,
    "explanation": "Buena parte de la evidencia es observacional; el campo avanza hacia estudios de causa-efecto con multiómica y experimentos.",
@@ -78789,10 +78789,10 @@
    "difficulty": "curious",
    "prompt": "Which sign did dairy cows infected with H5N1 avian influenza show in the US in 2024?",
    "options": [
-    "Hair loss",
-    "Lameness only",
-    "An abrupt drop in milk production",
-    "Blindness"
+    "Severe lameness and hoof lesions",
+    "Patchy hair loss on the udder",
+    "An abrupt drop in milk yield",
+    "Sudden blindness and head pressing"
    ],
    "correctOptionIndex": 2,
    "explanation": "Infected cows had nonspecific illness, reduced feed intake and rumination, and an abrupt drop in milk.",
@@ -78813,10 +78813,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué signo mostraron las vacas lecheras infectadas con influenza aviar H5N1 en EE. UU. en 2024?",
    "options": [
-    "Caída del pelo",
-    "Solo cojera",
-    "Una caída brusca de la producción de leche",
-    "Ceguera"
+    "Cojera grave y lesiones podales",
+    "Caída de pelo en parches en la ubre",
+    "Caída brusca de la producción de leche",
+    "Ceguera súbita y presión de la cabeza"
    ],
    "correctOptionIndex": 2,
    "explanation": "Las vacas infectadas tuvieron enfermedad inespecífica, menor consumo y rumia, y una caída brusca de la leche.",
@@ -78837,10 +78837,10 @@
    "difficulty": "explorer",
    "prompt": "What happened to cats on farms with H5N1-infected cows?",
    "options": [
-    "Cats fed raw milk from affected cows developed fatal influenza",
-    "Cats were immune",
-    "Cats protected the cows",
-    "Cats only had mild colds"
+    "They were resistant to infection",
+    "They developed only mild colds",
+    "Cats fed raw milk died of influenza",
+    "They spread the virus back to birds only"
    ],
    "correctOptionIndex": 0,
    "explanation": "Raw (unpasteurized) milk transmitted the virus to cats, a warning about cross-species transmission.",
@@ -78861,10 +78861,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué les pasó a los gatos de tambos con vacas infectadas por H5N1?",
    "options": [
-    "Los gatos alimentados con leche cruda de vacas afectadas desarrollaron influenza mortal",
-    "Eran inmunes",
-    "Protegieron a las vacas",
-    "Solo tuvieron resfríos leves"
+    "Fueron resistentes a la infección",
+    "Solo tuvieron resfríos leves",
+    "Gatos con leche cruda murieron de influenza",
+    "Solo devolvieron el virus a las aves"
    ],
    "correctOptionIndex": 0,
    "explanation": "La leche cruda (sin pasteurizar) transmitió el virus a los gatos, una alerta sobre la transmisión entre especies.",
@@ -78885,10 +78885,10 @@
    "difficulty": "researcher",
    "prompt": "Which tissue did H5N1 show a distinct tropism for in dairy cows?",
    "options": [
-    "Hoof epithelium",
-    "Brain neurons",
-    "Skeletal muscle",
-    "Epithelial cells lining the alveoli of the mammary gland"
+    "The epithelium of the hoof",
+    "Neurons of the brainstem",
+    "Fibers of skeletal muscle",
+    "Mammary alveolar epithelium"
    ],
    "correctOptionIndex": 3,
    "explanation": "Virus replicated in mammary alveolar epithelium, explaining abundant virus in milk.",
@@ -78909,10 +78909,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué tejido mostró H5N1 un tropismo marcado en vacas lecheras?",
    "options": [
-    "Epitelio del casco",
-    "Neuronas cerebrales",
-    "Músculo esquelético",
-    "Células epiteliales que recubren los alvéolos de la glándula mamaria"
+    "El epitelio del casco",
+    "Neuronas del tronco encefálico",
+    "Fibras del músculo esquelético",
+    "El epitelio alveolar mamario"
    ],
    "correctOptionIndex": 3,
    "explanation": "El virus se replicó en el epitelio alveolar mamario, lo que explica la gran cantidad de virus en la leche.",
@@ -78933,10 +78933,10 @@
    "difficulty": "expert",
    "prompt": "What did whole-genome sequencing reveal about H5N1 on affected dairy farms?",
    "options": [
-    "Only birds were infected",
-    "Multidirectional transmission among cows, birds, cats and a raccoon",
-    "The virus came from pigs",
-    "No genetic data were obtained"
+    "Only wild birds carried the virus",
+    "Transmission among several species",
+    "The cattle virus came from pigs",
+    "The virus genomes were unrelated"
    ],
    "correctOptionIndex": 1,
    "explanation": "Sequences showed transmission in several directions between species, and efficient cow-to-cow spread after cattle movement.",
@@ -78957,10 +78957,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué reveló la secuenciación genómica de H5N1 en tambos afectados?",
    "options": [
-    "Solo se infectaron aves",
-    "Transmisión multidireccional entre vacas, aves, gatos y un mapache",
-    "El virus vino de cerdos",
-    "No se obtuvieron datos genéticos"
+    "Solo las aves silvestres portaban el virus",
+    "Transmisión entre varias especies",
+    "El virus bovino provenía de cerdos",
+    "Los genomas virales no estaban relacionados"
    ],
    "correctOptionIndex": 1,
    "explanation": "Las secuencias mostraron transmisión en varias direcciones entre especies y contagio eficiente entre vacas tras su traslado.",
@@ -78984,7 +78984,7 @@
     "About 15",
     "About 5",
     "About 1.2",
-    "Zero"
+    "About 0.5"
    ],
    "correctOptionIndex": 2,
    "explanation": "A low R0 (<2 historically) supports the feasibility of controlling rabies by dog vaccination.",
@@ -79008,7 +79008,7 @@
     "Alrededor de 15",
     "Alrededor de 5",
     "Alrededor de 1,2",
-    "Cero"
+    "Alrededor de 0,5"
    ],
    "correctOptionIndex": 2,
    "explanation": "Un R0 bajo (<2 históricamente) respalda la factibilidad de controlar la rabia vacunando perros.",
@@ -79029,10 +79029,10 @@
    "difficulty": "researcher",
    "prompt": "What has been a major obstacle to controlling canine rabies in developing countries?",
    "options": [
-    "Rapid turnover of domestic dog populations",
-    "Lack of any vaccine",
-    "Rabies only infects wildlife",
-    "Dogs cannot be vaccinated"
+    "Rapid turnover of the dog population",
+    "There is no effective rabies vaccine",
+    "Rabies circulates only in wildlife",
+    "Dogs cannot be vaccinated before 1 year"
    ],
    "correctOptionIndex": 0,
    "explanation": "Births and deaths quickly dilute immunity, so regular pulse vaccination is needed between campaigns.",
@@ -79053,10 +79053,10 @@
    "difficulty": "researcher",
    "prompt": "¿Cuál ha sido un obstáculo importante para controlar la rabia canina en países en desarrollo?",
    "options": [
-    "El rápido recambio de la población de perros",
-    "La falta de vacuna",
-    "Que la rabia solo infecta fauna",
-    "Que no se puede vacunar a los perros"
+    "El rápido recambio de la población canina",
+    "No existe una vacuna antirrábica eficaz",
+    "La rabia circula solo en la fauna",
+    "No se vacuna a perros antes del año"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los nacimientos y muertes diluyen rápido la inmunidad, por eso hacen falta vacunaciones periódicas entre campañas.",
@@ -79077,9 +79077,9 @@
    "difficulty": "beginner",
    "prompt": "Which animal remains the major reservoir for human rabies in Africa and Asia?",
    "options": [
-    "Cats",
-    "Cows",
-    "Bats only",
+    "Domestic cats",
+    "Dairy cattle",
+    "Bats, only",
     "Domestic dogs"
    ],
    "correctOptionIndex": 3,
@@ -79101,8 +79101,8 @@
    "difficulty": "beginner",
    "prompt": "¿Qué animal sigue siendo el principal reservorio de la rabia humana en África y Asia?",
    "options": [
-    "Los gatos",
-    "Las vacas",
+    "Los gatos domésticos",
+    "El ganado lechero",
     "Solo los murciélagos",
     "Los perros domésticos"
    ],
@@ -79175,7 +79175,7 @@
    "options": [
     "Chickens",
     "Pigs",
-    "Cattle (about 53%)",
+    "Cattle",
     "Sheep"
    ],
    "correctOptionIndex": 2,
@@ -79197,9 +79197,9 @@
    "difficulty": "researcher",
    "prompt": "¿Qué especie de producción concentró la mayor parte del uso mundial de antimicrobianos en esta estimación?",
    "options": [
-    "Pollos",
+    "Gallinas",
     "Cerdos",
-    "Bovinos (alrededor de 53%)",
+    "Bovinos",
     "Ovinos"
    ],
    "correctOptionIndex": 2,
@@ -79221,10 +79221,10 @@
    "difficulty": "explorer",
    "prompt": "How is Schmallenberg virus transmitted?",
    "options": [
-    "By ticks",
+    "By hard ticks",
     "By contaminated feed",
     "By direct contact only",
-    "By Culicoides biting midges"
+    "By Culicoides midges"
    ],
    "correctOptionIndex": 3,
    "explanation": "Schmallenberg virus, first found in 2011 near the German-Dutch border, spreads via Culicoides midges.",
@@ -79245,7 +79245,7 @@
    "difficulty": "explorer",
    "prompt": "¿Cómo se transmite el virus Schmallenberg?",
    "options": [
-    "Por garrapatas",
+    "Por garrapatas duras",
     "Por alimento contaminado",
     "Solo por contacto directo",
     "Por jejenes Culicoides"
@@ -79269,10 +79269,10 @@
    "difficulty": "researcher",
    "prompt": "Why is Schmallenberg virus economically important despite mild disease in adults?",
    "options": [
-    "It kills all adult cattle",
-    "Infection in a critical period of gestation can cause abortion, stillbirth or malformed offspring",
-    "It contaminates milk with toxins",
-    "It causes blindness in adults"
+    "It kills most infected adult cattle",
+    "Fetal infection causes abortion or malformations",
+    "It contaminates milk with heat-stable toxins",
+    "It causes permanent blindness in adult sheep"
    ],
    "correctOptionIndex": 1,
    "explanation": "Adults show mild or no signs, but fetal infection causes losses, more so in sheep than cattle.",
@@ -79293,10 +79293,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué el virus Schmallenberg es económicamente importante pese a ser leve en adultos?",
    "options": [
-    "Mata a todo el ganado adulto",
-    "La infección en un período crítico de la gestación causa abortos, mortinatos o crías malformadas",
-    "Contamina la leche con toxinas",
-    "Causa ceguera en adultos"
+    "Mata a la mayoría del ganado adulto infectado",
+    "La infección fetal causa abortos o malformaciones",
+    "Contamina la leche con toxinas termoestables",
+    "Causa ceguera permanente en ovinos adultos"
    ],
    "correctOptionIndex": 1,
    "explanation": "Los adultos tienen signos leves o ninguno, pero la infección fetal causa pérdidas, más en ovinos que en bovinos.",
@@ -79317,10 +79317,10 @@
    "difficulty": "explorer",
    "prompt": "What stopped fecal shedding of feline coronavirus in cats in this study?",
    "options": [
-    "A short course of oral GS-441524 antiviral",
-    "Antibiotics",
-    "A rabies vaccine",
-    "A raw-meat diet"
+    "Oral GS-441524 for a few days",
+    "A long course of oral antibiotics",
+    "An intranasal FCoV vaccine",
+    "Switching to a raw-meat diet"
    ],
    "correctOptionIndex": 0,
    "explanation": "A 4–7-day course of GS-441524 stopped shedding; none of the treated households' cats later developed FIP.",
@@ -79341,10 +79341,10 @@
    "difficulty": "explorer",
    "prompt": "¿Qué detuvo la eliminación fecal del coronavirus felino en gatos en este estudio?",
    "options": [
-    "Un curso corto del antiviral oral GS-441524",
-    "Antibióticos",
-    "La vacuna antirrábica",
-    "Una dieta de carne cruda"
+    "GS-441524 oral por unos días",
+    "Un curso largo de antibióticos orales",
+    "Una vacuna intranasal contra el FCoV",
+    "Cambiar a una dieta de carne cruda"
    ],
    "correctOptionIndex": 0,
    "explanation": "Un curso de 4 a 7 días de GS-441524 frenó la eliminación; ningún gato de esos hogares desarrolló luego PIF.",
@@ -79365,10 +79365,10 @@
    "difficulty": "curious",
    "prompt": "What share of cats infected with feline coronavirus go on to develop FIP?",
    "options": [
-    "All of them",
-    "None",
+    "Nearly all of them",
+    "Fewer than 1%",
     "Up to about 14%",
-    "About 90%"
+    "About 60%"
    ],
    "correctOptionIndex": 2,
    "explanation": "Most FCoV infections are mild, but up to 14% develop potentially lethal FIP after weeks to months.",
@@ -79389,10 +79389,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué proporción de gatos infectados con coronavirus felino desarrolla PIF?",
    "options": [
-    "Todos",
-    "Ninguno",
-    "Hasta alrededor del 14%",
-    "Alrededor del 90%"
+    "Casi todos los gatos",
+    "Menos del 1%",
+    "Hasta cerca del 14%",
+    "Alrededor del 60%"
    ],
    "correctOptionIndex": 2,
    "explanation": "La mayoría de las infecciones son leves, pero hasta 14% desarrolla PIF potencialmente mortal tras semanas o meses.",
@@ -79413,10 +79413,10 @@
    "difficulty": "expert",
    "prompt": "What did this in vitro screen conclude about combining antivirals against FIP virus?",
    "options": [
-    "Combinations were always far better",
-    "No compound had any activity",
-    "Antibiotics worked best",
-    "Monotherapies were ultimately the most effective at inhibiting viral transcription"
+    "Combinations were clearly superior",
+    "No compound showed any activity",
+    "Antibiotics outperformed antivirals",
+    "Single drugs were the most effective"
    ],
    "correctOptionIndex": 3,
    "explanation": "26 compounds were active (e.g., GC376, GS-441524); some combinations showed limited synergy, but monotherapies were most effective.",
@@ -79437,10 +79437,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué concluyó este cribado in vitro sobre combinar antivirales contra el virus de la PIF?",
    "options": [
-    "Las combinaciones siempre fueron mucho mejores",
-    "Ningún compuesto tuvo actividad",
-    "Los antibióticos funcionaron mejor",
-    "Las monoterapias fueron finalmente las más eficaces para inhibir la transcripción viral"
+    "Las combinaciones fueron claramente superiores",
+    "Ningún compuesto mostró actividad",
+    "Los antibióticos superaron a los antivirales",
+    "Los fármacos solos fueron los más eficaces"
    ],
    "correctOptionIndex": 3,
    "explanation": "26 compuestos fueron activos (como GC376 y GS-441524); algunas combinaciones mostraron sinergia limitada, pero las monoterapias fueron las más eficaces.",
@@ -79461,10 +79461,10 @@
    "difficulty": "researcher",
    "prompt": "Why can recent Leptospira vaccination complicate diagnosis in dogs?",
    "options": [
-    "Vaccines cause leptospirosis",
-    "Vaccinated dogs cannot be tested",
-    "Vaccination can produce high MAT titers (≥1:800) that mimic infection",
-    "Vaccines destroy antibodies"
+    "The vaccine itself causes leptospirosis",
+    "Vaccinated dogs cannot be tested at all",
+    "Vaccine titers can mimic infection",
+    "The vaccine destroys existing antibodies"
    ],
    "correctOptionIndex": 2,
    "explanation": "Vaccine-induced titers vary and can be high, so a single titer may mislead; titers also do not predict protection.",
@@ -79485,10 +79485,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué una vacunación reciente contra Leptospira puede complicar el diagnóstico en perros?",
    "options": [
-    "La vacuna causa leptospirosis",
-    "No se puede analizar a perros vacunados",
-    "La vacunación puede dar títulos MAT altos (≥1:800) que simulan infección",
-    "La vacuna destruye anticuerpos"
+    "La propia vacuna causa leptospirosis",
+    "A los perros vacunados no se los puede analizar",
+    "Los títulos vacunales simulan infección",
+    "La vacuna destruye los anticuerpos existentes"
    ],
    "correctOptionIndex": 2,
    "explanation": "Los títulos vacunales varían y pueden ser altos, así que un único título puede confundir; además no predicen protección.",
@@ -79509,10 +79509,10 @@
    "difficulty": "expert",
    "prompt": "What did genetic analysis estimate about the start of the 2001 UK foot-and-mouth outbreak?",
    "options": [
-    "Livestock were first infected around 7 February 2001, matching clinical evidence",
-    "It began in 1995",
-    "It started in pigs in Spain",
-    "Its start could not be estimated"
+    "Around 7 February 2001",
+    "Around mid-1995",
+    "Around 30 September 2001",
+    "It could not be estimated"
    ],
    "correctOptionIndex": 0,
    "explanation": "Viral genomes accumulated ~1.5 substitutions per farm infection, enough to reconstruct transmission pathways.",
@@ -79533,10 +79533,10 @@
    "difficulty": "expert",
    "prompt": "¿Qué estimó el análisis genético sobre el comienzo del brote de fiebre aftosa del Reino Unido en 2001?",
    "options": [
-    "Que el ganado se infectó por primera vez alrededor del 7 de febrero de 2001, coincidiendo con la clínica",
-    "Que empezó en 1995",
-    "Que comenzó en cerdos en España",
-    "Que no se pudo estimar"
+    "Alrededor del 7 de febrero de 2001",
+    "A mediados de 1995",
+    "Alrededor del 30 de septiembre de 2001",
+    "No se pudo estimar"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los genomas acumularon ~1,5 sustituciones por granja infectada, suficiente para reconstruir las rutas de transmisión.",
@@ -79557,10 +79557,10 @@
    "difficulty": "researcher",
    "prompt": "Why could transmission pathways between farms be reconstructed from FMD virus genomes?",
    "options": [
-    "The virus never mutates",
+    "The virus never mutates during outbreaks",
     "Each farm had a different virus species",
-    "Farmers recorded every contact",
-    "The virus accumulated about 1.5 substitutions per farm infection"
+    "Farmers recorded every animal contact",
+    "The virus gained ~1.5 mutations per farm"
    ],
    "correctOptionIndex": 3,
    "explanation": "Rapid mutation of this RNA virus leaves a genetic trail linking farms.",
@@ -79581,10 +79581,10 @@
    "difficulty": "researcher",
    "prompt": "¿Por qué se pudieron reconstruir las rutas de transmisión entre granjas a partir de genomas del virus de la aftosa?",
    "options": [
-    "El virus nunca muta",
+    "El virus nunca muta durante los brotes",
     "Cada granja tenía una especie viral distinta",
     "Los productores registraron cada contacto",
-    "El virus acumuló ~1,5 sustituciones por granja infectada"
+    "El virus sumaba ~1,5 mutaciones por granja"
    ],
    "correctOptionIndex": 3,
    "explanation": "La rápida mutación de este virus ARN deja un rastro genético que conecta las granjas.",
@@ -79605,10 +79605,10 @@
    "difficulty": "explorer",
    "prompt": "During the 2006 bluetongue serotype 8 outbreak in northern Europe, which factor most affected disease incidence?",
    "options": [
-    "Animal breed",
+    "Breed",
     "Wind",
     "Farm size",
-    "Milk price"
+    "Herd age"
    ],
    "correctOptionIndex": 1,
    "explanation": "Wind carrying infected midges was the most important factor, along with land cover, rain, temperature and animal transport.",
@@ -79631,8 +79631,8 @@
    "options": [
     "La raza",
     "El viento",
-    "El tamaño del campo",
-    "El precio de la leche"
+    "El tamaño",
+    "La edad"
    ],
    "correctOptionIndex": 1,
    "explanation": "El viento que arrastraba jejenes infectados fue el factor más importante, junto con la cobertura del suelo, la lluvia, la temperatura y el transporte de animales.",
@@ -79653,10 +79653,10 @@
    "difficulty": "researcher",
    "prompt": "What did this study find about Toxoplasma oocyst re-shedding in previously infected cats?",
    "options": [
-    "Protection waned over time, so re-infected adult cats can shed oocysts again",
+    "Protection waned, so cats can shed again",
     "Cats shed oocysts only once in life",
-    "Adult cats never shed",
-    "Cats are not definitive hosts"
+    "Adult cats never shed any oocysts",
+    "Cats are not definitive hosts of T. gondii"
    ],
    "correctOptionIndex": 0,
    "explanation": "Protection fell from 90% at 12 months to ~25–33% at 24–36 months, especially with heterologous strains.",
@@ -79677,9 +79677,9 @@
    "difficulty": "researcher",
    "prompt": "¿Qué halló este estudio sobre la reeliminación de ooquistes de Toxoplasma en gatos ya infectados?",
    "options": [
-    "La protección disminuye con el tiempo, así que los gatos adultos reinfectados pueden volver a eliminar ooquistes",
-    "Los gatos eliminan ooquistes una sola vez en la vida",
-    "Los adultos nunca eliminan",
+    "La protección decae y pueden volver a eliminar",
+    "Los gatos eliminan ooquistes una sola vez",
+    "Los gatos adultos nunca eliminan ooquistes",
     "Los gatos no son huéspedes definitivos"
    ],
    "correctOptionIndex": 0,
@@ -79702,9 +79702,9 @@
    "prompt": "In an Italian field test, who ate most praziquantel baits against Echinococcus granulosus?",
    "options": [
     "Wild boars",
-    "Foxes",
-    "Not-owned (free-ranging) dogs",
-    "Badgers"
+    "Red foxes",
+    "Free-ranging dogs",
+    "Badgers and hedgehogs"
    ],
    "correctOptionIndex": 2,
    "explanation": "82% were eaten by the target not-owned dogs; double-layer baits even withstood drone drops from 25 m.",
@@ -79726,9 +79726,9 @@
    "prompt": "En una prueba de campo en Italia, ¿quién comió la mayoría de los cebos con praziquantel contra Echinococcus granulosus?",
    "options": [
     "Jabalíes",
-    "Zorros",
-    "Perros sin dueño (de libre circulación)",
-    "Tejones"
+    "Zorros rojos",
+    "Perros sueltos",
+    "Tejones y erizos"
    ],
    "correctOptionIndex": 2,
    "explanation": "El 82% lo consumieron los perros sin dueño objetivo; los cebos de doble capa resistieron incluso caídas desde drones a 25 m.",
@@ -79749,10 +79749,10 @@
    "difficulty": "curious",
    "prompt": "What causes cystic echinococcosis (hydatid disease)?",
    "options": [
-    "The larval stage of the tapeworm Echinococcus granulosus",
-    "A virus",
-    "A bacterium in water",
-    "A fungus in soil"
+    "Larvae of the tapeworm Echinococcus",
+    "A virus transmitted by dog bites",
+    "A bacterium found in drinking water",
+    "A fungus that lives in soil"
    ],
    "correctOptionIndex": 0,
    "explanation": "Dogs carry the adult tapeworm; deworming free-ranging dogs with praziquantel limits transmission.",
@@ -79773,10 +79773,10 @@
    "difficulty": "curious",
    "prompt": "¿Qué causa la equinococosis quística (hidatidosis)?",
    "options": [
-    "El estadio larval de la tenia Echinococcus granulosus",
-    "Un virus",
-    "Una bacteria del agua",
-    "Un hongo del suelo"
+    "Larvas de la tenia Echinococcus",
+    "Un virus transmitido por mordeduras",
+    "Una bacteria del agua de bebida",
+    "Un hongo que vive en el suelo"
    ],
    "correctOptionIndex": 0,
    "explanation": "Los perros portan la tenia adulta; desparasitar a los perros sueltos con praziquantel limita la transmisión.",
@@ -79797,10 +79797,10 @@
    "difficulty": "researcher",
    "prompt": "Are healthy domestic cats an important reservoir of canine parvovirus?",
    "options": [
-    "Yes, all cats shed CPV",
-    "Yes, cats are the main source of dog infections",
-    "Cats cannot be infected by any parvovirus",
-    "No; CPV shedding by cats without diarrhea was uncommon"
+    "Yes, most cats shed CPV continuously",
+    "Yes, cats are the main source for dogs",
+    "Cats cannot be infected by parvoviruses",
+    "No; CPV shedding by cats was uncommon"
    ],
    "correctOptionIndex": 3,
    "explanation": "Most parvovirus detected in cats was feline panleukopenia virus; CPV was rare.",
@@ -79821,10 +79821,10 @@
    "difficulty": "researcher",
    "prompt": "¿Son los gatos domésticos sanos un reservorio importante del parvovirus canino?",
    "options": [
-    "Sí, todos lo eliminan",
-    "Sí, son la fuente principal para los perros",
-    "Los gatos no se infectan con ningún parvovirus",
-    "No; la eliminación de PVC en gatos sin diarrea fue poco frecuente"
+    "Sí, la mayoría lo elimina en forma continua",
+    "Sí, son la principal fuente para los perros",
+    "Los gatos no se infectan con parvovirus",
+    "No; la eliminación por gatos fue poco común"
    ],
    "correctOptionIndex": 3,
    "explanation": "La mayor parte del parvovirus hallado en gatos era el de la panleucopenia felina; el canino fue raro.",
