@@ -16,3 +16,8 @@ QUESTION_SERVICE_TOKEN =
 QUESTION_BANK_BASE = raw.githubusercontent.com/juanmarcosmoreno-arch/Trinka/main/Content
 
 #include? "Secrets.xcconfig"
+
+// Xcode 26 builds modules "explicitly" by default; on some setups (stale caches, SDK/OS
+// mismatches) that fails with "Clang dependency scanning failure". Implicit modules avoid it.
+SWIFT_ENABLE_EXPLICIT_MODULES = NO
+CLANG_ENABLE_EXPLICIT_MODULES = NO
