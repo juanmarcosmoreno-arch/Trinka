@@ -18,14 +18,14 @@ struct DiscoverView: View {
                 VStack(alignment: .leading, spacing: Theme.Spacing.l) {
                     AskPubMedCard()
                     categoryPicker
-                    if model.canGenerateTopicQuizzes, discover.topic.trimmingCharacters(in: .whitespaces).count >= 3 {
-                        Button {
-                            topicQuizTopic = TopicSeed(topic: discover.topic)
-                        } label: {
-                            Label(L10n.tr("topic.fromSearch", discover.topic), systemImage: "sparkles")
-                        }
-                        .buttonStyle(.trinkaSecondary)
+                    Button {
+                        topicQuizTopic = TopicSeed(topic: discover.topic)
+                    } label: {
+                        let topic = discover.topic.trimmingCharacters(in: .whitespaces)
+                        Label(topic.count >= 3 ? L10n.tr("topic.fromSearch", topic) : L10n.tr("topic.title"),
+                              systemImage: "sparkles")
                     }
+                    .buttonStyle(.trinkaSecondary)
                     content
                 }
                 .padding(Theme.Spacing.l)

@@ -98,7 +98,7 @@ struct TopicQuizView: View {
             .buttonStyle(.trinkaPrimary)
             .disabled(topic.trimmingCharacters(in: .whitespaces).count < 3 || !model.canGenerateTopicQuizzes)
             if !model.canGenerateTopicQuizzes {
-                Text(L10n.tr("topic.notConfigured")).font(.footnote).foregroundStyle(Theme.error)
+                Text(L10n.tr(OnDeviceAI.statusMessageKey)).font(.footnote).foregroundStyle(Theme.error)
             }
         case let .working(progress):
             HStack(spacing: Theme.Spacing.m) {
