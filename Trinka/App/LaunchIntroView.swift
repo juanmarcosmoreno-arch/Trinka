@@ -35,15 +35,11 @@ struct LaunchIntroView: View {
                 }
             }
             .aspectRatio(16 / 9, contentMode: .fit)
-            // Soften the video's left/right edges into the background.
-            .mask(
-                LinearGradient(stops: [
-                    .init(color: .clear, location: 0),
-                    .init(color: .black, location: 0.06),
-                    .init(color: .black, location: 0.94),
-                    .init(color: .clear, location: 1),
-                ], startPoint: .leading, endPoint: .trailing)
-            )
+            // Feather all four edges into the background, so the light flares that reach the
+            // video's border don't draw a visible frame. The logo spans ~22–80% of the width
+            // and ~37–63% of the height, so it stays fully opaque.
+            .mask(Self.edgeFade(.leading, .trailing, inset: 0.18))
+            .mask(Self.edgeFade(.top, .bottom, inset: 0.30))
             .accessibilityHidden(true)
 
             VStack {
@@ -65,6 +61,20 @@ struct LaunchIntroView: View {
         .onReceive(NotificationCenter.default.publisher(for: AVPlayerItem.didPlayToEndTimeNotification)) { notification in
             if (notification.object as? AVPlayerItem) === player?.currentItem { finish() }
         }
+    }
+
+    /// Opaque in the middle, eased to clear over `inset` (fraction of the length) at each end.
+    private static func edgeFade(_ start: UnitPoint, _ end: UnitPoint, inset: CGFloat) -> LinearGradient {
+        LinearGradient(stops: [
+            .init(color: .clear, location: 0),
+            .init(color: .black.opacity(0.25), location: inset * 0.4),
+            .init(color: .black.opacity(0.75), location: inset * 0.7),
+            .init(color: .black, location: inset),
+            .init(color: .black, location: 1 - inset),
+            .init(color: .black.opacity(0.75), location: 1 - inset * 0.7),
+            .init(color: .black.opacity(0.25), location: 1 - inset * 0.4),
+            .init(color: .clear, location: 1),
+        ], startPoint: start, endPoint: end)
     }
 
     private func start() async {
