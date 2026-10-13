@@ -152,6 +152,36 @@ final class QuizEngineTests: XCTestCase {
         XCTAssertFalse(record.isCorrect)
     }
 
+    func testReadingTimeScalesWithQuestionLengthWithinBounds() throws {
+        let bank = try SeedQuestionBank.load()
+        let questions = bank.questions(in: .es)
+        let limits = questions.map { QuestionTiming.readingTime.limit(for: $0) }
+        XCTAssertTrue(limits.allSatisfy { QuestionTiming.readingTimeRange.contains($0) })
+        // Longer questions never get less time than shorter ones.
+        let byLength = questions.sorted { ($0.prompt + $0.options.joined()).count < ($1.prompt + $1.options.joined()).count }
+        let shortest = QuestionTiming.readingTime.limit(for: byLength.first!)
+        let longest = QuestionTiming.readingTime.limit(for: byLength.last!)
+        XCTAssertLessThan(shortest, longest)
+    }
+
+    func testCompetitiveSessionsAreAlwaysTimed() {
+        XCTAssertEqual(QuestionTiming.forSession(.daily, practice: nil), .readingTime)
+        XCTAssertEqual(QuestionTiming.forSession(.challenge, practice: 15), .readingTime)
+        XCTAssertNil(QuestionTiming.forSession(.explore, practice: nil))
+        XCTAssertEqual(QuestionTiming.forSession(.quick, practice: 30), .fixed(30))
+    }
+
+    func testReadingTimeEngineUsesPerQuestionLimit() throws {
+        let bank = try SeedQuestionBank.load()
+        let questions = Array(bank.questions(in: .en).prefix(2))
+        let start = Date(timeIntervalSince1970: 1_000)
+        let engine = QuizEngine(questions: questions, kind: .challenge, origin: .iPhone, language: .en,
+                                timing: .readingTime, startedAt: start)
+        let limit = try XCTUnwrap(engine.timeLimit)
+        XCTAssertEqual(limit, QuestionTiming.readingTime.limit(for: questions[0]))
+        XCTAssertEqual(engine.remainingTime(at: start.addingTimeInterval(5)), limit - 5)
+    }
+
     func testUnverifiedQuestionsAreNeverPresented() throws {
         let bank = try SeedQuestionBank.load()
         var question = bank.questions(in: .en)[0]

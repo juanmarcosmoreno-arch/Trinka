@@ -54,7 +54,7 @@
 "home.featured" = "Featured discovery";
 
 "daily.title" = "Daily Challenge";
-"daily.subtitle" = "%ld questions from real research.";
+"daily.subtitle" = "%ld timed questions from real research.";
 "daily.completed" = "Done! %ld of %ld correct today.";
 "daily.play" = "Play";
 "daily.replay" = "Practice again";
@@ -183,7 +183,7 @@
 "settings.difficulty" = "Your level";
 "settings.timer" = "Question timer";
 "settings.timer.seconds" = "%ld seconds per question";
-"settings.timer.footer" = "Optional. Scores never depend on speed.";
+"settings.timer.footer" = "For your practice. The daily challenge and friend challenges are always timed, with time to read each question but not to look it up. Scores never depend on speed.";
 "settings.watch" = "Apple Watch";
 "settings.watch.send" = "Send today's challenge to Apple Watch";
 "settings.watch.sent" = "Sent to Apple Watch";
@@ -216,7 +216,7 @@
 "tab.compete" = "Compete";
 
 "compete.title" = "Compete";
-"compete.intro" = "Challenge friends or a group: everyone plays the same questions, each in their own language. Share the code, then share your result to build the leaderboard — no account needed.";
+"compete.intro" = "Challenge friends or a group: everyone plays the same questions, each in their own language. Each question is timed: enough to read it, not to look it up. Share the code, then share your result to build the leaderboard — no account needed.";
 "compete.name" = "Your name in challenges";
 "compete.name.placeholder" = "e.g. Ana";
 "compete.defaultName" = "Player";

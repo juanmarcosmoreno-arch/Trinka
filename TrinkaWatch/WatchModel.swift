@@ -67,12 +67,13 @@ final class WatchModel {
         let questions = todaysQuestions
         guard !questions.isEmpty else { return }
         // After the daily challenge is done, replays are practice ("quick") sessions.
+        let kind: SessionKind = dailyCompleted ? .quick : .daily
         let engine = QuizEngine(
             questions: questions,
-            kind: dailyCompleted ? .quick : .daily,
+            kind: kind,
             origin: .watch,
             language: L10n.language,
-            timeLimit: store.settings.timeLimit
+            timing: .forSession(kind, practice: store.settings.timeLimit)
         )
         activeQuiz = WatchQuizLaunch(session: QuizSession(engine: engine))
     }

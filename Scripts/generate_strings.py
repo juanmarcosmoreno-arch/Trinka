@@ -60,7 +60,7 @@ S = {
 "home.featured": ("Featured discovery", "Descubrimiento destacado"),
 
 "daily.title": ("Daily Challenge", "Desafío del día"),
-"daily.subtitle": ("%ld questions from real research.", "%ld preguntas basadas en investigaciones reales."),
+"daily.subtitle": ("%ld timed questions from real research.", "%ld preguntas con tiempo, basadas en investigaciones reales."),
 "daily.completed": ("Done! %ld of %ld correct today.", "¡Hecho! %ld de %ld correctas hoy."),
 "daily.play": ("Play", "Jugar"),
 "daily.replay": ("Practice again", "Practicar de nuevo"),
@@ -185,7 +185,7 @@ S = {
 "settings.difficulty": ("Your level", "Tu nivel"),
 "settings.timer": ("Question timer", "Temporizador por pregunta"),
 "settings.timer.seconds": ("%ld seconds per question", "%ld segundos por pregunta"),
-"settings.timer.footer": ("Optional. Scores never depend on speed.", "Opcional. La puntuación nunca depende de la velocidad."),
+"settings.timer.footer": ("For your practice. The daily challenge and friend challenges are always timed, with time to read each question but not to look it up. Scores never depend on speed.", "Para tu práctica. El desafío del día y los retos entre amigos siempre tienen tiempo: alcanza para leer cada pregunta, no para buscarla. La puntuación nunca depende de la velocidad."),
 "settings.watch": ("Apple Watch", "Apple Watch"),
 "settings.watch.send": ("Send today's challenge to Apple Watch", "Enviar el desafío de hoy al Apple Watch"),
 "settings.watch.sent": ("Sent to Apple Watch", "Enviado al Apple Watch"),
@@ -217,7 +217,7 @@ S = {
 
 "tab.compete": ("Compete", "Competir"),
 "compete.title": ("Compete", "Competir"),
-"compete.intro": ("Challenge friends or a group: everyone plays the same questions, each in their own language. Share the code, then share your result to build the leaderboard — no account needed.", "Reta a amigos o a un grupo: todos juegan las mismas preguntas, cada uno en su idioma. Comparte el código y luego tu resultado para armar la clasificación, sin necesidad de cuenta."),
+"compete.intro": ("Challenge friends or a group: everyone plays the same questions, each in their own language. Each question is timed: enough to read it, not to look it up. Share the code, then share your result to build the leaderboard — no account needed.", "Reta a amigos o a un grupo: todos juegan las mismas preguntas, cada uno en su idioma. Cada pregunta tiene tiempo: alcanza para leerla, no para buscarla. Comparte el código y luego tu resultado para armar la clasificación, sin necesidad de cuenta."),
 "compete.name": ("Your name in challenges", "Tu nombre en los retos"),
 "compete.name.placeholder": ("e.g. Ana", "p. ej. Ana"),
 "compete.defaultName": ("Player", "Jugador"),

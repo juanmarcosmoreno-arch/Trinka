@@ -52,7 +52,7 @@ cd Packages/TrinkaKit && swift test
 | Friend challenges by code / group leaderboard (no account) | ✓ | |
 | Light / dark / follow system | ✓ | (always dark) |
 | English / Spanish | ✓ | ✓ |
-| Haptics, optional timer, VoiceOver labels, Dynamic Type, Reduce Motion | ✓ | ✓ |
+| Haptics, practice timer (optional) and reading-time timer in daily and friend challenges, VoiceOver labels, Dynamic Type, Reduce Motion | ✓ | ✓ |
 
 ## Architecture
 

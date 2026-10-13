@@ -54,7 +54,7 @@
 "home.featured" = "Descubrimiento destacado";
 
 "daily.title" = "Desafío del día";
-"daily.subtitle" = "%ld preguntas basadas en investigaciones reales.";
+"daily.subtitle" = "%ld preguntas con tiempo, basadas en investigaciones reales.";
 "daily.completed" = "¡Hecho! %ld de %ld correctas hoy.";
 "daily.play" = "Jugar";
 "daily.replay" = "Practicar de nuevo";
@@ -183,7 +183,7 @@
 "settings.difficulty" = "Tu nivel";
 "settings.timer" = "Temporizador por pregunta";
 "settings.timer.seconds" = "%ld segundos por pregunta";
-"settings.timer.footer" = "Opcional. La puntuación nunca depende de la velocidad.";
+"settings.timer.footer" = "Para tu práctica. El desafío del día y los retos entre amigos siempre tienen tiempo: alcanza para leer cada pregunta, no para buscarla. La puntuación nunca depende de la velocidad.";
 "settings.watch" = "Apple Watch";
 "settings.watch.send" = "Enviar el desafío de hoy al Apple Watch";
 "settings.watch.sent" = "Enviado al Apple Watch";
@@ -216,7 +216,7 @@
 "tab.compete" = "Competir";
 
 "compete.title" = "Competir";
-"compete.intro" = "Reta a amigos o a un grupo: todos juegan las mismas preguntas, cada uno en su idioma. Comparte el código y luego tu resultado para armar la clasificación, sin necesidad de cuenta.";
+"compete.intro" = "Reta a amigos o a un grupo: todos juegan las mismas preguntas, cada uno en su idioma. Cada pregunta tiene tiempo: alcanza para leerla, no para buscarla. Comparte el código y luego tu resultado para armar la clasificación, sin necesidad de cuenta.";
 "compete.name" = "Tu nombre en los retos";
 "compete.name.placeholder" = "p. ej. Ana";
 "compete.defaultName" = "Jugador";

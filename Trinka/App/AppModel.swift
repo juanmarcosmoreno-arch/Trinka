@@ -222,7 +222,7 @@ final class AppModel {
         guard !questions.isEmpty else { return }
         let engine = QuizEngine(
             questions: questions, kind: kind, origin: .iPhone, language: language,
-            timeLimit: store.settings.timeLimit
+            timing: .forSession(kind, practice: store.settings.timeLimit)
         )
         activeQuiz = QuizLaunch(session: QuizSession(engine: engine), title: title, challenge: challenge)
     }

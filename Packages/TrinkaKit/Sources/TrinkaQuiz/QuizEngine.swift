@@ -1,6 +1,41 @@
 import Foundation
 import TrinkaCore
 
+/// How long each question may stay on screen.
+public enum QuestionTiming: Equatable, Sendable {
+    /// The same limit for every question (the player's optional practice timer).
+    case fixed(TimeInterval)
+    /// Enough time to read the question and its options calmly, but not to look the answer up.
+    /// Used for the daily challenge and friend challenges so everyone plays under the same rules.
+    case readingTime
+
+    /// Shortest and longest reading-time limits, in seconds.
+    public static let readingTimeRange: ClosedRange<TimeInterval> = 25...40
+
+    /// Time allowed for `question`.
+    public func limit(for question: Question) -> TimeInterval {
+        switch self {
+        case let .fixed(seconds):
+            return seconds
+        case .readingTime:
+            // About 18 s to think plus ~0.3 s per word read (prompt and all options).
+            let text = ([question.prompt] + question.options).joined(separator: " ")
+            let words = text.split(whereSeparator: \.isWhitespace).count
+            let seconds = (18 + 0.3 * Double(words)).rounded()
+            return min(max(seconds, Self.readingTimeRange.lowerBound), Self.readingTimeRange.upperBound)
+        }
+    }
+
+    /// The timing a session of `kind` must use. Competitive sessions are always timed by reading
+    /// time; practice uses the player's own setting (`practice`, `nil` for no timer).
+    public static func forSession(_ kind: SessionKind, practice: TimeInterval?) -> QuestionTiming? {
+        switch kind {
+        case .daily, .challenge: .readingTime
+        case .explore, .quick: practice.map(QuestionTiming.fixed)
+        }
+    }
+}
+
 /// State machine for one quiz session.
 ///
 /// A value type with no UI or timers of its own: callers pass the current time in, which
@@ -20,8 +55,8 @@ public struct QuizEngine: Sendable {
     public let origin: DeviceOrigin
     public let language: AppLanguage
     public let questions: [Question]
-    /// Optional per-question time limit.
-    public let timeLimit: TimeInterval?
+    /// Optional per-question timing.
+    public let timing: QuestionTiming?
     public let startedAt: Date
 
     public private(set) var currentIndex: Int = 0
@@ -35,7 +70,7 @@ public struct QuizEngine: Sendable {
         kind: SessionKind,
         origin: DeviceOrigin,
         language: AppLanguage,
-        timeLimit: TimeInterval? = nil,
+        timing: QuestionTiming?,
         startedAt: Date = Date()
     ) {
         // Defensive: never present a question that isn't verified against its source.
@@ -43,11 +78,34 @@ public struct QuizEngine: Sendable {
         self.kind = kind
         self.origin = origin
         self.language = language
-        self.timeLimit = timeLimit.flatMap { $0 > 0 ? $0 : nil }
+        if case let .fixed(seconds) = timing, seconds <= 0 {
+            self.timing = nil
+        } else {
+            self.timing = timing
+        }
         self.startedAt = startedAt
         self.questionShownAt = startedAt
         self.phase = self.questions.isEmpty ? .finished : .answering
         if self.questions.isEmpty { finishedAt = startedAt }
+    }
+
+    /// Same as above with a fixed per-question limit (`nil` or ≤ 0 for no timer).
+    public init(
+        questions: [Question],
+        kind: SessionKind,
+        origin: DeviceOrigin,
+        language: AppLanguage,
+        timeLimit: TimeInterval? = nil,
+        startedAt: Date = Date()
+    ) {
+        self.init(questions: questions, kind: kind, origin: origin, language: language,
+                  timing: timeLimit.map(QuestionTiming.fixed), startedAt: startedAt)
+    }
+
+    /// Time limit for the current question, or `nil` without a timer.
+    public var timeLimit: TimeInterval? {
+        guard let timing, let question = currentQuestion else { return nil }
+        return timing.limit(for: question)
     }
 
     public var currentQuestion: Question? {
