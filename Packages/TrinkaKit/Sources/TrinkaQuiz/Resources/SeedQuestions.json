@@ -1,5 +1,5 @@
 {
- "version": 22,
+ "version": 23,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -3949,6 +3949,266 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK441946"
+  },
+  {
+   "pmid": "35065702",
+   "title": "Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis.",
+   "authors": [
+    "Antimicrobial Resistance Collaborators"
+   ],
+   "journal": "Lancet (London, England)",
+   "year": 2022,
+   "doi": "10.1016/S0140-6736(21)02724-0",
+   "abstract": "BACKGROUND: Antimicrobial resistance (AMR) poses a major threat to human health around the world. Previous publications have estimated the effect of AMR on incidence, deaths, hospital length of stay, and health-care costs for specific pathogen-drug combinations in select locations. To our knowledge, this study presents the most comprehensive estimates of AMR burden to date.\nMETHODS: We estimated deaths and disability-adjusted life-years (DALYs) attributable to and associated with bacterial AMR for 23 pathogens and 88 pathogen-drug combinations in 204 countries and territories in 2019. We obtained data from systematic literature reviews, hospital systems, surveillance systems, and other sources, covering 471 million individual records or isolates and 7585 study-location-years. We used predictive statistical modelling to produce estimates of AMR burden for all locations, including for locations with no data. Our approach can be divided into five broad components: number of deaths where infection played a role, proportion of infectious deaths attributable to a given infectious syndrome, proportion of infectious syndrome deaths attributable to a given pathogen, the percentage of a given pathogen resistant to an antibiotic of interest, and the excess risk of death or duration of an infection associated with this resistance. Using these components, we estimated disease burden based on two counterfactuals: deaths attributable to AMR (based on an alternative scenario in which all drug-resistant infections were replaced by drug-susceptible infections), and deaths associated with AMR (based on an alternative scenario in which all drug-resistant infections were replaced by no infection). We generated 95% uncertainty intervals (UIs) for final estimates as the 25th and 975th ordered values across 1000 posterior draws, and models were cross-validated for out-of-sample predictive validity. We present final estimates aggregated to the global and regional level.\nFINDINGS: On the basis of our predictive statistical models, there were an estimated 4·95 million (3·62-6·57) deaths associated with bacterial AMR in 2019, including 1·27 million (95% UI 0·911-1·71) deaths attributable to bacterial AMR. At the regional level, we estimated the all-age death rate attributable to resistance to be highest in western sub-Saharan Africa, at 27·3 deaths per 100 000 (20·9-35·3), and lowest in Australasia, at 6·5 deaths (4·3-9·4) per 100 000. Lower respiratory infections accounted for more than 1·5 million deaths associated with resistance in 2019, making it the most burdensome infectious syndrome. The six leading pathogens for deaths associated with resistance (Escherichia coli, followed by Staphylococcus aureus, Klebsiella pneumoniae, Streptococcus pneumoniae, Acinetobacter baumannii, and Pseudomonas aeruginosa) were responsible for 929 000 (660 000-1 270 000) deaths attributable to AMR and 3·57 million (2·62-4·78) deaths associated with AMR in 2019. One pathogen-drug combination, meticillin-resistant S aureus, caused more than 100 000 deaths attributable to AMR in 2019, while six more each caused 50 000-100 000 deaths: multidrug-resistant excluding extensively drug-resistant tuberculosis, third-generation cephalosporin-resistant E coli, carbapenem-resistant A baumannii, fluoroquinolone-resistant E coli, carbapenem-resistant K pneumoniae, and third-generation cephalosporin-resistant K pneumoniae.\nINTERPRETATION: To our knowledge, this study provides the first comprehensive assessment of the global burden of AMR, as well as an evaluation of the availability of data. AMR is a leading cause of death around the world, with the highest burdens in low-resource settings. Understanding the burden of AMR and the leading pathogen-drug combinations contributing to it is crucial to making informed and location-specific policy decisions, particularly about infection prevention and control programmes, access to essential antibiotics, and research and development of new vaccines and antibiotics. There are serious data gaps in many low-income settings, emphasising the need to expand microbiology laboratory capacity and data collection systems to improve our understanding of this important human health threat.\nFUNDING: Bill & Melinda Gates Foundation, Wellcome Trust, and Department of Health and Social Care using UK aid funding managed by the Fleming Fund.",
+   "publicationTypes": [
+    "Journal Article",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "23323867",
+   "title": "Duodenal infusion of donor feces for recurrent Clostridium difficile.",
+   "authors": [
+    "van Nood E",
+    "Vrieze A",
+    "Nieuwdorp M",
+    "Fuentes S",
+    "Zoetendal EG",
+    "de Vos WM",
+    "Visser CE",
+    "Kuijper EJ",
+    "Bartelsman JF",
+    "Tijssen JG",
+    "Speelman P",
+    "Dijkgraaf MG",
+    "Keller JJ"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2013,
+   "doi": "10.1056/NEJMoa1205037",
+   "abstract": "BACKGROUND: Recurrent Clostridium difficile infection is difficult to treat, and failure rates for antibiotic therapy are high. We studied the effect of duodenal infusion of donor feces in patients with recurrent C. difficile infection.\nMETHODS: We randomly assigned patients to receive one of three therapies: an initial vancomycin regimen (500 mg orally four times per day for 4 days), followed by bowel lavage and subsequent infusion of a solution of donor feces through a nasoduodenal tube; a standard vancomycin regimen (500 mg orally four times per day for 14 days); or a standard vancomycin regimen with bowel lavage. The primary end point was the resolution of diarrhea associated with C. difficile infection without relapse after 10 weeks.\nRESULTS: The study was stopped after an interim analysis. Of 16 patients in the infusion group, 13 (81%) had resolution of C. difficile-associated diarrhea after the first infusion. The 3 remaining patients received a second infusion with feces from a different donor, with resolution in 2 patients. Resolution of C. difficile infection occurred in 4 of 13 patients (31%) receiving vancomycin alone and in 3 of 13 patients (23%) receiving vancomycin with bowel lavage (P<0.001 for both comparisons with the infusion group). No significant differences in adverse events among the three study groups were observed except for mild diarrhea and abdominal cramping in the infusion group on the infusion day. After donor-feces infusion, patients showed increased fecal bacterial diversity, similar to that in healthy donors, with an increase in Bacteroidetes species and clostridium clusters IV and XIVa and a decrease in Proteobacteria species.\nCONCLUSIONS: The infusion of donor feces was significantly more effective for the treatment of recurrent C. difficile infection than the use of vancomycin. (Funded by the Netherlands Organization for Health Research and Development and the Netherlands Organization for Scientific Research; Netherlands Trial Register number, NTR1177.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34107180",
+   "title": "Efficacy of Wolbachia-Infected Mosquito Deployments for the Control of Dengue.",
+   "authors": [
+    "Utarini A",
+    "Indriani C",
+    "Ahmad RA",
+    "Tantowijoyo W",
+    "Arguni E",
+    "Ansari MR",
+    "Supriyati E",
+    "Wardana DS",
+    "Meitika Y",
+    "Ernesia I",
+    "Nurhayati I",
+    "Prabowo E",
+    "Andari B",
+    "Green BR",
+    "Hodgson L",
+    "Cutcher Z",
+    "Rancès E",
+    "Ryan PA",
+    "O'Neill SL",
+    "Dufault SM",
+    "Tanamas SK",
+    "Jewell NP",
+    "Anders KL",
+    "Simmons CP",
+    "AWED Study Group"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2021,
+   "doi": "10.1056/NEJMoa2030243",
+   "abstract": "BACKGROUND: Aedes aegypti mosquitoes infected with the wMel strain of Wolbachia pipientis are less susceptible than wild-type A. aegypti to dengue virus infection.\nMETHODS: We conducted a cluster-randomized trial involving releases of wMel-infected A. aegypti mosquitoes for the control of dengue in Yogyakarta, Indonesia. We randomly assigned 12 geographic clusters to receive deployments of wMel-infected A. aegypti (intervention clusters) and 12 clusters to receive no deployments (control clusters). All clusters practiced local mosquito-control measures as usual. A test-negative design was used to assess the efficacy of the intervention. Patients with acute undifferentiated fever who presented to local primary care clinics and were 3 to 45 years of age were recruited. Laboratory testing was used to identify participants who had virologically confirmed dengue (VCD) and those who were test-negative controls. The primary end point was symptomatic VCD of any severity caused by any dengue virus serotype.\nRESULTS: After successful introgression of wMel into the intervention clusters, 8144 participants were enrolled; 3721 lived in intervention clusters, and 4423 lived in control clusters. In the intention-to-treat analysis, VCD occurred in 67 of 2905 participants (2.3%) in the intervention clusters and in 318 of 3401 (9.4%) in the control clusters (aggregate odds ratio for VCD, 0.23; 95% confidence interval [CI], 0.15 to 0.35; P = 0.004). The protective efficacy of the intervention was 77.1% (95% CI, 65.3 to 84.9) and was similar against the four dengue virus serotypes. The incidence of hospitalization for VCD was lower among participants who lived in intervention clusters (13 of 2905 participants [0.4%]) than among those who lived in control clusters (102 of 3401 [3.0%]) (protective efficacy, 86.2%; 95% CI, 66.2 to 94.3).\nCONCLUSIONS: Introgression of wMel into A. aegypti populations was effective in reducing the incidence of symptomatic dengue and resulted in fewer hospitalizations for dengue among the participants. (Funded by the Tahija Foundation and others; AWED ClinicalTrials.gov number, NCT03055585; Indonesia Registry number, INA-A7OB6TW.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "21091279",
+   "title": "Preexposure chemoprophylaxis for HIV prevention in men who have sex with men.",
+   "authors": [
+    "Grant RM",
+    "Lama JR",
+    "Anderson PL",
+    "McMahan V",
+    "Liu AY",
+    "Vargas L",
+    "Goicochea P",
+    "Casapía M",
+    "Guanira-Carranza JV",
+    "Ramirez-Cardich ME",
+    "Montoya-Herrera O",
+    "Fernández T",
+    "Veloso VG",
+    "Buchbinder SP",
+    "Chariyalertsak S",
+    "Schechter M",
+    "Bekker LG",
+    "Mayer KH",
+    "Kallás EG",
+    "Amico KR",
+    "Mulligan K",
+    "Bushman LR",
+    "Hance RJ",
+    "Ganoza C",
+    "Defechereux P",
+    "Postle B",
+    "Wang F",
+    "McConnell JJ",
+    "Zheng JH",
+    "Lee J",
+    "Rooney JF",
+    "Jaffe HS",
+    "Martinez AI",
+    "Burns DN",
+    "Glidden DV",
+    "iPrEx Study Team"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2010,
+   "doi": "10.1056/NEJMoa1011205",
+   "abstract": "BACKGROUND: Antiretroviral chemoprophylaxis before exposure is a promising approach for the prevention of human immunodeficiency virus (HIV) acquisition.\nMETHODS: We randomly assigned 2499 HIV-seronegative men or transgender women who have sex with men to receive a combination of two oral antiretroviral drugs, emtricitabine and tenofovir disoproxil fumarate (FTC-TDF), or placebo once daily. All subjects received HIV testing, risk-reduction counseling, condoms, and management of sexually transmitted infections.\nRESULTS: The study subjects were followed for 3324 person-years (median, 1.2 years; maximum, 2.8 years). Of these subjects, 10 were found to have been infected with HIV at enrollment, and 100 became infected during follow-up (36 in the FTC-TDF group and 64 in the placebo group), indicating a 44% reduction in the incidence of HIV (95% confidence interval, 15 to 63; P=0.005). In the FTC-TDF group, the study drug was detected in 22 of 43 of seronegative subjects (51%) and in 3 of 34 HIV-infected subjects (9%) (P<0.001). Nausea was reported more frequently during the first 4 weeks in the FTC-TDF group than in the placebo group (P<0.001). The two groups had similar rates of serious adverse events (P=0.57).\nCONCLUSIONS: Oral FTC-TDF provided protection against the acquisition of HIV infection among the subjects. Detectable blood levels strongly correlated with the prophylactic effect. (Funded by the National Institutes of Health and the Bill and Melinda Gates Foundation; ClinicalTrials.gov number, NCT00458393.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "21767103",
+   "title": "Prevention of HIV-1 infection with early antiretroviral therapy.",
+   "authors": [
+    "Cohen MS",
+    "Chen YQ",
+    "McCauley M",
+    "Gamble T",
+    "Hosseinipour MC",
+    "Kumarasamy N",
+    "Hakim JG",
+    "Kumwenda J",
+    "Grinsztejn B",
+    "Pilotto JH",
+    "Godbole SV",
+    "Mehendale S",
+    "Chariyalertsak S",
+    "Santos BR",
+    "Mayer KH",
+    "Hoffman IF",
+    "Eshleman SH",
+    "Piwowar-Manning E",
+    "Wang L",
+    "Makhema J",
+    "Mills LA",
+    "de Bruyn G",
+    "Sanne I",
+    "Eron J",
+    "Gallant J",
+    "Havlir D",
+    "Swindells S",
+    "Ribaudo H",
+    "Elharrar V",
+    "Burns D",
+    "Taha TE",
+    "Nielsen-Saines K",
+    "Celentano D",
+    "Essex M",
+    "Fleming TR",
+    "HPTN 052 Study Team"
+   ],
+   "journal": "The New England journal of medicine",
+   "year": 2011,
+   "doi": "10.1056/NEJMoa1105243",
+   "abstract": "BACKGROUND: Antiretroviral therapy that reduces viral replication could limit the transmission of human immunodeficiency virus type 1 (HIV-1) in serodiscordant couples.\nMETHODS: In nine countries, we enrolled 1763 couples in which one partner was HIV-1-positive and the other was HIV-1-negative; 54% of the subjects were from Africa, and 50% of infected partners were men. HIV-1-infected subjects with CD4 counts between 350 and 550 cells per cubic millimeter were randomly assigned in a 1:1 ratio to receive antiretroviral therapy either immediately (early therapy) or after a decline in the CD4 count or the onset of HIV-1-related symptoms (delayed therapy). The primary prevention end point was linked HIV-1 transmission in HIV-1-negative partners. The primary clinical end point was the earliest occurrence of pulmonary tuberculosis, severe bacterial infection, a World Health Organization stage 4 event, or death.\nRESULTS: As of February 21, 2011, a total of 39 HIV-1 transmissions were observed (incidence rate, 1.2 per 100 person-years; 95% confidence interval [CI], 0.9 to 1.7); of these, 28 were virologically linked to the infected partner (incidence rate, 0.9 per 100 person-years, 95% CI, 0.6 to 1.3). Of the 28 linked transmissions, only 1 occurred in the early-therapy group (hazard ratio, 0.04; 95% CI, 0.01 to 0.27; P<0.001). Subjects receiving early therapy had fewer treatment end points (hazard ratio, 0.59; 95% CI, 0.40 to 0.88; P=0.01).\nCONCLUSIONS: The early initiation of antiretroviral therapy reduced rates of sexual transmission of HIV-1 and clinical events, indicating both personal and public health benefits from such therapy. (Funded by the National Institute of Allergy and Infectious Diseases and others; HPTN 052 ClinicalTrials.gov number, NCT00074581.).",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38310910",
+   "title": "Safety and efficacy of malaria vaccine candidate R21/Matrix-M in African children: a multicentre, double-blind, randomised, phase 3 trial.",
+   "authors": [
+    "Datoo MS",
+    "Dicko A",
+    "Tinto H",
+    "Ouédraogo JB",
+    "Hamaluba M",
+    "Olotu A",
+    "Beaumont E",
+    "Ramos Lopez F",
+    "Natama HM",
+    "Weston S",
+    "Chemba M",
+    "Compaore YD",
+    "Issiaka D",
+    "Salou D",
+    "Some AM",
+    "Omenda S",
+    "Lawrie A",
+    "Bejon P",
+    "Rao H",
+    "Chandramohan D",
+    "Roberts R",
+    "Bharati S",
+    "Stockdale L",
+    "Gairola S",
+    "Greenwood BM",
+    "Ewer KJ",
+    "Bradley J",
+    "Kulkarni PS",
+    "Shaligram U",
+    "Hill AVS",
+    "R21/Matrix-M Phase 3 Trial Group"
+   ],
+   "journal": "Lancet (London, England)",
+   "year": 2024,
+   "doi": "10.1016/S0140-6736(23)02511-4",
+   "abstract": "BACKGROUND: Recently, we found that a new malaria vaccine, R21/Matrix-M, had over 75% efficacy against clinical malaria with seasonal administration in a phase 2b trial in Burkina Faso. Here, we report on safety and efficacy of the vaccine in a phase 3 trial enrolling over 4800 children across four countries followed for up to 18 months at seasonal sites and 12 months at standard sites.\nMETHODS: We did a double-blind, randomised, phase 3 trial of the R21/Matrix-M malaria vaccine across five sites in four African countries with differing malaria transmission intensities and seasonality. Children (aged 5-36 months) were enrolled and randomly assigned (2:1) to receive 5 μg R21 plus 50 μg Matrix-M or a control vaccine (licensed rabies vaccine [Abhayrab]). Participants, their families, investigators, laboratory teams, and the local study team were masked to treatment. Vaccines were administered as three doses, 4 weeks apart, with a booster administered 12 months after the third dose. Half of the children were recruited at two sites with seasonal malaria transmission and the remainder at standard sites with perennial malaria transmission using age-based immunisation. The primary objective was protective efficacy of R21/Matrix-M from 14 days after third vaccination to 12 months after completion of the primary series at seasonal and standard sites separately as co-primary endpoints. Vaccine efficacy against multiple malaria episodes and severe malaria, as well as safety and immunogenicity, were also assessed. This trial is registered on ClinicalTrials.gov, NCT04704830, and is ongoing.\nFINDINGS: From April 26, 2021, to Jan 12, 2022, 5477 children consented to be screened, of whom 1705 were randomly assigned to control vaccine and 3434 to R21/Matrix-M; 4878 participants received the first dose of vaccine. 3103 participants in the R21/Matrix-M group and 1541 participants in the control group were included in the modified per-protocol analysis (2412 [51·9%] male and 2232 [48·1%] female). R21/Matrix-M vaccine was well tolerated, with injection site pain (301 [18·6%] of 1615 participants) and fever (754 [46·7%] of 1615 participants) as the most frequent adverse events. Number of adverse events of special interest and serious adverse events did not significantly differ between the vaccine groups. There were no treatment-related deaths. 12-month vaccine efficacy was 75% (95% CI 71-79; p<0·0001) at the seasonal sites and 68% (61-74; p<0·0001) at the standard sites for time to first clinical malaria episode. Similarly, vaccine efficacy against multiple clinical malaria episodes was 75% (71-78; p<0·0001) at the seasonal sites and 67% (59-73; p<0·0001) at standard sites. A modest reduction in vaccine efficacy was observed over the first 12 months of follow-up, of similar size at seasonal and standard sites. A rate reduction of 868 (95% CI 762-974) cases per 1000 children-years at seasonal sites and 296 (231-362) at standard sites occurred over 12 months. Vaccine-induced antibodies against the conserved central Asn-Ala-Asn-Pro (NANP) repeat sequence of circumsporozoite protein correlated with vaccine efficacy. Higher NANP-specific antibody titres were observed in the 5-17 month age group compared with 18-36 month age group, and the younger age group had the highest 12-month vaccine efficacy on time to first clinical malaria episode at seasonal (79% [95% CI 73-84]; p<0·001) and standard (75% [65-83]; p<0·001) sites.\nINTERPRETATION: R21/Matrix-M was well tolerated and offered high efficacy against clinical malaria in African children. This low-cost, high-efficacy vaccine is already licensed by several African countries, and recently received a WHO policy recommendation and prequalification, offering large-scale supply to help reduce the great burden of malaria in sub-Saharan Africa.\nFUNDING: The Serum Institute of India, the Wellcome Trust, the UK National Institute for Health Research Oxford Biomedical Research Centre, and Open Philanthropy.",
+   "publicationTypes": [
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25602496",
+   "title": "Chlorhexidine bathing and health care-associated infections: a randomized clinical trial.",
+   "authors": [
+    "Noto MJ",
+    "Domenico HJ",
+    "Byrne DW",
+    "Talbot T",
+    "Rice TW",
+    "Bernard GR",
+    "Wheeler AP"
+   ],
+   "journal": "JAMA",
+   "year": 2015,
+   "doi": "10.1001/jama.2014.18400",
+   "abstract": "IMPORTANCE: Daily bathing of critically ill patients with the broad-spectrum, topical antimicrobial agent chlorhexidine is widely performed and may reduce health care-associated infections.\nOBJECTIVE: To determine if daily bathing of critically ill patients with chlorhexidine decreases the incidence of health care-associated infections.\nDESIGN, SETTING, AND PARTICIPANTS: A pragmatic cluster randomized, crossover study of 9340 patients admitted to 5 adult intensive care units of a tertiary medical center in Nashville, Tennessee, from July 2012 through July 2013.\nINTERVENTIONS: Units performed once-daily bathing of all patients with disposable cloths impregnated with 2% chlorhexidine or nonantimicrobial cloths as a control. Bathing treatments were performed for a 10-week period followed by a 2-week washout period during which patients were bathed with nonantimicrobial disposable cloths, before crossover to the alternate bathing treatment for 10 weeks. Each unit crossed over between bathing assignments 3 times during the study.\nMAIN OUTCOMES AND MEASURES: The primary prespecified outcome was a composite of central line-associated bloodstream infections (CLABSIs), catheter-associated urinary tract infections (CAUTIs), ventilator-associated pneumonia (VAP), and Clostridium difficile infections. Secondary outcomes included rates of clinical cultures that tested positive for multidrug-resistant organisms, blood culture contamination, health care-associated bloodstream infections, and rates of the primary outcome by ICU.\nRESULTS: During the chlorhexidine bathing period, 55 infections occurred: 4 CLABSI, 21 CAUTI, 17 VAP, and 13 C difficile. During the control bathing period, 60 infections occurred: 4 CLABSI, 32 CAUTI, 8 VAP, and 16 C difficile. The primary outcome rate was 2.86 per 1000 patient-days during the chlorhexidine and 2.90 per 1000 patient-days during the control bathing periods (rate difference, -0.04; 95% CI, -1.10 to 1.01; P = .95). After adjusting for baseline variables, no difference between groups in the rate of the primary outcome was detected. Chlorhexidine bathing did not change rates of infection-related secondary outcomes including hospital-acquired bloodstream infections, blood culture contamination, or clinical cultures yielding multidrug-resistant organisms. In a prespecified subgroup analysis, no difference in the primary outcome was detected in any individual intensive care unit.\nCONCLUSION AND RELEVANCE: In this pragmatic trial, daily bathing with chlorhexidine did not reduce the incidence of health care-associated infections including CLABSIs, CAUTIs, VAP, or C difficile. These findings do not support daily bathing of critically ill patients with chlorhexidine.\nTRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT02033187.",
+   "publicationTypes": [
+    "Journal Article",
+    "Pragmatic Clinical Trial",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
   },
   {
    "pmid": "33509059",
@@ -8449,6 +8709,127 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK448173"
+  },
+  {
+   "pmid": "2112744",
+   "title": "Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya.",
+   "authors": [
+    "Woese CR",
+    "Kandler O",
+    "Wheelis ML"
+   ],
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 1990,
+   "doi": "10.1073/pnas.87.12.4576",
+   "abstract": "Molecular structures and sequences are generally more revealing of evolutionary relationships than are classical phenotypes (particularly so among microorganisms). Consequently, the basis for the definition of taxa has progressively shifted from the organismal to the cellular to the molecular level. Molecular comparisons show that life on this planet divides into three primary groupings, commonly known as the eubacteria, the archaebacteria, and the eukaryotes. The three are very dissimilar, the differences that separate them being of a more profound nature than the differences that separate typical kingdoms, such as animals and plants. Unfortunately, neither of the conventionally accepted views of the natural relationships among living systems--i.e., the five-kingdom taxonomy or the eukaryote-prokaryote dichotomy--reflects this primary tripartite division of the living world. To remedy this situation we propose that a formal system of organisms be established in which above the level of kingdom there exists a new taxon called a \"domain.\" Life on this planet would then be seen as comprising three domains, the Bacteria, the Archaea, and the Eucarya, each containing two or more kingdoms. (The Eucarya, for example, contain Animalia, Plantae, Fungi, and a number of others yet to be defined). Although taxonomic structure within the Bacteria and Eucarya is not treated herein, Archaea is formally subdivided into the two kingdoms Euryarchaeota (encompassing the methanogens and their phenotypically diverse relatives) and Crenarchaeota (comprising the relatively tight clustering of extremely thermophilic archaebacteria, whose general phenotype appears to resemble most the ancestral phenotype of the Archaea.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "32084340",
+   "title": "A Deep Learning Approach to Antibiotic Discovery.",
+   "authors": [
+    "Stokes JM",
+    "Yang K",
+    "Swanson K",
+    "Jin W",
+    "Cubillos-Ruiz A",
+    "Donghia NM",
+    "MacNair CR",
+    "French S",
+    "Carfrae LA",
+    "Bloom-Ackermann Z",
+    "Tran VM",
+    "Chiappino-Pepe A",
+    "Badran AH",
+    "Andrews IW",
+    "Chory EJ",
+    "Church GM",
+    "Brown ED",
+    "Jaakkola TS",
+    "Barzilay R",
+    "Collins JJ"
+   ],
+   "journal": "Cell",
+   "year": 2020,
+   "doi": "10.1016/j.cell.2020.01.021",
+   "abstract": "Due to the rapid emergence of antibiotic-resistant bacteria, there is a growing need to discover new antibiotics. To address this challenge, we trained a deep neural network capable of predicting molecules with antibacterial activity. We performed predictions on multiple chemical libraries and discovered a molecule from the Drug Repurposing Hub-halicin-that is structurally divergent from conventional antibiotics and displays bactericidal activity against a wide phylogenetic spectrum of pathogens including Mycobacterium tuberculosis and carbapenem-resistant Enterobacteriaceae. Halicin also effectively treated Clostridioides difficile and pan-resistant Acinetobacter baumannii infections in murine models. Additionally, from a discrete set of 23 empirically tested predictions from >107 million molecules curated from the ZINC15 database, our model identified eight antibacterial compounds that are structurally distant from known antibiotics. This work highlights the utility of deep learning approaches to expand our antibiotic arsenal through the discovery of structurally distinct antibacterial molecules.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "26603172",
+   "title": "Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.",
+   "authors": [
+    "Liu YY",
+    "Wang Y",
+    "Walsh TR",
+    "Yi LX",
+    "Zhang R",
+    "Spencer J",
+    "Doi Y",
+    "Tian G",
+    "Dong B",
+    "Huang X",
+    "Yu LF",
+    "Gu D",
+    "Ren H",
+    "Chen X",
+    "Lv L",
+    "He D",
+    "Zhou H",
+    "Liang Z",
+    "Liu JH",
+    "Shen J"
+   ],
+   "journal": "The Lancet. Infectious diseases",
+   "year": 2016,
+   "doi": "10.1016/S1473-3099(15)00424-7",
+   "abstract": "BACKGROUND: Until now, polymyxin resistance has involved chromosomal mutations but has never been reported via horizontal gene transfer. During a routine surveillance project on antimicrobial resistance in commensal Escherichia coli from food animals in China, a major increase of colistin resistance was observed. When an E coli strain, SHP45, possessing colistin resistance that could be transferred to another strain, was isolated from a pig, we conducted further analysis of possible plasmid-mediated polymyxin resistance. Herein, we report the emergence of the first plasmid-mediated polymyxin resistance mechanism, MCR-1, in Enterobacteriaceae.\nMETHODS: The mcr-1 gene in E coli strain SHP45 was identified by whole plasmid sequencing and subcloning. MCR-1 mechanistic studies were done with sequence comparisons, homology modelling, and electrospray ionisation mass spectrometry. The prevalence of mcr-1 was investigated in E coli and Klebsiella pneumoniae strains collected from five provinces between April, 2011, and November, 2014. The ability of MCR-1 to confer polymyxin resistance in vivo was examined in a murine thigh model.\nFINDINGS: Polymyxin resistance was shown to be singularly due to the plasmid-mediated mcr-1 gene. The plasmid carrying mcr-1 was mobilised to an E coli recipient at a frequency of 10(-1) to 10(-3) cells per recipient cell by conjugation, and maintained in K pneumoniae and Pseudomonas aeruginosa. In an in-vivo model, production of MCR-1 negated the efficacy of colistin. MCR-1 is a member of the phosphoethanolamine transferase enzyme family, with expression in E coli resulting in the addition of phosphoethanolamine to lipid A. We observed mcr-1 carriage in E coli isolates collected from 78 (15%) of 523 samples of raw meat and 166 (21%) of 804 animals during 2011-14, and 16 (1%) of 1322 samples from inpatients with infection.\nINTERPRETATION: The emergence of MCR-1 heralds the breach of the last group of antibiotics, polymyxins, by plasmid-mediated resistance. Although currently confined to China, MCR-1 is likely to emulate other global resistance mechanisms such as NDM-1. Our findings emphasise the urgent need for coordinated global action in the fight against pan-drug-resistant Gram-negative bacteria.\nFUNDING: Ministry of Science and Technology of China, National Natural Science Foundation of China.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27988485",
+   "title": "Simultaneous Emergence of Multidrug-Resistant Candida auris on 3 Continents Confirmed by Whole-Genome Sequencing and Epidemiological Analyses.",
+   "authors": [
+    "Lockhart SR",
+    "Etienne KA",
+    "Vallabhaneni S",
+    "Farooqi J",
+    "Chowdhary A",
+    "Govender NP",
+    "Colombo AL",
+    "Calvo B",
+    "Cuomo CA",
+    "Desjardins CA",
+    "Berkow EL",
+    "Castanheira M",
+    "Magobo RE",
+    "Jabeen K",
+    "Asghar RJ",
+    "Meis JF",
+    "Jackson B",
+    "Chiller T",
+    "Litvintseva AP"
+   ],
+   "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+   "year": 2017,
+   "doi": "10.1093/cid/ciw691",
+   "abstract": "BACKGROUND: Candida auris, a multidrug-resistant yeast that causes invasive infections, was first described in 2009 in Japan and has since been reported from several countries.\nMETHODS: To understand the global emergence and epidemiology of C. auris, we obtained isolates from 54 patients with C. auris infection from Pakistan, India, South Africa, and Venezuela during 2012-2015 and the type specimen from Japan. Patient information was available for 41 of the isolates. We conducted antifungal susceptibility testing and whole-genome sequencing (WGS).\nRESULTS: Available clinical information revealed that 41% of patients had diabetes mellitus, 51% had undergone recent surgery, 73% had a central venous catheter, and 41% were receiving systemic antifungal therapy when C. auris was isolated. The median time from admission to infection was 19 days (interquartile range, 9-36 days), 61% of patients had bloodstream infection, and 59% died. Using stringent break points, 93% of isolates were resistant to fluconazole, 35% to amphotericin B, and 7% to echinocandins; 41% were resistant to 2 antifungal classes and 4% were resistant to 3 classes. WGS demonstrated that isolates were grouped into unique clades by geographic region. Clades were separated by thousands of single-nucleotide polymorphisms, but within each clade isolates were clonal. Different mutations in ERG11 were associated with azole resistance in each geographic clade.\nCONCLUSIONS: C. auris is an emerging healthcare-associated pathogen associated with high mortality. Treatment options are limited, due to antifungal resistance. WGS analysis suggests nearly simultaneous, and recent, independent emergence of different clonal populations on 3 continents. Risk factors and transmission mechanisms need to be elucidated to guide control measures.",
+   "publicationTypes": [
+    "Journal Article",
+    "Multicenter Study"
+   ]
   },
   {
    "pmid": "33620821",
@@ -31957,6 +32338,822 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "the varicella-zoster virus is a vaccine-preventable disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-35065702-1-en",
+   "translationKey": "infect-35065702-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "About how many deaths were directly attributable to bacterial antimicrobial resistance worldwide in 2019?",
+   "options": [
+    "About 1,000",
+    "About 100,000",
+    "About 1.27 million",
+    "About 100 million"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "1.27 million deaths were attributable to AMR and 4.95 million were associated with it in 2019.",
+   "shortExplanation": "~1.27 million.",
+   "pmid": "35065702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "1·27 million (95% UI 0·911-1·71) deaths attributable to bacterial AMR",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-35065702-1-es",
+   "translationKey": "infect-35065702-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿Cuántas muertes fueron atribuibles directamente a la resistencia antimicrobiana bacteriana en el mundo en 2019?",
+   "options": [
+    "Unas 1.000",
+    "Unas 100.000",
+    "Unos 1,27 millones",
+    "Unos 100 millones"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "1,27 millones de muertes fueron atribuibles a la resistencia y 4,95 millones estuvieron asociadas en 2019.",
+   "shortExplanation": "~1,27 millones.",
+   "pmid": "35065702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "1·27 million (95% UI 0·911-1·71) deaths attributable to bacterial AMR",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-35065702-2-en",
+   "translationKey": "infect-35065702-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Where was the death rate attributable to antimicrobial resistance highest in 2019?",
+   "options": [
+    "Western sub-Saharan Africa",
+    "Australasia",
+    "Western Europe",
+    "North America"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Western sub-Saharan Africa had 27.3 deaths per 100,000; Australasia the lowest at 6.5.",
+   "shortExplanation": "Western sub-Saharan Africa.",
+   "pmid": "35065702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "highest in western sub-Saharan Africa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-35065702-2-es",
+   "translationKey": "infect-35065702-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde fue más alta la tasa de muertes atribuibles a la resistencia antimicrobiana en 2019?",
+   "options": [
+    "África subsahariana occidental",
+    "Australasia",
+    "Europa occidental",
+    "América del Norte"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "África subsahariana occidental tuvo 27,3 muertes cada 100.000; Australasia la más baja, 6,5.",
+   "shortExplanation": "África subsahariana occidental.",
+   "pmid": "35065702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "highest in western sub-Saharan Africa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-35065702-3-en",
+   "translationKey": "infect-35065702-3",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What is the difference between deaths 'attributable to' and 'associated with' AMR in this study?",
+   "options": [
+    "They are identical",
+    "Associated deaths only count children",
+    "Attributable deaths are those prevented by vaccines",
+    "Associated deaths (4.95 M) include all deaths with resistant infection; attributable (1.27 M) are those due to resistance itself"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Associated: resistant infections replaced by no infection; attributable: resistant infections replaced by susceptible ones.",
+   "shortExplanation": "Two counterfactuals.",
+   "pmid": "35065702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "4·95 million (3·62-6·57) deaths associated with bacterial AMR in 2019",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-35065702-3-es",
+   "translationKey": "infect-35065702-3",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué diferencia hay entre muertes 'atribuibles a' y 'asociadas con' la resistencia en este estudio?",
+   "options": [
+    "Son idénticas",
+    "Las asociadas solo cuentan niños",
+    "Las atribuibles son las que evitan las vacunas",
+    "Asociadas (4,95 M) incluye toda muerte con infección resistente; atribuibles (1,27 M), las debidas a la resistencia en sí"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Asociadas: infecciones resistentes reemplazadas por ninguna infección; atribuibles: reemplazadas por infecciones sensibles.",
+   "shortExplanation": "Dos contrafácticos.",
+   "pmid": "35065702",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "4·95 million (3·62-6·57) deaths associated with bacterial AMR in 2019",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-33301246-1-en",
+   "translationKey": "infect-33301246-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "How effective was the BNT162b2 (Pfizer-BioNTech) mRNA vaccine at preventing COVID-19 in its pivotal trial?",
+   "options": [
+    "About 50%",
+    "About 95%",
+    "About 10%",
+    "100% with no cases"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Two doses conferred 95% protection in people 16 and older.",
+   "shortExplanation": "95%.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "BNT162b2 was 95% effective in preventing Covid-19",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-33301246-1-es",
+   "translationKey": "infect-33301246-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "¿Qué eficacia tuvo la vacuna de ARNm BNT162b2 (Pfizer-BioNTech) para prevenir COVID-19 en su ensayo principal?",
+   "options": [
+    "Alrededor de 50%",
+    "Alrededor de 95%",
+    "Alrededor de 10%",
+    "100% sin casos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Dos dosis dieron 95% de protección en personas de 16 años o más.",
+   "shortExplanation": "95%.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "BNT162b2 was 95% effective in preventing Covid-19",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-33301246-2-en",
+   "translationKey": "infect-33301246-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Which viral protein does the BNT162b2 mRNA vaccine encode?",
+   "options": [
+    "The nucleocapsid protein",
+    "The viral polymerase",
+    "The envelope protein",
+    "A prefusion-stabilized full-length spike protein"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "The lipid nanoparticle mRNA encodes the stabilized spike protein, which the body then makes and responds to.",
+   "shortExplanation": "Spike protein.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "encodes a prefusion stabilized, membrane-anchored SARS-CoV-2 full-length spike protein",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-33301246-2-es",
+   "translationKey": "infect-33301246-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Qué proteína viral codifica la vacuna de ARNm BNT162b2?",
+   "options": [
+    "La nucleocápside",
+    "La polimerasa viral",
+    "La proteína de envoltura",
+    "La proteína espiga completa estabilizada en prefusión"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El ARNm en nanopartículas lipídicas codifica la espiga estabilizada, que el cuerpo fabrica y frente a la que responde.",
+   "shortExplanation": "Proteína espiga.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "encodes a prefusion stabilized, membrane-anchored SARS-CoV-2 full-length spike protein",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-33301246-3-en",
+   "translationKey": "infect-33301246-3",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "In the BNT162b2 trial, how many COVID-19 cases occurred after the second dose in the vaccine vs. placebo group?",
+   "options": [
+    "8 vs. 162",
+    "162 vs. 8",
+    "100 vs. 100",
+    "0 vs. 0"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "8 cases in vaccinees vs. 162 in placebo recipients among ~43,000 participants.",
+   "shortExplanation": "8 vs. 162.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "8 cases of Covid-19 with onset at least 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among those assigned to placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-33301246-3-es",
+   "translationKey": "infect-33301246-3",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "En el ensayo de BNT162b2, ¿cuántos casos de COVID-19 hubo tras la segunda dosis en el grupo vacuna vs. placebo?",
+   "options": [
+    "8 vs. 162",
+    "162 vs. 8",
+    "100 vs. 100",
+    "0 vs. 0"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "8 casos en vacunados vs. 162 en placebo entre ~43.000 participantes.",
+   "shortExplanation": "8 vs. 162.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "8 cases of Covid-19 with onset at least 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among those assigned to placebo",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-23323867-1-en",
+   "translationKey": "infect-23323867-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "What did the first randomized trial of fecal transplantation for recurrent C. difficile show?",
+   "options": [
+    "It was worse than vancomycin",
+    "It had no effect",
+    "Donor feces infusion was much more effective than vancomycin",
+    "It caused more relapses"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "81% resolved after one infusion vs. 31% with vancomycin alone; the trial was stopped early.",
+   "shortExplanation": "Better than vancomycin.",
+   "pmid": "23323867",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The infusion of donor feces was significantly more effective for the treatment of recurrent C. difficile infection than the use of vancomycin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-23323867-1-es",
+   "translationKey": "infect-23323867-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿Qué mostró el primer ensayo aleatorizado de trasplante fecal para C. difficile recurrente?",
+   "options": [
+    "Fue peor que vancomicina",
+    "No tuvo efecto",
+    "La infusión de heces de donante fue mucho más eficaz que la vancomicina",
+    "Causó más recaídas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El 81% se resolvió tras una infusión vs. 31% con vancomicina sola; el ensayo se detuvo antes de tiempo.",
+   "shortExplanation": "Mejor que vancomicina.",
+   "pmid": "23323867",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The infusion of donor feces was significantly more effective for the treatment of recurrent C. difficile infection than the use of vancomycin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-23323867-2-en",
+   "translationKey": "infect-23323867-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What happened to patients' gut microbiota after donor feces infusion?",
+   "options": [
+    "Diversity decreased",
+    "Fecal bacterial diversity increased to resemble healthy donors",
+    "All bacteria disappeared",
+    "Only fungi remained"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Bacteroidetes and Clostridium clusters IV and XIVa increased while Proteobacteria decreased.",
+   "shortExplanation": "Restored diversity.",
+   "pmid": "23323867",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "patients showed increased fecal bacterial diversity, similar to that in healthy donors",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-23323867-2-es",
+   "translationKey": "infect-23323867-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué pasó con la microbiota de los pacientes tras la infusión de heces de donante?",
+   "options": [
+    "Disminuyó la diversidad",
+    "Aumentó la diversidad bacteriana fecal, parecida a la de donantes sanos",
+    "Desaparecieron todas las bacterias",
+    "Solo quedaron hongos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Aumentaron Bacteroidetes y los clusters IV y XIVa de Clostridium, y bajaron las Proteobacteria.",
+   "shortExplanation": "Diversidad restaurada.",
+   "pmid": "23323867",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "patients showed increased fecal bacterial diversity, similar to that in healthy donors",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-34107180-1-en",
+   "translationKey": "infect-34107180-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "How effective were releases of Wolbachia-infected mosquitoes against dengue in Yogyakarta, Indonesia?",
+   "options": [
+    "About 77% protective efficacy",
+    "No effect",
+    "About 10%",
+    "They increased dengue"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Dengue fell from 9.4% to 2.3% of participants, with 86% fewer hospitalizations.",
+   "shortExplanation": "~77%.",
+   "pmid": "34107180",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The protective efficacy of the intervention was 77.1%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-34107180-1-es",
+   "translationKey": "infect-34107180-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Qué eficacia tuvieron las liberaciones de mosquitos con Wolbachia contra el dengue en Yogyakarta, Indonesia?",
+   "options": [
+    "Alrededor de 77% de eficacia protectora",
+    "Ningún efecto",
+    "Alrededor de 10%",
+    "Aumentaron el dengue"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El dengue bajó de 9,4% a 2,3% de los participantes, con 86% menos hospitalizaciones.",
+   "shortExplanation": "~77%.",
+   "pmid": "34107180",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The protective efficacy of the intervention was 77.1%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-34107180-2-en",
+   "translationKey": "infect-34107180-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "Why are Wolbachia-infected Aedes aegypti mosquitoes released to fight dengue?",
+   "options": [
+    "They bite more people",
+    "They kill all other insects",
+    "They are less susceptible to dengue virus infection",
+    "They carry a dengue vaccine"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "The wMel strain of Wolbachia reduces the mosquito's ability to become infected with and transmit dengue.",
+   "shortExplanation": "Block dengue.",
+   "pmid": "34107180",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Aedes aegypti mosquitoes infected with the wMel strain of Wolbachia pipientis are less susceptible than wild-type A. aegypti to dengue virus infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-34107180-2-es",
+   "translationKey": "infect-34107180-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿Por qué se liberan Aedes aegypti infectados con Wolbachia para combatir el dengue?",
+   "options": [
+    "Pican a más personas",
+    "Matan a otros insectos",
+    "Son menos susceptibles a infectarse con el virus del dengue",
+    "Llevan una vacuna"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La cepa wMel de Wolbachia reduce la capacidad del mosquito de infectarse con dengue y transmitirlo.",
+   "shortExplanation": "Bloquean el dengue.",
+   "pmid": "34107180",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Aedes aegypti mosquitoes infected with the wMel strain of Wolbachia pipientis are less susceptible than wild-type A. aegypti to dengue virus infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-34107180-3-en",
+   "translationKey": "infect-34107180-3",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What study design was used to test Wolbachia deployments against dengue?",
+   "options": [
+    "A case report",
+    "An animal study",
+    "A cross-sectional survey",
+    "A cluster-randomized trial with a test-negative design"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "12 intervention and 12 control clusters were randomized; febrile patients were tested to compare dengue rates.",
+   "shortExplanation": "Cluster-randomized.",
+   "pmid": "34107180",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "We conducted a cluster-randomized trial",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-34107180-3-es",
+   "translationKey": "infect-34107180-3",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué diseño de estudio se usó para probar las liberaciones de Wolbachia contra el dengue?",
+   "options": [
+    "Un reporte de caso",
+    "Un estudio en animales",
+    "Una encuesta transversal",
+    "Un ensayo aleatorizado por conglomerados con diseño test-negativo"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Se aleatorizaron 12 conglomerados de intervención y 12 de control; se analizó a pacientes febriles para comparar dengue.",
+   "shortExplanation": "Por conglomerados.",
+   "pmid": "34107180",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "We conducted a cluster-randomized trial",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-21091279-1-en",
+   "translationKey": "infect-21091279-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "In the iPrEx trial, how much did daily oral emtricitabine-tenofovir reduce HIV incidence?",
+   "options": [
+    "0%",
+    "44%",
+    "99%",
+    "It increased HIV"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Overall reduction was 44%; protection strongly correlated with detectable drug levels (adherence).",
+   "shortExplanation": "44%.",
+   "pmid": "21091279",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "indicating a 44% reduction in the incidence of HIV",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-21091279-1-es",
+   "translationKey": "infect-21091279-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "En el ensayo iPrEx, ¿cuánto redujo la incidencia de VIH la emtricitabina-tenofovir oral diaria?",
+   "options": [
+    "0%",
+    "44%",
+    "99%",
+    "La aumentó"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La reducción global fue 44%; la protección se correlacionó fuertemente con niveles detectables del fármaco (adherencia).",
+   "shortExplanation": "44%.",
+   "pmid": "21091279",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "indicating a 44% reduction in the incidence of HIV",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-21091279-2-en",
+   "translationKey": "infect-21091279-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What was the strongest determinant of protection by HIV PrEP in the iPrEx trial?",
+   "options": [
+    "Age",
+    "Body weight",
+    "Condom brand",
+    "Detectable drug levels in blood (adherence)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Participants with detectable drug were much better protected, highlighting the role of adherence.",
+   "shortExplanation": "Adherence.",
+   "pmid": "21091279",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Detectable blood levels strongly correlated with the prophylactic effect",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-21091279-2-es",
+   "translationKey": "infect-21091279-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál fue el principal determinante de la protección de la PrEP contra el VIH en iPrEx?",
+   "options": [
+    "La edad",
+    "El peso",
+    "La marca de preservativo",
+    "Niveles detectables del fármaco en sangre (adherencia)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Quienes tenían fármaco detectable estaban mucho más protegidos, lo que muestra el papel de la adherencia.",
+   "shortExplanation": "Adherencia.",
+   "pmid": "21091279",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Detectable blood levels strongly correlated with the prophylactic effect",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-21767103-1-en",
+   "translationKey": "infect-21767103-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What did the HPTN 052 trial show about early antiretroviral therapy in serodiscordant couples?",
+   "options": [
+    "It had no effect on transmission",
+    "It increased transmission",
+    "It almost eliminated linked HIV transmission to partners",
+    "It only helped the HIV-negative partner"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Only 1 of 28 linked transmissions occurred with early therapy (hazard ratio 0.04)—the basis of 'treatment as prevention'.",
+   "shortExplanation": "Treatment as prevention.",
+   "pmid": "21767103",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Of the 28 linked transmissions, only 1 occurred in the early-therapy group",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-21767103-1-es",
+   "translationKey": "infect-21767103-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostró el ensayo HPTN 052 sobre el tratamiento antirretroviral temprano en parejas serodiscordantes?",
+   "options": [
+    "No afectó la transmisión",
+    "Aumentó la transmisión",
+    "Casi eliminó la transmisión vinculada del VIH a la pareja",
+    "Solo ayudó a la pareja negativa"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Solo 1 de 28 transmisiones vinculadas ocurrió con tratamiento temprano (HR 0,04): la base de 'tratamiento como prevención'.",
+   "shortExplanation": "Tratamiento como prevención.",
+   "pmid": "21767103",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Of the 28 linked transmissions, only 1 occurred in the early-therapy group",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-38310910-1-en",
+   "translationKey": "infect-38310910-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "What 12-month efficacy did the R21/Matrix-M malaria vaccine show at seasonal sites in African children?",
+   "options": [
+    "About 75%",
+    "About 5%",
+    "About 30%",
+    "100%"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "R21/Matrix-M showed 75% efficacy at seasonal sites (68% at standard sites) in children 5–36 months.",
+   "shortExplanation": "~75%.",
+   "pmid": "38310910",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "12-month vaccine efficacy was 75%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-38310910-1-es",
+   "translationKey": "infect-38310910-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Qué eficacia a 12 meses mostró la vacuna antimalárica R21/Matrix-M en sitios estacionales en niños africanos?",
+   "options": [
+    "Alrededor de 75%",
+    "Alrededor de 5%",
+    "Alrededor de 30%",
+    "100%"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "R21/Matrix-M mostró 75% de eficacia en sitios estacionales (68% en sitios estándar) en niños de 5 a 36 meses.",
+   "shortExplanation": "~75%.",
+   "pmid": "38310910",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "12-month vaccine efficacy was 75%",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-38310910-2-en",
+   "translationKey": "infect-38310910-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What dosing schedule was used for the R21/Matrix-M malaria vaccine in the phase 3 trial?",
+   "options": [
+    "A single dose",
+    "Two doses one year apart",
+    "Daily oral tablets",
+    "Three doses 4 weeks apart plus a booster 12 months later"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Children received three monthly doses and a booster a year after the third dose.",
+   "shortExplanation": "3 doses + booster.",
+   "pmid": "38310910",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccines were administered as three doses, 4 weeks apart, with a booster administered 12 months after the third dose",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-38310910-2-es",
+   "translationKey": "infect-38310910-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué esquema se usó para la vacuna antimalárica R21/Matrix-M en el ensayo de fase 3?",
+   "options": [
+    "Una sola dosis",
+    "Dos dosis con un año de diferencia",
+    "Comprimidos diarios",
+    "Tres dosis cada 4 semanas más un refuerzo a los 12 meses"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los niños recibieron tres dosis mensuales y un refuerzo un año después de la tercera.",
+   "shortExplanation": "3 dosis + refuerzo.",
+   "pmid": "38310910",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Vaccines were administered as three doses, 4 weeks apart, with a booster administered 12 months after the third dose",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-25602496-1-en",
+   "translationKey": "infect-25602496-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "What did a large pragmatic trial find about daily chlorhexidine bathing in ICUs?",
+   "options": [
+    "It halved all infections",
+    "It did not reduce the composite of health care–associated infections",
+    "It eliminated C. difficile",
+    "It increased resistant organisms"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Rates were 2.86 vs. 2.90 per 1000 patient-days—no significant difference—challenging a widespread practice.",
+   "shortExplanation": "No reduction.",
+   "pmid": "25602496",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary outcome rate was 2.86 per 1000 patient-days during the chlorhexidine and 2.90 per 1000 patient-days during the control bathing periods",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-25602496-1-es",
+   "translationKey": "infect-25602496-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "¿Qué halló un gran ensayo pragmático sobre el baño diario con clorhexidina en terapia intensiva?",
+   "options": [
+    "Redujo a la mitad todas las infecciones",
+    "No redujo el conjunto de infecciones asociadas a la atención de la salud",
+    "Eliminó C. difficile",
+    "Aumentó los organismos resistentes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las tasas fueron 2,86 vs. 2,90 por 1000 días-paciente, sin diferencia significativa, lo que cuestiona una práctica difundida.",
+   "shortExplanation": "Sin reducción.",
+   "pmid": "25602496",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The primary outcome rate was 2.86 per 1000 patient-days during the chlorhexidine and 2.90 per 1000 patient-days during the control bathing periods",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
@@ -58501,6 +59698,1110 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Murine typhus is a flea-borne zoonosis maintained primarily in rodents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-2112744-1-en",
+   "translationKey": "micro-2112744-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Into which three domains did Carl Woese and colleagues divide all life?",
+   "options": [
+    "Plants, Animals, Fungi",
+    "Viruses, Bacteria, Animals",
+    "Bacteria, Archaea and Eucarya",
+    "Prokaryotes, Protists, Plants"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Molecular comparisons showed three primary groups: Bacteria, Archaea and Eucarya, each containing kingdoms.",
+   "shortExplanation": "Three domains.",
+   "pmid": "2112744",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Life on this planet would then be seen as comprising three domains, the Bacteria, the Archaea, and the Eucarya",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-2112744-1-es",
+   "translationKey": "micro-2112744-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿En qué tres dominios dividieron Carl Woese y colaboradores a toda la vida?",
+   "options": [
+    "Plantas, Animales, Hongos",
+    "Virus, Bacterias, Animales",
+    "Bacteria, Archaea y Eucarya",
+    "Procariotas, Protistas, Plantas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las comparaciones moleculares mostraron tres grupos primarios: Bacteria, Archaea y Eucarya, cada uno con reinos.",
+   "shortExplanation": "Tres dominios.",
+   "pmid": "2112744",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Life on this planet would then be seen as comprising three domains, the Bacteria, the Archaea, and the Eucarya",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-2112744-2-en",
+   "translationKey": "micro-2112744-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Why did Woese propose classifying organisms using molecular sequences?",
+   "options": [
+    "Molecular sequences reveal evolutionary relationships better than classical phenotypes",
+    "Microscopes were not available",
+    "Sequencing is cheaper than looking at cells",
+    "Phenotypes do not exist in microbes"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Especially among microorganisms, molecules (like rRNA) reveal evolutionary relationships better than appearance.",
+   "shortExplanation": "Molecules over phenotype.",
+   "pmid": "2112744",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Molecular structures and sequences are generally more revealing of evolutionary relationships than are classical phenotypes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-2112744-2-es",
+   "translationKey": "micro-2112744-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué Woese propuso clasificar los organismos usando secuencias moleculares?",
+   "options": [
+    "Las secuencias revelan mejor las relaciones evolutivas que los fenotipos clásicos",
+    "No había microscopios",
+    "Secuenciar es más barato que mirar células",
+    "Los microbios no tienen fenotipo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Sobre todo en microorganismos, las moléculas (como el ARNr) revelan mejor el parentesco evolutivo que la apariencia.",
+   "shortExplanation": "Moléculas sobre fenotipo.",
+   "pmid": "2112744",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Molecular structures and sequences are generally more revealing of evolutionary relationships than are classical phenotypes",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-2112744-3-en",
+   "translationKey": "micro-2112744-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Into which two kingdoms was the domain Archaea originally subdivided?",
+   "options": [
+    "Animalia and Plantae",
+    "Gram-positive and Gram-negative",
+    "Bacilli and Cocci",
+    "Euryarchaeota and Crenarchaeota"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Euryarchaeota include methanogens; Crenarchaeota are extreme thermophiles resembling the ancestral phenotype.",
+   "shortExplanation": "Eury- and Crenarchaeota.",
+   "pmid": "2112744",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Archaea is formally subdivided into the two kingdoms Euryarchaeota (encompassing the methanogens and their phenotypically diverse relatives) and Crenarchaeota",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-2112744-3-es",
+   "translationKey": "micro-2112744-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿En qué dos reinos se subdividió originalmente el dominio Archaea?",
+   "options": [
+    "Animalia y Plantae",
+    "Grampositivas y gramnegativas",
+    "Bacilos y cocos",
+    "Euryarchaeota y Crenarchaeota"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las Euryarchaeota incluyen a los metanógenos; las Crenarchaeota son termófilas extremas parecidas al fenotipo ancestral.",
+   "shortExplanation": "Eury- y Crenarchaeota.",
+   "pmid": "2112744",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Archaea is formally subdivided into the two kingdoms Euryarchaeota (encompassing the methanogens and their phenotypically diverse relatives) and Crenarchaeota",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-6145023-1-en",
+   "translationKey": "micro-6145023-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What did Marshall and Warren find in 1984 in stomach biopsies of patients with gastritis and ulcers?",
+   "options": [
+    "Fungi",
+    "Spiral or curved bacilli",
+    "Viruses",
+    "Worms"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "These curved bacilli were later named Helicobacter pylori, revolutionizing ulcer treatment.",
+   "shortExplanation": "Curved bacilli.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Spiral or curved bacilli were demonstrated in specimens from 58 patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-6145023-1-es",
+   "translationKey": "micro-6145023-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué encontraron Marshall y Warren en 1984 en biopsias gástricas de pacientes con gastritis y úlceras?",
+   "options": [
+    "Hongos",
+    "Bacilos espirales o curvos",
+    "Virus",
+    "Gusanos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Esos bacilos curvos luego se llamaron Helicobacter pylori y revolucionaron el tratamiento de la úlcera.",
+   "shortExplanation": "Bacilos curvos.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Spiral or curved bacilli were demonstrated in specimens from 58 patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-6145023-2-en",
+   "translationKey": "micro-6145023-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How were the stomach bacteria (later H. pylori) first described?",
+   "options": [
+    "Gram-positive cocci",
+    "Acid-fast bacilli",
+    "Spore-forming anaerobes",
+    "Gram-negative, flagellate, microaerophilic, related to Campylobacter"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "They were initially thought to be a new Campylobacter-like species; the genus Helicobacter was created later.",
+   "shortExplanation": "Campylobacter-like.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "were gram-negative, flagellate, and microaerophilic and appeared to be a new species related to the genus Campylobacter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-6145023-2-es",
+   "translationKey": "micro-6145023-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se describieron al principio las bacterias del estómago (luego H. pylori)?",
+   "options": [
+    "Cocos grampositivos",
+    "Bacilos ácido-alcohol resistentes",
+    "Anaerobios esporulados",
+    "Gramnegativas, flageladas, microaerófilas, emparentadas con Campylobacter"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Se creyó que eran una nueva especie parecida a Campylobacter; el género Helicobacter se creó después.",
+   "shortExplanation": "Tipo Campylobacter.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "were gram-negative, flagellate, and microaerophilic and appeared to be a new species related to the genus Campylobacter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-6145023-3-en",
+   "translationKey": "micro-6145023-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What did the 1984 paper conclude about the curved bacilli and peptic ulcer disease?",
+   "options": [
+    "They may be an important factor in the cause of gastritis and ulcers",
+    "They are harmless contaminants",
+    "They cause only skin disease",
+    "They protect against ulcers"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The bacteria were present in almost all patients with active gastritis or ulcers, suggesting an etiologic role.",
+   "shortExplanation": "Possible cause.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "may be an important factor in the aetiology of these diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-6145023-3-es",
+   "translationKey": "micro-6145023-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué concluyó el artículo de 1984 sobre los bacilos curvos y la úlcera péptica?",
+   "options": [
+    "Que podrían ser un factor importante en la causa de gastritis y úlceras",
+    "Que eran contaminantes inocuos",
+    "Que solo causan enfermedad de piel",
+    "Que protegen contra úlceras"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las bacterias estaban en casi todos los pacientes con gastritis activa o úlceras, lo que sugería un papel causal.",
+   "shortExplanation": "Posible causa.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "may be an important factor in the aetiology of these diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17379808-1-en",
+   "translationKey": "micro-17379808-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What did the 2007 experiment show CRISPR does in bacteria?",
+   "options": [
+    "Produces antibiotics",
+    "Forms spores",
+    "Moves the flagellum",
+    "Provides acquired resistance against phages (viruses)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Bacteria integrated phage-derived spacers into CRISPR and became resistant—an adaptive immune system.",
+   "shortExplanation": "Antiviral immunity.",
+   "pmid": "17379808",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CRISPR, together with associated cas genes, provided resistance against phages",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17379808-1-es",
+   "translationKey": "micro-17379808-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué mostró el experimento de 2007 sobre la función de CRISPR en bacterias?",
+   "options": [
+    "Produce antibióticos",
+    "Forma esporas",
+    "Mueve el flagelo",
+    "Da resistencia adquirida contra fagos (virus)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las bacterias integraron espaciadores derivados de fagos en CRISPR y se volvieron resistentes: un sistema inmune adaptativo.",
+   "shortExplanation": "Inmunidad antiviral.",
+   "pmid": "17379808",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "CRISPR, together with associated cas genes, provided resistance against phages",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17379808-2-en",
+   "translationKey": "micro-17379808-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How do bacteria 'remember' a phage with CRISPR?",
+   "options": [
+    "They make antibodies",
+    "They change their cell wall",
+    "They integrate new spacers derived from the phage genome",
+    "They kill their neighbors"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "New spacers matching the phage are added; resistance specificity depends on spacer-phage sequence similarity.",
+   "shortExplanation": "Phage spacers.",
+   "pmid": "17379808",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "after viral challenge, bacteria integrated new spacers derived from phage genomic sequences",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-17379808-2-es",
+   "translationKey": "micro-17379808-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo 'recuerdan' las bacterias a un fago mediante CRISPR?",
+   "options": [
+    "Fabrican anticuerpos",
+    "Cambian la pared",
+    "Integran nuevos espaciadores derivados del genoma del fago",
+    "Matan a sus vecinas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Agregan espaciadores que coinciden con el fago; la especificidad depende de la similitud espaciador-fago.",
+   "shortExplanation": "Espaciadores del fago.",
+   "pmid": "17379808",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "after viral challenge, bacteria integrated new spacers derived from phage genomic sequences",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-22745249-1-en",
+   "translationKey": "micro-22745249-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What did Jinek, Charpentier, Doudna and colleagues show Cas9 does in 2012?",
+   "options": [
+    "Copies RNA into DNA",
+    "Introduces RNA-guided double-stranded breaks in target DNA",
+    "Synthesizes proteins",
+    "Repairs ultraviolet damage"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The dual tracrRNA:crRNA guides Cas9 to cut DNA; engineered as a single RNA, it enabled programmable genome editing.",
+   "shortExplanation": "RNA-guided DNA cutting.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "directs the CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in target DNA",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-22745249-1-es",
+   "translationKey": "micro-22745249-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué mostraron Jinek, Charpentier, Doudna y colaboradores que hace Cas9 en 2012?",
+   "options": [
+    "Copia ARN a ADN",
+    "Corta ambas hebras del ADN blanco guiada por ARN",
+    "Sintetiza proteínas",
+    "Repara daño por UV"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El ARN dual tracrRNA:crRNA guía a Cas9 para cortar ADN; como ARN único diseñado, permitió la edición genómica programable.",
+   "shortExplanation": "Corte de ADN guiado por ARN.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "directs the CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in target DNA",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-22745249-2-en",
+   "translationKey": "micro-22745249-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which Cas9 domains cut each DNA strand?",
+   "options": [
+    "Both strands by the HNH domain",
+    "Both strands by RuvC",
+    "HNH cuts the complementary strand and RuvC-like cuts the noncomplementary strand",
+    "Neither; Cas9 only binds"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Two nuclease domains each cleave one strand, producing a double-stranded break.",
+   "shortExplanation": "HNH and RuvC.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the Cas9 HNH nuclease domain cleaves the complementary strand, whereas the Cas9 RuvC-like domain cleaves the noncomplementary strand",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-22745249-2-es",
+   "translationKey": "micro-22745249-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué dominios de Cas9 cortan cada hebra de ADN?",
+   "options": [
+    "Ambas hebras el dominio HNH",
+    "Ambas el RuvC",
+    "HNH corta la hebra complementaria y el tipo RuvC la no complementaria",
+    "Ninguno; Cas9 solo se une"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Dos dominios nucleasa cortan cada uno una hebra y producen un corte de doble cadena.",
+   "shortExplanation": "HNH y RuvC.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the Cas9 HNH nuclease domain cleaves the complementary strand, whereas the Cas9 RuvC-like domain cleaves the noncomplementary strand",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-22699609-1-en",
+   "translationKey": "micro-22699609-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What did the Human Microbiome Project find about healthy people's microbes?",
+   "options": [
+    "Healthy people differ remarkably in their microbes",
+    "Everyone has identical microbes",
+    "Healthy people have no microbes",
+    "Microbes live only in the gut"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Even healthy individuals vary widely in the microbes of gut, skin and other sites.",
+   "shortExplanation": "Large individual variation.",
+   "pmid": "22699609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "even healthy individuals differ remarkably in the microbes that occupy habitats such as the gut, skin and vagina",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-22699609-1-es",
+   "translationKey": "micro-22699609-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué halló el Proyecto Microbioma Humano sobre los microbios de personas sanas?",
+   "options": [
+    "Las personas sanas difieren mucho en sus microbios",
+    "Todos tienen los mismos microbios",
+    "Las personas sanas no tienen microbios",
+    "Los microbios solo viven en el intestino"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Incluso las personas sanas varían mucho en los microbios del intestino, la piel y otros sitios.",
+   "shortExplanation": "Gran variación individual.",
+   "pmid": "22699609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "even healthy individuals differ remarkably in the microbes that occupy habitats such as the gut, skin and vagina",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-22699609-2-en",
+   "translationKey": "micro-22699609-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which feature of the healthy microbiome was stable across people despite different species composition?",
+   "options": [
+    "The exact species list",
+    "Body weight",
+    "Metabolic pathways carried by the community",
+    "Blood type"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Different communities carried similar functional pathways—function is more conserved than taxonomy.",
+   "shortExplanation": "Metabolic functions.",
+   "pmid": "22699609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Metagenomic carriage of metabolic pathways was stable among individuals despite variation in community structure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-22699609-2-es",
+   "translationKey": "micro-22699609-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué característica del microbioma sano fue estable entre personas pese a distinta composición de especies?",
+   "options": [
+    "La lista exacta de especies",
+    "El peso corporal",
+    "Las vías metabólicas que porta la comunidad",
+    "El grupo sanguíneo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Comunidades distintas portaban vías funcionales similares: la función se conserva más que la taxonomía.",
+   "shortExplanation": "Funciones metabólicas.",
+   "pmid": "22699609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Metagenomic carriage of metabolic pathways was stable among individuals despite variation in community structure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25561178-1-en",
+   "translationKey": "micro-25561178-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "About what share of bacterial species in the environment are uncultured?",
+   "options": [
+    "About 1%",
+    "About 99%",
+    "About 50%",
+    "None"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Most environmental bacteria cannot be grown by standard methods—an untapped source of new antibiotics.",
+   "shortExplanation": "~99%.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Uncultured bacteria make up approximately 99% of all species in external environments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25561178-1-es",
+   "translationKey": "micro-25561178-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué proporción de las especies bacterianas del ambiente no se ha cultivado?",
+   "options": [
+    "Alrededor de 1%",
+    "Alrededor de 99%",
+    "Alrededor de 50%",
+    "Ninguna"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La mayoría de las bacterias ambientales no crece con métodos estándar: una fuente sin explotar de nuevos antibióticos.",
+   "shortExplanation": "~99%.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Uncultured bacteria make up approximately 99% of all species in external environments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25561178-2-en",
+   "translationKey": "micro-25561178-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What was remarkable about teixobactin, discovered from uncultured soil bacteria?",
+   "options": [
+    "It was a virus",
+    "It only killed fungi",
+    "It was toxic to all animals",
+    "No resistant mutants of S. aureus or M. tuberculosis were obtained"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Teixobactin binds lipid II and lipid III, conserved cell-wall precursors, which may make resistance hard to evolve.",
+   "shortExplanation": "No resistance detected.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "We did not obtain any mutants of Staphylococcus aureus or Mycobacterium tuberculosis resistant to teixobactin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25561178-2-es",
+   "translationKey": "micro-25561178-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué fue notable de la teixobactina, descubierta a partir de bacterias del suelo no cultivadas?",
+   "options": [
+    "Era un virus",
+    "Solo mataba hongos",
+    "Era tóxica para todos los animales",
+    "No se obtuvieron mutantes resistentes de S. aureus ni M. tuberculosis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La teixobactina se une al lípido II y III, precursores conservados de la pared, lo que dificultaría la resistencia.",
+   "shortExplanation": "Sin resistencia detectada.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "We did not obtain any mutants of Staphylococcus aureus or Mycobacterium tuberculosis resistant to teixobactin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25561178-3-en",
+   "translationKey": "micro-25561178-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "How does teixobactin kill bacteria?",
+   "options": [
+    "By binding conserved motifs of lipid II and lipid III, blocking cell wall synthesis",
+    "By blocking DNA gyrase",
+    "By inhibiting the 30S ribosome",
+    "By lysing the outer membrane of gram-negatives"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Targeting non-protein precursors of peptidoglycan and teichoic acid is harder for bacteria to mutate around.",
+   "shortExplanation": "Lipid II/III.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III (precursor of cell wall teichoic acid)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-25561178-3-es",
+   "translationKey": "micro-25561178-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Cómo mata la teixobactina a las bacterias?",
+   "options": [
+    "Uniéndose a motivos conservados del lípido II y III y bloqueando la síntesis de pared",
+    "Bloqueando la ADN girasa",
+    "Inhibiendo el ribosoma 30S",
+    "Lisando la membrana externa de gramnegativas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Atacar precursores no proteicos del peptidoglicano y del ácido teicoico es más difícil de evadir por mutación.",
+   "shortExplanation": "Lípido II/III.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III (precursor of cell wall teichoic acid)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32084340-1-en",
+   "translationKey": "micro-32084340-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How was the antibiotic halicin discovered?",
+   "options": [
+    "By accident in a moldy plate",
+    "From a frog's skin",
+    "By a deep neural network that predicted antibacterial molecules",
+    "From a plant extract"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "A deep learning model screened chemical libraries and identified halicin from the Drug Repurposing Hub.",
+   "shortExplanation": "Deep learning.",
+   "pmid": "32084340",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we trained a deep neural network capable of predicting molecules with antibacterial activity",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32084340-1-es",
+   "translationKey": "micro-32084340-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se descubrió el antibiótico halicina?",
+   "options": [
+    "Por accidente en una placa con moho",
+    "De la piel de una rana",
+    "Con una red neuronal profunda que predijo moléculas antibacterianas",
+    "De un extracto vegetal"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Un modelo de aprendizaje profundo analizó bibliotecas químicas e identificó la halicina en el Drug Repurposing Hub.",
+   "shortExplanation": "Aprendizaje profundo.",
+   "pmid": "32084340",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we trained a deep neural network capable of predicting molecules with antibacterial activity",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32084340-2-en",
+   "translationKey": "micro-32084340-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which infections did halicin effectively treat in mice?",
+   "options": [
+    "C. difficile and pan-resistant Acinetobacter baumannii",
+    "Influenza and measles",
+    "Malaria and leishmaniasis",
+    "Candida and Aspergillus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Halicin is structurally different from known antibiotics and active against many resistant pathogens.",
+   "shortExplanation": "C. difficile and Acinetobacter.",
+   "pmid": "32084340",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Halicin also effectively treated Clostridioides difficile and pan-resistant Acinetobacter baumannii infections in murine models",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32084340-2-es",
+   "translationKey": "micro-32084340-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué infecciones trató eficazmente la halicina en ratones?",
+   "options": [
+    "C. difficile y Acinetobacter baumannii panresistente",
+    "Influenza y sarampión",
+    "Malaria y leishmaniasis",
+    "Candida y Aspergillus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La halicina es estructuralmente distinta de los antibióticos conocidos y activa contra muchos patógenos resistentes.",
+   "shortExplanation": "C. difficile y Acinetobacter.",
+   "pmid": "32084340",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Halicin also effectively treated Clostridioides difficile and pan-resistant Acinetobacter baumannii infections in murine models",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26603172-1-en",
+   "translationKey": "micro-26603172-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What was alarming about the discovery of MCR-1 in China in 2015?",
+   "options": [
+    "It made bacteria sensitive to all drugs",
+    "It was found only in plants",
+    "It was a new vaccine",
+    "It was the first plasmid-mediated (transferable) colistin resistance"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Polymyxin resistance had only involved chromosomal mutations; mcr-1 on a plasmid can spread between bacteria.",
+   "shortExplanation": "Transferable colistin resistance.",
+   "pmid": "26603172",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we report the emergence of the first plasmid-mediated polymyxin resistance mechanism, MCR-1",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26603172-1-es",
+   "translationKey": "micro-26603172-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué fue alarmante del descubrimiento de MCR-1 en China en 2015?",
+   "options": [
+    "Volvía a las bacterias sensibles a todo",
+    "Solo se halló en plantas",
+    "Era una vacuna nueva",
+    "Fue la primera resistencia a colistina mediada por plásmidos (transferible)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La resistencia a polimixinas solo se debía a mutaciones cromosómicas; mcr-1 en un plásmido puede pasar entre bacterias.",
+   "shortExplanation": "Resistencia transferible.",
+   "pmid": "26603172",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "we report the emergence of the first plasmid-mediated polymyxin resistance mechanism, MCR-1",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26603172-2-en",
+   "translationKey": "micro-26603172-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Where was mcr-1 found most frequently in the original study?",
+   "options": [
+    "Hospital water only",
+    "In E. coli from food animals and raw meat",
+    "In wild birds only",
+    "In soil fungi"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "mcr-1 was in 21% of animals and 15% of raw meat samples versus 1% of inpatient samples, pointing to agricultural colistin use.",
+   "shortExplanation": "Animals and meat.",
+   "pmid": "26603172",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "We observed mcr-1 carriage in E coli isolates collected from 78 (15%) of 523 samples of raw meat and 166 (21%) of 804 animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26603172-2-es",
+   "translationKey": "micro-26603172-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Dónde se encontró mcr-1 con más frecuencia en el estudio original?",
+   "options": [
+    "Solo en agua de hospital",
+    "En E. coli de animales de producción y carne cruda",
+    "Solo en aves silvestres",
+    "En hongos del suelo"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "mcr-1 estaba en 21% de los animales y 15% de la carne cruda vs. 1% de pacientes internados, lo que señala el uso agropecuario de colistina.",
+   "shortExplanation": "Animales y carne.",
+   "pmid": "26603172",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "We observed mcr-1 carriage in E coli isolates collected from 78 (15%) of 523 samples of raw meat and 166 (21%) of 804 animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26603172-3-en",
+   "translationKey": "micro-26603172-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "How does MCR-1 make bacteria resistant to colistin?",
+   "options": [
+    "It pumps colistin out",
+    "It degrades colistin",
+    "It adds phosphoethanolamine to lipid A, modifying the colistin target",
+    "It thickens the peptidoglycan"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "MCR-1 is a phosphoethanolamine transferase; modified lipid A binds colistin poorly.",
+   "shortExplanation": "Modifies lipid A.",
+   "pmid": "26603172",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with expression in E coli resulting in the addition of phosphoethanolamine to lipid A",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-26603172-3-es",
+   "translationKey": "micro-26603172-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Cómo hace MCR-1 que las bacterias resistan la colistina?",
+   "options": [
+    "Bombea colistina afuera",
+    "Degrada la colistina",
+    "Agrega fosfoetanolamina al lípido A y modifica el blanco de la colistina",
+    "Engrosa el peptidoglicano"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "MCR-1 es una fosfoetanolamina transferasa; el lípido A modificado une mal a la colistina.",
+   "shortExplanation": "Modifica el lípido A.",
+   "pmid": "26603172",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with expression in E coli resulting in the addition of phosphoethanolamine to lipid A",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27988485-1-en",
+   "translationKey": "micro-27988485-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "What is Candida auris?",
+   "options": [
+    "A multidrug-resistant yeast causing invasive infections",
+    "A harmless skin bacterium",
+    "A virus of birds",
+    "A probiotic"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "C. auris, first described in 2009 in Japan, is an emerging healthcare-associated pathogen with high mortality.",
+   "shortExplanation": "Resistant yeast.",
+   "pmid": "27988485",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Candida auris, a multidrug-resistant yeast that causes invasive infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27988485-1-es",
+   "translationKey": "micro-27988485-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué es Candida auris?",
+   "options": [
+    "Una levadura multirresistente que causa infecciones invasivas",
+    "Una bacteria inocua de la piel",
+    "Un virus de aves",
+    "Un probiótico"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "C. auris, descrita en 2009 en Japón, es un patógeno emergente asociado a la atención de la salud con alta mortalidad.",
+   "shortExplanation": "Levadura resistente.",
+   "pmid": "27988485",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Candida auris, a multidrug-resistant yeast that causes invasive infections",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27988485-2-en",
+   "translationKey": "micro-27988485-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which antifungal were most Candida auris isolates resistant to?",
+   "options": [
+    "Echinocandins",
+    "Amphotericin B",
+    "Fluconazole",
+    "None"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "93% were fluconazole-resistant, 35% amphotericin B-resistant and 7% echinocandin-resistant.",
+   "shortExplanation": "Fluconazole.",
+   "pmid": "27988485",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "93% of isolates were resistant to fluconazole",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27988485-2-es",
+   "translationKey": "micro-27988485-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿A qué antifúngico eran resistentes la mayoría de los aislamientos de Candida auris?",
+   "options": [
+    "Equinocandinas",
+    "Anfotericina B",
+    "Fluconazol",
+    "Ninguno"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "93% eran resistentes a fluconazol, 35% a anfotericina B y 7% a equinocandinas.",
+   "shortExplanation": "Fluconazol.",
+   "pmid": "27988485",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "93% of isolates were resistant to fluconazole",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27988485-3-en",
+   "translationKey": "micro-27988485-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What did whole-genome sequencing reveal about how Candida auris emerged?",
+   "options": [
+    "A single clone spread from Japan",
+    "It came from animals",
+    "It is an ancient human commensal",
+    "Different clonal populations emerged independently and almost simultaneously on 3 continents"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Geographic clades separated by thousands of SNPs, each clonal internally, emerged independently.",
+   "shortExplanation": "Independent emergence.",
+   "pmid": "27988485",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "WGS analysis suggests nearly simultaneous, and recent, independent emergence of different clonal populations on 3 continents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-27988485-3-es",
+   "translationKey": "micro-27988485-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué reveló la secuenciación genómica completa sobre la aparición de Candida auris?",
+   "options": [
+    "Un único clon se expandió desde Japón",
+    "Vino de animales",
+    "Es un comensal humano antiguo",
+    "Distintas poblaciones clonales surgieron de forma independiente y casi simultánea en 3 continentes"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Clados geográficos separados por miles de SNP, clonales por dentro, surgieron de manera independiente.",
+   "shortExplanation": "Aparición independiente.",
+   "pmid": "27988485",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "WGS analysis suggests nearly simultaneous, and recent, independent emergence of different clonal populations on 3 continents",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
