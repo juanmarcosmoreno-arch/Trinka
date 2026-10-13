@@ -2847,6 +2847,367 @@
    "bookshelfID": "NBK557643"
   },
   {
+   "pmid": "32809459",
+   "title": "Candidiasis",
+   "authors": [
+    "Jenks JD",
+    "Tobin EH"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Candidiasis serves as the overarching term for a spectrum of fungal infections caused by yeasts of the genus Candida and represents the most common fungal infection worldwide. Candida species function as commensal organisms within the normal mycobiome, a fungal community that inhabits the skin, mucosal surfaces, and gastrointestinal tract. The mycobiome constitutes an essential component of the broader human microbiome. Disruption of microbial balance or impairment of host immune function allows Candida species to proliferate, invade host tissues, and produce clinical disease. The mycobiome plays a critical role in immune system development, metabolic regulation, and maintenance of microbial homeostasis. Alterations within this fungal community, referred to as mycobiome dysbiosis, have demonstrated associations with multiple disease states, including inflammatory bowel disease, liver disease, and certain malignancies. Most mild Candida infections result from localized overgrowth on mucous membranes secondary to changes in the normal microbiota, leading to conditions, eg, oropharyngeal candidiasis, esophagitis, mastitis, balanitis, and vulvovaginitis. Patients with impaired immune responses, including deficiencies in cell-mediated immunity, eg, acquired immunodeficiency syndrome (AIDS), neutropenia, or critical illness requiring intensive care unit (ICU) admission, may develop extensive mucosal disease, bloodstream infections, or invasive dissemination. Candida species exhibit adhesive properties that facilitate biofilm formation on endothelial surfaces, heart valves, osteoarticular structures, prosthetic devices, intravascular catheters, and central nervous system shunts. Management strategies for candidiasis vary according to infection type and severity, the identified Candida species, and patient-specific health status and risk factors. This article presents a comprehensive overview of candidiasis, including risk factors, epidemiology, clinical manifestations, physical examination findings, diagnostic approaches, and management principles.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK560624"
+  },
+  {
+   "pmid": "33085444",
+   "title": "Candida auris",
+   "authors": [
+    "Jenks JD",
+    "Tobin EH",
+    "Zahra F"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Candida auris (C auris), a multidrug-resistant yeast, has emerged as a significant global concern among fungal pathogens. This organism readily colonizes the skin and demonstrates a strong association with nosocomial infections in healthcare environments. Its capacity to trigger outbreaks linked to high mortality rates led the World Health Organization (WHO) to classify it within the \"critical priority group\" of the fungal priority pathogen list.[WHO.Fungal Priority Pathogens List.2022] First identified as a novel Candida species in 2009, C auris has since been reported in 61 countries across 6 continents as of 2023. Although C auris frequently colonizes the skin, the organism can also cause invasive infections associated with mortality rates ranging from 30% to 60%. This yeast qualifies as a multidrug-resistant species, showing variable resistance patterns to many antifungal agents typically used for other Candida infections. The rising prevalence of both infection and colonization in recent years reflects several contributing factors, including the ability of C auris to persist on skin and abiotic surfaces for extended periods, efficient transmission within healthcare facilities, frequent diagnostic challenges with misidentification, and high resistance rates across multiple antifungal classes. Laboratory yeast identification methods often misclassify C auris as other yeast species, complicating both detection and control efforts. Transmission most commonly occurs in nosocomial settings, even where infection prevention and control measures are actively enforced. In the United States, C auris is designated as a nationally notifiable pathogen, enabling systematic public health monitoring and targeted containment of its spread.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK563297"
+  },
+  {
+   "pmid": "29489184",
+   "title": "Aspergillosis",
+   "authors": [
+    "Jenks JD",
+    "Tobin EH"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Aspergillus is a ubiquitous, filamentous fungus that primarily causes infection in immunocompromised hosts and individuals with underlying pulmonary disease. However, Aspergillus is increasingly recognized as a cause of infection in critically ill individuals in the intensive care unit (ICU), including those with severe influenza and coronavirus disease 2019 (COVID-19). In the environment, Aspergillus species obtain nutrients from dead material and reproduce asexually via conidia. Fewer than 40 species of Aspergillus are capable of causing human disease, with A fumigatus, followed by A flavus, A terreus, and A niger, the most implicated species.[CDC. Aspergillosis Basics. April 24, 2024] Although caused by the same genus of fungi, aspergillosis should be considered a spectrum of processes that vary widely depending on the host's immune status. Thus, the implications of infection can range from life-threatening, as seen in invasive pulmonary aspergillosis and invasive rhinosinusitis in severely immunocompromised individuals, to nonurgent in the case of small aspergillomas in the immunocompetent host, where monitoring with serial imaging is appropriate in most cases. Please see StatPearls' companion resource, \"Aspergilloma,\" for further information on this condition. Allergic bronchopulmonary syndrome (ABPA) and chronic pulmonary aspergillosis (CPA) fall somewhere along this spectrum. Please see StatPearls' companion resources, \"Aspergilloma\" and \"Allergic Bronchopulmonary Aspergillosis\" for further information on these conditions. Individuals inhale an estimated few hundred to several thousand Aspergillus conidia daily. Most people do not develop aspergillosis because a robust immune response effectively clears inhaled conidia. Host defenses, including physical barriers, innate immunity, and soluble factors, destroy conidia before germination can occur. Neutrophils play a central role in controlling Aspergillus species, which explains the heightened risk in immunocompromised individuals, particularly those with prolonged neutropenia. Historically, invasive aspergillosis carried mortality rates up to 80%, and recent analyses estimate a global crude mortality of 85%. Lower mortality has been observed in specific populations, eg, a 58% all-cause mortality rate among hematopoietic stem cell transplant recipients in the United States.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK482241"
+  },
+  {
+   "pmid": "28846361",
+   "title": "Histoplasmosis",
+   "authors": [
+    "Jenks JD",
+    "Koirala J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Histoplasma capsulatum is a dimorphic fungus found worldwide, primarily in soil enriched with bird or bat droppings within humid, river-valley environments. Although widely endemic throughout Africa and parts of Asia, most infections occur in the Americas. In the United States, endemic regions include the central and eastern areas, particularly within the Ohio, Mississippi, and Missouri river valleys. As a soil-borne fungus, H capsulatum releases conidia into the air when contaminated soil becomes disturbed, allowing inhalation and subsequent infection. Many exposures result in asymptomatic infection; however, H capsulatum can cause acute or chronic pulmonary disease as well as infections involving other organ systems. Disseminated disease occurs primarily among immunocompromised individuals and can involve widespread systemic manifestations.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK448185"
+  },
+  {
+   "pmid": "28846274",
+   "title": "Coccidioidomycosis",
+   "authors": [
+    "Akram SM",
+    "Koirala J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "The dimorphic fungus Coccidioides causes coccidioidomycosis, also known as San Joaquin Valley fever, which is endemic to the arid regions of the Western Hemisphere. Coccidioides was first discovered by a medical intern in 1892 and was later named Coccidioides immitis. Coccidioidomycosis has a wide spectrum of clinical manifestations, from asymptomatic infection to fatal disease.[2] See Image. Coccidioidomycosis.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK448161"
+  },
+  {
+   "pmid": "31335084",
+   "title": "Mucormycosis",
+   "authors": [
+    "Febres A",
+    "Jenks JD",
+    "Buckley CJ"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Mucormycosis is a severe, opportunistic, invasive fungal infection caused by fungi in the order Mucorales. The causative fungi are ubiquitous environmental molds that are typically nonpathogenic to humans but can cause rapidly angioinvasive infections leading to tissue infarction, necrosis, and thrombosis. Infection primarily affects immunocompromised patients, including those with hematologic malignant neoplasms, recipients of solid organ or stem cell transplants, and those with poorly controlled diabetes mellitus. Cases have also been described in immunocompetent patients following trauma or severe burns and in patients with severe COVID-19 infection. The lungs, paranasal sinuses, orbits, and brain are most often involved, although virtually any organ system can be affected. Treatment requires a prompt, interdisciplinary approach that includes correction of the underlying predisposing factor, surgical debridement when feasible, and early initiation of antifungal therapy.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK544364"
+  },
+  {
+   "pmid": "29493992",
+   "title": "Pneumocystis jirovecii Pneumonia",
+   "authors": [
+    "Truong J",
+    "Ashurst JV"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Pneumocystis carinii pneumonia (PCP), now referred to as Pneumocystis jirovecii pneumonia, is a fungal infection that most commonly affects the immunocompromised and, in some cases, can be severely life-threatening (see Image. Pneumocystis Carinii Pneumonia). Typically, patients at risk are those with underlying disease states that alter host immunity, such as cancer, human immunodeficiency virus (HIV), transplant recipients, or those taking immunosuppressive therapies and medications. Patients presenting with PCP may show signs of fever, cough, dyspnea, and, in severe cases, respiratory failure. Pneumocystis is thought to be transmitted from person to person through an airborne route. Asymptomatic lung colonization can occur in people with normal immune systems, and they may unknowingly become reservoirs (asymptomatic carriers) for the spread of Pneumocystis to immunocompromised individuals. Although it is still the most common and serious opportunistic respiratory infection in patients with acquired immunodeficiency syndrome [AIDS]), thanks to the widespread use of prophylaxis and antiretroviral therapy, the incidence of infection in this population has declined substantially.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK482370"
+  },
+  {
+   "pmid": "30335288",
+   "title": "Sporotrichosis",
+   "authors": [
+    "Syed HA",
+    "Talati R"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Sporothrix schenckii is a dimorphic fungus that can cause sporotrichosis. S. schenckii exists in either a hyphal form at temperatures less than 98.6 °F (37 °C) or as a budding yeast at 98.6 °F (37 °C) or greater. This characteristic morphology is important in identifying the conversion from mold to yeast. Different strains of S. schenckii have been identified, with S. schenckii complex most commonly found in America, Asia, and Africa. S. brasilienis has been found in Brazil and is known to be transmitted from infected cats. S. Mexicana and S. globose have also been identified throughout the world. Sporotrichosis caused by S. schenckii occurs by the inoculation of soil, plants, and organic matter contaminated with the fungus. Sporotrichosis typically presents as papules or pustules that form ulcerated nodules involving local lymphatics. Sporotrichosis is classified into cutaneous, pulmonary, and disseminated, with cutaneous being the most common form of the disease. Risk factors that increase the risk of disseminated disease include patients who are immunocompromised and those with chronic obstructive pulmonary disease, alcohol use disorder, and diabetes mellitus. General prevention is to wear gloves and long sleeves when handling soil. The gold standard for sporotrichosis diagnosis is fungal culture. First-line treatment is itraconazole.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK532255"
+  },
+  {
+   "pmid": "33085335",
+   "title": "Paracoccidioidomycosis",
+   "authors": [
+    "Cordova LA",
+    "Torres J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2022,
+   "doi": null,
+   "abstract": "Paracoccidioidomycosis (PCM) is a systemic fungal infection caused by a dimorphic fungus endemic to the Americas, found from Mexico to Argentina, with the highest incidence in Brazil, Venezuela, and Colombia. PCM is the most frequent mycosis in this region and was first recognized by Adolfo Lutz in Brazil in 1908. Later, Splendore described the fungus's morphology and 4 clinical cases. In 1930, Floriano Paulo de Almeida named the causing agent Paracoccidiodes brasiliensis. This disease is caused by a thermally dimorphic fungus from the genus Paracoccidioides. PCM can also be caused by other species of this genus, including P americana, P restrepiensis, P venezuelensis, and P lutzii. Paracoccidioides brasiliensis and Paracoccidioides lutzii are considered the primary pathogens, given the high isolation rate of these strains.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK563188"
+  },
+  {
+   "pmid": "31869175",
+   "title": "Malaria",
+   "authors": [
+    "Buck E",
+    "Finnigan NA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Malaria is a parasitic infection transmitted by the Anopheles mosquito that leads to acute life-threatening disease and poses a significant global health threat. Two billion people risk contracting malaria annually, including those in 90 endemic countries and 125 million travelers, and 1.5 to 2.7 million people die in a year. The Plasmodium parasite has a multistage lifecycle, which leads to characteristic cyclical fevers. With timely treatment, most people experience rapid resolution of symptoms; however, significant complications may occur, including cerebral malaria, severe malarial anemia, coma, or death. Preferred antimalarial therapeutic and chemoprophylactic regimens get dictated by species, geography, susceptibility, and patient demographics. Latent or reactivating infections may be reported years following exposure.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK551711"
+  },
+  {
+   "pmid": "32491650",
+   "title": "Amebiasis",
+   "authors": [
+    "Bento D",
+    "Austin RL"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Entamoeba histolytica represents one of the most common parasitic infections in humans and has the potential to cause both intestinal and extraintestinal disease, occasionally resulting in severe clinical presentations and fatal outcomes. The infection shows particularly high incidence in socioeconomically disadvantaged settings, where transmission risk remains elevated due to limited sanitation and access to clean water. Entamoeba histolytica affects approximately 50 million individuals worldwide and accounts for an estimated 25,000 to 100,000 deaths annually. Global disease burden remains substantial, with approximately 2.54 million disability-adjusted life years (DALYs) attributable to Entamoeba infection reported in 2019.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK557718"
+  },
+  {
+   "pmid": "30521247",
+   "title": "Trichomoniasis",
+   "authors": [
+    "Jenks JD",
+    "Plasner S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Trichomonas vaginalis is the most common nonviral sexually transmitted infection (STI) globally and is among the most common protozoal infections both in the United States and globally. This organism is also one of the leading infectious causes of symptomatic vaginitis in women. T vaginalis is a unicellular motile protozoan parasite that lives in the lower genitourinary tract of women and in the prostate and urethra of men. Both men and women infected with T vaginalis are commonly asymptomatic. Infection with T vaginalis, termed trichomoniasis, increases the risk of both transmission and acquisition of human immunodeficiency virus as well as other STIs in both women and men. In addition, the infection is associated with adverse birth outcomes during pregnancy, including low birth weight, preterm labor, and early rupture of membranes. Trichomoniasis is underdiagnosed, and when diagnosed, clinicians often do not test the sexual partner, allowing continued transmission. The drug of choice is oral metronidazole, although clinicians may use other 5-nitroimidazoles, such as tinidazole.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK534826"
+  },
+  {
+   "pmid": "28613795",
+   "title": "Strongyloidiasis",
+   "authors": [
+    "Tobin EH",
+    "Meseeha M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Strongyloidiasis is primarily caused by the roundworm Strongyloides stercoralis, an intestinal, soil-transmitted helminth belonging to the phylum Nematoda (roundworms). S stercoralis mainly infects humans but can also occur naturally in domestic dogs, cats, and primates. Although strongyloidiasis is generally found in tropical and subtropical regions, small pockets of transmission can occur in any setting where poor sanitation and hygiene permit fecal contamination of the environment, in rural areas, and among socioeconomically disadvantaged groups. Strongyloides stercoralis is prevalent worldwide, particularly in Asia, Africa, South and Central America, and the Pacific. The global burden of infection is likely underestimated owing to limited surveillance, diagnostic challenges, and inadequate epidemiological data in endemic settings. Strongyloides stercoralis is one of the most overlooked parasitic infections among the \"neglected tropical diseases\". Strongyloides is important among human nematodes because it can complete a free-living cycle, including a soil phase, and can reproduce and amplify within the human host. Rhabditiform larvae excreted in human feces can mature into free-living adult worms in the external environment, where they reproduce and produce infective filariform larvae capable of penetrating intact human skin. Infection with S stercoralis is associated with a broad clinical spectrum, ranging from asymptomatic infection to symptomatic acute disease, chronic infection maintained by autoinfection, and the hyperinfection syndrome, a life-threatening disseminated strongyloidiasis associated with immunosuppressed patients and with high fatality. Diagnosis is based on the demonstration of larvae in clinical specimens, with serology and nucleic acid–based assays providing supportive evidence. However, diagnostic methods are not fully standardized, and performance varies by technique, specimen type, and parasite burden, contributing to missed or delayed diagnoses. Ivermectin remains the treatment of choice due to its high efficacy and tolerability. Longer or repeated courses may be needed in patients with hyperinfection or disseminated disease. In recent years, strongyloidiasis has increasingly been recognized as a global public health concern. This disease has been incorporated into the World Health Organization's control strategy for soil-transmitted helminth infections, which emphasizes the need for reliable epidemiological data to accurately define the global burden of disease and access to effective treatment to support prevention, control, and eventual elimination efforts.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK436024"
+  },
+  {
+   "pmid": "32119321",
+   "title": "Schistosomiasis",
+   "authors": [
+    "Peine W",
+    "Jenks JD",
+    "Horrall S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Schistosomiasis, historically known as bilharziasis, is a waterborne parasitic disease caused by trematodes of the genus Schistosoma (see Image. Adult Schistosoma). The disease remains widely distributed throughout tropical and subtropical regions and is associated with substantial morbidity, particularly in sub-Saharan Africa, South America, the Middle East, and parts of Asia. Globally, an estimated 290 million individuals are infected, and more than 700 million people are at risk of exposure. Schistosomiasis is classified by the World Health Organization (WHO) as a neglected tropical disease, reflecting its substantial health, social, and economic burden in endemic areas. Human infection is caused primarily by 3 of the 6 Schistosoma species that infect humans: S mansoni, S japonicum, and S haematobium. These species are responsible for the 2 principal clinical syndromes of schistosomiasis: intestinal and hepatosplenic disease, most often caused by S mansoni and S japonicum, and urogenital disease, which is most commonly caused by S haematobium. Disease manifestations are largely driven by the host's immune response to parasite eggs, leading to chronic inflammation, fibrosis, and organ-specific complications. Schistosomiasis is frequently underdiagnosed, particularly in nonendemic regions, where clinicians may not routinely consider parasitic infections in the differential diagnosis of individuals presenting with unexplained peripheral eosinophilia, hematuria, or chronic liver disease. Diagnostic delays are common and are often attributable to limited clinical awareness and underuse of appropriate laboratory and imaging modalities. In endemic settings, chronic and advanced disease may likewise be overlooked, because control strategies are largely centered on mass drug administration rather than systematic evaluation for long-term complications. Consequently, clinically significant sequelae, including noncirrhotic portal hypertension, infertility, and squamous cell carcinoma of the bladder, may remain undiagnosed until late stages. A high index of clinical suspicion, thorough assessment of freshwater exposure and travel history, and timely diagnostic evaluation are essential to facilitate early diagnosis, reduce morbidity, and prevent irreversible complications.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK554434"
+  },
+  {
+   "pmid": "32644453",
+   "title": "Onchocerciasis",
+   "authors": [
+    "Gyasi ME",
+    "Okonkwo ON",
+    "Tripathy K"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Onchocerciasis, also known as the African river blindness, is the second most important cause of infectious blindness worldwide after trachoma. It is caused by the filarial nematode, Onchocerca volvulus, and transmitted by repeated bites of the vector, female black fly of the genus Simulium damnosum. The vector breeds in fast-flowing and oxygen-rich rivers in affected areas with transmission and disease prevalence usually stretching along these river basins and thereby the name river blindness. Aside from blindness, onchocerciasis results in a troubling chronic dermatitis.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK559027"
+  },
+  {
+   "pmid": "30844195",
+   "title": "Antifungal Agents",
+   "authors": [
+    "Patel P",
+    "Zito PM"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Fungi are eukaryotic organisms found in nearly every environment, with only a limited subset contributing to human disease. These pathogenic fungi can cause infections ranging from mild cutaneous conditions to invasive, life-threatening diseases such as cryptococcal meningitis. Antifungal agents serve as a critical therapeutic class for managing these infections. Understanding the pharmacologic characteristics of antifungal medications—including spectrum of activity, mechanism of action, and pharmacokinetics—is essential for effective treatment selection.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK538168"
+  },
+  {
+   "pmid": "30725594",
+   "title": "Tinea Capitis",
+   "authors": [
+    "Al Aboud AM",
+    "Crane JS"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Tinea capitis is a fungal infection of the scalp hairs. Tinea capitis is also known as ringworm and herpes tonsurans infection. Tinea capitis is caused primarily by the dermatophyte species Microsporum and Trichophyton. Fungi can penetrate the outer root sheath of the hair follicle and may ultimately invade the hair shaft. Clinically, tinea capitis divides into inflammatory and noninflammatory types. The noninflammatory type usually will not be complicated by scarring alopecia. The inflammatory type may result in a kerion (a painful nodule with pus) as well as scarring alopecia. Tinea capitis occurs primarily in children between 3 and 14 years of age, but it might affect any age group. The disease may also involve the eyelashes and eyebrows.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK536909"
+  },
+  {
+   "pmid": "30285351",
+   "title": "Leishmaniasis",
+   "authors": [
+    "Jenks JD",
+    "Crane JS"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Leishmaniasis is a disease caused by protozoan parasites of the genus Leishmania and is most commonly transmitted through the bites of infected sand flies. Leishmaniasis has historically been widespread in tropical climates across multiple continents, including the Americas, East Africa, the Middle East, Central Asia, and India. Leishmaniasis is broadly classified into 2 main forms: cutaneous and visceral. Leishmaniasis is an ancient disease, with a history extending from prehistoric origins in the Americas and Africa to the present day. Results from archeological and molecular studies showed that cutaneous and mucocutaneous leishmaniasis existed as early as 2500 BC in Egyptian and Christian Nubian mummies. During the Middle Kingdom, Egyptian trade and military expeditions to Nubia (modern Sudan) are thought to have introduced leishmaniasis into Egypt, because samples from earlier periods did not contain detectable DNA. Furthermore, some sources identify Sudan as the original focus of visceral leishmaniasis. Additionally, the Ebers Papyrus, a medical manuscript dating to 1500 BC, described a condition thought to be cutaneous leishmaniasis, then termed the Nile pimple. Based on this ancient understanding of the disease, practitioners attempted an early form of vaccination in the Middle East and Central Asia. The procedure involved collecting exudate from active lesions and inoculating the buttocks of children. Over the next 1000 years, cutaneous sores consistent with leishmaniasis were described, including a condition in the region now known as northern Afghanistan, termed the Balkh sore, attributed to infection with Leishmania tropica. In Asia and the Middle East, the disease continued to be documented under names such as the Aleppo boil, Jericho boil, and Baghdad boil. Many of these names remain in use today. The infectious nature of leishmaniasis was first recognized when a Scottish clinician observed parasites in a Delhi boil. However, similar findings reported by the Russian clinician Piotr Fokich Borovsky led to the identification of the organisms in Asian sores as protozoa, a finding published in 1898. In 1900, a British pathologist observed ovoid bodies, proposed that they represented degenerated trypanosomes, and termed the illness dum-dum fever. Around the same time, Irish clinician Charles Donovan published a paper on similar ovoid bodies from the spleens of patients in India. An investigation into kala-azar and the splenic ovoid bodies described by the pathologist Leishman and clinician Donovan concluded that these ovoid bodies were not degenerated trypanosomes but represented a new protozoan species later termed Leishmania donovani. Over the next decades, additional species were identified, including Leishmania tropica and Leishmania aethiopica. Classification of the disease into New World and Old World leishmaniasis was subsequently based on these organisms and their geographic distribution.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK531456"
+  },
+  {
+   "pmid": "29083573",
+   "title": "Chagas Disease",
+   "authors": [
+    "Winters R",
+    "Nguyen T",
+    "Waseem M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Chagas disease, or American Trypanosomiasis, is a potentially life-threatening zoonotic illness caused by the parasite Trypanosoma cruzi, first described in 1909 by Brazilian physician Carlos Chagas. The disease is primarily found in Central and South America, Trinidad, and the southern United States, with rural areas being most affected due to the presence of the reduviid bug (also known as the triatomine or \"kissing bug\"). The term kissing bug is a colloquial term that refers to a variety of species of insects in the Triatominae family (triatomines) that commonly seek out uncovered host mucosal surfaces and thus will frequently bite the face. The vector-borne disease is transmitted primarily via contact with contaminated excrement of the reduviid bug into an open wound (eg, the bite of the bug itself), with the insect serving as the intermediate host for the parasite and humans and other mammals serving as definitive hosts. Vertical transmission between mother and fetus is also possible. Other modes of transmission include transfusion of blood products, transplant of an infected organ, or consumption of infected food or drinks. Chagas disease has 2 phases: acute and chronic. The acute phase, lasting about 2 months, often presents with mild or no symptoms, though fever, localized edema, and Romana’s sign (unilateral eyelid swelling) may occur. In the chronic phase, which affects approximately 30% of infected individuals, cardiac complications, eg, cardiomegaly, heart failure, and arrhythmias, are common, while gastrointestinal involvement may lead to megacolon or megaesophagus. Diagnosis in the acute phase relies on microscopic detection of the parasite or PCR testing, while chronic cases are confirmed through serological tests. Treatment includes antiparasitic medications, nifurtimox and benznidazole, which are most effective in the acute phase. In chronic cases, management focuses on treating complications, with some patients requiring pacemakers, defibrillators, or surgical interventions.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK459272"
+  },
+  {
+   "pmid": "30020611",
+   "title": "Giardiasis",
+   "authors": [
+    "Stephen T",
+    "Tobin EH",
+    "Juergens AL"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Giardiasis, caused by the protozoan parasite Giardia duodenalis, is one of the most common treatable causes of gastroenteritis worldwide, with a burden higher in low-income countries. In high-income countries, risk factors for giardiasis include international travel, exposure to untreated freshwater sources, male-male sexual contact, contact with diapered children, recent antibiotic use, and underlying chronic gastrointestinal disease. The clinical presentation typically involves diarrhea, flatulence, abdominal pain, and bloating; however, asymptomatic colonization is also common. In some patients, a chronic infection may lead to malabsorption and weight loss. Treatment with nitroimidazoles or other antiparasitic medications is generally highly effective.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK513239"
+  },
+  {
+   "pmid": "28613547",
+   "title": "Ascariasis",
+   "authors": [
+    "de Lima Corvino DF",
+    "Carmona S",
+    "Tobin EH",
+    "Horrall S"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Ascariasis is a soil-transmitted helminth and remains a global health concern. The estimated global prevalence of human ascariasis in 2021 was between 682 and 782 million people infected worldwide. Ascariasis disproportionately affects children aged 5 to 15 years and occurs mostly in tropical and subtropical countries worldwide, where sanitation is poor, and humidity and temperatures are high. This infection is frequently documented in sub-Saharan Africa, Latin America, the Caribbean, China, and East Asia. Based on Global Burden of Disease Collaborative Network estimates, ascariasis remains one of the most consequential neglected tropical diseases worldwide, accounting for approximately 648,000 disability-adjusted life years (DALYs) annually.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK430796"
+  },
+  {
+   "pmid": "31536254",
+   "title": "Hookworm",
+   "authors": [
+    "Ghodeif AO",
+    "Newera A",
+    "Tobin EH"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Hookworms are nematode parasites that are usually transmitted through infested soil. They usually affect the poorest individuals in tropical and subtropical areas. Two species are mainly responsible for human infections: Ancylostoma duodenale and Necator americanus. They can cause chronic infection of the intestinal tract and ingest their host's blood, leading to iron-deficiency anemia in most cases. Moreover, pulmonary manifestations may result from larval migration. An estimated 1.38 to 4 million disability-adjusted life years (DALYs) are lost worldwide each year as a result of hookworm infections, which translates into a significant financial burden of 2.4 to 138.9 billion dollars. In tropical areas, hookworm remains a significant neglected tropical disease; however, the estimated worldwide burden has changed somewhat. While multiple medications are available to treat hookworm infections, prevention remains vital in combating complications.[WHO. Soil-Transmitted Helminth Infections. 2023.]",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK546648"
+  },
+  {
    "pmid": "28722861",
    "title": "Brucellosis",
    "authors": [
@@ -22135,6 +22496,2166 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Eight types of herpes viruses affect humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809459-1-en",
+   "translationKey": "micro-32809459-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "What is the most common fungal infection worldwide?",
+   "options": [
+    "Aspergillosis",
+    "Histoplasmosis",
+    "Candidiasis",
+    "Mucormycosis"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Candidiasis, caused by Candida yeasts, is the most common fungal infection worldwide.",
+   "shortExplanation": "Candidiasis.",
+   "pmid": "32809459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "represents the most common fungal infection worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809459-1-es",
+   "translationKey": "micro-32809459-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la infección fúngica más común en el mundo?",
+   "options": [
+    "Aspergilosis",
+    "Histoplasmosis",
+    "Candidiasis",
+    "Mucormicosis"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La candidiasis, causada por levaduras del género Candida, es la infección fúngica más común del mundo.",
+   "shortExplanation": "Candidiasis.",
+   "pmid": "32809459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "represents the most common fungal infection worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809459-2-en",
+   "translationKey": "micro-32809459-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Where does Candida normally live in healthy people?",
+   "options": [
+    "As a commensal on skin, mucosa and gut",
+    "Only in soil",
+    "Only in bird droppings",
+    "Never in humans"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Candida is part of the normal mycobiome; disease arises when microbial balance or immunity is disrupted.",
+   "shortExplanation": "Commensal mycobiome.",
+   "pmid": "32809459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Candida species function as commensal organisms within the normal mycobiome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809459-2-es",
+   "translationKey": "micro-32809459-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Dónde vive normalmente Candida en personas sanas?",
+   "options": [
+    "Como comensal en piel, mucosas e intestino",
+    "Solo en el suelo",
+    "Solo en excrementos de aves",
+    "Nunca en humanos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Candida forma parte del micobioma normal; la enfermedad surge cuando se altera el equilibrio microbiano o la inmunidad.",
+   "shortExplanation": "Micobioma comensal.",
+   "pmid": "32809459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Candida species function as commensal organisms within the normal mycobiome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809459-3-en",
+   "translationKey": "micro-32809459-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Why are intravascular catheters and prosthetic devices important in invasive candidiasis?",
+   "options": [
+    "They release antifungals",
+    "They kill Candida",
+    "They block neutrophils permanently",
+    "Candida adheres and forms biofilms on them"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Candida's adhesive properties allow biofilms on catheters, valves and prostheses, a source of persistent infection.",
+   "shortExplanation": "Biofilm formation.",
+   "pmid": "32809459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Candida species exhibit adhesive properties that facilitate biofilm formation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32809459-3-es",
+   "translationKey": "micro-32809459-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué los catéteres y prótesis son importantes en la candidiasis invasiva?",
+   "options": [
+    "Liberan antifúngicos",
+    "Matan a Candida",
+    "Bloquean neutrófilos para siempre",
+    "Candida se adhiere y forma biopelículas sobre ellos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La adhesividad de Candida le permite formar biopelículas en catéteres, válvulas y prótesis, fuente de infección persistente.",
+   "shortExplanation": "Biopelículas.",
+   "pmid": "32809459",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Candida species exhibit adhesive properties that facilitate biofilm formation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-33085444-1-en",
+   "translationKey": "micro-33085444-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What makes Candida auris a global concern?",
+   "options": [
+    "It is a bacterium",
+    "It is a multidrug-resistant yeast causing hospital outbreaks",
+    "It only infects plants",
+    "It is always susceptible to fluconazole"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "C. auris is a multidrug-resistant yeast that persists on skin and surfaces and causes nosocomial outbreaks; WHO lists it as critical priority.",
+   "shortExplanation": "Multidrug-resistant, nosocomial.",
+   "pmid": "33085444",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Candida auris (C auris), a multidrug-resistant yeast",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-33085444-1-es",
+   "translationKey": "micro-33085444-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué Candida auris es una preocupación mundial?",
+   "options": [
+    "Es una bacteria",
+    "Es una levadura multirresistente que causa brotes hospitalarios",
+    "Solo infecta plantas",
+    "Siempre es sensible a fluconazol"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "C. auris es una levadura multirresistente que persiste en piel y superficies y causa brotes nosocomiales; la OMS la considera prioridad crítica.",
+   "shortExplanation": "Multirresistente, nosocomial.",
+   "pmid": "33085444",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Candida auris (C auris), a multidrug-resistant yeast",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-33085444-2-en",
+   "translationKey": "micro-33085444-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which laboratory problem complicates control of Candida auris?",
+   "options": [
+    "It does not grow in culture",
+    "It stains gram-negative",
+    "Conventional identification methods often misidentify it as other yeasts",
+    "It is only detectable by electron microscopy"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Conventional yeast ID often misclassifies C. auris, delaying detection; accurate methods (e.g., MALDI-TOF with updated libraries) are needed.",
+   "shortExplanation": "Misidentification.",
+   "pmid": "33085444",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Laboratory yeast identification methods often misclassify C auris as other yeast species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-33085444-2-es",
+   "translationKey": "micro-33085444-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué problema de laboratorio complica el control de Candida auris?",
+   "options": [
+    "No crece en cultivo",
+    "Se tiñe como gramnegativa",
+    "Los métodos convencionales suelen identificarla erróneamente como otras levaduras",
+    "Solo se detecta por microscopía electrónica"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La identificación convencional suele confundir a C. auris, retrasando su detección; se necesitan métodos precisos (p. ej., MALDI-TOF con bibliotecas actualizadas).",
+   "shortExplanation": "Identificación errónea.",
+   "pmid": "33085444",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Laboratory yeast identification methods often misclassify C auris as other yeast species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29489184-1-en",
+   "translationKey": "micro-29489184-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which Aspergillus species most often causes human disease?",
+   "options": [
+    "A. niger",
+    "A. oryzae",
+    "A. terreus",
+    "A. fumigatus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "A. fumigatus is the most implicated species, followed by A. flavus, A. terreus and A. niger.",
+   "shortExplanation": "A. fumigatus.",
+   "pmid": "29489184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with A fumigatus, followed by A flavus, A terreus, and A niger, the most implicated species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29489184-1-es",
+   "translationKey": "micro-29489184-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué especie de Aspergillus causa con más frecuencia enfermedad humana?",
+   "options": [
+    "A. niger",
+    "A. oryzae",
+    "A. terreus",
+    "A. fumigatus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "A. fumigatus es la especie más implicada, seguida por A. flavus, A. terreus y A. niger.",
+   "shortExplanation": "A. fumigatus.",
+   "pmid": "29489184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "with A fumigatus, followed by A flavus, A terreus, and A niger, the most implicated species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29489184-2-en",
+   "translationKey": "micro-29489184-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which patients are at highest risk of invasive aspergillosis?",
+   "options": [
+    "Those with prolonged neutropenia",
+    "Healthy athletes",
+    "People with high IgE only",
+    "Pregnant women without other conditions"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Neutrophils are central to controlling Aspergillus, so prolonged neutropenia greatly increases risk.",
+   "shortExplanation": "Prolonged neutropenia.",
+   "pmid": "29489184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Neutrophils play a central role in controlling Aspergillus species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29489184-2-es",
+   "translationKey": "micro-29489184-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué pacientes tienen mayor riesgo de aspergilosis invasiva?",
+   "options": [
+    "Los que tienen neutropenia prolongada",
+    "Atletas sanos",
+    "Personas con IgE alta solamente",
+    "Embarazadas sin otras condiciones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los neutrófilos son clave para controlar Aspergillus; la neutropenia prolongada eleva mucho el riesgo.",
+   "shortExplanation": "Neutropenia prolongada.",
+   "pmid": "29489184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Neutrophils play a central role in controlling Aspergillus species",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29489184-3-en",
+   "translationKey": "micro-29489184-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Why don't most people develop aspergillosis despite daily exposure?",
+   "options": [
+    "Conidia are never inhaled",
+    "Aspergillus cannot grow at 37 °C",
+    "Host defenses destroy inhaled conidia before they germinate",
+    "Everyone takes antifungals"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "We inhale hundreds to thousands of conidia daily; barriers and innate immunity clear them before germination.",
+   "shortExplanation": "Innate clearance of conidia.",
+   "pmid": "29489184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Individuals inhale an estimated few hundred to several thousand Aspergillus conidia daily",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29489184-3-es",
+   "translationKey": "micro-29489184-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué la mayoría no desarrolla aspergilosis pese a la exposición diaria?",
+   "options": [
+    "Nunca se inhalan conidios",
+    "Aspergillus no crece a 37 °C",
+    "Las defensas destruyen los conidios inhalados antes de que germinen",
+    "Todos toman antifúngicos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Inhalamos cientos a miles de conidios por día; las barreras y la inmunidad innata los eliminan antes de germinar.",
+   "shortExplanation": "Eliminación innata.",
+   "pmid": "29489184",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Individuals inhale an estimated few hundred to several thousand Aspergillus conidia daily",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846361-1-en",
+   "translationKey": "micro-28846361-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Where is Histoplasma capsulatum typically found?",
+   "options": [
+    "Seawater",
+    "Hospital air filters",
+    "Raw milk",
+    "Soil enriched with bird or bat droppings"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "H. capsulatum lives in soil rich in bird or bat droppings, especially in humid river valleys; disturbed soil releases conidia.",
+   "shortExplanation": "Bird/bat-enriched soil.",
+   "pmid": "28846361",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "primarily in soil enriched with bird or bat droppings within humid, river-valley environments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846361-1-es",
+   "translationKey": "micro-28846361-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde se encuentra típicamente Histoplasma capsulatum?",
+   "options": [
+    "En agua de mar",
+    "En filtros de aire hospitalarios",
+    "En leche cruda",
+    "En suelos enriquecidos con excrementos de aves o murciélagos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "H. capsulatum vive en suelos ricos en excrementos de aves o murciélagos, sobre todo en valles fluviales húmedos.",
+   "shortExplanation": "Suelo con guano.",
+   "pmid": "28846361",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "primarily in soil enriched with bird or bat droppings within humid, river-valley environments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846361-2-en",
+   "translationKey": "micro-28846361-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What does it mean that Histoplasma is \"dimorphic\"?",
+   "options": [
+    "It has two nuclei",
+    "It grows as a mold in the environment and a yeast in tissue",
+    "It infects two hosts",
+    "It produces two toxins"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Dimorphic fungi switch between mold (environment) and yeast (body temperature/tissue) forms.",
+   "shortExplanation": "Mold ↔ yeast.",
+   "pmid": "28846361",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Histoplasma capsulatum is a dimorphic fungus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846361-2-es",
+   "translationKey": "micro-28846361-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué significa que Histoplasma sea \"dimórfico\"?",
+   "options": [
+    "Tiene dos núcleos",
+    "Crece como moho en el ambiente y como levadura en los tejidos",
+    "Infecta dos huéspedes",
+    "Produce dos toxinas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los hongos dimórficos alternan entre forma de moho (ambiente) y de levadura (temperatura corporal/tejido).",
+   "shortExplanation": "Moho ↔ levadura.",
+   "pmid": "28846361",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Histoplasma capsulatum is a dimorphic fungus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846274-1-en",
+   "translationKey": "micro-28846274-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Coccidioidomycosis (\"Valley fever\") is endemic to…",
+   "options": [
+    "Arid regions of the Western Hemisphere",
+    "Tropical rainforests of Africa",
+    "Arctic tundra",
+    "River valleys rich in bat guano only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Coccidioides is endemic to arid regions of the Americas, e.g., the San Joaquin Valley.",
+   "shortExplanation": "Arid Americas.",
+   "pmid": "28846274",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "also known as San Joaquin Valley fever, which is endemic to the arid regions of the Western Hemisphere",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28846274-1-es",
+   "translationKey": "micro-28846274-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "La coccidioidomicosis (\"fiebre del Valle\") es endémica de…",
+   "options": [
+    "Regiones áridas del hemisferio occidental",
+    "Selvas tropicales de África",
+    "Tundra ártica",
+    "Solo valles con guano de murciélago"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Coccidioides es endémico de regiones áridas de América, p. ej., el valle de San Joaquín.",
+   "shortExplanation": "Zonas áridas de América.",
+   "pmid": "28846274",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "also known as San Joaquin Valley fever, which is endemic to the arid regions of the Western Hemisphere",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31335084-1-en",
+   "translationKey": "micro-31335084-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What characterizes the pathology of mucormycosis?",
+   "options": [
+    "Slow superficial skin scaling",
+    "Granulomas without necrosis",
+    "Rapid angioinvasion with thrombosis, infarction and necrosis",
+    "Only allergic reactions"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mucorales invade blood vessels, causing thrombosis, infarction and necrosis.",
+   "shortExplanation": "Angioinvasion.",
+   "pmid": "31335084",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can cause rapidly angioinvasive infections leading to tissue infarction, necrosis, and thrombosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31335084-1-es",
+   "translationKey": "micro-31335084-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué caracteriza la patología de la mucormicosis?",
+   "options": [
+    "Descamación cutánea lenta",
+    "Granulomas sin necrosis",
+    "Angioinvasión rápida con trombosis, infarto y necrosis",
+    "Solo reacciones alérgicas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los Mucorales invaden vasos sanguíneos y causan trombosis, infarto y necrosis.",
+   "shortExplanation": "Angioinvasión.",
+   "pmid": "31335084",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "can cause rapidly angioinvasive infections leading to tissue infarction, necrosis, and thrombosis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31335084-2-en",
+   "translationKey": "micro-31335084-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which metabolic condition is a classic risk factor for rhinocerebral mucormycosis?",
+   "options": [
+    "Hypothyroidism",
+    "Gout",
+    "Hyperlipidemia",
+    "Poorly controlled diabetes mellitus"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Poorly controlled diabetes (e.g., ketoacidosis), hematologic cancer and transplantation predispose to mucormycosis.",
+   "shortExplanation": "Uncontrolled diabetes.",
+   "pmid": "31335084",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "those with poorly controlled diabetes mellitus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31335084-2-es",
+   "translationKey": "micro-31335084-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué condición metabólica es un factor de riesgo clásico de mucormicosis rinocerebral?",
+   "options": [
+    "Hipotiroidismo",
+    "Gota",
+    "Hiperlipidemia",
+    "Diabetes mal controlada"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La diabetes mal controlada (p. ej., cetoacidosis), los cánceres hematológicos y los trasplantes predisponen a la mucormicosis.",
+   "shortExplanation": "Diabetes descontrolada.",
+   "pmid": "31335084",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "those with poorly controlled diabetes mellitus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29493992-1-en",
+   "translationKey": "micro-29493992-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which opportunistic respiratory infection is most common and serious in AIDS?",
+   "options": [
+    "Legionella pneumonia",
+    "Pneumocystis jirovecii pneumonia",
+    "Mycoplasma pneumonia",
+    "Influenza"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "PCP remains the most common serious opportunistic respiratory infection in AIDS, though prophylaxis and ART reduced it.",
+   "shortExplanation": "Pneumocystis pneumonia.",
+   "pmid": "29493992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Although it is still the most common and serious opportunistic respiratory infection in patients with acquired immunodeficiency syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29493992-1-es",
+   "translationKey": "micro-29493992-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué infección respiratoria oportunista es la más común y grave en el sida?",
+   "options": [
+    "Neumonía por Legionella",
+    "Neumonía por Pneumocystis jirovecii",
+    "Neumonía por Mycoplasma",
+    "Influenza"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La NPC sigue siendo la infección respiratoria oportunista grave más común en el sida, aunque la profilaxis y el TAR la redujeron.",
+   "shortExplanation": "Neumonía por Pneumocystis.",
+   "pmid": "29493992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Although it is still the most common and serious opportunistic respiratory infection in patients with acquired immunodeficiency syndrome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29493992-2-en",
+   "translationKey": "micro-29493992-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "How can immunocompetent people contribute to Pneumocystis transmission?",
+   "options": [
+    "By being asymptomatic lung carriers that spread it through the air",
+    "By eating contaminated food",
+    "Through mosquito bites",
+    "They cannot be colonized"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Healthy people may be asymptomatically colonized and act as airborne reservoirs for immunocompromised patients.",
+   "shortExplanation": "Asymptomatic carriers.",
+   "pmid": "29493992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Asymptomatic lung colonization can occur in people with normal immune systems",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29493992-2-es",
+   "translationKey": "micro-29493992-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Cómo pueden contribuir las personas inmunocompetentes a la transmisión de Pneumocystis?",
+   "options": [
+    "Siendo portadores pulmonares asintomáticos que lo transmiten por aire",
+    "Comiendo alimentos contaminados",
+    "Por picaduras de mosquito",
+    "No pueden colonizarse"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las personas sanas pueden estar colonizadas sin síntomas y actuar como reservorio aéreo para inmunocomprometidos.",
+   "shortExplanation": "Portadores asintomáticos.",
+   "pmid": "29493992",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Asymptomatic lung colonization can occur in people with normal immune systems",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30335288-1-en",
+   "translationKey": "micro-30335288-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How is sporotrichosis usually acquired?",
+   "options": [
+    "Inhaling hospital air",
+    "Drinking water",
+    "Traumatic inoculation of soil or plant material into the skin",
+    "Eating raw fish"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Sporothrix enters through skin injuries with contaminated soil or plants (e.g., gardeners); S. brasiliensis spreads from cats.",
+   "shortExplanation": "Inoculation through skin.",
+   "pmid": "30335288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Sporotrichosis caused by S. schenckii occurs by the inoculation of soil, plants, and organic matter contaminated with the fungus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30335288-1-es",
+   "translationKey": "micro-30335288-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se adquiere habitualmente la esporotricosis?",
+   "options": [
+    "Inhalando aire hospitalario",
+    "Bebiendo agua",
+    "Por inoculación traumática de tierra o material vegetal en la piel",
+    "Comiendo pescado crudo"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Sporothrix entra por heridas con tierra o plantas contaminadas (p. ej., jardineros); S. brasiliensis se transmite por gatos.",
+   "shortExplanation": "Inoculación cutánea.",
+   "pmid": "30335288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Sporotrichosis caused by S. schenckii occurs by the inoculation of soil, plants, and organic matter contaminated with the fungus",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30335288-2-en",
+   "translationKey": "micro-30335288-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "How does Sporothrix schenckii behave in the lab at different temperatures?",
+   "options": [
+    "Yeast below 37 °C, mold above",
+    "Always yeast",
+    "Always mold",
+    "Hyphae below 37 °C, budding yeast at 37 °C or higher"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Thermal dimorphism: mold below 37 °C and budding yeast at 37 °C — conversion helps identification.",
+   "shortExplanation": "Mold <37 °C, yeast ≥37 °C.",
+   "pmid": "30335288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "S. schenckii exists in either a hyphal form at temperatures less than 98.6 °F (37 °C) or as a budding yeast at 98.6 °F (37 °C) or greater",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30335288-2-es",
+   "translationKey": "micro-30335288-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se comporta Sporothrix schenckii en el laboratorio a distintas temperaturas?",
+   "options": [
+    "Levadura bajo 37 °C, moho arriba",
+    "Siempre levadura",
+    "Siempre moho",
+    "Hifas bajo 37 °C, levadura en gemación a 37 °C o más"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Dimorfismo térmico: moho bajo 37 °C y levadura a 37 °C; la conversión ayuda a identificarlo.",
+   "shortExplanation": "Moho <37 °C, levadura ≥37 °C.",
+   "pmid": "30335288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "S. schenckii exists in either a hyphal form at temperatures less than 98.6 °F (37 °C) or as a budding yeast at 98.6 °F (37 °C) or greater",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30335288-3-en",
+   "translationKey": "micro-30335288-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which pairing of diagnostic gold standard and first-line treatment for sporotrichosis is correct?",
+   "options": [
+    "PCR; amphotericin B",
+    "Fungal culture; itraconazole",
+    "Serology; fluconazole",
+    "Biopsy only; potassium iodide never used"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Fungal culture is the gold standard; itraconazole is first-line therapy.",
+   "shortExplanation": "Culture; itraconazole.",
+   "pmid": "30335288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The gold standard for sporotrichosis diagnosis is fungal culture. First-line treatment is itraconazole",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30335288-3-es",
+   "translationKey": "micro-30335288-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué par de estándar diagnóstico y tratamiento de primera línea de la esporotricosis es correcto?",
+   "options": [
+    "PCR; anfotericina B",
+    "Cultivo micológico; itraconazol",
+    "Serología; fluconazol",
+    "Solo biopsia; nunca yoduro de potasio"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El cultivo micológico es el estándar de oro; el itraconazol es de primera línea.",
+   "shortExplanation": "Cultivo; itraconazol.",
+   "pmid": "30335288",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The gold standard for sporotrichosis diagnosis is fungal culture. First-line treatment is itraconazole",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-33085335-1-en",
+   "translationKey": "micro-33085335-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which systemic mycosis is the most frequent in Latin America?",
+   "options": [
+    "Paracoccidioidomycosis",
+    "Blastomycosis",
+    "Cryptococcosis",
+    "Coccidioidomycosis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Paracoccidioidomycosis, endemic from Mexico to Argentina (highest in Brazil), is the region's most frequent mycosis; Lutz described it in 1908.",
+   "shortExplanation": "Paracoccidioidomycosis.",
+   "pmid": "33085335",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PCM is the most frequent mycosis in this region and was first recognized by Adolfo Lutz in Brazil in 1908",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-33085335-1-es",
+   "translationKey": "micro-33085335-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué micosis sistémica es la más frecuente en Latinoamérica?",
+   "options": [
+    "Paracoccidioidomicosis",
+    "Blastomicosis",
+    "Criptococosis",
+    "Coccidioidomicosis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La paracoccidioidomicosis, endémica de México a Argentina (máxima en Brasil), es la micosis más frecuente de la región; Lutz la describió en 1908.",
+   "shortExplanation": "Paracoccidioidomicosis.",
+   "pmid": "33085335",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PCM is the most frequent mycosis in this region and was first recognized by Adolfo Lutz in Brazil in 1908",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-33085335-2-en",
+   "translationKey": "micro-33085335-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which species are considered the primary agents of paracoccidioidomycosis?",
+   "options": [
+    "P. americana and P. venezuelensis",
+    "Coccidioides immitis and C. posadasii",
+    "P. brasiliensis and P. lutzii",
+    "Histoplasma and Blastomyces"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Several Paracoccidioides species exist, but P. brasiliensis and P. lutzii are the primary pathogens.",
+   "shortExplanation": "P. brasiliensis and P. lutzii.",
+   "pmid": "33085335",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Paracoccidioides brasiliensis and Paracoccidioides lutzii are considered the primary pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-33085335-2-es",
+   "translationKey": "micro-33085335-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué especies se consideran los principales agentes de la paracoccidioidomicosis?",
+   "options": [
+    "P. americana y P. venezuelensis",
+    "Coccidioides immitis y C. posadasii",
+    "P. brasiliensis y P. lutzii",
+    "Histoplasma y Blastomyces"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Existen varias especies de Paracoccidioides, pero P. brasiliensis y P. lutzii son los patógenos principales.",
+   "shortExplanation": "P. brasiliensis y P. lutzii.",
+   "pmid": "33085335",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Paracoccidioides brasiliensis and Paracoccidioides lutzii are considered the primary pathogens",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869175-1-en",
+   "translationKey": "micro-31869175-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Which mosquito transmits malaria?",
+   "options": [
+    "Aedes",
+    "Anopheles",
+    "Culex",
+    "Black fly"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Malaria is a parasitic (Plasmodium) infection transmitted by Anopheles mosquitoes.",
+   "shortExplanation": "Anopheles.",
+   "pmid": "31869175",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Malaria is a parasitic infection transmitted by the Anopheles mosquito",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869175-1-es",
+   "translationKey": "micro-31869175-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué mosquito transmite la malaria (paludismo)?",
+   "options": [
+    "Aedes",
+    "Anopheles",
+    "Culex",
+    "Mosca negra"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La malaria es una infección parasitaria (Plasmodium) transmitida por mosquitos Anopheles.",
+   "shortExplanation": "Anopheles.",
+   "pmid": "31869175",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Malaria is a parasitic infection transmitted by the Anopheles mosquito",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869175-2-en",
+   "translationKey": "micro-31869175-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Why does malaria cause cyclical fevers?",
+   "options": [
+    "Because mosquitoes bite at night",
+    "Because of seasonal climate",
+    "Because of antibiotic use",
+    "Because of the Plasmodium multistage life cycle"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Synchronized cycles of Plasmodium multiplication and red-cell rupture produce characteristic periodic fevers.",
+   "shortExplanation": "Plasmodium life cycle.",
+   "pmid": "31869175",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Plasmodium parasite has a multistage lifecycle, which leads to characteristic cyclical fevers",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869175-2-es",
+   "translationKey": "micro-31869175-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Por qué la malaria causa fiebres cíclicas?",
+   "options": [
+    "Porque los mosquitos pican de noche",
+    "Por el clima estacional",
+    "Por el uso de antibióticos",
+    "Por el ciclo de vida en etapas de Plasmodium"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los ciclos sincronizados de multiplicación de Plasmodium y ruptura de glóbulos rojos producen fiebres periódicas.",
+   "shortExplanation": "Ciclo de Plasmodium.",
+   "pmid": "31869175",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The Plasmodium parasite has a multistage lifecycle, which leads to characteristic cyclical fevers",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869175-3-en",
+   "translationKey": "micro-31869175-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "Which feature of some malaria infections explains relapses years after exposure?",
+   "options": [
+    "Reinfection by mosquitoes at home",
+    "Antibiotic resistance",
+    "Latent forms that can reactivate",
+    "Transmission through food"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Some species (e.g., P. vivax/ovale hypnozoites) remain latent and reactivate years later.",
+   "shortExplanation": "Latent reactivation.",
+   "pmid": "31869175",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Latent or reactivating infections may be reported years following exposure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31869175-3-es",
+   "translationKey": "micro-31869175-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué característica de algunas malarias explica recaídas años después?",
+   "options": [
+    "Reinfección por mosquitos locales",
+    "Resistencia a antibióticos",
+    "Formas latentes que se reactivan",
+    "Transmisión por alimentos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Algunas especies (p. ej., hipnozoítos de P. vivax/ovale) permanecen latentes y se reactivan años después.",
+   "shortExplanation": "Reactivación latente.",
+   "pmid": "31869175",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Latent or reactivating infections may be reported years following exposure",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491650-1-en",
+   "translationKey": "micro-32491650-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which statement about Entamoeba histolytica is correct?",
+   "options": [
+    "It only causes skin lesions",
+    "It is a bacterium",
+    "It is harmless in all cases",
+    "It can cause intestinal and extraintestinal disease (e.g., liver abscess)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "E. histolytica causes intestinal disease (dysentery) and extraintestinal disease such as amebic liver abscess.",
+   "shortExplanation": "Intestinal and extraintestinal.",
+   "pmid": "32491650",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "has the potential to cause both intestinal and extraintestinal disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32491650-1-es",
+   "translationKey": "micro-32491650-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué afirmación sobre Entamoeba histolytica es correcta?",
+   "options": [
+    "Solo causa lesiones de piel",
+    "Es una bacteria",
+    "Es inofensiva siempre",
+    "Puede causar enfermedad intestinal y extraintestinal (p. ej., absceso hepático)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "E. histolytica causa enfermedad intestinal (disentería) y extraintestinal, como el absceso hepático amebiano.",
+   "shortExplanation": "Intestinal y extraintestinal.",
+   "pmid": "32491650",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "has the potential to cause both intestinal and extraintestinal disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30521247-1-en",
+   "translationKey": "micro-30521247-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which is the most common non-viral STI worldwide?",
+   "options": [
+    "Trichomonas vaginalis",
+    "Syphilis",
+    "Gonorrhea",
+    "Chancroid"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "T. vaginalis, a motile protozoan, is the most common non-viral STI globally.",
+   "shortExplanation": "Trichomonas vaginalis.",
+   "pmid": "30521247",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Trichomonas vaginalis is the most common nonviral sexually transmitted infection (STI) globally",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30521247-1-es",
+   "translationKey": "micro-30521247-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es la ITS no viral más común del mundo?",
+   "options": [
+    "Trichomonas vaginalis",
+    "Sífilis",
+    "Gonorrea",
+    "Chancroide"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "T. vaginalis, un protozoo móvil, es la ITS no viral más común del mundo.",
+   "shortExplanation": "Trichomonas vaginalis.",
+   "pmid": "30521247",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Trichomonas vaginalis is the most common nonviral sexually transmitted infection (STI) globally",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30521247-2-en",
+   "translationKey": "micro-30521247-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is the drug of choice for trichomoniasis?",
+   "options": [
+    "Penicillin",
+    "Fluconazole",
+    "Oral metronidazole",
+    "Azithromycin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Oral metronidazole (a 5-nitroimidazole) is first-line; partners should be treated too.",
+   "shortExplanation": "Metronidazole.",
+   "pmid": "30521247",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The drug of choice is oral metronidazole",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30521247-2-es",
+   "translationKey": "micro-30521247-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es el fármaco de elección para la tricomoniasis?",
+   "options": [
+    "Penicilina",
+    "Fluconazol",
+    "Metronidazol oral",
+    "Azitromicina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El metronidazol oral (un 5-nitroimidazol) es de primera línea; también hay que tratar a la pareja.",
+   "shortExplanation": "Metronidazol.",
+   "pmid": "30521247",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The drug of choice is oral metronidazole",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613795-1-en",
+   "translationKey": "micro-28613795-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What makes Strongyloides stercoralis unusual among human nematodes?",
+   "options": [
+    "It is transmitted by mosquitoes",
+    "It can multiply within the human host (autoinfection) and also has a free-living soil cycle",
+    "It only infects dogs",
+    "It is killed by stomach acid"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Strongyloides can reproduce inside the host (autoinfection) and has a free-living soil cycle, enabling decades-long infection.",
+   "shortExplanation": "Autoinfection + free-living cycle.",
+   "pmid": "28613795",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it can complete a free-living cycle, including a soil phase, and can reproduce and amplify within the human host",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613795-1-es",
+   "translationKey": "micro-28613795-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué hace inusual a Strongyloides stercoralis entre los nematodos humanos?",
+   "options": [
+    "Lo transmiten mosquitos",
+    "Puede multiplicarse dentro del huésped (autoinfección) y tiene un ciclo libre en el suelo",
+    "Solo infecta perros",
+    "Lo destruye el ácido gástrico"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Strongyloides puede reproducirse en el huésped (autoinfección) y tiene un ciclo libre en el suelo, permitiendo infecciones de décadas.",
+   "shortExplanation": "Autoinfección + ciclo libre.",
+   "pmid": "28613795",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "it can complete a free-living cycle, including a soil phase, and can reproduce and amplify within the human host",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613795-2-en",
+   "translationKey": "micro-28613795-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Why should patients from endemic areas be screened for Strongyloides before starting corticosteroids?",
+   "options": [
+    "Steroids cure it",
+    "It causes allergy to steroids",
+    "It blocks steroid absorption",
+    "Immunosuppression can trigger fatal hyperinfection"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Immunosuppression (e.g., corticosteroids) can unleash hyperinfection and dissemination with high fatality.",
+   "shortExplanation": "Risk of hyperinfection.",
+   "pmid": "28613795",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the hyperinfection syndrome, a life-threatening disseminated strongyloidiasis associated with immunosuppressed patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613795-2-es",
+   "translationKey": "micro-28613795-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Por qué conviene descartar Strongyloides en pacientes de zonas endémicas antes de dar corticoides?",
+   "options": [
+    "Los corticoides lo curan",
+    "Causa alergia a corticoides",
+    "Bloquea su absorción",
+    "La inmunosupresión puede desencadenar una hiperinfección mortal"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La inmunosupresión (p. ej., corticoides) puede desencadenar hiperinfección y diseminación con alta letalidad.",
+   "shortExplanation": "Riesgo de hiperinfección.",
+   "pmid": "28613795",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the hyperinfection syndrome, a life-threatening disseminated strongyloidiasis associated with immunosuppressed patients",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119321-1-en",
+   "translationKey": "micro-32119321-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which Schistosoma species typically causes urogenital disease?",
+   "options": [
+    "S. haematobium",
+    "S. mansoni",
+    "S. japonicum",
+    "S. mekongi"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "S. haematobium causes urogenital schistosomiasis; S. mansoni and S. japonicum cause intestinal/hepatosplenic disease.",
+   "shortExplanation": "S. haematobium.",
+   "pmid": "32119321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "urogenital disease, which is most commonly caused by S haematobium",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119321-1-es",
+   "translationKey": "micro-32119321-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué especie de Schistosoma causa típicamente enfermedad urogenital?",
+   "options": [
+    "S. haematobium",
+    "S. mansoni",
+    "S. japonicum",
+    "S. mekongi"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "S. haematobium causa la esquistosomiasis urogenital; S. mansoni y S. japonicum, la intestinal/hepatoesplénica.",
+   "shortExplanation": "S. haematobium.",
+   "pmid": "32119321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "urogenital disease, which is most commonly caused by S haematobium",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119321-2-en",
+   "translationKey": "micro-32119321-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What mainly causes tissue damage in chronic schistosomiasis?",
+   "options": [
+    "Adult worms eating tissue",
+    "Bacterial superinfection",
+    "The host immune response to parasite eggs (granulomas, fibrosis)",
+    "A parasite exotoxin"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Eggs trapped in tissues trigger granulomatous inflammation and fibrosis, causing portal hypertension or bladder disease.",
+   "shortExplanation": "Immune response to eggs.",
+   "pmid": "32119321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Disease manifestations are largely driven by the host's immune response to parasite eggs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119321-2-es",
+   "translationKey": "micro-32119321-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué causa principalmente el daño tisular en la esquistosomiasis crónica?",
+   "options": [
+    "Los gusanos adultos comiendo tejido",
+    "Sobreinfección bacteriana",
+    "La respuesta inmune a los huevos del parásito (granulomas, fibrosis)",
+    "Una exotoxina parasitaria"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los huevos atrapados en tejidos desencadenan inflamación granulomatosa y fibrosis, causando hipertensión portal o enfermedad vesical.",
+   "shortExplanation": "Respuesta a los huevos.",
+   "pmid": "32119321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Disease manifestations are largely driven by the host's immune response to parasite eggs",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119321-3-en",
+   "translationKey": "micro-32119321-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Which cancer is a long-term complication of urogenital schistosomiasis?",
+   "options": [
+    "Hepatocellular carcinoma",
+    "Burkitt lymphoma",
+    "Gastric adenocarcinoma",
+    "Squamous cell carcinoma of the bladder"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Chronic S. haematobium infection is linked to squamous cell carcinoma of the bladder.",
+   "shortExplanation": "Bladder SCC.",
+   "pmid": "32119321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "squamous cell carcinoma of the bladder",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32119321-3-es",
+   "translationKey": "micro-32119321-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Qué cáncer es una complicación a largo plazo de la esquistosomiasis urogenital?",
+   "options": [
+    "Carcinoma hepatocelular",
+    "Linfoma de Burkitt",
+    "Adenocarcinoma gástrico",
+    "Carcinoma escamoso de vejiga"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La infección crónica por S. haematobium se asocia a carcinoma escamoso de vejiga.",
+   "shortExplanation": "Carcinoma escamoso de vejiga.",
+   "pmid": "32119321",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "squamous cell carcinoma of the bladder",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644453-1-en",
+   "translationKey": "micro-32644453-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "Which vector transmits onchocerciasis (river blindness)?",
+   "options": [
+    "Anopheles mosquito",
+    "Female black fly (Simulium)",
+    "Sandfly",
+    "Tsetse fly"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Onchocerca volvulus is transmitted by black flies that breed in fast-flowing rivers — hence \"river blindness\".",
+   "shortExplanation": "Black fly.",
+   "pmid": "32644453",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "transmitted by repeated bites of the vector, female black fly of the genus Simulium damnosum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-32644453-1-es",
+   "translationKey": "micro-32644453-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué vector transmite la oncocercosis (ceguera de los ríos)?",
+   "options": [
+    "Mosquito Anopheles",
+    "Hembra de mosca negra (Simulium)",
+    "Flebótomo",
+    "Mosca tsetsé"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Onchocerca volvulus la transmiten moscas negras que se crían en ríos de corriente rápida; de ahí \"ceguera de los ríos\".",
+   "shortExplanation": "Mosca negra.",
+   "pmid": "32644453",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "transmitted by repeated bites of the vector, female black fly of the genus Simulium damnosum",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30844195-1-en",
+   "translationKey": "micro-30844195-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Why is it harder to develop antifungal than antibacterial drugs?",
+   "options": [
+    "Fungi have no cell membrane",
+    "Fungi are viruses",
+    "Fungi are eukaryotes, like human cells, so fewer selective targets exist",
+    "Fungi lack DNA"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Fungi are eukaryotic, sharing much cell machinery with human cells, which limits selective drug targets (ergosterol is a key one).",
+   "shortExplanation": "Eukaryotic, like us.",
+   "pmid": "30844195",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fungi are eukaryotic organisms found in nearly every environment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30844195-1-es",
+   "translationKey": "micro-30844195-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Por qué es más difícil desarrollar antifúngicos que antibacterianos?",
+   "options": [
+    "Los hongos no tienen membrana",
+    "Los hongos son virus",
+    "Los hongos son eucariotas, como las células humanas, y hay menos blancos selectivos",
+    "Los hongos no tienen ADN"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los hongos son eucariotas y comparten mucha maquinaria con las células humanas, lo que limita los blancos selectivos (el ergosterol es uno clave).",
+   "shortExplanation": "Eucariotas como nosotros.",
+   "pmid": "30844195",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Fungi are eukaryotic organisms found in nearly every environment",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30725594-1-en",
+   "translationKey": "micro-30725594-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which fungi cause tinea capitis (scalp ringworm)?",
+   "options": [
+    "Candida and Malassezia",
+    "Dermatophytes such as Microsporum and Trichophyton",
+    "Aspergillus",
+    "Histoplasma"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Tinea capitis is caused by dermatophytes, mainly Microsporum and Trichophyton, mostly in children 3–14 years.",
+   "shortExplanation": "Dermatophytes.",
+   "pmid": "30725594",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Tinea capitis is caused primarily by the dermatophyte species Microsporum and Trichophyton",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30725594-1-es",
+   "translationKey": "micro-30725594-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué hongos causan la tiña de la cabeza (tinea capitis)?",
+   "options": [
+    "Candida y Malassezia",
+    "Dermatofitos como Microsporum y Trichophyton",
+    "Aspergillus",
+    "Histoplasma"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La tinea capitis la causan dermatofitos, sobre todo Microsporum y Trichophyton, mayormente en niños de 3–14 años.",
+   "shortExplanation": "Dermatofitos.",
+   "pmid": "30725594",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Tinea capitis is caused primarily by the dermatophyte species Microsporum and Trichophyton",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30725594-2-en",
+   "translationKey": "micro-30725594-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What is a kerion?",
+   "options": [
+    "A painless scale",
+    "A type of lice",
+    "A viral wart",
+    "A painful pustular nodule of inflammatory tinea capitis"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Inflammatory tinea capitis can form a kerion, a painful pus-filled nodule that may cause scarring alopecia.",
+   "shortExplanation": "Inflammatory nodule.",
+   "pmid": "30725594",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The inflammatory type may result in a kerion (a painful nodule with pus) as well as scarring alopecia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30725594-2-es",
+   "translationKey": "micro-30725594-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué es un querión (kerion)?",
+   "options": [
+    "Una escama indolora",
+    "Un tipo de piojo",
+    "Una verruga viral",
+    "Un nódulo pustuloso doloroso de la tiña inflamatoria"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La tinea capitis inflamatoria puede formar un querión, nódulo doloroso con pus que puede dejar alopecia cicatricial.",
+   "shortExplanation": "Nódulo inflamatorio.",
+   "pmid": "30725594",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The inflammatory type may result in a kerion (a painful nodule with pus) as well as scarring alopecia",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30285351-1-en",
+   "translationKey": "micro-30285351-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Which vector transmits leishmaniasis?",
+   "options": [
+    "Sand flies",
+    "Ticks",
+    "Fleas",
+    "Triatomine bugs"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Leishmania protozoa are transmitted by infected sand flies.",
+   "shortExplanation": "Sand flies.",
+   "pmid": "30285351",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "most commonly transmitted through the bites of infected sand flies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30285351-1-es",
+   "translationKey": "micro-30285351-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Qué vector transmite la leishmaniasis?",
+   "options": [
+    "Flebótomos (mosquitos de la arena)",
+    "Garrapatas",
+    "Pulgas",
+    "Vinchucas (triatominos)"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los protozoos Leishmania los transmiten flebótomos infectados.",
+   "shortExplanation": "Flebótomos.",
+   "pmid": "30285351",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "most commonly transmitted through the bites of infected sand flies",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30285351-2-en",
+   "translationKey": "micro-30285351-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What are the two main forms of leishmaniasis?",
+   "options": [
+    "Pulmonary and renal",
+    "Acute and latent",
+    "Cutaneous and visceral",
+    "Intestinal and hepatic"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Leishmaniasis is broadly cutaneous (including mucocutaneous) or visceral (kala-azar).",
+   "shortExplanation": "Cutaneous and visceral.",
+   "pmid": "30285351",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Leishmaniasis is broadly classified into 2 main forms: cutaneous and visceral",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30285351-2-es",
+   "translationKey": "micro-30285351-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cuáles son las dos formas principales de leishmaniasis?",
+   "options": [
+    "Pulmonar y renal",
+    "Aguda y latente",
+    "Cutánea y visceral",
+    "Intestinal y hepática"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La leishmaniasis es, en términos generales, cutánea (incluida la mucocutánea) o visceral (kala-azar).",
+   "shortExplanation": "Cutánea y visceral.",
+   "pmid": "30285351",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Leishmaniasis is broadly classified into 2 main forms: cutaneous and visceral",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083573-1-en",
+   "translationKey": "micro-29083573-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Which parasite causes Chagas disease?",
+   "options": [
+    "Leishmania donovani",
+    "Plasmodium vivax",
+    "Toxoplasma gondii",
+    "Trypanosoma cruzi"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Chagas disease (American trypanosomiasis) is caused by Trypanosoma cruzi, described by Carlos Chagas in 1909.",
+   "shortExplanation": "Trypanosoma cruzi.",
+   "pmid": "29083573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by the parasite Trypanosoma cruzi, first described in 1909 by Brazilian physician Carlos Chagas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083573-1-es",
+   "translationKey": "micro-29083573-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué parásito causa la enfermedad de Chagas?",
+   "options": [
+    "Leishmania donovani",
+    "Plasmodium vivax",
+    "Toxoplasma gondii",
+    "Trypanosoma cruzi"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La enfermedad de Chagas (tripanosomiasis americana) la causa Trypanosoma cruzi, descrita por Carlos Chagas en 1909.",
+   "shortExplanation": "Trypanosoma cruzi.",
+   "pmid": "29083573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by the parasite Trypanosoma cruzi, first described in 1909 by Brazilian physician Carlos Chagas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083573-2-en",
+   "translationKey": "micro-29083573-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "How is Chagas disease mainly transmitted by the vector?",
+   "options": [
+    "Through the bug's saliva injected while biting",
+    "Through the bug's contaminated feces entering a wound or mucosa",
+    "By drinking water only",
+    "By sexual contact"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "The triatomine (\"vinchuca\") defecates while feeding; parasites in feces enter through the bite wound or mucosa.",
+   "shortExplanation": "Contaminated bug feces.",
+   "pmid": "29083573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "transmitted primarily via contact with contaminated excrement of the reduviid bug into an open wound",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083573-2-es",
+   "translationKey": "micro-29083573-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "¿Cómo transmite principalmente el vector la enfermedad de Chagas?",
+   "options": [
+    "Por la saliva inyectada al picar",
+    "Por las heces contaminadas de la vinchuca que entran por la herida o mucosa",
+    "Solo por beber agua",
+    "Por contacto sexual"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La vinchuca defeca mientras se alimenta; los parásitos de las heces entran por la herida de la picadura o mucosas.",
+   "shortExplanation": "Heces de vinchuca.",
+   "pmid": "29083573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "transmitted primarily via contact with contaminated excrement of the reduviid bug into an open wound",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083573-3-en",
+   "translationKey": "micro-29083573-3",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What is Romaña's sign in acute Chagas disease?",
+   "options": [
+    "A heart murmur",
+    "Bilateral leg edema",
+    "Unilateral painless eyelid swelling",
+    "A target-shaped skin rash"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Romaña's sign is unilateral eyelid edema at a conjunctival portal of entry during acute infection.",
+   "shortExplanation": "Unilateral eyelid swelling.",
+   "pmid": "29083573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Romana’s sign (unilateral eyelid swelling)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083573-3-es",
+   "translationKey": "micro-29083573-3",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Qué es el signo de Romaña en el Chagas agudo?",
+   "options": [
+    "Un soplo cardíaco",
+    "Edema bilateral de piernas",
+    "Edema palpebral unilateral indoloro",
+    "Un exantema en diana"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El signo de Romaña es el edema palpebral unilateral en la puerta de entrada conjuntival durante la infección aguda.",
+   "shortExplanation": "Edema palpebral unilateral.",
+   "pmid": "29083573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Romana’s sign (unilateral eyelid swelling)",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083573-4-en",
+   "translationKey": "micro-29083573-4",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "What are the main complications of chronic Chagas disease?",
+   "options": [
+    "Cardiomyopathy and megaviscera (megaesophagus, megacolon)",
+    "Liver cirrhosis",
+    "Blindness",
+    "Kidney stones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "About 30% develop chronic disease: cardiomyopathy, heart failure, arrhythmias, megaesophagus or megacolon.",
+   "shortExplanation": "Heart and megaviscera.",
+   "pmid": "29083573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In the chronic phase, which affects approximately 30% of infected individuals, cardiac complications",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-29083573-4-es",
+   "translationKey": "micro-29083573-4",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "¿Cuáles son las principales complicaciones del Chagas crónico?",
+   "options": [
+    "Miocardiopatía y megavísceras (megaesófago, megacolon)",
+    "Cirrosis hepática",
+    "Ceguera",
+    "Cálculos renales"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cerca del 30% desarrolla enfermedad crónica: miocardiopatía, insuficiencia cardíaca, arritmias, megaesófago o megacolon.",
+   "shortExplanation": "Corazón y megavísceras.",
+   "pmid": "29083573",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In the chronic phase, which affects approximately 30% of infected individuals, cardiac complications",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020611-1-en",
+   "translationKey": "micro-30020611-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "Giardiasis is caused by…",
+   "options": [
+    "A virus",
+    "A tapeworm",
+    "A protozoan parasite",
+    "A bacterium"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Giardia duodenalis is a protozoan and one of the most common treatable causes of gastroenteritis.",
+   "shortExplanation": "A protozoan.",
+   "pmid": "30020611",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Giardiasis, caused by the protozoan parasite Giardia duodenalis, is one of the most common treatable causes of gastroenteritis worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020611-1-es",
+   "translationKey": "micro-30020611-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "curious",
+   "prompt": "La giardiasis es causada por…",
+   "options": [
+    "Un virus",
+    "Una tenia",
+    "Un protozoo parásito",
+    "Una bacteria"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Giardia duodenalis es un protozoo y una de las causas tratables más comunes de gastroenteritis.",
+   "shortExplanation": "Un protozoo.",
+   "pmid": "30020611",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Giardiasis, caused by the protozoan parasite Giardia duodenalis, is one of the most common treatable causes of gastroenteritis worldwide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020611-2-en",
+   "translationKey": "micro-30020611-2",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "What can chronic giardiasis cause?",
+   "options": [
+    "Bloody diarrhea with fever",
+    "Hepatic abscess",
+    "Pneumonia",
+    "Malabsorption and weight loss"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Chronic giardiasis can produce malabsorption, bloating and weight loss.",
+   "shortExplanation": "Malabsorption.",
+   "pmid": "30020611",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a chronic infection may lead to malabsorption and weight loss",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-30020611-2-es",
+   "translationKey": "micro-30020611-2",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Qué puede causar la giardiasis crónica?",
+   "options": [
+    "Diarrea con sangre y fiebre",
+    "Absceso hepático",
+    "Neumonía",
+    "Malabsorción y pérdida de peso"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La giardiasis crónica puede producir malabsorción, distensión y pérdida de peso.",
+   "shortExplanation": "Malabsorción.",
+   "pmid": "30020611",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a chronic infection may lead to malabsorption and weight loss",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613547-1-en",
+   "translationKey": "micro-28613547-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "How is Ascaris lumbricoides classified epidemiologically?",
+   "options": [
+    "As a soil-transmitted helminth",
+    "As a vector-borne protozoan",
+    "As a waterborne virus",
+    "As a foodborne bacterium"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Ascariasis is a soil-transmitted helminthiasis, most common in children 5–15 in tropical areas with poor sanitation.",
+   "shortExplanation": "Soil-transmitted helminth.",
+   "pmid": "28613547",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Ascariasis is a soil-transmitted helminth",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-28613547-1-es",
+   "translationKey": "micro-28613547-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se clasifica epidemiológicamente a Ascaris lumbricoides?",
+   "options": [
+    "Como geohelminto (helminto transmitido por el suelo)",
+    "Como protozoo transmitido por vectores",
+    "Como virus hídrico",
+    "Como bacteria alimentaria"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La ascariasis es una geohelmintiasis, más común en niños de 5–15 años en zonas tropicales con mal saneamiento.",
+   "shortExplanation": "Geohelminto.",
+   "pmid": "28613547",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Ascariasis is a soil-transmitted helminth",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31536254-1-en",
+   "translationKey": "micro-31536254-1",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "What is the main clinical consequence of chronic hookworm infection?",
+   "options": [
+    "Liver abscess",
+    "Iron-deficiency anemia from intestinal blood loss",
+    "Blindness",
+    "Kidney failure"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Hookworms (Ancylostoma duodenale, Necator americanus) feed on blood, causing iron-deficiency anemia.",
+   "shortExplanation": "Iron-deficiency anemia.",
+   "pmid": "31536254",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "ingest their host's blood, leading to iron-deficiency anemia in most cases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-31536254-1-es",
+   "translationKey": "micro-31536254-1",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es la principal consecuencia clínica de la uncinariasis crónica?",
+   "options": [
+    "Absceso hepático",
+    "Anemia ferropénica por pérdida intestinal de sangre",
+    "Ceguera",
+    "Insuficiencia renal"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las uncinarias (Ancylostoma duodenale, Necator americanus) se alimentan de sangre y causan anemia ferropénica.",
+   "shortExplanation": "Anemia ferropénica.",
+   "pmid": "31536254",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "ingest their host's blood, leading to iron-deficiency anemia in most cases",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
