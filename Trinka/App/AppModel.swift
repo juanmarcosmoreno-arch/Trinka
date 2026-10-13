@@ -33,6 +33,11 @@ final class AppModel {
     let pubMed: PubMedClient
     let articleCache = ArticleCache()
     let challenges: ChallengeStore
+    /// On-demand question generation; `nil` when the service isn't configured in this build.
+    let questionService: RemoteQuestionService?
+    /// Recent quizzes generated about a topic (most recent first), replayable offline.
+    private(set) var topicQuizzes: [TopicQuiz] = []
+    private let topicQuizStore = TopicQuizStore()
 
     /// Quiz currently on screen (drives a full-screen cover).
     var activeQuiz: QuizLaunch?
@@ -56,10 +61,43 @@ final class AppModel {
         let apiKey = (Bundle.main.object(forInfoDictionaryKey: "NCBIAPIKey") as? String).flatMap { $0.isEmpty ? nil : $0 }
         pubMed = PubMedClient(configuration: .init(email: email, apiKey: apiKey))
 
+        let host = (Bundle.main.object(forInfoDictionaryKey: "TrinkaQuestionServiceHost") as? String)?
+            .trimmingCharacters(in: .whitespacesAndNewlines) ?? ""
+        let token = (Bundle.main.object(forInfoDictionaryKey: "TrinkaQuestionServiceToken") as? String).flatMap { $0.isEmpty ? nil : $0 }
+        questionService = host.isEmpty ? nil : URL(string: "https://\(host)").map {
+            RemoteQuestionService(configuration: .init(baseURL: $0, appToken: token))
+        }
+
         L10n.language = store.settings.languageOverride ?? .preferred()
 
         connectivity.onMessage = { [weak self] message in self?.handle(message) }
         connectivity.activate()
+
+        Task { self.topicQuizzes = await self.topicQuizStore.all() }
+    }
+
+    // MARK: - Topic quizzes (generated on demand)
+
+    var canGenerateTopicQuizzes: Bool { questionService != nil }
+
+    /// Searches PubMed for `topic` and generates source-checked questions at `level`.
+    func buildTopicQuiz(topic: String, level: Difficulty, count: Int,
+                        progress: @escaping @Sendable (TopicQuizProgress) -> Void) async throws -> TopicQuiz {
+        guard let questionService else { throw TopicQuizError.notConfigured }
+        let quiz = try await TopicQuizBuilder(search: pubMed, generator: questionService)
+            .build(topic: topic, language: language, level: level, questionCount: count, progress: progress)
+        if let saved = try? await topicQuizStore.save(quiz) { topicQuizzes = saved }
+        return quiz
+    }
+
+    func startTopicQuiz(_ quiz: TopicQuiz) {
+        launch(quiz.questions, kind: .explore, title: quiz.topic)
+    }
+
+    func deleteTopicQuiz(_ quiz: TopicQuiz) {
+        Task {
+            if let saved = try? await topicQuizStore.delete(quiz.id) { topicQuizzes = saved }
+        }
     }
 
     var language: AppLanguage { L10n.language }

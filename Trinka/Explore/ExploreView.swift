@@ -18,6 +18,7 @@ struct ExploreView: View {
         NavigationStack {
             ScrollView {
                 VStack(alignment: .leading, spacing: Theme.Spacing.xl) {
+                    TopicQuizSection()
                     disciplinePicker
                     difficultyPicker
                     lengthPicker

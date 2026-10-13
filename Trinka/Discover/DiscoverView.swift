@@ -8,12 +8,23 @@ struct DiscoverView: View {
     @Environment(AppModel.self) private var model
     @State private var discover = DiscoverModel()
     @State private var showFilters = false
+    @State private var topicQuizTopic: TopicSeed?
+
+    struct TopicSeed: Identifiable { let id = UUID(); let topic: String }
 
     var body: some View {
         NavigationStack {
             ScrollView {
                 VStack(alignment: .leading, spacing: Theme.Spacing.l) {
                     categoryPicker
+                    if model.canGenerateTopicQuizzes, discover.topic.trimmingCharacters(in: .whitespaces).count >= 3 {
+                        Button {
+                            topicQuizTopic = TopicSeed(topic: discover.topic)
+                        } label: {
+                            Label(L10n.tr("topic.fromSearch", discover.topic), systemImage: "sparkles")
+                        }
+                        .buttonStyle(.trinkaSecondary)
+                    }
                     content
                 }
                 .padding(Theme.Spacing.l)
@@ -31,6 +42,7 @@ struct DiscoverView: View {
                     .accessibilityLabel(L10n.tr("discover.filters"))
                 }
             }
+            .sheet(item: $topicQuizTopic) { seed in TopicQuizView(topic: seed.topic) }
             .sheet(isPresented: $showFilters, onDismiss: reload) {
                 DiscoverFiltersView(discover: discover)
             }

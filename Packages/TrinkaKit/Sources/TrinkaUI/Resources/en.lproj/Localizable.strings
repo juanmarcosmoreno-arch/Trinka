@@ -245,6 +245,29 @@
 "common.ok" = "OK";
 "common.cancel" = "Cancel";
 
+"topic.title" = "Questions about any topic";
+"topic.example" = "e.g. Staphylococcus aureus, sleep, CRISPR";
+"topic.intro" = "Type a topic. TRINKA finds recent PubMed articles about it and creates questions from their abstracts, at your level.";
+"topic.field" = "Topic";
+"topic.placeholder" = "Staphylococcus aureus";
+"topic.generate" = "Create questions";
+"topic.play" = "Play";
+"topic.ready" = "%ld questions from %ld articles";
+"topic.recent" = "Your topics";
+"topic.fromSearch" = "Create questions about “%@”";
+"topic.progress.searching" = "Searching PubMed…";
+"topic.progress.generating" = "Writing questions from %ld articles and checking each answer against its abstract…";
+"topic.progress.checking" = "Checking answers against their sources…";
+"topic.disclaimer" = "These questions are generated automatically. Each answer is checked against a verbatim passage of the article's abstract, but no expert has reviewed them. You can always open the original study.";
+"topic.notConfigured" = "Question generation isn't set up in this build yet (see Backend/README.md).";
+"topic.error.title" = "Couldn't create questions";
+"topic.error.noArticles" = "PubMed has no articles with an abstract for this topic. Try a broader or English term.";
+"topic.error.noQuestions" = "Articles were found, but no question passed the source check. Try another level or topic.";
+"topic.error.service" = "The question service didn't respond. Try again in a moment.";
+
+"autogen.badge" = "Generated automatically";
+"autogen.note" = "Generated automatically: the answer was checked against the abstract, without expert review.";
+
 "a11y.difficulty" = "Difficulty: %@";
 "a11y.timeLeft" = "%ld seconds left";
 "a11y.answer.correct" = "Your answer, correct";

@@ -31,5 +31,10 @@
 	<!-- Optional NCBI API key (raises the rate limit to 10 req/s). Not an AI credential. -->
 	<key>NCBIAPIKey</key>
 	<string>$(NCBI_API_KEY)</string>
+	<!-- TRINKA question service (Backend/question-service). Empty = topic quizzes disabled. -->
+	<key>TrinkaQuestionServiceHost</key>
+	<string>$(QUESTION_SERVICE_HOST)</string>
+	<key>TrinkaQuestionServiceToken</key>
+	<string>$(QUESTION_SERVICE_TOKEN)</string>
 </dict>
 </plist>

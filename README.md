@@ -22,8 +22,11 @@ Optional: create `Config/Secrets.xcconfig` (git-ignored) with
 ```
 NCBI_CONTACT_EMAIL = you@example.com
 NCBI_API_KEY =
+QUESTION_SERVICE_HOST = trinka-question-service.<you>.workers.dev
+QUESTION_SERVICE_TOKEN =
 ```
 NCBI asks API clients for a contact e-mail; an API key raises the PubMed rate limit.
+`QUESTION_SERVICE_*` enables topic quizzes once the service is deployed (`Backend/README.md`).
 
 ### Tests
 
@@ -45,6 +48,7 @@ cd Packages/TrinkaKit && swift test
 | Discover: live PubMed search (discipline, topic, date, publication type), offline cache | ✓ | |
 | Single study vs. evidence synthesis labels | ✓ | |
 | Progress: answered, accuracy, streaks, favorites, 14-day chart, achievements | ✓ | streak, today's score |
+| Questions about any topic (e.g. *Staphylococcus aureus*), generated from PubMed abstracts and checked against them | ✓ | |
 | Friend challenges by code / group leaderboard (no account) | ✓ | |
 | Light / dark / follow system | ✓ | (always dark) |
 | English / Spanish | ✓ | ✓ |
@@ -82,9 +86,12 @@ dependencies. No third-party dependencies.
 - To add or edit questions: change `Scripts/seed/questions_*.py`, run
   `python3 Scripts/seed/build_seed.py` (fetches any new article from PubMed and rejects
   unsupported excerpts), then bump `SeedQuestionBank.version`.
-- AI generation is prepared, not enabled: `RemoteQuestionService` calls TRINKA's own backend
-  (see `Backend/README.md`) — no AI keys in the apps. Drafts go through
-  `QuestionVerificationPipeline`; survivors are only `needsReview` until a person approves them.
+- Topic quizzes: the app searches PubMed and calls TRINKA's question service
+  (`Backend/question-service`, a Cloudflare Worker using Claude; setup in `Backend/README.md`).
+  No AI keys in the apps. Every generated question must quote its abstract verbatim; the service and
+  the app (`QuestionVerificationPipeline`) both discard any that don't. Survivors are `autoVerified`
+  and always labeled "generated automatically — checked against the abstract, without expert
+  review"; only the bundled questions are `verified`.
 
 ### Daily challenge and sync
 
@@ -110,5 +117,5 @@ Palette and how to drop in the original logo files: `Design/Brand/README.md`.
 
 - HealthKit (opt-in, descriptive only; no diagnoses) — architecture leaves room, not in MVP.
 - WidgetKit widgets and watch complications.
-- Question service backend + review tool; larger question bank.
+- Review tool for generated questions; larger reviewed bank; rate limiting / App Attest on the service.
 - Online groups (Game Center / CloudKit).

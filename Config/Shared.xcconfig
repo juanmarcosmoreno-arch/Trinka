@@ -3,8 +3,13 @@
 //   NCBI_CONTACT_EMAIL = you@example.com
 //   NCBI_API_KEY = ...
 //   DEVELOPMENT_TEAM = ABCDE12345
+//   QUESTION_SERVICE_HOST = trinka-question-service.your-account.workers.dev
+//   QUESTION_SERVICE_TOKEN = the APP_TOKEN you set on the service (optional)
+// (Write the host only, without https:// — "//" starts a comment in xcconfig files.)
 
 NCBI_CONTACT_EMAIL =
 NCBI_API_KEY =
+QUESTION_SERVICE_HOST =
+QUESTION_SERVICE_TOKEN =
 
 #include? "Secrets.xcconfig"

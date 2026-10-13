@@ -18,7 +18,8 @@ public enum QuestionIssue: Equatable, Sendable {
 /// Gatekeeper that decides whether a question may be presented to users.
 ///
 /// TRINKA's core rule: a question is only playable when its correct answer is backed by a
-/// verbatim excerpt of the cited source and its verification status is `.verified`.
+/// verbatim excerpt of the cited source and its status is `.verified` (editorially reviewed) or
+/// `.autoVerified` (generated on demand, excerpt checked automatically, labeled in the UI).
 /// Ambiguous, malformed or unverifiable questions are discarded.
 public enum QuestionValidator {
     /// All issues found in `question`. Empty means playable.
@@ -45,7 +46,7 @@ public enum QuestionValidator {
         if !isValidPMID(question.source.pmid) { issues.append(.invalidPMID(question.source.pmid)) }
         if question.source.title.trimmed.isEmpty { issues.append(.missingSourceTitle) }
 
-        if question.verification.status != .verified {
+        if ![.verified, .autoVerified].contains(question.verification.status) {
             issues.append(.notVerified(question.verification.status))
         }
 

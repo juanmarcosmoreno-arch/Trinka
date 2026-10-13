@@ -245,6 +245,29 @@
 "common.ok" = "Aceptar";
 "common.cancel" = "Cancelar";
 
+"topic.title" = "Preguntas sobre cualquier tema";
+"topic.example" = "p. ej. Staphylococcus aureus, sueño, CRISPR";
+"topic.intro" = "Escribe un tema. TRINKA busca artículos de PubMed sobre él y crea preguntas a partir de sus resúmenes, a tu nivel.";
+"topic.field" = "Tema";
+"topic.placeholder" = "Staphylococcus aureus";
+"topic.generate" = "Crear preguntas";
+"topic.play" = "Jugar";
+"topic.ready" = "%ld preguntas de %ld artículos";
+"topic.recent" = "Tus temas";
+"topic.fromSearch" = "Crear preguntas sobre «%@»";
+"topic.progress.searching" = "Buscando en PubMed…";
+"topic.progress.generating" = "Creando preguntas a partir de %ld artículos y comprobando cada respuesta en su resumen…";
+"topic.progress.checking" = "Comprobando las respuestas en sus fuentes…";
+"topic.disclaimer" = "Estas preguntas se generan automáticamente. Cada respuesta se comprueba con un fragmento literal del resumen del artículo, pero ningún experto las ha revisado. Siempre puedes abrir el estudio original.";
+"topic.notConfigured" = "La generación de preguntas aún no está configurada en esta versión (ver Backend/README.md).";
+"topic.error.title" = "No se pudieron crear preguntas";
+"topic.error.noArticles" = "PubMed no tiene artículos con resumen sobre este tema. Prueba un término más amplio o en inglés.";
+"topic.error.noQuestions" = "Se encontraron artículos, pero ninguna pregunta superó la comprobación con la fuente. Prueba otro nivel o tema.";
+"topic.error.service" = "El servicio de preguntas no respondió. Inténtalo de nuevo en un momento.";
+
+"autogen.badge" = "Generada automáticamente";
+"autogen.note" = "Generada automáticamente: la respuesta se comprobó con el resumen, sin revisión de expertos.";
+
 "a11y.difficulty" = "Dificultad: %@";
 "a11y.timeLeft" = "Quedan %ld segundos";
 "a11y.answer.correct" = "Tu respuesta, correcta";
