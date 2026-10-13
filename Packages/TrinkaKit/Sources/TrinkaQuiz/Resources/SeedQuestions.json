@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 7,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -5813,6 +5813,349 @@
     "Research Support, N.I.H., Extramural",
     "Research Support, U.S. Gov't, Non-P.H.S.",
     "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29424487",
+   "title": "Streptococcus equi Infections in Horses: Guidelines for Treatment, Control, and Prevention of Strangles-Revised Consensus Statement.",
+   "authors": [
+    "Boyle AG",
+    "Timoney JF",
+    "Newton JR",
+    "Hines MT",
+    "Waller AS",
+    "Buchanan BR"
+   ],
+   "journal": "Journal of veterinary internal medicine",
+   "year": 2018,
+   "doi": "10.1111/jvim.15043",
+   "abstract": "This consensus statement update reflects our current published knowledge and opinion about clinical signs, pathogenesis, epidemiology, treatment, complications, and control of strangles. This updated statement emphasizes varying presentations in the context of existing underlying immunity and carrier states of strangles in the transmission of disease. The statement redefines the \"gold standard\" for detection of possible infection and reviews the new technologies available in polymerase chain reaction diagnosis and serology and their use in outbreak control and prevention. We reiterate the importance of judicious use of antibiotics in horses with strangles. This updated consensus statement reviews current vaccine technology and the importance of linking vaccination with currently advocated disease control and prevention programs to facilitate the eradication of endemic infections while safely maintaining herd immunity. Differentiation between immune responses to primary and repeated exposure of subclinically infected animals and responses induced by vaccination is also addressed.",
+   "publicationTypes": [
+    "Journal Article",
+    "Consensus Statement"
+   ]
+  },
+  {
+   "pmid": "30967253",
+   "title": "Feline Panleukopenia: A Re-emergent Disease.",
+   "authors": [
+    "Barrs VR"
+   ],
+   "journal": "The Veterinary clinics of North America. Small animal practice",
+   "year": 2019,
+   "doi": "10.1016/j.cvsm.2019.02.006",
+   "abstract": "Feline panleukopenia (FPL) is caused by a Carnivore protoparvovirus infection. Feline parvovirus (FPV) causes most cases. When Canine parvovirus 2 (CPV-2) first emerged, it could not replicate in cats. All current CPV variants (CPV-2a-c) can infect cats to cause subclinical disease or FPL. Feline panleukopenia has re-emerged in Australia in shelter cats associated with failure to vaccinate. Parvoviruses can remain latent in mononuclear cells post-infection. Molecular methods such as polymerase chain reaction are used to determine the infecting strain. Current perspectives on causes, epidemiology, diagnosis, treatment, prognostic indicators, and management of outbreaks in shelters are reviewed.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "17296159",
+   "title": "Feline calicivirus.",
+   "authors": [
+    "Radford AD",
+    "Coyne KP",
+    "Dawson S",
+    "Porter CJ",
+    "Gaskell RM"
+   ],
+   "journal": "Veterinary research",
+   "year": 2007,
+   "doi": "10.1051/vetres:2006056",
+   "abstract": "Feline calicivirus (FCV) is an important and highly prevalent pathogen of cats. It belongs to the family Caliciviridae which includes other significant pathogens of man and animals. As an RNA virus, high polymerase error rates convey upon FCV a high genome plasticity, and allow the virus to respond rapidly to environmental selection pressures. This makes the virus very adaptable and has important implications for clinical disease and its control. Being genetically diverse, FCV is associated with a range of clinical syndromes from inapparent infections to relatively mild oral and upper respiratory tract disease with or without acute lameness. More recently, highly virulent forms of the virus have emerged associated with a systemic infection that is frequently fatal. A proportion of FCV infected cats that recover from acute disease, remain persistently infected. In such cats, virus evolution is believed to help the virus to evade the host immune response. Such long-term carriers may only represent a minority of the feline population but are likely to be crucial to the epidemiology of the virus. Vaccination against FCV has been available for many years and has effectively reduced the incidence of clinical disease. However, the vaccines do not prevent infection and vaccinated cats can still become persistently infected. In addition, FCV strain variability means that not all strains are protected against equally. Much progress has been made in understanding the biology and pathogenesis of this important feline virus. Challenges for the future will necessarily focus on how to control the variability of this virus particularly in relation to emerging virulent strains and vaccination.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37431709",
+   "title": "Mechanisms of circovirus immunosuppression and pathogenesis with a focus on porcine circovirus 2: a review.",
+   "authors": [
+    "Fehér E",
+    "Jakab F",
+    "Bányai K"
+   ],
+   "journal": "The veterinary quarterly",
+   "year": 2023,
+   "doi": "10.1080/01652176.2023.2234430",
+   "abstract": "Certain pathogens, due to their adverse effects on the immune reaction, aggravate the course of concomitant heterologous infections. Here we summarize mechanisms by which circoviruses, including the most studied porcine circovirus 2, and other mammalian and avian circoviruses, trigger their own replication and confound the hosts' immune response. At different stages of infection, from latent state to disease induction, these viruses markedly influence the cellular signaling pathways. Circoviruses have been found to interfere with interferon and proinflammatory cytokine producing and responsive pathways. Apoptotic processes, altered cellular transport and constraint of the mitotic phase all support the viral replication. The cytokine imbalance and lymphocyte depletion, thus the impaired immunity, favors invasion of super- or co-infecting agents, which in concert with circoviruses induce illnesses with increased severity. The information summarized in this review point out the diversity of host and viral factors involved in the mechanisms of disease progression during circovirus infections.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32502552",
+   "title": "Porcine epidemic diarrhea virus (PEDV): An update on etiology, transmission, pathogenesis, and prevention and control.",
+   "authors": [
+    "Jung K",
+    "Saif LJ",
+    "Wang Q"
+   ],
+   "journal": "Virus research",
+   "year": 2020,
+   "doi": "10.1016/j.virusres.2020.198045",
+   "abstract": "Porcine epidemic diarrhea virus (PEDV), a member of the genus Alphacoronavirus in the family Coronaviridae, causes acute diarrhea and/or vomiting, dehydration and high mortality in neonatal piglets. Two different genogroups of PEDV, S INDEL [PEDV variant containing multiple deletions and insertions in the S1 subunit of the spike (S) protein, G1b] and non-S INDEL (G2b) strains were detected during the diarrheal disease outbreak in US swine in 2013-2014. Similar viruses are also circulating globally. Continuous improvement and update of biosecurity and vaccine strains and protocols are still needed to control and prevent PEDV infections worldwide. Although the non-S INDEL PEDV was highly virulent and the S INDEL PEDV caused milder disease, the latter has the capacity to cause illness in a high number of piglets on farms with low biosecurity and herd immunity. The main PEDV transmission route is fecal-oral, but airborne transmission via the fecal-nasal route may play a role in pig-to-pig and farm-to-farm spread. PEDV infection of neonatal pigs causes fecal virus shedding (alongside frequent detection of PEDV RNA in the nasal cavity), acute viremia, severe atrophic enteritis (mainly jejunum and ileum), and increased pro-inflammatory and innate immune responses. PEDV-specific IgA effector and memory B cells in orally primed sows play a critical role in sow lactogenic immunity and passive protection of piglets. This review focuses on the etiology, transmission, pathogenesis, and prevention and control of PEDV infection.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28430168",
+   "title": "Classical Swine Fever-An Updated Review.",
+   "authors": [
+    "Blome S",
+    "Staubach C",
+    "Henke J",
+    "Carlson J",
+    "Beer M"
+   ],
+   "journal": "Viruses",
+   "year": 2017,
+   "doi": "10.3390/v9040086",
+   "abstract": "Classical swine fever (CSF) remains one of the most important transboundary viral diseases of swine worldwide. The causative agent is CSF virus, a small, enveloped RNA virus of the genus Pestivirus. Based on partial sequences, three genotypes can be distinguished that do not, however, directly correlate with virulence. Depending on both virus and host factors, a wide range of clinical syndromes can be observed and thus, laboratory confirmation is mandatory. To this means, both direct and indirect methods are utilized with an increasing degree of commercialization. Both infections in domestic pigs and wild boar are of great relevance; and wild boars are a reservoir host transmitting the virus sporadically also to pig farms. Control strategies for epidemic outbreaks in free countries are mainly based on classical intervention measures; i.e., quarantine and strict culling of affected herds. In these countries, vaccination is only an emergency option. However, live vaccines are used for controlling the disease in endemically infected regions in Asia, Eastern Europe, the Americas, and some African countries. Here, we will provide a concise, updated review on virus properties, clinical signs and pathology, epidemiology, pathogenesis and immune responses, diagnosis and vaccination possibilities.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "21922235",
+   "title": "Dirofilaria immitis and Wolbachia pipientis: a thorough investigation of the symbiosis responsible for canine heartworm disease.",
+   "authors": [
+    "McHaffie J"
+   ],
+   "journal": "Parasitology research",
+   "year": 2012,
+   "doi": "10.1007/s00436-011-2644-5",
+   "abstract": "Canine heartworm disease wreaks havoc inside canines all throughout the modern world, including the USA. Any region where mosquitoes thrive will provide efficient dog-to-dog transportation for the microfilaria of the infectious nematode Dirofilaria immitis. Veterinary scientists have recently discovered both phylogenetic and biochemical evidence for the obligate symbiosis of D. immitis and the bacteria Wolbachia pipientis. As a result, veterinarians have initiated testing of antibiotic therapies either instead of, or together with, the currently utilized antiparasitic treatments for canine heartworm. The toxicity of melarsomine adulticidal therapies has prompted an abundance of new research involving doxycycline and other antibiotics, which will be addressed in this review. As our knowledge of the Wolbachia endosymbiont expands, so will our abilities to minimize toxicity and maximize efficiency of heartworm treatments.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19967929",
+   "title": "Canine babesiosis.",
+   "authors": [
+    "Schoeman JP"
+   ],
+   "journal": "The Onderstepoort journal of veterinary research",
+   "year": 2009,
+   "doi": null,
+   "abstract": "Babesiosis is a tick-borne disease affecting humans and many domestic and wild animals. Domestic animals showing appreciable morbidity and mortality include dogs, cats, cattle and horses. Both canine and feline babesiosis are diseases characterised by haemolytic anaemia, icterus and haemoglobinuria. Canine babesiosis can range from chronic or subclinical to peracute and fatal, depending on the virulence of the species and the susceptibility of the host. This paper deals with canine babesiosis with specific reference to pathogenesis, clinical findings, complications, diagnosis and treatment, as well as newly identified prognostic factors in Babesia rossi babesiosis.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27238006",
+   "title": "Diagnosis, Treatment and Management of Haemonchus contortus in Small Ruminants.",
+   "authors": [
+    "Besier RB",
+    "Kahn LP",
+    "Sargison ND",
+    "Van Wyk JA"
+   ],
+   "journal": "Advances in parasitology",
+   "year": 2016,
+   "doi": "10.1016/bs.apar.2016.02.024",
+   "abstract": "Haemonchus contortus is a highly pathogenic, blood-feeding nematode of small ruminants, and a significant cause of mortalities worldwide. Haemonchosis is a particularly significant threat in tropical, subtropical and warm temperate regions, where warm and moist conditions favour the free-living stages, but periodic outbreaks occur more widely during periods of transient environmental favourability. The clinical diagnosis of haemonchosis is based mostly on the detection of anaemia in association with a characteristic epidemiological picture, and confirmed at postmortem by the finding of large numbers of H. contortus in the abomasum. The detection of impending haemonchosis relies chiefly on periodic monitoring for anaemia, including through the 'FAMACHA' conjunctival-colour index, or through faecal worm egg counts and other laboratory procedures. A range of anthelmintics for use against H. contortus is available, but in most endemic situations anthelmintic resistance significantly limits the available treatment options. Effective preventative programmes vary depending on environments and enterprise types, and according to the scale of the haemonchosis risk and the local epidemiology of infections, but should aim to prevent disease outbreaks while maintaining anthelmintic efficacy. Appropriate strategies include animal management programmes to avoid excessive H. contortus challenge, genetic and nutritional approaches to enhance resistance and resilience to infection, and the monitoring of H. contortus infection on an individual animal or flock basis. Specific strategies to manage anthelmintic resistance centre on the appropriate use of effective anthelmintics, and refugia-based treatment schedules. Alternative approaches, such as biological control, may also prove useful, and vaccination against H. contortus appears to have significant potential in control programmes.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32029182",
+   "title": "Biology, Epidemiology, Diagnosis, and Management of Anthelmintic Resistance in Gastrointestinal Nematodes of Livestock.",
+   "authors": [
+    "Kaplan RM"
+   ],
+   "journal": "The Veterinary clinics of North America. Food animal practice",
+   "year": 2020,
+   "doi": "10.1016/j.cvfa.2019.12.001",
+   "abstract": "Control of gastrointestinal nematodes has been based on anthelmintics. However, this strategy is unsustainable owing to anthelmintic resistance. Parasitic nematodes have biologic and genetic features that favor the development of drug resistance, making the emergence of resistant nematodes inevitable. The rate of resistance development is affected controllable factors. There is a need to change the paradigm of how gastrointestinal nematodes are controlled to decrease the rate at which resistance develops. This article reviews the biology and prevalence of anthelmintic resistance, and provides recommendations for diagnosing resistance and for strategies that should be implemented to reduce the development of resistance.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28942304",
+   "title": "Neospora caninum and Bovine Neosporosis: Current Vaccine Research.",
+   "authors": [
+    "Marugan-Hernandez V"
+   ],
+   "journal": "Journal of comparative pathology",
+   "year": 2017,
+   "doi": "10.1016/j.jcpa.2017.08.001",
+   "abstract": "Neospora caninum, a tissue cyst-forming parasite, is the causative agent of bovine neosporosis. It is considered to be one of the most important transmissible causes of reproductive failure in cattle; abortion and neonatal mortality result in significant economic losses within the cattle industry worldwide. The balance between acute (mediated by the tachyzoite stage) and persistent (mediated by the bradyzoite stage) phases of the infection is influenced by the immune status of the animal, and for pregnant cows (the intermediate host) immune status is critical for transplacental (i.e. vertical) transmission of the parasite and associated disease outcomes. The horizontal route of transmission from the definitive host, the dog, occurs via ingestion of oocysts containing sporozoites, and plays a minor but important role in transmission of the infection to cattle. Despite the importance of this disease, there is no vaccine or treatment available currently, and at the present the only control measure to reduce the impact of disease is informed management on the farm. The development of vaccines, targeting key biological processes such as invasion and persistent infection, is needed urgently for the control of this widespread parasite.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "23082032",
+   "title": "Diagnosis of Tritrichomonas foetus-infected bulls, an ultimate approach to eradicate bovine trichomoniasis in US cattle?",
+   "authors": [
+    "Yao C"
+   ],
+   "journal": "Journal of medical microbiology",
+   "year": 2013,
+   "doi": "10.1099/jmm.0.047365-0",
+   "abstract": "Bovine trichomoniasis is a sexually transmitted protozoan disease with a worldwide distribution. It has been endemic in the USA for more than 80 years. Mississippi and all the states west of the Mississippi River, except Iowa and Minnesota, have rules/regulations to reduce the spread of the disease. The core of these regulations consists of testing bulls and prohibiting importation of non-Tritrichomonas foetus-free bulls. Factors such as sampling methods and intervals, shipping medium and temperature, and testing techniques are reviewed for their effect on diagnostic accuracy. Finally, a comprehensive approach for controlling and eventually eradicating the disease is presented.",
+   "publicationTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33809420",
+   "title": "Factor Influences for Diagnosis and Vaccination of Avian Infectious Bronchitis Virus (Gammacoronavirus) in Chickens.",
+   "authors": [
+    "Bhuiyan MSA",
+    "Amin Z",
+    "Bakar AMSA",
+    "Saallah S",
+    "Yusuf NHM",
+    "Shaarani SM",
+    "Siddiquee S"
+   ],
+   "journal": "Veterinary sciences",
+   "year": 2021,
+   "doi": "10.3390/vetsci8030047",
+   "abstract": "Infectious bronchitis virus (IBV) is a major economic problem in commercial chicken farms with acute multiple-system infection, especially in respiratory and urogenital systems. A live-attenuated and killed vaccine is currently immunized to control IBV infection; however, repeated outbreaks occur in both unvaccinated and vaccinated birds due to the choice of inadequate vaccine candidates and continuous emergence of novel infectious bronchitis (IB) variants and failure of vaccination. However, similar clinical signs were shown in different respiratory diseases that are essential to improving the diagnostic assay to detect IBV infections. Various risk factors involved in the failure of IB vaccination, such as various routes of application of vaccination, the interval between vaccinations, and challenge with various possible immunosuppression of birds are reviewed. The review article also highlights and updates factors affecting the diagnosis of IBV disease in the poultry industry with differential diagnosis to find the nature of infections compared with non-IBV diseases. Therefore, it is essential to monitor the common reasons for failed IBV vaccinations with preventive action, and proper diagnostic facilities for identifying the infective stage, leading to earlier control and reduced economic losses from IBV disease.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "9689739",
+   "title": "Clostridial diseases of small ruminants.",
+   "authors": [
+    "Songer JG"
+   ],
+   "journal": "Veterinary research",
+   "year": 1998,
+   "doi": null,
+   "abstract": "Members of the genus Clostridium are extraordinarily diverse in their natural habitats, and, when introduced to animal hosts, a few produce acute and often fatal disease. In sheep and goats, as in many other species of domestic animals, pathogenesis is often mediated by one or more of the many toxic proteins produced by these organisms. Prevention and control strategies are frequently based upon amelioration, by immunoprophylaxis, of the effects of these molecules. In spite of their recognition for many years, clostridial diseases still present challenges to veterinary practitioners, diagnosticians and animal producers worldwide.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39344909",
+   "title": "Rabbit hemorrhagic disease virus 2, 2010-2023: a review of global detections and affected species.",
+   "authors": [
+    "Asin J",
+    "Calvete C",
+    "Uzal FA",
+    "Crossley BM",
+    "Duarte MD",
+    "Henderson EE",
+    "Abade Dos Santos F"
+   ],
+   "journal": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+   "year": 2024,
+   "doi": "10.1177/10406387241260281",
+   "abstract": "Rabbit hemorrhagic disease virus 2/genotype GI.2 (RHDV2/GI.2; Caliciviridae, Lagovirus) causes a highly contagious disease with hepatic necrosis and disseminated intravascular coagulation in several Leporidae species. RHDV2 was first detected in European rabbits (Oryctolagus cuniculus) in France in 2010 and has since spread widely. We gather here data on viral detections reported in various countries and affected species, and discuss pathology, genetic differences, and novel diagnostic aspects. RHDV2 has been detected almost globally, with cases reported in Europe, Africa, Oceania, Asia, and North America as of 2023. Since 2020, large scale outbreaks have occurred in the United States and Mexico and, at the same time, cases have been reported for the first time in previously unaffected countries, such as China, Japan, Singapore, and South Africa, among others. Detections have been notified in domestic and wild European rabbits, hares and jackrabbits (Lepus spp.), several species of cottontail and brush rabbits (Sylvilagus spp.), pygmy rabbits (Brachylagus idahoensis), and red rock rabbits (Pronolagus spp.). RHDV2 has also been detected in a few non-lagomorph species. Detection of RHDV2 causing RHD in Sylvilagus spp. and Leporidae species other than those in the genera Oryctolagus and Lepus is very novel. The global spread of this fast-evolving RNA virus into previously unexploited geographic areas increases the likelihood of host range expansion as new species are exposed; animals may also be infected by nonpathogenic caliciviruses that are disseminated by almost all species, and with which genetic recombination may occur.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "16191699",
+   "title": "Intercurrent coccidiosis and necrotic enteritis of chickens: rational, integrated disease management by maintenance of gut integrity.",
+   "authors": [
+    "Williams RB"
+   ],
+   "journal": "Avian pathology : journal of the W.V.P.A",
+   "year": 2005,
+   "doi": "10.1080/03079450500112195",
+   "abstract": "Coccidiosis and necrotic enteritis (NE) are globally common, sometimes intercurrent, diseases of poultry. The risk of NE, due to the Gram-positive bacterium Clostridium perfringens, has increased in recent years because of the voluntary or legally required withdrawal of the use of certain in-feed antibiotic growth promoters with anticlostridial activity. In-feed ionophorous anticoccidial drugs incidentally also possess anticlostridial activity. Such ionophores, although not banned, are usually precluded when live anticoccidial vaccines are used, potentially increasing yet further the risk of NE. This review provides information for the design of rational, integrated management strategies for the prevention and control of coccidiosis and NE in chickens by maintaining gut integrity. Because of differences in local availability of feed ingredients and national legislations regarding antibiotic growth promoters and anticoccidial vaccine licensing, no universal strategy is applicable. The diseases and their interactions are described under the headings of forms of disease, diagnosis, sources of infection, pathophysiological effects, predisposing factors, and control methods. Elements of gut integrity, which influences host predisposition and clinical responses to disease, include physical development, immune competence, gut enzyme activity, mucin production, gut flora and epithelial damage. Experimental studies of coccidiosis and NE are compared, and where possible reconciled, with field observations. Gaps in knowledge and necessary further experiments are identified. Insights are provided regarding interactions between coccidiosis, NE, and the use of live anticoccidial vaccines. Recent changes in NE prevalence in commercial flocks, and their possible causes, are discussed. The necessarily wide range of topics reviewed emphasizes the enormous complexity of this disease combination, and indicates the importance of a multidisciplinary approach in order to reduce its harmful impact on the world's poultry industry.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28480985",
+   "title": "Orf virus infection.",
+   "authors": [
+    "Bergqvist C",
+    "Kurban M",
+    "Abbas O"
+   ],
+   "journal": "Reviews in medical virology",
+   "year": 2017,
+   "doi": "10.1002/rmv.1932",
+   "abstract": "Orf virus (ORFV) is an important pathogen responsible for a highly contagious zoonotic viral infection that threatens those who handle sheep and goats. Orf virus is the prototype of the Parapoxvirus genus, and its resilience in the environment and ability to reinfect its host has contributed to the spread and maintenance of the infection in many species. In healthy humans, the disease usually resolves spontaneously within 3 to 6 weeks. There is no specific treatment and many different approaches such as use of imiquimod, cidofovir, curettage, shave excision, cryotherapy, and electrocautery have all been reported to be successful, without supporting evidence from controlled clinical trials. Throughout its interaction with the different hosts, ORFV has evolved a strategy for immune evasion via the development of an array of virulence factors. The interaction of ORFV with the immune system has been the subject of research for decades. Whole inactivated ORFV has been used as a type of immunomodulating drug; a so called paramunity inducer proposed as both a preventative and a therapeutic immunomodulator across various species. Additional research on the remarkable strategies underlying ORFV infection could lead to improved understanding of skin immunity.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19733019",
+   "title": "Erysipelothrix rhusiopathiae.",
+   "authors": [
+    "Wang Q",
+    "Chang BJ",
+    "Riley TV"
+   ],
+   "journal": "Veterinary microbiology",
+   "year": 2010,
+   "doi": "10.1016/j.vetmic.2009.08.012",
+   "abstract": "Erysipelothrix rhusiopathiae is a facultative, non-spore-forming, non-acid-fast, small, Gram-positive bacillus. The organism was first established as a human pathogen late in the nineteenth century. Three forms of human disease have been recognised since then. These include a localised cutaneous lesion form, erysipeloid, a generalised cutaneous form and a septicaemic form often associated with endocarditis. The organism is ubiquitous and able to persist for a long period of time in the environment, including marine locations. It is a pathogen or a commensal in a wide variety of wild and domestic animals, birds and fish. Swine erysipelas caused by E. rhusiopathiae is the disease of greatest prevalence and economic importance. Diseases in other animals include erysipelas of farmed turkeys, chickens, ducks and emus, and polyarthritis in sheep and lambs. Infection due to E. rhusiopathiae in humans is occupationally related, principally occurring as a result of contact with contaminated animals, their products or wastes, or soil. Erysipeloid is the most common form of infections in humans. While it has been suggested that the incidence of human infection could be declining due to technological advances in animal industries, infection still occurs in specific environments. Additionally, infection by the organism is possibly under-diagnosed due to the resemblance it bears to other infections, and problems encountered in isolation and identification. Various virulence factors have been suggested as being involved in the pathogenicity of E. rhusiopathiae. The presence of a hyaluronidase and neuraminidase has been recognised, and it was shown that neuraminidase plays a significant role in bacterial attachment and subsequent invasion into host cells. The role of hyaluronidase in the disease process is controversial. The presence of a heat labile capsule has been reported as important in virulence. Control of animal disease by sound husbandry, herd management, good sanitation and immunization procedures is recommended.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "24634782",
+   "title": "Zoonoses and one health: a review of the literature.",
+   "authors": [
+    "Bidaisee S",
+    "Macpherson CN"
+   ],
+   "journal": "Journal of parasitology research",
+   "year": 2014,
+   "doi": "10.1155/2014/874345",
+   "abstract": "Background. One health is a concept that was officially adopted by international organizations and scholarly bodies in 1984. It is the notion of combining human, animal, and environmental components to address global health challenges that have an ecological interconnectedness. Methods. A cross-sectional study of the available literature cited was conducted from January 1984 when the one health concept was adopted till December 2012 to examine the role of the one health approach towards zoonoses. Inclusion criteria included publications, professional presentations, funding allocations, official documentation books, and book chapters, and exclusion criteria included those citations written outside the period of review. Results. A total of 737 resources met the inclusion criteria and were considered in this review. Resources showed a continuous upward trend for the years from 2006 to 2012. The predominant resources were journal publications with environmental health as the significant scope focus for one health. There was also an emphasis on the distribution of the work from developed countries. All categories of years, resources, scopes, and country locale differed from the means (P = 0.000). Year of initiative, scope, and country locale showed a dependent relationship (P = 0.022, P = 0.003, and P = 0.021, resp.). Conclusion. Our findings demonstrate the rapid growth in embracing the concept of one health, particularly in developed countries over the past six years. The advantages and benefits of this approach in tackling zoonoses are manifold, yet they are still not seemingly being embraced in developing countries where zoonoses have the greatest impact.",
+   "publicationTypes": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29802609",
+   "title": "Antimicrobial use and antimicrobial resistance in food animals.",
+   "authors": [
+    "Xiong W",
+    "Sun Y",
+    "Zeng Z"
+   ],
+   "journal": "Environmental science and pollution research international",
+   "year": 2018,
+   "doi": "10.1007/s11356-018-1852-2",
+   "abstract": "Antimicrobials have been widely used in food animals for growth promotion since the 1950s. Antimicrobial resistance emerges in animal production settings and frequently spreads to humans through the food chain and direct contact. There have been international efforts to restrict or ban antimicrobials used for both humans and animals. Denmark has taken positive strides in the development of a comprehensive database DANMAP to track antimicrobial usage and resistance. Although food animals are sources of antimicrobial resistance, there is little evidence that antimicrobial resistance originates from food animals. This review comprehensively introduces the history and trends of antimicrobial use, the emergence and spread of antimicrobial resistance in food animals provides suggestions to tackle the problems of the spread of antimicrobial resistance.",
+   "publicationTypes": [
+    "Journal Article",
     "Review"
    ]
   }
@@ -39415,6 +39758,1446 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "Human and swine IAV are prone to interspecies transmission, leading to regular incursions from human to pig and vice versa",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29424487-1-en",
+   "translationKey": "vet-29424487-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Strangles is a disease of which animal?",
+   "options": [
+    "Cattle",
+    "Dogs",
+    "Horses",
+    "Chickens"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Strangles is a contagious infection of horses caused by Streptococcus equi subsp. equi.",
+   "shortExplanation": "Horses.",
+   "pmid": "29424487",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Streptococcus equi Infections in Horses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29424487-1-es",
+   "translationKey": "vet-29424487-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿De qué animal es la enfermedad llamada adenitis equina (papera equina, 'strangles')?",
+   "options": [
+    "Bovinos",
+    "Perros",
+    "Caballos",
+    "Pollos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La adenitis equina es una infección contagiosa de los caballos causada por Streptococcus equi subsp. equi.",
+   "shortExplanation": "Caballos.",
+   "pmid": "29424487",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Streptococcus equi Infections in Horses",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29424487-2-en",
+   "translationKey": "vet-29424487-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why are carrier horses important in strangles control?",
+   "options": [
+    "Subclinical carriers keep transmitting the infection",
+    "Carriers are immune and protect the herd",
+    "Carriers cannot shed bacteria",
+    "Carriers only exist in vaccinated herds"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Carrier states sustain transmission; detecting carriers (PCR, serology) is key to outbreak control.",
+   "shortExplanation": "Carriers spread infection.",
+   "pmid": "29424487",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "carrier states of strangles in the transmission of disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29424487-2-es",
+   "translationKey": "vet-29424487-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué los caballos portadores son importantes en el control de la adenitis equina?",
+   "options": [
+    "Los portadores subclínicos siguen transmitiendo la infección",
+    "Los portadores son inmunes y protegen al grupo",
+    "Los portadores no eliminan bacterias",
+    "Solo hay portadores en rebaños vacunados"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los portadores mantienen la transmisión; detectarlos (PCR, serología) es clave para controlar brotes.",
+   "shortExplanation": "Los portadores transmiten.",
+   "pmid": "29424487",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "carrier states of strangles in the transmission of disease",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30967253-1-en",
+   "translationKey": "vet-30967253-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "What type of virus causes feline panleukopenia?",
+   "options": [
+    "A coronavirus",
+    "A parvovirus",
+    "A retrovirus",
+    "A herpesvirus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Feline panleukopenia is caused by feline parvovirus (Carnivore protoparvovirus), closely related to canine parvovirus.",
+   "shortExplanation": "Parvovirus.",
+   "pmid": "30967253",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feline panleukopenia (FPL) is caused by a Carnivore protoparvovirus infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30967253-1-es",
+   "translationKey": "vet-30967253-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Qué tipo de virus causa la panleucopenia felina?",
+   "options": [
+    "Un coronavirus",
+    "Un parvovirus",
+    "Un retrovirus",
+    "Un herpesvirus"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La panleucopenia felina la causa el parvovirus felino (Carnivore protoparvovirus), muy emparentado con el parvovirus canino.",
+   "shortExplanation": "Parvovirus.",
+   "pmid": "30967253",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feline panleukopenia (FPL) is caused by a Carnivore protoparvovirus infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30967253-2-en",
+   "translationKey": "vet-30967253-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What was associated with the re-emergence of feline panleukopenia in shelter cats?",
+   "options": [
+    "A new antibiotic",
+    "Climate change only",
+    "Contaminated cat food",
+    "Failure to vaccinate"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Panleukopenia re-emerged in shelters where cats were not vaccinated.",
+   "shortExplanation": "Lack of vaccination.",
+   "pmid": "30967253",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feline panleukopenia has re-emerged in Australia in shelter cats associated with failure to vaccinate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-30967253-2-es",
+   "translationKey": "vet-30967253-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué se asoció al resurgimiento de la panleucopenia felina en refugios?",
+   "options": [
+    "Un antibiótico nuevo",
+    "Solo el cambio climático",
+    "Alimento contaminado",
+    "La falta de vacunación"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La panleucopenia resurgió en refugios donde los gatos no estaban vacunados.",
+   "shortExplanation": "Falta de vacunación.",
+   "pmid": "30967253",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Feline panleukopenia has re-emerged in Australia in shelter cats associated with failure to vaccinate",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17296159-1-en",
+   "translationKey": "vet-17296159-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which statement about feline calicivirus vaccination is correct?",
+   "options": [
+    "It prevents all infection",
+    "It is not available",
+    "It reduces disease but does not prevent infection or persistent carriage",
+    "It only works in dogs"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FCV vaccines reduce clinical disease, but vaccinated cats can still be infected and become carriers; strain variability limits protection.",
+   "shortExplanation": "Reduces disease, not infection.",
+   "pmid": "17296159",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the vaccines do not prevent infection and vaccinated cats can still become persistently infected",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-17296159-1-es",
+   "translationKey": "vet-17296159-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué afirmación sobre la vacunación contra calicivirus felino es correcta?",
+   "options": [
+    "Previene toda infección",
+    "No existe vacuna",
+    "Reduce la enfermedad pero no previene la infección ni la portación persistente",
+    "Solo funciona en perros"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las vacunas contra FCV reducen la enfermedad, pero los gatos vacunados pueden infectarse y quedar portadores; la variabilidad de cepas limita la protección.",
+   "shortExplanation": "Reduce enfermedad, no infección.",
+   "pmid": "17296159",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the vaccines do not prevent infection and vaccinated cats can still become persistently infected",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37431709-1-en",
+   "translationKey": "vet-37431709-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "How does porcine circovirus 2 increase the severity of disease in pigs?",
+   "options": [
+    "It causes lymphocyte depletion and immunosuppression, favoring co-infections",
+    "It produces a potent exotoxin",
+    "It forms spores in the gut",
+    "It blocks blood clotting"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "PCV2 disrupts interferon and cytokine pathways and depletes lymphocytes, so co-infections become more severe.",
+   "shortExplanation": "Immunosuppression.",
+   "pmid": "37431709",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The cytokine imbalance and lymphocyte depletion, thus the impaired immunity, favors invasion of super- or co-infecting agents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-37431709-1-es",
+   "translationKey": "vet-37431709-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Cómo aumenta el circovirus porcino 2 la gravedad de la enfermedad en cerdos?",
+   "options": [
+    "Causa depleción linfocitaria e inmunosupresión, favoreciendo coinfecciones",
+    "Produce una exotoxina potente",
+    "Forma esporas en el intestino",
+    "Bloquea la coagulación"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El PCV2 altera las vías del interferón y las citocinas y depleta linfocitos, agravando las coinfecciones.",
+   "shortExplanation": "Inmunosupresión.",
+   "pmid": "37431709",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The cytokine imbalance and lymphocyte depletion, thus the impaired immunity, favors invasion of super- or co-infecting agents",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32502552-1-en",
+   "translationKey": "vet-32502552-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Porcine epidemic diarrhea virus is a…",
+   "options": [
+    "Parvovirus of adult sows",
+    "Bacterium of the large intestine",
+    "Flavivirus transmitted by mosquitoes",
+    "Coronavirus causing severe diarrhea and high mortality in newborn piglets"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "PEDV is an alphacoronavirus causing acute diarrhea, dehydration and high mortality in neonatal piglets.",
+   "shortExplanation": "Coronavirus of piglets.",
+   "pmid": "32502552",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a member of the genus Alphacoronavirus in the family Coronaviridae, causes acute diarrhea and/or vomiting, dehydration and high mortality in neonatal piglets",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32502552-1-es",
+   "translationKey": "vet-32502552-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "El virus de la diarrea epidémica porcina es un…",
+   "options": [
+    "Parvovirus de cerdas adultas",
+    "Bacteria del intestino grueso",
+    "Flavivirus transmitido por mosquitos",
+    "Coronavirus que causa diarrea grave y alta mortalidad en lechones recién nacidos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El PEDV es un alfacoronavirus que causa diarrea aguda, deshidratación y alta mortalidad en lechones neonatos.",
+   "shortExplanation": "Coronavirus de lechones.",
+   "pmid": "32502552",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a member of the genus Alphacoronavirus in the family Coronaviridae, causes acute diarrhea and/or vomiting, dehydration and high mortality in neonatal piglets",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32502552-2-en",
+   "translationKey": "vet-32502552-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How are newborn piglets protected against PEDV?",
+   "options": [
+    "By antibiotics in feed",
+    "By lactogenic immunity: IgA in milk from orally primed sows",
+    "By their own adaptive immunity at birth",
+    "By heat lamps"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sows primed orally produce IgA-secreting cells that pass protective antibodies to piglets in milk (lactogenic immunity).",
+   "shortExplanation": "Maternal IgA in milk.",
+   "pmid": "32502552",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PEDV-specific IgA effector and memory B cells in orally primed sows play a critical role in sow lactogenic immunity and passive protection of piglets",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32502552-2-es",
+   "translationKey": "vet-32502552-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se protege a los lechones recién nacidos contra el PEDV?",
+   "options": [
+    "Con antibióticos en el alimento",
+    "Con inmunidad lactogénica: IgA en la leche de cerdas inmunizadas por vía oral",
+    "Con su propia inmunidad adaptativa al nacer",
+    "Con lámparas de calor"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las cerdas inmunizadas por vía oral generan células secretoras de IgA que pasan anticuerpos protectores en la leche.",
+   "shortExplanation": "IgA materna en la leche.",
+   "pmid": "32502552",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "PEDV-specific IgA effector and memory B cells in orally primed sows play a critical role in sow lactogenic immunity and passive protection of piglets",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28430168-1-en",
+   "translationKey": "vet-28430168-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What role do wild boars play in classical swine fever?",
+   "options": [
+    "They are immune and protect farms",
+    "They are dead-end hosts",
+    "They are a reservoir that sporadically transmits the virus to pig farms",
+    "They transmit it only to humans"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Wild boar act as reservoir hosts of CSF virus (a Pestivirus) and can reintroduce it into domestic herds.",
+   "shortExplanation": "Reservoir host.",
+   "pmid": "28430168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "wild boars are a reservoir host transmitting the virus sporadically also to pig farms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28430168-1-es",
+   "translationKey": "vet-28430168-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué papel cumplen los jabalíes en la peste porcina clásica?",
+   "options": [
+    "Son inmunes y protegen granjas",
+    "Son huéspedes terminales",
+    "Son reservorio y transmiten esporádicamente el virus a granjas",
+    "Solo lo transmiten a humanos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los jabalíes son reservorio del virus de la PPC (un Pestivirus) y pueden reintroducirlo en granjas.",
+   "shortExplanation": "Reservorio.",
+   "pmid": "28430168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "wild boars are a reservoir host transmitting the virus sporadically also to pig farms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28430168-2-en",
+   "translationKey": "vet-28430168-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "How do CSF-free countries control an outbreak of classical swine fever?",
+   "options": [
+    "Mass antibiotic treatment",
+    "Routine vaccination of all pigs",
+    "Ignoring it until it burns out",
+    "Quarantine and strict culling of affected herds"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Free countries rely on quarantine and culling; vaccination is only an emergency option there, while endemic regions use live vaccines.",
+   "shortExplanation": "Quarantine and culling.",
+   "pmid": "28430168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Control strategies for epidemic outbreaks in free countries are mainly based on classical intervention measures; i.e., quarantine and strict culling of affected herds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28430168-2-es",
+   "translationKey": "vet-28430168-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Cómo controlan un brote de peste porcina clásica los países libres?",
+   "options": [
+    "Tratamiento antibiótico masivo",
+    "Vacunación rutinaria de todos los cerdos",
+    "Ignorándolo",
+    "Cuarentena y sacrificio estricto de los rebaños afectados"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los países libres usan cuarentena y sacrificio; la vacunación es solo de emergencia, mientras que las zonas endémicas usan vacunas vivas.",
+   "shortExplanation": "Cuarentena y sacrificio.",
+   "pmid": "28430168",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Control strategies for epidemic outbreaks in free countries are mainly based on classical intervention measures; i.e., quarantine and strict culling of affected herds",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21922235-1-en",
+   "translationKey": "vet-21922235-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "How is canine heartworm transmitted between dogs?",
+   "options": [
+    "Through food",
+    "By mosquitoes",
+    "By direct contact",
+    "Through water bowls"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Dirofilaria immitis microfilariae are carried from dog to dog by mosquitoes.",
+   "shortExplanation": "Mosquitoes.",
+   "pmid": "21922235",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Any region where mosquitoes thrive will provide efficient dog-to-dog transportation for the microfilaria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21922235-1-es",
+   "translationKey": "vet-21922235-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Cómo se transmite el gusano del corazón (dirofilariasis) entre perros?",
+   "options": [
+    "Por la comida",
+    "Por mosquitos",
+    "Por contacto directo",
+    "Por los bebederos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Las microfilarias de Dirofilaria immitis pasan de perro a perro a través de mosquitos.",
+   "shortExplanation": "Mosquitos.",
+   "pmid": "21922235",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Any region where mosquitoes thrive will provide efficient dog-to-dog transportation for the microfilaria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21922235-2-en",
+   "translationKey": "vet-21922235-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why is doxycycline used in canine heartworm treatment?",
+   "options": [
+    "It kills mosquitoes",
+    "It dissolves blood clots",
+    "It targets Wolbachia, an obligate bacterial symbiont of the worm",
+    "It replaces melarsomine entirely"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "D. immitis depends on Wolbachia; antibiotics like doxycycline target the symbiont, complementing adulticide therapy.",
+   "shortExplanation": "Targets Wolbachia.",
+   "pmid": "21922235",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the obligate symbiosis of D. immitis and the bacteria Wolbachia pipientis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-21922235-2-es",
+   "translationKey": "vet-21922235-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué se usa doxiciclina en el tratamiento de la dirofilariasis canina?",
+   "options": [
+    "Mata mosquitos",
+    "Disuelve coágulos",
+    "Ataca a Wolbachia, una bacteria simbionte obligada del parásito",
+    "Reemplaza por completo a la melarsomina"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "D. immitis depende de Wolbachia; antibióticos como la doxiciclina atacan al simbionte y complementan el tratamiento adulticida.",
+   "shortExplanation": "Ataca a Wolbachia.",
+   "pmid": "21922235",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the obligate symbiosis of D. immitis and the bacteria Wolbachia pipientis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19967929-1-en",
+   "translationKey": "vet-19967929-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "How is babesiosis transmitted?",
+   "options": [
+    "By mosquitoes",
+    "By contaminated food",
+    "By sexual contact",
+    "By ticks"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Babesiosis is a tick-borne protozoan disease of humans and animals.",
+   "shortExplanation": "Ticks.",
+   "pmid": "19967929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Babesiosis is a tick-borne disease affecting humans and many domestic and wild animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19967929-1-es",
+   "translationKey": "vet-19967929-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Cómo se transmite la babesiosis?",
+   "options": [
+    "Por mosquitos",
+    "Por alimentos contaminados",
+    "Por contacto sexual",
+    "Por garrapatas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La babesiosis es una enfermedad protozoaria transmitida por garrapatas que afecta a humanos y animales.",
+   "shortExplanation": "Garrapatas.",
+   "pmid": "19967929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Babesiosis is a tick-borne disease affecting humans and many domestic and wild animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19967929-2-en",
+   "translationKey": "vet-19967929-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which findings characterize canine babesiosis?",
+   "options": [
+    "Hemolytic anemia, jaundice and hemoglobinuria",
+    "Coughing and nasal discharge",
+    "Hair loss and itching",
+    "Lameness only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Babesia destroys red cells, causing hemolytic anemia, icterus and red-brown urine (hemoglobinuria).",
+   "shortExplanation": "Hemolytic anemia.",
+   "pmid": "19967929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "characterised by haemolytic anaemia, icterus and haemoglobinuria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19967929-2-es",
+   "translationKey": "vet-19967929-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué hallazgos caracterizan la babesiosis canina?",
+   "options": [
+    "Anemia hemolítica, ictericia y hemoglobinuria",
+    "Tos y secreción nasal",
+    "Pérdida de pelo y prurito",
+    "Solo cojera"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Babesia destruye glóbulos rojos y causa anemia hemolítica, ictericia y orina rojiza (hemoglobinuria).",
+   "shortExplanation": "Anemia hemolítica.",
+   "pmid": "19967929",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "characterised by haemolytic anaemia, icterus and haemoglobinuria",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27238006-1-en",
+   "translationKey": "vet-27238006-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What is Haemonchus contortus?",
+   "options": [
+    "A tick of cattle",
+    "A blood-feeding nematode of sheep and goats",
+    "A virus of pigs",
+    "A fungus of horses' hooves"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "H. contortus is a blood-feeding stomach worm of small ruminants, a major cause of anemia and death.",
+   "shortExplanation": "Blood-feeding nematode.",
+   "pmid": "27238006",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Haemonchus contortus is a highly pathogenic, blood-feeding nematode of small ruminants",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27238006-1-es",
+   "translationKey": "vet-27238006-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué es Haemonchus contortus?",
+   "options": [
+    "Una garrapata bovina",
+    "Un nematodo hematófago de ovinos y caprinos",
+    "Un virus porcino",
+    "Un hongo de los cascos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "H. contortus es un nematodo hematófago del abomaso de pequeños rumiantes, causa importante de anemia y muerte.",
+   "shortExplanation": "Nematodo hematófago.",
+   "pmid": "27238006",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Haemonchus contortus is a highly pathogenic, blood-feeding nematode of small ruminants",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27238006-2-en",
+   "translationKey": "vet-27238006-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "What does the FAMACHA system assess in sheep and goats?",
+   "options": [
+    "Body weight",
+    "Wool quality",
+    "Conjunctival color as an indicator of anemia from Haemonchus",
+    "Hoof health"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FAMACHA scores eyelid conjunctival color to detect anemia and treat only the animals that need it, slowing resistance.",
+   "shortExplanation": "Anemia via conjunctival color.",
+   "pmid": "27238006",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the 'FAMACHA' conjunctival-colour index",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-27238006-2-es",
+   "translationKey": "vet-27238006-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué evalúa el sistema FAMACHA en ovinos y caprinos?",
+   "options": [
+    "El peso corporal",
+    "La calidad de la lana",
+    "El color de la conjuntiva como indicador de anemia por Haemonchus",
+    "La salud de las pezuñas"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "FAMACHA puntúa el color de la conjuntiva para detectar anemia y tratar solo a los animales que lo necesitan, frenando la resistencia.",
+   "shortExplanation": "Anemia por color conjuntival.",
+   "pmid": "27238006",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the 'FAMACHA' conjunctival-colour index",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32029182-1-en",
+   "translationKey": "vet-32029182-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Why is relying only on anthelmintics to control livestock nematodes unsustainable?",
+   "options": [
+    "Anthelmintics are too expensive",
+    "They are banned worldwide",
+    "Nematodes never become resistant",
+    "Nematode biology makes resistance inevitable"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Nematode biology and genetics make resistance inevitable; control must change to slow it (e.g., refugia, targeted treatment).",
+   "shortExplanation": "Resistance is inevitable.",
+   "pmid": "32029182",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Parasitic nematodes have biologic and genetic features that favor the development of drug resistance, making the emergence of resistant nematodes inevitable",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-32029182-1-es",
+   "translationKey": "vet-32029182-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué depender solo de antihelmínticos para controlar nematodos del ganado no es sostenible?",
+   "options": [
+    "Son demasiado caros",
+    "Están prohibidos en todo el mundo",
+    "Los nematodos nunca se vuelven resistentes",
+    "La biología de los nematodos hace inevitable la resistencia"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La biología y genética de los nematodos hacen inevitable la resistencia; hay que cambiar el control para frenarla (refugio, tratamientos dirigidos).",
+   "shortExplanation": "Resistencia inevitable.",
+   "pmid": "32029182",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Parasitic nematodes have biologic and genetic features that favor the development of drug resistance, making the emergence of resistant nematodes inevitable",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28942304-1-en",
+   "translationKey": "vet-28942304-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Neospora caninum is an important cause of what in cattle?",
+   "options": [
+    "Abortion and reproductive failure",
+    "Mastitis",
+    "Foot rot",
+    "Pneumonia in calves only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Neosporosis is a leading transmissible cause of abortion and reproductive failure in cattle.",
+   "shortExplanation": "Abortion.",
+   "pmid": "28942304",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is considered to be one of the most important transmissible causes of reproductive failure in cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28942304-1-es",
+   "translationKey": "vet-28942304-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿De qué es causa importante Neospora caninum en bovinos?",
+   "options": [
+    "Abortos y fallas reproductivas",
+    "Mastitis",
+    "Pietín",
+    "Solo neumonía en terneros"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La neosporosis es una de las principales causas transmisibles de aborto y fallas reproductivas en bovinos.",
+   "shortExplanation": "Abortos.",
+   "pmid": "28942304",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is considered to be one of the most important transmissible causes of reproductive failure in cattle",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28942304-2-en",
+   "translationKey": "vet-28942304-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "Which animal is a definitive host of Neospora caninum?",
+   "options": [
+    "The cat",
+    "The dog",
+    "The pig",
+    "The horse"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Dogs are definitive hosts and shed oocysts; cattle are infected horizontally from them or vertically (transplacental).",
+   "shortExplanation": "The dog.",
+   "pmid": "28942304",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The horizontal route of transmission from the definitive host, the dog, occurs via ingestion of oocysts",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28942304-2-es",
+   "translationKey": "vet-28942304-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Qué animal es huésped definitivo de Neospora caninum?",
+   "options": [
+    "El gato",
+    "El perro",
+    "El cerdo",
+    "El caballo"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los perros son huéspedes definitivos y eliminan ooquistes; el ganado se infecta a partir de ellos (transmisión horizontal) o por vía transplacentaria (vertical).",
+   "shortExplanation": "El perro.",
+   "pmid": "28942304",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The horizontal route of transmission from the definitive host, the dog, occurs via ingestion of oocysts",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23082032-1-en",
+   "translationKey": "vet-23082032-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How is bovine trichomoniasis (Tritrichomonas foetus) transmitted?",
+   "options": [
+    "By ticks",
+    "By flies",
+    "Sexually, during breeding",
+    "Through drinking water"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Bovine trichomoniasis is a sexually transmitted protozoan disease; testing bulls is the core of control.",
+   "shortExplanation": "Sexually.",
+   "pmid": "23082032",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine trichomoniasis is a sexually transmitted protozoan disease with a worldwide distribution",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-23082032-1-es",
+   "translationKey": "vet-23082032-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se transmite la tricomoniasis bovina (Tritrichomonas foetus)?",
+   "options": [
+    "Por garrapatas",
+    "Por moscas",
+    "Por vía sexual, en el servicio",
+    "Por el agua de bebida"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La tricomoniasis bovina es una protozoosis de transmisión sexual; controlar a los toros es la base del control.",
+   "shortExplanation": "Sexual.",
+   "pmid": "23082032",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Bovine trichomoniasis is a sexually transmitted protozoan disease with a worldwide distribution",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33809420-1-en",
+   "translationKey": "vet-33809420-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Infectious bronchitis is an important disease of…",
+   "options": [
+    "Dairy cows",
+    "Pigs",
+    "Horses",
+    "Chickens"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Infectious bronchitis virus, a gammacoronavirus, causes respiratory and urogenital disease in chickens.",
+   "shortExplanation": "Chickens.",
+   "pmid": "33809420",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Infectious bronchitis virus (IBV) is a major economic problem in commercial chicken farms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-33809420-1-es",
+   "translationKey": "vet-33809420-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "La bronquitis infecciosa es una enfermedad importante de…",
+   "options": [
+    "Vacas lecheras",
+    "Cerdos",
+    "Caballos",
+    "Pollos y gallinas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El virus de la bronquitis infecciosa, un gammacoronavirus, causa enfermedad respiratoria y urogenital en aves.",
+   "shortExplanation": "Aves.",
+   "pmid": "33809420",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Infectious bronchitis virus (IBV) is a major economic problem in commercial chicken farms",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-9689739-1-en",
+   "translationKey": "vet-9689739-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How are clostridial diseases of sheep and goats mainly prevented?",
+   "options": [
+    "Vaccination against their toxins",
+    "Antibiotics in drinking water",
+    "Keeping animals indoors",
+    "Removing all soil"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Clostridial disease is toxin-mediated, so immunoprophylaxis (toxoid vaccines) is the main control strategy.",
+   "shortExplanation": "Toxoid vaccination.",
+   "pmid": "9689739",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prevention and control strategies are frequently based upon amelioration, by immunoprophylaxis, of the effects of these molecules",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-9689739-1-es",
+   "translationKey": "vet-9689739-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se previenen principalmente las clostridiosis de ovinos y caprinos?",
+   "options": [
+    "Vacunando contra sus toxinas",
+    "Antibióticos en el agua",
+    "Manteniendo los animales encerrados",
+    "Eliminando el suelo"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las clostridiosis están mediadas por toxinas, por eso la inmunoprofilaxis (vacunas con toxoides) es la principal medida.",
+   "shortExplanation": "Vacunas con toxoides.",
+   "pmid": "9689739",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Prevention and control strategies are frequently based upon amelioration, by immunoprophylaxis, of the effects of these molecules",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39344909-1-en",
+   "translationKey": "vet-39344909-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "What does rabbit hemorrhagic disease virus 2 cause?",
+   "options": [
+    "Mild skin lesions",
+    "Chronic diarrhea",
+    "Highly contagious disease with liver necrosis and disseminated coagulation",
+    "Blindness"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "RHDV2 (a lagovirus) causes hepatic necrosis and DIC in rabbits and hares; it has spread almost globally since 2010.",
+   "shortExplanation": "Liver necrosis and DIC.",
+   "pmid": "39344909",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "causes a highly contagious disease with hepatic necrosis and disseminated intravascular coagulation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-39344909-1-es",
+   "translationKey": "vet-39344909-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Qué causa el virus de la enfermedad hemorrágica del conejo 2?",
+   "options": [
+    "Lesiones leves de piel",
+    "Diarrea crónica",
+    "Una enfermedad muy contagiosa con necrosis hepática y coagulación intravascular diseminada",
+    "Ceguera"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El RHDV2 (lagovirus) causa necrosis hepática y CID en conejos y liebres; se diseminó casi a todo el mundo desde 2010.",
+   "shortExplanation": "Necrosis hepática y CID.",
+   "pmid": "39344909",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "causes a highly contagious disease with hepatic necrosis and disseminated intravascular coagulation",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16191699-1-en",
+   "translationKey": "vet-16191699-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Why has necrotic enteritis (Clostridium perfringens) in chickens increased in recent years?",
+   "options": [
+    "New virulent viruses",
+    "Higher temperatures only",
+    "Use of more antibiotics",
+    "Withdrawal of in-feed antibiotic growth promoters with anticlostridial activity"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Removing antibiotic growth promoters, which had anticlostridial activity, increased necrotic enteritis risk; coccidiosis predisposes to it.",
+   "shortExplanation": "Growth promoter withdrawal.",
+   "pmid": "16191699",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The risk of NE, due to the Gram-positive bacterium Clostridium perfringens, has increased in recent years because of the voluntary or legally required withdrawal of the use of certain in-feed antibiotic growth promoters",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-16191699-1-es",
+   "translationKey": "vet-16191699-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Por qué aumentó en los últimos años la enteritis necrótica (Clostridium perfringens) en pollos?",
+   "options": [
+    "Nuevos virus virulentos",
+    "Solo temperaturas más altas",
+    "Uso de más antibióticos",
+    "El retiro de antibióticos promotores de crecimiento con actividad anticlostridial"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Retirar los promotores de crecimiento antibióticos, que tenían actividad anticlostridial, aumentó el riesgo de enteritis necrótica; la coccidiosis predispone.",
+   "shortExplanation": "Retiro de promotores.",
+   "pmid": "16191699",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The risk of NE, due to the Gram-positive bacterium Clostridium perfringens, has increased in recent years because of the voluntary or legally required withdrawal of the use of certain in-feed antibiotic growth promoters",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28480985-1-en",
+   "translationKey": "vet-28480985-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Who is at risk of orf (contagious ecthyma) infection?",
+   "options": [
+    "People who handle sheep and goats",
+    "Only veterinarians working with dogs",
+    "Fish farmers",
+    "Beekeepers"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Orf is a parapoxvirus zoonosis acquired by people handling sheep and goats; it usually resolves in 3–6 weeks.",
+   "shortExplanation": "Sheep and goat handlers.",
+   "pmid": "28480985",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a highly contagious zoonotic viral infection that threatens those who handle sheep and goats",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-28480985-1-es",
+   "translationKey": "vet-28480985-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "¿Quiénes corren riesgo de infectarse con orf (ectima contagioso)?",
+   "options": [
+    "Quienes manipulan ovejas y cabras",
+    "Solo veterinarios de perros",
+    "Piscicultores",
+    "Apicultores"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "El orf es una zoonosis por parapoxvirus que adquieren quienes manipulan ovinos y caprinos; suele resolverse en 3–6 semanas.",
+   "shortExplanation": "Quienes manejan ovejas y cabras.",
+   "pmid": "28480985",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "a highly contagious zoonotic viral infection that threatens those who handle sheep and goats",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19733019-1-en",
+   "translationKey": "vet-19733019-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "Which is the most important animal disease caused by Erysipelothrix rhusiopathiae?",
+   "options": [
+    "Swine erysipelas",
+    "Bovine mastitis",
+    "Canine distemper",
+    "Equine strangles"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Swine erysipelas is the most prevalent and costly E. rhusiopathiae disease; in humans it causes erysipeloid.",
+   "shortExplanation": "Swine erysipelas.",
+   "pmid": "19733019",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Swine erysipelas caused by E. rhusiopathiae is the disease of greatest prevalence and economic importance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19733019-1-es",
+   "translationKey": "vet-19733019-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cuál es la enfermedad animal más importante causada por Erysipelothrix rhusiopathiae?",
+   "options": [
+    "Erisipela porcina",
+    "Mastitis bovina",
+    "Moquillo canino",
+    "Adenitis equina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La erisipela porcina es la enfermedad por E. rhusiopathiae más prevalente y costosa; en humanos causa erisipeloide.",
+   "shortExplanation": "Erisipela porcina.",
+   "pmid": "19733019",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Swine erysipelas caused by E. rhusiopathiae is the disease of greatest prevalence and economic importance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19733019-2-en",
+   "translationKey": "vet-19733019-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "How do humans usually acquire Erysipelothrix rhusiopathiae?",
+   "options": [
+    "Through mosquito bites",
+    "From contaminated drinking water",
+    "From other people by droplets",
+    "Occupationally, by contact with infected animals, their products or soil"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Human infection (erysipeloid) is occupational — butchers, fish handlers, farmers — after contact with animals or their products.",
+   "shortExplanation": "Occupational contact.",
+   "pmid": "19733019",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Infection due to E. rhusiopathiae in humans is occupationally related",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-19733019-2-es",
+   "translationKey": "vet-19733019-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo adquieren habitualmente los humanos Erysipelothrix rhusiopathiae?",
+   "options": [
+    "Por picaduras de mosquito",
+    "Por agua contaminada",
+    "Por gotitas de otras personas",
+    "Laboralmente, por contacto con animales infectados, sus productos o el suelo"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La infección humana (erisipeloide) es ocupacional: carniceros, pescadores, productores, tras contacto con animales o sus productos.",
+   "shortExplanation": "Contacto laboral.",
+   "pmid": "19733019",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Infection due to E. rhusiopathiae in humans is occupationally related",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-24634782-1-en",
+   "translationKey": "vet-24634782-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "What does the 'One Health' approach combine?",
+   "options": [
+    "Human, animal and environmental health",
+    "Only human hospitals",
+    "Only veterinary clinics",
+    "Only food production"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "One Health links human, animal and environmental health to tackle problems such as zoonoses.",
+   "shortExplanation": "Human, animal, environment.",
+   "pmid": "24634782",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is the notion of combining human, animal, and environmental components to address global health challenges",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-24634782-1-es",
+   "translationKey": "vet-24634782-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "¿Qué combina el enfoque 'Una Salud' (One Health)?",
+   "options": [
+    "La salud humana, animal y ambiental",
+    "Solo hospitales humanos",
+    "Solo clínicas veterinarias",
+    "Solo la producción de alimentos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Una Salud vincula la salud humana, animal y ambiental para abordar problemas como las zoonosis.",
+   "shortExplanation": "Humana, animal, ambiental.",
+   "pmid": "24634782",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It is the notion of combining human, animal, and environmental components to address global health challenges",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29802609-1-en",
+   "translationKey": "vet-29802609-1",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Since the 1950s, antimicrobials have been widely used in food animals for…",
+   "options": [
+    "Coloring meat",
+    "Preserving eggs",
+    "Growth promotion",
+    "Making milk sweeter"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Antimicrobials were used as growth promoters; resistance that emerges can reach humans via food and contact.",
+   "shortExplanation": "Growth promotion.",
+   "pmid": "29802609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antimicrobials have been widely used in food animals for growth promotion since the 1950s",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29802609-1-es",
+   "translationKey": "vet-29802609-1",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "curious",
+   "prompt": "Desde los años 50, los antimicrobianos se usaron mucho en animales de producción para…",
+   "options": [
+    "Colorear la carne",
+    "Conservar huevos",
+    "Promover el crecimiento",
+    "Endulzar la leche"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Los antimicrobianos se usaron como promotores de crecimiento; la resistencia que surge puede llegar al ser humano por alimentos y contacto.",
+   "shortExplanation": "Promover el crecimiento.",
+   "pmid": "29802609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antimicrobials have been widely used in food animals for growth promotion since the 1950s",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29802609-2-en",
+   "translationKey": "vet-29802609-2",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "How does antimicrobial resistance from animal production reach people?",
+   "options": [
+    "Only through the air",
+    "Through the food chain and direct contact",
+    "It never reaches people",
+    "Only through vaccines"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Resistance arising on farms spreads to humans via food and direct contact — a One Health problem.",
+   "shortExplanation": "Food chain and contact.",
+   "pmid": "29802609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antimicrobial resistance emerges in animal production settings and frequently spreads to humans through the food chain and direct contact",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-29802609-2-es",
+   "translationKey": "vet-29802609-2",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo llega a las personas la resistencia antimicrobiana de la producción animal?",
+   "options": [
+    "Solo por el aire",
+    "Por la cadena alimentaria y el contacto directo",
+    "Nunca llega",
+    "Solo por vacunas"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La resistencia surgida en granjas pasa al ser humano por los alimentos y el contacto directo: un problema de Una Salud.",
+   "shortExplanation": "Cadena alimentaria y contacto.",
+   "pmid": "29802609",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Antimicrobial resistance emerges in animal production settings and frequently spreads to humans through the food chain and direct contact",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   }
