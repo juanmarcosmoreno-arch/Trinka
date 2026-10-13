@@ -14,8 +14,8 @@ Apple Watch. Every question cites a real, identifiable article and lets you open
 
 1. Open `Trinka.xcodeproj`.
 2. Select the **Trinka** target → *Signing & Capabilities* → choose your Team
-   (do the same for **TrinkaWatch**). Change the bundle IDs (`com.trinka.app`,
-   `com.trinka.app.watchkitapp`) if they are taken in your account.
+   (do the same for **TrinkaWatch**). Change the bundle IDs (`com.micrusoperandi.trinka`,
+   `com.micrusoperandi.trinka.watchkitapp`) if they are taken in your account.
 3. Pick the **Trinka** scheme and an iPhone simulator (or **TrinkaWatch** for the watch) and press ⌘R.
 
 Optional: create `Config/Secrets.xcconfig` (git-ignored) with
