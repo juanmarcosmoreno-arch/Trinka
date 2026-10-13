@@ -143,27 +143,37 @@ struct OnDeviceEvidenceComposer: EvidenceComposing {
 @available(iOS 26.0, *)
 @Generable
 struct GeneratedQuestion {
-    @Guide(description: "A multiple-choice question that can be answered using only the abstract")
+    @Guide(description: "The question. It tests the key fact of the sentence and makes sense on its own, without the sentence")
     var prompt: String
-    @Guide(description: "The correct answer, short")
+    @Guide(description: "The correct answer: a short phrase stated in the sentence")
     var correctAnswer: String
-    @Guide(description: "Three short wrong but plausible answers")
+    @Guide(description: "Three wrong answers of the same kind as the correct one, plausible for a student, each different")
     var wrongAnswers: [String]
     @Guide(description: "One or two sentences explaining why the correct answer is right")
     var explanation: String
-    @Guide(description: "One sentence copied word for word, in English, from the abstract, that proves the correct answer")
-    var supportingSentence: String
 }
 
 @available(iOS 26.0, *)
 @Generable
-struct GeneratedQuestionSet {
-    @Guide(description: "The questions")
-    var questions: [GeneratedQuestion]
+struct TranslatedQuestion {
+    @Guide(description: "The question, translated")
+    var prompt: String
+    @Guide(description: "The correct answer, translated")
+    var correctAnswer: String
+    @Guide(description: "The three wrong answers, translated, in the same order")
+    var wrongAnswers: [String]
+    @Guide(description: "The explanation, translated")
+    var explanation: String
 }
 
-/// Generates quiz drafts from one abstract with the on-device model. Drafts go through
-/// `QuestionVerificationPipeline` like any other, so anything not backed by the abstract is dropped.
+/// Generates quiz drafts from one abstract with the on-device model.
+///
+/// Small models do best with small tasks, so TRINKA does the hard part itself:
+/// 1. `KeySentences` picks the abstract's findings/conclusions (verbatim — they become the
+///    supporting excerpt, so every question is anchored to real source text).
+/// 2. The model writes one question per sentence, in English, following a worked example.
+/// 3. For Spanish, a second short request translates it.
+/// 4. `QuestionQuality` drops weak drafts; `QuestionVerificationPipeline` checks the rest.
 @available(iOS 26.0, *)
 struct OnDeviceQuestionGenerator: QuestionGenerating {
     let category: ScienceCategory
@@ -171,56 +181,105 @@ struct OnDeviceQuestionGenerator: QuestionGenerating {
     func generateDrafts(for article: ArticleReference, language: AppLanguage,
                         difficulty: Difficulty, count: Int) async throws -> [QuestionDraft] {
         guard let abstract = article.abstract, abstract.count >= 200 else { return [] }
-        let generated: GeneratedQuestionSet
-        do {
-            generated = try await generate(article: article, abstract: abstract, language: language,
-                                           difficulty: difficulty, count: max(1, min(count, 3)), abstractLimit: 1500)
-        } catch {
-            // Retry once with a smaller request (shorter abstract, one question).
+        let sentences = KeySentences.pick(from: abstract, limit: max(1, min(count, 3)))
+        guard !sentences.isEmpty else { return [] }
+
+        var drafts: [QuestionDraft] = []
+        var lastError: Error?
+        for sentence in sentences {
             do {
-                generated = try await generate(article: article, abstract: abstract, language: language,
-                                               difficulty: difficulty, count: 1, abstractLimit: 900)
+                if let draft = try await draft(from: sentence, article: article, language: language, difficulty: difficulty) {
+                    drafts.append(draft)
+                }
             } catch {
-                throw QuestionGenerationError.onDevice(OnDeviceAI.describe(error))
+                lastError = error
             }
         }
-
-        return generated.questions.compactMap { item -> QuestionDraft? in
-            let wrong = Array(item.wrongAnswers.map { $0.trimmingCharacters(in: .whitespaces) }
-                .filter { !$0.isEmpty && $0.caseInsensitiveCompare(item.correctAnswer) != .orderedSame }
-                .prefix(3))
-            guard wrong.count == 3,
-                  let excerpt = AbstractQuote.snap(item.supportingSentence, to: abstract) else { return nil }
-            var options = wrong
-            let correctIndex = Int.random(in: 0...3)
-            options.insert(item.correctAnswer.trimmingCharacters(in: .whitespaces), at: correctIndex)
-            return QuestionDraft(pmid: article.pmid, language: language, category: category, difficulty: difficulty,
-                                 prompt: item.prompt, options: options, correctOptionIndex: correctIndex,
-                                 explanation: item.explanation, supportingExcerpt: excerpt)
+        if drafts.isEmpty, let lastError {
+            throw QuestionGenerationError.onDevice(OnDeviceAI.describe(lastError))
         }
+        return drafts
     }
 
-    private func generate(article: ArticleReference, abstract: String, language: AppLanguage,
-                          difficulty: Difficulty, count: Int, abstractLimit: Int) async throws -> GeneratedQuestionSet {
-        let languageName = language == .es ? "Spanish" : "English"
-        let session = LanguageModelSession(instructions: """
-            You write multiple-choice quiz questions for students from a scientific abstract. \
-            Write the question, answers and explanation in \(languageName). \
-            Level: \(Self.levelDescription(difficulty)). \
-            Every question must be answerable from the abstract alone. The supporting sentence must be \
-            copied exactly from the abstract, in English, without changes.
-            """)
-        let prompt = "Write \(count) questions.\n\nTitle: \(article.title)\n\nAbstract:\n\(abstract.prefix(abstractLimit))"
-        return try await session.respond(to: prompt, generating: GeneratedQuestionSet.self).content
+    private func draft(from sentence: String, article: ArticleReference, language: AppLanguage,
+                       difficulty: Difficulty) async throws -> QuestionDraft? {
+        let writer = LanguageModelSession(instructions: Self.writerInstructions(difficulty))
+        let prompt = "Article title: \(article.title)\n\nSentence: \(sentence)"
+        let generated = try await writer.respond(to: prompt, generating: GeneratedQuestion.self).content
+        var questionText = generated.prompt
+        var correctAnswer = generated.correctAnswer
+        var wrongAnswers = generated.wrongAnswers
+        var explanation = generated.explanation
+
+        if language == .es {
+            let translator = LanguageModelSession(instructions: """
+                You translate quiz questions from English to Spanish for university students. \
+                Use neutral Latin American Spanish and correct scientific terminology. \
+                Keep organism names, gene names and drug names as used in Spanish textbooks. \
+                Keep the meaning exactly; do not add or remove information.
+                """)
+            let source = """
+                Question: \(questionText)
+                Correct answer: \(correctAnswer)
+                Wrong answers: \(wrongAnswers.joined(separator: " | "))
+                Explanation: \(explanation)
+                """
+            let translated = try await translator.respond(to: source, generating: TranslatedQuestion.self).content
+            questionText = translated.prompt
+            correctAnswer = translated.correctAnswer
+            wrongAnswers = translated.wrongAnswers
+            explanation = translated.explanation
+        }
+
+        let correct = correctAnswer.trimmingCharacters(in: .whitespacesAndNewlines)
+        var wrong: [String] = []
+        for answer in wrongAnswers.map({ $0.trimmingCharacters(in: .whitespacesAndNewlines) })
+        where !answer.isEmpty && answer.caseInsensitiveCompare(correct) != .orderedSame
+            && !wrong.contains(where: { $0.caseInsensitiveCompare(answer) == .orderedSame }) {
+            wrong.append(answer)
+        }
+        guard !correct.isEmpty, wrong.count >= 3 else { return nil }
+
+        var options = Array(wrong.prefix(3))
+        let correctIndex = Int.random(in: 0...3)
+        options.insert(correct, at: correctIndex)
+        guard QuestionQuality.issues(prompt: questionText, options: options, correctIndex: correctIndex).isEmpty else {
+            return nil
+        }
+        return QuestionDraft(pmid: article.pmid, language: language, category: category, difficulty: difficulty,
+                             prompt: questionText, options: options, correctOptionIndex: correctIndex,
+                             explanation: explanation, supportingExcerpt: sentence)
+    }
+
+    private static func writerInstructions(_ difficulty: Difficulty) -> String {
+        """
+        You write one multiple-choice exam question for university science students, in English.
+        You get one sentence from a scientific abstract. The question must test the key fact in that sentence.
+        Level: \(levelDescription(difficulty)).
+
+        Rules:
+        - Ask about the finding, mechanism or concept, never about trivia (year, journal, authors, sample size).
+        - The question must make sense on its own. Do not write "according to the sentence" or "in this study".
+        - The correct answer must be stated in the sentence. Do not put the answer in the question.
+        - Wrong answers: same kind as the correct answer (all drugs, all organisms, all numbers…), plausible, clearly wrong.
+        - Never use "all of the above" or "none of the above".
+
+        Example
+        Sentence: Vancomycin remains a first-line option for severe MRSA infections in hospitals.
+        Question: Which antibiotic remains a first-line option for severe MRSA infections in hospitals?
+        Correct answer: Vancomycin
+        Wrong answers: Amoxicillin; Penicillin G; Cephalexin
+        Explanation: Vancomycin, a glycopeptide, stays active against methicillin-resistant S. aureus, unlike most beta-lactams.
+        """
     }
 
     private static func levelDescription(_ difficulty: Difficulty) -> String {
         switch difficulty {
-        case .beginner: "very basic, for someone new to the subject"
-        case .curious: "basic, introductory university level"
+        case .beginner: "very basic: test one simple fact with everyday wording"
+        case .curious: "introductory university level"
         case .explorer: "intermediate university level"
-        case .researcher: "advanced, for graduate students"
-        case .expert: "expert, for researchers in the field"
+        case .researcher: "advanced: test mechanisms or interpretation"
+        case .expert: "expert: test precise mechanisms, numbers or implications"
         }
     }
 }

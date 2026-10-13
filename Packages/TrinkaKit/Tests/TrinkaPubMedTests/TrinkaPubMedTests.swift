@@ -380,3 +380,32 @@ final class OnDeviceFailureReportingTests: XCTestCase {
         }
     }
 }
+
+final class QuestionQualityTests: XCTestCase {
+    func testPicksFindingsAndConclusionsOverMethods() {
+        let abstract = """
+        BACKGROUND: Antibiotic resistance is a growing concern in hospitals worldwide and affects many patients.
+        METHODS: We performed a retrospective cohort study of 1,200 adults admitted to three tertiary hospitals.
+        RESULTS: Carbapenem resistance was associated with a 2-fold higher 30-day mortality in bloodstream infections.
+        CONCLUSIONS: Rapid detection of carbapenemases should be prioritized to reduce deaths from resistant infections.
+        """
+        let picked = KeySentences.pick(from: abstract, limit: 2)
+        XCTAssertEqual(picked.count, 2)
+        XCTAssertTrue(picked[0].hasPrefix("Carbapenem resistance") || picked[0].hasPrefix("Rapid detection"))
+        XCTAssertFalse(picked.contains { $0.hasPrefix("We performed") })
+        for sentence in picked { XCTAssertTrue(abstract.contains(sentence), "Must be verbatim") }
+    }
+
+    func testFlagsWeakDrafts() {
+        XCTAssertEqual(QuestionQuality.issues(prompt: "Which antibiotic remains first-line for severe MRSA infections?",
+                                              options: ["Vancomycin", "Penicillin G", "Amoxicillin", "Cephalexin"], correctIndex: 0), [])
+        XCTAssertTrue(QuestionQuality.issues(prompt: "Vancomycin is used for MRSA. Which drug is used for MRSA?",
+                                             options: ["Vancomycin", "A", "B", "C"], correctIndex: 0).contains(.answerInPrompt))
+        XCTAssertTrue(QuestionQuality.issues(prompt: "Which statement about MRSA treatment is correct?",
+                                             options: ["X", "Y", "Z", "All of the above"], correctIndex: 3).contains(.catchAllOption))
+        XCTAssertTrue(QuestionQuality.issues(prompt: "In what year was this study published?",
+                                             options: ["2019", "2020", "2021", "2022"], correctIndex: 1).contains(.trivia))
+        XCTAssertTrue(QuestionQuality.issues(prompt: "Which organism causes most cases of cellulitis?",
+                                             options: ["Strep", "strep", "Staph", "E. coli"], correctIndex: 0).contains(.duplicateOptions))
+    }
+}
