@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
@@ -2444,6 +2444,306 @@
     "Study Guide"
    ],
    "bookshelfID": "NBK539787"
+  },
+  {
+   "pmid": "30725882",
+   "title": "Influenza Vaccine",
+   "authors": [
+    "Kalarikkal SM",
+    "Jaishankar GB"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Influenza viruses belong to the Orthomyxoviridae RNA virus family and are classified into 3 distinct types based on their major antigenic differences: influenza A, influenza B, and influenza C. Influenza viruses cause annual human epidemics, seasonal and pandemics. Seasonal influenza epidemics caused by influenza A and B viruses result in 3 to 5 million severe cases and thousands of deaths globally each year. The influenza A virus causes epidemics and pandemics because of its spread from migrating birds, pigs, horses, and humans. Transmission can be human to human from fomites, coughing, and sneezing. Influenza B exclusively spreads among humans, underscoring its unique transmission pattern limited to human-to-human contact. This singular mode of transmission excludes involvement with other hosts, distinguishing Influenza B from viruses capable of causing pandemics. Influenza C is a mild disease. This activity describes the mode of action of the influenza vaccine, including modes of administration, formulations, adverse event profiles, eligible patient populations, and monitoring, and it highlights the role of the interprofessional team in the management of influenza patients.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK537197"
+  },
+  {
+   "pmid": "30422556",
+   "title": "Upper Respiratory Tract Infections With Focus on The Common Cold",
+   "authors": [
+    "Tobin EH",
+    "Thomas M",
+    "Bomar PA"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Upper respiratory tract infections (URTIs) encompass a broad topic that involves a large variety of pathogens. The ubiquitous clinical syndrome recognized as the \"common cold\" and the rhinovirus, its most frequent etiology, will be focused on here. Other names for the common cold are acute nasopharyngitis and acute coryza. In addition to URTIs, rhinovirus can cause infection of the lower respiratory tract, has been implicated in the exacerbation of asthma and chronic obstructive pulmonary disease (COPD), and may act as a fellow pathogen in the development of viral and bacterial infections involving both the upper and lower respiratory tracts. The common cold is a syndrome that manifests as a mild-to-moderate, self-limited URTI, characterized by inflammation that causes malaise, nasal congestion, rhinorrhea, sneezing, pharyngitis, cough, and occasional fever and headache. Various other respiratory viruses and bacteria, mentioned here but not presented in detail, can cause common cold symptoms that overlap with those due to rhinovirus. Please see StatPearls' companion resources, \"Pharyngitis,\" \"Acute Laryngitis,\" \"Acute Sinusitis,\" \"Recurrent Acute Rhinosinusitis,\" \"Acute Otitis Media,\" \"Mastoiditis,\" \"Influenza,\" \"Parainfluenza Virus,\" \"Respiratory Syncytial Virus Infection in Children,\" \"Adenoviruses,\" \"Human Metapneumovirus,\" and \"Features Evaluation and Treatment of Coronavirus COVID19,\" for further information on these pathogenic etiologies. URTIs are the most common acute infectious diseases in the world. In the vast majority of cases, they tend to be self-limited but, on occasion, can evolve into chronic and significant complications. They invariably impact the quality of life, cause absence from school and work, and substantially contribute to the prescription of unnecessary antibiotics. In the United States, the annual economic burden of URTIs is estimated to be 60 billion dollars.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK532961"
+  },
+  {
+   "pmid": "30252253",
+   "title": "Streptococcal Pharyngitis",
+   "authors": [
+    "Ashurst JV",
+    "Weiss E",
+    "Tristram D",
+    "Edgerley-Gibb L"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Streptococcal pharyngitis, also known as group A streptococcus (GAS) pharyngitis, or colloquially as \"strep throat,\" is a common condition caused by pharyngeal infection by the bacteria Streptococcus pyogenes. Streptococcal pharyngitis frequently presents with a painful sore throat, an abrupt onset fever, and recent sick contacts. The highest incidence of streptococcal pharyngitis occurs among children 3 to 9 years of age, followed by adolescents 10 to 19. Incidence in adults is far lower, and of adult patients seeking care for sore throat, only 10% to 15% will have streptococcal pharyngitis, yet 60% or more of those adult patients will receive prescriptions for antibiotics.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK525997"
+  },
+  {
+   "pmid": "29262176",
+   "title": "Acute Otitis Media",
+   "authors": [
+    "Matz O",
+    "Sutton AE",
+    "Ashurst JV"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Otitis media is a spectrum of middle ear conditions that includes acute otitis media (AOM), recurrent AOM, otitis media with effusion, and chronic suppurative otitis media (CSOM). The main symptom of AOM is middle ear effusion, accompanied by signs of acute illness, such as ear pain; otorrhea (ie, fluid drainage from the ear); ear tugging; fever; irritability; anorexia; vomiting; or diarrhea. AOM is the second most common pediatric diagnosis in the emergency department, after upper respiratory infections. Although otitis media can occur at any age, the condition is most commonly observed between 6 and 24 months. A diagnosis of AOM is the most common reason for antibiotic use in childhood, although most cases of AOM resolve spontaneously. Advances in antibiotic treatment strategies, the widespread adoption of preventive measures, and greater adherence to scientific society guidelines have contributed to a decline in AOM incidence. AOM is a bacterial or viral infection of the middle ear that may extend to surrounding structures. The most common bacterial pathogens that cause AOM include Streptococcus pneumoniae, nontypeable Haemophilus influenzae, and Moraxella catarrhalis. Following the introduction of conjugate pneumococcal vaccines, pneumococcal organisms have shifted to non-vaccine serotypes. The most common viral pathogens of AOM include respiratory syncytial virus (RSV), coronaviruses, influenza viruses, adenoviruses, human metapneumovirus, and picornaviruses. Although AOM is primarily bacterial, viral upper respiratory infections, including SARS-CoV-2, commonly precede it, a relationship reflected in the reduced AOM incidence during periods of widespread viral mitigation measures, such as during the COVID-19 pandemic. Otitis media is diagnosed clinically based on physical exam findings (pneumatic otoscopy), along with the patient's history and presenting signs and symptoms. Diagnostic challenges in accurately identifying AOM include interobserver reliability and bias, patient cooperation, and narrow ear canals in children. Several tools are available to aid in diagnosing otitis media, including tympanometry, acoustic reflectometry, audiometry (pure-tone and play), and acoustic reflexes. Pneumatic otoscopy is the most reliable method for assessing the tympanic membrane; the method has higher sensitivity and specificity than plain otoscopy, though tympanometry and artificial intelligence can facilitate diagnosis if pneumatic otoscopy is unavailable. Newer tools have become available, including video-otoscopy, which enables the collection of a large number of tympanic membrane images. Unlike standard otoscopy, these images can be reviewed later by the diagnosing clinician or a specialist, thus enabling a more detailed analysis of the tympanic membrane and reducing the risk of misdiagnosis. Another development in otoscopy is telemedical otoscopic examination, in which parents use smartphone-based otoscopes to capture images suggestive of ear disease and transmit them to a primary care pediatrician or an otolaryngologist for confirmation. With appropriate parental education in device use, telemedical otoscopic examination could be integrated into routine clinical practice. Management of AOM varies by clinical setting and reflects differences in guideline interpretation and risk tolerance. In the United States, the mainstay of treatment for an established diagnosis is high-dose amoxicillin, particularly in children younger than 2. In contrast, some countries, such as the Netherlands, recommend an initial period of watchful waiting with antibiotics reserved for persistent or worsening symptoms. These approaches balance concerns about antibiotic overuse and resistance with the benefits of early treatment in higher-risk patients. If inadequately treated, AOM may lead to complications including hearing loss, balance disturbances, tympanic membrane perforation, cholesteatoma, and, rarely, mastoiditis, labyrinthitis, petrositis, meningitis, brain abscess, and lateral or cavernous sinus thrombosis. Regardless of antibiotic strategy, analgesics such as nonsteroidal anti-inflammatory drugs or topical 1% lidocaine should be used alone or in combination to achieve effective pain control. Surgical management of AOM may be diagnostic, therapeutic, or preventive. Tympanocentesis is generally reserved for patients who are immunocompromised, have severe complications (eg, meningitis), or have infections unresponsive to antimicrobial therapy. Myringotomy with tympanostomy tube placement may be indicated for recurrent AOM or acute exacerbations of CSOM. In rare cases, mastoidectomy is required for infection spread or other complications, although its use has declined with earlier diagnosis and effective medical therapy. Historically, surgical drainage of ear infections predates modern antibiotic management, with mastoidectomy described before myringotomy and early procedures reported as far back as the 16th century.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK470332"
+  },
+  {
+   "pmid": "31613481",
+   "title": "Acute Sinusitis",
+   "authors": [
+    "Kwon E",
+    "Hathaway C",
+    "Sutton AE"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Rhinosinusitis is the inflammation of the nasal cavity and paranasal sinuses, typically resulting from infection, allergy, or other causes. Rhinosinusitis is classified into the following categories, based more on consensus rather than empirical research: Acute: Symptoms lasting less than 4 weeks. Subacute: Symptoms lasting between 4 and 12 weeks. Chronic: Symptoms lasting more than 12 weeks. Recurrent: Four episodes lasting less than 4 weeks with complete symptom resolution between episodes. Acute sinusitis involves inflammation of the lining of the paranasal sinuses. Because the sinus passages are connected to the nasal passages, the term rhinosinusitis is often more accurate. Acute rhinosinusitis is a frequently diagnosed condition, accounting for approximately 30 million primary care visits annually and contributing to an estimated $11 billion in healthcare costs. This condition is also a primary reason for antibiotic prescriptions in both the United States and worldwide. Given recent guidelines and concerns about antibiotic resistance and responsible antibiotic use, having clear treatment protocols for this common condition is essential for diagnosis. Acute rhinosinusitis caused by viral upper respiratory infections and noninfectious conditions should be distinguished from acute bacterial rhinosinusitis based on illness pattern and duration of illness. Acute sinusitis diagnosis depends on the presence of purulent nasal drainage for up to 4 weeks. The clinical challenge lies in the fact that neither purulent nasal drainage nor symptom duration is diagnostic for both bacterial and viral agents. Most clinicians rely on the three main symptoms, including purulent nasal drainage, facial or dental pain, and nasal obstruction complaints; however, these do not lead to definitive diagnoses. Evaluation should always include vital signs and a thorough examination of the head and neck. To complicate the clinical picture, up to 2% of patients with viral rhinosinusitis also develop a bacterial infection concurrently. Finally, fever may be present with viral rhinosinusitis initially, but it also does not predict a bacterial infection. Generally, radiographic imaging has limited utility in acute rhinosinusitis unless there is evidence of a complication or an alternative diagnosis. Plain film radiographs are less reliable than coronal computed tomographic (CT) scans when surgical intervention is needed. Magnetic resonance imaging (MRI) is generally not helpful unless a fungal infection or tumor is suspected. Ultrasound offers limited usefulness. Most otolaryngologists prefer fiberoptic sinus endoscopy combined with targeted culture in challenging cases. Management typically involves symptomatic treatment and close monitoring in most cases. These measures include humidification, warm compresses, hydration, nonsteroidal anti-inflammatory drugs, and, in some cases, mucolytic agents to enhance patient comfort. Antihistamines are not advised, and decongestants should be used cautiously and only temporarily. Although antibiotics are often presumed to be the preferred treatment, their use in acute bacterial rhinosinusitis remains a topic of discussion, as randomized controlled trials have not conclusively demonstrated significant advantages in employing antibiotics for the management of acute sinusitis. Furthermore, systematic reviews of patients with radiologic or bacteriologic confirmation showed no significant difference in clinical resolution rates between those treated with amoxicillin or amoxicillin-clavulanate and those treated with cephalosporins or macrolides. In most cases of acute rhinosinusitis, surgical intervention is not required, and medical treatment remains the standard approach. Exceptions include patients who do not respond to medical management, show rapidly worsening symptoms, or have a suspicion of an abscess or complications involving the eyes or nervous system that could threaten the patient's safety or life. Treatment may fail in many patients without close follow-up. Fortunately, complications are infrequent. Preventing complications such as mucoceles, osteomyelitis, and orbital and intracranial issues should be the top priority in patients showing unusual signs and symptoms.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK547701"
+  },
+  {
+   "pmid": "31536289",
+   "title": "Bacterial Conjunctivitis",
+   "authors": [
+    "Hyde MR",
+    "Le JK"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Often unnoticed in daily life, the conjunctiva is a transparent, continuous ocular mucous membrane that produces mucus and tears for lubrication and serves as a microbial barrier. The bulbar conjunctiva covers the anterior globe up to the corneal limbus. The palpebral conjunctiva lines the posterior aspect of the eyelids. Forniceal conjunctivae connect the bulbar and palpebral areas.[AAO. Ophthalmic Pathology and Intraocular Tumors. 2017] Inflammation of the conjunctiva, or conjunctivitis, is a broad ophthalmic term and a common medical complaint, accounting for approximately 3% of all general medical visits.[AAO. Preferred Practice Patterns Conjunctivitis 2023] When inflamed, conjunctival vessels dilate, giving the appearance of a \"red eye\". In addition to eye redness, patients with conjunctivitis may complain of foreign body sensation, itching, tearing, or discharge. Conjunctivitis can be categorized in many ways, including by age or by infectious agent. Ophthalmia neonatorum, or neonatal conjunctivitis, is conjunctivitis occurring within the first 4 weeks of life, with a distinct differential diagnosis, management, and treatment. Please see StatPearls' companion resource, \"Ophthalmic Neonatorum,\" for further information. Trachoma is the leading cause of infectious blindness worldwide, and in early stages presents with conjunctivitis following exposure to the bacterium Chlamydia trachomatis. Common in the developing world, repeated untreated trachoma infections cause palpebral conjunctival scarring, cicatricial entropion, trichiasis, prolonged corneal irritation, and ultimately corneal scarring and opacification. Please see StatPearls' companion resource, \"Trachoma,\" for further information. Conjunctivitis may also be classified by symptom duration. Acute conjunctivitis refers to conjunctivitis symptoms lasting 4 weeks or less and accounts for 1% to 3% of all primary care clinic visits. In pediatric acute infectious conjunctivitis, 78% of all cases are bacterial. In adults, while viral and allergic etiologies are most common, a significant portion of conjunctivitis can still be bacterial. Hyperacute conjunctivitis is defined by the rapid onset of severe symptoms within the first 24 hours. Examples of hyperacute conjunctivitis include gonococcal conjunctivitis and primary meningococcal conjunctivitis, both of which can have devastating ophthalmic and systemic consequences. Although many cases of bacterial conjunctivitis are self-limited and do not impact long-term vision, the economic and lifestyle costs to patients and their families are significant. In those cases that are not self-limited, prompt recognition and treatment are essential to avoid corneal ulcers, endophthalmitis, panophthalmitis, globe perforation, and systemic disease progression. This course focuses on bacterial conjunctivitis of 4 weeks' duration or less that presents in patients older than 4 weeks of age, and includes both hyperacute and acute bacterial etiologies.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK546683"
+  },
+  {
+   "pmid": "28613693",
+   "title": "Impetigo",
+   "authors": [
+    "Nardi NM",
+    "Schaefer TJ"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Impetigo is a common infection of the superficial layers of the epidermis that is highly contagious and most commonly caused by gram-positive bacteria. It most commonly presents as erythematous plaques with a yellow crust and may be itchy or painful. The lesions are highly contagious and spread easily. Impetigo is a disease of children who reside in hot humid climates. The infection may be bullous or nonbullous. The infection typically affects the face but can also occur in any other part of the body that has an abrasion, laceration, insect bite or other trauma. Diagnosis is typically based on the symptoms and clinical manifestations alone. Treatment involves topical and oral antibiotics and symptomatic care.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK430974"
+  },
+  {
+   "pmid": "29939666",
+   "title": "Scarlet Fever",
+   "authors": [
+    "Sabir S",
+    "Nguyen AD"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Scarlet fever is a syndrome characterized by a blanching, erythematous, maculopapular rash often described as sandpaper-like, strawberry tongue, and exudative pharyngitis (see Image. Scarlet Fever). The causative organism, Streptococcus pyogenes (Lancefield Group A Streptococcus, or Strep A), is a gram-positive bacterium adapted to humans. This organism grows in pairs and chains and is responsible for a wide spectrum of infections, ranging from superficial to deep and invasive conditions, including cellulitis, pharyngitis, erysipelas, toxic shock syndrome, and necrotizing fasciitis. Strep A produces streptococcal pyrogenic exotoxins (SPEs), which act as superantigens released during infection. These exotoxins are the primary cause of the erythematous rash associated with scarlet fever. Strep A bacterial pharyngitis and scarlet fever most commonly affect school-aged and adolescent children due to higher transmissibility in school settings. However, these infections can also occur in other age groups, particularly in crowded environments such as households and nursing homes. Scarlet fever caused by Strep A infections can occur at any age. Although it is most commonly associated with Strep A pharyngitis, it may also develop with other Strep A infections, whether invasive or noninvasive, such as erysipelas or necrotizing fasciitis. Historically, Strep A serotypes have displayed cyclic epidemiological patterns. Notably, Strep A is among the few bacteria that produce superantigen exotoxins, which are exceptionally potent T-cell activators. Strep A superantigens, also known as erythrogenic or scarlet fever toxins, are responsible for the characteristic erythematous, sandpaper-like rash and strawberry tongue observed in scarlet fever. Superantigen genes, such as speA, speC, and ssa, enhance the fitness and virulence of Strep A, contributing to the development of invasive disease. Scarlet fever epidemics and invasive Strep A infections were common in the 19th century. Although the prevalence of scarlet fever declined in the 20th century, a resurgence of Strep A infections occurred in the 1980s. Over the past decade, more virulent epidemic strains of Strep A have emerged, leading to increased Strep A infections and scarlet fever. Suppurative and nonsuppurative complications can arise from Strep A infections, including rheumatic heart disease and poststreptococcal glomerulonephritis. Prompt treatment of acute infections is essential to prevent these complications.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK507889"
+  },
+  {
+   "pmid": "30085537",
+   "title": "Viral Gastroenteritis",
+   "authors": [
+    "Stuempfig ND",
+    "Tobin EH",
+    "Seroy J"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Acute infectious gastroenteritis is a common illness seen around the world. Viral pathogens cause a majority of these cases. Acute viral diarrheal disease is generally self-limiting in industrialized nations but can have significant morbidity for young and older adult patients. In underdeveloped countries, viral diarrheal diseases are a significant cause of death, especially in infants. According to the Centers for Disease Control (CDC), viral gastroenteritis infections can account for over 200,000 deaths of children per year and are the third leading cause of death in children younger than 5 worldwide. Viral gastroenteritis is a known cause of nausea, vomiting, diarrhea, anorexia, weight loss, and dehydration. Isolated cases can occur, but viral gastroenteritis more commonly occurs in outbreaks within close communities, eg, daycare centers, nursing facilities, and cruise ships. Many viruses can lead to symptomatology, though the true causative virus is generally not identified in routine clinical practice. Regardless of the viral cause, treatment is generally uniform and directed toward symptomatic improvement with a focus on hydration status. In the United States and other industrialized countries, the disease is often self-limited and resolves in 1 to 3 days. However, in susceptible patients, including young children, elderly patients, and the immunocompromised, hospitalization can occur without proper supportive care, leading to increased morbidity and mortality.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK518995"
+  },
+  {
+   "pmid": "32119436",
+   "title": "Viral Hepatitis",
+   "authors": [
+    "Grant LM",
+    "Purres M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "Hepatitis is defined as inflammation of the liver that can result from a variety of causes, such as heavy alcohol use, autoimmune disorders, drugs, or toxins. However, the most frequent cause of hepatitis is due to a viral infection, referred to as \"viral hepatitis.\" In the United States, the most common types of viral hepatitis are hepatitis A, hepatitis B, and hepatitis C. The other types of viral hepatitis are hepatitis D and E, which are less frequently encountered. Based on the etiology of the hepatitis, the severity can range from mild and self-limiting to severe illness requiring liver transplantation. Hepatitis can be further classified into \"acute\" and \"chronic\" based on the duration of the inflammation in the liver. Inflammation lasting less than 6 months is defined as \"acute,\" and inflammation lasting greater than 6 months is defined as \"chronic.\" Although acute hepatitis is usually self-limiting, it may also cause fulminant liver failure, depending on the etiology. In contrast, chronic hepatitis may result in the development of liver fibrosis, cirrhosis, hepatocellular carcinoma, and features of portal hypertension, leading to significant morbidity and mortality.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK554549"
+  },
+  {
+   "pmid": "31082146",
+   "title": "Febrile Neutropenia",
+   "authors": [
+    "Punnapuzha S",
+    "Edemobi PK",
+    "Elmoheen A"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Neutropenic fever is when there is a single oral temperature greater than or equal to 101 F (38.3 C) or a temperature greater than or equal to 100.4 F (38 C) for at least an hour, with an absolute neutrophilic count (ANC) of less than 1500 cells/microliter. In severe neutropenia, the ANC is less than 500 per microliter. In profound neutropenia, the ANC is less than 100 cells/microliter. The risk of bacteremia increases with profound neutropenia. To calculate ANC, multiply the total white blood cell (WBC) count by the percentage of polymorphonuclear cells (PMNs) and band neutrophils. ANC = WBC (cells/microL) x percent (PMNs + bands) / 100. Following hematological terms are commonly employed to classify abnormal neutrophil counts: ANC <200 cells/microL: agranulocytosis. Neutropenia for > three months: chronic neutropenia. Neutropenia without associated anemia and/or thrombocytopenia: isolated neutropenia. Reduced number of neutrophils, eosinophils, and basophils: granulocytopenia.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK541102"
+  },
+  {
+   "pmid": "28722943",
+   "title": "Diabetic Foot Infections",
+   "authors": [
+    "Murphy-Lavoie HM",
+    "Ramsey A",
+    "Nguyen M",
+    "Vadakekut ES"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Approximately 29 million people have diabetes in the United States, and approximately 25% of people older than 65 have diabetes. The incidence of diabetes worldwide is projected to increase by 55% over the next 20 years, so this problem is only going to get worse. Approximately 75% of diabetic neuropathies are distal symmetric polyneuropathy (DSP). Once peripheral neuropathy develops, the annual incidence of ulcer formation increases from <1 % to >7%. The 3-year mortality for people with diabetes increases from 13% to 28% with an ulcer. The other major factor in diabetic foot infections is compromised blood flow. In the presence of local trauma and microvascular disease, diabetic foot infections may vary from a simple case of cellulitis to full-blown gangrene. Osteomyelitis occurs in 15% of ulcers, and 15% of those require amputation. Approximately 60% of patients undergoing lower extremity amputation have diabetic foot ulcers as the underlying cause. Following a lower extremity amputation, the 5-year mortality jumps to 60%. Diabetic foot ulcers are precursors to amputation and mortality, and therefore, every effort should be made to prevent them. Treating diabetic foot infections is difficult as the blood flow is compromised and the antibiotics usually cannot reach the diseased area. In many patients with diabetes, a foot infection will progress, and the time to resolution can be much more prolonged than for patients without diabetes.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441914"
+  },
+  {
+   "pmid": "30335280",
+   "title": "Erysipelas",
+   "authors": [
+    "Michael Y",
+    "Shaukat NM"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Erysipelas is a skin infection involving the dermis layer of the skin, but it may also extend to the superficial cutaneous lymphatics. It is characterized by an area of erythema that is well-demarcated, raised, and often affects the lower extremities, with the face being the second most commonly affected site. Erysipelas is also referred to as “St. Anthony’s Fire” due to its intense fiery rash. Its diagnosis can overlap with cellulitis, and often, a definite diagnosis cannot be made. Cellulitis has ill-defined borders and is slower to develop, while erysipelas has better-defined borders and faster development. Erysipelas can be serious but rarely fatal. It has a rapid and favorable response to antibiotics. Local complications are more common than systemic complications. The most common cause is Group A streptococci.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK532247"
+  },
+  {
+   "pmid": "28613691",
+   "title": "Epiglottitis",
+   "authors": [
+    "Sutton AE",
+    "Waseem M"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2024,
+   "doi": null,
+   "abstract": "The terms epiglottitis, epiglottiditis, and supraglottitis are often used interchangeably to describe severe inflammation of the supraglottis, the region above the glottis extending to the oral cavity. Over 2000 years ago, Hippocrates described epiglottitis as \"fever, chill, pain in the head, the underpart of the jaw is swollen: the patient swallows with difficulty, cannot spit, cannot tolerate lying down, and chokes in this position.\" The laryngoscope, invented in the mid-19th century, enabled visualization of the epiglottis with a strong light and small mirror. Technically, the oropharynx ends at the epiglottis. Epiglottitis refers specifically to swelling and inflammation of the epiglottis, which is more common in children. In adults, the term \"supraglottitis\" is more accurate, as inflammation extends beyond the epiglottis to the hypopharynx, arytenoids, aryepiglottic folds, valleculae, tongue base, and sometimes the soft palate and uvula. Both epiglottitis and supraglottitis can cause life-threatening upper airway swelling, leading to asphyxia and respiratory arrest. Before the introduction of the Haemophilus influenzae type b (Hib) vaccine in 1985, H influenzae caused most cases of pediatric epiglottitis. Since the introduction of the vaccine, supraglottitis has become more common in adults, with an annual incidence of 3 per 100,000 and a mortality rate of approximately 1%. Improved recognition and identification of varied pathogens in rare pediatric epiglottitis cases have reduced complications. However, securing the airway is crucial, particularly in children whose discomfort and agitation may worsen symptoms. Airway management differs between adults and children. In pediatric patients, the airway should not be instrumented during oral exams or endoscopy in the clinic or emergency department, nor should unstable patients be sent to radiology for imaging. In adults, airway evaluation with fiberoptic endoscopy and appropriate imaging is often feasible, but the clinical presentation may still be deceptive, even to experienced clinicians. While many otolaryngologists favor a conservative approach for adults, fulminant epiglottitis can progress dramatically, especially with epiglottic abscesses, leading to fatal airway obstruction. No consensus exists on the best management approach for adults, with airway techniques varying based on clinical expertise, experience, and available equipment. Since the introduction of the Hib vaccine, the rate of airway interventions in adults with epiglottitis has decreased from 18.8% to 10.9%.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK430960"
+  },
+  {
+   "pmid": "28613724",
+   "title": "Croup",
+   "authors": [
+    "Kadam SJ",
+    "Daley SF",
+    "Carr B"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2025,
+   "doi": null,
+   "abstract": "Croup is a common respiratory illness in children younger than 6, with peak incidence between 6 months and 3 years. This infection is most common in the fall and early winter but can occur year-round. Although typically mild and self-limiting, croup occasionally causes significant upper airway obstruction and respiratory distress. Croup includes the spectrum of laryngotracheitis, laryngotracheobronchitis, and laryngotracheal bronchopneumonitis. The infection affects the larynx, trachea, and bronchi, leading to a characteristic barking cough and inspiratory stridor. Parainfluenza virus (PIV) is the most common cause, though bacterial infections can also be responsible. Diagnosis is primarily clinical, but clinicians must first exclude life-threatening conditions such as epiglottitis or airway foreign bodies. Most patients should be treated with corticosteroids, whereas epinephrine is reserved for moderate-to-severe cases.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK431070"
+  },
+  {
+   "pmid": "32644434",
+   "title": "Tetanus Prophylaxis",
+   "authors": [
+    "Callison C",
+    "Nguyen H"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2023,
+   "doi": null,
+   "abstract": "Tetanus is a disease that mainly affects the central and peripheral nervous systems. The clinical features of tetanus and its relationship to wounds and injuries are well known, dating back to ancient times. Tetanus is synonymous with the term \"lockjaw,\" a cardinal sign as a reminder of the intense, painful spasms of the masseter muscles and an inability to open the mouth. Tetanus has 4 manifestations, including localized, generalized, cephalic, and neonatal. Localized tetanus often has localized muscle rigidity. Generalized tetanus often presents with trismus, dysphagia, and nuchal rigidity associated with systemic rigidity and tonic contractions. Cephalic tetanus may present with cranial nerve paralysis. Neonatal tetanus presents with an irritable infant and develops severe rigidity. Tetanus is now rare in developed nations due to effective immunization programs, but it remains a threat to all unvaccinated people, especially in undeveloped nations. Most reported cases in the United States are attributed to unvaccinated individuals and improper identification and treatment of wounds and traumatic injuries. Tetanus had high morbidity and mortality worldwide before the development of tetanus toxoid in 1924. The first vaccine was not very effective and had significant adverse effects. A better and safer version became available in 1938. It became widely used in the 1940s during World War II for soldiers, which resulted in a 95% reduction in the rate of tetanus. The tetanus toxoid is considered worldwide as the safest and most effective medicine in healthcare. Tetanus toxoid is used in combination with diphtheria and pertussis as a vaccine. Currently, there are 5 tetanus toxoid-containing vaccines (DTaP, DTP, Tdap, Td, DT). Nomenclature is as follows: D is for diphtheria, T is for tetanus, P is for pertussis, and a is for acellular. The lowercase p and d just mean reduced toxoid of that vaccine. DTP (diptheria, tetanus, pertussis) was used from 1948 to 1991. It was discontinued due to a high adverse injection reaction of redness, swelling, and pain around the site. Two new vaccines replaced it in 1992, TDaP and DTaP. The current Advisory Committee on Immunization Practices recommends for children doses of DTaP or DT at 2, 4, and 6 months of age, with additional doses between 15 and 18 months, and between 4 and 6 years. This regimen is followed by 1 booster of Tdap at age 11 or 12, followed by a booster every 10 years thereafter. Adult Td or Tdap vaccine is recommended every 10 years with complete prior immunization. Of those doses, one must be Tdap for more than 19 years old. In those previously unvaccinated, a series of 3 vaccines will be given. One dose is given 4 weeks from the first dose, then the last dose 6 to 12 months later. At least one dose is Tdap, and the other 2 can be Td or Tdap. A booster is also indicated every 10 years thereafter. The rationale for a booster every 10 years is due to waning immunity. Between 1988 and 1994, the United States serologic survey finds protective titers of tetanus antibodies were detected in 72% aged 6 years old, up to 91% aged 6 and 11 years old, down 47% aged 20 years or older, and significantly down to 31% aged more than 70 years old. Tetanus prophylaxis includes understanding and knowing the current tetanus immunization guideline(s), recommendation(s), and indication(s) for prophylaxis. The key to the prevention of tetanus is immunization, identification of those at risk, and proper identification and treatment of wounds and traumatic injuries.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK559008"
+  },
+  {
+   "pmid": "28846307",
+   "title": "Roseola Infantum",
+   "authors": [
+    "Mullins TB",
+    "Daley SF",
+    "Krishnamurthy K"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Roseola infantum, also known as exanthema subitum or sixth disease, is a common childhood illness worldwide caused by infection with human herpesvirus 6 (HHV-6) or, less often, human herpesvirus 7 (HHV-7) (see Image. Roseola Infantum Rash). This condition typically affects children aged 6 to 12 months; 90% of cases occur in infants younger than 2 years, and it accounts for 10% to 45% of febrile illnesses in infants. Patients typically present with a sudden-onset fever up to 104 °F (40 °C) that lasts 3 to 5 days, followed by the sudden appearance of a non-pruritic exanthem as the fever subsides. The rash appears on the trunk and then spreads to the neck and extremities. The term \"sixth disease\" originated from the historical classification of childhood exanthems, in which pediatricians in the late 19th and early 20th centuries systematically distinguished and numbered common febrile exanthems. This numerical system allowed physicians to organize and communicate about pediatric exanthems before their etiologies were understood. Roseola infantum was first identified as a distinct clinical syndrome by American pediatrician John Zahorsky in 1913, establishing it as the sixth disease in this sequential system (JAMA 1913;61:1446–1450). Zahorsky used the term \"exanthem subitum,\" meaning \"sudden rash,\" to describe the characteristic pattern of high fever followed by the rapid appearance of a pink, papular rash upon defervescence. In most cases, roseola is a benign, self-limited infection diagnosed through history and distinctive physical exam findings. Treatment is limited to symptom relief, and the outlook is typically favorable, although atypical cases and complications can occur. Failure to recognize roseola can cause unnecessary parental anxiety, inappropriate diagnostic testing, unnecessary interventions, and inefficient use of healthcare resources. This article reviews the clinical evaluation, diagnosis, and management of roseola, highlights atypical presentations and potential complications, and emphasizes the role of interprofessional collaboration in optimizing care for affected children.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK448190"
+  },
+  {
+   "pmid": "28722854",
+   "title": "Herpes Zoster",
+   "authors": [
+    "Nair PA",
+    "Shah M",
+    "Patel BC"
+   ],
+   "journal": "StatPearls [Internet]",
+   "year": 2026,
+   "doi": null,
+   "abstract": "Varicella-zoster virus (VZV), also known as human herpesvirus 3, is the causative agent of chickenpox (varicella) and shingles (herpes zoster). VZV is a neurotropic human herpes virus belonging to the Alphaherpesvirinae subfamily. Herpes zoster is a viral disease caused by reactivation of VZV, which remains dormant in the sensory ganglia of the cranial nerves or the dorsal root ganglia after a previous varicella infection. VZV latency is largely controlled by cell-mediated immunity, and reactivation is thought to result from the loss of this immune surveillance. The incidence of herpes zoster is strongly correlated with immune status. Individuals with high immunity levels rarely develop shingles. Even after herpes zoster resolves, many patients continue to experience moderate to severe pain known as postherpetic neuralgia.",
+   "publicationTypes": [
+    "Study Guide"
+   ],
+   "bookshelfID": "NBK441824"
   },
   {
    "pmid": "32965827",
@@ -17179,6 +17479,1638 @@
     "status": "verified",
     "method": "aiAuthored",
     "supportingExcerpt": "certain infections that rarely cause disease in immunocompetent hosts",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30725882-1-en",
+   "translationKey": "infect-30725882-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "Influenza viruses are…",
+   "options": [
+    "Bacteria",
+    "RNA viruses (Orthomyxoviridae)",
+    "DNA viruses (herpesviruses)",
+    "Fungi"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Influenza viruses are RNA viruses of the Orthomyxoviridae, with types A, B and C.",
+   "shortExplanation": "RNA viruses.",
+   "pmid": "30725882",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Influenza viruses belong to the Orthomyxoviridae RNA virus family",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30725882-1-es",
+   "translationKey": "infect-30725882-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "Los virus de la influenza son…",
+   "options": [
+    "Bacterias",
+    "Virus ARN (Orthomyxoviridae)",
+    "Virus ADN (herpesvirus)",
+    "Hongos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los virus influenza son virus ARN de la familia Orthomyxoviridae, con tipos A, B y C.",
+   "shortExplanation": "Virus ARN.",
+   "pmid": "30725882",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Influenza viruses belong to the Orthomyxoviridae RNA virus family",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30725882-2-en",
+   "translationKey": "infect-30725882-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Why does influenza A, but not B, cause pandemics?",
+   "options": [
+    "B is a bacterium",
+    "B has no vaccine",
+    "B only infects birds",
+    "A circulates in birds, pigs and horses; B spreads only among humans"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Influenza A has animal reservoirs (birds, pigs, horses) that allow new subtypes; influenza B is limited to humans.",
+   "shortExplanation": "Animal reservoirs for A.",
+   "pmid": "30725882",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Influenza B exclusively spreads among humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30725882-2-es",
+   "translationKey": "infect-30725882-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué la influenza A, y no la B, causa pandemias?",
+   "options": [
+    "La B es una bacteria",
+    "La B no tiene vacuna",
+    "La B solo infecta aves",
+    "La A circula en aves, cerdos y caballos; la B solo entre humanos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La influenza A tiene reservorios animales (aves, cerdos, caballos) que permiten nuevos subtipos; la B se limita a humanos.",
+   "shortExplanation": "Reservorios animales de la A.",
+   "pmid": "30725882",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Influenza B exclusively spreads among humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30422556-1-en",
+   "translationKey": "infect-30422556-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "What is the most frequent cause of the common cold?",
+   "options": [
+    "Streptococcus pyogenes",
+    "Influenza B",
+    "Rhinovirus",
+    "Haemophilus influenzae"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Rhinovirus is the most frequent cause of the common cold, a mild, self-limited upper respiratory infection.",
+   "shortExplanation": "Rhinovirus.",
+   "pmid": "30422556",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The ubiquitous clinical syndrome recognized as the \"common cold\" and the rhinovirus, its most frequent etiology",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30422556-1-es",
+   "translationKey": "infect-30422556-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es la causa más frecuente del resfrío común?",
+   "options": [
+    "Streptococcus pyogenes",
+    "Influenza B",
+    "Rinovirus",
+    "Haemophilus influenzae"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El rinovirus es la causa más frecuente del resfrío, una infección respiratoria alta leve y autolimitada.",
+   "shortExplanation": "Rinovirus.",
+   "pmid": "30422556",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The ubiquitous clinical syndrome recognized as the \"common cold\" and the rhinovirus, its most frequent etiology",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30422556-2-en",
+   "translationKey": "infect-30422556-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "Which are the most common acute infectious diseases in the world?",
+   "options": [
+    "Upper respiratory tract infections",
+    "Urinary tract infections",
+    "Malaria",
+    "Tuberculosis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "URTIs are the most common acute infections and drive many unnecessary antibiotic prescriptions.",
+   "shortExplanation": "URTIs.",
+   "pmid": "30422556",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "URTIs are the most common acute infectious diseases in the world",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30422556-2-es",
+   "translationKey": "infect-30422556-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿Cuáles son las enfermedades infecciosas agudas más comunes del mundo?",
+   "options": [
+    "Infecciones respiratorias altas",
+    "Infecciones urinarias",
+    "Malaria",
+    "Tuberculosis"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las infecciones respiratorias altas son las infecciones agudas más comunes y motivan muchas recetas innecesarias de antibióticos.",
+   "shortExplanation": "IRA altas.",
+   "pmid": "30422556",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "URTIs are the most common acute infectious diseases in the world",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30252253-1-en",
+   "translationKey": "infect-30252253-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "Which age group has the highest incidence of strep throat?",
+   "options": [
+    "Infants under 1 year",
+    "Children 3 to 9 years",
+    "Adults over 65",
+    "Adults 30 to 50"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Strep pharyngitis peaks in children aged 3–9, then adolescents; it is far less common in adults.",
+   "shortExplanation": "Children 3–9.",
+   "pmid": "30252253",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The highest incidence of streptococcal pharyngitis occurs among children 3 to 9 years of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30252253-1-es",
+   "translationKey": "infect-30252253-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿Qué grupo de edad tiene la mayor incidencia de faringitis estreptocócica?",
+   "options": [
+    "Menores de 1 año",
+    "Niños de 3 a 9 años",
+    "Mayores de 65",
+    "Adultos de 30 a 50"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La faringitis estreptocócica predomina en niños de 3 a 9 años, luego adolescentes; es mucho menos común en adultos.",
+   "shortExplanation": "Niños de 3 a 9.",
+   "pmid": "30252253",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The highest incidence of streptococcal pharyngitis occurs among children 3 to 9 years of age",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30252253-2-en",
+   "translationKey": "infect-30252253-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What problem is highlighted for adults with sore throat?",
+   "options": [
+    "Antibiotics are under-prescribed",
+    "Strep causes most adult sore throats",
+    "Vaccines are overused",
+    "Only 10–15% have strep, yet ≥60% receive antibiotics"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Most adult sore throats are not streptococcal, but most adults get antibiotics — a major stewardship target.",
+   "shortExplanation": "Antibiotic overuse.",
+   "pmid": "30252253",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "only 10% to 15% will have streptococcal pharyngitis, yet 60% or more of those adult patients will receive prescriptions for antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30252253-2-es",
+   "translationKey": "infect-30252253-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué problema se destaca en adultos con dolor de garganta?",
+   "options": [
+    "Se recetan pocos antibióticos",
+    "El estreptococo causa la mayoría",
+    "Se abusa de las vacunas",
+    "Solo 10–15% tiene estreptococo, pero ≥60% recibe antibióticos"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La mayoría de las faringitis del adulto no son estreptocócicas, pero la mayoría recibe antibióticos: un blanco clave del uso racional.",
+   "shortExplanation": "Abuso de antibióticos.",
+   "pmid": "30252253",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "only 10% to 15% will have streptococcal pharyngitis, yet 60% or more of those adult patients will receive prescriptions for antibiotics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29262176-1-en",
+   "translationKey": "infect-29262176-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Which bacteria most commonly cause acute otitis media?",
+   "options": [
+    "S. pneumoniae, non-typeable H. influenzae and Moraxella catarrhalis",
+    "E. coli, Klebsiella and Proteus",
+    "S. aureus, S. epidermidis and Enterococcus",
+    "Pseudomonas, Acinetobacter and Serratia"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "AOM's classic bacterial trio: S. pneumoniae, non-typeable H. influenzae and M. catarrhalis.",
+   "shortExplanation": "Pneumococcus, NTHi, Moraxella.",
+   "pmid": "29262176",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most common bacterial pathogens that cause AOM include Streptococcus pneumoniae, nontypeable Haemophilus influenzae, and Moraxella catarrhalis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29262176-1-es",
+   "translationKey": "infect-29262176-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Qué bacterias causan con más frecuencia la otitis media aguda?",
+   "options": [
+    "S. pneumoniae, H. influenzae no tipificable y Moraxella catarrhalis",
+    "E. coli, Klebsiella y Proteus",
+    "S. aureus, S. epidermidis y Enterococcus",
+    "Pseudomonas, Acinetobacter y Serratia"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Trío bacteriano clásico de la OMA: S. pneumoniae, H. influenzae no tipificable y M. catarrhalis.",
+   "shortExplanation": "Neumococo, Hi no tipificable, Moraxella.",
+   "pmid": "29262176",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The most common bacterial pathogens that cause AOM include Streptococcus pneumoniae, nontypeable Haemophilus influenzae, and Moraxella catarrhalis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29262176-2-en",
+   "translationKey": "infect-29262176-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "At what age is acute otitis media most common?",
+   "options": [
+    "Newborns in the first week",
+    "Teenagers",
+    "Between 6 and 24 months",
+    "Adults over 60"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "AOM peaks between 6 and 24 months and is the most common reason for antibiotic use in childhood.",
+   "shortExplanation": "6–24 months.",
+   "pmid": "29262176",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the condition is most commonly observed between 6 and 24 months",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29262176-2-es",
+   "translationKey": "infect-29262176-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿A qué edad es más frecuente la otitis media aguda?",
+   "options": [
+    "Recién nacidos en la primera semana",
+    "Adolescentes",
+    "Entre los 6 y 24 meses",
+    "Mayores de 60"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La OMA predomina entre los 6 y 24 meses y es la causa más común de uso de antibióticos en la infancia.",
+   "shortExplanation": "6–24 meses.",
+   "pmid": "29262176",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "the condition is most commonly observed between 6 and 24 months",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29262176-3-en",
+   "translationKey": "infect-29262176-3",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What is the most reliable method to assess the tympanic membrane for otitis media?",
+   "options": [
+    "Plain X-ray",
+    "Pneumatic otoscopy",
+    "Blood culture",
+    "Throat swab"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Pneumatic otoscopy has higher sensitivity and specificity than plain otoscopy; tympanometry can help when it's unavailable.",
+   "shortExplanation": "Pneumatic otoscopy.",
+   "pmid": "29262176",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Pneumatic otoscopy is the most reliable method for assessing the tympanic membrane",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29262176-3-es",
+   "translationKey": "infect-29262176-3",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es el método más confiable para evaluar la membrana timpánica en la otitis media?",
+   "options": [
+    "Radiografía simple",
+    "Otoscopia neumática",
+    "Hemocultivo",
+    "Hisopado de fauces"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La otoscopia neumática tiene mayor sensibilidad y especificidad que la otoscopia simple; la timpanometría ayuda si no está disponible.",
+   "shortExplanation": "Otoscopia neumática.",
+   "pmid": "29262176",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Pneumatic otoscopy is the most reliable method for assessing the tympanic membrane",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31613481-1-en",
+   "translationKey": "infect-31613481-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "How is acute rhinosinusitis defined by duration?",
+   "options": [
+    "Symptoms for more than 12 weeks",
+    "Symptoms between 4 and 12 weeks",
+    "Four episodes per year",
+    "Symptoms lasting less than 4 weeks"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Acute <4 weeks, subacute 4–12 weeks, chronic >12 weeks.",
+   "shortExplanation": "<4 weeks.",
+   "pmid": "31613481",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Acute: Symptoms lasting less than 4 weeks",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31613481-1-es",
+   "translationKey": "infect-31613481-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Cómo se define por duración la rinosinusitis aguda?",
+   "options": [
+    "Síntomas por más de 12 semanas",
+    "Síntomas entre 4 y 12 semanas",
+    "Cuatro episodios por año",
+    "Síntomas de menos de 4 semanas"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Aguda <4 semanas, subaguda 4–12 semanas, crónica >12 semanas.",
+   "shortExplanation": "<4 semanas.",
+   "pmid": "31613481",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Acute: Symptoms lasting less than 4 weeks",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31613481-2-en",
+   "translationKey": "infect-31613481-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "What does the evidence say about antibiotics for acute sinusitis?",
+   "options": [
+    "Trials have not conclusively shown significant benefit",
+    "They always cure it in 24 hours",
+    "They are required in every case",
+    "They prevent all complications"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Most acute rhinosinusitis is viral and self-limited; antibiotic benefit is not conclusively shown, so symptomatic care is the norm.",
+   "shortExplanation": "No clear benefit.",
+   "pmid": "31613481",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "randomized controlled trials have not conclusively demonstrated significant advantages in employing antibiotics for the management of acute sinusitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31613481-2-es",
+   "translationKey": "infect-31613481-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "¿Qué dice la evidencia sobre los antibióticos en la sinusitis aguda?",
+   "options": [
+    "Los ensayos no demostraron de forma concluyente un beneficio significativo",
+    "Siempre curan en 24 horas",
+    "Son obligatorios en todos los casos",
+    "Previenen todas las complicaciones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La mayoría de las rinosinusitis agudas son virales y autolimitadas; el beneficio antibiótico no está claro y se prioriza el tratamiento sintomático.",
+   "shortExplanation": "Sin beneficio claro.",
+   "pmid": "31613481",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "randomized controlled trials have not conclusively demonstrated significant advantages in employing antibiotics for the management of acute sinusitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31536289-1-en",
+   "translationKey": "infect-31536289-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "In children with acute infectious conjunctivitis, which cause predominates?",
+   "options": [
+    "Allergic",
+    "Bacterial",
+    "Fungal",
+    "Parasitic"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "About 78% of pediatric acute infectious conjunctivitis is bacterial; in adults viral and allergic causes predominate.",
+   "shortExplanation": "Bacterial.",
+   "pmid": "31536289",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In pediatric acute infectious conjunctivitis, 78% of all cases are bacterial",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31536289-1-es",
+   "translationKey": "infect-31536289-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "En niños con conjuntivitis infecciosa aguda, ¿qué causa predomina?",
+   "options": [
+    "Alérgica",
+    "Bacteriana",
+    "Fúngica",
+    "Parasitaria"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Cerca del 78% de las conjuntivitis infecciosas agudas pediátricas son bacterianas; en adultos predominan las virales y alérgicas.",
+   "shortExplanation": "Bacteriana.",
+   "pmid": "31536289",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In pediatric acute infectious conjunctivitis, 78% of all cases are bacterial",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31536289-2-en",
+   "translationKey": "infect-31536289-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "Which organisms classically cause hyperacute (onset within 24 h, severe) conjunctivitis?",
+   "options": [
+    "Adenovirus and enterovirus",
+    "Allergens",
+    "Neisseria gonorrhoeae and N. meningitidis",
+    "Staphylococcus epidermidis"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Gonococcal and meningococcal conjunctivitis are hyperacute and can threaten vision and cause systemic disease.",
+   "shortExplanation": "Neisseria species.",
+   "pmid": "31536289",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Examples of hyperacute conjunctivitis include gonococcal conjunctivitis and primary meningococcal conjunctivitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31536289-2-es",
+   "translationKey": "infect-31536289-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué organismos causan clásicamente conjuntivitis hiperaguda (grave, en menos de 24 h)?",
+   "options": [
+    "Adenovirus y enterovirus",
+    "Alérgenos",
+    "Neisseria gonorrhoeae y N. meningitidis",
+    "Staphylococcus epidermidis"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las conjuntivitis gonocócica y meningocócica son hiperagudas y pueden amenazar la visión y causar enfermedad sistémica.",
+   "shortExplanation": "Neisseria.",
+   "pmid": "31536289",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Examples of hyperacute conjunctivitis include gonococcal conjunctivitis and primary meningococcal conjunctivitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613693-1-en",
+   "translationKey": "infect-28613693-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "What is the typical appearance of impetigo?",
+   "options": [
+    "Painless black eschar",
+    "Target-shaped lesions",
+    "Silvery scales on elbows",
+    "Red plaques with a yellow (honey-colored) crust"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Impetigo is a highly contagious superficial skin infection with yellow-crusted plaques, mostly in children.",
+   "shortExplanation": "Yellow crusts.",
+   "pmid": "28613693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It most commonly presents as erythematous plaques with a yellow crust",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613693-1-es",
+   "translationKey": "infect-28613693-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es el aspecto típico del impétigo?",
+   "options": [
+    "Escara negra indolora",
+    "Lesiones en diana",
+    "Escamas plateadas en codos",
+    "Placas rojas con costra amarilla (melicérica)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El impétigo es una infección cutánea superficial muy contagiosa con placas de costra amarillenta, sobre todo en niños.",
+   "shortExplanation": "Costras amarillas.",
+   "pmid": "28613693",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "It most commonly presents as erythematous plaques with a yellow crust",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29939666-1-en",
+   "translationKey": "infect-29939666-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "Which findings are characteristic of scarlet fever?",
+   "options": [
+    "Sandpaper-like rash, strawberry tongue and exudative pharyngitis",
+    "Vesicles in crops",
+    "Koplik spots",
+    "Slapped-cheek rash"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Scarlet fever, from group A strep, features a sandpaper rash, strawberry tongue and exudative pharyngitis.",
+   "shortExplanation": "Sandpaper rash, strawberry tongue.",
+   "pmid": "29939666",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "sandpaper-like, strawberry tongue, and exudative pharyngitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29939666-1-es",
+   "translationKey": "infect-29939666-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿Qué hallazgos son característicos de la escarlatina?",
+   "options": [
+    "Exantema áspero como lija, lengua aframbuesada y faringitis exudativa",
+    "Vesículas en brotes",
+    "Manchas de Koplik",
+    "Mejillas abofeteadas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La escarlatina, por estreptococo del grupo A, tiene exantema áspero, lengua aframbuesada y faringitis exudativa.",
+   "shortExplanation": "Lija y lengua aframbuesada.",
+   "pmid": "29939666",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "sandpaper-like, strawberry tongue, and exudative pharyngitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29939666-2-en",
+   "translationKey": "infect-29939666-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "What causes the rash of scarlet fever?",
+   "options": [
+    "Direct bacterial invasion of skin",
+    "Immune complexes in vessels",
+    "Streptococcal pyrogenic exotoxins acting as superantigens",
+    "IgE-mediated allergy"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Pyrogenic exotoxins (erythrogenic toxins) act as superantigens — potent T-cell activators — causing the rash.",
+   "shortExplanation": "Superantigen exotoxins.",
+   "pmid": "29939666",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Strep A produces streptococcal pyrogenic exotoxins (SPEs), which act as superantigens released during infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-29939666-2-es",
+   "translationKey": "infect-29939666-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "¿Qué causa el exantema de la escarlatina?",
+   "options": [
+    "Invasión bacteriana directa de la piel",
+    "Inmunocomplejos en los vasos",
+    "Exotoxinas pirógenas estreptocócicas que actúan como superantígenos",
+    "Alergia mediada por IgE"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las exotoxinas pirógenas (eritrogénicas) actúan como superantígenos, potentes activadores de linfocitos T, y causan el exantema.",
+   "shortExplanation": "Superantígenos.",
+   "pmid": "29939666",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Strep A produces streptococcal pyrogenic exotoxins (SPEs), which act as superantigens released during infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30085537-1-en",
+   "translationKey": "infect-30085537-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "What is the main treatment for viral gastroenteritis?",
+   "options": [
+    "Antibiotics",
+    "Rehydration and supportive care",
+    "Antifungals",
+    "Surgery"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Whatever the virus, care focuses on hydration and symptom relief.",
+   "shortExplanation": "Hydration.",
+   "pmid": "30085537",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Regardless of the viral cause, treatment is generally uniform and directed toward symptomatic improvement with a focus on hydration status",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30085537-1-es",
+   "translationKey": "infect-30085537-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "¿Cuál es el tratamiento principal de la gastroenteritis viral?",
+   "options": [
+    "Antibióticos",
+    "Rehidratación y medidas de sostén",
+    "Antifúngicos",
+    "Cirugía"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Sea cual sea el virus, el tratamiento se centra en la hidratación y el alivio de los síntomas.",
+   "shortExplanation": "Hidratación.",
+   "pmid": "30085537",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Regardless of the viral cause, treatment is generally uniform and directed toward symptomatic improvement with a focus on hydration status",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30085537-2-en",
+   "translationKey": "infect-30085537-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Where does viral gastroenteritis typically cause outbreaks?",
+   "options": [
+    "Deserts",
+    "Operating rooms only",
+    "Isolated farms",
+    "Close communities: daycares, nursing homes, cruise ships"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Outbreaks thrive in close communities such as daycares, nursing facilities and cruise ships.",
+   "shortExplanation": "Close communities.",
+   "pmid": "30085537",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "more commonly occurs in outbreaks within close communities, eg, daycare centers, nursing facilities, and cruise ships",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30085537-2-es",
+   "translationKey": "infect-30085537-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde suele causar brotes la gastroenteritis viral?",
+   "options": [
+    "Desiertos",
+    "Solo quirófanos",
+    "Granjas aisladas",
+    "Comunidades cerradas: guarderías, geriátricos, cruceros"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Los brotes ocurren en comunidades cerradas como guarderías, geriátricos y cruceros.",
+   "shortExplanation": "Comunidades cerradas.",
+   "pmid": "30085537",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "more commonly occurs in outbreaks within close communities, eg, daycare centers, nursing facilities, and cruise ships",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32119436-1-en",
+   "translationKey": "infect-32119436-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "What time limit separates acute from chronic hepatitis?",
+   "options": [
+    "2 weeks",
+    "1 month",
+    "10 years",
+    "6 months"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hepatitis lasting <6 months is acute; >6 months is chronic, with risk of cirrhosis and liver cancer.",
+   "shortExplanation": "6 months.",
+   "pmid": "32119436",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Inflammation lasting less than 6 months is defined as \"acute,\" and inflammation lasting greater than 6 months is defined as \"chronic.\"",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32119436-1-es",
+   "translationKey": "infect-32119436-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿Qué límite de tiempo separa la hepatitis aguda de la crónica?",
+   "options": [
+    "2 semanas",
+    "1 mes",
+    "10 años",
+    "6 meses"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La hepatitis de menos de 6 meses es aguda; de más de 6 meses, crónica, con riesgo de cirrosis y cáncer hepático.",
+   "shortExplanation": "6 meses.",
+   "pmid": "32119436",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Inflammation lasting less than 6 months is defined as \"acute,\" and inflammation lasting greater than 6 months is defined as \"chronic.\"",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31082146-1-en",
+   "translationKey": "infect-31082146-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "How is the absolute neutrophil count (ANC) calculated?",
+   "options": [
+    "WBC × (% segmented neutrophils + % bands) / 100",
+    "WBC − lymphocytes",
+    "Platelets × 2",
+    "Hemoglobin × 3"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "ANC = WBC × (%PMNs + %bands) / 100; <500 is severe and <100 profound neutropenia.",
+   "shortExplanation": "WBC × %(PMN+bands).",
+   "pmid": "31082146",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "To calculate ANC, multiply the total white blood cell (WBC) count by the percentage of polymorphonuclear cells (PMNs) and band neutrophils",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31082146-1-es",
+   "translationKey": "infect-31082146-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Cómo se calcula el recuento absoluto de neutrófilos (RAN)?",
+   "options": [
+    "Leucocitos × (% segmentados + % cayados) / 100",
+    "Leucocitos − linfocitos",
+    "Plaquetas × 2",
+    "Hemoglobina × 3"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "RAN = leucocitos × (%segmentados + %cayados) / 100; <500 es grave y <100, profunda.",
+   "shortExplanation": "Leucocitos × %(seg+cayados).",
+   "pmid": "31082146",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "To calculate ANC, multiply the total white blood cell (WBC) count by the percentage of polymorphonuclear cells (PMNs) and band neutrophils",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31082146-2-en",
+   "translationKey": "infect-31082146-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "Which absolute neutrophil count defines severe neutropenia?",
+   "options": [
+    "Less than 1500/µL",
+    "Less than 4000/µL",
+    "Less than 500/µL",
+    "Less than 10,000/µL"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Neutropenia <1500; severe <500; profound <100 (highest bacteremia risk).",
+   "shortExplanation": "<500/µL.",
+   "pmid": "31082146",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In severe neutropenia, the ANC is less than 500 per microliter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-31082146-2-es",
+   "translationKey": "infect-31082146-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "¿Qué recuento absoluto de neutrófilos define la neutropenia grave?",
+   "options": [
+    "Menos de 1500/µL",
+    "Menos de 4000/µL",
+    "Menos de 500/µL",
+    "Menos de 10.000/µL"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Neutropenia <1500; grave <500; profunda <100 (mayor riesgo de bacteriemia).",
+   "shortExplanation": "<500/µL.",
+   "pmid": "31082146",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In severe neutropenia, the ANC is less than 500 per microliter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28722943-1-en",
+   "translationKey": "infect-28722943-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Why are diabetic foot infections hard to treat?",
+   "options": [
+    "Bacteria in the foot are always viruses",
+    "Poor blood flow keeps antibiotics from reaching the area",
+    "Feet have no immune cells",
+    "Diabetics cannot take antibiotics"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Neuropathy and vascular disease favor ulcers; poor perfusion limits antibiotic delivery, so infections progress and may need amputation.",
+   "shortExplanation": "Poor perfusion.",
+   "pmid": "28722943",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Treating diabetic foot infections is difficult as the blood flow is compromised and the antibiotics usually cannot reach the diseased area",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28722943-1-es",
+   "translationKey": "infect-28722943-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Por qué las infecciones del pie diabético son difíciles de tratar?",
+   "options": [
+    "Las bacterias del pie son virus",
+    "El flujo sanguíneo deficiente impide que los antibióticos lleguen a la zona",
+    "El pie no tiene células inmunes",
+    "Los diabéticos no pueden recibir antibióticos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La neuropatía y la enfermedad vascular favorecen las úlceras; la mala perfusión limita la llegada de antibióticos.",
+   "shortExplanation": "Mala perfusión.",
+   "pmid": "28722943",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Treating diabetic foot infections is difficult as the blood flow is compromised and the antibiotics usually cannot reach the diseased area",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30335280-1-en",
+   "translationKey": "infect-30335280-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "How does erysipelas differ clinically from cellulitis?",
+   "options": [
+    "Erysipelas is painless",
+    "Erysipelas only affects the trunk",
+    "Erysipelas has sharply defined, raised borders and develops faster",
+    "Erysipelas is caused by fungi"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Erysipelas involves the upper dermis and superficial lymphatics with well-demarcated raised borders; group A strep is the usual cause.",
+   "shortExplanation": "Sharp borders, faster.",
+   "pmid": "30335280",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cellulitis has ill-defined borders and is slower to develop, while erysipelas has better-defined borders and faster development",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-30335280-1-es",
+   "translationKey": "infect-30335280-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿En qué se diferencia clínicamente la erisipela de la celulitis?",
+   "options": [
+    "La erisipela es indolora",
+    "Solo afecta el tronco",
+    "Tiene bordes netos y sobreelevados y evoluciona más rápido",
+    "La causan hongos"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "La erisipela compromete la dermis superficial y los linfáticos con bordes bien delimitados; la causa habitual es el estreptococo del grupo A.",
+   "shortExplanation": "Bordes netos, más rápida.",
+   "pmid": "30335280",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Cellulitis has ill-defined borders and is slower to develop, while erysipelas has better-defined borders and faster development",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613691-1-en",
+   "translationKey": "infect-28613691-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What changed the epidemiology of pediatric epiglottitis?",
+   "options": [
+    "Antibiotics in drinking water",
+    "The influenza vaccine",
+    "Tonsillectomy",
+    "The Hib vaccine"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hib caused most pediatric epiglottitis before the Hib vaccine; now supraglottitis is relatively more common in adults.",
+   "shortExplanation": "Hib vaccine.",
+   "pmid": "28613691",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Before the introduction of the Haemophilus influenzae type b (Hib) vaccine in 1985, H influenzae caused most cases of pediatric epiglottitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613691-1-es",
+   "translationKey": "infect-28613691-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Qué cambió la epidemiología de la epiglotitis pediátrica?",
+   "options": [
+    "Antibióticos en el agua",
+    "La vacuna antigripal",
+    "La amigdalectomía",
+    "La vacuna contra Hib"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Hib causaba la mayoría de las epiglotitis pediátricas antes de la vacuna; hoy la supraglotitis es relativamente más frecuente en adultos.",
+   "shortExplanation": "Vacuna Hib.",
+   "pmid": "28613691",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Before the introduction of the Haemophilus influenzae type b (Hib) vaccine in 1985, H influenzae caused most cases of pediatric epiglottitis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613691-2-en",
+   "translationKey": "infect-28613691-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "In a child with suspected epiglottitis, what should be avoided in the emergency department?",
+   "options": [
+    "Instrumenting the airway or forcing an oral exam",
+    "Keeping the child calm",
+    "Calling anesthesia and ENT",
+    "Allowing the child to sit upright"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Agitation or instrumentation can precipitate complete airway obstruction; the airway is secured in a controlled setting.",
+   "shortExplanation": "Don't instrument the airway.",
+   "pmid": "28613691",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In pediatric patients, the airway should not be instrumented during oral exams or endoscopy in the clinic or emergency department",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613691-2-es",
+   "translationKey": "infect-28613691-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "expert",
+   "prompt": "En un niño con sospecha de epiglotitis, ¿qué debe evitarse en la guardia?",
+   "options": [
+    "Instrumentar la vía aérea o forzar el examen de la boca",
+    "Mantener al niño tranquilo",
+    "Llamar a anestesia y ORL",
+    "Dejarlo sentado"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La agitación o la instrumentación pueden precipitar la obstrucción completa; la vía aérea se asegura en un ámbito controlado.",
+   "shortExplanation": "No instrumentar la vía aérea.",
+   "pmid": "28613691",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "In pediatric patients, the airway should not be instrumented during oral exams or endoscopy in the clinic or emergency department",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613724-1-en",
+   "translationKey": "infect-28613724-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "What is the most common cause of croup?",
+   "options": [
+    "Group A Streptococcus",
+    "Rhinovirus",
+    "Parainfluenza virus",
+    "Haemophilus influenzae type b"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Croup (laryngotracheitis) is most often caused by parainfluenza virus, producing barking cough and stridor.",
+   "shortExplanation": "Parainfluenza virus.",
+   "pmid": "28613724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Parainfluenza virus (PIV) is the most common cause",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613724-1-es",
+   "translationKey": "infect-28613724-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "curious",
+   "prompt": "¿Cuál es la causa más común del crup (laringitis obstructiva)?",
+   "options": [
+    "Estreptococo del grupo A",
+    "Rinovirus",
+    "Virus parainfluenza",
+    "Haemophilus influenzae tipo b"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "El crup lo causa con más frecuencia el virus parainfluenza, con tos perruna y estridor.",
+   "shortExplanation": "Parainfluenza.",
+   "pmid": "28613724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Parainfluenza virus (PIV) is the most common cause",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613724-2-en",
+   "translationKey": "infect-28613724-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Which signs are characteristic of croup?",
+   "options": [
+    "Barking cough and inspiratory stridor",
+    "Wheezing and prolonged expiration only",
+    "Productive cough with blood",
+    "Drooling and silent chest"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Croup inflames larynx, trachea and bronchi, causing a barking cough and inspiratory stridor.",
+   "shortExplanation": "Barking cough, stridor.",
+   "pmid": "28613724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The infection affects the larynx, trachea, and bronchi, leading to a characteristic barking cough and inspiratory stridor",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28613724-2-es",
+   "translationKey": "infect-28613724-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Qué signos son característicos del crup?",
+   "options": [
+    "Tos perruna y estridor inspiratorio",
+    "Solo sibilancias y espiración prolongada",
+    "Tos con sangre",
+    "Babeo y tórax silencioso"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El crup inflama laringe, tráquea y bronquios y causa tos perruna y estridor inspiratorio.",
+   "shortExplanation": "Tos perruna, estridor.",
+   "pmid": "28613724",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "The infection affects the larynx, trachea, and bronchi, leading to a characteristic barking cough and inspiratory stridor",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32644434-1-en",
+   "translationKey": "infect-32644434-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "Tetanus is popularly called…",
+   "options": [
+    "Whooping cough",
+    "Lockjaw",
+    "Sleeping sickness",
+    "Black death"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Tetanus is called lockjaw because of painful masseter spasms (trismus).",
+   "shortExplanation": "Lockjaw.",
+   "pmid": "32644434",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Tetanus is synonymous with the term \"lockjaw,\"",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32644434-1-es",
+   "translationKey": "infect-32644434-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "beginner",
+   "prompt": "Al tétanos se lo llama popularmente…",
+   "options": [
+    "Tos convulsa",
+    "Mandíbula trabada (trismo)",
+    "Enfermedad del sueño",
+    "Muerte negra"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Al tétanos se lo asocia al trismo (mandíbula trabada) por los espasmos dolorosos de los maseteros.",
+   "shortExplanation": "Trismo.",
+   "pmid": "32644434",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "Tetanus is synonymous with the term \"lockjaw,\"",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32644434-2-en",
+   "translationKey": "infect-32644434-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "How often is a tetanus booster recommended for adults after the primary series?",
+   "options": [
+    "Every year",
+    "Every 2 years",
+    "Never",
+    "Every 10 years"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Tetanus immunity wanes, so adults receive a Td or Tdap booster every 10 years.",
+   "shortExplanation": "Every 10 years.",
+   "pmid": "32644434",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "followed by a booster every 10 years thereafter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32644434-2-es",
+   "translationKey": "infect-32644434-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Cada cuánto se recomienda un refuerzo antitetánico en adultos tras el esquema primario?",
+   "options": [
+    "Cada año",
+    "Cada 2 años",
+    "Nunca",
+    "Cada 10 años"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La inmunidad antitetánica decae; los adultos reciben un refuerzo dT o dTpa cada 10 años.",
+   "shortExplanation": "Cada 10 años.",
+   "pmid": "32644434",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "followed by a booster every 10 years thereafter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32644434-3-en",
+   "translationKey": "infect-32644434-3",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "In vaccine names like DTaP and Tdap, what do the lowercase letters mean?",
+   "options": [
+    "Live attenuated components",
+    "Doses for adults only",
+    "Reduced amounts of diphtheria toxoid or pertussis antigen",
+    "Components given orally"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Uppercase = full dose; lowercase d/p = reduced antigen; 'a' = acellular pertussis.",
+   "shortExplanation": "Reduced antigen.",
+   "pmid": "32644434",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "D is for diphtheria, T is for tetanus, P is for pertussis, and a is for acellular. The lowercase p and d just mean reduced toxoid",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-32644434-3-es",
+   "translationKey": "infect-32644434-3",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "En nombres de vacunas como DTaP y Tdap, ¿qué significan las minúsculas?",
+   "options": [
+    "Componentes vivos atenuados",
+    "Dosis solo para adultos",
+    "Cantidades reducidas de toxoide diftérico o antígeno pertussis",
+    "Componentes por vía oral"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Mayúscula = dosis completa; d/p minúsculas = antígeno reducido; 'a' = pertussis acelular.",
+   "shortExplanation": "Antígeno reducido.",
+   "pmid": "32644434",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "D is for diphtheria, T is for tetanus, P is for pertussis, and a is for acellular. The lowercase p and d just mean reduced toxoid",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28846307-1-en",
+   "translationKey": "infect-28846307-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Which virus most often causes roseola infantum (sixth disease)?",
+   "options": [
+    "Parvovirus B19",
+    "Human herpesvirus 6",
+    "Measles virus",
+    "Enterovirus 71"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Roseola is caused by HHV-6 (less often HHV-7): high fever for 3–5 days, then a rash as the fever falls.",
+   "shortExplanation": "HHV-6.",
+   "pmid": "28846307",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by infection with human herpesvirus 6 (HHV-6) or, less often, human herpesvirus 7",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28846307-1-es",
+   "translationKey": "infect-28846307-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Qué virus causa con más frecuencia la roséola infantil (sexta enfermedad)?",
+   "options": [
+    "Parvovirus B19",
+    "Herpesvirus humano 6",
+    "Virus del sarampión",
+    "Enterovirus 71"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La roséola la causa el VHH-6 (menos el VHH-7): fiebre alta 3–5 días y luego exantema al bajar la fiebre.",
+   "shortExplanation": "VHH-6.",
+   "pmid": "28846307",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "caused by infection with human herpesvirus 6 (HHV-6) or, less often, human herpesvirus 7",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28846307-2-en",
+   "translationKey": "infect-28846307-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "What is the classic sequence of roseola infantum?",
+   "options": [
+    "High fever for days, then a rash appears as the fever subsides",
+    "Rash first, then fever",
+    "Rash and fever start together on the face",
+    "Cough and Koplik spots, then rash"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Exanthem subitum: 3–5 days of high fever followed by a sudden non-itchy rash at defervescence.",
+   "shortExplanation": "Rash after fever falls.",
+   "pmid": "28846307",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "followed by the sudden appearance of a non-pruritic exanthem as the fever subsides",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28846307-2-es",
+   "translationKey": "infect-28846307-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Cuál es la secuencia clásica de la roséola infantil?",
+   "options": [
+    "Fiebre alta varios días y luego exantema al bajar la fiebre",
+    "Primero exantema, luego fiebre",
+    "Exantema y fiebre juntos en la cara",
+    "Tos y Koplik, luego exantema"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Exantema súbito: 3–5 días de fiebre alta seguidos de un exantema no pruriginoso al ceder la fiebre.",
+   "shortExplanation": "Exantema al ceder la fiebre.",
+   "pmid": "28846307",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "followed by the sudden appearance of a non-pruritic exanthem as the fever subsides",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28722854-1-en",
+   "translationKey": "infect-28722854-1",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "Where does varicella-zoster virus remain dormant after chickenpox?",
+   "options": [
+    "In the liver",
+    "In red blood cells",
+    "In skin keratinocytes",
+    "In sensory ganglia (cranial nerves or dorsal root)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "VZV stays latent in sensory ganglia; reactivation travels along the nerve, causing a dermatomal rash (shingles).",
+   "shortExplanation": "Sensory ganglia.",
+   "pmid": "28722854",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which remains dormant in the sensory ganglia of the cranial nerves or the dorsal root ganglia after a previous varicella infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28722854-1-es",
+   "translationKey": "infect-28722854-1",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "explorer",
+   "prompt": "¿Dónde permanece latente el virus varicela-zóster tras la varicela?",
+   "options": [
+    "En el hígado",
+    "En los glóbulos rojos",
+    "En los queratinocitos",
+    "En ganglios sensitivos (pares craneales o raíces dorsales)"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "El VVZ queda latente en ganglios sensitivos; al reactivarse viaja por el nervio y causa un exantema dermatómico (zóster).",
+   "shortExplanation": "Ganglios sensitivos.",
+   "pmid": "28722854",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "which remains dormant in the sensory ganglia of the cranial nerves or the dorsal root ganglia after a previous varicella infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28722854-2-en",
+   "translationKey": "infect-28722854-2",
+   "language": "en",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "Why is shingles more common in older and immunosuppressed people?",
+   "options": [
+    "They have more antibodies",
+    "Waning cell-mediated immunity allows VZV reactivation",
+    "They are reinfected by children",
+    "They lack sensory nerves"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Cell-mediated immunity keeps VZV latent; its decline with age or immunosuppression allows reactivation.",
+   "shortExplanation": "Waning cellular immunity.",
+   "pmid": "28722854",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "VZV latency is largely controlled by cell-mediated immunity, and reactivation is thought to result from the loss of this immune surveillance",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "infect-28722854-2-es",
+   "translationKey": "infect-28722854-2",
+   "language": "es",
+   "category": "infectiousDiseases",
+   "difficulty": "researcher",
+   "prompt": "¿Por qué el herpes zóster es más común en personas mayores e inmunodeprimidas?",
+   "options": [
+    "Tienen más anticuerpos",
+    "La declinación de la inmunidad celular permite que el VVZ se reactive",
+    "Los niños los reinfectan",
+    "No tienen nervios sensitivos"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "La inmunidad celular mantiene latente al VVZ; su declinación con la edad o la inmunosupresión permite la reactivación.",
+   "shortExplanation": "Inmunidad celular en declive.",
+   "pmid": "28722854",
+   "verification": {
+    "status": "verified",
+    "method": "aiAuthored",
+    "supportingExcerpt": "VZV latency is largely controlled by cell-mediated immunity, and reactivation is thought to result from the loss of this immune surveillance",
     "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
