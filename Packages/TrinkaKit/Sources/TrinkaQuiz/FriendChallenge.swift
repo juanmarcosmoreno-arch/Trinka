@@ -7,9 +7,9 @@ import TrinkaCore
 /// (`TRK-XXXXX-XXXXX`). Anyone with the same bundled question bank rebuilds the identical
 /// question list from it, each in their own language.
 ///
-/// Bit layout (46 bits): version 4 · bank 4 · category 4 · difficulty 2 · count 4 · seed 23 · checksum 5.
+/// Bit layout (46 bits): version 4 · bank 4 · category 4 · difficulty 3 · count 4 · seed 22 · checksum 5.
 public struct ChallengeCode: Hashable, Codable, Sendable, CustomStringConvertible {
-    public static let formatVersion = 1
+    public static let formatVersion = 2
     public static let maxQuestions = 15
 
     public var bankVersion: Int
@@ -23,13 +23,13 @@ public struct ChallengeCode: Hashable, Codable, Sendable, CustomStringConvertibl
         self.category = category
         self.difficulty = difficulty
         self.questionCount = max(1, min(questionCount, Self.maxQuestions))
-        self.seed = seed & 0x7F_FFFF
+        self.seed = seed & 0x3F_FFFF
     }
 
     /// A new challenge with a random seed.
     public static func random(bankVersion: Int, category: ScienceCategory?, difficulty: Difficulty?, questionCount: Int) -> ChallengeCode {
         ChallengeCode(bankVersion: bankVersion, category: category, difficulty: difficulty,
-                      questionCount: questionCount, seed: UInt32.random(in: 0...0x7F_FFFF))
+                      questionCount: questionCount, seed: UInt32.random(in: 0...0x3F_FFFF))
     }
 
     // MARK: Encoding
@@ -42,9 +42,9 @@ public struct ChallengeCode: Hashable, Codable, Sendable, CustomStringConvertibl
         var payload: UInt64 = UInt64(Self.formatVersion & 0xF)
         payload = payload << 4 | UInt64(bankVersion & 0xF)
         payload = payload << 4 | UInt64(categoryIndex)
-        payload = payload << 2 | UInt64(difficultyIndex)
+        payload = payload << 3 | UInt64(difficultyIndex)
         payload = payload << 4 | UInt64(questionCount & 0xF)
-        payload = payload << 23 | UInt64(seed)
+        payload = payload << 22 | UInt64(seed)
         let value = payload << 5 | UInt64(Self.checksum(payload))
 
         var characters: [Character] = []
@@ -77,19 +77,20 @@ public struct ChallengeCode: Hashable, Codable, Sendable, CustomStringConvertibl
         let payload = value >> 5
         guard UInt8(value & 0x1F) == Self.checksum(payload) else { return nil }
 
-        let seed = UInt32(payload & 0x7F_FFFF)
-        let count = Int((payload >> 23) & 0xF)
-        let difficultyIndex = Int((payload >> 27) & 0x3)
+        let seed = UInt32(payload & 0x3F_FFFF)
+        let count = Int((payload >> 22) & 0xF)
+        let difficultyIndex = Int((payload >> 26) & 0x7)
         let categoryIndex = Int((payload >> 29) & 0xF)
         let bank = Int((payload >> 33) & 0xF)
         let version = Int((payload >> 37) & 0xF)
 
         guard version == Self.formatVersion, count > 0,
-              categoryIndex <= ScienceCategory.allCases.count else { return nil }
+              categoryIndex <= ScienceCategory.allCases.count,
+              difficultyIndex <= Difficulty.allCases.count else { return nil }
         self.init(
             bankVersion: bank,
             category: categoryIndex == 0 ? nil : ScienceCategory.allCases[categoryIndex - 1],
-            difficulty: difficultyIndex == 0 ? nil : Difficulty.allCases.first { $0.level == difficultyIndex },
+            difficulty: difficultyIndex == 0 ? nil : Difficulty(level: difficultyIndex),
             questionCount: count,
             seed: seed
         )

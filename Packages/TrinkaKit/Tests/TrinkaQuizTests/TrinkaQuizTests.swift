@@ -8,7 +8,7 @@ final class SeedQuestionBankTests: XCTestCase {
         XCTAssertTrue(bank.rejected.isEmpty, "Rejected seed questions: \(bank.rejected.map { ($0.question.id, $0.issues) })")
         for language in AppLanguage.allCases {
             let questions = bank.questions(in: language)
-            XCTAssertEqual(questions.count, 30, "\(language)")
+            XCTAssertEqual(questions.count, 70, "\(language)")
             XCTAssertEqual(Set(questions.map(\.category)), Set(ScienceCategory.allCases))
             for question in questions {
                 XCTAssertNotNil(question.source.abstract, question.id)
@@ -33,6 +33,8 @@ final class SeedQuestionBankTests: XCTestCase {
     func testEveryDifficultyIsRepresented() throws {
         let bank = try SeedQuestionBank.load()
         XCTAssertEqual(Set(bank.questions(in: .en).map(\.difficulty)), Set(Difficulty.allCases))
+        // Every discipline has at least one basic question.
+        XCTAssertEqual(Set(bank.questions(in: .en, difficulty: .beginner).map(\.category)), Set(ScienceCategory.allCases))
     }
 }
 
@@ -54,6 +56,33 @@ final class QuestionSelectorTests: XCTestCase {
 
         let nextDay = selector.dailyChallenge(from: bank, language: .en, date: morning.addingTimeInterval(86_400))
         XCTAssertNotEqual(first.map(\.id), nextDay.map(\.id))
+    }
+
+    func testDailyChallengeFollowsTheChosenLevel() throws {
+        let bank = try SeedQuestionBank.load()
+        let date = Date(timeIntervalSince1970: 1_760_000_000)
+        let basic = selector.dailyChallenge(from: bank, language: .es, date: date, level: .beginner)
+        XCTAssertEqual(basic.count, 5)
+        XCTAssertTrue(basic.allSatisfy { $0.difficulty == .beginner })
+        XCTAssertEqual(Set(basic.map(\.category)).count, 5)
+
+        // Few questions at this level: the nearest levels fill in, never jumping far.
+        for level in Difficulty.allCases {
+            let questions = selector.dailyChallenge(from: bank, language: .en, date: date, level: level)
+            XCTAssertEqual(questions.count, 5, "\(level)")
+            XCTAssertTrue(questions.allSatisfy { abs($0.difficulty.level - level.level) <= 1 }, "\(level)")
+        }
+    }
+
+    func testClosenessOrderingPrefersEasierNeighbors() throws {
+        let bank = try SeedQuestionBank.load()
+        let ordered = QuestionSelector.orderedByCloseness(bank.questions(in: .en), to: .explorer)
+        let levels = ordered.map(\.difficulty)
+        let firstCurious = try XCTUnwrap(levels.firstIndex(of: .curious))
+        let firstResearcher = try XCTUnwrap(levels.firstIndex(of: .researcher))
+        XCTAssertEqual(levels.first, .explorer)
+        XCTAssertLessThan(firstCurious, firstResearcher)
+        XCTAssertGreaterThan(try XCTUnwrap(levels.firstIndex(of: .beginner)), firstResearcher)
     }
 
     func testDailyChallengeIsOrderedByDifficulty() throws {
@@ -136,7 +165,7 @@ final class FriendChallengeTests: XCTestCase {
     func testCodeRoundTrip() throws {
         for category in [nil] + ScienceCategory.allCases.map(Optional.some) {
             for difficulty in [nil] + Difficulty.allCases.map(Optional.some) {
-                let code = ChallengeCode(bankVersion: 1, category: category, difficulty: difficulty, questionCount: 5, seed: 0x7F_FFFF)
+                let code = ChallengeCode(bankVersion: 2, category: category, difficulty: difficulty, questionCount: 15, seed: 0x3F_FFFF)
                 XCTAssertTrue(code.code.hasPrefix("TRK-"))
                 XCTAssertEqual(code.code.count, 15)
                 XCTAssertEqual(ChallengeCode(code.code), code)
@@ -196,5 +225,19 @@ final class FriendChallengeTests: XCTestCase {
             ChallengeEntry(playerName: "Me", correct: 3, total: 5, duration: 30, playedAt: base, isLocalPlayer: true),
         ]
         XCTAssertEqual(Leaderboard.ranked(entries).map(\.playerName), ["Leo", "ana", "Me"])
+    }
+}
+
+final class LevelFillTests: XCTestCase {
+    func testCategoryQuizAtALevelFillsWithNearestLevels() throws {
+        let bank = try SeedQuestionBank.load()
+        var generator = SeededGenerator(seed: 7)
+        // Immunology has no "curious" question in the seed bank.
+        XCTAssertTrue(bank.questions(in: .en, category: .immunology, difficulty: .curious).count < 3)
+        let quiz = QuestionSelector().customQuiz(from: bank, language: .en, category: .immunology, difficulty: .curious,
+                                                 count: 3, fillWithNearestLevels: true, using: &generator)
+        XCTAssertEqual(quiz.count, 3)
+        XCTAssertTrue(quiz.allSatisfy { $0.category == .immunology })
+        XCTAssertEqual(quiz.first?.difficulty, quiz.map(\.difficulty).min { abs($0.level - 2) < abs($1.level - 2) })
     }
 }

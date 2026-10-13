@@ -43,7 +43,7 @@ struct SettingsView: View {
                 Section {
                     Picker(L10n.tr("settings.difficulty"), selection: Binding(
                         get: { settings.preferredDifficulty },
-                        set: { settings.preferredDifficulty = $0; model.store.saveSettings() }
+                        set: { model.setLevel($0) }
                     )) {
                         Text(L10n.tr("difficulty.mixed")).tag(Difficulty?.none)
                         ForEach(Difficulty.allCases) { Text(L10n.name(of: $0)).tag(Difficulty?.some($0)) }

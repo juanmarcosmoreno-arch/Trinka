@@ -93,7 +93,7 @@ public final class StoredChallenge {
 public final class UserSettings {
     /// `nil` follows the system language.
     public var languageOverrideRaw: String?
-    /// `nil` means "mixed".
+    /// The player's level. `nil` means "mixed" (all levels). New players start at Curious.
     public var preferredDifficultyRaw: String?
     public var timerEnabled: Bool
     public var timerSeconds: Int
@@ -107,7 +107,7 @@ public final class UserSettings {
 
     public init() {
         languageOverrideRaw = nil
-        preferredDifficultyRaw = nil
+        preferredDifficultyRaw = Difficulty.curious.rawValue
         timerEnabled = false
         timerSeconds = 20
         hapticsEnabled = true

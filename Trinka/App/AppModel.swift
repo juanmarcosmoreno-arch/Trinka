@@ -83,8 +83,17 @@ final class AppModel {
 
     // MARK: - Daily challenge
 
+    /// The player's level (drives the daily challenge and quick play). `nil` = all levels.
+    var level: Difficulty? { store.settings.preferredDifficulty }
+
+    func setLevel(_ level: Difficulty?) {
+        store.settings.preferredDifficulty = level
+        store.saveSettings()
+        publishWatchState()
+    }
+
     func dailyQuestions(on date: Date = Date()) -> [Question] {
-        selector.dailyChallenge(from: bank, language: language, date: date)
+        selector.dailyChallenge(from: bank, language: language, date: date, level: level)
     }
 
     /// Starts today's challenge. Once completed, replays count as practice.
@@ -93,15 +102,17 @@ final class AppModel {
         launch(dailyQuestions(), kind: kind, title: L10n.tr("daily.title"))
     }
 
-    /// Five questions across categories, honoring the preferred difficulty.
+    /// Five questions across categories at the player's level.
     func startQuickPlay() {
-        startCustomQuiz(category: nil, difficulty: store.settings.preferredDifficulty, count: QuestionSelector.dailyChallengeSize)
+        startCustomQuiz(category: nil, difficulty: level, count: QuestionSelector.dailyChallengeSize, fillWithNearestLevels: true)
     }
 
-    func startCustomQuiz(category: ScienceCategory?, difficulty: Difficulty?, count: Int) {
+    /// - Parameter fillWithNearestLevels: used for the player's level on Home, where a discipline
+    ///   may not have enough questions at exactly that level yet.
+    func startCustomQuiz(category: ScienceCategory?, difficulty: Difficulty?, count: Int, fillWithNearestLevels: Bool = false) {
         let questions = selector.customQuiz(
             from: bank, language: language, category: category, difficulty: difficulty,
-            count: count, recentlySeen: store.recentlySeenKeys()
+            count: count, recentlySeen: store.recentlySeenKeys(), fillWithNearestLevels: fillWithNearestLevels
         )
         let title = category.map(L10n.name(of:)) ?? L10n.tr("explore.allCategories")
         launch(questions, kind: .explore, title: title)
@@ -245,9 +256,10 @@ final class AppModel {
     func publishWatchState() {
         let today = Date()
         let pack = ChallengePack(
-            id: "daily-\(Calendar.current.startOfDay(for: today).timeIntervalSince1970)-\(language.rawValue)",
+            id: "daily-\(Calendar.current.startOfDay(for: today).timeIntervalSince1970)-\(language.rawValue)-\(level?.rawValue ?? "mixed")",
             day: Calendar.current.startOfDay(for: today),
             language: language,
+            level: level,
             questions: dailyQuestions(on: today)
         )
         connectivity.publishState(pack: pack, sessions: store.recentResults())

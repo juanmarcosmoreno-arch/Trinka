@@ -18,13 +18,17 @@
 "category.veterinaryScience" = "Veterinaria";
 "category.generalScience" = "Ciencia general";
 
+"difficulty.beginner" = "Básico";
 "difficulty.curious" = "Curioso";
 "difficulty.explorer" = "Explorador";
 "difficulty.researcher" = "Investigador";
+"difficulty.expert" = "Experto";
 "difficulty.mixed" = "Mixta";
+"difficulty.beginner.detail" = "Ideas básicas que cualquiera puede responder.";
 "difficulty.curious.detail" = "Conocimientos científicos generales.";
-"difficulty.explorer.detail" = "Conocimientos intermedios.";
-"difficulty.researcher.detail" = "Preguntas avanzadas sobre resultados y metodologías.";
+"difficulty.explorer.detail" = "Los resultados clave de cada estudio.";
+"difficulty.researcher.detail" = "Resultados y métodos en profundidad.";
+"difficulty.expert.detail" = "Cifras exactas, métodos y mecanismos.";
 "difficulty.mixed.detail" = "Una mezcla de todos los niveles.";
 
 "appearance.system" = "Sistema";
@@ -41,6 +45,7 @@
 "home.categories" = "Disciplinas";
 "home.categories.subtitle" = "Toca una para una ronda de 3 preguntas.";
 "home.categories.hint" = "Inicia un cuestionario corto de esta disciplina.";
+"home.level" = "Tu nivel";
 "home.featured" = "Descubrimiento destacado";
 
 "daily.title" = "Desafío del día";
@@ -165,7 +170,7 @@
 "settings.language" = "Idioma";
 "settings.language.system" = "Sistema";
 "settings.quiz" = "Cuestionarios";
-"settings.difficulty" = "Dificultad preferida";
+"settings.difficulty" = "Tu nivel";
 "settings.timer" = "Temporizador por pregunta";
 "settings.timer.seconds" = "%ld segundos por pregunta";
 "settings.timer.footer" = "Opcional. La puntuación nunca depende de la velocidad.";

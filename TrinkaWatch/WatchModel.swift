@@ -42,10 +42,13 @@ final class WatchModel {
     /// Today's five questions, available offline.
     var todaysQuestions: [Question] {
         let now = Date()
-        if let pack, pack.isValid(for: now), pack.language == L10n.language {
+        // The iPhone's pack is used only when built for the same language and level.
+        if let pack, pack.isValid(for: now), pack.language == L10n.language,
+           pack.level == store.settings.preferredDifficulty {
             return pack.questions
         }
-        return selector.dailyChallenge(from: bank, language: L10n.language, date: now)
+        return selector.dailyChallenge(from: bank, language: L10n.language, date: now,
+                                       level: store.settings.preferredDifficulty)
     }
 
     var dailyCompleted: Bool { store.snapshot.todayDailyCompleted }
@@ -75,6 +78,11 @@ final class WatchModel {
         // Queued and delivered when the iPhone is reachable.
         connectivity.send(session: result)
         return result
+    }
+
+    func setLevel(_ level: Difficulty?) {
+        store.settings.preferredDifficulty = level
+        store.saveSettings()
     }
 
     func setTimer(enabled: Bool) {

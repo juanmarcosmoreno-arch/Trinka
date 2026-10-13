@@ -45,9 +45,11 @@ final class QuestionValidatorTests: XCTestCase {
 final class ScoringTests: XCTestCase {
     func testPointsScaleWithDifficulty() {
         let rules = ScoringRules.standard
-        XCTAssertEqual(rules.points(for: .curious), 10)
-        XCTAssertEqual(rules.points(for: .explorer), 15)
-        XCTAssertEqual(rules.points(for: .researcher), 20)
+        XCTAssertEqual(rules.points(for: .beginner), 10)
+        XCTAssertEqual(rules.points(for: .curious), 15)
+        XCTAssertEqual(rules.points(for: .explorer), 20)
+        XCTAssertEqual(rules.points(for: .researcher), 25)
+        XCTAssertEqual(rules.points(for: .expert), 30)
     }
 
     func testCompletedPerfectSessionGetsBonuses() {
@@ -55,19 +57,19 @@ final class ScoringTests: XCTestCase {
                        AnswerRecord.fixture(correct: true, category: .microbiology)]
         let xp = ScoringRules.standard.xp(for: answers, completed: true, currentStreak: 3,
                                           isFirstSessionToday: true, previouslyPlayedCategories: [.genetics])
-        XCTAssertEqual(xp.correctAnswers, 20)
+        XCTAssertEqual(xp.correctAnswers, 30) // two correct "curious" answers
         XCTAssertEqual(xp.completion, 20)
         XCTAssertEqual(xp.perfectRun, 15)
         XCTAssertEqual(xp.streak, 10)
         XCTAssertEqual(xp.newCategories, 25)
-        XCTAssertEqual(xp.total, 90)
+        XCTAssertEqual(xp.total, 100)
     }
 
     func testAbandonedSessionOnlyCountsCorrectAnswers() {
         let answers = [AnswerRecord.fixture(correct: true), AnswerRecord.fixture(correct: false)]
         let xp = ScoringRules.standard.xp(for: answers, completed: false, currentStreak: 5,
                                           isFirstSessionToday: true, previouslyPlayedCategories: [])
-        XCTAssertEqual(xp.total, 10)
+        XCTAssertEqual(xp.total, 15)
     }
 
     func testResponseTimeDoesNotAffectScore() {

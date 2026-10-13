@@ -18,13 +18,17 @@
 "category.veterinaryScience" = "Veterinary Science";
 "category.generalScience" = "General Science";
 
+"difficulty.beginner" = "Basic";
 "difficulty.curious" = "Curious";
 "difficulty.explorer" = "Explorer";
 "difficulty.researcher" = "Researcher";
+"difficulty.expert" = "Expert";
 "difficulty.mixed" = "Mixed";
+"difficulty.beginner.detail" = "Core ideas anyone can answer.";
 "difficulty.curious.detail" = "General scientific knowledge.";
-"difficulty.explorer.detail" = "Intermediate knowledge.";
-"difficulty.researcher.detail" = "Advanced questions on results and methods.";
+"difficulty.explorer.detail" = "The key results of each study.";
+"difficulty.researcher.detail" = "Results and methods in more depth.";
+"difficulty.expert.detail" = "Exact figures, methods and mechanisms.";
 "difficulty.mixed.detail" = "A blend of all levels.";
 
 "appearance.system" = "System";
@@ -41,6 +45,7 @@
 "home.categories" = "Disciplines";
 "home.categories.subtitle" = "Tap one for a 3-question round.";
 "home.categories.hint" = "Starts a short quiz in this discipline.";
+"home.level" = "Your level";
 "home.featured" = "Featured discovery";
 
 "daily.title" = "Daily Challenge";
@@ -165,7 +170,7 @@
 "settings.language" = "Language";
 "settings.language.system" = "System";
 "settings.quiz" = "Quizzes";
-"settings.difficulty" = "Preferred difficulty";
+"settings.difficulty" = "Your level";
 "settings.timer" = "Question timer";
 "settings.timer.seconds" = "%ld seconds per question";
 "settings.timer.footer" = "Optional. Scores never depend on speed.";

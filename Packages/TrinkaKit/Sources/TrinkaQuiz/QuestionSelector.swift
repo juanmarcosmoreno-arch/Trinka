@@ -13,18 +13,40 @@ public struct QuestionSelector: Sendable {
 
     /// The daily challenge for `date`.
     ///
-    /// Deterministic: the same day and language always yield the same questions, so iPhone
-    /// and Apple Watch build identical challenges even when offline. Questions come from
+    /// Deterministic: the same day, language and level always yield the same questions, so
+    /// iPhone and Apple Watch build identical challenges even when offline. Questions come from
     /// as many different categories as possible and are ordered from easiest to hardest.
+    ///
+    /// - Parameter level: the player's chosen level. Questions at that level come first; if
+    ///   there aren't enough, the nearest levels fill in (one step easier before one step
+    ///   harder). `nil` mixes all levels.
     public func dailyChallenge(
         from bank: QuestionBank,
         language: AppLanguage,
         date: Date,
+        level: Difficulty? = nil,
         count: Int = QuestionSelector.dailyChallengeSize
     ) -> [Question] {
-        var generator = SeededGenerator(seed: daySeed(for: date, salt: language.rawValue))
+        var generator = SeededGenerator(seed: daySeed(for: date, salt: language.rawValue + (level?.rawValue ?? "")))
         let pool = bank.questions(in: language).sorted { $0.id < $1.id }.shuffled(using: &generator)
-        return Self.spreadAcrossCategories(pool, count: count).sorted { $0.difficulty < $1.difficulty }
+        let ordered = level.map { Self.orderedByCloseness(pool, to: $0) } ?? pool
+        return Self.spreadAcrossCategories(ordered, count: count).sorted { $0.difficulty < $1.difficulty }
+    }
+
+    /// Stable ordering by distance from `level`: same level first, then one step easier,
+    /// one step harder, and so on. Keeps the input order within each group.
+    static func orderedByCloseness(_ questions: [Question], to level: Difficulty) -> [Question] {
+        func rank(_ question: Question) -> Int {
+            let distance = question.difficulty.level - level.level
+            if distance == 0 { return 0 }
+            return distance < 0 ? -distance * 2 - 1 : distance * 2 // easier: 1, 3…; harder: 2, 4…
+        }
+        return questions.enumerated()
+            .sorted { lhs, rhs in
+                let (l, r) = (rank(lhs.element), rank(rhs.element))
+                return l == r ? lhs.offset < rhs.offset : l < r
+            }
+            .map(\.element)
     }
 
     /// A custom quiz for Explore.
@@ -33,6 +55,8 @@ public struct QuestionSelector: Sendable {
     ///   - category: `nil` for all categories.
     ///   - difficulty: `nil` for all difficulties.
     ///   - recentlySeen: translation keys to de-prioritize (shown last if the pool is small).
+    ///   - fillWithNearestLevels: when there aren't enough questions at exactly `difficulty`,
+    ///     complete the quiz with the closest levels instead of returning fewer questions.
     public func customQuiz<G: RandomNumberGenerator>(
         from bank: QuestionBank,
         language: AppLanguage,
@@ -40,14 +64,20 @@ public struct QuestionSelector: Sendable {
         difficulty: Difficulty?,
         count: Int,
         recentlySeen: Set<String> = [],
+        fillWithNearestLevels: Bool = false,
         using generator: inout G
     ) -> [Question] {
-        let pool = bank.questions(in: language, category: category, difficulty: difficulty)
+        let useNearest = fillWithNearestLevels && difficulty != nil
+        let shuffled = bank.questions(in: language, category: category, difficulty: useNearest ? nil : difficulty)
             .sorted { $0.id < $1.id }
             .shuffled(using: &generator)
-        let fresh = pool.filter { !recentlySeen.contains($0.translationKey) }
-        let seen = pool.filter { recentlySeen.contains($0.translationKey) }
-        let ordered = fresh + seen
+        let fresh = shuffled.filter { !recentlySeen.contains($0.translationKey) }
+        let seen = shuffled.filter { recentlySeen.contains($0.translationKey) }
+        var ordered = fresh + seen
+        if useNearest, let difficulty {
+            // Closeness first; unseen before seen within the same level.
+            ordered = Self.orderedByCloseness(ordered, to: difficulty)
+        }
         return category == nil
             ? Self.spreadAcrossCategories(ordered, count: count)
             : Array(ordered.prefix(count))
@@ -59,12 +89,14 @@ public struct QuestionSelector: Sendable {
         category: ScienceCategory?,
         difficulty: Difficulty?,
         count: Int,
-        recentlySeen: Set<String> = []
+        recentlySeen: Set<String> = [],
+        fillWithNearestLevels: Bool = false
     ) -> [Question] {
         var generator = SystemRandomNumberGenerator()
         return customQuiz(
             from: bank, language: language, category: category, difficulty: difficulty,
-            count: count, recentlySeen: recentlySeen, using: &generator
+            count: count, recentlySeen: recentlySeen, fillWithNearestLevels: fillWithNearestLevels,
+            using: &generator
         )
     }
 

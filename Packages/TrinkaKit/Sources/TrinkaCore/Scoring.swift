@@ -35,7 +35,7 @@ public struct ScoringRules: Sendable {
 
     public init() {}
 
-    /// Points for one correct answer at a given difficulty (10 / 15 / 20 by default).
+    /// Points for one correct answer: 10 at beginner, +5 per level (up to 30 at expert).
     public func points(for difficulty: Difficulty) -> Int {
         pointsPerCorrectAnswer + (difficulty.level - 1) * pointsPerCorrectAnswer / 2
     }

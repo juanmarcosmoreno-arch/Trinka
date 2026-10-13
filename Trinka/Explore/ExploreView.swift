@@ -9,6 +9,7 @@ struct ExploreView: View {
     @State private var category: ScienceCategory?
     @State private var difficulty: Difficulty?
     @State private var count = 5
+    @State private var didApplyLevel = false
     @State private var recent = DiscoverModel(recency: .lastYear, sortByDate: true)
 
     private let columns = [GridItem(.adaptive(minimum: 104), spacing: Theme.Spacing.s)]
@@ -28,6 +29,7 @@ struct ExploreView: View {
             .trinkaBackground()
             .navigationTitle(L10n.tr("explore.title"))
             .task(id: category) { loadRecent() }
+            .onAppear { if !didApplyLevel { difficulty = model.level; didApplyLevel = true } }
         }
     }
 
@@ -76,16 +78,7 @@ struct ExploreView: View {
     private var difficultyPicker: some View {
         VStack(alignment: .leading, spacing: Theme.Spacing.m) {
             SectionHeader(L10n.tr("explore.difficulty"))
-            Picker(L10n.tr("explore.difficulty"), selection: $difficulty) {
-                Text(L10n.tr("difficulty.mixed")).tag(Difficulty?.none)
-                ForEach(Difficulty.allCases) { level in
-                    Text(L10n.name(of: level)).tag(Difficulty?.some(level))
-                }
-            }
-            .pickerStyle(.segmented)
-            Text(L10n.tr(difficulty.map { "difficulty.\($0.rawValue).detail" } ?? "difficulty.mixed.detail"))
-                .font(.footnote)
-                .foregroundStyle(Theme.textSecondary)
+            LevelPicker(selection: $difficulty, allowsMixed: true)
         }
     }
 

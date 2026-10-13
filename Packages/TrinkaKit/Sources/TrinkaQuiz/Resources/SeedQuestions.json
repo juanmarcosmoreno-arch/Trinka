@@ -1,6 +1,6 @@
 {
- "version": 1,
- "generatedAt": "2026-10-12T00:00:00Z",
+ "version": 2,
+ "generatedAt": "2026-10-13T00:00:00Z",
  "articles": [
   {
    "pmid": "17379808",
@@ -943,7 +943,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "CRISPR, together with associated cas genes, provided resistance against phages",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -967,7 +967,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "CRISPR, together with associated cas genes, provided resistance against phages",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -991,7 +991,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "We found the diversity and abundance of each habitat's signature microbes to vary widely even among healthy subjects",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1015,7 +1015,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "We found the diversity and abundance of each habitat's signature microbes to vary widely even among healthy subjects",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1039,7 +1039,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Teixobactin inhibits cell wall synthesis by binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1063,7 +1063,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Teixobactin inhibits cell wall synthesis by binding to a highly conserved motif of lipid II (precursor of peptidoglycan) and lipid III",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1071,7 +1071,7 @@
    "translationKey": "immuno-001",
    "language": "en",
    "category": "immunology",
-   "difficulty": "researcher",
+   "difficulty": "expert",
    "prompt": "Sakaguchi et al. (1995): transferring T cells depleted of CD25+ cells into nude mice caused…",
    "options": [
     "Autoimmune diseases",
@@ -1087,7 +1087,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "all recipients spontaneously developed histologically and serologically evident autoimmune diseases",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1095,7 +1095,7 @@
    "translationKey": "immuno-001",
    "language": "es",
    "category": "immunology",
-   "difficulty": "researcher",
+   "difficulty": "expert",
    "prompt": "Sakaguchi et al. (1995): transferir a ratones desnudos células T sin células CD25+ provocó…",
    "options": [
     "Enfermedades autoinmunes",
@@ -1111,7 +1111,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "all recipients spontaneously developed histologically and serologically evident autoimmune diseases",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1135,7 +1135,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "in vivo administration of antibodies to CTLA-4 resulted in the rejection of tumors, including preestablished tumors",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1159,7 +1159,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "in vivo administration of antibodies to CTLA-4 resulted in the rejection of tumors, including preestablished tumors",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1183,7 +1183,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "BNT162b2 was 95% effective in preventing Covid-19",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1207,7 +1207,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "BNT162b2 was 95% effective in preventing Covid-19",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1231,7 +1231,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "forms a two-RNA structure that directs the CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in target DNA",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1255,7 +1255,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "forms a two-RNA structure that directs the CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in target DNA",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1279,7 +1279,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "presents a complete 3.055 billion-base pair sequence of a human genome",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1303,7 +1303,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "presents a complete 3.055 billion-base pair sequence of a human genome",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1327,7 +1327,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Neandertals shared more genetic variants with present-day humans in Eurasia than with present-day humans in sub-Saharan Africa",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1351,7 +1351,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Neandertals shared more genetic variants with present-day humans in Eurasia than with present-day humans in sub-Saharan Africa",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1375,7 +1375,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "We adapted for this purpose the naturally occurring algal protein Channelrhodopsin-2",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1399,7 +1399,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "We adapted for this purpose the naturally occurring algal protein Channelrhodopsin-2",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1407,7 +1407,7 @@
    "translationKey": "neuro-002",
    "language": "en",
    "category": "neuroscience",
-   "difficulty": "curious",
+   "difficulty": "explorer",
    "prompt": "In mice, what happened to the brain's interstitial space during natural sleep?",
    "options": [
     "It shrank by half",
@@ -1423,7 +1423,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "natural sleep or anesthesia are associated with a 60% increase in the interstitial space",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1431,7 +1431,7 @@
    "translationKey": "neuro-002",
    "language": "es",
    "category": "neuroscience",
-   "difficulty": "curious",
+   "difficulty": "explorer",
    "prompt": "En ratones, ¿qué le ocurrió al espacio intersticial del cerebro durante el sueño natural?",
    "options": [
     "Se redujo a la mitad",
@@ -1447,7 +1447,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "natural sleep or anesthesia are associated with a 60% increase in the interstitial space",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1471,7 +1471,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "new neurons, as defined by these markers, are generated from dividing progenitor cells in the dentate gyrus of adult humans",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1495,7 +1495,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "new neurons, as defined by these markers, are generated from dividing progenitor cells in the dentate gyrus of adult humans",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1519,7 +1519,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Mutation of ob results in profound obesity and type II diabetes",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1543,7 +1543,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Mutation of ob results in profound obesity and type II diabetes",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1567,7 +1567,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Positive scans were seen in 76 of 1013 women (7.5%) and 30 of 959 men (3.1%)",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1591,7 +1591,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Positive scans were seen in 76 of 1013 women (7.5%) and 30 of 959 men (3.1%)",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1615,7 +1615,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "has decreased monotonically by 0.03°C per birth decade",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1639,7 +1639,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "has decreased monotonically by 0.03°C per birth decade",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1663,7 +1663,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "The mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1687,7 +1687,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "The mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1711,7 +1711,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "resulted in lower 28-day mortality among those who were receiving either invasive mechanical ventilation or oxygen alone at randomization but not among those receiving no respiratory support",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1735,7 +1735,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "resulted in lower 28-day mortality among those who were receiving either invasive mechanical ventilation or oxygen alone at randomization but not among those receiving no respiratory support",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1759,7 +1759,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "The bacteria were present in almost all patients with active chronic gastritis, duodenal ulcer, or gastric ulcer",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1783,7 +1783,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "The bacteria were present in almost all patients with active chronic gastritis, duodenal ulcer, or gastric ulcer",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1807,7 +1807,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "by introducing four factors, Oct3/4, Sox2, c-Myc, and Klf4",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1831,7 +1831,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "by introducing four factors, Oct3/4, Sox2, c-Myc, and Klf4",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1855,7 +1855,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "without requiring double-strand breaks or donor DNA templates",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1879,7 +1879,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "without requiring double-strand breaks or donor DNA templates",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1903,7 +1903,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Complete remission was achieved in 27 patients (90%)",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1927,7 +1927,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Complete remission was achieved in 27 patients (90%)",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1951,7 +1951,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "the incidence of major cardiovascular events was lower among those assigned to a Mediterranean diet supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat diet",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1975,7 +1975,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "the incidence of major cardiovascular events was lower among those assigned to a Mediterranean diet supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat diet",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -1999,7 +1999,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "The effects of sodium were observed in participants with and in those without hypertension",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2023,7 +2023,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "The effects of sodium were observed in participants with and in those without hypertension",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2047,7 +2047,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Energy intake was greater during the ultra-processed diet (508 ± 106 kcal/day; p = 0.0001)",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2071,7 +2071,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Energy intake was greater during the ultra-processed diet (508 ± 106 kcal/day; p = 0.0001)",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2095,7 +2095,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "only the second disease to be eradicated",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2119,7 +2119,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "only the second disease to be eradicated",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2143,7 +2143,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "replicates predominantly in the cytoplasm of macrophages",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2167,7 +2167,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "replicates predominantly in the cytoplasm of macrophages",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2191,7 +2191,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "the long-term environmental persistence of infectivity, which hinder eradication efforts",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2215,7 +2215,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "the long-term environmental persistence of infectivity, which hinder eradication efforts",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2223,7 +2223,7 @@
    "translationKey": "general-001",
    "language": "en",
    "category": "generalScience",
-   "difficulty": "explorer",
+   "difficulty": "researcher",
    "prompt": "When 100 psychology studies were replicated (2015), what share of replications had significant results?",
    "options": [
     "5%",
@@ -2239,7 +2239,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Thirty-six percent of replications had statistically significant results",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2247,7 +2247,7 @@
    "translationKey": "general-001",
    "language": "es",
    "category": "generalScience",
-   "difficulty": "explorer",
+   "difficulty": "researcher",
    "prompt": "Al replicar 100 estudios de psicología (2015), ¿qué proporción de réplicas obtuvo resultados significativos?",
    "options": [
     "5%",
@@ -2263,7 +2263,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "Thirty-six percent of replications had statistically significant results",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2287,7 +2287,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "suppresses X-ray-induced DNA damage by ∼40%",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2311,7 +2311,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "suppresses X-ray-induced DNA damage by ∼40%",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2335,7 +2335,7 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "revealed a life span of at least 272 years",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   },
   {
@@ -2359,7 +2359,1927 @@
     "status": "verified",
     "method": "editorialReview",
     "supportingExcerpt": "revealed a life span of at least 272 years",
-    "reviewedAt": "2026-10-12T00:00:00Z"
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-b01-en",
+   "translationKey": "micro-b01",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "CRISPR sequences are a typical feature of the genomes of…",
+   "options": [
+    "Most bacteria and archaea",
+    "Only humans",
+    "Only plants",
+    "Volcanic rocks"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "CRISPR sequences appear in the genomes of most bacteria and archaea, where they are involved in defense against viruses called bacteriophages.",
+   "shortExplanation": "Most bacteria and archaea carry CRISPR.",
+   "pmid": "17379808",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Clustered regularly interspaced short palindromic repeats (CRISPR) are a distinctive feature of the genomes of most Bacteria and Archaea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-b01-es",
+   "translationKey": "micro-b01",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Las secuencias CRISPR son un rasgo típico de los genomas de…",
+   "options": [
+    "La mayoría de bacterias y arqueas",
+    "Solo los humanos",
+    "Solo las plantas",
+    "Las rocas volcánicas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las secuencias CRISPR aparecen en los genomas de la mayoría de bacterias y arqueas, donde participan en la defensa frente a virus llamados bacteriófagos.",
+   "shortExplanation": "La mayoría de bacterias y arqueas tienen CRISPR.",
+   "pmid": "17379808",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Clustered regularly interspaced short palindromic repeats (CRISPR) are a distinctive feature of the genomes of most Bacteria and Archaea",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-b02-en",
+   "translationKey": "micro-b02",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Where does the human microbiome live?",
+   "options": [
+    "Only in the bloodstream",
+    "In body habitats such as the gut and skin",
+    "Only in the bones",
+    "Nowhere: healthy people have no microbes"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Even healthy people carry microbial communities in body habitats such as the gut, skin and vagina, and these communities differ a lot from person to person.",
+   "shortExplanation": "In habitats such as the gut and skin.",
+   "pmid": "22699609",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the microbes that occupy habitats such as the gut, skin and vagina",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-b02-es",
+   "translationKey": "micro-b02",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "¿Dónde vive el microbioma humano?",
+   "options": [
+    "Solo en la sangre",
+    "En zonas del cuerpo como el intestino y la piel",
+    "Solo en los huesos",
+    "En ningún sitio: las personas sanas no tienen microbios"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Incluso las personas sanas tienen comunidades de microbios en zonas del cuerpo como el intestino, la piel y la vagina, y varían mucho de una persona a otra.",
+   "shortExplanation": "En zonas como el intestino y la piel.",
+   "pmid": "22699609",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the microbes that occupy habitats such as the gut, skin and vagina",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-b03-en",
+   "translationKey": "micro-b03",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "Teixobactin, discovered in 2015, is a new…",
+   "options": [
+    "Antibiotic",
+    "Vaccine",
+    "Painkiller",
+    "Vitamin"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Teixobactin is a new antibiotic found by screening soil bacteria that had never been grown in the lab before.",
+   "shortExplanation": "A new antibiotic.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Here we report a new antibiotic that we term teixobactin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-b03-es",
+   "translationKey": "micro-b03",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "beginner",
+   "prompt": "La teixobactina, descubierta en 2015, es un nuevo…",
+   "options": [
+    "Antibiótico",
+    "Vacuna",
+    "Analgésico",
+    "Vitamina"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La teixobactina es un nuevo antibiótico hallado al analizar bacterias del suelo que nunca se habían cultivado en laboratorio.",
+   "shortExplanation": "Un nuevo antibiótico.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Here we report a new antibiotic that we term teixobactin",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-b01-en",
+   "translationKey": "immuno-b01",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "When the immune system attacks the body's own tissues, the result is called…",
+   "options": [
+    "An allergy to pollen",
+    "A vitamin deficiency",
+    "Autoimmune disease",
+    "A bone fracture"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Autoimmune diseases happen when the immune system reacts against the body itself. This study showed that a group of T cells normally helps prevent that.",
+   "shortExplanation": "Autoimmune disease.",
+   "pmid": "7636184",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "can be a possible cause of various autoimmune diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-b01-es",
+   "translationKey": "immuno-b01",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Cuando el sistema inmunitario ataca los tejidos del propio cuerpo, hablamos de…",
+   "options": [
+    "Alergia al polen",
+    "Deficiencia de vitaminas",
+    "Enfermedad autoinmune",
+    "Fractura ósea"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Las enfermedades autoinmunes aparecen cuando el sistema inmunitario reacciona contra el propio cuerpo. Este estudio mostró que un grupo de linfocitos T normalmente ayuda a evitarlo.",
+   "shortExplanation": "Enfermedad autoinmune.",
+   "pmid": "7636184",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "can be a possible cause of various autoimmune diseases",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-b02-en",
+   "translationKey": "immuno-b02",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Blocking CTLA-4 was studied as a way to help the immune system fight…",
+   "options": [
+    "Tumors",
+    "Broken bones",
+    "Pollen allergies",
+    "Hair loss"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "CTLA-4 acts as a brake on T cells. Blocking it in mice let the immune system respond more effectively against tumor cells.",
+   "shortExplanation": "Tumors.",
+   "pmid": "8596936",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "effective immune responses against tumor cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-b02-es",
+   "translationKey": "immuno-b02",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "Bloquear CTLA-4 se estudió como forma de ayudar al sistema inmunitario a combatir…",
+   "options": [
+    "Tumores",
+    "Fracturas",
+    "Alergias al polen",
+    "La caída del cabello"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "CTLA-4 actúa como un freno de los linfocitos T. Bloquearlo en ratones permitió una respuesta inmunitaria más eficaz contra las células tumorales.",
+   "shortExplanation": "Tumores.",
+   "pmid": "8596936",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "effective immune responses against tumor cells",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-b03-en",
+   "translationKey": "immuno-b03",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "What kind of vaccine is BNT162b2 (Pfizer–BioNTech)?",
+   "options": [
+    "A live weakened virus",
+    "An mRNA (RNA) vaccine",
+    "An antibiotic",
+    "A vitamin supplement"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "BNT162b2 is an RNA vaccine packaged in lipid nanoparticles. It encodes the SARS-CoV-2 spike protein so the body can learn to recognize the virus.",
+   "shortExplanation": "An mRNA vaccine.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "nucleoside-modified RNA vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-b03-es",
+   "translationKey": "immuno-b03",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "beginner",
+   "prompt": "¿Qué tipo de vacuna es BNT162b2 (Pfizer–BioNTech)?",
+   "options": [
+    "Un virus vivo atenuado",
+    "Una vacuna de ARN mensajero",
+    "Un antibiótico",
+    "Un suplemento vitamínico"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "BNT162b2 es una vacuna de ARN envuelta en nanopartículas lipídicas. Codifica la proteína espiga del SARS-CoV-2 para que el cuerpo aprenda a reconocer el virus.",
+   "shortExplanation": "Una vacuna de ARN mensajero.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "nucleoside-modified RNA vaccine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-b01-en",
+   "translationKey": "genetics-b01",
+   "language": "en",
+   "category": "genetics",
+   "difficulty": "beginner",
+   "prompt": "The Cas9 enzyme, central to CRISPR gene editing, cuts…",
+   "options": [
+    "DNA",
+    "Proteins",
+    "Sugars",
+    "Fats"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Guided by RNA, Cas9 cuts both strands of a target DNA sequence. That precise cut is what made it a tool for editing genes.",
+   "shortExplanation": "DNA.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "introduce double-stranded (ds) breaks in target DNA",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-b01-es",
+   "translationKey": "genetics-b01",
+   "language": "es",
+   "category": "genetics",
+   "difficulty": "beginner",
+   "prompt": "La enzima Cas9, clave en la edición genética con CRISPR, corta…",
+   "options": [
+    "ADN",
+    "Proteínas",
+    "Azúcares",
+    "Grasas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Guiada por ARN, Cas9 corta las dos hebras de una secuencia de ADN concreta. Ese corte preciso la convirtió en una herramienta para editar genes.",
+   "shortExplanation": "ADN.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "introduce double-stranded (ds) breaks in target DNA",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-b02-en",
+   "translationKey": "genetics-b02",
+   "language": "en",
+   "category": "genetics",
+   "difficulty": "beginner",
+   "prompt": "The Telomere-to-Telomere (T2T) Consortium completed the genome of which species?",
+   "options": [
+    "Human",
+    "Mouse",
+    "Rice",
+    "Fruit fly"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "In 2022 the T2T Consortium published the first complete, gapless sequence of a human genome, filling the parts the earlier reference had left unfinished.",
+   "shortExplanation": "A human genome.",
+   "pmid": "35357919",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "The complete sequence of a human genome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-b02-es",
+   "translationKey": "genetics-b02",
+   "language": "es",
+   "category": "genetics",
+   "difficulty": "beginner",
+   "prompt": "¿De qué especie completó el genoma el consorcio Telomere-to-Telomere (T2T)?",
+   "options": [
+    "Humana",
+    "Ratón",
+    "Arroz",
+    "Mosca de la fruta"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "En 2022 el consorcio T2T publicó la primera secuencia completa y sin huecos de un genoma humano, completando las partes que la referencia anterior había dejado pendientes.",
+   "shortExplanation": "Un genoma humano.",
+   "pmid": "35357919",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "The complete sequence of a human genome",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-b03-en",
+   "translationKey": "genetics-b03",
+   "language": "en",
+   "category": "genetics",
+   "difficulty": "beginner",
+   "prompt": "Neandertals were…",
+   "options": [
+    "The closest evolutionary relatives of modern humans",
+    "A type of dinosaur",
+    "Ancient bacteria",
+    "An ape species still alive today"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Neandertals were the closest evolutionary relatives of present-day humans. They lived in Europe and western Asia and disappeared about 30,000 years ago.",
+   "shortExplanation": "Our closest evolutionary relatives.",
+   "pmid": "20448178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Neandertals, the closest evolutionary relatives of present-day humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-b03-es",
+   "translationKey": "genetics-b03",
+   "language": "es",
+   "category": "genetics",
+   "difficulty": "beginner",
+   "prompt": "Los neandertales eran…",
+   "options": [
+    "Los parientes evolutivos más cercanos de los humanos actuales",
+    "Un tipo de dinosaurio",
+    "Bacterias antiguas",
+    "Una especie de simio que aún vive"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los neandertales fueron los parientes evolutivos más cercanos de los humanos actuales. Vivieron en Europa y Asia occidental y desaparecieron hace unos 30.000 años.",
+   "shortExplanation": "Nuestros parientes evolutivos más cercanos.",
+   "pmid": "20448178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Neandertals, the closest evolutionary relatives of present-day humans",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-b01-en",
+   "translationKey": "neuro-b01",
+   "language": "en",
+   "category": "neuroscience",
+   "difficulty": "beginner",
+   "prompt": "Optogenetics, shown by Boyden et al. (2005), controls neurons using…",
+   "options": [
+    "Light",
+    "Sound",
+    "Magnets",
+    "Heat"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "By adding a light-sensitive protein from algae to neurons, researchers could switch their activity on with flashes of light.",
+   "shortExplanation": "Light.",
+   "pmid": "16116447",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "This technology allows the use of light to alter neural processing",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-b01-es",
+   "translationKey": "neuro-b01",
+   "language": "es",
+   "category": "neuroscience",
+   "difficulty": "beginner",
+   "prompt": "La optogenética, demostrada por Boyden et al. (2005), controla las neuronas con…",
+   "options": [
+    "Luz",
+    "Sonido",
+    "Imanes",
+    "Calor"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Al añadir a las neuronas una proteína de algas sensible a la luz, los investigadores pudieron activarlas con destellos de luz.",
+   "shortExplanation": "Luz.",
+   "pmid": "16116447",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "This technology allows the use of light to alter neural processing",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-b02-en",
+   "translationKey": "neuro-b02",
+   "language": "en",
+   "category": "neuroscience",
+   "difficulty": "beginner",
+   "prompt": "Xie et al. (2013) suggest that sleep may help the brain…",
+   "options": [
+    "Grow new bones",
+    "Clear out waste products",
+    "Stop all activity",
+    "Store more sugar"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "In mice, sleep increased the flow of fluid through the brain and sped up the removal of waste such as β-amyloid. The authors suggest this may be part of why sleep is restorative.",
+   "shortExplanation": "Clear out waste products.",
+   "pmid": "24136970",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the enhanced removal of potentially neurotoxic waste products",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-b02-es",
+   "translationKey": "neuro-b02",
+   "language": "es",
+   "category": "neuroscience",
+   "difficulty": "beginner",
+   "prompt": "Xie et al. (2013) sugieren que el sueño podría ayudar al cerebro a…",
+   "options": [
+    "Formar huesos nuevos",
+    "Eliminar productos de desecho",
+    "Detener toda su actividad",
+    "Almacenar más azúcar"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "En ratones, el sueño aumentó el flujo de líquido en el cerebro y aceleró la eliminación de desechos como el β-amiloide. Los autores sugieren que esto podría explicar en parte por qué el sueño es reparador.",
+   "shortExplanation": "Eliminar productos de desecho.",
+   "pmid": "24136970",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the enhanced removal of potentially neurotoxic waste products",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-b03-en",
+   "translationKey": "neuro-b03",
+   "language": "en",
+   "category": "neuroscience",
+   "difficulty": "beginner",
+   "prompt": "Eriksson et al. (1998) reported that, in adult humans, the hippocampus…",
+   "options": [
+    "Has no living cells",
+    "Is replaced every year",
+    "Can still generate new neurons",
+    "Only works during childhood"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Using a cell-division marker, this study reported new neurons in the adult human hippocampus, a brain region involved in memory.",
+   "shortExplanation": "It can still generate new neurons.",
+   "pmid": "9809557",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the human hippocampus retains its ability to generate neurons throughout life",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-b03-es",
+   "translationKey": "neuro-b03",
+   "language": "es",
+   "category": "neuroscience",
+   "difficulty": "beginner",
+   "prompt": "Eriksson et al. (1998) observaron que, en humanos adultos, el hipocampo…",
+   "options": [
+    "No tiene células vivas",
+    "Se renueva entero cada año",
+    "Todavía puede generar neuronas nuevas",
+    "Solo funciona en la infancia"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Con un marcador de división celular, este estudio describió neuronas nuevas en el hipocampo de humanos adultos, una región del cerebro relacionada con la memoria.",
+   "shortExplanation": "Todavía puede generar neuronas nuevas.",
+   "pmid": "9809557",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the human hippocampus retains its ability to generate neurons throughout life",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-b01-en",
+   "translationKey": "physio-b01",
+   "language": "en",
+   "category": "humanPhysiology",
+   "difficulty": "beginner",
+   "prompt": "The obese (ob) gene studied by Zhang et al. (1994) helps regulate…",
+   "options": [
+    "Energy balance and body fat",
+    "Eye color",
+    "Hearing",
+    "Bone length"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The ob gene is one of the molecules that regulates energy balance. When it is mutated, mice become severely obese.",
+   "shortExplanation": "Energy balance and body fat.",
+   "pmid": "7984236",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "One of the molecules that regulates energy balance in the mouse is the obese (ob) gene",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-b01-es",
+   "translationKey": "physio-b01",
+   "language": "es",
+   "category": "humanPhysiology",
+   "difficulty": "beginner",
+   "prompt": "El gen obese (ob) estudiado por Zhang et al. (1994) ayuda a regular…",
+   "options": [
+    "El balance energético y la grasa corporal",
+    "El color de ojos",
+    "La audición",
+    "La longitud de los huesos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El gen ob es una de las moléculas que regulan el balance energético. Cuando está mutado, los ratones desarrollan obesidad grave.",
+   "shortExplanation": "El balance energético y la grasa corporal.",
+   "pmid": "7984236",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "One of the molecules that regulates energy balance in the mouse is the obese (ob) gene",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-b02-en",
+   "translationKey": "physio-b02",
+   "language": "en",
+   "category": "humanPhysiology",
+   "difficulty": "beginner",
+   "prompt": "Brown fat (brown adipose tissue) mainly helps the body…",
+   "options": [
+    "Produce heat",
+    "Digest food",
+    "Store calcium",
+    "Make red blood cells"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Brown adipose tissue burns energy to produce heat (thermogenesis). This study showed that active brown fat also exists in adult humans.",
+   "shortExplanation": "Produce heat.",
+   "pmid": "19357406",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "brown adipose tissue helps regulate energy expenditure by thermogenesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-b02-es",
+   "translationKey": "physio-b02",
+   "language": "es",
+   "category": "humanPhysiology",
+   "difficulty": "beginner",
+   "prompt": "La grasa parda (tejido adiposo pardo) ayuda sobre todo a…",
+   "options": [
+    "Producir calor",
+    "Digerir los alimentos",
+    "Almacenar calcio",
+    "Fabricar glóbulos rojos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El tejido adiposo pardo gasta energía para producir calor (termogénesis). Este estudio mostró que también existe grasa parda activa en adultos.",
+   "shortExplanation": "Producir calor.",
+   "pmid": "19357406",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "brown adipose tissue helps regulate energy expenditure by thermogenesis",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-b03-en",
+   "translationKey": "physio-b03",
+   "language": "en",
+   "category": "humanPhysiology",
+   "difficulty": "beginner",
+   "prompt": "The classic \"normal\" body temperature, set in the 19th century, is…",
+   "options": [
+    "35 °C",
+    "37 °C",
+    "39 °C",
+    "40 °C"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "37 °C became the standard in the 19th century. This study found that average temperatures in the US today are somewhat lower.",
+   "shortExplanation": "37 °C.",
+   "pmid": "31908267",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "lower than the canonical 37°C established in the 19th century",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-b03-es",
+   "translationKey": "physio-b03",
+   "language": "es",
+   "category": "humanPhysiology",
+   "difficulty": "beginner",
+   "prompt": "La temperatura corporal «normal» clásica, fijada en el siglo XIX, es…",
+   "options": [
+    "35 °C",
+    "37 °C",
+    "39 °C",
+    "40 °C"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los 37 °C se convirtieron en el estándar en el siglo XIX. Este estudio encontró que la media actual en EE. UU. es algo más baja.",
+   "shortExplanation": "37 °C.",
+   "pmid": "31908267",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "lower than the canonical 37°C established in the 19th century",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-b01-en",
+   "translationKey": "medicine-b01",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "The STEP 1 trial tested whether once-weekly semaglutide helps adults…",
+   "options": [
+    "Lose weight",
+    "Grow taller",
+    "Sleep longer",
+    "See better"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "STEP 1 tested semaglutide, given once a week alongside lifestyle changes, in adults with overweight or obesity. Participants lost substantially more weight than with placebo.",
+   "shortExplanation": "Lose weight.",
+   "pmid": "33567185",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Whether adults with obesity can achieve weight loss with once-weekly semaglutide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-b01-es",
+   "translationKey": "medicine-b01",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "El ensayo STEP 1 probó si la semaglutida semanal ayuda a los adultos a…",
+   "options": [
+    "Perder peso",
+    "Crecer en altura",
+    "Dormir más",
+    "Ver mejor"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "STEP 1 probó la semaglutida, una vez por semana junto con cambios en el estilo de vida, en adultos con sobrepeso u obesidad. Perdieron bastante más peso que con placebo.",
+   "shortExplanation": "Perder peso.",
+   "pmid": "33567185",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Whether adults with obesity can achieve weight loss with once-weekly semaglutide",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-b02-en",
+   "translationKey": "medicine-b02",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "According to the RECOVERY trial report, Covid-19 is associated with damage to which organ?",
+   "options": [
+    "Lungs",
+    "Skin",
+    "Bones",
+    "Eyes"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Covid-19 can cause widespread lung damage. RECOVERY tested whether the steroid dexamethasone could reduce deaths by calming that inflammation.",
+   "shortExplanation": "The lungs.",
+   "pmid": "32678530",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Coronavirus disease 2019 (Covid-19) is associated with diffuse lung damage",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-b02-es",
+   "translationKey": "medicine-b02",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "Según el informe del ensayo RECOVERY, la Covid-19 se asocia con daño en ¿qué órgano?",
+   "options": [
+    "Pulmones",
+    "Piel",
+    "Huesos",
+    "Ojos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La Covid-19 puede causar daño pulmonar difuso. RECOVERY probó si el corticoide dexametasona reducía las muertes al calmar esa inflamación.",
+   "shortExplanation": "Los pulmones.",
+   "pmid": "32678530",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Coronavirus disease 2019 (Covid-19) is associated with diffuse lung damage",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-b03-en",
+   "translationKey": "medicine-b03",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "Marshall and Warren (1984) found curved bacteria in which organ?",
+   "options": [
+    "Lungs",
+    "Skin",
+    "Brain",
+    "Stomach"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "They found curved bacteria in the stomach of patients with gastritis and ulcers, suggesting these bacteria could play a role in those diseases.",
+   "shortExplanation": "The stomach.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Unidentified curved bacilli in the stomach",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-b03-es",
+   "translationKey": "medicine-b03",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "beginner",
+   "prompt": "Marshall y Warren (1984) encontraron bacterias curvadas en ¿qué órgano?",
+   "options": [
+    "Pulmones",
+    "Piel",
+    "Cerebro",
+    "Estómago"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Encontraron bacterias curvadas en el estómago de pacientes con gastritis y úlceras, lo que sugería que podían intervenir en esas enfermedades.",
+   "shortExplanation": "El estómago.",
+   "pmid": "6145023",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Unidentified curved bacilli in the stomach",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-b01-en",
+   "translationKey": "biotech-b01",
+   "language": "en",
+   "category": "biotechnology",
+   "difficulty": "beginner",
+   "prompt": "iPS cells are \"pluripotent\". That means they can…",
+   "options": [
+    "Give rise to many different tissues",
+    "Only become skin",
+    "Divide only once",
+    "Fight viruses"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Takahashi and Yamanaka turned ordinary skin-type cells (fibroblasts) into stem cells that could produce tissues from all three germ layers of the embryo.",
+   "shortExplanation": "Give rise to many different tissues.",
+   "pmid": "16904174",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "resulted in tumors containing a variety of tissues from all three germ layers",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-b01-es",
+   "translationKey": "biotech-b01",
+   "language": "es",
+   "category": "biotechnology",
+   "difficulty": "beginner",
+   "prompt": "Las células iPS son «pluripotentes». Eso significa que pueden…",
+   "options": [
+    "Originar muchos tejidos distintos",
+    "Convertirse solo en piel",
+    "Dividirse una sola vez",
+    "Combatir virus"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Takahashi y Yamanaka convirtieron células comunes (fibroblastos) en células madre capaces de originar tejidos de las tres capas germinales del embrión.",
+   "shortExplanation": "Originar muchos tejidos distintos.",
+   "pmid": "16904174",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "resulted in tumors containing a variety of tissues from all three germ layers",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-b02-en",
+   "translationKey": "biotech-b02",
+   "language": "en",
+   "category": "biotechnology",
+   "difficulty": "beginner",
+   "prompt": "Prime editing is a method for…",
+   "options": [
+    "Editing genes",
+    "Printing books",
+    "Editing photos",
+    "Measuring blood pressure"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Prime editing is a precise way to rewrite DNA at a chosen spot. It can make many kinds of small changes without fully cutting the DNA.",
+   "shortExplanation": "Editing genes.",
+   "pmid": "31634902",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "a versatile and precise genome editing method",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-b02-es",
+   "translationKey": "biotech-b02",
+   "language": "es",
+   "category": "biotechnology",
+   "difficulty": "beginner",
+   "prompt": "La edición prime (prime editing) es un método para…",
+   "options": [
+    "Editar genes",
+    "Imprimir libros",
+    "Editar fotos",
+    "Medir la presión arterial"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La edición prime es una forma precisa de reescribir el ADN en un punto elegido. Permite muchos cambios pequeños sin cortar el ADN por completo.",
+   "shortExplanation": "Editar genes.",
+   "pmid": "31634902",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "a versatile and precise genome editing method",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-b03-en",
+   "translationKey": "biotech-b03",
+   "language": "en",
+   "category": "biotechnology",
+   "difficulty": "beginner",
+   "prompt": "In CAR T-cell therapy for leukemia, which cells are modified and given back to the patient?",
+   "options": [
+    "Red blood cells",
+    "The patient's own T cells",
+    "Bacteria",
+    "Plant cells"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Each patient's own T cells were engineered to carry a receptor that recognizes leukemia cells (CD19), then infused back into the patient.",
+   "shortExplanation": "The patient's own T cells.",
+   "pmid": "25317870",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "We infused autologous T cells transduced with a CD19-directed chimeric antigen receptor",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-b03-es",
+   "translationKey": "biotech-b03",
+   "language": "es",
+   "category": "biotechnology",
+   "difficulty": "beginner",
+   "prompt": "En la terapia CAR-T contra la leucemia, ¿qué células se modifican y se devuelven al paciente?",
+   "options": [
+    "Glóbulos rojos",
+    "Los propios linfocitos T del paciente",
+    "Bacterias",
+    "Células vegetales"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los linfocitos T de cada paciente se modificaron para llevar un receptor que reconoce las células leucémicas (CD19) y luego se le volvieron a infundir.",
+   "shortExplanation": "Sus propios linfocitos T.",
+   "pmid": "25317870",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "We infused autologous T cells transduced with a CD19-directed chimeric antigen receptor",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-b01-en",
+   "translationKey": "nutrition-b01",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "The PREDIMED trial in Spain tested which diet?",
+   "options": [
+    "The Mediterranean diet",
+    "A carnivore diet",
+    "A juice-only diet",
+    "A fast-food diet"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "PREDIMED compared a Mediterranean diet enriched with extra-virgin olive oil or nuts against advice to reduce dietary fat in people at high cardiovascular risk.",
+   "shortExplanation": "The Mediterranean diet.",
+   "pmid": "29897866",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "a Mediterranean diet supplemented with extra-virgin olive oil",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-b01-es",
+   "translationKey": "nutrition-b01",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "¿Qué dieta probó el ensayo PREDIMED en España?",
+   "options": [
+    "La dieta mediterránea",
+    "Una dieta solo de carne",
+    "Una dieta solo de zumos",
+    "Una dieta de comida rápida"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "PREDIMED comparó la dieta mediterránea enriquecida con aceite de oliva virgen extra o frutos secos frente al consejo de reducir la grasa, en personas con alto riesgo cardiovascular.",
+   "shortExplanation": "La dieta mediterránea.",
+   "pmid": "29897866",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "a Mediterranean diet supplemented with extra-virgin olive oil",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-b02-en",
+   "translationKey": "nutrition-b02",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "The DASH diet is rich in…",
+   "options": [
+    "Vegetables, fruits and low-fat dairy",
+    "Red meat and sugar",
+    "Fried foods",
+    "White bread only"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "DASH (Dietary Approaches to Stop Hypertension) emphasizes vegetables, fruits and low-fat dairy, and it lowered blood pressure in this trial.",
+   "shortExplanation": "Vegetables, fruits and low-fat dairy.",
+   "pmid": "11136953",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "rich in vegetables, fruits, and low-fat dairy products",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-b02-es",
+   "translationKey": "nutrition-b02",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "La dieta DASH es rica en…",
+   "options": [
+    "Verduras, frutas y lácteos desnatados",
+    "Carne roja y azúcar",
+    "Fritos",
+    "Solo pan blanco"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "DASH (enfoques dietéticos para frenar la hipertensión) prioriza verduras, frutas y lácteos desnatados, y en este ensayo bajó la presión arterial.",
+   "shortExplanation": "Verduras, frutas y lácteos desnatados.",
+   "pmid": "11136953",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "rich in vegetables, fruits, and low-fat dairy products",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-b03-en",
+   "translationKey": "nutrition-b03",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "In the NIH study by Hall et al. (2019), people on an ultra-processed diet…",
+   "options": [
+    "Lost weight",
+    "Did not change",
+    "Ate more and gained weight",
+    "Grew taller"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "When meals were ultra-processed, people ate more calories and gained weight compared with when the same people ate unprocessed food.",
+   "shortExplanation": "Ate more and gained weight.",
+   "pmid": "31105044",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-b03-es",
+   "translationKey": "nutrition-b03",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "beginner",
+   "prompt": "En el estudio de los NIH de Hall et al. (2019), con una dieta ultraprocesada las personas…",
+   "options": [
+    "Perdieron peso",
+    "No cambiaron",
+    "Comieron más y ganaron peso",
+    "Crecieron en altura"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Con comidas ultraprocesadas, las personas consumieron más calorías y ganaron peso en comparación con cuando esas mismas personas comieron alimentos sin procesar.",
+   "shortExplanation": "Comieron más y ganaron peso.",
+   "pmid": "31105044",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-b01-en",
+   "translationKey": "vet-b01",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Rinderpest was a devastating disease of…",
+   "options": [
+    "Livestock such as cattle",
+    "Humans only",
+    "Plants",
+    "Fish"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Rinderpest affected livestock and caused famine and poverty across continents until it was eradicated in 2011.",
+   "shortExplanation": "Livestock.",
+   "pmid": "23798687",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Rinderpest was a devastating disease of livestock",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-b01-es",
+   "translationKey": "vet-b01",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "La peste bovina era una enfermedad devastadora de…",
+   "options": [
+    "El ganado, como las vacas",
+    "Solo los humanos",
+    "Las plantas",
+    "Los peces"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La peste bovina afectaba al ganado y causó hambrunas y pobreza en continentes enteros hasta su erradicación en 2011.",
+   "shortExplanation": "El ganado.",
+   "pmid": "23798687",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Rinderpest was a devastating disease of livestock",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-b02-en",
+   "translationKey": "vet-b02",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "African swine fever affects…",
+   "options": [
+    "Pigs",
+    "Chickens",
+    "Cats",
+    "Horses"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "African swine fever is a highly contagious viral disease of pigs (swine) that is often fatal in domestic pigs.",
+   "shortExplanation": "Pigs.",
+   "pmid": "28489063",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "African swine fever (ASF) is a highly contagious viral disease of swine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-b02-es",
+   "translationKey": "vet-b02",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "La peste porcina africana afecta a…",
+   "options": [
+    "Los cerdos",
+    "Las gallinas",
+    "Los gatos",
+    "Los caballos"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La peste porcina africana es una enfermedad viral muy contagiosa de los cerdos, a menudo mortal en cerdos domésticos.",
+   "shortExplanation": "Los cerdos.",
+   "pmid": "28489063",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "African swine fever (ASF) is a highly contagious viral disease of swine",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-b03-en",
+   "translationKey": "vet-b03",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "Chronic wasting disease affects which animals?",
+   "options": [
+    "Deer and their relatives (cervids)",
+    "Cats",
+    "Bees",
+    "Sharks"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Chronic wasting disease is a prion infection of cervids, the deer family, and has spread widely in North America.",
+   "shortExplanation": "Deer and their relatives.",
+   "pmid": "34488900",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "a cervid prion infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-b03-es",
+   "translationKey": "vet-b03",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "beginner",
+   "prompt": "La caquexia crónica afecta a ¿qué animales?",
+   "options": [
+    "Ciervos y sus parientes (cérvidos)",
+    "Gatos",
+    "Abejas",
+    "Tiburones"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La caquexia crónica es una infección por priones de los cérvidos, la familia de los ciervos, y se ha extendido mucho en Norteamérica.",
+   "shortExplanation": "Ciervos y sus parientes.",
+   "pmid": "34488900",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "a cervid prion infection",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-b01-en",
+   "translationKey": "general-b01",
+   "language": "en",
+   "category": "generalScience",
+   "difficulty": "beginner",
+   "prompt": "A defining feature of science is that results can be…",
+   "options": [
+    "Reproduced by others",
+    "Kept secret",
+    "Changed freely",
+    "Never questioned"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Reproducibility means other researchers can repeat a study and get similar results. This project tested it by repeating 100 psychology studies.",
+   "shortExplanation": "Reproduced by others.",
+   "pmid": "26315443",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Reproducibility is a defining feature of science",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-b01-es",
+   "translationKey": "general-b01",
+   "language": "es",
+   "category": "generalScience",
+   "difficulty": "beginner",
+   "prompt": "Un rasgo esencial de la ciencia es que los resultados pueden…",
+   "options": [
+    "Ser reproducidos por otros",
+    "Mantenerse en secreto",
+    "Cambiarse libremente",
+    "No cuestionarse nunca"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "La reproducibilidad significa que otros investigadores pueden repetir un estudio y obtener resultados parecidos. Este proyecto la puso a prueba repitiendo 100 estudios de psicología.",
+   "shortExplanation": "Ser reproducidos por otros.",
+   "pmid": "26315443",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Reproducibility is a defining feature of science",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-b02-en",
+   "translationKey": "general-b02",
+   "language": "en",
+   "category": "generalScience",
+   "difficulty": "beginner",
+   "prompt": "Tardigrades, also called \"water bears\", are…",
+   "options": [
+    "Small aquatic animals",
+    "Large bears",
+    "Plants",
+    "Bacteria"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Tardigrades are tiny animals that live in water. Some species survive almost complete drying out and other extreme conditions.",
+   "shortExplanation": "Small aquatic animals.",
+   "pmid": "27649274",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Tardigrades, also known as water bears, are small aquatic animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-b02-es",
+   "translationKey": "general-b02",
+   "language": "es",
+   "category": "generalScience",
+   "difficulty": "beginner",
+   "prompt": "Los tardígrados, también llamados «osos de agua», son…",
+   "options": [
+    "Animales acuáticos diminutos",
+    "Osos grandes",
+    "Plantas",
+    "Bacterias"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Los tardígrados son animales diminutos que viven en el agua. Algunas especies sobreviven a una deshidratación casi total y a otras condiciones extremas.",
+   "shortExplanation": "Animales acuáticos diminutos.",
+   "pmid": "27649274",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Tardigrades, also known as water bears, are small aquatic animals",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-b03-en",
+   "translationKey": "general-b03",
+   "language": "en",
+   "category": "generalScience",
+   "difficulty": "beginner",
+   "prompt": "The Greenland shark lives in…",
+   "options": [
+    "The Arctic seas",
+    "Tropical rivers",
+    "Desert lakes",
+    "The Amazon"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "The Greenland shark is an iconic species of the Arctic seas. It grows very slowly and lives for centuries.",
+   "shortExplanation": "The Arctic seas.",
+   "pmid": "27516602",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "an iconic species of the Arctic Seas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-b03-es",
+   "translationKey": "general-b03",
+   "language": "es",
+   "category": "generalScience",
+   "difficulty": "beginner",
+   "prompt": "El tiburón de Groenlandia vive en…",
+   "options": [
+    "Los mares árticos",
+    "Ríos tropicales",
+    "Lagos del desierto",
+    "El Amazonas"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "El tiburón de Groenlandia es una especie emblemática de los mares árticos. Crece muy despacio y vive siglos.",
+   "shortExplanation": "Los mares árticos.",
+   "pmid": "27516602",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "an iconic species of the Arctic Seas",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-e01-en",
+   "translationKey": "micro-e01",
+   "language": "en",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "Teixobactin came from previously uncultured bacteria. Roughly what share of species in external environments are uncultured?",
+   "options": [
+    "About 1%",
+    "About 25%",
+    "About 50%",
+    "About 99%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Uncultured bacteria make up about 99% of species in external environments, an untapped source of antibiotics that the authors reached with in-situ cultivation.",
+   "shortExplanation": "About 99%.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Uncultured bacteria make up approximately 99% of all species in external environments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "micro-e01-es",
+   "translationKey": "micro-e01",
+   "language": "es",
+   "category": "microbiology",
+   "difficulty": "expert",
+   "prompt": "La teixobactina procede de bacterias no cultivadas. ¿Qué proporción aproximada de especies de ambientes externos no se ha cultivado?",
+   "options": [
+    "Alrededor del 1%",
+    "Alrededor del 25%",
+    "Alrededor del 50%",
+    "Alrededor del 99%"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Las bacterias no cultivadas son cerca del 99% de las especies de ambientes externos, una fuente de antibióticos sin explorar a la que los autores accedieron mediante cultivo in situ.",
+   "shortExplanation": "Alrededor del 99%.",
+   "pmid": "25561178",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Uncultured bacteria make up approximately 99% of all species in external environments",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-e01-en",
+   "translationKey": "immuno-e01",
+   "language": "en",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Severe Covid-19 cases after the first dose in the BNT162b2 trial: vaccine vs placebo?",
+   "options": [
+    "1 vs 9",
+    "9 vs 1",
+    "8 vs 162",
+    "0 vs 10"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Of 10 severe cases with onset after the first dose, 9 were in the placebo group and 1 in the vaccine group. The 8 vs 162 figure refers to all confirmed cases after dose 2.",
+   "shortExplanation": "1 vaccine vs 9 placebo.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Among 10 cases of severe Covid-19 with onset after the first dose, 9 occurred in placebo recipients and 1 in a BNT162b2 recipient",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "immuno-e01-es",
+   "translationKey": "immuno-e01",
+   "language": "es",
+   "category": "immunology",
+   "difficulty": "expert",
+   "prompt": "Casos graves de Covid-19 tras la primera dosis en el ensayo de BNT162b2: ¿vacuna frente a placebo?",
+   "options": [
+    "1 frente a 9",
+    "9 frente a 1",
+    "8 frente a 162",
+    "0 frente a 10"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "De 10 casos graves iniciados tras la primera dosis, 9 fueron en el grupo placebo y 1 en el vacunado. La cifra 8 frente a 162 corresponde a todos los casos confirmados tras la segunda dosis.",
+   "shortExplanation": "1 con vacuna frente a 9 con placebo.",
+   "pmid": "33301246",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Among 10 cases of severe Covid-19 with onset after the first dose, 9 occurred in placebo recipients and 1 in a BNT162b2 recipient",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-e01-en",
+   "translationKey": "genetics-e01",
+   "language": "en",
+   "category": "genetics",
+   "difficulty": "expert",
+   "prompt": "Which Cas9 domain cleaves the DNA strand complementary to the crRNA guide?",
+   "options": [
+    "HNH nuclease domain",
+    "RuvC-like domain",
+    "Helicase domain",
+    "Reverse transcriptase domain"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cas9 uses two nuclease domains: HNH cuts the strand complementary to the guide, and the RuvC-like domain cuts the non-complementary strand.",
+   "shortExplanation": "The HNH domain.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the Cas9 HNH nuclease domain cleaves the complementary strand",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "genetics-e01-es",
+   "translationKey": "genetics-e01",
+   "language": "es",
+   "category": "genetics",
+   "difficulty": "expert",
+   "prompt": "¿Qué dominio de Cas9 corta la hebra de ADN complementaria a la guía crRNA?",
+   "options": [
+    "Dominio nucleasa HNH",
+    "Dominio tipo RuvC",
+    "Dominio helicasa",
+    "Dominio transcriptasa inversa"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Cas9 usa dos dominios nucleasa: HNH corta la hebra complementaria a la guía y el dominio tipo RuvC corta la hebra no complementaria.",
+   "shortExplanation": "El dominio HNH.",
+   "pmid": "22745249",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "the Cas9 HNH nuclease domain cleaves the complementary strand",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-e01-en",
+   "translationKey": "neuro-e01",
+   "language": "en",
+   "category": "neuroscience",
+   "difficulty": "expert",
+   "prompt": "Which tracer's diffusion did Xie et al. (2013) measure in real time to assess the brain's interstitial space?",
+   "options": [
+    "Tetramethylammonium",
+    "Glucose",
+    "Sodium fluoride",
+    "Gadolinium"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Real-time tetramethylammonium diffusion measurements, combined with two-photon imaging in live mice, showed the interstitial space expanding during sleep.",
+   "shortExplanation": "Tetramethylammonium.",
+   "pmid": "24136970",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Using real-time assessments of tetramethylammonium diffusion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "neuro-e01-es",
+   "translationKey": "neuro-e01",
+   "language": "es",
+   "category": "neuroscience",
+   "difficulty": "expert",
+   "prompt": "¿La difusión de qué trazador midieron Xie et al. (2013) en tiempo real para evaluar el espacio intersticial cerebral?",
+   "options": [
+    "Tetrametilamonio",
+    "Glucosa",
+    "Fluoruro de sodio",
+    "Gadolinio"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "Las mediciones en tiempo real de la difusión de tetrametilamonio, junto con imagen de dos fotones en ratones vivos, mostraron que el espacio intersticial se expande durante el sueño.",
+   "shortExplanation": "Tetrametilamonio.",
+   "pmid": "24136970",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "Using real-time assessments of tetramethylammonium diffusion",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-e01-en",
+   "translationKey": "physio-e01",
+   "language": "en",
+   "category": "humanPhysiology",
+   "difficulty": "expert",
+   "prompt": "In Cypess et al. (2009), a PET-CT depot counted as brown fat if its maximal ¹⁸F-FDG standardized uptake value was at least…",
+   "options": [
+    "0.5 g/mL",
+    "2.0 g/mL",
+    "5.0 g/mL",
+    "10 g/mL"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Depots had to be over 4 mm, have adipose density on CT and an SUVmax of at least 2.0 g/mL, indicating high metabolic activity.",
+   "shortExplanation": "SUVmax ≥ 2.0 g/mL.",
+   "pmid": "19357406",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "maximal standardized uptake values of (18)F-FDG of at least 2.0 g per milliliter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "physio-e01-es",
+   "translationKey": "physio-e01",
+   "language": "es",
+   "category": "humanPhysiology",
+   "difficulty": "expert",
+   "prompt": "En Cypess et al. (2009), un depósito en PET-TC contaba como grasa parda si su SUV máximo de ¹⁸F-FDG era de al menos…",
+   "options": [
+    "0,5 g/mL",
+    "2,0 g/mL",
+    "5,0 g/mL",
+    "10 g/mL"
+   ],
+   "correctOptionIndex": 1,
+   "explanation": "Los depósitos debían superar 4 mm, tener densidad de tejido adiposo en la TC y un SUVmáx de al menos 2,0 g/mL, señal de alta actividad metabólica.",
+   "shortExplanation": "SUVmáx ≥ 2,0 g/mL.",
+   "pmid": "19357406",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "maximal standardized uptake values of (18)F-FDG of at least 2.0 g per milliliter",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-e01-en",
+   "translationKey": "medicine-e01",
+   "language": "en",
+   "category": "medicine",
+   "difficulty": "expert",
+   "prompt": "How was the RECOVERY dexamethasone comparison designed?",
+   "options": [
+    "Controlled, open-label, randomized",
+    "Double-blind, placebo-controlled",
+    "Observational cohort",
+    "Single-arm, no control group"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "RECOVERY was a controlled, open-label platform trial: patients were randomly assigned to dexamethasone or usual care, without a placebo.",
+   "shortExplanation": "Controlled, open-label, randomized.",
+   "pmid": "32678530",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "In this controlled, open-label trial comparing a range of possible treatments in patients who were hospitalized with Covid-19",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "medicine-e01-es",
+   "translationKey": "medicine-e01",
+   "language": "es",
+   "category": "medicine",
+   "difficulty": "expert",
+   "prompt": "¿Cómo se diseñó la comparación con dexametasona en RECOVERY?",
+   "options": [
+    "Controlado, abierto y aleatorizado",
+    "Doble ciego con placebo",
+    "Cohorte observacional",
+    "Un solo brazo, sin grupo control"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "RECOVERY fue un ensayo plataforma controlado y abierto: los pacientes se asignaron al azar a dexametasona o a tratamiento habitual, sin placebo.",
+   "shortExplanation": "Controlado, abierto y aleatorizado.",
+   "pmid": "32678530",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "In this controlled, open-label trial comparing a range of possible treatments in patients who were hospitalized with Covid-19",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-e01-en",
+   "translationKey": "biotech-e01",
+   "language": "en",
+   "category": "biotechnology",
+   "difficulty": "expert",
+   "prompt": "In prime editing, the impaired Cas9 is fused to which enzyme?",
+   "options": [
+    "DNA ligase",
+    "Cytidine deaminase",
+    "Engineered reverse transcriptase",
+    "RNA polymerase"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "A catalytically impaired Cas9 fused to an engineered reverse transcriptase writes the edit encoded in the pegRNA. Deaminases are used in base editing instead.",
+   "shortExplanation": "An engineered reverse transcriptase.",
+   "pmid": "31634902",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "a catalytically impaired Cas9 endonuclease fused to an engineered reverse transcriptase",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "biotech-e01-es",
+   "translationKey": "biotech-e01",
+   "language": "es",
+   "category": "biotechnology",
+   "difficulty": "expert",
+   "prompt": "En la edición prime, la Cas9 inactivada parcialmente se fusiona con ¿qué enzima?",
+   "options": [
+    "ADN ligasa",
+    "Citidina desaminasa",
+    "Transcriptasa inversa modificada",
+    "ARN polimerasa"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Una Cas9 con actividad catalítica reducida, fusionada con una transcriptasa inversa modificada, escribe la edición codificada en el pegRNA. Las desaminasas se usan en cambio en la edición de bases.",
+   "shortExplanation": "Una transcriptasa inversa modificada.",
+   "pmid": "31634902",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "a catalytically impaired Cas9 endonuclease fused to an engineered reverse transcriptase",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-e01-en",
+   "translationKey": "nutrition-e01",
+   "language": "en",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "DASH-Sodium: compared with the high-sodium control diet, how much lower was systolic pressure on low-sodium DASH in people with hypertension?",
+   "options": [
+    "2.1 mm Hg",
+    "4.6 mm Hg",
+    "7.1 mm Hg",
+    "11.5 mm Hg"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "Low-sodium DASH lowered systolic pressure by 11.5 mm Hg in participants with hypertension and by 7.1 mm Hg in those without it, versus the high-sodium control diet.",
+   "shortExplanation": "11.5 mm Hg.",
+   "pmid": "11136953",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "and 11.5 mm Hg lower in participants with hypertension",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "nutrition-e01-es",
+   "translationKey": "nutrition-e01",
+   "language": "es",
+   "category": "nutrition",
+   "difficulty": "expert",
+   "prompt": "DASH-Sodium: frente a la dieta control alta en sodio, ¿cuánto más baja fue la presión sistólica con DASH baja en sodio en personas con hipertensión?",
+   "options": [
+    "2,1 mm Hg",
+    "4,6 mm Hg",
+    "7,1 mm Hg",
+    "11,5 mm Hg"
+   ],
+   "correctOptionIndex": 3,
+   "explanation": "La dieta DASH baja en sodio redujo la presión sistólica 11,5 mm Hg en participantes con hipertensión y 7,1 mm Hg en los que no la tenían, frente a la dieta control alta en sodio.",
+   "shortExplanation": "11,5 mm Hg.",
+   "pmid": "11136953",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "and 11.5 mm Hg lower in participants with hypertension",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-e01-en",
+   "translationKey": "vet-e01",
+   "language": "en",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "Which host gene does this CWD review highlight as shaping chronic wasting disease in cervids?",
+   "options": [
+    "PRNP",
+    "BRCA1",
+    "CFTR",
+    "APOE"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "PRNP encodes the prion protein. Its variation in cervids, together with prion strain diversity and environmental persistence, complicates CWD control.",
+   "shortExplanation": "PRNP.",
+   "pmid": "34488900",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "cervid PRNP genetics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "vet-e01-es",
+   "translationKey": "vet-e01",
+   "language": "es",
+   "category": "veterinaryScience",
+   "difficulty": "expert",
+   "prompt": "¿Qué gen del hospedador destaca esta revisión como determinante en la caquexia crónica de los cérvidos?",
+   "options": [
+    "PRNP",
+    "BRCA1",
+    "CFTR",
+    "APOE"
+   ],
+   "correctOptionIndex": 0,
+   "explanation": "PRNP codifica la proteína priónica. Su variación en los cérvidos, junto con la diversidad de cepas de priones y su persistencia ambiental, dificulta el control de la enfermedad.",
+   "shortExplanation": "PRNP.",
+   "pmid": "34488900",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "cervid PRNP genetics",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-e01-en",
+   "translationKey": "general-e01",
+   "language": "en",
+   "category": "generalScience",
+   "difficulty": "expert",
+   "prompt": "Reproducibility Project: assuming no bias in the originals, what share of effects stayed significant after combining original and replication data?",
+   "options": [
+    "36%",
+    "47%",
+    "68%",
+    "97%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Combining both datasets left 68% of effects significant, versus 36% significant replications alone and 97% of original studies.",
+   "shortExplanation": "68%.",
+   "pmid": "26315443",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "combining original and replication results left 68% with statistically significant effects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
+   }
+  },
+  {
+   "id": "general-e01-es",
+   "translationKey": "general-e01",
+   "language": "es",
+   "category": "generalScience",
+   "difficulty": "expert",
+   "prompt": "Proyecto de reproducibilidad: suponiendo que los originales no tenían sesgo, ¿qué proporción de efectos siguió siendo significativa al combinar datos originales y de réplica?",
+   "options": [
+    "36%",
+    "47%",
+    "68%",
+    "97%"
+   ],
+   "correctOptionIndex": 2,
+   "explanation": "Al combinar ambos conjuntos, el 68% de los efectos siguió siendo significativo, frente al 36% de réplicas significativas por sí solas y el 97% de los estudios originales.",
+   "shortExplanation": "68%.",
+   "pmid": "26315443",
+   "verification": {
+    "status": "verified",
+    "method": "editorialReview",
+    "supportingExcerpt": "combining original and replication results left 68% with statistically significant effects",
+    "reviewedAt": "2026-10-13T00:00:00Z"
    }
   }
  ]

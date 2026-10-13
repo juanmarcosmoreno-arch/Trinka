@@ -16,6 +16,7 @@ struct HomeView: View {
                 VStack(alignment: .leading, spacing: Theme.Spacing.xl) {
                     header
                     DailyChallengeCard()
+                    LevelCard()
                     stats
                     quickPlay
                     categories
@@ -78,7 +79,7 @@ struct HomeView: View {
             LazyVGrid(columns: columns, spacing: Theme.Spacing.m) {
                 ForEach(ScienceCategory.allCases) { category in
                     Button {
-                        model.startCustomQuiz(category: category, difficulty: model.store.settings.preferredDifficulty, count: 3)
+                        model.startCustomQuiz(category: category, difficulty: model.level, count: 3, fillWithNearestLevels: true)
                     } label: {
                         HStack(spacing: Theme.Spacing.s) {
                             CategoryIcon(category, size: 32)
@@ -96,6 +97,27 @@ struct HomeView: View {
                 }
             }
         }
+    }
+}
+
+/// "Your level": Basic → Expert. Changes today's challenge and quick play.
+private struct LevelCard: View {
+    @Environment(AppModel.self) private var model
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: Theme.Spacing.m) {
+            HStack {
+                Text(L10n.tr("home.level"))
+                    .font(.trinkaHeadline())
+                    .foregroundStyle(Theme.textPrimary)
+                Spacer()
+                Text(model.level.map(L10n.name(of:)) ?? L10n.tr("difficulty.mixed"))
+                    .font(.subheadline.weight(.semibold))
+                    .foregroundStyle(Theme.accent)
+            }
+            LevelPicker(selection: Binding(get: { model.level }, set: { model.setLevel($0) }), allowsMixed: true)
+        }
+        .trinkaCard()
     }
 }
 

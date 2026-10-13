@@ -80,6 +80,13 @@ private struct WatchSettingsView: View {
     var body: some View {
         let settings = model.store.settings
         List {
+            Picker(L10n.tr("home.level"), selection: Binding(
+                get: { settings.preferredDifficulty },
+                set: { model.setLevel($0) }
+            )) {
+                Text(L10n.tr("difficulty.mixed")).tag(Difficulty?.none)
+                ForEach(Difficulty.allCases) { Text(L10n.name(of: $0)).tag(Difficulty?.some($0)) }
+            }
             Toggle(L10n.tr("settings.timer"), isOn: Binding(
                 get: { settings.timerEnabled },
                 set: { model.setTimer(enabled: $0) }

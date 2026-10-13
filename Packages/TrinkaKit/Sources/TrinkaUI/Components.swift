@@ -118,7 +118,7 @@ public struct CategoryChip: View {
     }
 }
 
-/// Difficulty indicator: 1–3 filled dots plus the level name.
+/// Difficulty indicator: 1–5 filled dots plus the level name.
 public struct DifficultyBadge: View {
     let difficulty: Difficulty
 
@@ -128,7 +128,7 @@ public struct DifficultyBadge: View {
 
     public var body: some View {
         HStack(spacing: 4) {
-            ForEach(1...3, id: \.self) { level in
+            ForEach(1...Difficulty.allCases.count, id: \.self) { level in
                 Circle()
                     .fill(level <= difficulty.level ? Theme.accent : Theme.separator)
                     .frame(width: 6, height: 6)

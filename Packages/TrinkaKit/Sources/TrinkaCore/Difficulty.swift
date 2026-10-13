@@ -1,26 +1,37 @@
 import Foundation
 
-/// Question difficulty levels.
+/// Question difficulty levels, from very basic to expert.
 ///
+/// - `beginner`: core concepts anyone can answer (what a study was about).
 /// - `curious`: general scientific knowledge.
-/// - `explorer`: intermediate knowledge.
+/// - `explorer`: intermediate knowledge; key results of a study.
 /// - `researcher`: advanced questions about results and methodology.
+/// - `expert`: specialist detail — exact figures, methods and mechanisms.
 public enum Difficulty: String, CaseIterable, Codable, Hashable, Identifiable, Comparable, Sendable {
+    case beginner
     case curious
     case explorer
     case researcher
+    case expert
 
     public var id: String { rawValue }
 
     public var localizationKey: String { "difficulty.\(rawValue)" }
 
-    /// Ordinal used for ordering and for the XP multiplier.
+    /// 1 (beginner) … 5 (expert). Used for ordering and the XP multiplier.
     public var level: Int {
         switch self {
-        case .curious: 1
-        case .explorer: 2
-        case .researcher: 3
+        case .beginner: 1
+        case .curious: 2
+        case .explorer: 3
+        case .researcher: 4
+        case .expert: 5
         }
+    }
+
+    public init?(level: Int) {
+        guard let match = Difficulty.allCases.first(where: { $0.level == level }) else { return nil }
+        self = match
     }
 
     public static func < (lhs: Difficulty, rhs: Difficulty) -> Bool { lhs.level < rhs.level }

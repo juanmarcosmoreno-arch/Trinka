@@ -40,7 +40,8 @@ cd Packages/TrinkaKit && swift test
 |---|---|---|
 | Daily challenge (5 questions, same for everyone each day, offline) | ✓ | ✓ (Quick Quiz) |
 | Answer → verdict → explanation → small bibliographic reference → source | ✓ | ✓ (short) |
-| Explore: discipline, difficulty (Curious / Explorer / Researcher), length | ✓ | |
+| 5 levels — Basic, Curious, Explorer, Researcher, Expert — chosen on Home; daily challenge adapts | ✓ | ✓ |
+| Explore: discipline, level (or mixed), length | ✓ | |
 | Discover: live PubMed search (discipline, topic, date, publication type), offline cache | ✓ | |
 | Single study vs. evidence synthesis labels | ✓ | |
 | Progress: answered, accuracy, streaks, favorites, 14-day chart, achievements | ✓ | streak, today's score |
@@ -73,18 +74,23 @@ dependencies. No third-party dependencies.
 - A question is playable only if `QuestionValidator` passes: four distinct options, one correct
   answer, an explanation, a valid PMID, status `verified`, and a **supporting excerpt that
   appears verbatim in the article's title/abstract**.
-- The bundled bank (`TrinkaQuiz/Resources/SeedQuestions.json`) has 30 questions × 2 languages,
-  one per article, from 30 real PubMed records fetched with E-utilities (3 per discipline).
-  Each question stores the excerpt that supports its answer; the test suite re-checks all of them.
-  Have a domain expert review them before a public release.
+- The bundled bank (`TrinkaQuiz/Resources/SeedQuestions.json`) has 70 questions × 2 languages
+  (Basic 30, Curious 8, Explorer 14, Researcher 7, Expert 11) about 30 real PubMed records fetched
+  with E-utilities (3 per discipline). Each question stores the excerpt that supports its answer;
+  the build script and the test suite re-check all of them. Have a domain expert review them
+  before a public release.
+- To add or edit questions: change `Scripts/seed/questions_*.py`, run
+  `python3 Scripts/seed/build_seed.py` (fetches any new article from PubMed and rejects
+  unsupported excerpts), then bump `SeedQuestionBank.version`.
 - AI generation is prepared, not enabled: `RemoteQuestionService` calls TRINKA's own backend
   (see `Backend/README.md`) — no AI keys in the apps. Drafts go through
   `QuestionVerificationPipeline`; survivors are only `needsReview` until a person approves them.
 
 ### Daily challenge and sync
 
-`QuestionSelector.dailyChallenge` is seeded by the date, so iPhone and Watch build the same
-challenge offline. The iPhone also sends today's pack and recent sessions to the watch via
+`QuestionSelector.dailyChallenge` is seeded by the date and the player's level, so iPhone and
+Watch build the same challenge offline. Questions at the chosen level come first; when a level
+has too few, the nearest levels fill in (one step easier before one step harder). The iPhone also sends today's pack and recent sessions to the watch via
 `updateApplicationContext`; finished sessions travel both ways with `transferUserInfo`
 (queued, guaranteed) and are de-duplicated by ID.
 
